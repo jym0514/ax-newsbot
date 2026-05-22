@@ -14,7 +14,7 @@ settings:
 
   # --- 발송 후 채워야 하는 값들 (README 셋업 참고) ---
   # GitHub Pages 주소. 형식: https://<github-사용자명>.github.io/<저장소명>
-  archive_base_url: "https://CHANGE-ME.github.io/ax-newsbot"
+  archive_base_url: "https://jym0514.github.io/ax-newsbot"
   # 팀원 개선의견 수집용 Google Form '보내기 > 링크' 주소
   feedback_form_url: "https://docs.google.com/forms/d/e/CHANGE-ME/viewform"
 
