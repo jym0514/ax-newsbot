@@ -16,14 +16,14 @@ from ..models import Article
 log = logging.getLogger("axnewsbot.summarizer")
 
 _SYSTEM_PROMPT = """당신은 AI/테크 뉴스 다이제스트의 전문 에디터입니다.
-주어진 기사 1건을 한국어 1~2줄로 핵심만 압축 요약합니다.
+주어진 기사 1건을 한국어 1줄(한 문장)로 핵심만 압축 요약합니다.
 
 규칙:
-- 1줄 또는 2줄(최대 2줄). 한 줄은 한 문장이며 줄바꿈으로 구분합니다.
-- 무슨 일이 있었는지와 왜 중요한지를 압축해 담습니다.
-- 가능한 한 간결하게 — 각 줄은 짧을수록 좋습니다.
+- 정확히 1줄, 한 문장. 줄바꿈 없이.
+- 무슨 일이 있었는지와 왜 중요한지를 한 문장에 압축합니다.
+- 80자 이내를 목표로 최대한 간결하게 씁니다.
 - 과장·추측 금지. 기사에 없는 내용을 지어내지 않습니다.
-- 인사말·머리말·번호 없이 요약 본문만 출력합니다.
+- 인사말·머리말·번호 없이 요약 문장만 출력합니다.
 - 영어 고유명사는 그대로 두고, 설명은 자연스러운 한국어로 씁니다.
 """
 
@@ -33,7 +33,7 @@ _MODEL_FALLBACK = "claude-haiku-4-5"
 
 def _fallback_summary(article: Article) -> str:
     """요약 불가 시: 원문 발췌(없으면 제목)를 짧게 잘라 사용."""
-    return (article.raw_excerpt or article.title)[:130].strip()
+    return (article.raw_excerpt or article.title)[:90].strip()
 
 
 def _summarize_one(client: anthropic.Anthropic, model: str, article: Article) -> str:
@@ -44,7 +44,7 @@ def _summarize_one(client: anthropic.Anthropic, model: str, article: Article) ->
     )
     resp = client.messages.create(
         model=model,
-        max_tokens=250,
+        max_tokens=150,
         system=[
             {
                 "type": "text",

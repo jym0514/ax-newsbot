@@ -19,7 +19,7 @@ from ..models import Article
 log = logging.getLogger("axnewsbot.telegram")
 
 _API = "https://api.telegram.org/bot{token}/sendMessage"
-_LIMIT = 3800            # 4096 한계 - 이모지(UTF-16) 여유분
+_LIMIT = 4000            # 4096 한계 - 이모지(UTF-16) 여유분
 _DIVIDER = "━━━━━━━━━━━━━━━━"
 _TITLE = "📰 <b>AX 전략실 오늘의 뉴스</b>"
 
@@ -30,7 +30,7 @@ def _esc(s: str) -> str:
 
 def _article_block(article: Article, index: int) -> str:
     lines = [ln.strip() for ln in (article.summary or "").splitlines() if ln.strip()]
-    summary = "\n".join(lines) if lines else (article.raw_excerpt or "")[:130]
+    summary = "\n".join(lines) if lines else (article.raw_excerpt or "")[:90]
     return (
         f'{index}. <a href="{_esc(article.url)}">{_esc(article.title)}</a>\n'
         f"{_esc(summary)}\n"
