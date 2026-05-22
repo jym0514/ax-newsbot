@@ -2,8 +2,8 @@ name: Daily AX News Digest
 
 on:
   schedule:
-    # 00:00 UTC = 09:00 KST. GitHub cron 은 수 분~십수 분 지연될 수 있다.
-    - cron: "0 0 * * *"
+    # 00:00 UTC = 09:00 KST. 월~금만 실행(주말 제외). 공휴일은 main.py 가 거른다.
+    - cron: "0 0 * * 1-5"
   workflow_dispatch: {}
 
 permissions:

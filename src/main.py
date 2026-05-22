@@ -9,6 +9,7 @@ X·Anthropic·일부 소스가 없어도 다이제스트는 발송된다.
 from __future__ import annotations
 
 import argparse
+import datetime as _dt
 import logging
 import os
 import sys
@@ -24,6 +25,25 @@ from .state import State, save_day
 from .util import local_today
 
 log = logging.getLogger("axnewsbot")
+
+try:
+    import holidays as _holidays_lib
+
+    _KR_HOLIDAYS = _holidays_lib.SouthKorea()
+except Exception:  # noqa: BLE001 — 라이브러리 미설치 시 주말만 거른다
+    _KR_HOLIDAYS = {}
+
+
+def _is_business_day(date_str: str) -> bool:
+    """한국 기준 영업일 여부 — 토·일과 공휴일이면 False."""
+    try:
+        y, m, d = (int(x) for x in date_str.split("-"))
+        day = _dt.date(y, m, d)
+    except Exception:  # noqa: BLE001
+        return True
+    if day.weekday() >= 5:  # 5=토, 6=일
+        return False
+    return day not in _KR_HOLIDAYS
 
 
 def _setup_logging() -> None:
@@ -48,6 +68,11 @@ def _github_summary(lines: list[str]) -> None:
 
 def run(config: Config, dry_run: bool, run_date: str, force: bool) -> int:
     log.info("=== AX 뉴스봇 시작 — %s (dry_run=%s) ===", run_date, dry_run)
+
+    if not dry_run and not force and not _is_business_day(run_date):
+        log.info("%s 은 주말 또는 공휴일(한국 기준) — 다이제스트 발송 생략", run_date)
+        return 0
+
     state = State()
 
     if state.already_sent(run_date) and not dry_run and not force:

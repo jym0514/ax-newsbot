@@ -11,6 +11,7 @@ from __future__ import annotations
 import html
 import logging
 import time
+from collections import Counter
 
 import httpx
 
@@ -33,6 +34,20 @@ def _u16len(s: str) -> int:
     return len(s.encode("utf-16-le")) // 2
 
 
+def _hashtags(articles: list[Article], limit: int = 10) -> str:
+    """기사들에서 가장 많이 매칭된 키워드를 해시태그 문자열로 만든다."""
+    counter: Counter = Counter()
+    for a in articles:
+        for kw in a.matched_keywords:
+            counter[kw] += 1
+    tags = []
+    for kw, _ in counter.most_common(limit):
+        token = kw.replace(" ", "").replace("-", "")
+        token = "".join(c.upper() if c.isascii() else c for c in token)
+        tags.append(f"#{token}")
+    return " ".join(tags)
+
+
 def _article_block(article: Article, index: int) -> str:
     lines = [ln.strip() for ln in (article.summary or "").splitlines() if ln.strip()]
     summary = "\n".join(lines) if lines else (article.raw_excerpt or "")[:90]
@@ -47,10 +62,13 @@ def build_messages(
     articles: list[Article], date_str: str, archive_url: str
 ) -> list[str]:
     """다이제스트를 카테고리별로 그룹핑한 '단일' 메시지로 빌드(리스트 길이 1)."""
-    header = f"{_TITLE}\n🗓️ {_esc(date_str)} · 총 {len(articles)}건"
-    footer = (
-        f'📊 <a href="{_esc(archive_url)}">전체 기사·썸네일 보기 → 오늘의 아카이브</a>'
-    )
+    head_lines = [_TITLE, f"🗓️ {_esc(date_str)} · 총 {len(articles)}건"]
+    tags = _hashtags(articles)
+    if tags:
+        head_lines.append(_esc(tags))
+    head_lines.append(_DIVIDER)
+    header = "\n".join(head_lines)
+    footer = f'📊 <a href="{_esc(archive_url)}">오늘의 뉴스 전체보기</a>'
 
     if not articles:
         return [f"{header}\n\n오늘은 조건에 맞는 기사를 찾지 못했습니다.\n\n{footer}"]

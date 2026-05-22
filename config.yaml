@@ -128,6 +128,32 @@ topics:
       - "혁신 기술"
       - "차세대"
 
+  - key: ai_startups
+    label: "🚀 스타트업 AI 활용 동향"
+    priority: 6
+    keywords:
+      - "스타트업"
+      - "startup"
+      - "벤처"
+      - "유니콘"
+      - "unicorn"
+      - "시드 투자"
+      - "시리즈 a"
+      - "시리즈 b"
+      - "시리즈 c"
+      - "투자 유치"
+      - "투자유치"
+      - "펀딩"
+      - "funding"
+      - "seed round"
+      - "series a"
+      - "벤처캐피탈"
+      - "액셀러레이터"
+      - "와이콤비네이터"
+      - "ycombinator"
+      - "창업"
+      - "스케일업"
+
   - key: ai_ax_trends
     label: "🌐 국내외 AI/AX 최신 동향"
     priority: 9
