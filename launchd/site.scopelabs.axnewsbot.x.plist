@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  X 수집기를 매일 08:35(Mac 로컬 시간)에 실행하는 launchd 작업.
+
+  설치:
+    1) 경로 확인 — 아래 /Users/yoonmi/ax-newsbot 이 실제 클론 위치와 같아야 함.
+       다르면 ProgramArguments / *Path / WorkingDirectory 를 모두 수정.
+    2) cp launchd/site.scopelabs.axnewsbot.x.plist ~/Library/LaunchAgents/
+    3) launchctl load ~/Library/LaunchAgents/site.scopelabs.axnewsbot.x.plist
+    4) (테스트) launchctl start site.scopelabs.axnewsbot.x
+
+  해제: launchctl unload ~/Library/LaunchAgents/site.scopelabs.axnewsbot.x.plist
+
+  Mac 이 08:35 에 꺼져/잠들어 있으면 실행되지 않으며(깨어날 때 한 번 보충 실행될 수 있음),
+  그날 09:00 클라우드 다이제스트는 X 없이 다른 소스로 정상 발송된다.
+-->
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>site.scopelabs.axnewsbot.x</string>
+
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/bash</string>
+    <string>/Users/yoonmi/ax-newsbot/scripts/run_x_collector.sh</string>
+  </array>
+
+  <key>WorkingDirectory</key>
+  <string>/Users/yoonmi/ax-newsbot</string>
+
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Hour</key>
+    <integer>8</integer>
+    <key>Minute</key>
+    <integer>35</integer>
+  </dict>
+
+  <key>StandardOutPath</key>
+  <string>/Users/yoonmi/ax-newsbot/logs/launchd.out.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/yoonmi/ax-newsbot/logs/launchd.err.log</string>
+
+  <key>RunAtLoad</key>
+  <false/>
+</dict>
+</plist>

@@ -1,0 +1,87 @@
+name: Daily AX News Digest
+
+on:
+  schedule:
+    # 00:00 UTC = 09:00 KST. GitHub cron 은 수 분~십수 분 지연될 수 있다.
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write   # data/, state/ 커밋용
+  pages: write      # GitHub Pages 배포용
+  id-token: write   # Pages 배포 인증용
+
+concurrency:
+  group: ax-newsbot-daily
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run digest
+        id: digest
+        continue-on-error: true   # 발송 실패해도 데이터 커밋 + Pages 배포는 진행
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python -m src.main
+
+      - name: Commit data & state
+        if: always()
+        run: |
+          git config user.name "ax-newsbot"
+          git config user.email "ax-newsbot@users.noreply.github.com"
+          git add data state
+          if git diff --cached --quiet; then
+            echo "커밋할 변경 없음"
+          else
+            git commit -m "chore: 다이제스트 데이터 $(date -u +%F) [skip ci]"
+            git pull --rebase --autostash
+            git push
+          fi
+
+      - name: Ensure site directory exists
+        if: always()
+        run: mkdir -p site
+
+      - name: Setup Pages
+        if: always()
+        uses: actions/configure-pages@v5
+
+      - name: Upload site artifact
+        if: always()
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: Fail run if digest errored
+        if: always() && steps.digest.outcome == 'failure'
+        run: |
+          echo "::error::다이제스트 단계 실패 — 로그와 Job Summary 를 확인하세요."
+          exit 1
+
+  deploy:
+    needs: digest
+    if: always()
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

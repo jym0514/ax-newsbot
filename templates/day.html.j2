@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AX 뉴스 다이제스트 · {{ date }}</title>
+<style>
+  :root { --bg:#f4f5f7; --card:#fff; --ink:#15233b; --muted:#5b6b85;
+          --accent:#2563eb; --line:#e3e7ee; --navy:#0f1b2d; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink);
+         font-family:'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',system-ui,sans-serif;
+         line-height:1.6; }
+  a { color:inherit; }
+  header { background:var(--navy); color:#fff; padding:28px 20px 20px; }
+  header .wrap { max-width:1180px; margin:0 auto; }
+  header h1 { margin:0; font-size:22px; letter-spacing:-.02em; }
+  header .sub { margin-top:6px; color:#9fb0cc; font-size:14px; }
+  nav.dates { background:var(--navy); padding:0 20px 18px; }
+  nav.dates .wrap { max-width:1180px; margin:0 auto; display:flex; gap:8px;
+                    overflow-x:auto; padding-bottom:4px; }
+  nav.dates a { flex:none; padding:5px 11px; border-radius:999px; font-size:13px;
+                text-decoration:none; background:#1d2c44; color:#aebbd2; }
+  nav.dates a.on { background:var(--accent); color:#fff; font-weight:600; }
+  nav.dates a.home { background:transparent; border:1px solid #34425f; }
+  main { max-width:1180px; margin:0 auto; padding:30px 20px 10px; }
+  section.topic { margin-bottom:34px; }
+  section.topic > h2 { font-size:17px; margin:0 0 14px;
+                       padding-bottom:8px; border-bottom:2px solid var(--line); }
+  .grid { display:grid; gap:16px;
+          grid-template-columns:repeat(auto-fill,minmax(290px,1fr)); }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:12px;
+          overflow:hidden; display:flex; flex-direction:column;
+          transition:box-shadow .15s,transform .15s; }
+  .card:hover { box-shadow:0 8px 24px rgba(15,27,45,.12); transform:translateY(-2px); }
+  .thumb { display:block; aspect-ratio:16/9; background:
+           linear-gradient(135deg,#dfe5ef,#c6d0e2); overflow:hidden; }
+  .thumb img { width:100%; height:100%; object-fit:cover; display:block; }
+  .body { padding:14px 16px 16px; display:flex; flex-direction:column; gap:8px; flex:1; }
+  .title { font-weight:700; font-size:15px; text-decoration:none;
+           letter-spacing:-.01em; color:var(--ink); }
+  .title:hover { color:var(--accent); }
+  .summary { margin:0; font-size:13.5px; color:#374863; white-space:pre-line; flex:1; }
+  .meta { font-size:12px; color:var(--muted); display:flex; gap:8px; align-items:center;
+          margin-top:4px; }
+  .src { background:#eef1f6; padding:2px 8px; border-radius:6px; }
+  .read { margin-left:auto; color:var(--accent); text-decoration:none; font-weight:600; }
+  section.feedback { max-width:1180px; margin:10px auto 0; padding:24px 20px 0; }
+  .fb-card { background:var(--card); border:1px solid var(--line); border-radius:12px;
+             padding:22px; }
+  .fb-card h2 { margin:0 0 6px; font-size:17px; }
+  .fb-card p { margin:0 0 14px; color:var(--muted); font-size:14px; }
+  .fb-btn { display:inline-block; background:var(--accent); color:#fff;
+            text-decoration:none; padding:9px 18px; border-radius:8px; font-weight:600;
+            font-size:14px; }
+  .fb-embed { margin-top:16px; width:100%; height:680px; border:1px solid var(--line);
+              border-radius:8px; }
+  footer { max-width:1180px; margin:30px auto; padding:20px; color:var(--muted);
+           font-size:12.5px; text-align:center; }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <h1>📰 AX 뉴스 다이제스트</h1>
+    <div class="sub">{{ date }} · 오늘 수신한 기사 {{ count }}건 · AI / AX / Agent 트렌드</div>
+  </div>
+</header>
+<nav class="dates">
+  <div class="wrap">
+    <a class="home" href="index.html">전체 ▾</a>
+    {% for d in all_dates %}
+      <a href="{{ d }}.html" class="{{ 'on' if d == date else '' }}">{{ d }}</a>
+    {% endfor %}
+  </div>
+</nav>
+
+<main>
+  {% for g in groups %}
+  <section class="topic">
+    <h2>{{ g.label }} <span style="color:var(--muted);font-weight:500;">{{ g.articles|length }}</span></h2>
+    <div class="grid">
+      {% for a in g.articles %}
+      <article class="card">
+        <a class="thumb" href="{{ a.url }}" target="_blank" rel="noopener">
+          {% if a.thumbnail %}<img src="{{ a.thumbnail }}" loading="lazy" alt=""
+               onerror="this.remove()">{% endif %}
+        </a>
+        <div class="body">
+          <a class="title" href="{{ a.url }}" target="_blank" rel="noopener">{{ a.title }}</a>
+          <p class="summary">{{ a.summary or a.raw_excerpt }}</p>
+          <div class="meta">
+            <span class="src">{{ a.source }}</span>
+            <a class="read" href="{{ a.url }}" target="_blank" rel="noopener">원문 →</a>
+          </div>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </section>
+  {% else %}
+  <p style="color:var(--muted);">이 날짜에는 수집된 기사가 없습니다.</p>
+  {% endfor %}
+</main>
+
+<section class="feedback">
+  <div class="fb-card">
+    <h2>💬 이 뉴스봇, 어떻게 개선하면 좋을까요?</h2>
+    {% if feedback_ready %}
+    <p>주제·소스·요약 형식 등 개선 아이디어를 자유롭게 남겨주세요. 팀의 의견이 다음 업데이트에 반영됩니다.</p>
+    <a class="fb-btn" href="{{ feedback_url }}" target="_blank" rel="noopener">의견 보내기 (새 창)</a>
+    <iframe class="fb-embed"
+            src="{{ feedback_url }}{{ '&' if '?' in feedback_url else '?' }}embedded=true"
+            title="개선 의견 폼" loading="lazy">로드 중…</iframe>
+    {% else %}
+    <p>관리자가 <code>config.yaml</code> 의 <code>feedback_form_url</code> 에 Google Form 주소를
+       입력하면 여기에 의견 수집 폼이 표시됩니다.</p>
+    {% endif %}
+  </div>
+</section>
+
+<footer>
+  AX 뉴스봇 · 매일 오전 9시 자동 발행 · 데이터 출처는 각 기사 원문 매체에 있습니다.
+</footer>
+</body>
+</html>

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AX 뉴스 다이제스트 · 아카이브</title>
+<style>
+  :root { --bg:#f4f5f7; --card:#fff; --ink:#15233b; --muted:#5b6b85;
+          --accent:#2563eb; --line:#e3e7ee; --navy:#0f1b2d; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink);
+         font-family:'Apple SD Gothic Neo','Malgun Gothic','Noto Sans KR',system-ui,sans-serif;
+         line-height:1.6; }
+  a { color:inherit; }
+  header { background:var(--navy); color:#fff; padding:34px 20px; }
+  header .wrap { max-width:920px; margin:0 auto; }
+  header h1 { margin:0; font-size:24px; letter-spacing:-.02em; }
+  header .sub { margin-top:8px; color:#9fb0cc; font-size:14px; }
+  main { max-width:920px; margin:0 auto; padding:30px 20px; }
+  .latest { display:block; text-decoration:none; background:var(--accent); color:#fff;
+            border-radius:14px; padding:22px 24px; margin-bottom:22px; }
+  .latest .k { font-size:13px; opacity:.85; }
+  .latest .d { font-size:22px; font-weight:800; margin-top:2px; }
+  .latest .c { font-size:14px; opacity:.9; margin-top:6px; }
+  ul.days { list-style:none; margin:0; padding:0; display:grid; gap:10px; }
+  ul.days a { display:flex; justify-content:space-between; align-items:center;
+              text-decoration:none; background:var(--card); border:1px solid var(--line);
+              border-radius:10px; padding:14px 18px; }
+  ul.days a:hover { border-color:var(--accent); }
+  ul.days .date { font-weight:700; }
+  ul.days .cnt { color:var(--muted); font-size:13px; }
+  .empty { color:var(--muted); }
+  footer { max-width:920px; margin:24px auto; padding:20px; color:var(--muted);
+           font-size:12.5px; text-align:center; }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <h1>📰 AX 뉴스 다이제스트 — 아카이브</h1>
+    <div class="sub">가장 핫한 AI/테크 트렌드, AI/AX 동향, 기업 AI 활용 사례, AI 툴·Agent 소식을
+      매일 오전 9시에 정리합니다.</div>
+  </div>
+</header>
+<main>
+  {% if days %}
+    {% set top = days[0] %}
+    <a class="latest" href="{{ top.date }}.html">
+      <div class="k">최신 다이제스트</div>
+      <div class="d">{{ top.date }}</div>
+      <div class="c">기사 {{ top.count }}건 · 클릭해서 오늘의 뉴스 보기 →</div>
+    </a>
+    <ul class="days">
+      {% for d in days[1:] %}
+      <li><a href="{{ d.date }}.html">
+        <span class="date">{{ d.date }}</span>
+        <span class="cnt">기사 {{ d.count }}건</span>
+      </a></li>
+      {% endfor %}
+    </ul>
+  {% else %}
+    <p class="empty">아직 발행된 다이제스트가 없습니다. 첫 실행 후 이곳에 날짜별 아카이브가 쌓입니다.</p>
+  {% endif %}
+</main>
+<footer>AX 뉴스봇 · 자동 생성 아카이브</footer>
+</body>
+</html>

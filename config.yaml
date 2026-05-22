@@ -1,0 +1,232 @@
+# ============================================================================
+# AX 뉴스봇 설정 — 이 파일만 고치면 소스/키워드/주제를 자유롭게 바꿀 수 있다.
+# ============================================================================
+
+settings:
+  timezone: "Asia/Seoul"
+  # 기사 수집 시 "최근 N시간" 이내 발행분만 후보로 본다(여유 있게 30시간).
+  time_window_hours: 30
+  # 다이제스트에 담을 하루 최대 기사 수 / 주제별 상한
+  max_articles_total: 28
+  max_articles_per_topic: 6
+  # 기사가 다이제스트에 포함되려면 넘어야 하는 최소 점수
+  min_score: 1.0
+
+  # --- 발송 후 채워야 하는 값들 (README 셋업 참고) ---
+  # GitHub Pages 주소. 형식: https://<github-사용자명>.github.io/<저장소명>
+  archive_base_url: "https://CHANGE-ME.github.io/ax-newsbot"
+  # 팀원 개선의견 수집용 Google Form '보내기 > 링크' 주소
+  feedback_form_url: "https://docs.google.com/forms/d/e/CHANGE-ME/viewform"
+
+  # Anthropic 요약 모델 / 출력 언어
+  summary_model: "claude-haiku-4-5"
+  summary_language: "ko"
+
+# ============================================================================
+# 주제(topic) — 기사는 키워드 점수가 가장 높은 주제로 분류된다.
+# 어느 주제에도 키워드가 걸리지 않는 기사는 제외된다(키워드 = 필터 역할).
+# priority 값이 작을수록 동점 시 우선. (catch-all 인 ai_ax_trends 를 마지막에 둠)
+# ============================================================================
+topics:
+  - key: ai_agent
+    label: "🤖 AI Agent / Agentic AI"
+    priority: 1
+    keywords:
+      - "ai agent"
+      - "agentic"
+      - "agentic ai"
+      - "multi-agent"
+      - "autonomous agent"
+      - "agent workflow"
+      - "tool use"
+      - "mcp"
+      - "model context protocol"
+      - "에이전트"
+      - "에이전틱"
+      - "멀티에이전트"
+      - "자율 에이전트"
+      - "ai 에이전트"
+
+  - key: ai_tools
+    label: "🛠️ AI 툴 동향 & 활용"
+    priority: 2
+    keywords:
+      - "claude"
+      - "gemini"
+      - "codex"
+      - "genspark"
+      - "chatgpt"
+      - "gpt-5"
+      - "copilot"
+      - "github copilot"
+      - "cursor"
+      - "perplexity"
+      - "midjourney"
+      - "sora"
+      - "claude code"
+      - "코딩 어시스턴트"
+      - "ai 코딩"
+      - "프롬프트"
+      - "바이브 코딩"
+      - "vibe coding"
+      - "ai 툴"
+      - "생성형 ai 도구"
+
+  - key: ai_native
+    label: "🧬 AI Native"
+    priority: 3
+    keywords:
+      - "ai native"
+      - "ai-native"
+      - "ai 네이티브"
+      - "ai-first"
+      - "ai first"
+      - "ai 전환"
+      - "ai 우선"
+      - "reinvent"
+
+  - key: enterprise_ai
+    label: "🏢 기업의 AI 도입 & 업무 변화"
+    priority: 4
+    keywords:
+      - "enterprise ai"
+      - "ai adoption"
+      - "productivity"
+      - "workflow"
+      - "case study"
+      - "디지털 전환"
+      - "업무 자동화"
+      - "업무 혁신"
+      - "생산성"
+      - "사내"
+      - "조직"
+      - "도입 사례"
+      - "활용 사례"
+      - "현장"
+      - "rpa"
+      - "ax"
+      - "ai 도입"
+      - "일하는 방식"
+
+  - key: tech_trends
+    label: "🔥 핫 테크 트렌드"
+    priority: 5
+    keywords:
+      - "tech trend"
+      - "테크 트렌드"
+      - "기술 트렌드"
+      - "반도체"
+      - "gpu"
+      - "양자"
+      - "quantum"
+      - "로보틱스"
+      - "robotics"
+      - "휴머노이드"
+      - "humanoid"
+      - "빅테크"
+      - "스타트업"
+      - "혁신 기술"
+      - "차세대"
+
+  - key: ai_ax_trends
+    label: "🌐 국내외 AI/AX 최신 동향"
+    priority: 9
+    keywords:
+      - "ai"
+      - "artificial intelligence"
+      - "인공지능"
+      - "llm"
+      - "foundation model"
+      - "파운데이션 모델"
+      - "openai"
+      - "오픈ai"
+      - "anthropic"
+      - "앤스로픽"
+      - "google ai"
+      - "deepmind"
+      - "딥마인드"
+      - "nvidia"
+      - "엔비디아"
+      - "meta ai"
+      - "ai 규제"
+      - "ai 정책"
+      - "ai 투자"
+      - "ai 시장"
+      - "생성형 ai"
+
+# 제목/본문에 이 단어가 있으면 무조건 제외 (광고·채용·무관 주제 거르기)
+exclude_keywords:
+  - "채용공고"
+  - "구인"
+  - "광고문의"
+  - "이벤트 응모"
+  - "할인코드"
+  - "쿠폰"
+  - "운세"
+  - "부고"
+
+# ============================================================================
+# 소스 — RSS, Bluesky, X.
+# weight: 랭킹 점수에 곱해지는 소스 신뢰/관련도 가중치(0.5~1.5 권장).
+# ============================================================================
+sources:
+  # --- RSS / Substack (퍼블리케이션별 RSS) ---------------------------------
+  rss:
+    # 해외 Substack 뉴스레터
+    - { name: "One Useful Thing (Ethan Mollick)", url: "https://www.oneusefulthing.org/feed", weight: 1.3, kind: substack }
+    - { name: "Latent Space (swyx)",              url: "https://www.latent.space/feed",       weight: 1.3, kind: substack }
+    - { name: "Interconnects (Nathan Lambert)",   url: "https://www.interconnects.ai/feed",   weight: 1.2, kind: substack }
+    - { name: "Import AI (Jack Clark)",           url: "https://importai.substack.com/feed",  weight: 1.2, kind: substack }
+    - { name: "Ahead of AI (S. Raschka)",         url: "https://magazine.sebastianraschka.com/feed", weight: 1.2, kind: substack }
+    - { name: "AI Supremacy",                     url: "https://www.ai-supremacy.com/feed",   weight: 1.0, kind: substack }
+    - { name: "The Algorithmic Bridge",           url: "https://www.thealgorithmicbridge.com/feed", weight: 1.0, kind: substack }
+    - { name: "Exponential View (Azeem Azhar)",   url: "https://www.exponentialview.co/feed", weight: 1.1, kind: substack }
+    - { name: "Towards AI",                       url: "https://newsletter.towardsai.net/feed", weight: 1.0, kind: substack }
+    - { name: "Last Week in AI",                  url: "https://lastweekin.ai/feed",          weight: 1.0, kind: substack }
+    - { name: "Agentic AI Weekly (Berkeley RDI)", url: "https://berkeleyrdi.substack.com/feed", weight: 1.2, kind: substack }
+
+    # 해외 테크/AI 매체
+    - { name: "The Decoder",        url: "https://the-decoder.com/feed/", weight: 1.1, kind: rss }
+    - { name: "TechCrunch AI",      url: "https://techcrunch.com/category/artificial-intelligence/feed/", weight: 1.1, kind: rss }
+    - { name: "The Verge",          url: "https://www.theverge.com/rss/index.xml", weight: 1.0, kind: rss }
+    - { name: "VentureBeat AI",     url: "https://venturebeat.com/category/ai/feed/", weight: 1.0, kind: rss }
+    - { name: "MIT Tech Review",    url: "https://www.technologyreview.com/feed/", weight: 1.1, kind: rss }
+    - { name: "Ars Technica",       url: "https://feeds.arstechnica.com/arstechnica/index", weight: 0.9, kind: rss }
+    - { name: "Hacker News (front)",url: "https://hnrss.org/frontpage", weight: 0.8, kind: rss }
+
+    # 기업 공식 블로그
+    - { name: "OpenAI News",        url: "https://openai.com/news/rss.xml", weight: 1.3, kind: rss }
+    - { name: "Google DeepMind",    url: "https://deepmind.google/blog/rss.xml", weight: 1.2, kind: rss }
+    - { name: "Hugging Face Blog",  url: "https://huggingface.co/blog/feed.xml", weight: 1.0, kind: rss }
+
+    # 국내 AI/테크 매체
+    - { name: "AI타임스",            url: "https://www.aitimes.com/rss/allArticle.xml", weight: 1.3, kind: rss }
+    - { name: "인공지능신문",         url: "https://www.aitimes.kr/rss/allArticle.xml", weight: 1.2, kind: rss }
+    - { name: "THE AI",             url: "https://www.newstheai.com/rss/allArticle.xml", weight: 1.1, kind: rss }
+    - { name: "스마트타임스",         url: "https://www.smarttimes.co.kr/rss/allArticle.xml", weight: 0.9, kind: rss }
+    - { name: "바이라인네트워크",      url: "https://byline.network/feed/", weight: 1.1, kind: rss }
+    - { name: "GeekNews",           url: "https://news.hada.io/rss/news", weight: 1.0, kind: rss }
+    - { name: "ZDNet Korea",        url: "https://feeds.feedburner.com/zdkorea", weight: 0.9, kind: rss }
+    - { name: "전자신문 ICT",        url: "https://rss.etnews.com/Section901.xml", weight: 1.0, kind: rss }
+
+    # 국내 기업 기술블로그 (AX 사례용, 가중치 낮음)
+    - { name: "카카오 Tech",         url: "https://tech.kakao.com/feed/", weight: 0.8, kind: rss }
+    - { name: "토스 기술블로그",       url: "https://toss.tech/rss.xml", weight: 0.8, kind: rss }
+    - { name: "우아한형제들 기술블로그", url: "https://techblog.woowahan.com/feed/", weight: 0.8, kind: rss }
+
+  # --- Bluesky (X 보조; AT Protocol 공개 API, 인증 불필요) -------------------
+  # handle 은 bsky.app 프로필의 핸들(@ 제외). 잘못된 핸들은 그냥 건너뛴다.
+  # README 안내대로 실제 팔로우하는 AI 인사 핸들로 교체하면 좋다.
+  bluesky:
+    enabled: true
+    posts_per_account: 25
+    accounts:
+      - "bsky.app"          # 예시 — 실제 핸들로 교체 권장
+
+  # --- X / Twitter (Mac 로컬 수집기가 사용) ---------------------------------
+  x:
+    home_feed: true         # x.com/home 타임라인 스크롤 수집
+    scroll_rounds: 18       # 스크롤 횟수(많을수록 더 많은 트윗, 더 느림)
+    min_engagement: 5       # 좋아요+리포스트 합이 이 값 미만이면 버림
+    # 홈 피드 외에 특정 계정도 추가로 보고 싶으면 핸들을 넣는다(@ 제외)
+    accounts: []

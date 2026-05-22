@@ -1,0 +1,13 @@
+# Cloud(GitHub Actions) + Mac 공통 의존성.
+# 클라우드 다이제스트 잡은 playwright의 브라우저 바이너리가 필요 없다(RSS/API만 사용).
+# Mac의 X 수집기만 `playwright install chromium`을 추가로 실행한다.
+feedparser>=6.0.11
+httpx>=0.27
+beautifulsoup4>=4.12
+lxml>=5.2
+PyYAML>=6.0.1
+anthropic>=0.42
+Jinja2>=3.1.4
+python-dateutil>=2.9
+tzdata>=2024.1
+playwright>=1.48
