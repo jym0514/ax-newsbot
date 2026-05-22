@@ -2,8 +2,9 @@
 
 - HTML parse_mode 사용(MarkdownV2 의 광범위한 이스케이프 회피).
 - 동적 필드(제목/요약/출처)만 이스케이프하고 자체 마크업은 그대로 둔다.
-- 4096자 한계 대비 보수적으로 분할하며, 기사 경계에서만 자른다.
-- 마지막 메시지에 '오늘의 아카이브' 링크를 붙인다.
+- 카테고리(주제)별로 그룹핑하고 카테고리 사이에 구분선을 넣는다.
+- 항상 단일 메시지로 보낸다 — 4096자 한계에 맞춰 들어가는 만큼만 담고,
+  나머지는 아카이브에서 보도록 안내한다.
 """
 from __future__ import annotations
 
@@ -18,7 +19,9 @@ from ..models import Article
 log = logging.getLogger("axnewsbot.telegram")
 
 _API = "https://api.telegram.org/bot{token}/sendMessage"
-_MAX_LEN = 3800  # 4096 한계 대비 여유
+_LIMIT = 3800            # 4096 한계 - 이모지(UTF-16) 여유분
+_DIVIDER = "━━━━━━━━━━━━━━━━"
+_TITLE = "📰 <b>AX 전략실 오늘의 뉴스</b>"
 
 
 def _esc(s: str) -> str:
@@ -27,7 +30,7 @@ def _esc(s: str) -> str:
 
 def _article_block(article: Article, index: int) -> str:
     lines = [ln.strip() for ln in (article.summary or "").splitlines() if ln.strip()]
-    summary = "\n".join(lines) if lines else (article.raw_excerpt or "")[:200]
+    summary = "\n".join(lines) if lines else (article.raw_excerpt or "")[:130]
     return (
         f'{index}. <a href="{_esc(article.url)}">{_esc(article.title)}</a>\n'
         f"{_esc(summary)}\n"
@@ -38,48 +41,59 @@ def _article_block(article: Article, index: int) -> str:
 def build_messages(
     articles: list[Article], date_str: str, archive_url: str
 ) -> list[str]:
-    """다이제스트를 4096자 이하의 메시지 여러 개로 빌드."""
-    header = f"📰 <b>AX 뉴스 다이제스트</b>\n🗓️ {_esc(date_str)} · 총 {len(articles)}건"
+    """다이제스트를 카테고리별로 그룹핑한 '단일' 메시지로 빌드(리스트 길이 1)."""
+    header = f"{_TITLE}\n🗓️ {_esc(date_str)} · 총 {len(articles)}건"
     footer = (
-        f'📊 <a href="{_esc(archive_url)}">오늘의 뉴스 아카이브 보기</a>\n'
-        "썸네일·전체 기사 링크 확인 및 개선 의견 남기기 → 위 링크"
+        f'📊 <a href="{_esc(archive_url)}">전체 기사·썸네일 보기 → 오늘의 아카이브</a>'
     )
 
-    # 토픽 헤더를 각 토픽 첫 기사 앞에 붙여 '블록'을 자기완결적으로 만든다.
-    blocks: list[str] = []
-    last_topic = None
-    for idx, a in enumerate(articles, start=1):
-        prefix = ""
-        if a.topic != last_topic:
-            prefix = f"<b>{_esc(a.topic_label or a.topic)}</b>\n\n"
-            last_topic = a.topic
-        blocks.append(prefix + _article_block(a, idx))
+    if not articles:
+        return [f"{header}\n\n오늘은 조건에 맞는 기사를 찾지 못했습니다.\n\n{footer}"]
 
-    if not blocks:
-        blocks = ["오늘은 조건에 맞는 기사를 찾지 못했습니다."]
+    # 카테고리별 그룹화 — 랭크 순 첫 등장 순서로 카테고리 정렬
+    groups: list[tuple[str, list[Article]]] = []
+    bucket: dict[str, list[Article]] = {}
+    for a in articles:
+        if a.topic not in bucket:
+            bucket[a.topic] = []
+            groups.append((a.topic_label or a.topic, bucket[a.topic]))
+        bucket[a.topic].append(a)
 
-    # 그리디 패킹 — 기사 블록 경계에서만 분할.
-    chunks: list[str] = []
-    cur = header
-    for block in blocks:
-        candidate = f"{cur}\n\n{block}"
-        if len(candidate) > _MAX_LEN:
-            chunks.append(cur)
-            cur = block
-        else:
-            cur = candidate
+    parts = [header]
+    cur_len = len(header)
+    shown = 0
+    truncated = False
 
-    if len(cur) + len(footer) + 2 > _MAX_LEN:
-        chunks.append(cur)
-        cur = footer
-    else:
-        cur = f"{cur}\n\n{footer}"
-    chunks.append(cur)
-    return chunks
+    for gi, (label, items) in enumerate(groups):
+        group_open = False
+        for a in items:
+            block = _article_block(a, shown + 1)
+            if not group_open:
+                sep = f"\n\n{_DIVIDER}\n\n" if gi > 0 else "\n\n"
+                addition = f"{sep}<b>{_esc(label)}</b>\n\n{block}"
+            else:
+                addition = f"\n\n{block}"
+            # 잔여 안내 + footer 자리 확보
+            if cur_len + len(addition) + len(footer) + 70 > _LIMIT:
+                truncated = True
+                break
+            parts.append(addition)
+            cur_len += len(addition)
+            group_open = True
+            shown += 1
+        if truncated:
+            break
+
+    if shown < len(articles):
+        parts.append(
+            f"\n\n<i>… 외 {len(articles) - shown}건은 아카이브에서 확인하세요.</i>"
+        )
+    parts.append(f"\n\n{footer}")
+    return ["".join(parts)]
 
 
 def send(messages: list[str], token: str, chat_id: str) -> int:
-    """메시지들을 순차 발송. 발송 성공 건수 반환. 429 는 retry_after 준수."""
+    """메시지를 발송. 발송 성공 건수 반환. 429 는 retry_after 준수."""
     url = _API.format(token=token)
     sent = 0
     with httpx.Client(timeout=30) as client:
@@ -109,5 +123,5 @@ def send(messages: list[str], token: str, chat_id: str) -> int:
                     continue
                 log.error("텔레그램 발송 실패(%s): %s", resp.status_code, resp.text[:300])
                 break
-            time.sleep(1)  # 동일 채팅 약 1msg/s 제한 준수
+            time.sleep(1)
     return sent

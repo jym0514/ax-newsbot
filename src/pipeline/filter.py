@@ -5,7 +5,9 @@
 """
 from __future__ import annotations
 
+import re
 from datetime import timezone
+from functools import lru_cache
 
 from dateutil import parser as dateparser
 
@@ -14,16 +16,29 @@ from ..models import Article
 from ..util import now_utc
 
 
+@lru_cache(maxsize=4096)
+def _kw_pattern(kw: str) -> "re.Pattern":
+    # 영숫자 사이에 끼어든 경우는 제외(예: 'ai' 가 'rainy' 안에서 매칭되지 않도록)
+    return re.compile(r"(?<![a-z0-9])" + re.escape(kw) + r"(?![a-z0-9])")
+
+
+def _kw_in(kw: str, text: str) -> bool:
+    """ASCII 키워드(ai, claude, gpt-5 ...)는 단어 경계로, 한글 키워드는 부분 문자열로 매칭."""
+    if kw.isascii():
+        return _kw_pattern(kw).search(text) is not None
+    return kw in text
+
+
 def _score_topic(article: Article, keywords: list[str]) -> tuple[int, list[str]]:
-    """제목 매치는 3점, 본문 매치는 1점."""
+    """제목 매치는 3점, 본문 매치는 1점. ASCII 키워드는 단어 경계 기준."""
     title = article.title.lower()
     body = article.raw_excerpt.lower()
     score = 0
     matched: list[str] = []
     for kw in keywords:
         k = kw.lower()
-        in_title = k in title
-        in_body = k in body
+        in_title = _kw_in(k, title)
+        in_body = _kw_in(k, body)
         if in_title:
             score += 3
         if in_body:

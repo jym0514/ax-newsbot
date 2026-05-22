@@ -7,7 +7,7 @@ settings:
   # 기사 수집 시 "최근 N시간" 이내 발행분만 후보로 본다(여유 있게 30시간).
   time_window_hours: 30
   # 다이제스트에 담을 하루 최대 기사 수 / 주제별 상한
-  max_articles_total: 28
+  max_articles_total: 20
   max_articles_per_topic: 6
   # 기사가 다이제스트에 포함되려면 넘어야 하는 최소 점수
   min_score: 1.0
@@ -164,6 +164,11 @@ exclude_keywords:
   - "쿠폰"
   - "운세"
   - "부고"
+  - "earn $"
+  - "make money"
+  - "free employee"
+  - "link in bio"
+  - "dm me"
 
 # ============================================================================
 # 소스 — RSS, Bluesky, X.
