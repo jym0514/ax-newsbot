@@ -183,7 +183,6 @@ sources:
     - { name: "Exponential View (Azeem Azhar)",   url: "https://www.exponentialview.co/feed", weight: 1.1, kind: substack }
     - { name: "Towards AI",                       url: "https://newsletter.towardsai.net/feed", weight: 1.0, kind: substack }
     - { name: "Last Week in AI",                  url: "https://lastweekin.ai/feed",          weight: 1.0, kind: substack }
-    - { name: "Agentic AI Weekly (Berkeley RDI)", url: "https://berkeleyrdi.substack.com/feed", weight: 1.2, kind: substack }
 
     # 해외 테크/AI 매체
     - { name: "The Decoder",        url: "https://the-decoder.com/feed/", weight: 1.1, kind: rss }
@@ -212,7 +211,6 @@ sources:
     # 국내 기업 기술블로그 (AX 사례용, 가중치 낮음)
     - { name: "카카오 Tech",         url: "https://tech.kakao.com/feed/", weight: 0.8, kind: rss }
     - { name: "토스 기술블로그",       url: "https://toss.tech/rss.xml", weight: 0.8, kind: rss }
-    - { name: "우아한형제들 기술블로그", url: "https://techblog.woowahan.com/feed/", weight: 0.8, kind: rss }
 
   # --- Bluesky (X 보조; AT Protocol 공개 API, 인증 불필요) -------------------
   # handle 은 bsky.app 프로필의 핸들(@ 제외). 잘못된 핸들은 그냥 건너뛴다.
