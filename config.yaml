@@ -16,7 +16,7 @@ settings:
   # GitHub Pages 주소. 형식: https://<github-사용자명>.github.io/<저장소명>
   archive_base_url: "https://jym0514.github.io/ax-newsbot"
   # 팀원 개선의견 수집용 Google Form '보내기 > 링크' 주소
-  feedback_form_url: "https://docs.google.com/forms/d/e/CHANGE-ME/viewform"
+  feedback_form_url: "https://docs.google.com/forms/d/e/1FAIpQLSfUTmaqdL-NSyDKpBXXS6zjdqUHKodW5WElhMlNHgeZ5By-_Q/viewform"
 
   # Anthropic 요약 모델 / 출력 언어
   summary_model: "claude-haiku-4-5"
