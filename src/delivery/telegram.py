@@ -113,36 +113,44 @@ def build_messages(
     return ["".join(parts)]
 
 
-def send(messages: list[str], token: str, chat_id: str) -> int:
-    """메시지를 발송. 발송 성공 건수 반환. 429 는 retry_after 준수."""
+def send(messages: list[str], token: str, chat_id: str) -> tuple[int, int]:
+    """메시지를 발송하고 (성공 건수, 전체 시도 건수)를 반환. 429 는 retry_after 준수.
+
+    chat_id 는 쉼표로 여러 개 지정 가능 — 개인 채팅·그룹방 등에 동시 발송된다.
+    """
+    chat_ids = [c.strip() for c in str(chat_id).split(",") if c.strip()]
     url = _API.format(token=token)
     sent = 0
     with httpx.Client(timeout=30) as client:
-        for text in messages:
-            for attempt in range(4):
-                try:
-                    resp = client.post(
-                        url,
-                        json={
-                            "chat_id": chat_id,
-                            "text": text,
-                            "parse_mode": "HTML",
-                            "disable_web_page_preview": True,
-                        },
+        for cid in chat_ids:
+            for text in messages:
+                for attempt in range(4):
+                    try:
+                        resp = client.post(
+                            url,
+                            json={
+                                "chat_id": cid,
+                                "text": text,
+                                "parse_mode": "HTML",
+                                "disable_web_page_preview": True,
+                            },
+                        )
+                    except httpx.HTTPError as e:
+                        log.warning("텔레그램 네트워크 오류(시도 %d): %s", attempt + 1, e)
+                        time.sleep(2)
+                        continue
+                    if resp.status_code == 200:
+                        sent += 1
+                        break
+                    if resp.status_code == 429:
+                        retry = resp.json().get("parameters", {}).get("retry_after", 3)
+                        log.warning("텔레그램 429 — %ds 대기", retry)
+                        time.sleep(retry + 1)
+                        continue
+                    log.error(
+                        "텔레그램 발송 실패 chat=%s (%s): %s",
+                        cid, resp.status_code, resp.text[:200],
                     )
-                except httpx.HTTPError as e:
-                    log.warning("텔레그램 네트워크 오류(시도 %d): %s", attempt + 1, e)
-                    time.sleep(2)
-                    continue
-                if resp.status_code == 200:
-                    sent += 1
                     break
-                if resp.status_code == 429:
-                    retry = resp.json().get("parameters", {}).get("retry_after", 3)
-                    log.warning("텔레그램 429 — %ds 대기", retry)
-                    time.sleep(retry + 1)
-                    continue
-                log.error("텔레그램 발송 실패(%s): %s", resp.status_code, resp.text[:300])
-                break
-            time.sleep(1)
-    return sent
+                time.sleep(1)
+    return sent, len(chat_ids) * len(messages)

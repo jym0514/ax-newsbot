@@ -6,6 +6,7 @@
 from __future__ import annotations
 
 import re
+from collections import Counter
 from datetime import timezone
 from functools import lru_cache
 
@@ -90,9 +91,60 @@ def _rank(articles: list[Article], config: Config) -> list[Article]:
     return sorted(articles, key=lambda x: x.score, reverse=True)
 
 
+_BRACKET_RE = re.compile(r"\[[^\]]*\]")
+_NONWORD_RE = re.compile(r"[^0-9a-z가-힣]+")
+
+
+def _title_tokens(title: str) -> list[str]:
+    t = _BRACKET_RE.sub(" ", title.lower())
+    t = _NONWORD_RE.sub(" ", t)
+    return [w for w in t.split() if len(w) >= 2]
+
+
+def _tok_alike(x: str, y: str) -> bool:
+    """같은 단어로 볼지 판정. 접두사 차이가 2자(한국어 조사: 로/는/가/이…) 이내일 때만.
+
+    'ai' 가 'ai연구원' 같은 합성어를 잘못 흡수하지 않도록 차이 길이를 제한한다.
+    """
+    if x == y:
+        return True
+    short, long = (x, y) if len(x) <= len(y) else (y, x)
+    return (
+        len(short) >= 2
+        and long.startswith(short)
+        and len(long) - len(short) <= 2
+    )
+
+
+def _dedupe_stories(ranked: list[Article]) -> list[Article]:
+    """같은 사건을 다룬 중복 보도(서로 다른 매체)를 제거 — 상위 랭크 기사만 남긴다.
+
+    제목의 '희소 토큰'(후보군에서 3개 이하 제목에만 등장)을 2개 이상 공유하면 중복으로 본다.
+    """
+    token_lists = [_title_tokens(a.title) for a in ranked]
+    df: Counter = Counter()
+    for toks in token_lists:
+        for w in set(toks):
+            df[w] += 1
+    kept: list[Article] = []
+    kept_tokens: list[list[str]] = []
+    for art, toks in zip(ranked, token_lists):
+        rare = [w for w in set(toks) if df[w] <= 3]
+        is_dup = False
+        for other in kept_tokens:
+            shared = sum(1 for w in rare if any(_tok_alike(w, v) for v in other))
+            if shared >= 2:
+                is_dup = True
+                break
+        if not is_dup:
+            kept.append(art)
+            kept_tokens.append(toks)
+    return kept
+
+
 def select(articles: list[Article], config: Config) -> list[Article]:
-    """랭킹 후 최소 점수 / 주제별 상한 / 전체 상한 적용."""
-    ranked = _rank(articles, config)
+    """랭킹 → 중복 기사 제거 → 최소 점수 / 주제별 상한 / 전체 상한 적용."""
+    ranked = _dedupe_stories(_rank(articles, config))
     max_total = int(config.get("max_articles_total", 28))
     max_per = int(config.get("max_articles_per_topic", 6))
     min_score = float(config.get("min_score", 1.0))

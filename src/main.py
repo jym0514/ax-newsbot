@@ -106,7 +106,7 @@ def run(config: Config, dry_run: bool, run_date: str, force: bool) -> int:
     archive_base = (config.get("archive_base_url") or "").rstrip("/")
     archive_url = f"{archive_base}/{run_date}.html"
     messages = telegram.build_messages(selected, run_date, archive_url)
-    sent, send_failed = 0, False
+    sent, expected, send_failed = 0, len(messages), False
     if dry_run:
         log.info("[dry-run] 텔레그램 미발송 — 메시지 %d개 미리보기:", len(messages))
         for m in messages:
@@ -115,9 +115,9 @@ def run(config: Config, dry_run: bool, run_date: str, force: bool) -> int:
         log.error("TELEGRAM_BOT_TOKEN/CHAT_ID 미설정 — 발송 생략")
         send_failed = True
     else:
-        sent = telegram.send(messages, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID)
-        send_failed = sent < len(messages)
-        log.info("텔레그램 발송 %d/%d", sent, len(messages))
+        sent, expected = telegram.send(messages, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID)
+        send_failed = sent < expected
+        log.info("텔레그램 발송 %d/%d", sent, expected)
 
     # 8. 데이터 저장 (아카이브의 진실의 원천) — 사이트보다 먼저
     save_day(run_date, [a.to_dict() for a in selected])
@@ -137,7 +137,7 @@ def run(config: Config, dry_run: bool, run_date: str, force: bool) -> int:
         "",
         f"- 수집 {len(collected)}건 → 중복제외 {dup_skipped} → 키워드매치 "
         f"{len(classified)} → **다이제스트 {len(selected)}건**",
-        f"- 요약 {summarized_ok}/{len(selected)} · 텔레그램 {sent}/{len(messages)} 메시지 "
+        f"- 요약 {summarized_ok}/{len(selected)} · 텔레그램 {sent}/{expected} 발송 "
         f"· 아카이브 {page_count}일치",
         "",
         "| 소스 | 수집 건수 |",
