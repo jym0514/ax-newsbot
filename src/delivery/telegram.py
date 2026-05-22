@@ -19,13 +19,18 @@ from ..models import Article
 log = logging.getLogger("axnewsbot.telegram")
 
 _API = "https://api.telegram.org/bot{token}/sendMessage"
-_LIMIT = 4000            # 4096 한계 - 이모지(UTF-16) 여유분
+_TG_LIMIT = 4096         # 텔레그램 메시지 1건 최대 길이(UTF-16 코드유닛)
 _DIVIDER = "━━━━━━━━━━━━━━━━"
 _TITLE = "📰 <b>AX 전략실 오늘의 뉴스</b>"
 
 
 def _esc(s: str) -> str:
     return html.escape(s or "", quote=False)
+
+
+def _u16len(s: str) -> int:
+    """텔레그램이 세는 UTF-16 코드유닛 길이(이모지는 보통 2를 차지)."""
+    return len(s.encode("utf-16-le")) // 2
 
 
 def _article_block(article: Article, index: int) -> str:
@@ -60,7 +65,6 @@ def build_messages(
         bucket[a.topic].append(a)
 
     parts = [header]
-    cur_len = len(header)
     shown = 0
     truncated = False
 
@@ -73,12 +77,11 @@ def build_messages(
                 addition = f"{sep}<b>{_esc(label)}</b>\n\n{block}"
             else:
                 addition = f"\n\n{block}"
-            # 잔여 안내 + footer 자리 확보
-            if cur_len + len(addition) + len(footer) + 70 > _LIMIT:
+            # 실제 UTF-16 길이로 검사 — 잔여 안내문구(~35) + footer 자리 확보
+            if _u16len("".join(parts) + addition) + 110 > _TG_LIMIT:
                 truncated = True
                 break
             parts.append(addition)
-            cur_len += len(addition)
             group_open = True
             shown += 1
         if truncated:
