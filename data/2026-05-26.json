@@ -1,0 +1,382 @@
+[
+  {
+    "title": "에이수스, 하이브리드 에이전틱 AI 인프라 공개…추론 비용 최대 70% 절감",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40186",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-05-25T22:40:31+00:00",
+    "raw_excerpt": "에이수스(ASUS)가 에스퍼트북(ExpertBook) 노트북, 엑스퍼트센터(ExpertCenter) 데스크톱, NUC 미니 PC 등 상용 디바이스 라인업 전반에 하이브리드 인공지능(AI) 아키텍처를 통합했다고 25일(현지시간) 발표했다.온프레미스 배포에 최적화된 이 아키텍처는 기업이 생성형 AI 애플리케이션을 도입할 때 성능과 비용의 균형을 맞출 수 있도록 설계됐다.최근 대형언어모델(LLM)과 AI 에이전트 기반 애플리케이션 도입이 빨라지면서 토큰 추론 비용이 급증하고 있다. 순수 클라우드 기반 방식은 예측 불가능한 고비용을 유발하",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "에이수스가 상용 디바이스에 하이브리드 AI 아키텍처를 통합해 AI 추론 비용을 최대 70% 절감할 수 있도록 했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202605/40186_60671_3958_v150.jpg",
+    "score": 5.918,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "llm",
+      "생성형 ai"
+    ],
+    "source_weight": 1.2
+  },
+  {
+    "title": "Half of all Claude Code subscriptions could be completely wiped out in the next 6-12 months, predicts Anthropic CEO Dario Amodei.",
+    "url": "https://x.com/initjean/status/2058988989449736650",
+    "source": "X @initjean",
+    "source_type": "x",
+    "published_at": "2026-05-25T19:10:03+00:00",
+    "raw_excerpt": "Half of all Claude Code subscriptions could be completely wiped out in the next 6-12 months, predicts Anthropic CEO Dario Amodei.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Anthropic CEO 다리오 아모데이는 클로드 코드 구독의 절반이 향후 6-12개월 내 완전히 사라질 수 있다고 예측했습니다.",
+    "thumbnail": "",
+    "score": 5.785,
+    "engagement": 552869,
+    "matched_keywords": [
+      "claude",
+      "claude code"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "코그나이트·ABB, 산업용 에이전틱 AI 협력… “산업 시스템끼리 스스로 협업한다”",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40183",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-05-25T18:22:31+00:00",
+    "raw_excerpt": "산업용 인공지능(AI) 플랫폼 기업 코그나이트(Cognite)가 글로벌 산업기술 기업 ABB와 손잡고 산업 현장에 에이전틱 AI(Agentic AI)를 본격 도입한다. 양사는 산업 애플리케이션 간 자율 협업 체계를 구축해 에너지 산업의 운영 자동화와 의사결정 속도를 대폭 높인다는 전략이다.코그나이트는 지난 22일, ABB와의 협력을 통해 산업 AI 및 데이터 플랫폼 기반의 차세대 에이전트 간(agent-to-agent) 오케스트레이션 체계를 구축한다고 발표했다. 이번 협력의 핵심은 코그나이트의 산업 AI·데이터 플랫폼을 활용해 기존",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "코그나이트와 ABB가 산업용 에이전틱 AI를 협력해 산업 시스템들이 자율적으로 협업하도록 함으로써 에너지산업의 운영 자동화와 의사결정 속도를 높인다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202605/40183_60669_2156_v150.jpg",
+    "score": 5.703,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic",
+      "agentic ai",
+      "에이전트",
+      "에이전틱"
+    ],
+    "source_weight": 1.2
+  },
+  {
+    "title": "오픈AI·앤트로픽, 해외 거점 확장…싱가포르·밀라노에 신규 기지 마련",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210895",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-05-25T17:55:00+00:00",
+    "raw_excerpt": "오픈AI와 앤트로픽이 미국을 넘어 글로벌 시장으로 거점을 빠르게 확장하고 있다. 오픈AI는 싱가포르에 첫 해외 응용 연구소를 설립하기로 했으며, 앤트로픽은 유럽 B2B 시장 공략을 위해 이탈리아 밀라노에 신규 사무소를 개설한다.오픈AI는 지난 19일(현지시간) 싱가포르 정부와의 다년간 파트너십을 바탕으로 미국 외 지역에 최초로 '응용 AI 연구소(Applied AI Lab)'를 설립한다고 발표했다. 이번 거점 마련은 싱가포르 정부의 '국가를 위한 오픈AI(OpenAI for Singapore)' 이니셔티브에 따른 것이다.싱가포르 응",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI와 Anthropic이 싱가포르와 밀라노에 각각 해외 거점을 신설하며 미국 중심의 AI 사업을 글로벌로 확대하고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202605/210895_213700_197.png",
+    "score": 5.503,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "'AI 전용 장치' 개발 중인 하크, 1조 규모 시리즈A 투자 유치",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210891",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-05-25T17:00:54+00:00",
+    "raw_excerpt": "휴머노이드 로봇 전문 피규어 AI의 브렛 애드콕 CEO가 설립한 AI 스타트업 하크(Hark)가 7억달러(약 1조 원) 이상의 대규모 시리즈A 투자를 유치했다. 사용자를 지속적으로 이해하고 기억하는 ‘개인화 AI’와 이를 위한 전용 하드웨어를 구축하겠다는 전략으로 차세대 AI 디바이스 경쟁에 뛰어들었다는 점에서 오픈AI와 비교된다. 애드콕 CEO는 최근 시리즈A 라운드에서 7억달러 이상을 조달했으며, 투자 후 기업 가치는 60억달러(약 9조원)로 평가됐다고 발표했다.이번 투자 라운드는 파크웨이 벤처 캐피털이 주도했으며, 엔비디아와",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "휴머노이드 로봇 전문가가 설립한 AI 스타트업 하크가 개인화 AI와 전용 하드웨어 개발을 위해 7억 달러 규모 시리즈A 투자를 유치했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202605/210891_213693_3012.jpg",
+    "score": 5.454,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai",
+      "엔비디아"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "AI 인과추론 스타트업 '자블리',TIPS 선정 행정 자동화 플랫폼으로 글로벌 시장 공략",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40180",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-05-25T11:38:09+00:00",
+    "raw_excerpt": "인공지능(AI) 기반 HR SaaS 스타트업 주식회사 자블리(대표 김형주)가 중소벤처기업부의 민간투자 주도형 기술창업지원 프로그램인 TIPS(Tech Incubator Program for Startup) R D 과제에 최종 선정됐다고 25일 밝혔다.자블리는 이번 선정을 발판 삼아 향후 24개월간 인과추론(Causal Inference) 및 설명 가능 AI(XAI) 기반의 비자 적격성 판정 AI 플랫폼을 세계 최고 수준으로 고도화할 계획이다.2023년 10월 전남 여수에서 설립된 자블리는 외국인 유학생과 글로벌 근로자를 대상으로 일",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "AI 기반 HR 스타트업 자블리가 TIPS에 선정되어 인과추론과 설명가능 AI 기술로 비자 적격성 판정 플랫폼을 고도화하며 글로벌 시장 진출을 추진한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202605/40180_60666_3654_v150.jpg",
+    "score": 5.366,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업",
+      "startup",
+      "벤처",
+      "창업"
+    ],
+    "source_weight": 1.2
+  },
+  {
+    "title": "“AI가 찾는 취약점, 인간이 못 막는다”… 앤트로픽, 미토스 충격과 ‘프로젝트 글래스윙’ 첫 성과 공개",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40187",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-05-25T23:14:43+00:00",
+    "raw_excerpt": "앤트로픽(Anthropic)이 차세대 AI 기반 사이버보안 프로젝트 ‘프로젝트 글래스윙(Project Glasswing)’의 초기 성과를 지난 22일(현지시간) 공개하고, 인공지능(AI)이 소프트웨어 보안의 패러다임을 근본적으로 바꾸고 있다고 밝혔다.특히, 자사의 고성능 AI 모델 ‘클로드 미토스 프리뷰(Claude Mythos Preview)’가 단 한 달 만에 전 세계 핵심 소프트웨어에서 1만건 이상의 고위험 취약점을 발견했다고 공개하면서 업계에 충격을 주고 있다.이번 발표는 AI가 단순히 코딩 보조를 넘어, 인간 해커 수준 이",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "앤트로픽이 AI 모델 '클로드 미토스'로 한 달간 1만 건 이상의 고위험 소프트웨어 취약점을 발견해 AI 기반 사이버보안의 패러다임 변화를 입증했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202605/40187_60672_2612_v150.jpg",
+    "score": 5.346,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "anthropic"
+    ],
+    "source_weight": 1.2
+  },
+  {
+    "title": "세일즈포스, GC녹십자웰빙에 ‘세일즈 클라우드’ 공급....“도입 1년 만에 월 활성 사용자 95% 달성”",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40190",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-05-26T08:56:32+00:00",
+    "raw_excerpt": "전 세계 인공지능 CRM 시장을 선도하는 세일즈포스는 헬스케어 기업 GC녹십자웰빙이 영업 경쟁력 강화를 위해 세일즈포스의 ‘세일즈 클라우드(Sales Cloud)’를 도입했다고 26일 밝혔다. 이를 통해 GC녹십자웰빙은 거래처 및 실적 정보를 체계적으로 관리하기 위한 영업 데이터 기반을 구축하고, 실적 보고 자동화와 전국 병의원 현황 관리 효율화를 통해 영업 조직의 업무 효율성과 현장 대응력을 강화했다.GC녹십자웰빙이 도입한 세일즈포스의 세일즈 클라우드는 고객 및 거래처 데이터, 영업 활동, 실적 정보를 하나의 플랫폼에서 통합 관리",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "세일즈포스가 GC녹십자웰빙에 세일즈 클라우드를 공급했으며, 도입 1년 만에 월 활성 사용자 95%를 달성하며 영업 효율성이 크게 향상되었다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202605/40190_60677_567_v150.jpg",
+    "score": 5.231,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직",
+      "현장"
+    ],
+    "source_weight": 1.2
+  },
+  {
+    "title": "F5, “한국 기업 55%, AI 추론 워크로드 운영 중”...AI, 실험 넘어 실제 운영 단계로",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40188",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-05-26T07:59:21+00:00",
+    "raw_excerpt": "인공지능은 더 이상 실험적 시도에 머무르지 않고, 다른 핵심 업무 시스템과 마찬가지로 엄격한 운영 기준이 요구되는 프로덕션 워크로드로 자리 잡았다. 모든 앱과 API 전송 및 보안을 선도하는 글로벌 기업 F5는 연례 ‘애플리케이션 전략 현황(State of Application Strategy, SOAS)’ 보고서를 발표하고, AI가 중대한 전환점을 넘어섰다고 밝혔다.전 세계 수백 명의 엔터프라이즈 IT 및 보안 리더 설문을 바탕으로 한 이번 조사에 따르면, 국내 기업의 55%는 이미 AI 추론 워크로드를 운영하고 있으며, 다수는",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "F5 조사에 따르면 한국 기업 55%가 AI 추론 워크로드를 본격적으로 운영 중으로, AI가 실험 단계를 넘어 핵심 프로덕션 시스템으로 전환됐다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202605/40188_60673_5828_v150.jpg",
+    "score": 5.183,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2
+  },
+  {
+    "title": "the pope wrote a 42,000 word manifesto declaring war on AI. we are so freaking back.",
+    "url": "https://x.com/artwithinpod/status/2058914116048224741",
+    "source": "X @artwithinpod",
+    "source_type": "x",
+    "published_at": "2026-05-25T14:12:32+00:00",
+    "raw_excerpt": "the pope wrote a 42,000 word manifesto declaring war on AI. we are so freaking back.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "교황이 AI에 대한 선전포고를 담은 4만2천 단어 규모의 선언문을 발표했습니다.",
+    "thumbnail": "",
+    "score": 5.079,
+    "engagement": 5177757,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "“만들긴 쉬운데 관리는 어려워”...기업 위협하는 ‘에이전트 스프롤’",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210892",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-05-25T18:08:27+00:00",
+    "raw_excerpt": "AI 에이전트가 기업 전반으로 빠르게 퍼져나가며, 이제는 '너무 많은 AI 에이전트'가 새로운 IT 문제로 떠오르고 있다. 월스트리트저널(WSJ)은 최근 직원 누구나 손쉽게 AI 에이전트를 만들 수 있게 되며 기업들이 비용 증가와 보안 위험, 관리 혼선 등 이른바 ‘AI 에이전트 스프롤(agent sprawl)’ 현상에 대응하기 위한 통제 체계 마련에 나서고 있다고 보도했다.스프롤은 도시가 급격히 성장하면서 교외 지역으로 무계획적이고 무분별하게 팽창하는 난개발을 설명하는 용어다. 에이전트 스프롤은 기업 현장에서 AI 에이전트가 이메",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "AI 에이전트가 기업 전역으로 무분별하게 확산되며 비용 증가·보안 위험·관리 혼선 등 새로운 IT 문제가 발생하고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202605/210892_213694_4725.jpg",
+    "score": 4.865,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "\"집안일은 어렵지만 길 안내는 척척\"…UB테크, '반구조화 공간' 노린 휴머노이드 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210887",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-05-25T17:35:07+00:00",
+    "raw_excerpt": "중국의 UB테크가 차세대 상업용 휴머노이드 로봇 ‘워커 C1(Walker C1)’을 공개했다. 발레와 왈츠를 소화하는 정교한 움직임은 물론, 전시회와 공항·호텔 같은 공공 공간에서 안내와 응대 업무를 수행하는 서비스 로봇으로 설계됐다.UB테크는 22일(현지시간) 공개 행사에서 워커 C1이 인간 무용수들과 차이콥스키의 ‘백조의 호수’ 발레 동작을 수행하는 모습을 선보였다.로봇은 균형 유지와 전신 협응, 정밀한 모션 제어 능력을 기반으로 인간과 유사한 춤 동작을 구현했다.워커 C1은 지난해 공개된 ‘워커 C’의 업그레이드 버전이다. 세",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "중국 UB테크가 발레와 안내 업무를 수행하는 휴머노이드 로봇 '워커 C1'을 공개했으며, 공공 공간에서의 서비스 로봇 상용화에 나섰다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202605/210887_213687_4513.jpg",
+    "score": 4.835,
+    "engagement": 0,
+    "matched_keywords": [
+      "휴머노이드",
+      "차세대"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "Grok foundation model V9-Medium (1.5T) has finished training. Evals look good. A lot of Cursor data was added in supplementary training and ",
+    "url": "https://x.com/elonmusk/status/2058787384364265734",
+    "source": "X @elonmusk",
+    "source_type": "x",
+    "published_at": "2026-05-25T05:48:57+00:00",
+    "raw_excerpt": "Grok foundation model V9-Medium (1.5T) has finished training. Evals look good. A lot of Cursor data was added in supplementary training and there is more to come.\n\nFine-tuning is underway and reinforcement learning begins in a few days. 2 to 3 weeks to public release. \n\nThis will",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "xAI의 Grok V9-Medium 기초 모델 학습이 완료되었으며 2~3주 내 공개될 예정이다.",
+    "thumbnail": "",
+    "score": 4.729,
+    "engagement": 11522510,
+    "matched_keywords": [
+      "cursor"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "‘자동화’ 헥사곤에서 ‘데이터’ 전문 옥타브가 분사한 이유…”현장 유지 초점”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210893",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-05-25T19:06:24+00:00",
+    "raw_excerpt": "“산업 AI는 현장 지식에 훨씬 특화한 인텔리전스를 갖춰야 합니다. 이때, 다양한 유형의 ‘데이터’를 파악하고 연결해야만 끊김이 없는 워크플로우를 구축할 수 있습니다.”옥타브는 지난 3월 헥사곤AB의 헥사곤 ALI(Asset Lifecycle Intelligence) 사업부에서 분사해 출범한 독립 브랜드다. 헥사곤 ALI가 플랜트 전반의 생애주기 관리를 지원한다면, 옥타브는 단절된 데이터를 하나의 맥락(Context)으로 통합해 ‘실행 가능한 인텔리전스’로 전환하는 데 집중한다. 김세환 옥타브 기술 이사는 “현장 데이터를 하나의 흐",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "헥사곤에서 분사한 옥타브는 산업 현장의 단절된 데이터를 통합하여 실행 가능한 인텔리전스로 전환하는 데 특화한 독립 브랜드로 출범했습니다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202605/210893_213695_1536.jpeg",
+    "score": 4.267,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "\"코딩은 29배, 추론은 7배\"…세레브라스, '키미' 서비스로 GPU 압도",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210890",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-05-25T17:18:47+00:00",
+    "raw_excerpt": "AI 칩 전문 세레브라스가 문샷 AI의 1조 매개변수 오픈웨이트 모델 ‘키미 K2.6’을 기업 고객 대상으로 서비스하기 시작했다. 초당 약 1000토큰에 달하는 추론 속도를 달성하며 GPU 기반 AI 인프라 대비 압도적인 성능 우위를 내세우고 있다. 세레브라스는 최근 키미 K2.6을 기업 고객 시험 운영 환경에서 구동한 결과, 벤치마크 기업 아티피셜 애널리시스 기준 초당 981개 출력 토큰을 기록했다고 밝혔다.이는 GPU 기반 클라우드 서비스 가운데 가장 빠른 경쟁사보다 6.7배, 업계 평균 대비 23배 빠른 수치다.특히, 에이전트",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "세레브라스가 1조 매개변수 모델 '키미 K2.6'을 서비스하며 GPU 대비 코딩은 29배, 추론은 최대 23배 빠른 성능을 달성했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202605/210890_213690_5333.png",
+    "score": 4.17,
+    "engagement": 0,
+    "matched_keywords": [
+      "gpu"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "순천, 행안부 주관 ‘2027년 자전거의 날 행사’ 개최지 최종 선정",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=210832",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-05-25T11:35:00+00:00",
+    "raw_excerpt": "순천시가 행정안전부 주관 ‘2027년 자전거의 날 행사’ 개최지로 최종 선정됐다고 밝혔다.순천은 행정안전부와 함께 2027년 4월25일부터 27일까지 3일간 동천변 일원 등에서 전국 단위 자전거 행사를 공동 개최한다.이번 선정은 전국 지방자치단체를 대상으로 개최 여건, 행사계획 적정성, 추진 의지, 홍보계획 등 4개 항목에 대한 서면·현장평가를 거쳐 이뤄졌다. 순천시는 자전거 인프라와 생태·관광 자원을 연계한 개최 여건을 인정받아 최종 개최지로 이름을 올렸다.자전거의 날 행사는 자전거 이용 활성화와 친환경 교통문화 확산을 위해 추진",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "순천시가 2027년 자전거의 날 행사 개최지로 최종 선정되어 4월 25~27일 동천변에서 전국 단위 행사를 개최할 예정이다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202605/210832_213613_3019.jpg",
+    "score": 3.86,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "“구조·공정은 단순, 성능·수명은 더 강력”…GIST, 저비용·고효율 차세대 수소 생산 전극 개발",
+    "url": "https://www.etnews.com/20260526000027",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-05-25T23:54:47+00:00",
+    "raw_excerpt": "광주과학기술원(GIST·총장 임기철)은 주종훈 환경·에너지공학과 교수팀이 이장용 건국대학교 교수 팀, 김성준 한국화학연구원 박사팀과 공동으로 차세대 그린수소 생산 장치의 성능과 내구성을 높일 수 있는 '일체형 비귀금속 다공성 전극'을 개발했다고 26일 밝혔다. 최근 탄소중립 실현을 위한 핵심 기술로 그린수소가 주목받고 있다. 그린수소는 물을 전기로 분해해 생산하는 친환경 수소로, 생산 과정에서 탄소를 배출하지 않는다. 특히 음이온교환막 수전해(",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "GIST가 구조는 단순하면서 성능과 내구성이 뛰어난 저비용 비귀금속 다공성 전극을 개발해 그린수소 생산 효율을 높일 수 있는 길을 열었다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/05/26/news-p.v1.20260526.46f78b74d4a84806a7fdbf327c75cfa0_P1.jpg",
+    "score": 3.483,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "What ClickUp’s mass layoff tells us about the future of work",
+    "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-05-25T16:00:00+00:00",
+    "raw_excerpt": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "ClickUp이 수백 명의 직원을 수천 개의 AI 에이전트로 대체하며 대규모 구조조정을 단행했다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1247853635.jpg?resize=1200,800",
+    "score": 3.468,
+    "engagement": 0,
+    "matched_keywords": [
+      "startup"
+    ],
+    "source_weight": 1.1
+  },
+  {
+    "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
+    "url": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-05-25T14:30:00+00:00",
+    "raw_excerpt": "The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $100,000. Apply now.",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Startup Battlefield 200 지원 마감이 5월 27일로 박두하며, 선정 시 VC 접근, 글로벌 노출, $100,000 상금 등의 기회를 얻을 수 있다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/11/54889393608_2493644601_o-2.jpg?resize=1200,800",
+    "score": 3.4,
+    "engagement": 0,
+    "matched_keywords": [
+      "startup"
+    ],
+    "source_weight": 1.1
+  },
+  {
+    "title": "프라하 홀린 K-뷰티·푸드…체코 넘어 유럽 정조준",
+    "url": "https://www.etnews.com/20260525000112",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-05-25T21:00:00+00:00",
+    "raw_excerpt": "체코 프라하에서의 K-뷰티·식품 인기가 수출 실적으로 입증되고 있다. 정부는 기세를 몰아 체코를 유럽 시장 진출의 핵심 거점으로 삼겠다는 구상이다. 코트라는 주체코대사관, 한국농수산식품유통공사(aT)와 공동으로 23일(현지시간)부터 이틀간 프라하 최대 쇼핑몰 웨스트필드 쇼도브에서 'K소비재 판촉전, 인 프라하'를 개최했다. 체코에서 처음으로 열린 대규모 오프라인 K-뷰티·푸드 통합 쇼케이스로, 총 68개 기업 315개 제품이 참가했다. 현장에서",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "한국 정부가 프라하에서 K-뷰티·식품 판촉전을 개최해 체코를 유럽 시장 진출의 거점으로 삼으려 한다.",
+    "thumbnail": "",
+    "score": 3.361,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 1.0
+  }
+]
