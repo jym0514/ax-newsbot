@@ -1,9 +1,8 @@
 name: Daily AX News Digest
 
 on:
-  schedule:
-    # 00:00 UTC = 09:00 KST. 월~금만 실행(주말 제외). 공휴일은 main.py 가 거른다.
-    - cron: "0 0 * * 1-5"
+  # 자동 트리거는 cron-job.org → GitHub API workflow_dispatch 로 일원화.
+  # (GitHub 자체 schedule 은 지연·누락이 잦아서 제거했고, 주말·공휴일 거르기는 main.py 가 담당.)
   workflow_dispatch: {}
 
 permissions:
