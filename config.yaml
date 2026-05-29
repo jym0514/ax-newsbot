@@ -254,8 +254,21 @@ sources:
 
   # --- X / Twitter (Mac 로컬 수집기가 사용) ---------------------------------
   x:
-    home_feed: true         # x.com/home 타임라인 스크롤 수집
-    scroll_rounds: 18       # 스크롤 횟수(많을수록 더 많은 트윗, 더 느림)
+    # 홈피드는 잡담성 트윗이 섞여 들어와 OFF — 큐레이션 계정만 사용한다.
+    home_feed: false
+    scroll_rounds: 6        # 계정당 스크롤 횟수(계정 수가 많아 회수는 줄임)
     min_engagement: 5       # 좋아요+리포스트 합이 이 값 미만이면 버림
-    # 홈 피드 외에 특정 계정도 추가로 보고 싶으면 핸들을 넣는다(@ 제외)
-    accounts: []
+    # 큐레이션할 AI/테크 계정 (@ 제외). 자유롭게 추가/삭제 가능.
+    accounts:
+      - "OpenAI"
+      - "AnthropicAI"
+      - "GoogleDeepMind"
+      - "GoogleAI"
+      - "sama"            # Sam Altman
+      - "karpathy"        # Andrej Karpathy
+      - "swyx"            # AI 엔지니어링 / Latent Space
+      - "_akhaliq"        # AK (논문 큐레이션)
+      - "simonw"          # Simon Willison
+      - "alexalbert__"    # Anthropic Alex Albert
+      - "omarsar0"        # Elvis (NLP 큐레이션)
+      - "hwchase17"       # LangChain
