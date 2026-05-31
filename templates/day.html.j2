@@ -17,13 +17,11 @@
   a{color:inherit;}
 
   /* ── 헤더(블랙) ── */
-  header{background:var(--black);color:#fff;padding:24px 24px 20px;}
+  header{background:var(--black);color:#fff;padding:20px 24px 14px;}
   header .wrap{max-width:1140px;margin:0 auto;}
-  header .brand{margin:0 0 6px;font-size:32px;font-weight:800;
-                letter-spacing:-.035em;line-height:1.1;}
-  header .title{margin:0;font-size:21px;font-weight:600;
-                letter-spacing:-.02em;color:#e8e8ec;}
-  nav.dates{background:var(--black);padding:0 24px 16px;}
+  header .brand{margin:0;font-size:24px;font-weight:700;
+                letter-spacing:-.025em;line-height:1.2;}
+  nav.dates{background:var(--black);padding:0 24px 14px;}
   nav.dates .wrap{max-width:1140px;margin:0 auto;display:flex;gap:6px;
                   overflow-x:auto;padding-bottom:2px;}
   nav.dates a{flex:none;padding:5px 12px;border-radius:6px;font-size:12px;
@@ -115,8 +113,7 @@
 <body>
 <header>
   <div class="wrap">
-    <h1 class="brand">AX 전략실</h1>
-    <h2 class="title">오늘의 뉴스 - {{ date.replace('-', '.') }}</h2>
+    <h1 class="brand">AX 전략실 오늘의 뉴스 - {{ date.replace('-', '.') }}</h1>
   </div>
 </header>
 <nav class="dates">
