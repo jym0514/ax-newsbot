@@ -72,11 +72,13 @@
   .insight{max-width:1140px;margin:0 auto;padding:26px 24px 0;}
   .insight-card{background:#161618;color:#fafafa;border-radius:14px;
                 padding:28px 30px 30px;border:1px solid #26262a;}
-  .insight-label{display:inline-block;font-size:11px;font-weight:700;
-                 color:#cfcfd3;letter-spacing:.06em;margin-bottom:14px;
-                 padding:4px 10px;border:1px solid #2a2a2d;border-radius:999px;}
-  .insight-body{margin:0;font-size:16px;line-height:1.85;color:#f0f0f3;
-                font-weight:400;letter-spacing:-.005em;}
+  .insight-title{margin:0 0 18px;font-size:22px;font-weight:800;
+                 letter-spacing:-.025em;color:#fafafa;}
+  .insight-list{margin:0;padding:0 0 0 22px;color:#f0f0f3;}
+  .insight-list li{margin:0 0 11px;font-size:15.5px;line-height:1.7;
+                   letter-spacing:-.005em;}
+  .insight-list li:last-child{margin-bottom:0;}
+  .insight-list li::marker{color:#9c9ca3;}
 
   /* ── 의견 보내기 ── */
   .feedback{max-width:1140px;margin:10px auto 0;padding:20px 24px 0;}
@@ -112,8 +114,11 @@
 {% if insight %}
 <section class="insight">
   <div class="insight-card">
-    <div class="insight-label">💡 오늘의 핵심 인사이트</div>
-    <p class="insight-body">{{ insight }}</p>
+    <h2 class="insight-title">💡 오늘의 핵심 인사이트</h2>
+    <ul class="insight-list">
+      {% for line in insight.splitlines() %}{% if line.strip() %}
+      <li>{{ line.strip() }}</li>{% endif %}{% endfor %}
+    </ul>
   </div>
 </section>
 {% endif %}
