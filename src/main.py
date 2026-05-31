@@ -70,7 +70,9 @@ def run(config: Config, dry_run: bool, run_date: str, force: bool) -> int:
     log.info("=== AX 뉴스봇 시작 — %s (dry_run=%s) ===", run_date, dry_run)
 
     if not dry_run and not force and not _is_business_day(run_date):
-        log.info("%s 은 주말 또는 공휴일(한국 기준) — 다이제스트 발송 생략", run_date)
+        log.info("%s 은 주말 또는 공휴일(한국 기준) — 발송 생략, 사이트만 재배포", run_date)
+        # 발송은 건너뛰되 사이트는 기존 data/ 로 재생성 → 비주말 트리거가 빈 site 배포하는 것 방지
+        site_builder.build_site(config)
         return 0
 
     state = State()

@@ -18,11 +18,10 @@
   /* ── 헤더(블랙) ── */
   header{background:var(--black);color:#fff;padding:40px 24px 30px;}
   header .wrap{max-width:1140px;margin:0 auto;}
-  header .eyebrow{font-size:11px;letter-spacing:.34em;color:#76767e;
-                  text-transform:uppercase;margin-bottom:11px;}
-  header h1{margin:0;font-size:25px;font-weight:700;letter-spacing:-.025em;}
-  header h1 .hdate{font-size:15px;font-weight:500;color:#8a8a90;
-                   margin-left:9px;letter-spacing:0;}
+  header .brand{margin:0 0 10px;font-size:36px;font-weight:800;
+                letter-spacing:-.035em;line-height:1.1;}
+  header .title{margin:0;font-size:25px;font-weight:600;
+                letter-spacing:-.02em;color:#e8e8ec;}
   header .meta{margin-top:9px;color:#9c9ca3;font-size:13px;}
   nav.dates{background:var(--black);padding:0 24px 22px;}
   nav.dates .wrap{max-width:1140px;margin:0 auto;display:flex;gap:6px;
@@ -86,8 +85,8 @@
 <body>
 <header>
   <div class="wrap">
-    <div class="eyebrow">AX 전략실</div>
-    <h1>오늘의 뉴스 <span class="hdate">{{ date }}</span></h1>
+    <h1 class="brand">AX 전략실</h1>
+    <h2 class="title">오늘의 뉴스 - {{ date.replace('-', '.') }}</h2>
     <div class="meta">큐레이션 기사 {{ count }}건</div>
   </div>
 </header>
