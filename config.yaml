@@ -220,6 +220,7 @@ sources:
     - { name: "TechCrunch AI",      url: "https://techcrunch.com/category/artificial-intelligence/feed/", weight: 1.1, kind: rss }
     - { name: "The Verge",          url: "https://www.theverge.com/rss/index.xml", weight: 1.0, kind: rss }
     - { name: "VentureBeat AI",     url: "https://venturebeat.com/category/ai/feed/", weight: 1.0, kind: rss }
+    - { name: "ZDNet (Global, AI)", url: "https://www.zdnet.com/topic/artificial-intelligence/rss.xml", weight: 1.1, kind: rss }
     - { name: "MIT Tech Review",    url: "https://www.technologyreview.com/feed/", weight: 1.1, kind: rss }
     - { name: "Ars Technica",       url: "https://feeds.arstechnica.com/arstechnica/index", weight: 0.9, kind: rss }
     - { name: "Hacker News (front)",url: "https://hnrss.org/frontpage", weight: 0.8, kind: rss }
