@@ -21,7 +21,8 @@ from .pipeline import filter as filter_mod
 from .pipeline import summarizer
 from .pipeline.dedup import dedupe, url_id
 from .sources.base import collect_all
-from .state import State, save_day
+from .models import Article
+from .state import State, load_all_days, load_insight, save_day, save_insight
 from .util import local_today
 
 log = logging.getLogger("axnewsbot")
@@ -44,6 +45,21 @@ def _is_business_day(date_str: str) -> bool:
     if day.weekday() >= 5:  # 5=토, 6=일
         return False
     return day not in _KR_HOLIDAYS
+
+
+def _backfill_insights(config: Config) -> int:
+    """data/*.json 들 중 인사이트가 없는 날짜에 대해 생성·저장. 채운 개수 반환."""
+    filled = 0
+    for day, items in load_all_days().items():
+        if load_insight(day):
+            continue
+        articles = [Article.from_dict(d) for d in items]
+        insight = summarizer.synthesize_insight(articles, config)
+        if insight:
+            save_insight(day, insight)
+            log.info("핵심 인사이트 백필: %s (%d자)", day, len(insight))
+            filled += 1
+    return filled
 
 
 def _setup_logging() -> None:
@@ -70,8 +86,9 @@ def run(config: Config, dry_run: bool, run_date: str, force: bool) -> int:
     log.info("=== AX 뉴스봇 시작 — %s (dry_run=%s) ===", run_date, dry_run)
 
     if not dry_run and not force and not _is_business_day(run_date):
-        log.info("%s 은 주말 또는 공휴일(한국 기준) — 발송 생략, 사이트만 재배포", run_date)
-        # 발송은 건너뛰되 사이트는 기존 data/ 로 재생성 → 비주말 트리거가 빈 site 배포하는 것 방지
+        log.info("%s 은 주말 또는 공휴일(한국 기준) — 발송 생략, 인사이트 백필 + 사이트 재배포", run_date)
+        # 발송은 건너뛰되 누락된 인사이트를 채우고 사이트는 기존 data/ 로 재생성한다.
+        _backfill_insights(config)
         site_builder.build_site(config)
         return 0
 
@@ -101,8 +118,9 @@ def run(config: Config, dry_run: bool, run_date: str, force: bool) -> int:
     # 5. 썸네일 보강
     enrich_mod.enrich(selected, state)
 
-    # 6. AI 요약
+    # 6. AI 요약 (기사별 1줄) + 오늘의 핵심 인사이트 (4~5 문장 메타 요약)
     summarized_ok = summarizer.summarize(selected, config)
+    insight = summarizer.synthesize_insight(selected, config)
 
     # 7. 텔레그램 발송
     archive_base = (config.get("archive_base_url") or "").rstrip("/")
@@ -123,6 +141,8 @@ def run(config: Config, dry_run: bool, run_date: str, force: bool) -> int:
 
     # 8. 데이터 저장 (아카이브의 진실의 원천) — 사이트보다 먼저
     save_day(run_date, [a.to_dict() for a in selected])
+    save_insight(run_date, insight)
+    _backfill_insights(config)  # 기존 데이터 중 인사이트 없는 날짜 보충
     if not dry_run:
         for a in selected:
             state.mark_seen(url_id(a.url), run_date)

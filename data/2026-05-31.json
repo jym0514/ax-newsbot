@@ -1,0 +1,372 @@
+[
+  {
+    "title": "I did a talk on LLM Wikis and HTML artifacts recently, if you are curious to learn more on the topic: ",
+    "url": "https://t.co/UljFfAEBJA",
+    "source": "X @omarsar0",
+    "source_type": "x",
+    "published_at": "2026-05-30T17:10:24+00:00",
+    "raw_excerpt": "I did a talk on LLM Wikis and HTML artifacts recently, if you are curious to learn more on the topic: \nhttps://\nacademy.dair.ai/events/cmovobp\n97000904l5h0n9a2yz\n…\nDoing a second session and a few releases on our platform around artifacts.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "I did a talk on LLM Wikis and HTML artifacts recently, if you are curious to learn more on",
+    "thumbnail": "",
+    "score": 5.54,
+    "engagement": 2312,
+    "matched_keywords": [
+      "ai",
+      "llm"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "\"미국 제재에 오히려 감사\"…화웨이의 역설, 반도체 자립 가속화 자신감",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211145",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-05-31T09:59:52+00:00",
+    "raw_excerpt": "화웨이가 미국의 반도체 제재가 오히려 중국 반도체 산업 성장의 촉매제가 됐다며 \"감사하다\"는 입장을 밝혔다. 수년간 이어진 기술 봉쇄가 오히려 중국 기업들의 연구개발 투자와 독자 기술 확보를 자극했다는 주장이다.쉬즈쥔 화웨이 순환 회장 겸 부회장인 지난주 차세대 반도체 기술과 관련한 인터뷰에서 \"미국이 중국 기업과 산업을 압박하지 않았다면 지금과 같은 변화는 일어나지 않았을 것\"이라며 \"중국 반도체 산업 생태계가 성장할 수 있도록 만든 점에서는 미국에 감사하다\"라고 말했다.화웨이는 25일 행사에서 자체 개발한 ‘로직폴딩(LogicF",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "화웨이가 미국의 반도체 제재가 오히려 중국 반도체 산업 성장의 촉매제가 됐다며 \"감사하다\"는 입장을 밝혔다. 수년간 이어진 기술 봉쇄가 오히려 중국 기업들의 연구",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202605/211145_214015_580.jpg",
+    "score": 5.513,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "차세대"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "The efficiency frontier!",
+    "url": "https://x.com/omarsar0/status/2060823331775864844",
+    "source": "X @omarsar0",
+    "source_type": "x",
+    "published_at": "2026-05-30T20:39:05+00:00",
+    "raw_excerpt": "The efficiency frontier!\n\nWhere do you think GPT-5.6 will land?",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "The efficiency frontier!\n\nWhere do you think GPT-5.6 will land?",
+    "thumbnail": "",
+    "score": 5.185,
+    "engagement": 10231,
+    "matched_keywords": [
+      "gpt-5"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "아마존, 베드록 플랫폼에 ‘그록’ 추가 협상 중...\"주요 모델 다 모은다\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211146",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-05-31T12:26:33+00:00",
+    "raw_excerpt": "아마존웹서비스(AWS)가 AI 모델 ‘그록(Grok)’을 자체 생성 AI 플랫폼에 추가하는 방안을 추진하는 것으로 알려졌다. AWS는 AI 모델 선택지를 더 확대하게 되고, 머스크의 AI 사업은 수백만명의 기업 고객에게 접근할 수 있는 새로운 유통망을 확보하게 될 기회다.29일(현지시간) 비즈니스 인사이더에 따르면, AWS는 스페이스X의 그록을 자체 AI 플랫폼인 베드록(Bedrock)에 탑재하기 위한 협상을 진행 중이다. 스페이스X가 모델을 이미 AWS에 전달한 것으로 전해지면서, 실제 서비스 출시가 임박했다는 관측이 나오고 있다",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "아마존웹서비스(AWS)가 AI 모델 ‘그록(Grok)’을 자체 생성 AI 플랫폼에 추가하는 방안을 추진하는 것으로 알려졌다. AWS는 AI 모델 선택지를 더 확대",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202605/211146_214017_4654.jpg",
+    "score": 4.995,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "CNN, 퍼플렉시티에 저작권 소송…“수천 건 콘텐츠 무단 복제”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211147",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-05-31T12:04:08+00:00",
+    "raw_excerpt": "미국의 뉴스 채널 CNN이 퍼플렉시티를 상대로 저작권 침해 소송을 제기했다. 로이터에 따르면, CNN은 28일(현지시간) 뉴욕 연방지방법원에 제출한 소장에서 퍼플렉시티가 자사의 기사, 영상, 이미지 등 수천 건의 콘텐츠를 무단으로 복제해 AI 서비스 운영에 활용하고 있다고 주장했다.또 퍼플렉시티가 CNN의 보도 내용을 기반으로 원본과 동일하거나 실질적으로 유사한 경쟁 콘텐츠를 생성·배포함으로써 저작권을 침해하고 있다고 밝혔다.CNN은 소송을 통해 손해배상과 함께 퍼플렉시티가 자사의 지식재산권을 침해하는 행위를 중단하도록 하는 법원",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "미국의 뉴스 채널 CNN이 퍼플렉시티를 상대로 저작권 침해 소송을 제기했다. 로이터에 따르면, CNN은 28일(현지시간) 뉴욕 연방지방법원에 제출한 소장에서 퍼플",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202605/211147_214018_414.jpg",
+    "score": 4.975,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "LangChainGEPA",
+    "url": "https://t.co/P2Ox9M0siH",
+    "source": "X @hwchase17",
+    "source_type": "x",
+    "published_at": "2026-05-30T14:39:31+00:00",
+    "raw_excerpt": "LangChainGEPA\n\nshout out to \n@bryonkuchML\n for contributing a PR to the GEPA repo to make it work for LangChain!\n\nYou can now optimize your LangChain chains\n\nDocs: \nhttps://\ngepa-ai.github.io/gepa/tutorials\n/langchain_adapter_pair_sum_product_walkthrough/\n…",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "LangChainGEPA\n\nshout out to \n@bryonkuchML\n for contributing a PR to the GEPA repo to make",
+    "thumbnail": "",
+    "score": 4.935,
+    "engagement": 5476,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "We just adopted a super cool new space template for LocateAnything, made by ",
+    "url": "https://t.co/Ct9Bsp9bkn",
+    "source": "X @ZhidingYu",
+    "source_type": "x",
+    "published_at": "2026-05-30T06:32:20+00:00",
+    "raw_excerpt": "We just adopted a super cool new space template for LocateAnything, made by \n@_akhaliq\n  the great. Thank you AK!\n\nTry it out: \nhttps://\nhuggingface.co/spaces/nvidia/\nLocateAnything\n…\n\nCredit to AK's space example: \nhttps://\nhuggingface.co/spaces/akhaliq\n/LocateAnything\n…",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "We just adopted a super cool new space template for LocateAnything, made by \n@_akhaliq\n  t",
+    "thumbnail": "",
+    "score": 4.597,
+    "engagement": 8497,
+    "matched_keywords": [
+      "nvidia"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "In a few months, people will start to realize how fundamentally important MCP for agents is. ",
+    "url": "https://x.com/omarsar0/status/2060559932533989719",
+    "source": "X @omarsar0",
+    "source_type": "x",
+    "published_at": "2026-05-30T03:12:25+00:00",
+    "raw_excerpt": "In a few months, people will start to realize how fundamentally important MCP for agents is. \n\nIt's not even about connecting tools. There are many ways to do that.\n\nIt's about the types of abstraction it already enables. My new self-improving system, enabled through",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "In a few months, people will start to realize how fundamentally important MCP for agents i",
+    "thumbnail": "",
+    "score": 4.458,
+    "engagement": 14867,
+    "matched_keywords": [
+      "mcp"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "“이젠 글로벌이 기본값”…스타트업·VC 덮친 생태계 대전환",
+    "url": "https://www.etnews.com/20260531000017",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-05-31T02:00:00+00:00",
+    "raw_excerpt": "국내 스타트업 생태계가 벤처 혹한기를 지나 회복 국면에 접어들고 있지만, 생존 공식은 빠르게 바뀌고 있다는 진단이 나왔다. AI·딥테크 중심으로 투자시장이 재편되는 가운데 창업자와 투자자 모두 국내 시장 중심 사고에서 벗어나 글로벌 시장을 전제로 전략을 다시 짜야 한다는 위기감이 공유됐다. 28일부터 29일까지 부산 이스포츠경기장에서 열린 '2026 스타트업 생태계 컨퍼런스(스생컨)'에서는 투자 회복 이후 한국 스타트업 생태계가 풀어야 할 핵심",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "국내 스타트업 생태계가 벤처 혹한기를 지나 회복 국면에 접어들고 있지만, 생존 공식은 빠르게 바뀌고 있다는 진단이 나왔다. AI·딥테크 중심으로 투자시장이 재편되",
+    "thumbnail": "https://img.etnews.com/news/article/2026/05/30/news-p.v1.20260530.cc08be712fd54a558e96e606989ccdc8_P2.jpg",
+    "score": 4.407,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업",
+      "벤처",
+      "창업"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "Anthropic, OpenAI를 제치고 가장 가치 있는 AI 스타트업이 됨",
+    "url": "https://news.hada.io/topic?id=30033",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-05-31T00:36:48+00:00",
+    "raw_excerpt": "Anthropic 은 신규 투자 라운드 이후 평가액에서 OpenAI를 넘어 세계에서 가장 가치 있는 AI 스타트업이 됨 Claude 개발사 Anthropic의 평가액은 1조 달러에 근접 했으며, 2월 약 3,800억 달러에서 거의 3배 높아짐 Series H 라운드에서 6...",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Anthropic 은 신규 투자 라운드 이후 평가액에서 OpenAI를 넘어 세계에서 가장 가치 있는 AI 스타트업이 됨 Claude 개발사 Anthropic의 평",
+    "thumbnail": "https://social.news.hada.io/topic/30033",
+    "score": 4.35,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai",
+      "anthropic"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "\"페인트 모션 후 라보나 킥\"…현대차, RL로 구현한 휴머노이드 제어 기술 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211138",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-05-30T18:49:16+00:00",
+    "raw_excerpt": "현대자동차가 월드컵을 앞두고 자회사 보스턴 다이내믹스의 휴머노이드 로봇 아틀라스의 축구 동작 학습 과정을 담은 '스쿨 오브 풋볼(School of Football)' 캠페인 영상을 29일 공개했다.이 중 프롤로그와 첫 번째 시리즈에 해당하는 '기초 동작'은 지난 25일 선보여 화제가 됐다. 여기에 두 번째 훈련인 '킥'과 세 번째인 '라보나 킥'를 추가했다. 특히 29일에는 아틀라스가 수비수를 속이는 페인트 동작과 라보나 킥을 결합한 고난도 기술 '고스트 라보나 킥'이 하이라이트로 소개됐다.현대차는 정밀한 전신 제어 기술과 실시간",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "현대자동차가 월드컵을 앞두고 자회사 보스턴 다이내믹스의 휴머노이드 로봇 아틀라스의 축구 동작 학습 과정을 담은 '스쿨 오브 풋볼(School of Football",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202605/211138_214004_4510.jpg",
+    "score": 4.041,
+    "engagement": 0,
+    "matched_keywords": [
+      "휴머노이드"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+    "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-05-30T16:30:00+00:00",
+    "raw_excerpt": "The golden age of Microsoft's Github Copilot appears to be at an end.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "The golden age of Microsoft's Github Copilot appears to be at an end.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2023/11/github-copilot-chat-2.webp?w=1200",
+    "score": 3.863,
+    "engagement": 0,
+    "matched_keywords": [
+      "copilot",
+      "github copilot"
+    ],
+    "source_weight": 1.1
+  },
+  {
+    "title": "Claude Code - 문서가 알려주지 않는 설정 가능한 모든 것",
+    "url": "https://news.hada.io/topic?id=30030",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-05-30T23:42:31+00:00",
+    "raw_excerpt": "Claude Code 2.1.87 에는 문서화되지 않은 설정이 많고, 개인·프로젝트별 .claude/ 파일로 Hooks, Skills, Agents를 나눠 적용 가능함 Hook은 stdin JSON과 exit code뿐 아니라 stdout의 이벤트별 JSON 필드 로 명령 수정, 권한 결정, 컨텍스트 주입, 파...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Claude Code 2.1.87 에는 문서화되지 않은 설정이 많고, 개인·프로젝트별 .claude/ 파일로 Hooks, Skills, Agents를 나눠 적용",
+    "thumbnail": "https://social.news.hada.io/topic/30030",
+    "score": 3.812,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "claude code"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "스텝펀, ‘스텝 3.7 플래시’ 공개...\"클로드 97% 성능인데 비용은 1/9\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211130",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-05-30T12:47:59+00:00",
+    "raw_excerpt": "스텝펀이 멀티모달 기능과 에이전트 실행 능력을 대폭 강화한 차세대 모델을 공개했다. 이 모델은 이미지 이해 기능이 처음으로 탑재됐으며, 코딩과 도구 활용, 장기 작업 수행 능력에서 전작을 크게 뛰어넘는 성능을 기록했다. 스텝펀은 29일(현지시간) 총 1980억개(198B)의 매개변수를 갖춘 희소 전문가 혼합(MoE) 기반 비전-언어 모델 ‘스텝 3.7 플래시(Step 3.7 Flash)’를 오픈소스로 공개했다.1960개 규모의 언어 모델과 18억개 규모의 비전 인코더(ViT)를 결합해 이미지와 텍스트를 동시에 처리할 수 있도록 설계",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "스텝펀이 멀티모달 기능과 에이전트 실행 능력을 대폭 강화한 차세대 모델을 공개했다. 이 모델은 이미지 이해 기능이 처음으로 탑재됐으며, 코딩과 도구 활용, 장기",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202605/211130_213986_324.png",
+    "score": 3.715,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "I'm an iPhone user who switches to Gemini with Android Auto in the car - why I don't regret it",
+    "url": "https://www.zdnet.com/article/gemini-with-android-auto-beats-siri-in-car-heres-why/",
+    "source": "ZDNet (Global, AI)",
+    "source_type": "rss",
+    "published_at": "2026-05-31T00:00:41+00:00",
+    "raw_excerpt": "Gemini can help with a variety of tasks when behind the wheel. All you need is an Android phone and a car with Android Auto.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Gemini can help with a variety of tasks when behind the wheel. All you need is an Android",
+    "thumbnail": "https://www.zdnet.com/a/img/resize/9aa1ff30e479a0ea64d9cc23070cd4007be06d0e/2026/05/28/390769f6-6904-4177-8b25-2a6a380abcc2/figure-top-google-gemini-is-my-favorite-ai-assistant-when-im-driving.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "score": 3.657,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.1
+  },
+  {
+    "title": "구글, ‘나노 바나나 2·프로’ 정식 출시…\"동영상 보고 이미지 만든다\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211134",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-05-30T11:29:24+00:00",
+    "raw_excerpt": "구글이 기업용 미디어 시장 공략을 강화하기 위해 차세대 이미지 생성 모델 ‘나노 바나나 2(Nano Banana 2)’와 ‘나노 바나나 프로(Nano Banana Pro)’를 정식 출시했다. 특히 나노 바나나 2는 텍스트와 이미지를 넘어 동영상까지 입력으로 활용하는 기능을 추가하며 멀티모달 AI 경쟁력을 강화했다.구글은 29일(현지시간) 기업용 AI 플랫폼인 구글 클라우드 제미나이 엔터프라이즈 에이전트 플랫폼을 통해 나노 바나나 2(제미나이 3.1 플래시 이미지)와 나노 바나나 프로(제미나이 3 프로 이미지)를 일반 공급(GA)한다",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "구글이 기업용 미디어 시장 공략을 강화하기 위해 차세대 이미지 생성 모델 ‘나노 바나나 2(Nano Banana 2)’와 ‘나노 바나나 프로(Nano Banana",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202605/211134_213994_820.jpg",
+    "score": 3.644,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "블루 오리진 로켓 폭발 사고…스페이스X 독주 강화되나",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211133",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-05-30T11:04:58+00:00",
+    "raw_excerpt": "제프 베이조스의 우주기업 블루 오리진이 야심차게 추진하던 대형 로켓 개발에 중대한 차질이 발생했다. 차세대 대형 발사체 '뉴 글렌(New Glenn)'이 지상 시험 과정에서 폭발하면서, 스페이스X에 미칠 영향에 관심이 모이고 있다.블루 오리진의 뉴 글렌은 28일(현지시간) 플로리다 발사대에서 연소 시험 중 폭발했다. X를 통해 중계된 영상에는 거대한 로켓이 발사대에서 점화된 직후 거대한 화염과 연기를 뿜어냈다.이 사고로 인명 피해는 일어나지 않은 것으로 알려졌다. 블루 오리진은 정적 연소 시험 도중 이상 현상이 발생했다고 확인했다.",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "제프 베이조스의 우주기업 블루 오리진이 야심차게 추진하던 대형 로켓 개발에 중대한 차질이 발생했다. 차세대 대형 발사체 '뉴 글렌(New Glenn)'이 지상 시",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202605/211133_213992_217.png",
+    "score": 3.622,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "Attackers abuse shared ChatGPT and Claude chats to spread malware",
+    "url": "https://the-decoder.com/attackers-abuse-shared-chatgpt-and-claude-chats-to-spread-malware/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-05-30T10:32:22+00:00",
+    "raw_excerpt": "Attackers are exploiting the chat-sharing features in ChatGPT and Claude to spread malware through shared conversations. The chats mimic error messages or install guides and slip past security tools undetected because they're hosted on trusted domains. The article Attackers abuse shared ChatGPT and Claude chats to spread malware appeared first on The Decoder .",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Attackers are exploiting the chat-sharing features in ChatGPT and Claude to spread malware",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/06/neural_network_attack_cybersecurity.png",
+    "score": 3.59,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "chatgpt"
+    ],
+    "source_weight": 1.1
+  },
+  {
+    "title": "OpenAI's Codex can now operate your Windows PC autonomously, hunting bugs and testing apps on its own",
+    "url": "https://the-decoder.com/openais-codex-can-now-operate-your-windows-pc-autonomously-hunting-bugs-and-testing-apps-on-its-own/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-05-30T10:16:39+00:00",
+    "raw_excerpt": "OpenAI's Codex app now runs on Windows 11 with \"Computer Use\": the AI can independently control programs, test apps, and hunt for bugs. When no one's at the PC, the ChatGPT mobile app lets users start and monitor tasks remotely from their phone. The article OpenAI s Codex can now operate your Windows PC autonomously, hunting bugs and testing apps on its own appeared first on The Decoder .",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "OpenAI's Codex app now runs on Windows 11 with \"Computer Use\": the AI can independently co",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/openai_mouse_cursor.png",
+    "score": 3.578,
+    "engagement": 0,
+    "matched_keywords": [
+      "codex",
+      "chatgpt"
+    ],
+    "source_weight": 1.1
+  },
+  {
+    "title": "아프리카 전력 투자, 석탄·대형 수력서 태양광·BESS로 이동",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211066",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-05-30T09:50:00+00:00",
+    "raw_excerpt": "아프리카 신규 전력 프로젝트의 무게중심이 석탄화력과 대형 수력발전에서 태양광·풍력·배터리에너지 저장장치(BESS)로 이동하고 있다. 전력 수요는 빠르게 늘고 있지만 대형 발전소는 개발 기간과 금융비용 부담이 커, 각국 정부와 투자자가 짧은 기간에 단계적으로 구축할 수 있는 재생에너지 설비를 우선 검토하는 흐름이다.AP는 28일(현지시간) 아프리카 전력 개발 시장에서 태양광과 풍력, BESS가 차세대 전원 포트폴리오의 중심으로 떠오르고 있다고 보도했다.이달 초 중국과 잠비아가 발표한 15억달러(약 2조1750억원) 규모 에너지 협정에",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "아프리카 신규 전력 프로젝트의 무게중심이 석탄화력과 대형 수력발전에서 태양광·풍력·배터리에너지 저장장치(BESS)로 이동하고 있다. 전력 수요는 빠르게 늘고 있지",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202605/211066_213919_569.png",
+    "score": 3.554,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.3
+  }
+]

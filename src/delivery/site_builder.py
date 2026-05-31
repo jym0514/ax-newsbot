@@ -10,7 +10,7 @@ import logging
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 from ..config import ROOT, Config
-from ..state import load_all_days
+from ..state import load_all_days, load_insight
 
 log = logging.getLogger("axnewsbot.site")
 
@@ -57,6 +57,7 @@ def build_site(config: Config) -> int:
             date=date,
             groups=_group_by_topic(days[date], config),
             count=len(days[date]),
+            insight=load_insight(date),
             feedback_url=feedback_url,
             feedback_ready=feedback_ready,
             all_dates=dates_desc[:14],

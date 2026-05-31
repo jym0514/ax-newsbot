@@ -36,6 +36,49 @@ def _fallback_summary(article: Article) -> str:
     return (article.raw_excerpt or article.title)[:90].strip()
 
 
+_INSIGHT_PROMPT = """당신은 AI/테크 뉴스 다이제스트의 시니어 에디터입니다.
+오늘 큐레이션된 기사 목록을 읽고, 가장 중요한 흐름과 시사점을 4~5 문장의 한국어로 압축합니다.
+
+규칙:
+- 정확히 4~5 문장.
+- 개별 기사를 나열하지 말고, 여러 기사를 관통하는 패턴·테마·시사점을 짚습니다.
+- 첫 문장은 오늘의 가장 큰 흐름을 한 문장으로 요약.
+- 이어서 주요 동향 2~3개를 묶어 설명.
+- 마지막 문장은 기업·실무 관점의 시사점.
+- 자연스러운 한국어 문장. 과장·추측·기사에 없는 내용 금지.
+- 인사말·머리말·번호·불릿 없이 문장만 출력.
+"""
+
+
+def synthesize_insight(articles: list[Article], config: Config) -> str:
+    """오늘 큐레이션된 기사들을 종합해 4~5문장의 메타 인사이트를 생성한다."""
+    if not articles or not ANTHROPIC_API_KEY:
+        return ""
+    model = config.get("summary_model") or _MODEL_FALLBACK
+    bullets = []
+    for a in articles:
+        s = (a.summary or a.raw_excerpt or "").split("\n", 1)[0].strip()
+        label = a.topic_label or a.topic or ""
+        bullets.append(f"- [{label}] {a.title} — {s}")
+    user_msg = "오늘 큐레이션된 기사 목록:\n\n" + "\n".join(bullets)
+    try:
+        client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
+        resp = client.messages.create(
+            model=model,
+            max_tokens=600,
+            system=[{
+                "type": "text",
+                "text": _INSIGHT_PROMPT,
+                "cache_control": {"type": "ephemeral"},
+            }],
+            messages=[{"role": "user", "content": user_msg}],
+        )
+        return "".join(b.text for b in resp.content if b.type == "text").strip()
+    except Exception as e:  # noqa: BLE001
+        log.warning("핵심 인사이트 생성 실패: %s", e)
+        return ""
+
+
 def _summarize_one(client: anthropic.Anthropic, model: str, article: Article) -> str:
     user = (
         f"[제목] {article.title}\n"

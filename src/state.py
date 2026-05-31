@@ -86,3 +86,18 @@ def load_all_days() -> dict[str, list[dict]]:
         except Exception:
             continue
     return result
+
+
+def save_insight(day: str, text: str) -> None:
+    """그날의 '오늘의 핵심 인사이트'(4~5문장) 를 data/<날짜>.insight.txt 에 저장."""
+    if not text:
+        return
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
+    (DATA_DIR / f"{day}.insight.txt").write_text(text, encoding="utf-8")
+
+
+def load_insight(day: str) -> str:
+    p = DATA_DIR / f"{day}.insight.txt"
+    if p.exists():
+        return p.read_text(encoding="utf-8").strip()
+    return ""
