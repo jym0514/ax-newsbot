@@ -10,11 +10,12 @@ from __future__ import annotations
 
 import argparse
 import datetime as _dt
+import json
 import logging
 import os
 import sys
 
-from .config import TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID, Config
+from .config import ROOT, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID, Config
 from .delivery import site_builder, telegram
 from .pipeline import enrich as enrich_mod
 from .pipeline import filter as filter_mod
@@ -82,8 +83,21 @@ def _github_summary(lines: list[str]) -> None:
         pass
 
 
-def run(config: Config, dry_run: bool, run_date: str, force: bool) -> int:
-    log.info("=== AX 뉴스봇 시작 — %s (dry_run=%s) ===", run_date, dry_run)
+def run(
+    config: Config,
+    dry_run: bool,
+    run_date: str,
+    force: bool,
+    prepare_only: bool = False,
+) -> int:
+    """단일 단계 실행. prepare_only=True 면 텔레그램 발송·발송 마커를 건너뛴다.
+
+    워크플로에서는 prepare_only=True 로 사이트까지 만든 뒤 Pages 가 라이브에 올라간
+    다음 별도 단계에서 run_send_only() 가 텔레그램을 보낸다 (사이트 배포 전에
+    메시지가 가서 링크 클릭 시 404 가 뜨는 문제를 막기 위함).
+    """
+    log.info("=== AX 뉴스봇 시작 — %s (dry_run=%s, prepare_only=%s) ===",
+             run_date, dry_run, prepare_only)
 
     if not dry_run and not force and not _is_business_day(run_date):
         log.info("%s 은 주말 또는 공휴일(한국 기준) — 발송 생략, 인사이트 백필 + 사이트 재배포", run_date)
@@ -94,7 +108,8 @@ def run(config: Config, dry_run: bool, run_date: str, force: bool) -> int:
 
     state = State()
 
-    if state.already_sent(run_date) and not dry_run and not force:
+    # prepare 단계는 같은 날 재실행해도 안전하므로 already_sent 체크를 건너뛴다.
+    if not prepare_only and state.already_sent(run_date) and not dry_run and not force:
         log.info("%s 다이제스트는 이미 발송됨 — 종료(--force 로 재발송)", run_date)
         return 0
 
@@ -122,12 +137,14 @@ def run(config: Config, dry_run: bool, run_date: str, force: bool) -> int:
     summarized_ok = summarizer.summarize(selected, config)
     insight = summarizer.synthesize_insight(selected, config)
 
-    # 7. 텔레그램 발송
+    # 7. 텔레그램 발송 (prepare-only 모드에서는 건너뛴다)
     archive_base = (config.get("archive_base_url") or "").rstrip("/")
     archive_url = f"{archive_base}/{run_date}.html"
     messages = telegram.build_messages(selected, run_date, archive_url)
     sent, expected, send_failed = 0, len(messages), False
-    if dry_run:
+    if prepare_only:
+        log.info("[prepare-only] 텔레그램은 사이트 배포 후 별도 단계에서 발송")
+    elif dry_run:
         log.info("[dry-run] 텔레그램 미발송 — 메시지 %d개 미리보기:", len(messages))
         for m in messages:
             print("\n" + "─" * 64 + "\n" + m)
@@ -146,7 +163,8 @@ def run(config: Config, dry_run: bool, run_date: str, force: bool) -> int:
     if not dry_run:
         for a in selected:
             state.mark_seen(url_id(a.url), run_date)
-        if not send_failed:
+        # 발송 마커는 실제로 텔레그램이 나간 경우에만 — prepare-only 는 건너뛴다.
+        if not prepare_only and not send_failed:
             state.mark_sent(run_date)
         state.save()
 
@@ -174,6 +192,57 @@ def run(config: Config, dry_run: bool, run_date: str, force: bool) -> int:
     return 1 if send_failed else 0
 
 
+def run_send_only(config: Config, run_date: str) -> int:
+    """이미 준비된 data/<날짜>.json 를 읽어 텔레그램 발송만 수행.
+
+    워크플로에서 Pages 배포 완료 후 호출 — 사이트가 라이브에 올라간 다음에야
+    메시지가 나가도록 한다.
+    """
+    log.info("=== send-only 단계 — %s ===", run_date)
+
+    if not _is_business_day(run_date):
+        log.info("%s 은 주말/공휴일 — 발송 생략", run_date)
+        return 0
+
+    state = State()
+    if state.already_sent(run_date):
+        log.info("%s 다이제스트는 이미 발송됨 — 생략", run_date)
+        return 0
+
+    p = ROOT / "data" / f"{run_date}.json"
+    if not p.exists():
+        log.warning("발송할 data/%s.json 가 없음 — prepare 단계가 누락됐는지 확인", run_date)
+        return 0
+
+    try:
+        raw = json.loads(p.read_text(encoding="utf-8"))
+    except Exception as e:  # noqa: BLE001
+        log.error("data 로드 실패: %s", e)
+        return 1
+    articles = [Article.from_dict(d) for d in raw]
+    if not articles:
+        log.info("선별된 기사가 없음 — 발송 생략")
+        return 0
+
+    archive_base = (config.get("archive_base_url") or "").rstrip("/")
+    archive_url = f"{archive_base}/{run_date}.html"
+    messages = telegram.build_messages(articles, run_date, archive_url)
+
+    if not (TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID):
+        log.error("TELEGRAM_BOT_TOKEN/CHAT_ID 미설정 — 발송 생략")
+        return 1
+
+    sent, expected = telegram.send(messages, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID)
+    log.info("텔레그램 발송 %d/%d", sent, expected)
+    if sent < expected:
+        return 1
+
+    state.mark_sent(run_date)
+    state.save()
+    log.info("=== send-only 완료 ===")
+    return 0
+
+
 def main() -> None:
     _setup_logging()
     parser = argparse.ArgumentParser(description="AX 뉴스봇 일일 다이제스트")
@@ -182,12 +251,25 @@ def main() -> None:
     parser.add_argument("--date", default=None, help="실행 날짜 강제 지정(YYYY-MM-DD)")
     parser.add_argument("--force", action="store_true",
                         help="이미 발송된 날짜여도 재실행")
+    parser.add_argument("--prepare-only", action="store_true",
+                        help="텔레그램 발송·발송 마커 없이 수집·요약·사이트만 준비")
+    parser.add_argument("--send-only", action="store_true",
+                        help="이미 준비된 data 로 텔레그램 발송만 (Pages 배포 후 호출)")
     args = parser.parse_args()
 
     config = Config()
     run_date = args.date or local_today(config.get("timezone", "Asia/Seoul"))
     try:
-        code = run(config, dry_run=args.dry_run, run_date=run_date, force=args.force)
+        if args.send_only:
+            code = run_send_only(config, run_date)
+        else:
+            code = run(
+                config,
+                dry_run=args.dry_run,
+                run_date=run_date,
+                force=args.force,
+                prepare_only=args.prepare_only,
+            )
     except Exception as e:  # noqa: BLE001
         log.exception("치명적 오류: %s", e)
         code = 2

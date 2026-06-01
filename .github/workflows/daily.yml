@@ -17,6 +17,9 @@ concurrency:
 jobs:
   digest:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -30,14 +33,13 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run digest
-        id: digest
-        continue-on-error: true   # 발송 실패해도 데이터 커밋 + Pages 배포는 진행
+      # ── 1단계: 수집 → 요약 → 사이트 빌드 (텔레그램 발송은 아직)
+      - name: Prepare digest (no telegram)
+        id: prepare
+        continue-on-error: true
         env:
-          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python -m src.main
+        run: python -m src.main --prepare-only
 
       - name: Commit data & state
         if: always()
@@ -67,20 +69,36 @@ jobs:
         with:
           path: site
 
-      - name: Fail run if digest errored
-        if: always() && steps.digest.outcome == 'failure'
-        run: |
-          echo "::error::다이제스트 단계 실패 — 로그와 Job Summary 를 확인하세요."
-          exit 1
-
-  deploy:
-    needs: digest
-    if: always()
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
+      # ── 2단계: Pages 배포 (사이트가 라이브에 올라갈 때까지 대기)
       - name: Deploy to GitHub Pages
-        id: deployment
+        id: deploy
+        if: always()
         uses: actions/deploy-pages@v4
+
+      # ── 3단계: 사이트가 라이브에 올라간 다음에야 텔레그램 발송
+      - name: Send Telegram (after Pages is live)
+        id: send
+        if: always() && steps.deploy.outcome == 'success'
+        continue-on-error: true
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python -m src.main --send-only
+
+      - name: Commit sent marker
+        if: always()
+        run: |
+          git pull --rebase --autostash || true
+          git add state
+          if git diff --cached --quiet; then
+            echo "커밋할 변경 없음"
+          else
+            git commit -m "chore: 발송 마커 $(date -u +%F) [skip ci]"
+            git push
+          fi
+
+      - name: Fail run if prepare or send errored
+        if: always() && (steps.prepare.outcome == 'failure' || steps.send.outcome == 'failure')
+        run: |
+          echo "::error::prepare 또는 send 단계 실패 — 로그/Job Summary 를 확인하세요."
+          exit 1
