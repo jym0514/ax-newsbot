@@ -119,7 +119,27 @@
     "6b77752cc0f6aeeb": "2026-06-02",
     "e772463323a35528": "2026-06-02",
     "ed89322d68adae3f": "2026-06-02",
-    "976836c06d3716a7": "2026-06-02"
+    "976836c06d3716a7": "2026-06-02",
+    "a905ff98f18ad29c": "2026-06-02",
+    "f38070979fa14b41": "2026-06-02",
+    "f6bd940b460ef157": "2026-06-02",
+    "13d9f45daa8baa3a": "2026-06-02",
+    "bec6e908d6f047dd": "2026-06-02",
+    "4ebd43ab98c84d5e": "2026-06-02",
+    "73e39cea434f5afc": "2026-06-02",
+    "5248c514c8245854": "2026-06-02",
+    "b91f6e1c29dd12a4": "2026-06-02",
+    "b888b4bc04aaec4d": "2026-06-02",
+    "77f62e0eab3c2cd6": "2026-06-02",
+    "6d9c39e424eb6cbd": "2026-06-02",
+    "3bcaaeee0c282c09": "2026-06-02",
+    "741ab47205ce3009": "2026-06-02",
+    "8e5e345e77f28995": "2026-06-02",
+    "32bf6c6bebaca48a": "2026-06-02",
+    "65ae950e23b00581": "2026-06-02",
+    "dce83200ec192152": "2026-06-02",
+    "5500ae0fd80e879b": "2026-06-02",
+    "8655beb1b03c2ab8": "2026-06-02"
   },
   "thumbnails": {
     "0f5e1c2edce9896d": "https://cdn.aitimes.kr/news/thumbnail/202605/40186_60671_3958_v150.jpg",
@@ -230,7 +250,17 @@
     "6b77752cc0f6aeeb": "https://cdn.aitimes.com/news/photo/202606/211191_214072_504.png",
     "e772463323a35528": "https://social.news.hada.io/topic/30079",
     "ed89322d68adae3f": "https://cdn.aitimes.kr/news/thumbnail/202606/40289_60803_121_v150.jpg",
-    "976836c06d3716a7": "https://cdn.aitimes.com/news/photo/202606/211204_214086_1039.jpg"
+    "976836c06d3716a7": "https://cdn.aitimes.com/news/photo/202606/211204_214086_1039.jpg",
+    "bec6e908d6f047dd": "https://cdn.aitimes.kr/news/thumbnail/202606/40297_60814_2137_v150.jpg",
+    "6d9c39e424eb6cbd": "https://cdn.aitimes.com/news/photo/202606/211194_214075_1620.jpg",
+    "3bcaaeee0c282c09": "https://cdn.aitimes.com/news/photo/202606/211182_214061_146.jpeg",
+    "741ab47205ce3009": "https://social.news.hada.io/topic/30084",
+    "8e5e345e77f28995": "https://social.news.hada.io/topic/30072",
+    "32bf6c6bebaca48a": "https://cdn.aitimes.com/news/photo/202606/211158_214035_81.jpg",
+    "65ae950e23b00581": "https://cdn-uploads.huggingface.co/production/uploads/65b12ed52be9660f0b7e5f72/mu_IH3lDD1qGRQZptFmPP.png",
+    "dce83200ec192152": "https://techcrunch.com/wp-content/uploads/2026/06/Pic-8.jpg?resize=1200,675",
+    "5500ae0fd80e879b": "https://cdn.newstheai.com/news/photo/202606/20782_21328_641.jpg",
+    "8655beb1b03c2ab8": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/lcimg-0ebbe911-9fbb-4f68-97b0-b7361d7cb53c.jpeg?quality=90&strip=all&crop=0%2C10.604950381935%2C100%2C78.79009923613&w=1200"
   },
   "last_sent_date": "2026-06-02"
 }

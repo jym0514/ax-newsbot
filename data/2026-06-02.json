@@ -1,331 +1,221 @@
 [
   {
-    "title": "\"x86보다 1.8배 빠르다\"...엔비디아, AI 에이전트 시대 위한 첫 전용 CPU '베라' 공개",
-    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40301",
-    "source": "인공지능신문",
-    "source_type": "rss",
-    "published_at": "2026-06-01T18:58:12+00:00",
-    "raw_excerpt": "엔비디아(NVIDIA)가 AI 에이전트 시대를 겨냥한 첫 전용 중앙처리장치(CPU) '베라(Vera)'를 공개했다. 엔비디아는 베라를 통해 기존 GPU 중심 AI 인프라를 넘어 에이전틱 AI(Agentic AI), 강화학습, 데이터 처리 등 차세대 AI 워크로드 전반을 아우르는 새로운 데이터센터 플랫폼 전략을 본격화한다.엔비디아는 1일(현지시간) 대만 타이베이에서 열린 '엔비디아 GTC 타이베이(NVIDIA GTC Taipei)'에서 AI 에이전트를 위해 설계된 차세대 CPU 베라를 발표했다고 밝혔다.베라는 현재 양산 단계에 진입한",
-    "topic": "ai_agent",
-    "topic_label": "🤖 AI Agent / Agentic AI",
-    "summary": "엔비디아가 AI 에이전트 시대를 위해 x86 대비 1.8배 빠른 첫 전용 CPU '베라'를 공개했다.",
-    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40301_60818_111_v150.jpg",
-    "score": 6.423,
-    "engagement": 0,
-    "matched_keywords": [
-      "agentic",
-      "agentic ai",
-      "에이전트",
-      "에이전틱",
-      "ai 에이전트"
-    ],
-    "source_weight": 1.2
-  },
-  {
-    "title": "[게시판] 베스핀글로벌, 우리금융그룹 ‘AI 연구환경 운영 사업’ 선정 등 단신",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=211178",
-    "source": "AI타임스",
-    "source_type": "rss",
-    "published_at": "2026-06-01T17:00:00+00:00",
-    "raw_excerpt": "■ 베스핀글로벌(대표 허양호)은 우리금융지주의 ‘AI 연구환경 운영’ 사업에 선정됐다고 밝혔다. 이번 프로젝트에서는 베스핀글로벌의 AI 플랫폼 ‘헬프나우 AI 파운드리'를 활용해 AWS 기반 독립형 연구환경 아키텍처를 구축한다. 이를 통해 금융권의 망분리 규제 환경에서도 생성형 AI와 대형언어모델(LLM) 등을 안정적으로 실험·검증할 수 있는 환경을 제공할 예정이다. ■ 노타(대표 채명수)는 엔비디아의 AI 기반 영상 검색·요약 기술인 'VSS'를 활용해 자체 영상관제 솔루션 'NVA'를 고도화했다고 밝혔다. NVA는 비전언어모델(",
+    "title": "The OpenAI Foundation is doing a lot of wonderful things.",
+    "url": "https://x.com/sama/status/2061562575322492937",
+    "source": "X @sama",
+    "source_type": "x",
+    "published_at": "2026-06-01T21:36:34+00:00",
+    "raw_excerpt": "The OpenAI Foundation is doing a lot of wonderful things.\n\nHelping society become resilient to AI is going to be incredibly important. Much more to come here!",
     "topic": "ai_ax_trends",
     "topic_label": "🌐 국내외 AI/AX 최신 동향",
-    "summary": "베스핀글로벨이 우리금융그룹의 AI 연구환경 운영 사업에 선정돼 망분리 규제 하에서도 생성형 AI 실험이 가능한 AWS 기반 독립형 연구환경을 구축한다.",
-    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211178_214103_456.jpg",
-    "score": 6.202,
-    "engagement": 0,
+    "summary": "OpenAI Foundation이 AI에 대한 사회의 탄력성을 높이기 위해 여러 활동을 추진 중이다.",
+    "thumbnail": "",
+    "score": 5.9,
+    "engagement": 103239,
     "matched_keywords": [
       "ai",
-      "llm",
-      "엔비디아",
-      "생성형 ai"
+      "openai"
     ],
-    "source_weight": 1.3
+    "source_weight": 1.0
   },
   {
-    "title": "엔비디아, 로보택시용 추론 AI 모델 ‘알파마요 2 슈퍼’ 공개…레벨4 자율주행 개발 가속",
-    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40299",
-    "source": "인공지능신문",
-    "source_type": "rss",
-    "published_at": "2026-06-01T17:43:08+00:00",
-    "raw_excerpt": "엔비디아(NVIDIA)가 로보택시와 차세대 자율주행차 개발을 위한 새로운 추론 기반 인공지능(AI) 모델 ‘알파마요 2 슈퍼(Alpamayo 2 Super)’를 공개했다. 오픈 모델과 시뮬레이션, 강화학습, 피지컬 AI 기술을 통합해 안전한 레벨4(Level 4) 자율주행차 개발을 지원한다는 전략이다.엔비디아는 1일(현지시간) 대만 타이베이에서 열린 ‘엔비디아 GTC 타이베이(NVIDIA GTC Taipei)’에서 320억개 파라미터 규모의 비전·언어·행동(VLA, Vision Language Action) 모델인 알파마요 2 슈퍼",
+    "title": "It's cool to see that the ",
+    "url": "https://t.co/qDU3by4Yen",
+    "source": "X @ClementDelangue",
+    "source_type": "x",
+    "published_at": "2026-06-01T21:28:19+00:00",
+    "raw_excerpt": "It's cool to see that the \nhttp://\nhf.co/blog has become progressively a major source of learning and news about AI for the community.\n\nJust look at the recent content created & major announcements & tutorial from \n@openclaw\n, \n@nvidia\n, \n@jetbrains\n, \n@IBMResearch\n,...\n\nWhat is the",
     "topic": "ai_ax_trends",
     "topic_label": "🌐 국내외 AI/AX 최신 동향",
-    "summary": "엔비디아가 로보택시 개발용 추론 AI 모델 '알파마요 2 슈퍼'를 공개하며 레벨4 자율주행차 개발을 가속화하고 있다.",
-    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40299_60816_4247_v150.jpg",
-    "score": 5.761,
-    "engagement": 0,
+    "summary": "Hugging Face 블로그가 OpenAI, NVIDIA, JetBrains, IBM 등 주요 기업들의 AI 관련 콘텐츠와 공지사항을 담으며 AI 커뮤니티의 주요 학습·정보 출처로 성장했다.",
+    "thumbnail": "",
+    "score": 5.894,
+    "engagement": 6655,
     "matched_keywords": [
       "ai",
-      "인공지능",
-      "nvidia",
-      "엔비디아"
+      "nvidia"
     ],
-    "source_weight": 1.2
+    "source_weight": 1.0
   },
   {
-    "title": "엔비디아, TSMC 첨단 팹에 AI 전면 도입…반도체 설계·제조 혁신 가속",
-    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40298",
-    "source": "인공지능신문",
-    "source_type": "rss",
-    "published_at": "2026-06-01T17:36:25+00:00",
-    "raw_excerpt": "엔비디아(NVIDIA)가 세계 최대 파운드리 기업 TSMC와 협력해 인공지능(AI)과 가속 컴퓨팅 기술을 반도체 설계·제조 전 과정에 적용하며 차세대 반도체 생산 혁신에 나선다.엔비디아는 1일(현지시간) 대만 타이베이에서 열린 엔비디아 GTC 타이베이(NVIDIA GTC Taipei) 행사에서 TSMC가 엔비디아의 가속 컴퓨팅과 AI 기술을 활용해 첨단 반도체 설계 및 제조 역량을 고도화하고 있다고 발표했다.양사는 리소그래피(노광), 트랜지스터 시뮬레이션, 첨단 공정 제어, 웨이퍼 검사, 팹(Fab) 운영 최적화 등 반도체 생산 전",
-    "topic": "ai_ax_trends",
-    "topic_label": "🌐 국내외 AI/AX 최신 동향",
-    "summary": "엔비디아와 TSMC가 AI와 가속 컴퓨팅을 반도체 설계·제조 전 과정에 도입해 차세대 반도체 생산을 혁신한다.",
-    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40298_60815_365_v150.jpg",
-    "score": 5.755,
-    "engagement": 0,
-    "matched_keywords": [
-      "ai",
-      "인공지능",
-      "nvidia",
-      "엔비디아"
-    ],
-    "source_weight": 1.2
-  },
-  {
-    "title": "엔비디아, 피지컬 AI 위한 대규모 오픈소스 에이전트 도구·스킬 모음 공개",
-    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40296",
-    "source": "인공지능신문",
-    "source_type": "rss",
-    "published_at": "2026-06-01T16:58:16+00:00",
-    "raw_excerpt": "엔비디아(NVIDIA)가 아시아 최대 ICT 전시회 컴퓨텍스(COMPUTEX) 2026을 맞이해 1일 개최한 엔비디아 GTC 타이베이(NVIDIA GTC Taipei)에서 대규모 오픈소스 피지컬 인공지능 스킬(Physical AI Skill-다운)과 도구 모음을 발표했다. 이를 통해 개발자는 복잡한 로보틱스, 자율주행차, 비전 AI, 산업용 디지털 트윈 워크플로우를 에이전트가 즉시 실행 가능한 작업으로 전환할 수 있다. 또한 대규모 피지컬 AI 워크플로우 구축에 필요한 비용, 시간, 복잡성을 크게 줄일 수 있다.AI 에이전트는 단순",
-    "topic": "ai_ax_trends",
-    "topic_label": "🌐 국내외 AI/AX 최신 동향",
-    "summary": "엔비디아가 로봇·자율주행 등 피지컬 AI 개발을 가속화하기 위해 오픈소스 에이전트 도구와 스킬 모음을 공개했다.",
-    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40296_60812_5228_v150.jpg",
-    "score": 5.723,
-    "engagement": 0,
-    "matched_keywords": [
-      "ai",
-      "인공지능",
-      "nvidia",
-      "엔비디아"
-    ],
-    "source_weight": 1.2
-  },
-  {
-    "title": "앤트로픽, 비공개 IPO 신청서 제출…오픈AI보다 먼저 주도권 확보",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=211223",
-    "source": "AI타임스",
-    "source_type": "rss",
-    "published_at": "2026-06-02T06:17:39+00:00",
-    "raw_excerpt": "앤트로픽이 미국 증시 상장을 위한 비공개 기업공개(IPO) 신청서를 제출했다. 오픈AI보다 먼저 상장 절차에 돌입함으로써 시장 주도권을 선점하겠다는 의도다.앤트로픽은 1일(현지시간) 공지를 통해 이날 미국 증권거래위원회(SEC)에 IPO를 위한 예비 등록신고서(S-1)를 제출했다고 발표했다. 주식 수와 가격은 아직 정해지지 않았다고 덧붙였다.이번 상장 추진에 앞서 앤트로픽은 몸값을 크게 끌어올렸다. 지난달 28일 발표한 시리즈 H 라운드에서는 650억달러(약 98조원)의 자금을 조달하며 기업 가치 9650억달러(약 1460조원)를",
-    "topic": "ai_ax_trends",
-    "topic_label": "🌐 국내외 AI/AX 최신 동향",
-    "summary": "앤트로픽이 오픈AI보다 먼저 SEC에 IPO 신청서를 제출하며 AI 업계의 상장 주도권 경쟁에서 앞서나갔다.",
-    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211223_214112_1553.jpg",
-    "score": 5.622,
-    "engagement": 0,
-    "matched_keywords": [
-      "ai",
-      "오픈ai"
-    ],
-    "source_weight": 1.3
-  },
-  {
-    "title": "팀스파르타, 사내 ‘AI 토큰 리더보드’ 운영…”AX 모니터링 체계 갖춰”",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=211207",
-    "source": "AI타임스",
-    "source_type": "rss",
-    "published_at": "2026-06-01T16:34:21+00:00",
-    "raw_excerpt": "팀스파르타가 국내 기업으로는 드물게 사내 ‘토큰 리더보드’를 운영 중이라고 1일 밝혔다. 팀스파르타는 최근 브랜드를 전면 개편하고, ‘AI 네이티브(AI-Native)’ 조직으로의 전환을 공식 선언했다. 이번 리브랜딩을 통해 AI 역량 진단부터 맞춤형 교육, 기술 솔루션까지 전 산업의 AX를 엔드투엔드로 지원하는 파트너로서 자리 잡겠다는 계획이다.특히, 팀스파르타의 AI 네이티브 조직은 구성원이 문제 해결과 의사결정 등 업무 본질에 집중하고, AI가 반복 업무를 수행하는 등 업무 체계 전반을 재설계하는 것이 목표다. 개인의 업무 노",
-    "topic": "enterprise_ai",
-    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
-    "summary": "팀스파르타가 사내 'AI 토큰 리더보드'를 운영하며 AI 네이티브 조직 전환을 선언, AX 모니터링 체계를 갖춘다.",
-    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211207_214091_4641.jpeg",
-    "score": 5.529,
-    "engagement": 0,
-    "matched_keywords": [
-      "사내",
-      "조직",
-      "ax"
-    ],
-    "source_weight": 1.3
-  },
-  {
-    "title": "기가 막힌 ‘페이트 모션’… 현대차가 공개한 휴머노이드",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=211215",
-    "source": "AI타임스",
-    "source_type": "rss",
-    "published_at": "2026-06-02T06:55:00+00:00",
-    "raw_excerpt": "AI타임스 조예주 기자 joyejuoffice@aitimes.com",
-    "topic": "tech_trends",
-    "topic_label": "🔥 핫 테크 트렌드",
-    "summary": "현대차가 공개한 휴머노이드 로봇 '페이트 모션'이 뛰어난 동작 능력으로 주목받고 있습니다.",
-    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211215_214098_4610.jpg",
-    "score": 5.006,
-    "engagement": 0,
-    "matched_keywords": [
-      "휴머노이드"
-    ],
-    "source_weight": 1.3
-  },
-  {
-    "title": "\"LLM 비용 90% 줄인다\"…넷플릭스 엔지니어가 개발한 '토큰 다이어트' 도구 화제",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=211214",
-    "source": "AI타임스",
-    "source_type": "rss",
-    "published_at": "2026-06-01T18:54:08+00:00",
-    "raw_excerpt": "넷플릭스의 한 엔지니어가 개발한 오픈소스 프로젝트가 AI 운영 비용을 획기적으로 줄이는 해법으로 주목받고 있다.30일(현지시간) 더 레지스터에 따르면, 넷플릭스 수석 엔지니어인 테자스 초프라는 최근 오픈소스 서밋(Open Source Summit)에서 자신이 개발한 오픈소스 프로젝트 ‘헤드룸(Headroom)’을 소개했다.그는 이 도구가 사용자들에게 지금까지 70만달러(약 10억원)의 비용 절감 효과를 제공했다고 밝혔다. 절감된 토큰 규모는 2000억개에 달한다.초프라 수석 엔지니어는 AI 모델에 전달되는 입력 데이터의 상당 부분이",
-    "topic": "ai_ax_trends",
-    "topic_label": "🌐 국내외 AI/AX 최신 동향",
-    "summary": "넷플릭스 엔지니어가 개발한 '헤드룸' 도구가 LLM 비용을 최대 90% 절감하며 지금까지 70만달러의 운영비 절감 효과를 제공하고 있다.",
-    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211214_214099_482.jpg",
-    "score": 5.005,
-    "engagement": 0,
-    "matched_keywords": [
-      "ai",
-      "llm"
-    ],
-    "source_weight": 1.3
-  },
-  {
-    "title": "\"가상 세계도 멀티플레이\"…엔비디아, 다중 에이전트 월드 모델 ‘감마 월드’ 공개",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=211203",
-    "source": "AI타임스",
-    "source_type": "rss",
-    "published_at": "2026-06-01T18:18:28+00:00",
-    "raw_excerpt": "엔비디아가 여러 AI 에이전트가 동시에 상호작용하는 가상 세계를 실시간으로 생성할 수 있는 새로운 월드 모델을 발표했다. 이번 연구는 기존의 단일 에이전트 중심 AI 시뮬레이션을 넘어 여러 플레이어와 로봇이 하나의 환경을 공유하는 ‘멀티플레이어 월드 모델’ 시대를 여는 기술로 평가받고 있다.엔비디아 연구진은 27일(현지시간) 기존의 단일 에이전트 중심 세계 모델을 넘어 다수의 플레이어와 로봇이 함께 활동하는 복잡한 환경을 효율적으로 시뮬레이션할 수 있는 월드 모델 ‘감마 월드(γ-World)’를 온라인 아카이브를 통해 공개했다. 앞",
-    "topic": "ai_agent",
-    "topic_label": "🤖 AI Agent / Agentic AI",
-    "summary": "엔비디아가 여러 AI 에이전트가 동시에 상호작용하는 가상 세계를 실시간 생성하는 '감마 월드' 멀티플레이어 월드 모델을 공개했다.",
-    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211203_214095_1529.png",
-    "score": 4.973,
-    "engagement": 0,
-    "matched_keywords": [
-      "에이전트",
-      "ai 에이전트"
-    ],
-    "source_weight": 1.3
-  },
-  {
-    "title": "'클로드 오퍼스 4.8' 딥SWE 벤치마크에 첫 등장...1위는 여전히 'GPT-5.5'",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=211211",
-    "source": "AI타임스",
-    "source_type": "rss",
-    "published_at": "2026-06-01T18:00:00+00:00",
-    "raw_excerpt": "앤트로픽의 최신 모델 '클로드 오퍼스 4.8'이 새로운 코딩 벤치마크에 처음 포함됐지만, 'GPT-5.5'를 제치지는 못했다.스타트업 데이터커브는 30일(현지시간) AI 코딩 평가 시스템 ‘딥SWE(DeepSWE)’의 업데이트를 통해 클로드 오퍼스 4.8을 포함했다.이에 따르면, 클로드 오퍼스 4.8은 58%의 정답률을 기록, 이전 버전인 '클로드 오퍼스 4.7'의 54%와 'GPT-5.4'의 56%를 뛰어 넘었다. 그러나 기존 1위인 GPT-5.5의 70%와는 12%포인트 격차를 보였다.특히 GPT-5.5는 정답률뿐 아니라 비용과",
+    "title": "We've reset 5-hour and weekly rate limits for all users on Pro and Max plans.",
+    "url": "https://x.com/ClaudeDevs/status/2061501787769893055",
+    "source": "X @ClaudeDevs",
+    "source_type": "x",
+    "published_at": "2026-06-01T17:35:01+00:00",
+    "raw_excerpt": "We've reset 5-hour and weekly rate limits for all users on Pro and Max plans.\n\nWe fixed an issue that caused some Claude Code sessions to spawn excessive parallel subagents, burning through usage faster than expected.",
     "topic": "ai_tools",
     "topic_label": "🛠️ AI 툴 동향 & 활용",
-    "summary": "Claude Opus 4.8이 딥SWE 코딩 벤치마크에 처음 등재되어 58% 정답률을 기록했지만, GPT-5.5의 70%에는 미치지 못했다.",
-    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211211_214094_415.png",
-    "score": 4.956,
-    "engagement": 0,
+    "summary": "Claude가 Pro와 Max 요금제 사용자의 5시간 및 주간 사용량 제한을 초기화했으며, 과다한 병렬 서브에이전트 생성으로 인한 사용량 초과 문제를 해결했다.",
+    "thumbnail": "",
+    "score": 5.732,
+    "engagement": 900135,
     "matched_keywords": [
-      "gpt-5",
-      "ai 코딩"
+      "claude",
+      "claude code"
     ],
-    "source_weight": 1.3
+    "source_weight": 1.0
   },
   {
-    "title": "어센트AI, 환각 없는 마케팅 에이전트 '리스닝마인드.AI' 출시",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=211184",
-    "source": "AI타임스",
-    "source_type": "rss",
-    "published_at": "2026-06-01T14:48:16+00:00",
-    "raw_excerpt": "마케팅 AI 전문 어센트 AI(대표 박세용)는 잠재고객 행동 데이터를 바탕으로 마케터 핵심 업무를 자동화하는 AI 에이전트 플랫폼 ‘리스닝마인드.AI(ListeningMind.AI)’를 정식 출시했다고 1일 밝혔다.마케터의 실행력을 극대화하는 '광고 소재 제작 에이전트'와 전략 수립을 돕는 '마케팅 리포트 에이전트'로 구성돼 있다. 먼저, 광고 소재 제작 에이전트는 제품 URL이나 이미지만 등록하면 타깃 잠재고객이 가장 강하게 반응할 소구점과 카피를 자동 생성해 준다.마케팅 리포트 에이전트는 수백만원 상당 시장조사 보고서 수준의 인",
-    "topic": "ai_agent",
-    "topic_label": "🤖 AI Agent / Agentic AI",
-    "summary": "어센트AI가 잠재고객 행동 데이터를 기반으로 광고 소재 제작과 마케팅 전략 수립을 자동화하는 AI 에이전트 플랫폼 '리스닝마인드.AI'를 출시했다.",
-    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211184_214063_163.png",
-    "score": 4.783,
-    "engagement": 0,
+    "title": "So much great work lately from Nvidia, the \"King of American Open-source AI\"!",
+    "url": "https://x.com/ClementDelangue/status/2061487081315094906",
+    "source": "X @ClementDelangue",
+    "source_type": "x",
+    "published_at": "2026-06-01T16:36:35+00:00",
+    "raw_excerpt": "So much great work lately from Nvidia, the \"King of American Open-source AI\"!\n\n- Crossed 1,000 total public repositories on \n@huggingface\n (820 models, 249 datasets & 57 spaces) & almost 60,000 followers\n- Current #1 trending model on HF with LocateAnything and #5 trending with PiD",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Nvidia가 Hugging Face에서 1,000개 공개 저장소를 돌파하며 미국 오픈소스 AI 분야의 선두주자로 입지를 강화했다.",
+    "thumbnail": "",
+    "score": 5.691,
+    "engagement": 56950,
     "matched_keywords": [
-      "에이전트",
-      "ai 에이전트"
+      "ai",
+      "nvidia"
     ],
-    "source_weight": 1.3
+    "source_weight": 1.0
   },
   {
-    "title": "KAIST 등 4대 과기원, 인공지능 등 딥테크 스타트업 글로벌 진출 지원 나선다",
-    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40286",
+    "title": "엔비디아·폭스콘, 대만 병원에 ‘에이전틱 AI’ 전면 도입…“AI가 의사·간호사와 함께 일한다”",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40297",
     "source": "인공지능신문",
     "source_type": "rss",
-    "published_at": "2026-06-01T09:40:30+00:00",
-    "raw_excerpt": "국내에서 기술력을 다진 딥테크 스타트업이 세계 시장에서 경쟁력을 검증할 기회가 열린다.KAIST(총장 이광형)는 GIST(총장 임기철), DGIST(총장 이건우), UNIST(총장 박종래)와 공동으로 과학기술정보통신부의 후원을 받아 해외 현지 실증(PoC·기술 실증), 투자 유치, 글로벌 네트워크 연계 등을 지원하는 ‘2026 이머징테크(Emerging Tech) 글로벌 론치패드’를 공동 운영하며 참여 기업을 모집한다고 1일 밝혔다. 신청 기간은 오는 6월 19일까지다.인공지능(AI), 양자기술, 차세대 에너지, 바이오 등 미래 산",
-    "topic": "tech_trends",
-    "topic_label": "🔥 핫 테크 트렌드",
-    "summary": "KAIST 등 4대 과기원이 과학기술정보통신부 후원으로 AI, 양자기술 등 딥테크 스타트업의 해외 진출을 지원하는 '2026 이머징테크 글로벌 론치패드'를 운영한다.",
-    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40286_60796_4016_v150.jpg",
-    "score": 4.758,
+    "published_at": "2026-06-01T17:22:24+00:00",
+    "raw_excerpt": "엔비디아(NVIDIA)와 폭스콘(Foxconn), 대만 주요 의료기관들이 생성형 인공지능(AI)을 넘어 스스로 판단하고 행동하는 ‘에이전틱 AI(Agentic AI)’ 기반 의료 시스템 구축에 나선다. AI가 단순 보조 도구를 넘어 임상의와 협력해 진단과 치료, 병원 운영을 지원하는 새로운 의료 패러다임이 본격화되고 있다는 평가다.엔비디아는 1일(현지시간) 대만 타이베이에서 열린 ‘엔비디아 GTC 타이베이(NVIDIA GTC Taipei)’에서 폭스콘 및 대만 주요 의료센터들과 협력해 AI 기반 의료 시스템 전환을 가속화한다고 발표",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "엔비디아와 폭스콘이 대만 병원에 자율 판단·행동하는 에이전틱 AI를 도입해 의사와 협력하는 의료 시스템을 구축한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40297_60814_2137_v150.jpg",
+    "score": 5.668,
     "engagement": 0,
     "matched_keywords": [
-      "양자",
-      "스타트업",
-      "차세대"
+      "ai",
+      "인공지능",
+      "nvidia",
+      "엔비디아"
     ],
     "source_weight": 1.2
   },
   {
-    "title": "MS, 코딩·에이전트 기능 통합한 '코파일럿 슈퍼 앱' 개발 중",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=211175",
-    "source": "AI타임스",
-    "source_type": "rss",
-    "published_at": "2026-06-01T12:56:21+00:00",
-    "raw_excerpt": "마이크로소프트(MS)가 분산된 다양한 코파일럿(Copilot) 서비스를 하나로 통합하는 '코파일럿 슈퍼 앱(Super App)' 개발에 나선 것으로 알려졌다. 코딩 지원부터 업무 협업, AI 에이전트 기능까지 하나의 인터페이스에서 제공하는 것이 목표다.29일(현지시간) 포춘에 따르면, MS는 내부적으로 '딜리버링 원 코파일럿(Delivering One Copilot)'이라는 슬로건으로 새로운 통합 코파일럿 플랫폼을 개발 중이다.소비자용과 기업용 코파일럿 서비스를 하나의 생태계로 통합하는 것이 핵심 과제로, 최근 코파일럿 총괄 책임자",
+    "title": "whoah - Grace + Blackwell chips in a laptop.",
+    "url": "https://x.com/swyx/status/2061567877879369953",
+    "source": "X @swyx",
+    "source_type": "x",
+    "published_at": "2026-06-01T21:57:38+00:00",
+    "raw_excerpt": "whoah - Grace + Blackwell chips in a laptop.\n\n\n@Microsoft\n + \n@NVIDIA\n teaming up to take on 6 years of total dominance of Apple Silicon",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "NVIDIA의 Grace와 Blackwell 칩이 탑재된 노트북으로 Microsoft와 협력하여 Apple Silicon의 6년 독주에 대항한다.",
+    "thumbnail": "",
+    "score": 5.414,
+    "engagement": 8190,
+    "matched_keywords": [
+      "nvidia"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new way to build on Amazon Bedrock with OpenAI thr",
+    "url": "https://t.co/vMws0YU6Q3",
+    "source": "X @OpenAI",
+    "source_type": "x",
+    "published_at": "2026-06-01T21:44:13+00:00",
+    "raw_excerpt": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new way to build on Amazon Bedrock with OpenAI through the security, compliance, and governance workflows they already use.\n\nThis is also the beginning of a broader expansion of OpenAI",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "OpenAI의 최신 모델과 Codex가 AWS의 Amazon Bedrock을 통해 일반 제공되어 기업들이 기존 보안·규정 준수 체계로 활용할 수 있게 되었다.",
+    "thumbnail": "",
+    "score": 5.405,
+    "engagement": 235486,
+    "matched_keywords": [
+      "codex"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": ".",
+    "url": "https://t.co/jxDxKIjW0F",
+    "source": "X @LangChain",
+    "source_type": "x",
+    "published_at": "2026-06-01T19:00:13+00:00",
+    "raw_excerpt": ".\n@Rippling\n AI runs on Deep Agents and LangSmith.\n\nHere’s how they shipped to millions of users in 6 months.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "I appreciate you reaching out, but I notice the article content appears to be incomplete or missing. The title shows only a period, and the original text excerpt is also just a period.\n\nTo provide you with an accurate 1-sentence summary in Korean, I'll need:\n- The actual article title\n- The full article text or substantive excerpt\n\nPlease share the complete article details, and I'll summarize it concisely in one sentence under 80 characters as per the guidelines.",
+    "thumbnail": "",
+    "score": 5.291,
+    "engagement": 7387,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "Grok Imagine’s Video Agent Moment: Cosmos, xAI, World Models, Generative UI, & the Codex Phase for Video!",
+    "url": "https://t.co/Z3qhj368Tu",
+    "source": "X @latentspacepod",
+    "source_type": "x",
+    "published_at": "2026-06-01T15:45:23+00:00",
+    "raw_excerpt": "Grok Imagine’s Video Agent Moment: Cosmos, xAI, World Models, Generative UI, & the Codex Phase for Video!\n\n\nhttps://\nlatent.space/p/video-agents\n\n\n@EthanHe_42\n, former \n@xai\n world model lead and \n@nvidia\n Cosmos researcher, explains why AI video may follow the same path as coding agents, how Grok",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "xAI의 Grok이 비디오 생성 AI에서 에이전트 기능을 추가하며, Cosmos 같은 세계 모델 기술이 코딩 에이전트와 유사한 발전 경로를 따를 가능성이 제시되고 있습니다.",
+    "thumbnail": "",
+    "score": 5.156,
+    "engagement": 27651,
+    "matched_keywords": [
+      "codex"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "This is great ",
+    "url": "https://x.com/sauvast/status/2061278637912113336",
+    "source": "X @sauvast",
+    "source_type": "x",
+    "published_at": "2026-06-01T02:48:18+00:00",
+    "raw_excerpt": "This is great \n@hwchase17\n \n@bryonkuchML\n \n\nSeeing this update, I’m building a tutorial repo around LangChain + Groq + GEPA.\n\nThe idea is simple:\n\n•LangChain builds the RAG/agent workflow\n•Groq gives fast inference for iteration\n•GEPA optimizes prompts against evals\n\nThis is the",
     "topic": "ai_agent",
     "topic_label": "🤖 AI Agent / Agentic AI",
-    "summary": "Microsoft가 코딩·업무협업·AI 에이전트 기능을 하나의 인터페이스에서 제공하는 '코파일럿 슈퍼 앱' 개발을 추진 중이다.",
-    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211175_214055_1413.jpg",
-    "score": 4.682,
-    "engagement": 0,
+    "summary": "LangChain, Groq, GEPA를 활용한 RAG/에이전트 워크플로우 튜토리얼 저장소 구축이 진행 중이다.",
+    "thumbnail": "",
+    "score": 4.616,
+    "engagement": 4752,
     "matched_keywords": [
-      "에이전트",
-      "ai 에이전트"
+      "agent workflow"
     ],
-    "source_weight": 1.3
+    "source_weight": 1.0
   },
   {
-    "title": "AI 창업에 보안을 더하다...‘코드게이트 AI 스타트업 해커톤’ 참가자 모집",
-    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40302",
-    "source": "인공지능신문",
-    "source_type": "rss",
-    "published_at": "2026-06-01T19:32:07+00:00",
-    "raw_excerpt": "(사)코드게이트보안포럼과 기술보증기금은 오는 7월 21일부터 23일까지 사흘간 '코드게이트 AI 스타트업 해커톤'을 공동 개최한다.이번 해커톤은 인공지능 대중화로 코딩 진입장벽이 낮아진 흐름에 발맞춰, 단순 기술 구현을 넘어 '문제 해결 중심'의 창업 문화를 확산하기 위해 기획됐다. 특히 참가자들이 서비스 기획과 개발 과정 속에서 보안의 중요성을 자연스럽게 이해하고 경험할 수 있도록 유도하는 것이 특징이다.참가 신청은 7월 8일까지 코드게이트 홈페이지를 통해 진행되며, 기획자, 개발자, 마케터, 디자이너 등 AI와 창업에 관심 있는",
-    "topic": "ai_startups",
-    "topic_label": "🚀 스타트업 AI 활용 동향",
-    "summary": "코드게이트보안포럼과 기술보증기금이 7월 21~23일 'AI 스타트업 해커톤'을 개최하며, 보안을 통합한 문제 해결형 창업 문화 확산을 목표로 하고 있다.",
-    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40302_60820_3152_v150.jpg",
-    "score": 4.651,
-    "engagement": 0,
+    "title": "I'd been letting Codex Desktop update itself, now I feel like I need to hold out on upgrades in case they remove key features that I'm depen",
+    "url": "https://x.com/simonw/status/2061159298575802506",
+    "source": "X @simonw",
+    "source_type": "x",
+    "published_at": "2026-05-31T18:54:05+00:00",
+    "raw_excerpt": "I'd been letting Codex Desktop update itself, now I feel like I need to hold out on upgrades in case they remove key features that I'm depending on!",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Codex Desktop의 자동 업데이트로 인한 기능 제거 우려로 사용자들이 업그레이드를 미루고 있습니다.",
+    "thumbnail": "",
+    "score": 4.287,
+    "engagement": 16141,
     "matched_keywords": [
-      "스타트업",
-      "창업"
+      "codex"
     ],
-    "source_weight": 1.2
+    "source_weight": 1.0
   },
   {
-    "title": "앤트로픽, 상시 에이전트 '콘웨이' 개발...플랫폼 진화 시동",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=211177",
+    "title": "순천, 20일부터 8일간 ‘순천미식주간’ 개최",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211194",
     "source": "AI타임스",
     "source_type": "rss",
-    "published_at": "2026-06-01T19:09:58+00:00",
-    "raw_excerpt": "앤트로픽이 '클로드'를 단순한 대화형 서비스에서 벗어나 자율형 에이전트 플랫폼으로 확장하기 위한 대규모 기능 개편을 준비 중인 것으로 나타났다. 31일(현지시간) 코드 분석과 테스트 카탈로그 등을 통해 드러난 내용에 따르면, 앤트로픽은 상시 접속 에이전트 '콘웨이(Conway)'를 비롯해 능동형 개인 비서 '오빗(Orbit)', 생명과학 연구용 데스크톱 환경 '오페론(Operon)', 지식 기반 메모리 시스템, 다국어 음성 모드 등 다양한 신규 기능을 개발하고 있다.이번 계획은 최근 공개된 '클로드 오퍼스 4.8' 이후 AI 에이전",
-    "topic": "ai_agent",
-    "topic_label": "🤖 AI Agent / Agentic AI",
-    "summary": "앤트로픽이 대화형 AI 클로드를 자율형 에이전트 플랫폼으로 확장하기 위해 상시 접속 에이전트 '콘웨이' 등 다양한 신기능을 개발 중이다.",
-    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211177_214057_449.jpg",
-    "score": 4.369,
-    "engagement": 0,
-    "matched_keywords": [
-      "에이전트"
-    ],
-    "source_weight": 1.3
-  },
-  {
-    "title": "순천, 야외 작업 근로자 ‘폭염 5대 기본수칙’ 이행 점검",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=211191",
-    "source": "AI타임스",
-    "source_type": "rss",
-    "published_at": "2026-06-01T17:07:06+00:00",
-    "raw_excerpt": "순천시가 장기간 폭염에 대비해 시 소속 현업근로자의 온열질환 보호대책을 강화한다고 1일 밝혔다.순천은 폭염중대경보와 열대야주의보 신설 등으로 온열질환 발생 우려가 커진 상황에서 야외작업 근로자를 중심으로 폭염 예방수칙 이행 여부를 특별 점검한다.점검 대상은 순천 산하 64개 부서 현업근로자 1183명이다. 야외작업 근로자와 위험요인이 높은 업무 수행자를 대상으로 물, 그늘·바람, 휴식, 보냉장구, 응급조치 등 폭염 5대 기본수칙 이행 여부를 확인할 계획이다.폭염특보가 발효되면 공원·도시숲 정비 현장, 도로 유지보수 현장, 하수도 생",
+    "published_at": "2026-06-01T15:09:28+00:00",
+    "raw_excerpt": "순천시는 지역 음식과 예술 콘텐츠를 결합한 ‘2026 순천미식주간’을 개최한다고 1일 밝혔다.순천미식주간은 ‘맛과 예술이 만나다’를 슬로건으로, 순천의 음식자원과 예술 프로그램을 함께 즐기는 미식관광 행사로 20일부터 27일까지 8일간 추진된다.행사는 6월20일부터 21일까지 남문터광장 현장행사로 시작해, 22일부터 27일까지는 순천 전역을 잇는 미식투어와 치유미식 트레일런 등으로 이어진다.남문터광장에서는 미식마켓과 미식체험, 최현석 셰프 쿠킹토크쇼, 로컬셰프 토크쇼, 순천맛집 인증식, 포토존 등이 운영된다. 특히 올해는 예총과 함",
     "topic": "enterprise_ai",
     "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
-    "summary": "순천시가 폭염 대비로 산하 1,183명의 야외작업 근로자를 대상으로 물·휴식·보냉장구 등 5대 기본수칙 이행을 특별 점검한다.",
-    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211191_214072_504.png",
-    "score": 4.258,
+    "summary": "순천시가 '맛과 예술이 만나다'를 슬로건으로 20일부터 8일간 음식과 예술을 결합한 '2026 순천미식주간'을 개최한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211194_214075_1620.jpg",
+    "score": 4.07,
     "engagement": 0,
     "matched_keywords": [
       "현장"
@@ -333,60 +223,151 @@
     "source_weight": 1.3
   },
   {
-    "title": "Show GN: Codexplain: Codex를 Claude Code처럼 말하게 하기 프로젝트",
-    "url": "https://news.hada.io/topic?id=30079",
-    "source": "GeekNews",
+    "title": "파수AI, 미국 법인 ‘심볼로직’ 공식 출범…”글로벌 AX시장 공략”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211182",
+    "source": "AI타임스",
     "source_type": "rss",
-    "published_at": "2026-06-01T16:32:27+00:00",
-    "raw_excerpt": "Codex를 쓰다 보면 코드는 잘 고치는데, 설명은 가끔 “그래서 이게 무슨 말이지?” 싶을 때가 많았습니다. 특히 제가 불편했던 점은 세 가지였습니다. 파일명/함수명 중심 설명 Codex는 종종 “어떤 기능이 어떻게 흘러가는지”보다 README.md, rust/codexplain.rs, package.json 같은",
-    "topic": "ai_tools",
-    "topic_label": "🛠️ AI 툴 동향 & 활용",
-    "summary": "Codex의 코드 설명이 불명확한 문제를 개선하기 위해 Claude처럼 더 자연스럽고 명확한 설명을 생성하도록 한 Codexplain 프로젝트가 공개되었습니다.",
-    "thumbnail": "https://social.news.hada.io/topic/30079",
-    "score": 4.251,
+    "published_at": "2026-06-01T14:44:46+00:00",
+    "raw_excerpt": "파수AI(대표 조규곤)는 새로운 미국법인 심볼로직(Symbologic)’이 공식 출범했다고 1일 밝혔다.파수AI는 최근 AX 사업을 본격화하며 사명을 변경한 바 있다. 심볼로직을 통해 미국을 중심으로 글로벌 AX 시장 공략에도 나선다는 전략이다. 심볼로직은 파수AI의 미국법인과 미국 AI 플랫폼 및 컨설팅 전문 컨실릭스(Konsilix)가 통합 출범한 AX 전문 법인이다. 글로벌 빅테크 회사에서 개발 및 운영 등 경력을 쌓은 AI 전문가 인력들로 구성돼 있다. 글로벌 제조와 서비스 업체를 주요 고객군으로 보유하고 있다.앞으로 경량,",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "파수AI가 미국법인 심볼로직을 출범해 글로벌 AX(자동화 전문가) 시장 진출에 나섰다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211182_214061_146.jpeg",
+    "score": 4.048,
     "engagement": 0,
     "matched_keywords": [
-      "claude",
-      "codex",
-      "claude code"
+      "ax"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "ChatGPT for Google Sheets가 워크북을 외부 유출함",
+    "url": "https://news.hada.io/topic?id=30084",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-06-01T23:42:30+00:00",
+    "raw_excerpt": "ChatGPT for Google Sheets 확장은 출시 한 달 미만에 185,000회 이상 다운로드됐고, Google Sheets 사이드바에서 스프레드시트 작업과 ChatGPT 커넥터 데이터를 다룸 신뢰할 수 없는 시트나 커넥터 데이터의 간접 프롬프트 인젝션 은 정상 질의 한 번만으로 공격자...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "ChatGPT for Google Sheets 확장이 스프레드시트 데이터를 외부로 유출할 수 있는 보안 취약점이 발견돼 사용자들의 정보 보호 우려가 커지고 있다.",
+    "thumbnail": "https://social.news.hada.io/topic/30084",
+    "score": 3.987,
+    "engagement": 0,
+    "matched_keywords": [
+      "chatgpt",
+      "프롬프트"
     ],
     "source_weight": 1.0
   },
   {
-    "title": "\"찜해둔 운동화, 살 때 같이 챙기면 좋은 것들 찾아드릴까요?\" ...네이버 쇼핑앱 AI 에이전트, 사용자에게 먼저 대화 건넨다",
-    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40289",
-    "source": "인공지능신문",
+    "title": "ADHD 증폭기로서의 바이브코딩",
+    "url": "https://news.hada.io/topic?id=30072",
+    "source": "GeekNews",
     "source_type": "rss",
-    "published_at": "2026-06-01T11:10:30+00:00",
-    "raw_excerpt": "네이버(주)(대표이사 최수연) 쇼핑앱의 ‘AI 쇼핑 에이전트’가 1일, 출시 3개월 만에 상품 탐색과 요약을 돕는 쇼핑 가이드에서 사용자에게 대화를 제안하는 단계로 진화한다고 밝혔다.지난 2월 ‘네이버플러스 스토어’ 앱에서 베타 버전으로 첫 선을 보인 AI 쇼핑 에이전트는 그동안 사용자의 관심사와 취향에 맞는 상품을 발굴해 주는 역할을 해왔다.이번 업데이트는 AI 에이전트가 사용자의 쇼핑 맥락을 한 층 더 정교하게 이해하고 대화를 선제적으로 건네는 것이 핵심이다. 클릭, 찜, 장바구니 담기 같은 쇼핑 활동 이력과 최신 트렌드 등을",
-    "topic": "ai_agent",
-    "topic_label": "🤖 AI Agent / Agentic AI",
-    "summary": "네이버 쇼핑앱의 AI 에이전트가 사용자의 쇼핑 행동을 분석해 먼저 대화를 걸며 맞춤형 상품 추천을 제공하는 단계로 진화했다.",
-    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40289_60803_121_v150.jpg",
-    "score": 4.233,
+    "published_at": "2026-06-01T07:02:44+00:00",
+    "raw_excerpt": "AI 코딩 은 결과물을 빠르게 늘렸지만, SaaS를 제외한 대부분은 쓸모보다 유지보수 부담이 큰 프로젝트로 남음 Rust 음성 인식, Jellyfin 데스크톱 클론, Invidious 클론, 3D 자동차 게임 등은 작은 스크립트 요청에서 시작해 커짐 Claude와 Codex 같은 도구는 무관한 작업을...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "AI 코딩 도구가 프로젝트 수는 늘렸으나 유지보수 부담이 커서 실용성 있는 결과물은 제한적이며, ADHD처럼 산만한 개발 방식을 유발한다는 지적.",
+    "thumbnail": "https://social.news.hada.io/topic/30072",
+    "score": 3.793,
     "engagement": 0,
     "matched_keywords": [
-      "에이전트",
-      "ai 에이전트"
+      "claude",
+      "codex",
+      "ai 코딩"
     ],
-    "source_weight": 1.2
+    "source_weight": 1.0
   },
   {
-    "title": "팀제이커브·HON, 아시아형 ‘AI 네이티브 리더십’ 공동 프로젝트 본격 추진",
-    "url": "https://www.aitimes.com/news/articleView.html?idxno=211204",
+    "title": "광주, 청년 인건비 90% 지원하는 ‘일경험드림’ 사업장 모집",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211158",
     "source": "AI타임스",
     "source_type": "rss",
-    "published_at": "2026-06-01T15:13:02+00:00",
-    "raw_excerpt": "팀제이커브와 HRD 전문가 커뮤니티 HON(혼)이 아시아형 ‘AI 네이티브 리더십’을 정의하는 공동 프로젝트를 본격 추진한다.양사는 최근 공동 개최한 ‘AI 네이티브 HRD 워크숍’의 성과를 바탕으로, 서구 담론을 단순히 번역·적용하는 방식에서 벗어나 아시아 조직문화와 의사결정 구조, 현업의 실제 조건에서 ‘작동하는’ 리더십 기준을 새롭게 정립하겠다고 1일 밝혔다.이번 프로젝트는 반도체·식품·화학 소재 등 국내 대표 산업을 이끄는 대기업 리더들과의 심층 인터뷰를 기반으로 한다. 서로 다른 산업과 조직문화를 가진 리더들의 목소리를 교",
-    "topic": "ai_native",
-    "topic_label": "🧬 AI Native",
-    "summary": "팀제이커브와 HON이 서구 모델이 아닌 아시아 조직문화에 맞는 'AI 네이티브 리더십' 기준을 정립하는 공동 프로젝트를 본격 시작했다.",
-    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211204_214086_1039.jpg",
-    "score": 4.155,
+    "published_at": "2026-06-01T09:23:31+00:00",
+    "raw_excerpt": "광주시가 하반기 광주청년 일경험드림 사업에 참여할 제20기 드림터를 오는 17일까지 모집한다고 밝혔다.드림터는 미취업 청년에게 실무 중심 일경험을 제공하는 사업장이다. 광주청년 일경험드림 사업은 청년이 지역 사업장에서 실제 직무를 경험하며 취업역량을 키우고, 지역사회에 안정적으로 정착하도록 돕는 청년 일자리 지원 사업이다.광주는 이번 모집을 통해 청년에게는 현장 경험을, 사업장에는 지역 인재를 사전에 발굴할 기회를 제공한다는 방침이다.모집 대상은 광주, 광주전남공동혁신도시, 빛그린산업단지에 있는 상시근로자 5인 이상 사업장이다. 신",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "광주시가 청년에게 인건비 90%를 지원하는 '일경험드림' 사업에 참여할 기업을 17일까지 모집해 미취업 청년의 실무 경험과 취업을 돕는다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211158_214035_81.jpg",
+    "score": 3.758,
     "engagement": 0,
     "matched_keywords": [
-      "ai 네이티브"
+      "현장"
     ],
     "source_weight": 1.3
+  },
+  {
+    "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+    "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+    "source": "Hugging Face Blog",
+    "source_type": "rss",
+    "published_at": "2026-06-01T13:51:18+00:00",
+    "raw_excerpt": "",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "엔터프라이즈 AI 도입 확대는 LLM을 넘어 에이전트 로직 구현이 핵심이라는 주장.",
+    "thumbnail": "https://cdn-uploads.huggingface.co/production/uploads/65b12ed52be9660f0b7e5f72/mu_IH3lDD1qGRQZptFmPP.png",
+    "score": 3.576,
+    "engagement": 0,
+    "matched_keywords": [
+      "enterprise ai",
+      "ai adoption"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "This AI weather startup is out-forecasting government agencies",
+    "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-06-01T16:00:00+00:00",
+    "raw_excerpt": "WindBorne benefits from its unique combination of model-building and data collection. The company now has about 400 balloons in flight gathering sensor readings at any given time, launched from 15 sites around the globe. The advances in its current model come from improvements in how the data collected by the balloons is fed into the models.",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "WindBorne이 전 지구적으로 띄운 400개 기구의 센서 데이터를 모델에 활용해 정부 기관 수준 이상의 날씨 예측 정확도를 달성하고 있습니다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/06/Pic-8.jpg?resize=1200,675",
+    "score": 3.482,
+    "engagement": 0,
+    "matched_keywords": [
+      "startup"
+    ],
+    "source_weight": 1.1
+  },
+  {
+    "title": "헥사곤 자회사 옥타브 인텔리전스, 나스닥 독립 상장",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=20782",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-06-01T13:07:04+00:00",
+    "raw_excerpt": "헥사곤 AB 자회사 옥타브 인텔리전스가 지난 5월 22일 헥사곤으로부터의 분사를 완료했다고 1일 밝혔다. 스웨덴 예탁증서(SDR)는 5월 25일부터 나스닥 스톡홀름에서, 클래스 B 보통주는 5월 28일부터 미국 나스닥 글로벌 셀렉트 마켓에서 거래를 시작한다.옥타브는 전력망·철도 네트워크·제조 플랜트·공공 안전 시스템·도시 인프라 등 실패와 운영 중단이 허용되지 않는 자산집약 산업 환경에 특화된 소프트웨어 기업이다. 전 세계 45개국에서 약 7200명의 임직원이 근무하며, 글로벌 포춘 500대 기업의 60% 이상을 포함한 대규모 조직",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "헥사곤의 자회사 옥타브 인텔리전스가 분사 완료 후 나스닥에 독립 상장하며, 중요 인프라 모니터링 소프트웨어 전문 기업으로 글로벌 시장 확대에 나선다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202606/20782_21328_641.jpg",
+    "score": 3.35,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직"
+    ],
+    "source_weight": 1.1
+  },
+  {
+    "title": "Gemini’s new AI agent is about as good as Google’s demo",
+    "url": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-06-01T20:00:00+00:00",
+    "raw_excerpt": "Google's new \"24/7\" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential privacy tradeoffs. The company gave me access to Spark last week. Google advertises Spark as an AI agent that can take on tasks and work on them [ ]",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Google의 새로운 AI 에이전트 Gemini Spark가 시연 수준의 성능을 보여주지만, 비용과 프라이버시 문제로 실제 가치는 미지수다.",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/lcimg-0ebbe911-9fbb-4f68-97b0-b7361d7cb53c.jpeg?quality=90&strip=all&crop=0%2C10.604950381935%2C100%2C78.79009923613&w=1200",
+    "score": 3.333,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai agent"
+    ],
+    "source_weight": 1.0
   }
 ]
