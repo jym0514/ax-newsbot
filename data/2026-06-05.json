@@ -1,0 +1,377 @@
+[
+  {
+    "title": "마이크로소프트, 에이전틱 AI로 개발한 차세대 위상 양자 칩 '마요라나 2' 공개",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40347",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-04T20:45:52+00:00",
+    "raw_excerpt": "마이크로소프트(Microsoft)가 에이전틱 AI(Agentic AI)를 활용해 개발한 차세대 위상 양자 칩 '마요라나 2(Majorana 2)'를 공개하며 양자 컴퓨팅 상용화 로드맵을 대폭 앞당겼다. 회사는 새로운 칩을 기반으로 당초 계획보다 절반 가까이 단축된 2029년까지 확장 가능한 양자 컴퓨터를 구현할 수 있을 것으로 전망했다.마이크로소프트는 3일(현지시간) 차세대 소재 스택과 새로운 위상 큐비트 기술을 적용한 마요라나 2를 발표했다. 이번 발표는 단순한 하드웨어 개선을 넘어, AI 에이전트가 과학 연구와 첨단 기술 개발의",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Microsoft가 Agentic AI로 개발한 차세대 위상 양자 칩 '마요라나 2'를 공개하며 양자 컴퓨터 상용화 목표를 2029년으로 앞당겼다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40347_60874_453_v150.jpg",
+    "score": 6.437,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic",
+      "agentic ai",
+      "에이전트",
+      "에이전틱",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.2
+  },
+  {
+    "title": "오션스마트, AI 해운 플랫폼으로 시드 투자 유치",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211345",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-04T17:05:00+00:00",
+    "raw_excerpt": "오션스마트(대표 유창현)가 한국투자액셀러레이터로부터 시드 투자를 유치했다고 4일 밝혔다. 액수는 공개하지 않았다.오션스마트는 해운 산업이 항로 설계와 선복 배분, 일정 조율 등 핵심 의사결정을 이메일 및 수기 문서에 크게 의존한다는 점을 개선하기 위해 해운 플랫폼을 구축했다.대형 본선과 피더선의 정보를 통합해 선박 일정, 항만 슬롯, 화물·운임 데이터를 학습한 모델을 바탕으로 항로별 최적 배선 계획을 제시해 준다. 운항 중 발생하는 변동 요소를 실시간으로 반영해 일정과 비용을 재조정하는 구조다.그 결과, 오션스마트는 AI 네이티브",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "오션스마트가 한국투자액셀러레이터로부터 시드 투자를 유치하며, AI를 통해 해운산업의 비효율적인 항로 설계와 일정 조율 등을 자동화하는 플랫폼을 제공한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211345_214266_37.png",
+    "score": 5.474,
+    "engagement": 0,
+    "matched_keywords": [
+      "시드 투자",
+      "투자 유치",
+      "액셀러레이터"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "build and publish web apps with chatgpt!",
+    "url": "https://x.com/sama/status/2062661071761211561",
+    "source": "X @sama",
+    "source_type": "x",
+    "published_at": "2026-06-04T22:21:36+00:00",
+    "raw_excerpt": "build and publish web apps with chatgpt!\n\ni really wish i had this when i was a kid, but i do miss hypercard.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "ChatGPT로 웹 앱을 구축하고 배포할 수 있게 되었으며, Sam Altman은 과거 HyperCard를 그리워하고 있다.",
+    "thumbnail": "",
+    "score": 5.431,
+    "engagement": 80695,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "big upgrade to chatgpt memory rolling out today!",
+    "url": "https://x.com/sama/status/2062660086787613116",
+    "source": "X @sama",
+    "source_type": "x",
+    "published_at": "2026-06-04T22:17:41+00:00",
+    "raw_excerpt": "big upgrade to chatgpt memory rolling out today!",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "ChatGPT의 메모리 기능이 대폭 업그레이드되어 오늘부터 적용된다.",
+    "thumbnail": "",
+    "score": 5.428,
+    "engagement": 120462,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "That's a badass title, and it's true!",
+    "url": "https://x.com/lukaspet/status/2062640038090019300",
+    "source": "X @lukaspet",
+    "source_type": "x",
+    "published_at": "2026-06-04T20:58:01+00:00",
+    "raw_excerpt": "That's a badass title, and it's true!\n\nEvery day, it gets harder and harder to create tests that AI models can't beat. Reality is humanity's real last exam.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AI 모델들이 시험을 통과하기 점점 더 쉬워지면서 현실 세계가 인류의 진정한 최종 시험이 되고 있다.",
+    "thumbnail": "",
+    "score": 5.373,
+    "engagement": 1633,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "Andon Labs' Real-World AI Evals: Claude calls the FBI, AI CEOs, price cartels, Butter-Bench, & Luna ",
+    "url": "https://t.co/KpVP5fw9dM",
+    "source": "X @latentspacepod",
+    "source_type": "x",
+    "published_at": "2026-06-04T20:47:35+00:00",
+    "raw_excerpt": "Andon Labs' Real-World AI Evals: Claude calls the FBI, AI CEOs, price cartels, Butter-Bench, & Luna \nhttps://\nlatent.space/p/andon\n\n\n@andonlabs\n cofounders \n@lukaspet\n and \n@axelbacklund\n explain why dollar-denominated evals reveal what traditional benchmarks miss, how Claude ended up",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Andon Labs가 실제 경제적 영향을 측정하는 \"달러 기준\" AI 평가 방식을 제시하며 Claude의 FBI 신고 사례 등으로 기존 벤치마크의 한계를 드러냈다.",
+    "thumbnail": "",
+    "score": 5.366,
+    "engagement": 3430,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "온세미, 엔비디아 MGX 생태계 내 전력 솔루션 강화... 차세대 AI 팩토리 시장 지원",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40339",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-04T11:13:09+00:00",
+    "raw_excerpt": "지능형 전력 및 센싱 기술의 선도 기업인 온세미가 인공지능(AI) 인프라 전력 수요 증가에 대응하기 위해 엔비디아 MGXTM(NVIDIA MGXTM) 생태계 내에서 전력 솔루션 지원을 강화하며 AI 데이터센터와 가속 컴퓨팅 플랫폼 구축을 지원한다.하이퍼스케일러와 기업들이 점점 더 강력한 AI 인프라를 구축함에 따라, 전력 공급과 에너지 효율성이 가장 중요한 제약 요인으로 부각되고 있다. 업계 분석가들은 AI 랙당 전력 수요가 곧 1MW를 넘어설 것으로 전망하고 있다.온세미는 엔비디아 MGXTM 생태계를 기반으로 차세대 AI 데이터센",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "온세미가 엔비디아 MGX 생태계 내 전력 솔루션을 강화하며 AI 데이터센터의 급증하는 전력 수요에 대응한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40339_60863_1229_v150.jpg",
+    "score": 5.36,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "nvidia",
+      "엔비디아"
+    ],
+    "source_weight": 1.2
+  },
+  {
+    "title": "Correction: Claude Opus 4's ~3x average speedup dates to May 2025, not May 2024. ",
+    "url": "https://x.com/AnthropicAI/status/2062634151556292775",
+    "source": "X @AnthropicAI",
+    "source_type": "x",
+    "published_at": "2026-06-04T20:34:38+00:00",
+    "raw_excerpt": "Correction: Claude Opus 4's ~3x average speedup dates to May 2025, not May 2024. \n\nThis evaluation has only existed since September 2024, but we backtested it on earlier models: those from May 2024 showed no speedup whatsoever.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Claude Opus 4의 약 3배 속도 개선은 2024년 5월이 아닌 2025년 5월 기준이며, 이전 모델들은 속도 향상을 보이지 않았습니다.",
+    "thumbnail": "",
+    "score": 5.357,
+    "engagement": 38012,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "What happened when one of our models found a counterexample to an 80-year-old Erdős conjecture?",
+    "url": "https://x.com/OpenAI/status/2062630454537424930",
+    "source": "X @OpenAI",
+    "source_type": "x",
+    "published_at": "2026-06-04T20:19:56+00:00",
+    "raw_excerpt": "What happened when one of our models found a counterexample to an 80-year-old Erdős conjecture?\n\nResearchers \n@alexwei_\n, \n@HongxunWu\n, and \n@wjmzbmr1\n shared the story on the OpenAI Podcast with \n@AndrewMayne\n and explained how mathematicians and models can work together to make new",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI의 AI 모델이 80년된 Erdős 추측의 반례를 발견해 수학자들과 협력하여 새로운 수학적 발견을 이뤘다.",
+    "thumbnail": "",
+    "score": 5.346,
+    "engagement": 86133,
+    "matched_keywords": [
+      "openai"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "Listen to the OpenAI Podcast on—",
+    "url": "https://t.co/1sYUSLF1cJ",
+    "source": "X @OpenAI",
+    "source_type": "x",
+    "published_at": "2026-06-04T20:19:57+00:00",
+    "raw_excerpt": "Listen to the OpenAI Podcast on—\n\nSpotify\n\nhttps://\nopen.spotify.com/episode/3ca5s3\no53D5xcEKmKgLLGj?si=4a9a555641fa4293\n…\n\nApple\n\nhttps://\npodcasts.apple.com/us/podcast/how\n-a-reasoning-model-cracked-an-80-year-old/id1820330260?i=1000771190131\n…\n\nYouTube\n\nhttps://\nyoutu.be/wNWz5Hbh5VQ",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI가 추론 모델이 80년 된 난제를 풀어낸 과정을 다룬 팟캐스트를 Spotify, Apple, YouTube에서 공개했다.",
+    "thumbnail": "",
+    "score": 5.346,
+    "engagement": 34074,
+    "matched_keywords": [
+      "openai"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "On the latest episode of Max Agency, ",
+    "url": "https://t.co/kd6rxBTugR",
+    "source": "X @LangChain",
+    "source_type": "x",
+    "published_at": "2026-06-04T20:06:45+00:00",
+    "raw_excerpt": "On the latest episode of Max Agency, \n@hwchase17\n\nsat down with \n@nlarusstone\n, Head of AI at \n@benchling\n for a conversation on building agents for scientific work.\n\n YouTube: \nhttps://\nyoutube.com/watch?v=RjpTrf\nfSMjE\n…\n\n Apple Podcasts: \nhttps://\npodcasts.apple.com/us/podcast/the\n-tool-design-tricks-behind-benchlings-ai-agents/id1891551672?i=1000771169985\n…\n\n Spotify: \nhttps://\nopen.spotify.com/episode/2bFEj2\nW290bk2JW1zC6wyp\n…",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "LangChain의 Harrison Chase가 Benchling의 AI 책임자와 과학 연구용 AI 에이전트 구축에 대해 대담한 'Max Agency' 팟캐스트 최신 에피소드가 공개됐다.",
+    "thumbnail": "",
+    "score": 5.337,
+    "engagement": 1964,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "아웃시스템즈, 기업 AI 운영 관리를 위한 ‘에이전틱 시스템 플랫폼’ 공개",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40335",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-04T10:43:16+00:00",
+    "raw_excerpt": "인공지능 기반 로우코드 개발 플랫폼 분야를 선도하는 아웃시스템즈(OutSystems)가 네덜란드 암스테르담에서 개최한 ‘2026 ONE 컨퍼런스 (2026 ONE Conference)’에서 신규 제품과 서비스, 파트너십 확대 및 주요 고객 성과를 발표했다고 4일 밝혔다.아웃시스템즈는 아웃시스템즈 컨텍스트 그래프(OutSystems Enterprise Context Graph) 기반의 에이전틱 시스템 플랫폼(Agentic Systems Platform)을 공개했다. 이를 통해 기업이 AI 에이전트를 보다 효과적으로 구축·운영할 수 있",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "OutSystems가 기업의 AI 에이전트 구축·운영을 위한 '에이전틱 시스템 플랫폼'을 출시했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40335_60859_4222_v150.jpg",
+    "score": 5.335,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic",
+      "에이전트",
+      "에이전틱",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.2
+  },
+  {
+    "title": "Finally! the first eval ship from cog!!!!!!!!!! ",
+    "url": "https://x.com/swyx/status/2062611218196771017",
+    "source": "X @swyx",
+    "source_type": "x",
+    "published_at": "2026-06-04T19:03:30+00:00",
+    "raw_excerpt": "Finally! the first eval ship from cog!!!!!!!!!! \n\nTo contextualize: \n@METR_Evals\n cap out at ~16 hours. \n\nCog has private enterprise evals up to 100hrs, and is confident enough to put a financial guarantee on it \n\nMETR dataset: ML eng, GPU kernels, cybersecurity\n\n> \"METR (2026)",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "Cog이 최대 100시간 규모의 엔터프라이즈 AI 에벌루이션을 출시했으며, METR의 16시간 제한을 넘어 금전 보증까지 제공한다.",
+    "thumbnail": "",
+    "score": 5.293,
+    "engagement": 25862,
+    "matched_keywords": [
+      "gpu"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "더블유엠어시, 투자·정부과제 동시 확보...더블유엠팜 사업 본격화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211323",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-04T13:23:16+00:00",
+    "raw_excerpt": "스마트팜 쇼케이스 브랜드 ‘더블유엠팜’을 운영하는 더블유엠어시(대표 김우찬)가 민간 투자 유치와 정부 지원사업 선정을 통해 성장 재원을 확보했다고 4일 밝혔다.이번 성과는 TIPS 운용사 아이디어파트너스로부터의 시드 투자 유치와 2026년 창업도약패키지, 2026년 지역혁신선도기업육성 R D 과제 선정에 따른 결과다.더블유엠어시는 확보한 재원을 더블유엠팜 제품의 기술 고도화와 시장 확대에 투입할 계획이다. 특히 AI 기반 생육진단 알고리즘 고도화, 모듈형 스마트팜 쇼케이스의 환경제어 시스템 개발, 양산 기반 구축, 신규 거래처 확대",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "더블유엠어시가 민간 투자와 정부 지원사업 선정으로 스마트팜 사업 '더블유엠팜'의 성장 재원을 확보하고 기술 고도화와 시장 확대를 추진한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211323_214237_2223.jpg",
+    "score": 5.274,
+    "engagement": 0,
+    "matched_keywords": [
+      "시드 투자",
+      "투자 유치",
+      "창업"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "okay anthropic i see you",
+    "url": "https://x.com/swyx/status/2062594982255772063",
+    "source": "X @swyx",
+    "source_type": "x",
+    "published_at": "2026-06-04T17:58:59+00:00",
+    "raw_excerpt": "okay anthropic i see you",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Anthropic이 주목할 만한 움직임을 보이고 있다는 의견이 X에서 제시되었습니다.",
+    "thumbnail": "",
+    "score": 5.248,
+    "engagement": 3357,
+    "matched_keywords": [
+      "anthropic"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "its been such fun befriending Pari and seeing him completely reinvent his company for the agentic era, WHILE having the most insanely stacke",
+    "url": "https://x.com/swyx/status/2062586255393894565",
+    "source": "X @swyx",
+    "source_type": "x",
+    "published_at": "2026-06-04T17:24:18+00:00",
+    "raw_excerpt": "its been such fun befriending Pari and seeing him completely reinvent his company for the agentic era, WHILE having the most insanely stacked customer base I've ever seen in the hardest engineering domain of all. \n\nPari is creating a category that is only obvious in retrospect",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Pari가 에이전틱 시대에 맞춰 회사를 완전히 재구성하며 어려운 엔지니어링 분야에서 최강의 고객층을 확보하고 있다.",
+    "thumbnail": "",
+    "score": 5.224,
+    "engagement": 8561,
+    "matched_keywords": [
+      "agentic"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "We just published internal data on how much of Claude's development is already being done by Claude:",
+    "url": "https://x.com/alexalbert__/status/2062580571214389510",
+    "source": "X @alexalbert__",
+    "source_type": "x",
+    "published_at": "2026-06-04T17:01:43+00:00",
+    "raw_excerpt": "We just published internal data on how much of Claude's development is already being done by Claude:\n- Over 80% of all code merged into our codebase is now written by Claude\n- It's been months since many researchers at Anthropic hand-wrote code\n- The typical Anthropic engineer",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Anthropic이 공개한 내부 데이터에 따르면 Claude 개발의 80% 이상이 이미 Claude 자체로 수행되고 있습니다.",
+    "thumbnail": "",
+    "score": 5.209,
+    "engagement": 173725,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "AI research is a series of next-step decisions. We looked at sessions where a human researcher took a wrong turn, showed Claude the session ",
+    "url": "https://x.com/AnthropicAI/status/2062568870872003021",
+    "source": "X @AnthropicAI",
+    "source_type": "x",
+    "published_at": "2026-06-04T16:15:14+00:00",
+    "raw_excerpt": "AI research is a series of next-step decisions. We looked at sessions where a human researcher took a wrong turn, showed Claude the session up to that point, and asked it what to do next. Mythos Preview improved on humans 64% of the time—up from 22% in 2024.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Anthropic의 Claude가 AI 연구 과정에서 잘못된 방향을 바꾸는 결정을 인간 연구자보다 64% 자주 올바르게 제시하며 2024년 대비 크게 개선됐다.",
+    "thumbnail": "",
+    "score": 5.176,
+    "engagement": 137130,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "NVIDIA just released an agentic safety dataset on Hugging Face",
+    "url": "https://t.co/MJvxziABng",
+    "source": "X @HuggingPapers",
+    "source_type": "x",
+    "published_at": "2026-06-04T15:14:48+00:00",
+    "raw_excerpt": "NVIDIA just released an agentic safety dataset on Hugging Face\n\n1,272 synthetic red-teaming records\n\nspanning nine enterprise domains\n\nwhere tool-using agents must resist\n\nindirect prompt injections\n\nhidden in tool-returned data.",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "NVIDIA가 Hugging Face에 기업 9개 분야의 간접 프롬프트 인젝션 공격에 저항하도록 학습시키는 1,272개 합성 데이터셋을 공개했습니다.",
+    "thumbnail": "",
+    "score": 5.134,
+    "engagement": 2953,
+    "matched_keywords": [
+      "agentic"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "누스 리서치, '헤르메스 데스크톱' 출시…일반 사용자 접근성 높였다",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211335",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-04T18:29:33+00:00",
+    "raw_excerpt": "오픈소스 전문 누스 리서치가 자율형 AI 에이전트 '헤르메스 에이전트(Hermes Agent)'를 위한 데스크톱 앱을 출시했다. 이번 출시로 지금까지 터미널에서 명령줄 인터페이스(CLI)를 중심으로 사용되던 헤르메스 에이전트가 그래픽 사용자 인터페이스(GUI)를 제공하게 되면서 폭넓은 사용자층을 확보할 수 있을 것으로 기대됐다. 누스 리서치는 3일(현지시간) 오픈소스 자율형 AI 에이전트 '헤르메스 에이전트'를 일반 사용자도 쉽게 활용할 수 있도록 GUI를 갖춘 '헤르메스 데스크톱(Hermes Desktop)' 공개 프리뷰 버전을",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "누스 리서치가 CLI 기반 자율형 AI 에이전트 '헤르메스'를 GUI 데스크톱 앱으로 출시해 일반 사용자의 접근성을 높였다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211335_214253_432.jpg",
+    "score": 4.901,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3
+  }
+]
