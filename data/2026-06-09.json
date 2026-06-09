@@ -1,0 +1,394 @@
+[
+  {
+    "title": "아나로그디바이스, 엔비디아 MGX 기반 AI 팩토리 구현 위한 800VDC 전원 아키텍처 지원",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40384",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-08T11:30:34+00:00",
+    "raw_excerpt": "생성형 AI 및 대형언어모델(LLM)의 확산으로 인공지능 데이터센터(AIDC)의 전력 수요가 급격히 증가하는 가운데, 아나로그디바이스(Analog Devices)는 엔비디아(NVIDIA) MGX 아키텍처를 중심으로 기존 48V 전력 아키텍처에서 800VDC 기반 전력 구조로 진화하고 있는 차세대 AI 인프라 구현을 위한 혁신적인 전원 기술을 제공하고 있다고 8일 밝혔다.인공지능 팩토리(AI factory)는 대규모 GPU 클러스터를 기반으로 AI 모델 학습과 추론을 수행하는 차세대 데이터센터 개념이다. AI 워크로드가 증가함에 따라",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "아나로그디바이스가 엔비디아 MGX 기반 AI 팩토리 구축을 위해 기존 48V에서 800VDC 고압 전원 아키텍처로 전환하는 기술을 지원한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40384_60928_2716_v150.jpg",
+    "score": 6.575,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "llm",
+      "nvidia",
+      "엔비디아",
+      "생성형 ai"
+    ],
+    "source_weight": 1.2
+  },
+  {
+    "title": "That's both OpenAI and Anthropic with confidential S-1s filed with the SEC - Anthropic filed theirs on June 1st",
+    "url": "https://x.com/simonw/status/2064094592300134652",
+    "source": "X @simonw",
+    "source_type": "x",
+    "published_at": "2026-06-08T21:17:54+00:00",
+    "raw_excerpt": "That's both OpenAI and Anthropic with confidential S-1s filed with the SEC - Anthropic filed theirs on June 1st",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Anthropic이 6월 1일 SEC에 비공개 S-1을 제출하면서 OpenAI와 함께 상장 준비를 진행 중이다.",
+    "thumbnail": "",
+    "score": 5.887,
+    "engagement": 10990,
+    "matched_keywords": [
+      "openai",
+      "anthropic"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "The north stars we're working towards at OpenAI all center around the mission: ensure AGI benefits all of humanity. AI should expand human a",
+    "url": "https://x.com/merettm/status/2064092423740174582",
+    "source": "X @merettm",
+    "source_type": "x",
+    "published_at": "2026-06-08T21:09:17+00:00",
+    "raw_excerpt": "The north stars we're working towards at OpenAI all center around the mission: ensure AGI benefits all of humanity. AI should expand human agency, not make people less consequential to the future.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI는 AGI가 모든 인류에게 이익이 되고 인간의 주체성을 확대하는 방향으로 나아가는 것을 목표로 삼고 있습니다.",
+    "thumbnail": "",
+    "score": 5.881,
+    "engagement": 15549,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "애플, 구글 제미나이와 손잡고 AI 대반격…‘애플 인텔리전스’ 전면 공개",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40395",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-09T08:57:37+00:00",
+    "raw_excerpt": "애플이 세계개발자회의(WWDC 2026)에서 차세대 '애플 인텔리전스(Apple Intelligence)'를 공개하고, 인공지능(AI) 전략의 새로운 전환점을 선언했다. 특히 이번 발표에서는 구글(Google)의 제미나이(Gemini) 모델과 협력해 구축한 새로운 AI 아키텍처를 공식화하면서 업계의 이목을 집중시켰다.지난해 애플 인텔리전스를 처음 공개하며 AI 시장 진입을 선언했던 애플은 이번에는 한 단계 더 나아가 AI를 운영체제 전반에 깊숙이 통합하는 전략을 내놓았다. 단순히 몇 개의 AI 기능을 추가하는 수준이 아니라 아이폰,",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "애플이 WWDC 2026에서 Google Gemini와 협력한 차세대 '애플 인텔리전스'를 공개하며 AI를 OS 전반에 깊숙이 통합하는 전략을 선언했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40395_60950_5650_v150.jpg",
+    "score": 5.847,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "ai 시장"
+    ],
+    "source_weight": 1.2
+  },
+  {
+    "title": "When we first demoed Claude Code internally, it got two reactions on Slack. ",
+    "url": "https://x.com/bcherny/status/2064034799711588805",
+    "source": "X @bcherny",
+    "source_type": "x",
+    "published_at": "2026-06-08T17:20:18+00:00",
+    "raw_excerpt": "When we first demoed Claude Code internally, it got two reactions on Slack. \n\nA year after GA, \n@_catwu\n and I sat down to talk about what's changed: why I use auto mode instead of plan mode, how routines fix bugs before I see them, why I do most of my coding from my phone now, and",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Anthropic의 Claude Code 출시 1년 후 개발자들이 자동 모드 사용, 루틴 기반 버그 수정, 모바일 코딩 전환 등 실제 사용 방식의 변화를 공유했다.",
+    "thumbnail": "",
+    "score": 5.722,
+    "engagement": 179605,
+    "matched_keywords": [
+      "claude",
+      "claude code"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "we just shipped support for rubrics in deepagents ",
+    "url": "https://x.com/sydneyrunkle/status/2064034061165682931",
+    "source": "X @sydneyrunkle",
+    "source_type": "x",
+    "published_at": "2026-06-08T17:17:22+00:00",
+    "raw_excerpt": "we just shipped support for rubrics in deepagents \n\ngive your agent a clear definition of what \"done\" looks like, and force it to run in a loop until said goal is complete\n\nthis is similar to /goal in claude code, but works for any agent (not just a coding agent)",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "DeepAgents에서 에이전트가 목표를 명확히 정의하고 완료될 때까지 반복 실행하는 루브릭 지원 기능을 출시했습니다.",
+    "thumbnail": "",
+    "score": 5.72,
+    "engagement": 5941,
+    "matched_keywords": [
+      "claude",
+      "claude code"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "오픈AI, IPO 신청서 제출...\"상장 시점은 미정\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211500",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-09T07:11:43+00:00",
+    "raw_excerpt": "오픈AI가 공식적으로 기업공개(IPO) 절차에 나섰다.뉴욕타임스와 월스트리트저널 등에 따르면, 오픈AI는 8일(현지시간) 미국 증권거래위원회(SEC)에 기업공개(IPO) 서류를 비공개로 제출했다. 이로써 이르면 올가을 상장을 추진할 수 있게 됐지만, 구체적인 시기는 아직 결정되지 않았다고 강조했다. 오픈AI는 서면 성명을 통해 \"상장까지는 시간이 걸릴 수 있다\"라고 밝혔다.다만 \"비상장 기업으로서 더 쉽게 진행할 수 있는 일들이 있기 때문\"이라고 이유를 전했다. 더 이상 자세한 설명은 하지 않았다.이처럼 미국 증시는 이미 IPO 신",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "오픈AI가 SEC에 IPO 신청서를 제출했으나 구체적인 상장 시기는 미정이며, 비상장 상태 유지의 장점을 강조했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211500_214474_954.png",
+    "score": 5.589,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "[6월8일] '코딩 의도 DB'가 등장할 것이라는 예측…AI 시대의 새로운 '종속' 전략",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211469",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-09T07:00:00+00:00",
+    "raw_excerpt": "AI 개발에서 가장 널리 사용되는 프레임워크 중 하나를 개발한 회사인 파이던틱(Pydantic)의 사무엘 콜빈 CEO는 5일(현지시간) 비즈니스 인사이더와의 인터뷰를 통해 '코딩 의도 데이터베이스(Databases of coding intent)'라는 개념을 소개했습니다.이 회사는 오픈AI나 앤트로픽과 같은 AI 기업과 협력하고 있는데, 이를 통해 첨단 AI 회사들의 전략을 엿볼 수 있었다는 것입니다. 그는 \"그들은 모델 품질과는 무관하게 사람들을 묶어두는 방법을 찾기 위해 최선을 다하고 있다\"라며 \"클로드 코드와 코덱스를 비롯한",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Pydantic CEO가 AI 기업들이 사용자 종속을 위해 개발자의 '코딩 의도 데이터베이스'를 구축할 것으로 예측했습니다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211469_214429_2226.png",
+    "score": 5.578,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "구글, '스스로 판단하고 재검색'하는 차세대 에이전틱 RAG 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211484",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-08T18:19:40+00:00",
+    "raw_excerpt": "구글이 복잡한 기업용 질문에 답하기 위해 필요한 정보를 스스로 찾아나가는 차세대 검색·추론 기술인 ‘에이전틱 RAG(Agentic RAG)’를 공개했다. 구글은 5일(현지시간) 복잡한 기업용 질문에 답하기 위해 필요한 정보를 스스로 찾아나가는 차세대 검색·추론 기술인 '에이전틱 RAG'를 공개했다. 이 기술은 현재 제미나이 엔터프라이즈 에이전트 플랫폼(Gemini Enterprise Agent Platform)에서 공개 프리뷰 형태로 제공되고 있다.기존 검색증강생성(RAG)이 한 번의 검색 결과에 의존했다면, 새로운 시스템은 여러",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "구글이 복잡한 기업용 질문에 필요한 정보를 스스로 판단해 재검색하는 '에이전틱 RAG' 기술을 Gemini Enterprise Agent Platform에서 공개했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211484_214455_4327.png",
+    "score": 5.542,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic",
+      "에이전트",
+      "에이전틱"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "깃허브 코파일럿 요금 개편에 '토큰 재앙' 비명...\"월 29달러가 750달러로\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211449",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-08T18:00:00+00:00",
+    "raw_excerpt": "마이크로소프트(MS) 깃허브가 AI 코딩 도우미 '깃허브 코파일럿(GitHub Copilot)'의 요금 체계를 전면 개편하며 커뮤니티에 적지 않은 파장을 일으키고 있다. 기존의 정액제 중심 구조를 폐기하고 실제 AI 사용량에 따라 비용을 부과하는 토큰 기반 과금 모델을 도입하면서, 일부 이용자 사이에서는 이른바 ‘토큰 재앙(Tokenpocalypse)’이라는 표현까지 등장했다.깃허브는 6월1일부터 모든 코파일럿 요금제를 사용량 기반 과금 체계로 전환했다.기존에는 프리미엄 요청(Premium Request) 횟수를 기준으로 사용량을",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "깃허브 코파일럿이 정액제에서 토큰 기반 사용량 과금으로 전환하면서 월 비용이 29달러에서 750달러로 급증할 수 있다는 우려가 커지고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211449_214407_137.png",
+    "score": 5.524,
+    "engagement": 0,
+    "matched_keywords": [
+      "copilot",
+      "github copilot",
+      "ai 코딩"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "\"IT 시스템 구축도 뚝딱\"...LG CNS, 에이전틱 AI 개발 플랫폼 'AIND' 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211471",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-08T15:02:48+00:00",
+    "raw_excerpt": "LG CNS(대표 현신균)는 대규모 IT 시스템의 구축부터 운영까지 전 과정을 자동화하는 에이전틱 AI 기반 개발 플랫폼 '데브온 에이전틱 AIND'를 출시했다고 8일 밝혔다.AIND는 미국의 오픈소스 AI 코딩 기업 클라인(Cline)과 공동 개발했다. 사용자가 자연어로 요구사항을 입력하면 ▲고객 요구사항 분석·설계 ▲코딩 ▲테스트·품질 검증 등 각 영역에 특화된 AI 에이전트들이 협업해 개발 전 과정을 수행한다.특히 기업의 IT 정보를 구조화한 온톨로지 데이터베이스인 '지식 파운데이션'을 적용했다. 이를 통해 기존 바이브 코딩의",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "LG CNS가 자연어 요구사항을 입력하면 AI 에이전트들이 협업해 IT 시스템 구축부터 운영까지 자동화하는 에이전틱 AI 개발 플랫폼 'AIND'를 출시했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211471_214434_340.jpg",
+    "score": 5.364,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "에이전틱",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "젠슨 황, 방한 마지막 일정서 국내 AI 기업 독려...\"GPU 우선 공급”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211497",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-08T22:28:52+00:00",
+    "raw_excerpt": "젠슨 황 엔비디아 CEO가 8일 저녁 방한 마지막 일정으로 서울 신라호텔 영빈관에서 열린 ‘엔비디아 코리아 AI 에코시스템 리셉션’에 참석해 정부 및 국내 AI 기업, 스타트업을 독려하고 최신 GPU 우선 공급을 약속했다. ■ 엔비디아, GPU 차질 없이 공급...'베라 루빈' 우선 공급 약속먼저, 황 CEO는 배경훈 부총리 겸 과학기술정보통신부 장관과 국내 피지컬 AI 생태계를 중점으로 협력 방안을 논의했다. 화두는 ‘베라 루빈 기반의 AI 팩토리’ 도입이었다. 배경훈 부총리는 “APEC 협력 시 약속한 GPU 26만장의 차질 없",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "젠슨 황 엔비디아 CEO가 방한 중 국내 AI 기업들을 독려하며 최신 GPU '베라 루빈' 우선 공급을 약속했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211497_214470_354.jpeg",
+    "score": 5.117,
+    "engagement": 0,
+    "matched_keywords": [
+      "gpu",
+      "스타트업"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "Introducing Papers Without Code ",
+    "url": "https://x.com/NielsRogge/status/2063990393616666899",
+    "source": "X @NielsRogge",
+    "source_type": "x",
+    "published_at": "2026-06-08T14:23:51+00:00",
+    "raw_excerpt": "Introducing Papers Without Code \n\nJokes aside, you can now also browse the evaluation results and leaderboards of closed-source models like GPT-5.5 and Opus 4.8 \n\nYou can enable/disable this in your settings",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Papers With Code에서 GPT-5.5, Opus 4.8 같은 비공개 모델의 평가 결과와 순위표를 열람할 수 있게 됐습니다.",
+    "thumbnail": "",
+    "score": 5.099,
+    "engagement": 6258,
+    "matched_keywords": [
+      "gpt-5"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "중기부, 모두의 창업 프로젝트와 중소기업 역대 최대 수출 등에 특별성과 포상금 총 8,400만 원 수여",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40389",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-08T17:09:28+00:00",
+    "raw_excerpt": "중소벤처기업부(장관 한성숙, 이하 중기부)는 8일, 국가적 현안 해결과 탁월한 정책성과를 창출한 직원들에게 특별성과 수시 포상을 실시하고, 이어서 '2026년 MZ어벤져스 스타트업 데이'를 개최했다.공무원 특별성과 포상은 기존 성과평가 체계로는 적시에 보상하기 어려운 탁월한 성과를 즉시 발굴·보상함으로써 성과 중심의 공직문화를 확산하기 위한 제도이다. 특히 중기부는 올해 중앙부처 최초로 정책평가회를 통해 국민이 지켜보고 현장이 직접 우수정책을 선택하는 방식의 특별성과 포상 제도를 도입하여, 지난 4월 한국형 증거개시 제도 도입을 통",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "중소벤처기업부가 모두의 창업 프로젝트와 중소기업 수출 성과 등으로 직원 8명에게 특별성과 포상금 8,400만 원을 수여했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40389_60939_920_v150.jpg",
+    "score": 5.057,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업",
+      "벤처",
+      "창업"
+    ],
+    "source_weight": 1.2
+  },
+  {
+    "title": "\"개인 비서에 불과한 AI…차세대 기업 에이전트는 '공유 메모리' 필요\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211477",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-08T18:00:00+00:00",
+    "raw_excerpt": "기업들이 AI 에이전트를 빠르게 도입하고 있지만, 실제 생산성 향상으로 이어지는 사례는 기대에 크게 못 미치고 있다. 전문가들은 그 원인으로 AI 에이전트의 ‘기억 상실’을 지목하며, 앞으로 기업용 AI 시장의 승패는 ‘공유 메모리(Shared Memory)’ 구축 여부에 달려 있다고 분석했다.업무 관리 플랫폼 아사나(Asana)의 최근 조사에 따르면, 전체 지식 노동자의 75%가 업무에 AI를 활용하고 있지만 생산성 향상을 보고한 기업은 5%에 불과했다.아르나브 보스 아사나 최고 제품책임자(CPO)는 벤처비트와의 인터뷰에서 현재",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "현재 AI 에이전트는 기억 능력 부족으로 기대만큼의 생산성 향상을 못 이루고 있으며, 차세대 기업용 AI의 성공은 '공유 메모리' 구축에 달려 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211477_214442_3021.jpg",
+    "score": 4.874,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "프리그로우, 팁스 R&D 딥테크트랙 선정… AI 에이전트 기반 공간 자율운영",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211472",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-08T13:25:59+00:00",
+    "raw_excerpt": "프리그로우(김영식 대표)가 중소벤처기업부 '2026년 팁스(TIPS) R D 딥테크트랙'에 선정됐다고 8일 밝혔다.팁스R D 딥테크트랙은 딥테크 기업의 기술 고도화를 지원하는 R D 트랙이다. AI·센서·공정 등 12대 신산업 분야를 대상으로 최대 36개월간 15억원을 지원한다.프리그로우는 UWB 측위 기술을 단계적으로 고도화해 왔다. 초기 실내 단일 측위에서 출발해 GPS-RTK·IMU 센서를 통합한 실내외 연속 측위로 확장했고, 서버 없이 단말 자체에서 신호 환경을 판단하는 온디바이스 AI를 탑재하는 단계까지 진화했다. 금속 밀",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "프리그로우가 중소벤처기업부 TIPS R&D 딥테크트랙에 선정되어 AI 에이전트 기반 공간 자율운영 기술 고도화에 최대 36개월간 15억원을 지원받는다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211472_214438_194.jpg",
+    "score": 4.627,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "[현장] 배경훈 과기정통부 장관 \"젠슨 황, GTC 한국 개최 긍정적\"",
+    "url": "https://zdnet.co.kr/view/?no=20260608212445",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-08T12:48:17+00:00",
+    "raw_excerpt": "[지디넷코리아]젠슨 황 엔비디아 최고경영자(CEO)가 엔비디아 연례 기술행사인 'GTC'의 한국 개최를 두고 긍정적인 입장을 밝혔다. 엔비디아 차세대 그래픽처리장치(GPU)의 연내 국내 공급 가능성에도 청신호가 켜진 분위기다.배경훈 과학기술정보통신부 부총리 겸 장관은 8일 저녁 서울 중구 신라호텔에서 엔비디아가 개최한 '코리아 AI 에코시스템 리셉션' 행사에 참석 후 기자들과 만나 \"젠슨 황 CEO는 AI 생태계를 만든다는 관점에서 GTC 국내 개최에 대해 매우 긍정적으로 생각하고 있다\"고 전했다.GTC는 엔비디아가 매년 개최하는 글로벌 기술 콘퍼런스로, GPU·AI 반도체·로보틱스·데이터센터 등 차세대 AI 기술과 생태계 전략을 공개하는 대표 행사다. 국내에서 GTC가 열릴 경우 한국 AI 산업계와 글로벌 빅테크·개발자 생태계의 접점이 확대될 것으로 보인다.앞서 황 CEO는 지난주 국내 파트너사들과 진행한 '코리안 파트너 나이트'에서도 GTC 국내 개최 가능성에 대해 \"서울이 원하면 개최할 것\"이라고 밝힌 바 있다.엔비디아 차세대 GPU 공급도 이날 주요 논의 의제로 다뤄졌다. 배 장관은 기존에 기획한 GPU 도입 물량 외에도 향후 정부 AI 사업에 필요한 GPU를 안정적으로 확보하는 방안을 엔비디아 측과 협의했다고 설명했다. 배 장관은 \"작년 기존에 기획했던 GPU 도입 이외 앞으로 진행할 사업에 필요한 GPU를 엔비디아에서 차질",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "젠슨 황 엔비디아 CEO가 GTC의 한국 개최에 긍정적 입장을 밝혔으며, 차세대 GPU의 국내 공급 가능성도 높아지고 있다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/06/08/dd4e4df9d672ee74f90b1f4e71de55f6.jpg",
+    "score": 4.53,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "gpu",
+      "로보틱스",
+      "빅테크",
+      "차세대"
+    ],
+    "source_weight": 0.9
+  },
+  {
+    "title": "크래프톤 “엔비디아 'RTX 스파크'에 게임 최적화…로보틱스 협력도 확장”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211452",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-08T11:19:52+00:00",
+    "raw_excerpt": "크래프톤(대표 김창한)은 7일 서울 강남구 PC방에서 PUBG 팬들을 위한 이벤트를 진행, 엔비디아와 협력 확대를 논의했다고 밝혔다. '배틀그라운드' 이용자들을 위해 마련된 이벤트로, 장병규 크래프톤 의장과 젠슨 황 엔비디아 CEO가 직접 소통의 시간을 가졌다. 이번 만남을 계기로 두 회사는 AI 기술 협력을 가속하기로 했다. 크래프톤 주요 타이틀을 차세대 AI PC용 온디바이스 슈퍼칩 ‘RTX 스파크’ 플랫폼에 최적화할 예정이다.로보틱스 분야에서도 논의를 진행했다. 지난해 4월에는 김창한 크래프톤 대표가 미국 캘리포니아 엔비디아",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "크래프톤이 엔비디아 CEO와 만나 PUBG 등 주요 게임을 'RTX 스파크' 플랫폼에 최적화하고 로보틱스 협력을 확대하기로 합의했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211452_214403_5131.jpeg",
+    "score": 4.513,
+    "engagement": 0,
+    "matched_keywords": [
+      "로보틱스",
+      "차세대"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "이제 Figma보다 Claude로 더 많이 디자인한다",
+    "url": "https://news.hada.io/topic?id=30285",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-06-08T10:35:42+00:00",
+    "raw_excerpt": "디자인 워크플로는 명세 문서와 Figma 목업을 거쳐 구현을 검토하는 방식에서, 실제 코드베이스에 동작하는 프로토타입 기능 을 만드는 흐름으로 이동 중 Copilot, Cursor, Gemini는 이미 잘하던 게임 수정·제품 브리프·와이어프레임 작업에서 기대에 못 미쳤지만, 새로 익혀야 하는 ...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Claude 같은 AI 모델이 설계 목업 단계를 거치지 않고 바로 코드 기반 프로토타입을 만드는 방식으로 디자인 워크플로를 변화시키고 있다.",
+    "thumbnail": "https://social.news.hada.io/topic/30285",
+    "score": 4.441,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "gemini",
+      "copilot",
+      "cursor"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "젠슨 황, 현대차그룹 방문...”로보틱스 핵심 ‘새만금’에 데이터센터 설립 유력”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211495",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-08T20:55:33+00:00",
+    "raw_excerpt": "젠슨 황 CEO가 8일 현대차그룹 양재사옥을 방문해 AI와 로보틱스, 데이터센터 협력을 논의했다.정의선 현대차그룹 회장이 동행했다. 황 CEO는 현대차그룹의 조경 관리 로봇 ‘달이 가드너(Dal-e Gaedner)’을 비롯해 사족보행 보안로봇 ‘스팟’ 등 로보틱스 제품군을 살펴봤다. 정의선 회장은 새만금 프로젝트에 황 CEO에게 동참과 투자를 제안했다. 이는 AI 데이터센터, 로봇 제조 클러스터, 수전해 플랜트, 태양광 발전, AI 수소 시티 등 신사업의 핵심 축을 이루는 ‘혁신성장거점’ 구축을 목표로 한다. 현대차그룹이 투자를 주",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "NVIDIA의 젠슨 황 CEO가 현대차그룹을 방문해 AI·로보틱스 협력을 논의하고, 새만금에 데이터센터 설립 제안을 받았다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211495_214468_4139.jpeg",
+    "score": 4.383,
+    "engagement": 0,
+    "matched_keywords": [
+      "로보틱스"
+    ],
+    "source_weight": 1.3
+  }
+]
