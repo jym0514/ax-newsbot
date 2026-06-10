@@ -1,0 +1,381 @@
+[
+  {
+    "title": "“인공지능, 인간 전문가 수준 넘었다\"…앤트로픽, 역대 최강 AI '클로드 페이블 5' 와 '미토스 5' 동시 출시",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40419",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-10T08:49:48+00:00",
+    "raw_excerpt": "앤트로픽(Anthropic)이 9일(현지시간) 차세대 초거대 인공지능(AI) 모델 '클로드 페이블 5(Claude Fable 5)'와 '클로드 미토스 5(Claude Mythos 5)'를 공식 발표하고 인공지능 산업의 새로운 전환점을 제시했다.특히, 페이블 5를 지금까지 일반 사용자에게 공개된 모델 가운데 가장 강력한 AI로 규정했으며, 미토스 5는 현재 세계 최고 수준의 사이버보안 및 과학 연구 역량을 갖춘 모델이라고 평가했다.특히 이번 발표는 단순한 성능 향상을 넘어 AI가 인간 전문가의 생산성을 보조하는 수준을 넘어 독립적으로",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "앤트로픽이 인간 전문가 수준의 성능을 갖춘 차세대 AI 모델 '클로드 페이블 5'와 '클로드 미토스 5'를 동시 출시하며 AI 산업의 새로운 전환점을 제시했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40419_60982_4929_v150.jpg",
+    "score": 5.84,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "anthropic"
+    ],
+    "source_weight": 1.2
+  },
+  {
+    "title": "英 리브스 재무장관, \"G7 최고 AI 활용 국가 되겠다\"...400억 파운드 AI 생산성 효과 노린다",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40414",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-09T20:06:25+00:00",
+    "raw_excerpt": "영국 정부가 인공지능(AI)을 국가 성장 전략의 핵심 축으로 삼고 주요 산업과 공공서비스 전반에 AI 도입을 가속화한다. 특히 G7 국가 가운데 가장 빠르게 AI를 활용하는 국가가 되겠다는 목표를 제시하며 대규모 인프라 투자와 규제 혁신, AI 경제 연구 체계 구축에 나섰다.레이철 리브스(Rachel Reeves) 영국 재무장관은 9일(현지시간) 런던에서 열린 'AI 도입 정상회의(AI Adoption Summit)' 기조연설에서 \"AI 시대의 승자는 기술을 연구실에서 꺼내 기업과 공장, 공공서비스 현장에 성공적으로 적용하는 국가가",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "영국 정부가 AI를 국가 성장 전략의 핵심으로 삼고 G7 최고 수준의 AI 활용 국가 달성을 목표로 400억 파운드 생산성 효과를 노리며 대규모 투자와 규제 혁신에 나섰다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40414_60975_541_v150.jpg",
+    "score": 5.804,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai adoption",
+      "생산성",
+      "현장",
+      "ai 도입"
+    ],
+    "source_weight": 1.2
+  },
+  {
+    "title": "Also available in Claude Code.",
+    "url": "https://x.com/omarsar0/status/2064400373004038508",
+    "source": "X @omarsar0",
+    "source_type": "x",
+    "published_at": "2026-06-09T17:32:58+00:00",
+    "raw_excerpt": "Also available in Claude Code.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Claude Code에서도 이용 가능하게 되었습니다.",
+    "thumbnail": "",
+    "score": 5.73,
+    "engagement": 1604,
+    "matched_keywords": [
+      "claude",
+      "claude code"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "A TIL on using ",
+    "url": "https://t.co/kguEcFr9s6",
+    "source": "X @simonw",
+    "source_type": "x",
+    "published_at": "2026-06-09T21:49:43+00:00",
+    "raw_excerpt": "A TIL on using \nhttp://\nagentsview.io to calculate token spending with Claude Fable 5 despite that model not yet being included in the AgentsView pricing database \nhttps://\ntil.simonwillison.net/llms/agentsvie\nw-custom-model-price\n…",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "AgentsView를 이용해 Claude Fable 5의 토큰 소비 비용을 계산하는 방법이 공개되었습니다.",
+    "thumbnail": "",
+    "score": 5.409,
+    "engagement": 3520,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "AI 확산 속도에 통제 체계 못 따라가… 글로벌 CIO·CTO들 \"책임은 늘고 통제력은 부족\"",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40417",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-09T21:53:23+00:00",
+    "raw_excerpt": "기업들이 생성형 AI와 AI 에이전트 도입을 본격화하면서 기술 리더들이 새로운 위기에 직면한 것으로 나타났다. 인공지능이 실험 단계를 넘어 기업 전반의 핵심 운영 체계로 확산되고 있지만, 이를 통제하고 관리할 수 있는 거버넌스 체계는 아직 충분히 갖춰지지 못했다는 것이다.이는 IBM 기업가치연구소(Institute for Business Value, IBV)가 옥스퍼드 이코노믹스(Oxford Economics)와 함께 전 세계 33개 국가 및 지역, 19개 산업군의 CIO·CTO 등 기술 분야 최고경영진 2,000명을 대상으로 실시",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AI 도입 확산 속도에 비해 통제·거버넌스 체계가 미흡해 글로벌 CIO·CTO들의 책임과 위험 부담이 가중되고 있다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40417_60978_5158_v150.jpg",
+    "score": 5.293,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "생성형 ai"
+    ],
+    "source_weight": 1.2
+  },
+  {
+    "title": "for those keeping track at home it was 34 days between signing this deal and launching Mythos-class model GA to the world.",
+    "url": "https://x.com/swyx/status/2064421542503797186",
+    "source": "X @swyx",
+    "source_type": "x",
+    "published_at": "2026-06-09T18:57:05+00:00",
+    "raw_excerpt": "for those keeping track at home it was 34 days between signing this deal and launching Mythos-class model GA to the world.\n\n\nhttps://\nx.com/leerob/status/\n2052059466821198061?s=20\n…\n\nbuilding on \n@nvidia\n stack means you can just do things™.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Mythos-class 모델 GA가 협력사 계약 체결 후 34일 만에 출시되며 NVIDIA 스택 기반 개발의 빠른 속도를 보여줬다.",
+    "thumbnail": "",
+    "score": 5.289,
+    "engagement": 2051,
+    "matched_keywords": [
+      "nvidia"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "This is a super exciting release - Claude Fable 5 is the same underlying model as Mythos but with added safeguards. The benchmarks are great",
+    "url": "https://x.com/karpathy/status/2064409694761054332",
+    "source": "X @karpathy",
+    "source_type": "x",
+    "published_at": "2026-06-09T18:10:00+00:00",
+    "raw_excerpt": "This is a super exciting release - Claude Fable 5 is the same underlying model as Mythos but with added safeguards. The benchmarks are great and it's SOTA on everything by a margin but I'll add that *qualitatively* also, this is a major-version-bump-deserving step change forward",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Claude Fable 5가 Mythos와 동일한 기반 모델에 안전장치를 추가해 출시됐으며, 벤치마크에서 모든 분야에 최고 성능을 기록했다.",
+    "thumbnail": "",
+    "score": 5.256,
+    "engagement": 1024665,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "Take your content global, already!",
+    "url": "https://x.com/pika_labs/status/2064408753139835091",
+    "source": "X @pika_labs",
+    "source_type": "x",
+    "published_at": "2026-06-09T18:06:16+00:00",
+    "raw_excerpt": "Take your content global, already!\n\nThe Language Swap skill via Pika MCP swaps the language you’re speaking in any video, making it look and sound like you speak fluent…anything.",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Pika MCP의 Language Swap 기능이 동영상의 음성과 입술 움직임을 자동으로 다양한 언어로 변환해 글로벌 콘텐츠 제작을 간편하게 해준다.",
+    "thumbnail": "",
+    "score": 5.254,
+    "engagement": 75407,
+    "matched_keywords": [
+      "mcp"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "화웨이 클라우드, ‘에이전틱 AI’ 시대 선언… 초대형 AI 인프라·에이전트 플랫폼 공개",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40415",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-09T20:56:16+00:00",
+    "raw_excerpt": "화웨이 클라우드(Huawei Cloud)가 에이전트 기반 인공지능(AI) 시대를 겨냥한 차세대 인프라 전략과 플랫폼을 대거 공개하며 기업 AI 혁신 시장 공략에 나섰다.화웨이 클라우드는 지난 5일, 6일 양일간 중국 상하이 웨스트번드 국제컨벤션전시센터에서 개막한 ‘화웨이 클라우드 인스파이어 2026(Huawei Cloud INSPIRE 2026)’에서 새로운 AI 인프라 패러다임인 ‘에이전틱 인프라(Agentic Infra)’를 발표하고, 기업용 에이전트 플랫폼과 차세대 AI 모델 학습·추론 플랫폼을 공개했다.행사에서 화웨이 이사이",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "화웨이 클라우드가 에이전트 기반 AI 시대를 주도하기 위해 차세대 AI 인프라와 기업용 에이전트 플랫폼을 공개했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40415_60976_5651_v150.jpg",
+    "score": 5.246,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic",
+      "에이전트",
+      "에이전틱"
+    ],
+    "source_weight": 1.2
+  },
+  {
+    "title": "Model availability.",
+    "url": "https://x.com/omarsar0/status/2064399465721503924",
+    "source": "X @omarsar0",
+    "source_type": "x",
+    "published_at": "2026-06-09T17:29:21+00:00",
+    "raw_excerpt": "Model availability.\n\n\"Pricing for both models is $10 per million input tokens and $50 per million output tokens. Developers can use claude-fable-5 via the Claude API.\"",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Claude API를 통해 이용 가능한 Claude-Fable-5 모델이 입력 토큰당 $10, 출력 토큰당 $50의 가격으로 개발자들에게 제공된다.",
+    "thumbnail": "",
+    "score": 5.228,
+    "engagement": 1531,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "NEW: Anthropic introduces Claude Fable 5, a Mythos-class model for general use. ",
+    "url": "https://x.com/omarsar0/status/2064396373697454358",
+    "source": "X @omarsar0",
+    "source_type": "x",
+    "published_at": "2026-06-09T17:17:04+00:00",
+    "raw_excerpt": "NEW: Anthropic introduces Claude Fable 5, a Mythos-class model for general use. \n\nBeginning of a new class of frontier models.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Anthropic이 범용 AI 모델 Claude Fable 5를 출시하며 새로운 최첨단 모델 클래스인 Mythos-class를 공개했다.",
+    "thumbnail": "",
+    "score": 5.219,
+    "engagement": 13535,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "I've been at Anthropic through every model launch. There's been a few cases I can remember of a launch that stands out and marks a step-chan",
+    "url": "https://x.com/alexalbert__/status/2064394410004304003",
+    "source": "X @alexalbert__",
+    "source_type": "x",
+    "published_at": "2026-06-09T17:09:16+00:00",
+    "raw_excerpt": "I've been at Anthropic through every model launch. There's been a few cases I can remember of a launch that stands out and marks a step-change in how we use models:\n- Claude Opus 3\n- Claude Sonnet 3.5\n- Claude Opus 4.5\n\nAnd now Claude Fable 5.\n\nWith Fable, the model stopped",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Anthropic 직원이 Claude Fable 5를 역대급 모델 출시로 평가하며 Claude Opus 3, Sonnet 3.5, Opus 4.5와 함께 기술적 도약을 이룬 주요 버전으로 꼽았습니다.",
+    "thumbnail": "",
+    "score": 5.214,
+    "engagement": 492488,
+    "matched_keywords": [
+      "anthropic"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "BREAKING:",
+    "url": "https://x.com/danshipper/status/2064393970856124501",
+    "source": "X @danshipper",
+    "source_type": "x",
+    "published_at": "2026-06-09T17:07:31+00:00",
+    "raw_excerpt": "BREAKING:\n\nAnthropic just dropped Claude Fable 5—this is Mythos, made safe for public release. It is the best coding model in the world.\n\nWe've been testing it internally \n@every\n for the last week or so across coding, writing, marketing, editing, and more—here's our vibe check:\n\n-",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Anthropic이 최고 성능의 코딩 모델 Claude Fable 5를 공개했으며, 내부 테스트 결과 코딩부터 마케팅까지 다양한 분야에서 우수한 성능을 입증했다.",
+    "thumbnail": "",
+    "score": 5.213,
+    "engagement": 420056,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "NBA 중국, 알리바바 큐원 기반 AI 농구 비서 'NBA 챗' 출시",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40413",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-09T19:50:08+00:00",
+    "raw_excerpt": "NBA 중국(NBA China)이 알리바바(Alibaba)의 대형언어모델 '큐원(Qwen)'을 기반으로 개발한 인공지능(AI) 농구 비서 'NBA 챗(NBA Chat)'을 9일 출시했다. 수백만 명의 중국 농구 팬들이 생성형 AI를 통해 경기와 선수 정보를 실시간으로 분석하고 질의할 수 있는 새로운 팬 경험이 본격화될 전망이다.NBA 중국은 2026 NBA 파이널(NBA Finals) 기간에 맞춰 자사 모바일 애플리케이션 'NBA 중국'을 통해 NBA 챗 서비스를 선보였다고 밝혔다. 이번 서비스는 2025년 10월 알리클라우드(Al",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "NBA 중국이 알리바바의 대형언어모델 '큐원'을 기반으로 AI 농구 비서 'NBA 챗'을 출시해 중국 팬들이 경기와 선수 정보를 실시간으로 분석할 수 있게 됐다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40413_60974_502_v150.jpg",
+    "score": 5.191,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "생성형 ai"
+    ],
+    "source_weight": 1.2
+  },
+  {
+    "title": "We encourage developers to share their builds with us and give feedback to shape future iterations. Let’s shape the future of sovereign AI t",
+    "url": "https://t.co/2C3eqGF95i",
+    "source": "X @cohere",
+    "source_type": "x",
+    "published_at": "2026-06-09T16:07:02+00:00",
+    "raw_excerpt": "We encourage developers to share their builds with us and give feedback to shape future iterations. Let’s shape the future of sovereign AI together.\n\nDownload:",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Cohere가 개발자들의 피드백을 통해 자체 AI 모델을 함께 발전시키는 데 참여할 것을 독려하고 있습니다.",
+    "thumbnail": "",
+    "score": 5.171,
+    "engagement": 9682,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "\"20B로 GPT-5.4 검색 성능 능가\"...오픈소스 에이전트 '하네스-1' 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211522",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-09T18:28:29+00:00",
+    "raw_excerpt": "AI가 검색 과정에서 수행해야 했던 기억과 정리, 검증 작업 등을 외부 시스템으로 분리하는 새로운 접근법이 등장했다. 이를 통해 소형 오픈소스 모델로 첨단 모델의 검색 성능을 뛰어넘는 성과를 거뒀다.미국 일리노이대학교 어바나-샴페인, UC 버클리, 오픈소스 벡터 데이터베이스 기업 크로마 연구진은 최근 새로운 검색 AI 에이전트 ‘하네스-1(Harness-1)’을 온라인 아카이브를 통해 공개했다.하네스-1은 검색 과정에서 필요한 기억과 정보 관리 기능을 외부 시스템이 담당하고, AI는 검색과 추론에 집중하도록 역할을 분리한 것이 특징",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "일리노이대·UC버클리·크로마 연구진이 20B 규모의 오픈소스 에이전트 '하네스-1'을 공개했으며, 검색 기능을 외부 시스템으로 분리해 GPT-5.4 수준의 검색 성능을 구현했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211522_214501_1146.png",
+    "score": 4.9,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "삼성, 전 관계사 'AI 대전환' 선언…“조직 DNA까지 AI 중심으로 바꾼다”",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40396",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-09T14:00:00+00:00",
+    "raw_excerpt": "삼성이 인공지능(AI)을 모든 업무 영역에 전면 도입하는 '인공지능 대전환(AI Transformation, AX)'에 나선다. 연구개발(R D)과 생산, 마케팅, 물류, 서비스, 경영지원 등 기업 활동 전반에 AI를 적용하는 것은 물론 조직문화와 일하는 방식, 경영 체계까지 AI 중심으로 재설계해 'AI 네이티브(AI Native) 기업'으로 탈바꿈하겠다는 구상이다.삼성은 9일, 전 관계사의 모든 업무에 AI를 전면 도입하고, AI 시대에 맞는 조직 혁신을 본격 추진한다고 밝혔다. 이는 단순한 업무 효율화 차원을 넘어 기업 운영",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "삼성이 R&D부터 경영지원까지 모든 업무에 AI를 전면 도입하고 조직문화와 경영체계까지 AI 중심으로 재설계하는 'AI 대전환'에 나선다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40396_60951_5557_v150.jpg",
+    "score": 4.899,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직",
+      "ax",
+      "일하는 방식"
+    ],
+    "source_weight": 1.2
+  },
+  {
+    "title": "코난테크놀로지, STK·InLEX서 제조·국방 AX 솔루션 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211517",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-09T16:54:50+00:00",
+    "raw_excerpt": "코난테크놀로지(대표 김영섬)는 10일 서울 코엑스에서 열리는 '2026 스마트테크코리아(STK)'에 참가한다고 밝혔다.이번 전시에서는 AI 글라스 기반 원격 작업지원 에이전트 '비전플로우'와 AI 다국어 동시통역 솔루션 '링고엑스'를 선보인다.비전플로우는 프로토타입 공개 이후 ▲비전언어모델(VLM) 기반 실시간 진단 ▲표준작업절차(SOP) 음성 가이드 ▲검색증강생성(RAG) 연동 답변 ▲스마트 보고서 생성 등 기능을 고도화했다.AI 카메라와 핸즈프리 환경을 바탕으로 생산성 1.5배 향상, 다운타임 50% 단축, 수기 업무 감소 등",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "코난테크놀로지가 STK 전시회에서 AI 글라스 기반 원격 작업지원 솔루션 '비전플로우'와 다국어 동시통역 솔루션을 공개하며 제조·국방 분야 자동화 기술을 선보인다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211517_214498_521.png",
+    "score": 4.815,
+    "engagement": 0,
+    "matched_keywords": [
+      "생산성",
+      "ax"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "농협은행, 에이전틱 AI 전환 선포… AI 기업 인수·전담 조직 동시 가동",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=20847",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-06-09T19:56:59+00:00",
+    "raw_excerpt": "NH농협은행이 에이전틱 AI 기반 은행 전환 비전을 공식 선포했다. AI가 금융 업무 전반을 수행하는 ‘AI 풀뱅킹’ 구현을 목표로, 내부 조직 개편부터 AI 기업 인수, 외부 생태계 협력까지 한꺼번에 속도를 냈다고 밝혔다.농협은행은 9일 서울 본사에서 ‘NH 에이전틱 AI 뱅크 비전 데이’를 열고 강태영 은행장이 직접 3대 실행 전략을 발표했다. 핵심은 직원 누구나 AI 에이전트를 직접 만들고 활용할 수 있는 체계를 갖추는 것이다. 자체 AI 플랫폼 ‘NHAIS’가 이를 뒷받침한다. 여기서 더 나아가 모든 금융 업무를 AI로 구현",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "농협은행이 AI 에이전트 기반 '풀뱅킹' 전환을 선포하며 AI 기업 인수와 전담 조직 출범으로 금융 업무 전면 자동화에 나섰다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202606/20847_21428_5450.jpg",
+    "score": 4.763,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "에이전틱",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.1
+  },
+  {
+    "title": "업스테이지, ‘타임리’ 인수로 멀티 LLM 에이전트 플랫폼 확보",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211524",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-09T15:17:22+00:00",
+    "raw_excerpt": "업스테이지가 ‘멀티 LLM 에이전트 플랫폼’을 확보, 자체 모델 ‘솔라’의 배포 채널을 본격 확대한다.업스테이지(대표 김성훈)는 생성 AI 멀티 플랫폼 전문 타임리(대표 김대환)를 인수했다고 9일 밝혔다.타임리는 별도 코딩 없이도 누구나 업무에 필요한 AI 에이전트를 구축할 수 있는 AI 플랫폼 ‘타임리AI’를 운영하고 있다. 다양한 언어모델(LLM)을 바탕으로 프롬프트, 이미지·영상 생성, 문서 변환 등 업무에 필요한 AI 기능을 통합 제공한다. 현재는 서울시 종량제 AI 서비스 ‘서울AI챗’을 비롯해 전국 지자체와 공공·교육기관",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "업스테이지가 멀티 LLM 에이전트 플랫폼 '타임리'를 인수해 자체 모델 '솔라'의 배포 및 활용 채널을 확대한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211524_214500_2624.png",
+    "score": 4.727,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3
+  }
+]
