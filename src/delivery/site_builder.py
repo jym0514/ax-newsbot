@@ -6,6 +6,7 @@ site/ 는 매 실행 시 완전히 다시 만들어지고 GitHub Pages 아티팩
 from __future__ import annotations
 
 import logging
+from urllib.parse import urlsplit
 
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
@@ -16,6 +17,24 @@ log = logging.getLogger("axnewsbot.site")
 
 SITE_DIR = ROOT / "site"
 TEMPLATES_DIR = ROOT / "templates"
+
+
+def _favicon_url(url: str) -> str:
+    """기사 URL의 도메인에서 출처 사이트 로고(파비콘) 주소를 만든다.
+
+    썸네일이 없는 기사의 기본 이미지로 쓴다. 도메인을 추출할 수 없으면 빈 문자열.
+    """
+    try:
+        host = urlsplit(url or "").hostname or ""
+    except ValueError:
+        host = ""
+    if not host:
+        return ""
+    # gstatic faviconV2: 사이즈 지정 가능하고 파비콘이 없는 사이트는 글로브 아이콘으로 폴백
+    return (
+        "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON"
+        f"&fallback_opts=TYPE,SIZE,URL&size=128&url=https://{host}"
+    )
 
 
 def _group_by_topic(articles: list[dict], config: Config) -> list[dict]:
@@ -44,6 +63,7 @@ def build_site(config: Config) -> int:
         loader=FileSystemLoader(str(TEMPLATES_DIR)),
         autoescape=select_autoescape(["html", "j2"]),
     )
+    env.filters["favicon"] = _favicon_url
 
     feedback_url = (config.get("feedback_form_url") or "").strip()
     feedback_ready = feedback_url.startswith("http") and "CHANGE-ME" not in feedback_url
