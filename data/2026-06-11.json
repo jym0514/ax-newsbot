@@ -1,0 +1,385 @@
+[
+  {
+    "title": "\"에이전틱 AI 시대, 승부는 CPU가 가른다\"…가속기 최고 성능 아니라 CPU 처리 능력이 실제 AI 서비스 규모 결정",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40429",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-10T14:26:38+00:00",
+    "raw_excerpt": "생성형 AI를 넘어 자율적으로 업무를 수행하는 에이전틱 AI(Agentic AI) 시대로 전환되면서 데이터센터 인프라의 경쟁 기준도 변화하고 있다. 지금까지 인공지능(AI) 인프라 경쟁이 GPU 성능 중심으로 전개됐다면, 앞으로는 수많은 AI 에이전트를 안정적으로 운영하기 위한 CPU 중심의 랙 스케일(Rack-Scale) 컴퓨팅 역량이 핵심 요소로 부상하고 있다는 분석이다.AMD는 10일, 블로그를 통해\"실제 운영 환경의 에이전틱 AI는 단순한 추론 모델이 아니라 방대한 서비스 인프라의 집합\"이라며 자사의 AMD 에픽(EPYC)",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "에이전틱 AI 시대로의 전환으로 GPU 성능 중심의 AI 인프라 경쟁이 CPU 기반 랙 스케일 컴퓨팅으로 패러다임이 변화하고 있다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40429_60994_2432_v150.jpg",
+    "score": 6.121,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic",
+      "agentic ai",
+      "에이전트",
+      "에이전틱",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.2
+  },
+  {
+    "title": "I believe what Anthropic is doing, gating the ability to do certain harmless things like LLM research, and with incredibly sensitive filters",
+    "url": "https://x.com/antirez/status/2064766431531532588",
+    "source": "X @antirez",
+    "source_type": "x",
+    "published_at": "2026-06-10T17:47:33+00:00",
+    "raw_excerpt": "I believe what Anthropic is doing, gating the ability to do certain harmless things like LLM research, and with incredibly sensitive filters that even medical questions are often blocked, is *deeply* wrong. They got open research, the Transformer, GPT2, ...",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Anthropic이 LLM 연구 같은 무해한 작업까지 과도하게 제한하는 필터링으로 의료 질문까지 차단하는 것은 문제라는 지적.",
+    "thumbnail": "https://pbs.twimg.com/profile_images/1779914746159882240/v6h2w9g0_200x200.jpg",
+    "score": 5.741,
+    "engagement": 102528,
+    "matched_keywords": [
+      "llm",
+      "anthropic"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "오픈AI, 엔비디아 지원으로 10GW급 역대 최대 데이터센터 구축 추진",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211582",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-10T18:32:05+00:00",
+    "raw_excerpt": "오픈AI가 엔비디아의 재정 지원으로 역대 최대 규모의 자체 데이터센터 구축을 추진 중이다. 완공 시 총비용만 최소 5000억 달러(약 762조원)에 달할 것으로 추정되는 초대형 프로젝트다.디 인포메이션은 9일(현지시간) 복수의 소식통을 인용, 오픈AI가 미국 오하이오주 연방 소유 부지에 건설 예정인 10기가와트(GW) 규모의 AI 데이터센터 캠퍼스를 장기 임대하기 위한 막바지 협상을 진행하고 있다고 보도했다.10GW 규모의 캠퍼스는 현존하는 그 어떤 AI 인프라와도 비교할 수 없을 만큼 압도적인 크기다. 후버댐 발전 용량의 4.5배",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI가 엔비디아의 지원으로 미국 오하이오주에 10GW 규모의 역대 최대 AI 데이터센터 구축을 추진 중이며, 총비용은 최소 5000억 달러에 달할 것으로 예상된다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211582_214578_3018.jpg",
+    "score": 5.553,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai",
+      "엔비디아"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "In good faith and with no judgment (mistakes happen), I truly hope that Anthropic will hear the feedback and change course on this. ",
+    "url": "https://x.com/ClementDelangue/status/2064673792303955985",
+    "source": "X @ClementDelangue",
+    "source_type": "x",
+    "published_at": "2026-06-10T11:39:26+00:00",
+    "raw_excerpt": "In good faith and with no judgment (mistakes happen), I truly hope that Anthropic will hear the feedback and change course on this. \n\nAnthropic is a company that has been raising awareness about AI manipulation which is a very important topic! You don’t want to go down as the",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Hugging Face CEO가 Anthropic의 정책 변화에 대해 선의의 피드백을 요청하며 AI 조작 위험성 인식과의 모순을 지적했습니다.",
+    "thumbnail": "https://pbs.twimg.com/profile_images/1100512198139498497/utHSJ4st_200x200.png",
+    "score": 5.485,
+    "engagement": 48911,
+    "matched_keywords": [
+      "ai",
+      "anthropic"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "first in a series of technical blogs of how we build llm infra",
+    "url": "https://x.com/hwchase17/status/2064835754061435391",
+    "source": "X @hwchase17",
+    "source_type": "x",
+    "published_at": "2026-06-10T22:23:01+00:00",
+    "raw_excerpt": "first in a series of technical blogs of how we build llm infra",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "LLM 인프라 구축 방식을 다루는 기술 블로그 시리즈가 시작된다.",
+    "thumbnail": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_200x200.jpg",
+    "score": 5.432,
+    "engagement": 2436,
+    "matched_keywords": [
+      "llm"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "차량용 마이크로LED가 AI 데이터센터로…ams 오스람, 차세대 광인터커넥트 시장 공략",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40425",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-10T11:26:49+00:00",
+    "raw_excerpt": "차량용 첨단 조명 기술이 인공지능(AI) 데이터센터의 핵심 인프라로 진화하고 있다.조명 및 센서 솔루션 전문기업 ams 오스람(ams OSRAM)은 10일 자사가 자동차용 헤드램프에 적용해온 microLED 기술을 차세대 AI 데이터센터용 광인터커넥트(Optical Interconnect) 솔루션으로 확대 적용한다고 10일 밝혔다.생성형 AI와 대형언어모델(LLM)의 확산으로 AI 데이터센터 규모가 급격히 커지면서 서버 간 데이터 전송 성능과 전력 효율 문제가 업계의 최대 과제로 떠오르고 있다. 이에 따라 기존 전기 신호 중심의 데",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "ams 오스람이 자동차 헤드램프용 microLED 기술을 AI 데이터센터의 광인터커넥트 솔루션으로 확대 적용해 서버 간 데이터 전송 성능과 전력 효율 문제를 해결한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40425_60989_2433_v150.jpg",
+    "score": 5.371,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "llm",
+      "생성형 ai"
+    ],
+    "source_weight": 1.2
+  },
+  {
+    "title": "NVIDIA just released an NVFP4-quantized DiffusionGemma on Hugging Face",
+    "url": "https://x.com/HuggingPapers/status/2064804400682377416",
+    "source": "X @HuggingPapers",
+    "source_type": "x",
+    "published_at": "2026-06-10T20:18:25+00:00",
+    "raw_excerpt": "NVIDIA just released an NVFP4-quantized DiffusionGemma on Hugging Face\n\nA 26B MoE multimodal model generating text via parallel diffusion,\n\nwith 256K context and 1,100+ tokens/sec speed on Hopper.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "NVIDIA가 Hopper에서 초당 1,100개 토큰 처리 속도의 26B MoE 멀티모달 모델 DiffusionGemma를 NVFP4 양자화로 공개했다.",
+    "thumbnail": "https://pbs.twimg.com/media/HKeoqQaW0AAJDfh.jpg:large",
+    "score": 5.345,
+    "engagement": 3876,
+    "matched_keywords": [
+      "nvidia"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "에임인텔리전스, LG전자·현대차·네이버로부터 전략적 투자 유치",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211552",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-10T13:56:34+00:00",
+    "raw_excerpt": "에임인텔리전스(대표 유상윤)는 LG전자, 현대차그룹 제로원벤처스, 네이버 D2SF로부터 전략적 투자를 유치했다고 10일 밝혔다. 투자 액수는 공개하지 않았다.삼성벤처투자 주도 시리즈 A 라운드 이후 한 달 만의 추가 투자다. 특히 이번 투자자는 에임인텔리전스의 고객사이자 협업 파트너로 참여했다.에임인텔리전스는 AI 취약점을 탐지하고 차단하는 보안 솔루션 전문 기업으로, 금융과 제조, 공공 등 국내외 20개 고객사를 보유하고 있다.LG전자와는 스마트홈·홈로봇 등 피지컬 AI 보안 솔루션을 연구개발 중이며, 현대자동차그룹과는 모빌리티",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "AI 보안 솔루션 기업 에임인텔리전스가 LG전자, 현대차그룹, 네이버로부터 전략적 투자를 유치하여 주요 고객사와의 협업을 강화했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211552_214538_322.png",
+    "score": 5.304,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처",
+      "시리즈 a",
+      "투자 유치"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "위시켓, 제조업 AX 위한 기술 파트너십 추진...‘컨설팅·솔루션 통합 모델’ 제시한다",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211541",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-10T09:52:28+00:00",
+    "raw_excerpt": "13년간 12만4000건의 IT 프로젝트 데이터를 축적해 온 위시켓(대표 박우범)의 기업 AI 전환 사업부 위시켓 AIDP(AI Operating Partner)가 제조업 AX 시장 본격 공략을 위해 분야별 핵심 기술 기업과의 파트너십에 나선다고 10일 밝혔다.제조 기업의 AI 도입 시도는 빠르게 늘고 있지만, 실제 사업 성과로 이어지는 경우는 여전히 드물다. 맥킨지가 발표한 'The State of AI 2025'에 따르면 AI를 도입한 조직의 다수가 아직 의미 있는 사업 임팩트를 만들지 못하고 있다. 박우범 대표는 그 원인을 시",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "위시켓 AIDP가 13년간 축적한 12만 4000건 IT 프로젝트 데이터를 바탕으로 제조업 AI 전환을 위해 기술 기업과 파트너십을 추진하며 컨설팅과 솔루션을 통합한 모델을 제시한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211541_214524_5139.jpg",
+    "score": 5.084,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직",
+      "ax",
+      "ai 도입"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "세일즈포스, \"인간과 AI 에이전트 '원팀' 협업, '에이전틱 엔터프라이즈' 전환 사례 대거 공개\"",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40432",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-10T16:18:02+00:00",
+    "raw_excerpt": "전 세계 인공지능 CRM 시장을 선도하고 있는 세일즈포스가 10일, 서울 삼성동 코엑스에서 AI 에이전트 연례 컨퍼런스, ‘에이전트포스 월드투어 코리아 2026(Agentforce World Tour Korea 2026)’을 개최했다. ‘AI의 영감이 현실이 되는 곳’을 주제로 진행된 이번 컨퍼런스에는 약 6,000명의 비즈니스 리더 및 현업 담당자가 참석했다.‘에이전트포스 월드투어’는 전 세계 주요 도시에서 개최되며, AI 에이전트 시대의 고객경험 혁신과 업무 방식 전환을 위한 최신 기술과 실제 도입 사례를 공유하는 자리다. 세일",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "세일즈포스가 서울에서 'Agentforce' 컨퍼런스를 개최해 인간과 AI 에이전트의 협업을 통한 '에이전틱 엔터프라이즈' 전환 사례를 공개했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40432_60999_1552_v150.jpg",
+    "score": 5.014,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "에이전틱",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.2
+  },
+  {
+    "title": "btw insane amounts of alpha in telling claude code to \"review my code for issues\" on Fable rn while it is not pay per use",
+    "url": "https://x.com/swyx/status/2064492823781789969",
+    "source": "X @swyx",
+    "source_type": "x",
+    "published_at": "2026-06-09T23:40:20+00:00",
+    "raw_excerpt": "btw insane amounts of alpha in telling claude code to \"review my code for issues\" on Fable rn while it is not pay per use\n\nbe prepared to be in abject horror that you shipped anything to prod without a Fable Check™ first",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Fable에서 Claude를 이용한 코드 리뷰가 무료 사용 기간 동안 엄청난 가치를 제공하고 있어 프로덕션 배포 전 필수 점검 단계가 되고 있다.",
+    "thumbnail": "https://pbs.twimg.com/profile_images/1867875781676007424/RIF4Kt7U_200x200.jpg",
+    "score": 4.986,
+    "engagement": 20823,
+    "matched_keywords": [
+      "claude",
+      "claude code"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "나우로보틱스, 휴머노이드 로봇 핵심부품 ‘감속기’ 원천특허 5건 확보",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211562",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-10T14:08:09+00:00",
+    "raw_excerpt": "지능형 로봇 전문 나우로보틱스는 휴머노이드 로봇과 산업용 로봇의 핵심 구동부품인 ‘감속기 및 액추에이터 기술’ 관련 특허 5건을 등록하며 로봇 핵심부품 내재화에 속도를 내고 있다고 10일 밝혔다.감속기는 로봇 관절부에서 모터 회전력을 정밀하게 제어하고 토크를 증대시키며, 반복 정밀도와 내구성에 직접적인 영향을 미치는 핵심 부품이다. 감속기 기술 확보 여부는 휴머노이드 로봇 경쟁력을 결정하는 요소로 꼽힌다.이번에 등록된 특허는 ▲하모닉 드라이브용 웨이브 제너레이터의 설계방법 및 이에 의해 제조된 웨이브 제너레이터 ▲베벨 기어 및 하모",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "나우로보틱스가 휴머노이드 로봇의 핵심부품 감속기 관련 원천특허 5건을 확보하며 로봇 부품 국산화를 추진하고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211562_214548_5833.png",
+    "score": 4.665,
+    "engagement": 0,
+    "matched_keywords": [
+      "로보틱스",
+      "휴머노이드"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "구글, 텍스트 생성 패러다임 바꾸는 오픈소스 '디퓨전젬마' 공개…GPU에서 최대 4배 빠른 생성 속도 구현",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40444",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-11T08:35:54+00:00",
+    "raw_excerpt": "구글이 텍스트 생성 방식 자체를 바꾸는 새로운 실험적 오픈소스 모델 '디퓨전젬마(DiffusionGemma)'를 10일(현지시간) 공개했다.기존 대형언어모델(LLM)이 단어와 토큰을 순차적으로 생성하는 자기회귀(Autoregressive) 방식을 사용하는 것과 달리, 디퓨전젬마는 문단 단위의 텍스트를 동시에 생성하는 확산(Diffusion) 방식을 적용해 최대 4배 빠른 생성 속도를 구현했다.이날 구글은 디퓨전젬마를 아파치 2.0(Apache 2.0) 라이선스로 공개한다고 밝혔다. 해당 모델은 총 260억 개 파라미터 규모의 전문가",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "구글이 문단 단위로 텍스트를 동시에 생성하는 확산 방식의 오픈소스 모델 '디퓨전젬마'를 공개하며 기존 순차 생성 방식 대비 최대 4배 빠른 속도를 실현했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40444_61013_325_v150.jpg",
+    "score": 4.629,
+    "engagement": 0,
+    "matched_keywords": [
+      "gpu"
+    ],
+    "source_weight": 1.2
+  },
+  {
+    "title": "Wrote up my initial impressions of Claude Fable 5 - it has a big model smell: slow, expensive and capable of crunching through pretty much e",
+    "url": "https://t.co/xLybVGiR4c",
+    "source": "X @simonw",
+    "source_type": "x",
+    "published_at": "2026-06-10T00:15:04+00:00",
+    "raw_excerpt": "Wrote up my initial impressions of Claude Fable 5 - it has a big model smell: slow, expensive and capable of crunching through pretty much everything I threw at it",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Claude Fable 5는 속도는 느리고 비용이 많이 들지만 복잡한 작업 처리 능력이 뛰어난 대규모 모델의 특징을 보인다.",
+    "thumbnail": "",
+    "score": 4.51,
+    "engagement": 42700,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "세일즈포스, AI 에이전트 ‘핏줄’ 되다",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=20848",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-06-10T13:48:30+00:00",
+    "raw_excerpt": "세일즈포스가 AI 에이전트의 ‘핏줄’이 되고 있다. 기업 곳곳에 흩어진 데이터와 AI 에이전트를 잇는 연결 통로 역할을 자처하면서다.세일즈포스는 10일 서울 삼성동 코엑스에서 연례 컨퍼런스 ‘에이전트포스 월드투어 코리아 2026’을 열고 사람과 AI 에이전트가 한 팀으로 협업하는 ‘에이전틱 엔터프라이즈’ 전략을 공개했다. ‘AI의 영감이 현실이 되는 곳’을 주제로 열린 이번 컨퍼런스에는 약 6000명의 비즈니스 리더와 현업 담당자가 참석했다.◇ “세일즈포스 자체가 이미 에이전틱 엔터프라이즈”박세진 세일즈포스 코리아 대표는 기조연설에",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "세일즈포스가 기업 데이터와 AI 에이전트를 연결하는 핵심 플랫폼으로서 '에이전틱 엔터프라이즈' 전략을 추진하고 있다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202606/20848_21429_4658.png",
+    "score": 4.482,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "에이전틱",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.1
+  },
+  {
+    "title": "빛 색깔로 학습·망각 제어하는 AI 반도체 개발...새로운 광시냅스 플랫폼, 저전력 뉴로모픽 기대",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40430",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-10T15:13:29+00:00",
+    "raw_excerpt": "마치 사람의 뇌처럼 필요한 정보는 오래 기억하고, 불필요한 정보는 약화시키는 뇌 모방 반도체가 개발됐다. 전기를 적게 쓰는 차세대 인공지능(AI) 칩과 ‘보고 기억하는’ 인공 망막 등에 활용될 수 있을 것으로 기대된다.한국연구재단(이사장 홍원화)은 성균관대학교 조새벽 교수, 양우석 교수와 연세대학교 조정호 교수 공동연구팀이 빛의 파장(색깔)에 따라 기억 강화와 기억 약화를 각각 독립적으로 구현할 수 있는 새로운 광시냅스(photonic synapse) 플랫폼을 개발했다고 10일 밝혔다.AI는 똑똑해질수록 전력 소모도 크게 증가해,",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "빛의 파장으로 학습과 망각을 독립적으로 제어하는 광시냅스 반도체가 개발돼 저전력 뉴로모픽 AI칩 개발이 기대된다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40430_60995_333_v150.jpg",
+    "score": 4.36,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "차세대"
+    ],
+    "source_weight": 1.2
+  },
+  {
+    "title": "[체험기] 일레븐랩스의 일상 속 ‘AI 음성 에이전트’…”말 안 걸어도 먼저 찾아주는 AI”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211575",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-10T17:30:00+00:00",
+    "raw_excerpt": "글로벌 음성 AI 스타트업 일레븐랩스가 10일 서울 코엑스에서 열린 ‘2026 AI&빅데이터쇼’에 참가해, 일상 속에 스며든 ‘AI 음성 에이전트’ 기술을 선보였다.우드 톤으로 모던하게 꾸며진 일레븐랩스의 부스는 헤드셋과 같은 오디오 장비 등을 활용해 감각적인 디자인을 선보였다. 기술뿐만 아니라 ‘어떻게 하면 대중에게 친화적으로 다가갈 수 있을지’ 고심한 흔적이 느껴졌다. 음성 에이전트 체험까지 더해지며 대중 친화적인 분위기가 인상적이었다. 실제, 체험 부스에는 많은 관람객이 몰렸다. 체험 공간은 총 3칸으로 구성돼 있으며, 조용히",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "일레븐랩스가 AI&빅데이터쇼에서 사용자가 먼저 말을 걸지 않아도 필요를 파악해 주는 'AI 음성 에이전트' 기술을 선보였다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211575_214563_90.jpeg",
+    "score": 4.197,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "모두의 창업 프로젝트 시작, 모두의 내일이 되다!...중기부, 모두의 창업 1기 5천명 최종 선발",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40426",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-10T11:48:42+00:00",
+    "raw_excerpt": "중소벤처기업부(장관 한성숙, 이하 중기부)는 6만 3천명의 역대급 도전자가 몰렸던 '모두의 창업 프로젝트' 평가 결과, 대한민국 창업 생태계를 이끌어갈 우수한 창업인재 5천명(일반·기술 트랙 4천명, 로컬 트랙 1천명)을 최종 선발했다고 밝혔다.이번 모두의 창업 프로젝트를 통해 나이와 경력, 지역에 관계없이 전국 곳곳의 혁신 아이디어를 발굴했다는 점에서 의미가 크다. 특히, 청년 도전자들의 혁신이 돋보였다. 전체 5천명의 선정자 중 39세 이하 청년층 선정자가 전체 68.4%를 차지하며 청년층의 강세를 보여줬다. 또한, 13세의 최",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "중기부가 6만 3천명 중 창업 생태계를 이끌 우수 창업인재 5천명을 선발했으며, 청년층(39세 이하)이 68.4%를 차지했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40426_60991_4824_v150.jpg",
+    "score": 4.19,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처",
+      "창업"
+    ],
+    "source_weight": 1.2
+  },
+  {
+    "title": "[게시판] 삼성SDS, 미국 AI 보안 스타트업 엑스보우와 사업 협력 등 단신",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211586",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-10T17:00:00+00:00",
+    "raw_excerpt": "■ 삼성SDS가 미국 AI 보안 스타트업 엑스보우(XBOW)와 국내 클라우드 보안 기업 테이텀시큐리티와의 사업 협력으로 ‘클라우드 보안 경쟁력’을 강화한다고 밝혔다. 엑스보우의 AI 기술을 활용한 모의 해킹으로 기업 고객의 웹 서비스와 정보자산 취약점을 신속하고 정밀하게 찾아내고, 이를 바탕으로 취약점 보완과 후속 조치를 수행할 계획이다. 더불어, 테이텀 시큐리티의 기술을 활용해 다양한 클라우드 환경을 이용하는 기업 고객에게 통합 보안 모니터링과 가시성을 제공할 계획이다■ SK텔레콤(대표 정재헌)은 10일 일본 도쿄 NTT 본사에서",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "삼성SDS가 미국 AI 보안 스타트업 엑스보우, 국내 테이텀시큐리티와 협력해 AI 기반 모의 해킹과 통합 보안 모니터링으로 클라우드 보안 경쟁력을 강화한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211586_214582_89.jpeg",
+    "score": 4.17,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "과기부, ‘AI·ICT 미래 유니콘’ 15개사 선정…”해외진출·자금 지원”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211571",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-10T15:50:00+00:00",
+    "raw_excerpt": "과학기술정보통신부(장관 배경훈)는 유망 AI 및 디지털 혁신 기업의 글로벌 성장과 유니콘 기업으로의 도약을 지원하는 ‘글로벌 ICT 미래 유니콘 육성사업’의 올해 참여 기업 15개사를 최종 선정했다고 10일 밝혔다.이 사업은 올해로 7년 차를 맞이했으며, 지난해까지 총 104개 기업이 참여했다. 최근 3년간 사업에 참여한 45개 기업을 대상으로 성과를 조사한 결과, 지난 한 해 동안에만 전년 대비 40% 증가한 154억원의 해외 매출을 달성했다. 올해 선정 기업에는 ▲가제트코리아 ▲모바휠 ▲크로스허브 ▲올마이투어 ▲에이비스 ▲뉴로클",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "과학기술정보통신부가 AI·ICT 유망 기업 15개사를 '글로벌 미래 유니콘 육성사업'에 선정, 해외진출과 자금 지원을 통해 유니콘 기업으로 성장 지원한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211571_214560_4628.jpeg",
+    "score": 4.107,
+    "engagement": 0,
+    "matched_keywords": [
+      "유니콘"
+    ],
+    "source_weight": 1.3
+  }
+]
