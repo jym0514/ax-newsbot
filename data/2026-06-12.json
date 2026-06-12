@@ -1,0 +1,381 @@
+[
+  {
+    "title": "Got my 10yr old introduced to Codex today.",
+    "url": "https://x.com/omarsar0/status/2065187597777854612",
+    "source": "X @omarsar0",
+    "source_type": "x",
+    "published_at": "2026-06-11T21:41:07+00:00",
+    "raw_excerpt": "Got my 10yr old introduced to Codex today.\n\nThe excitement in his face tells it all.\n\nAfter struggling with Claude Code CLI for a bit, today he was like “this is the future, dad”.\n\nThe Codex team built a beautiful app.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "10세 아들이 Codex를 처음 사용한 후 \"이것이 미래다\"라며 열정을 보여 AI 코딩 도구의 사용자 친화성과 잠재력을 입증했다.",
+    "thumbnail": "https://pbs.twimg.com/media/HKkFLE_WAAA-m_-.jpg:large",
+    "score": 6.403,
+    "engagement": 3362,
+    "matched_keywords": [
+      "claude",
+      "codex",
+      "claude code"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "Microsoft Research introduces Arbor",
+    "url": "https://x.com/HuggingPapers/status/2065062300218749172",
+    "source": "X @HuggingPapers",
+    "source_type": "x",
+    "published_at": "2026-06-11T13:23:14+00:00",
+    "raw_excerpt": "Microsoft Research introduces Arbor\n\nA generalist autonomous research agent that uses persistent hypothesis-tree refinement to turn long-horizon exploration into cumulative learning. It beats Codex and Claude Code across 6 research tasks and hits 86% Any-Medal on MLE-Bench Lite.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Microsoft Research가 가설 트리 기반의 자율 연구 에이전트 Arbor를 공개했으며, 이는 코딩 작업에서 Codex와 Claude Code를 능가하고 86% 정확도를 달성했다.",
+    "thumbnail": "https://pbs.twimg.com/media/HKiTNyYWIAAoYSK.jpg:large",
+    "score": 6.057,
+    "engagement": 7310,
+    "matched_keywords": [
+      "claude",
+      "codex",
+      "claude code"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "My new favorite skill is /learn.",
+    "url": "https://x.com/omarsar0/status/2065207138708820478",
+    "source": "X @omarsar0",
+    "source_type": "x",
+    "published_at": "2026-06-11T22:58:46+00:00",
+    "raw_excerpt": "My new favorite skill is /learn.\n\nI built it to learn any topic at whatever level you like. \n\nIt combines two of my passions: artifacts and learning.\n\nComing soon to the \n@dair_ai\n academy.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Claude의 /learn 명령어를 개발한 연구자가 어떤 주제든 원하는 수준으로 학습할 수 있는 새로운 기능을 선보였다.",
+    "thumbnail": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_200x200.jpg",
+    "score": 5.457,
+    "engagement": 1139,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "congrats to our friends ",
+    "url": "https://x.com/swyx/status/2065176231453282777",
+    "source": "X @swyx",
+    "source_type": "x",
+    "published_at": "2026-06-11T20:55:57+00:00",
+    "raw_excerpt": "congrats to our friends \n@ona_hq\n on joining \n@openai\n! \n\nsee their talk here for alpha on what’s next for Codex",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "OpenAI가 Ona를 인수했으며, Codex의 향후 계획에 대한 정보가 공개될 예정이다.",
+    "thumbnail": "https://pbs.twimg.com/profile_images/1867875781676007424/RIF4Kt7U_200x200.jpg",
+    "score": 5.371,
+    "engagement": 4053,
+    "matched_keywords": [
+      "codex"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "Same here. Happy with Opus 4.8 (planning) and GPT-5.5 (execution). ",
+    "url": "https://x.com/omarsar0/status/2065176046719131782",
+    "source": "X @omarsar0",
+    "source_type": "x",
+    "published_at": "2026-06-11T20:55:13+00:00",
+    "raw_excerpt": "Same here. Happy with Opus 4.8 (planning) and GPT-5.5 (execution). \n\nAlso, breaking steps into smaller ones for increasing quality is so underrated. This is why dynamic workflows are a bigger deal than most people think.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Claude Opus 4.8과 GPT-5.5를 조합하여 계획과 실행을 나누는 방식이 효과적이며, 작업을 세분화하고 동적 워크플로우를 활용하는 것이 AI 활용도를 높이는 핵심이라는 의견.",
+    "thumbnail": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_200x200.jpg",
+    "score": 5.371,
+    "engagement": 6341,
+    "matched_keywords": [
+      "gpt-5"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "June 22",
+    "url": "https://t.co/v57M5memjo",
+    "source": "X @LangChain",
+    "source_type": "x",
+    "published_at": "2026-06-11T20:53:57+00:00",
+    "raw_excerpt": "June 22\n Chicago\n\nJoin \n@hwchase17\n, \n@focused_dot_io\n CEO Co-Founder \n@austinbv\n, + the \n@united\n AI team for an evening of insights, talks, and community connections!\n\nMore info & RSVP",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "LangChain이 6월 22일 시카고에서 개최하는 AI 커뮤니티 이벤트에 LangChain 창립자와 United Airlines AI팀이 참여합니다.",
+    "thumbnail": "",
+    "score": 5.37,
+    "engagement": 1850,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "보쉬 \"AI와 휴머노이드가 차세대 자동화 이끈다\"…로보틱스 사업 수십억 유로 규모 육성",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40472",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-11T22:55:54+00:00",
+    "raw_excerpt": "독일 산업기술 기업 보쉬 그룹(Bosch Group)이 휴머노이드 로봇을 미래 핵심 성장축으로 제시하며 자동화 및 로보틱스 사업 확대에 본격적으로 나섰다. 자동차와 공장 자동화, 스마트홈 분야에서 축적한 AI·센서·소프트웨어 기술을 기반으로 향후 수십억 유로 규모의 신규 사업을 육성한다는 전략이다.지난 10일(현지시간) 보쉬는 독일 베를린에서 열린 '보쉬 커넥티드 월드 2026(Bosch Connected World 2026)'에서 자동화와 로보틱스 분야의 중장기 전략을 공개했다. 회사는 특히 휴머노이드 로봇과 AI 기반 자율 시스",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "보쉬가 AI와 휴머노이드 로봇을 차세대 자동화의 핵심으로 삼아 수십억 유로 규모의 로보틱스 사업 확대에 나선다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40472_61050_5420_v150.jpg",
+    "score": 5.346,
+    "engagement": 0,
+    "matched_keywords": [
+      "로보틱스",
+      "휴머노이드",
+      "차세대"
+    ],
+    "source_weight": 1.2
+  },
+  {
+    "title": "더인벤션랩, 립스, 팁스, 벤처스튜디오 연계 유망 스타트업 상시 모집 오픈",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40450",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-11T10:07:04+00:00",
+    "raw_excerpt": "초기투자기관이자 벤처스튜디오 전문기관인 더인벤션랩(대표 김진영)이 ‘2026년 더인벤션랩 벤처스케일업 프로그램(2026 The Invention Lab Venture Scaleup Program)’ 상시 모집을 11일 공식 오픈했다.이번 모집은 성장 단계별 맞춤형 투자 및 스케일업 체계를 기반으로 운영되며, 기술 혁신 기업과 라이프스타일 브랜드, 예비 창업팀까지 폭넓은 창업 주체를 대상으로 하며 ‘2026년 더인벤션랩 벤처스케일업 프로그램(2026 The Invention Lab Venture Scaleup Program)’은 총",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "더인벤션랩이 성장 단계별 맞춤형 투자와 스케일업을 제공하는 벤처스케일업 프로그램의 상시 모집을 공식 개시했습니다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40450_61020_617_v150.jpg",
+    "score": 5.305,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업",
+      "벤처",
+      "창업",
+      "스케일업"
+    ],
+    "source_weight": 1.2
+  },
+  {
+    "title": "AWS, '그라비톤5' 정식 출시…에이전틱 AI 시대 겨냥한 AWS 역대 최고 성능 CPU",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40470",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-11T22:02:26+00:00",
+    "raw_excerpt": "아마존웹서비스(AWS)는 그라비톤5 기반의 아마존 'EC2 M9g' 및 'M9gd' 인스턴스를 10일(현지시간) 정식 출시했다.AWS 리인벤트(re) 2025에서 처음 공개된 그라비톤5는 실시간 추론, 코드 생성, 다단계 작업 오케스트레이션 등 에이전틱 AI(Agentic AI) 시대의 요구사항을 충족하도록 설계된 프로세서다. 특히 대규모 동시 실행 환경을 처리하고 AI 가속기의 활용 효율을 높이는 데 초점을 맞췄다.프리뷰 공개 이후 메타(Meta)는 에이전틱 AI 프로젝트를 위해 수천만 개 규모의 코어를 배치하기로 결정하며 대규모",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "AWS가 에이전틱 AI 시대를 겨냥해 설계한 자체 CPU '그라비톤5' 기반 EC2 인스턴스를 정식 출시했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40470_61044_114_v150.jpg",
+    "score": 5.301,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic",
+      "agentic ai",
+      "에이전틱"
+    ],
+    "source_weight": 1.2
+  },
+  {
+    "title": "리얼월드, 'RLDX-1' 글로벌 투어 마무리...\"차기 모델 개발 착수\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211591",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-11T13:25:24+00:00",
+    "raw_excerpt": "리얼월드(대표 류중희)는 자체 로보틱스 파운데이션 모델(RFM) 'RLDX-1'을 공개하는 '덱스터리티 나이트 인 서울'을 개최했다고 11일 밝혔다.이번 행사는 미국, 일본, 대만을 거친 글로벌 투어의 피날레로 국내외 관계자 350여 명이 참석했다. 행사는 세션 발표와 라이브 데모, 파트너십 소개 등으로 구성됐다.첫 번째 세션 '피지컬 AI 티핑 포인트-왜 지금, 왜 한국인가'에서는 롯데호텔, CJ대한통운, AWS, LG이노텍, 엔비디아가 참여해 각 산업 현장의 로보틱스 전환(RX) 현황과 한국 로봇 시장의 가능성을 논의했다.두 번",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "리얼월드가 자체 로보틱스 파운데이션 모델 'RLDX-1'의 글로벌 투어를 서울 행사로 마무리하고 차기 모델 개발을 착수했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211591_214585_3222.jpg",
+    "score": 5.276,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "파운데이션 모델",
+      "엔비디아"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "세계경제포럼, 인공지능·양자·우주산업까지…미래 시장 이끌 혁신기업 100곳 선정",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40446",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-11T09:13:51+00:00",
+    "raw_excerpt": "세계경제포럼(WEF)이 인공지능(AI)과 첨단기술 산업의 미래를 이끌 차세대 혁신기업 100곳을 선정했다. 이번 명단에는 자율형 AI 인프라 구축 기업을 비롯해 양자컴퓨팅, 바이오테크, 기후기술, 우주산업, 첨단제조 분야 기업들이 대거 포함되며 글로벌 기술산업의 변화 흐름을 보여줬다.세계경제포럼은 지난 10일(현지시간) ‘2026 테크놀로지 파이오니어(Technology Pioneers)’를 발표하고 23개국 100개 스타트업을 선정했다. 선정 기업들은 산업 전반에 변화를 이끌 수 있는 혁신 기술과 성장 가능성을 인정받아 향후 2년",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "세계경제포럼이 AI·양자컴퓨팅·우주산업 등 첨단기술 분야 차세대 혁신기업 100곳을 선정해 글로벌 기술산업의 미래 방향을 제시했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40446_61016_1230_v150.jpg",
+    "score": 5.261,
+    "engagement": 0,
+    "matched_keywords": [
+      "양자",
+      "스타트업",
+      "혁신 기술",
+      "차세대"
+    ],
+    "source_weight": 1.2
+  },
+  {
+    "title": "Since the JSON extras API is a little hard to explain without an example I also had Fable 5 and GPT-5.5 collaborate on this custom API explo",
+    "url": "https://t.co/G2cFQyOrKs",
+    "source": "X @simonw",
+    "source_type": "x",
+    "published_at": "2026-06-11T18:05:32+00:00",
+    "raw_excerpt": "Since the JSON extras API is a little hard to explain without an example I also had Fable 5 and GPT-5.5 collaborate on this custom API explorer tool for trying out the new feature \nhttps://\ntools.simonwillison.net/datasette-extr\nas-explorer#url=https%3A%2F%2Flatest.datasette.io%2Ffixtures%2Ffacetable.json%3F_size%3D1%26_facet%3Dstate&extras=count%2Ccount_sql%2Cexpandable_columns%2Cfacet_results\n…",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Fable 5와 GPT-5.5가 협력해 JSON extras API의 새로운 기능을 시연하는 커스텀 API 탐색 도구를 만들었다.",
+    "thumbnail": "",
+    "score": 5.253,
+    "engagement": 4514,
+    "matched_keywords": [
+      "gpt-5"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "알트먼, 다음 주 방한...삼성·카카오·네이버 연쇄 회동",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211605",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-11T12:46:56+00:00",
+    "raw_excerpt": "샘 알트먼 오픈AI CEO가 14~15일 삼성전자, 카카오, 네이버를 잇달아 만난다. 지난해 10월 이후 약 8개월 만의 방한이다.업계에 따르면, 15일에는 경기 수원 삼성전자 디지털시티를 찾아 디바이스경험(DX)부문 임직원들과 'DX 인사이트 토크' 행사를 진행한다.삼성전자가 최근 '챗GPT' 등 외부 생성 AI를 사내에 공식 도입한 것을 계기로 마련됐다. AI를 활용한 업무 생산성 향상과 일하는 방식 변화에 대한 논의가 이어질 전망이다.이어 전영현·노태문 대표 등 주요 경영진과의 회동이 예정돼 있다. 지난해 맺은 '스타게이트'",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "샘 알트먼 오픈AI CEO가 14~15일 삼성·카카오·네이버를 방문해 생성 AI 활용과 경영진과의 협력 방안을 논의한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211605_214595_52.jpg",
+    "score": 5.241,
+    "engagement": 0,
+    "matched_keywords": [
+      "생산성",
+      "사내",
+      "일하는 방식"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "It’s not just Claude Fable 5.",
+    "url": "https://x.com/ZenMuxAI/status/2065102227287777540",
+    "source": "X @ZenMuxAI",
+    "source_type": "x",
+    "published_at": "2026-06-11T16:01:53+00:00",
+    "raw_excerpt": "It’s not just Claude Fable 5.\nThe real cost of AI workflows comes from iteration.\n\nOne prompt is cheap.\nFull-loop testing is not.\n\nOnly 5 days left — ZenMux gives you extra credits to build, test, and compare across 200+ models:\n\n Pay $20 → Get $30 \n Pay $50 → Get $80",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "AI 워크플로우의 실제 비용은 반복 테스트에서 비롯되며, ZenMux가 200개 이상 모델 테스트를 위한 추가 크레딧을 제공한다.",
+    "thumbnail": "https://pbs.twimg.com/media/HKi3c3QbkAAJKby.jpg:large",
+    "score": 5.167,
+    "engagement": 5668,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "We’re teaming up ",
+    "url": "https://x.com/GoogleDeepMind/status/2065093482088169719",
+    "source": "X @GoogleDeepMind",
+    "source_type": "x",
+    "published_at": "2026-06-11T15:27:08+00:00",
+    "raw_excerpt": "We’re teaming up \n@Palmeiras\n, the first football club to meaningfully build upon TacticAI: our AI system that can help simulate field scenarios and predict open play dynamics up to 8 seconds in advance.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Google DeepMind의 TacticAI 시스템이 브라질 축구클럽 팔메이라스와 제휴해 경기 상황을 8초 전까지 예측하는 AI 코칭 기술을 실제 운영에 활용하기로 했다.",
+    "thumbnail": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_200x200.jpg",
+    "score": 5.143,
+    "engagement": 252329,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "Why does this matter beyond sports?",
+    "url": "https://t.co/VhbKsHtELf",
+    "source": "X @GoogleDeepMind",
+    "source_type": "x",
+    "published_at": "2026-06-11T15:27:09+00:00",
+    "raw_excerpt": "Why does this matter beyond sports?\n\nA live match is a masterclass in partial observability and multimodal data. Solving these continuous spatial problems could translate to leaps in robotics, computer games, and more.\n\nFind out more about TacticAI → \nhttps://\ngoo.gle/4uv87Gc",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "Google DeepMind의 TacticAI는 스포츠 경기의 부분 관찰성과 멀티모달 데이터 분석 능력이 로봇공학과 게임 등 다양한 분야로 확장될 수 있음을 보여준다.",
+    "thumbnail": "",
+    "score": 5.143,
+    "engagement": 17748,
+    "matched_keywords": [
+      "robotics"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "When millions of AI agents interact with each other, new collective behaviors can emerge. ",
+    "url": "https://x.com/GoogleDeepMind/status/2065031279213441309",
+    "source": "X @GoogleDeepMind",
+    "source_type": "x",
+    "published_at": "2026-06-11T11:19:58+00:00",
+    "raw_excerpt": "When millions of AI agents interact with each other, new collective behaviors can emerge. \n\nTogether with \n@schmidtsciences\n, \n@coop_ai\n, \n@ARIA_research\n and supported by \n@GoogleOrg\n, we’re launching a $10M research fund to help understand how AI systems behave as a group. →",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "구글 딥마인드가 수백만 개의 AI 에이전트가 상호작용할 때 나타나는 집단 행동을 연구하기 위해 1천만 달러 펀드를 출범했다.",
+    "thumbnail": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_200x200.jpg",
+    "score": 4.971,
+    "engagement": 43007,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "[6월11일] '미소스'에 이어 '페이블'까지...AI 모델 이름에 숨은 의미",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211607",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-12T07:00:00+00:00",
+    "raw_excerpt": "앤트로픽이 9일(현지시간) 출시한 '클로드 페이블 5'와 '클로드 미소스 5'는 역대 최강인 성능 못지않게 이름으로도 눈길을 끌었습니다.미소스(Mythos)는 그리스어로 신화나 서사를 뜻하고, 페이블(Fable)은 우화를 말합니다. 따라서 가장 널리 퍼진 해석은 미소스가 '원형'이라면, 페이블은 대중에게 전달하기 위해 가공한 좀더 가벼운 모델이라는 것입니다. 실제로 페이블은 미소스와 같은 모델이 기반이지만, 안전장치를 강화해 해로운 질문에 답변하지 못하도록 조치됐습니다. 이 때문에 레딧에서는 페이블이 \"미소스의 중성화(neutere",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Anthropic이 출시한 Claude Fable과 Mythos 모델 이름에 '원형 신화'와 '대중용 우화'라는 의미를 담아 성능뿐 아니라 설계 철학도 드러냈습니다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211607_214599_4739.png",
+    "score": 4.928,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "[AI&빅데이터쇼] 유니트리·애지봇·갤봇 총출동...중국 '빅3' 휴머노이드 전략은",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211632",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-12T05:11:29+00:00",
+    "raw_excerpt": "19일까지 서울 코엑스에서 'AI&빅데이터쇼'와 동시에 열리는 '스마트테크코리아(STK) 2026' 로봇 테크쇼에서는 개인 서비스용 로봇부터 산업용 로봇, 자동화 소프트웨어까지 다양한 기술들이 각축전을 벌였다.그중 관람객의 발길을 사로잡은 곳은 중국의 ‘휴머노이드 3대 강자’ 유니트리, 애지봇, 갤봇 부스였다. 특히 유니트리와 애지봇은 전 세계 휴머노이드 생산량 80%에 육박하는 핵심 기업이다.■ 유니트리, 중국 휴머노이드 1위 기업 명성 지켜국내 파트너사 영인모빌리티와 함께 참가한 유니트리는 단일 모델 기준 누적 출하량 1만100",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "유니트리, 애지봇, 갤봇 등 중국 휴머노이드 '빅3'가 서울 AI&빅데이터쇼에 총출동하며 전 세계 휴머노이드 시장 주도권 경쟁을 본격화했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211632_214638_3232.jpg",
+    "score": 4.83,
+    "engagement": 0,
+    "matched_keywords": [
+      "휴머노이드"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "AI 도입한 중국 기업들의 '조용한' 해고...\"노동법 규제 피하자\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211621",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-11T16:55:08+00:00",
+    "raw_excerpt": "중국 정부가 AI 도입을 적극 장려하는 가운데, 주요 기업들이 생산성 향상을 이유로 인력 감축에 나서고 있다. 대규모 구조조정을 공개적으로 발표하기보다는 계약직 축소, 신규 채용 감소, 자연 감원 등의 방식으로, 이른바 ‘조용한 해고’를 진행하는 것으로 나타났다.10일(현지시간) 로이터에 따르면, 항저우의 한 대형 인터넷 기업에서 계약직으로 근무하는 류씨는 회사가 올해 3월부터 AI 에이전트인 ‘오픈클로’를 비롯한 AI 도구 사용을 의무화한 이후 계약직 인력을 줄이기 시작했다고 전했다.그는 “대부분의 업무는 오픈클로로 대체할 수 있",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "중국 기업들이 AI 도입에 따른 생산성 향상을 명목으로 계약직 축소, 신규 채용 감소 등 '조용한 해고'를 통해 인력 감축을 진행 중인데, 이는 노동법 규제를 회피하려는 의도로 풀이된다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211621_214621_309.jpg",
+    "score": 4.815,
+    "engagement": 0,
+    "matched_keywords": [
+      "생산성",
+      "ai 도입"
+    ],
+    "source_weight": 1.3
+  }
+]
