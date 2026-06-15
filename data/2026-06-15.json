@@ -1,0 +1,379 @@
+[
+  {
+    "title": "To use an LLM Council with your own agent, check out my llm-council skill.",
+    "url": "https://x.com/omarsar0/status/2066220633965363215",
+    "source": "X @omarsar0",
+    "source_type": "x",
+    "published_at": "2026-06-14T18:06:02+00:00",
+    "raw_excerpt": "To use an LLM Council with your own agent, check out my llm-council skill.\n\nIt works with Fireworks AI APIs, but you can easily adapt it to OpenRouter.\n\nBuilt for Claude Code, but it might work with other agents. I use it a lot for deep research tasks.\n\nLet me know if you would",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "LLM Council 스킬을 활용하면 여러 언어 모델의 의견을 종합하는 에이전트 기반 심층 연구 작업이 가능해진다.",
+    "thumbnail": "https://pbs.twimg.com/media/HKyu4BlXYAAQ1Hw.jpg:large",
+    "score": 5.753,
+    "engagement": 9842,
+    "matched_keywords": [
+      "ai",
+      "llm"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "This is what open AI acceleration looks like",
+    "url": "https://t.co/5GkSXDFNA5",
+    "source": "X @NielsRogge",
+    "source_type": "x",
+    "published_at": "2026-06-14T20:09:03+00:00",
+    "raw_excerpt": "This is what open AI acceleration looks like\n\nFrom DeepSeek v3.2 all the way to \n@MiniMax_AI\n M3\n\nSee \nhttps://\npaperswithcode.co/benchmark/claw\n-eval\n…",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "DeepSeek v3.2부터 MiniMax M3까지 오픈소스 AI 모델들이 급속도로 성능을 개선하고 있으며, 이는 오픈 AI 가속화의 구체적인 사례를 보여준다.",
+    "thumbnail": "",
+    "score": 5.339,
+    "engagement": 3285,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "美 정부, 앤트로픽 최고 성능 AI 사용 전격 중단 명령…AI 수출통제 시대 본격 개막",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40492",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-13T20:46:49+00:00",
+    "raw_excerpt": "미국 정부가 앤트로픽(Anthropic)의 최상위 인공지능(AI) 모델인 '페이블 5(Fable 5)'와 '미토스 5(Mythos 5)'에 대해 사실상 사용 중단 명령을 내리면서 글로벌 AI 커뮤니티가 충격에 빠졌다.이번 조치는 반도체나 GPU 같은 하드웨어가 아니라 AI 모델 자체를 국가안보 자산으로 간주해 수출통제 대상으로 지정한 첫 사례라는 점에서 의미가 크다. AI 업계에서는 이를 \"AI판 수출규제의 시작\"으로 해석하며 향후 오픈AI(OpenAI), 구글(Google), xAI 등 다른 프런티어 AI 기업들에도 영향을 미칠",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "미국 정부가 앤트로픽의 최상위 AI 모델 사용을 중단 명령해 AI 모델 자체를 수출통제 대상으로 지정한 첫 사례를 만들며 글로벌 AI 규제 시대를 열었다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40492_61070_466_v150.jpg",
+    "score": 5.238,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "openai",
+      "오픈ai",
+      "anthropic"
+    ],
+    "source_weight": 1.2
+  },
+  {
+    "title": "The Top AI Papers of the Week (June 7 - June 14)",
+    "url": "https://x.com/dair_ai/status/2066174790814056691",
+    "source": "X @dair_ai",
+    "source_type": "x",
+    "published_at": "2026-06-14T15:03:52+00:00",
+    "raw_excerpt": "The Top AI Papers of the Week (June 7 - June 14)\n\n- Agentopia\n- Self-Harness\n- Agents' Last Exam\n- MiniMax Sparse Attention\n- Lookahead Sparse Attention\n- How AI Agents Reshape Knowledge Work\n- The Geometry of On-Policy Distillation\n\nRead on for more:",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "지난주 발표된 상위 AI 논문 7개는 에이전트 시스템, 스파스 어텐션, 지식 업무 재편 등을 다루고 있다.",
+    "thumbnail": "https://pbs.twimg.com/profile_images/1643277398522187778/31dedbLo_200x200.jpg",
+    "score": 5.127,
+    "engagement": 15214,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "하드웨어 벤치마크 ‘AA-에이전트퍼프’ 등장...블랙웰, 전력 효율 1위",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211703",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-14T19:00:59+00:00",
+    "raw_excerpt": "아티피셜 애널리시스가 AI 에이전트 워크로드에 특화된 '하드웨어 벤치마크'를 선보였다. 기존 벤치마크가 단순 질의 중심의 성능 측정에 초점을 맞췄다면, 새로운 평가는 실제 코딩 에이전트의 복잡한 작업 흐름을 재현해 AI 하드웨어의 처리 능력과 전력 효율을 측정하는 것이 특징이다. AI 성능 분석 기관인 아티피셜 애널리시스는 12일(현지시간) 실제 AI 에이전트 워크로드를 기반으로 추론 성능과 전력 효율을 평가하는 새로운 하드웨어 벤치마크 'AA-에이전트퍼프(AA-AgentPerf)'를 공개했다.최근 AI 활용 방식이 단순 채팅에서",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "아티피셜 애널리시스가 AI 에이전트의 실제 작업 흐름을 재현하는 새로운 하드웨어 벤치마크 'AA-AgentPerf'를 공개했으며, 이 평가에서 NVIDIA 블랙웰이 전력 효율 1위를 기록했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211703_214757_4123.png",
+    "score": 4.929,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "[AI&빅데이터쇼] 산업AX부터 XR·자율주행까지 미래 혁신 기술 한자리에",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211697",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-14T16:56:31+00:00",
+    "raw_excerpt": "지난 3일간 서울 코엑스에서 열린 'AI&빅데이터쇼'에는 산업 AX 솔루션부터 헬스케어, 자율주행, 확장현실(XR) 등 일상을 바꾸는 혁신 기술이 대거 참여했다.삼성SDS는 이번 행사에서 가상의 신입사원인 AI 에이전트 ‘송덕삼’을 통해 생성형 AI의 업무 활용 사례를 선보였다. 또 기업용 AI 플랫폼 ‘패브릭스’와 협업 솔루션 ‘브리티웍스’를 소개하며 공공·제조·금융 등 산업별 AX 솔루션을 제시했다. 패브릭스는 기업 내 다양한 데이터를 연계해 업무 활용도를 높이는 플랫폼으로, 브리티웍스는 실시간 통번역과 회의 내용 정리 등 AI",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "서울 코엑스에서 열린 'AI&빅데이터쇼'에 산업 AX, 자율주행, XR 등 미래 혁신 기술이 대거 참여해 일상 변화를 선보였다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211697_214749_159.jpg",
+    "score": 4.817,
+    "engagement": 0,
+    "matched_keywords": [
+      "활용 사례",
+      "ax"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "베이조스의 AI 스타트업 프로메테우스, 몸값 62조 기록…\"인공 일반 엔지니어 개발 중\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211708",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-14T16:49:16+00:00",
+    "raw_excerpt": "제프 베이조스 아마존 창립자의 AI 스타트업 프로메테우스가 대규모 투자 유치에 성공하며 기업 가치 410억달러(약 62조원)를 인정받았다. 이 회사는 항공기 엔진과 같은 복잡한 물리적 제품을 설계하고 제조할 수 있는 ‘인공 일반 엔지니어(Artificial General Engineer)’ 개발을 목표로 하고 있다.프로메테우스는 11일(현지시간) 120억달러(약 18조원) 규모의 신규 투자 유치를 완료했다고 밝혔다.이번 투자에는 베이조스 본인을 비롯해 JP모건 체이스, 골드만삭스, 블랙록 등이 참여했다. 지난해 11월 공식 출범 당",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "베이조스의 AI 스타트업 프로메테우스가 120억달러 투자 유치로 기업 가치 410억달러를 기록했으며, 복잡한 물리적 제품을 설계·제조할 수 있는 인공 일반 엔지니어 개발을 목표로 하고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211708_214764_4524.jpg",
+    "score": 4.81,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업",
+      "투자 유치"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "미국 주정부 연합, 오픈AI 전격 조사…취약계층 보호·기술 결함 검증",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211704",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-14T10:18:43+00:00",
+    "raw_excerpt": "미국 주 법무장관들이 연합해 오픈AI를 상대로 광범위한 조사에 착수한 것으로 확인됐다. 단순한 부작용 점검을 넘어 사회적 영향과 기술적인 문제까지 조준하고 있어, AI 기업과 제품에 대한 전방위적 검증이 본격화했다는 분석이 나왔다.월스트리트저널(WSJ)에 따르면, 뉴욕주 법무부 장관은 12일(현지시간) 오픈AI에 광범위한 자료 제출을 요구하는 소환장을 발송했다.여기에는 오픈AI의 사업 모델과 기술적 결함, 사용자 영향력을 전방위로 검증하겠다는 의도가 담겼다. 여기에는 ▲광고 및 사용자 참여·유지 전략 ▲소비자 데이터 및 건강 데이터",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "미국 주 법무장관들이 오픈AI를 상대로 사업 모델과 기술 결함, 취약계층 영향 등을 포괄하는 광범위한 조사를 시작했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211704_214756_1112.jpg",
+    "score": 4.457,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "최태원 회장 “나의 AI에서 ’우리의 AI’로 진화해야”...미래 기회 대응 위해 기본기와 실행력 탄탄히 해야",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40495",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-14T15:15:50+00:00",
+    "raw_excerpt": "최태원 SK그룹 회장은 “360도 전방위로, 전속력으로 인공지능 전환(AX)에 돌입해야 할 때”라며 경영진과 구성원의 신속한 실행을 당부했다.최 회장은 경기 이천시 SKMS 연구소에서 지난 11일부터 13일까지 ‘AI가 가져올 파괴적 혁신, AX 중심 경영으로의 대전환’을 주제로 개최된 ‘2026 New 이천포럼(이하 포럼)'에서 이같이 말했다.AX의 첫 단계로 최 회장은 “우리가 무엇을 하고 있는지를 정확하게 아는 것이 먼저”라며 “우리의 일을 정확히 정의(define)하고 AI를 통해 무엇을 어떻게 혁신할 것인가가 중요하다”고",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "SK그룹 최태원 회장이 \"나의 AI에서 '우리의 AI'로 진화\"해야 하며 전사적 AI 전환(AX)에 전속력으로 돌입할 것을 강조했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40495_61071_1516_v150.jpg",
+    "score": 4.362,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2
+  },
+  {
+    "title": "스페이스X 주식 한 주도 안 팔고…15년간 버틴 이 남자 '30조 잭팟'",
+    "url": "https://www.etnews.com/20260614000075",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-06-14T21:00:00+00:00",
+    "raw_excerpt": "일론 머스크의 우주기업 스페이스X가 기업가치 1조7700억 달러 규모의 역사적인 상장을 앞두면서 초기 투자자들의 막대한 수익에도 관심이 쏠리고 있다. 그 중심에는 스페이스X가 무명 스타트업이던 시절부터 투자를 이어온 벤처투자자 저스틴 피슈너 울프슨(44)이 있다. 미국 뉴욕타임스(NYT)는 12일(현지시간) 샌프란시스코 소재 벤처캐피털(VC) '137 벤처스'를 이끄는 울프슨의 투자 여정을 집중 조명했다. 울프슨이 스페이스X와 인연을 맺은 것은",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "스페이스X 상장을 앞두고 초기 투자자 저스틴 피슈너 울프슨이 15년간의 투자로 약 30조 원대 수익을 거두게 될 것으로 예상된다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/06/14/news-p.v1.20260614.f7150feda893420dbe2f12277e50ab0d_P1.jpg",
+    "score": 3.874,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업",
+      "벤처"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "방글라데시, 태양광 투자 유치 위해 세제 혜택 확대",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211646",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-14T09:40:00+00:00",
+    "raw_excerpt": "방글라데시가 태양광 발전 부문에 2035년까지 0% 세율을 적용한다. 전력 수요 증가와 연료 수입 부담에 대응해 태양광 투자를 끌어들이려는 조치다.아미르 코스루 마흐무드 초우두리 방글라데시 재무장관은 11일 의회에 제출한 국가 예산안에서 태양광 발전 개발을 촉진하기 위한 세제 지원책을 발표했다.이번 패키지에는 태양광 발전 부문 무세율 적용, 태양광 전기요금 납부액의 5% 세금 환급, 주요 태양광 부품 관세 면제가 포함됐다.방글라데시 정부는 2030년까지 전체 전력 수요의 20%를 재생에너지로 충당하고, 2050년까지 청정에너지 비중",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "방글라데시가 재정난과 전력 수요 증가에 대응하기 위해 2035년까지 태양광 발전에 0% 세율을 적용하고 관세 면제 등 세제 혜택을 확대한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211646_214653_4223.png",
+    "score": 3.772,
+    "engagement": 0,
+    "matched_keywords": [
+      "투자 유치"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "목포, 해수 위험일 앞두고 저지대 침수 대비",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211663",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-14T09:15:00+00:00",
+    "raw_excerpt": "AI 생성 영상목포시는 오는 15일부터 19일까지 5일간 오전 0시부터 8시 사이 바닷물 수위가 높아질 것으로 예보됨에 따라 해안 저지대 침수 예방 활동을 강화한다고 밝혔다.국립해양조사원 조석예보에 따르면 이 기간 바닷물 수위는 17일 기준 최고 5.16m까지 상승할 것으로 예상된다. 목포시는 조석표상 바닷물 수위가 4.90m 이상일 경우를 ‘해수 위험일’로 지정해 관리하고 있다.목포는 비상근무반을 편성하고 빗물펌프장, 배수갑문, 수문 등 주요 침수방지 시설에 대한 사전 점검을 실시하고 있다. 또 해안 저지대를 중심으로 현장 예찰활",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "목포시가 15일부터 19일까지 예상되는 고조 현상으로 인한 해안 저지대 침수에 대비해 비상근무반을 편성하고 침수방지 시설을 점검 중이다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211663_214680_3638.jpg",
+    "score": 3.75,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "[단독]우리카드, 'AX 추진위원회' 가동…계열사 첫 사례",
+    "url": "https://www.etnews.com/20260612000209",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-06-14T05:00:00+00:00",
+    "raw_excerpt": "우리카드가 최고경영자(CEO)와 전 임원이 참여하는 대표 직속 'AX 추진위원회'를 신설하고 전사 인공지능 전환(AX)에 속도를 내고 있다. 우리금융그룹 차원의 AI 전환 전략과 별도로 사내 전담 조직을 구축해 카드업 특화 AI 활용 방안을 논의하고 있다. 우리금융그룹 계열사 가운데 별도 AX 추진위원회를 운영하는 곳은 우리카드가 처음이다. 우리카드는 지난해 6월 디지털본부 산하에 AI 전략을 세우고 혁신 서비스를 발굴하는 'AI추진팀'을 신설",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "우리카드가 CEO와 전 임원이 참여하는 'AX 추진위원회'를 신설해 카드업 특화 AI 전환에 나서며, 우리금융 계열사 중 처음으로 별도 추진위원회를 운영한다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/06/12/news-p.v1.20260612.98cfc429f22f49bbbb575faa654ce613_P2.jpg",
+    "score": 3.707,
+    "engagement": 0,
+    "matched_keywords": [
+      "사내",
+      "조직",
+      "ax"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "메타, 중국 정부 압박에 20억 달러 규모 '마누스' 인수 철회 착수",
+    "url": "https://zdnet.co.kr/view/?no=20260614153424",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-14T07:44:11+00:00",
+    "raw_excerpt": "[지디넷코리아]메타가 20억 달러(2조7000억원) 규모 인공지능(AI) 스타트업 인수 계약을 백지화하는 작업에 착수했다. 국가 안보를 이유로 중국 정부가 내린 강제 매각 명령에 따른 조치다.14일 테크리퍼블릭 등 외신에 따르면 메타는 중국 AI 스타트업 버터플라이 이펙트와의 운영 분리를 완료하고 데이터 공유를 전면 중단했다. 메타 내부 프로젝트에서 버터플라이 이펙트가 개발한 AI 에이전트 '마누스(Manus)'를 사용할 수 없도록 차단 조치도 마친 것으로 전해졌다.버터플라이 이펙트는 중국 베이징과 우한을 기반으로 성장한 AI 스타트업이다. 이들이 개발한 마누스는 사용자 지시를 바탕으로 웹 탐색, 조사, 분석, 일정 설계, 웹사이트 제작 등 여러 복잡한 작업을 자율적으로 수행하는 AI 에이전트로 세계적인 주목을 받았다.업계에 따르면 버터플라이 이펙트는 지난해 중반 인력을 싱가포르로 이전한 뒤 같은 해 12월 메타와 20억달러 규모의 인수 계약을 체결했다. 당시 거래는 글로벌 빅테크가 차세대 AI 에이전트 기술을 선점하기 위한 공격적 투자 사례로 평가됐다. 그러나 올해 중국 규제 당국이 기술 수출 통제와 외국인 투자 규정 위반 가능성을 문제 삼아 조사에 착수했고 이후 강제 매각 명령을 내리면서 거래 구조가 흔들리기 시작했다.핵심 창업진에 대한 통제도 강화된 것으로 전해졌다. 버터플라이 이펙트 공동 창업자인 샤오홍 CEO와 지이차오 최고",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "메타가 중국 정부의 국가안보 이유 강제 매각 명령에 따라 중국 AI 스타트업 버터플라이 이펙트와의 20억 달러 인수 계약을 철회하기 시작했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/06/14/a58cd58dfed2a568de7d9cbb3ac062af.jpg",
+    "score": 3.439,
+    "engagement": 0,
+    "matched_keywords": [
+      "빅테크",
+      "스타트업",
+      "차세대"
+    ],
+    "source_weight": 0.9
+  },
+  {
+    "title": "회사처럼 돈 쓰지 않고 집에서 AI 코딩하기",
+    "url": "https://news.hada.io/topic?id=30483",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-06-14T19:39:19+00:00",
+    "raw_excerpt": "개인용 AI 코딩 비용을 줄이는 선택지는 자가 호스팅 , 오픈소스 모델 API 대여, 프런티어 구독 최적화의 세 가지로 나뉨 자가 호스팅은 장비를 구매해 로컬에서 오픈소스 모델을 돌리며 이후 토큰당 비용을 내지 않지만, 초기 비용 이 크고 집에서 돌릴 수 있는 모델...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "개인 개발자가 자가 호스팅, 오픈소스 모델 API 대여, 구독 최적화 등을 통해 AI 코딩 비용을 절감할 수 있다.",
+    "thumbnail": "https://social.news.hada.io/topic/30483",
+    "score": 3.318,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai 코딩"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "삼성 휴머노이드, 쿠팡서 일한다",
+    "url": "https://www.etnews.com/20260612000165",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-06-14T07:00:00+00:00",
+    "raw_excerpt": "삼성전자 로봇 자회사 레인보우로보틱스가 쿠팡 물류센터에 휴머노이드 로봇을 공급했다. 자동화 수요가 많은 물류센터까지 영역을 확대하면서 삼성전자 휴머노이드 로봇 사업에 속도가 붙을 전망이다. 14일 업계에 따르면 쿠팡은 레인보우로보틱스 이동형 양팔 로봇 'RB-Y1'을 물류센터에 도입, 실증을 진행 중인 것으로 파악됐다. 실증은 물류센터 현장에서 구동 안정성과 작업 효율성을 검증하기 위한 조치다. 테스트를 통과하면 대규모 발주가 이뤄질 것으로 예",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "삼성전자의 로봇 자회사 레인보우로보틱스가 쿠팡 물류센터에 휴머노이드 로봇 'RB-Y1'을 공급하며 물류 자동화 시장 진출을 본격화하고 있다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/04/24/news-p.v1.20260424.0652b11a6ef24d738dbe089acbb1acf4_P1.jpg",
+    "score": 3.291,
+    "engagement": 0,
+    "matched_keywords": [
+      "로보틱스",
+      "휴머노이드"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "KPMG fabricated AI case studies in a report designed to sell clients on AI adoption",
+    "url": "https://the-decoder.com/kpmg-fabricated-ai-case-studies-in-a-report-designed-to-sell-clients-on-ai-adoption/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-06-14T09:40:37+00:00",
+    "raw_excerpt": "KPMG published a report on AI in business that contained fabricated case studies involving UBS, the NHS, and other organizations. GPTZero CEO Edward Tian, who helped uncover the errors, warns of \"secondary hallucinations,\" flawed claims from trusted consulting firms that spread unchecked. KPMG has since pulled the report. The article KPMG fabricated AI case studies in a report designed to sell clients on AI adoption appeared first on The Decoder .",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "KPMG가 AI 도입을 고객에게 판매하기 위해 발표한 보고서에서 UBS, NHS 등 실제 조직을 언급한 가짜 사례를 포함시켜 보고서를 철회했습니다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/kpmg_logo.png",
+    "score": 3.193,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai adoption"
+    ],
+    "source_weight": 1.1
+  },
+  {
+    "title": "“반도체 얼마나 작아질 수 있나” KAIST, 반도체 미세화 한계 예측 기술 구현",
+    "url": "https://www.etnews.com/20260612000174",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-06-14T03:00:00+00:00",
+    "raw_excerpt": "트랜지스터는 실제로 어디까지 더 작아질 수 있을까? 한국과학기술원(KAIST·총장 이광형) 연구진이 원자 수준 계산으로 그 한계를 예측하는 기술을 개발했다. KAIST는 김용훈 전기 및 전자공학부 교수팀이 컴퓨터 시뮬레이션을 활용해 차세대 반도체 소자 개발의 핵심 난관인 트랜지스터 미세화 한계를 분석·예측할 수 있는 기술을 개발했다고 14일 밝혔다. 트랜지스터는 더 높은 성능과 낮은 전력 소모를 구현하고자 계속 소형화됐는데, 이것이 지나치면 전",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "KAIST 연구진이 컴퓨터 시뮬레이션으로 트랜지스터 미세화의 물리적 한계를 원자 수준에서 예측하는 기술을 개발했다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/06/12/news-p.v1.20260612.faa5dcd0ff8747099f16094427dd0c49_P1.png",
+    "score": 3.124,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "차세대"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "[AI카툰] Bob, Senior IT guy - 밥, 다중인격에이전트",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211699",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-13T18:20:46+00:00",
+    "raw_excerpt": "글·그림 Dr. Alf",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "AI 시스템이 다양한 역할을 수행하는 '다중인격 에이전트' 개념을 카툰으로 풀어낸 콘텐츠입니다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211699_214741_855.png",
+    "score": 2.943,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "삼성D, 차세대 마이크로 디스플레이 'RGB 올레도스' 투자 추진",
+    "url": "https://www.etnews.com/20260612000126",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-06-14T07:00:00+00:00",
+    "raw_excerpt": "삼성디스플레이가 적·녹·청(RGB) 올레도스(OLEDoS) 장비 투자를 추진한다. RGB 올레도스는 아직 상용화되지 않은 차세대 디스플레이 기술이어서 사업화까지 순조롭게 이어질지 관심이 쏠린다. 11일 업계에 따르면 삼성디스플레이는 올해 하반기 중 RGB 올레도스 장비를 발주하기 위해 관련 업계와 협의 중이다. 올레도스 증착기를 중심으로 1개 라인을 구축하는 게 골자다. 하반기 장비를 발주, 내년 반입하고 2028년부터는 양산이 가능하도록 하는",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "삼성디스플레이가 미래 마이크로디스플레이 기술인 RGB 올레도스 생산라인 구축을 위해 하반기 장비 발주를 추진 중이며 2028년 양산을 목표로 하고 있다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/01/22/news-p.v1.20260122.015181dfa2394cecbf824b43027c9bfb_P1.png",
+    "score": 2.791,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.0
+  }
+]
