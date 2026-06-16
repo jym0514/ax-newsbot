@@ -1,0 +1,385 @@
+[
+  {
+    "title": "Is this real?",
+    "url": "https://x.com/omarsar0/status/2066645773681377478",
+    "source": "X @omarsar0",
+    "source_type": "x",
+    "published_at": "2026-06-15T22:15:23+00:00",
+    "raw_excerpt": "Is this real?\n\nI haven't received any communication.\n\nWild if true. I moved a lot of my stuff away from the Claude Agent SDK due to the way they were going to charge programmatic use of Claude Code.\n\nIt's tiring to run in circles with this stuff, but hope they reconsider things.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Anthropic의 Claude Code 프로그래매틱 사용 요금 정책으로 인해 개발자가 Claude Agent SDK에서 다른 솔루션으로 이동하고 있다.",
+    "thumbnail": "https://pbs.twimg.com/media/HK4yliMWkAAVWRi.jpg:large",
+    "score": 5.926,
+    "engagement": 2927,
+    "matched_keywords": [
+      "claude",
+      "claude code"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "NC AI, MBC 손잡고 K-미디어 AI 혁신 나선다…'AX원스톱바우처 사업' 선정",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40514",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-16T08:38:36+00:00",
+    "raw_excerpt": "산업특화 인공지능 전문기업 NC AI가 MBC, NHN클라우드, 데이터메이커와 컨소시엄을 구성해 과학기술정보통신부와 정보통신산업진흥원(NIPA)이 주관하는 ‘AX원스톱바우처 사업’에 선정되었다고 16일 밝혔다.이번 선정은 60년 이상 축적된 MBC의 방송 제작 노하우와 독자 AI 파운데이션 모델을 보유한 NC AI의 AI 기술력이 결합해 새로운 미디어 밸류체인을 창출한다는 점에서 의미가 크다.'AX원스톱바우처 사업'은 수요 기업의 기획을 바탕으로 AI 솔루션, 클라우드, 데이터를 바우처 형태로 통합 지원해 기업의 성공적인 AX 성과",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "NC AI가 MBC, NHN클라우드, 데이터메이커와 컨소시엄을 구성해 정부의 'AX원스톱바우처 사업'에 선정되어 방송 제작 노하우와 AI 기술을 결합해 K-미디어 혁신을 추진한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40514_61099_3829_v150.jpg",
+    "score": 5.831,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "파운데이션 모델"
+    ],
+    "source_weight": 1.2
+  },
+  {
+    "title": "경기창조·KB국민은행, 'KB유니콘클럽 6기 In-Depth 네트워킹' 개최… 맞춤형 성장 전략 본격화",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40502",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-15T12:48:39+00:00",
+    "raw_excerpt": "재단법인 경기창조경제혁신센터(대표이사 김원경, 이하 경기혁신센터)는 KB국민은행과 함께 추진하는 청년 창업 지원 프로그램 ‘KB유니콘클럽 6기’의 In-Depth 네트워킹 프로그램을 성료했다고 15일 밝혔다.KB유니콘클럽은 미래유망산업 분야 초기 스타트업을 대상으로 맞춤형 액셀러레이팅을 제공하는 프로그램으로, 청년 창업기업의 성장과 기업가치 제고를 통해 스케일업을 지원하는 프로그램이다.이번 In-Depth 네트워킹은 기업 진단 결과를 기반으로 기업별 핵심 과제를 도출하고, 해당 분야 전문가와의 1:1 매칭 멘토링을 통해 맞춤형 성장",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "KB국민은행과 경기혁신센터가 청년 스타트업 지원 프로그램 'KB유니콘클럽 6기'의 네트워킹을 개최하여 기업별 맞춤형 액셀러레이팅을 본격화했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40502_61082_485_v150.jpg",
+    "score": 5.439,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업",
+      "유니콘",
+      "창업",
+      "스케일업"
+    ],
+    "source_weight": 1.2
+  },
+  {
+    "title": "In case fine-tuning feels a bit resource-intensive, I think verifiers are a great use case to explore whether fine-tuning specialized models",
+    "url": "https://x.com/omarsar0/status/2066643596984361431",
+    "source": "X @omarsar0",
+    "source_type": "x",
+    "published_at": "2026-06-15T22:06:44+00:00",
+    "raw_excerpt": "In case fine-tuning feels a bit resource-intensive, I think verifiers are a great use case to explore whether fine-tuning specialized models is a value add. The same goes for LLM-as-a-Judge systems.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "파인튜닝이 비용 부담이 크다면 검증기(verifiers)나 LLM-as-Judge 시스템으로 특화 모델 파인튜닝의 가치를 검증해볼 수 있다.",
+    "thumbnail": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_200x200.jpg",
+    "score": 5.42,
+    "engagement": 857,
+    "matched_keywords": [
+      "llm"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "Orchestra-o1",
+    "url": "https://x.com/HuggingPapers/status/2066628427164401890",
+    "source": "X @HuggingPapers",
+    "source_type": "x",
+    "published_at": "2026-06-15T21:06:27+00:00",
+    "raw_excerpt": "Orchestra-o1\n\nA multi-agent orchestration framework that decomposes complex omnimodal tasks into parallel subtasks.\n\nIt achieves 72.8% accuracy on OmniGAIA, surpassing the next best open-source approach by over 10 percentage points.",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Orchestra-o1은 복잡한 멀티모달 작업을 병렬 처리하는 다중에이전트 오케스트레이션 프레임워크로, OmniGAIA에서 72.8% 정확도로 기존 오픈소스 대비 10%p 이상 성능을 앞서갔다.",
+    "thumbnail": "https://pbs.twimg.com/media/HK4jmh8akAAryDT.jpg:large",
+    "score": 5.379,
+    "engagement": 2545,
+    "matched_keywords": [
+      "multi-agent"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "FAANG 가고 'MANGOS' 온다…스페이스X 상장이 연 'AI 상장의 여름'",
+    "url": "https://zdnet.co.kr/view/?no=20260616082017",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-15T23:20:17+00:00",
+    "raw_excerpt": "[지디넷코리아]스페이스X(SpaceX)가 역대 최대 규모로 상장하면서, 미국 증시의 주도주가 통째로 바뀌고 있다. 6월 14일 테크크런치(TechCrunch) 팟캐스트 '에쿼티(Equity)'에서 진행자들은 이번 여름을 '뜨거운 기업공개(IPO)의 계절'로 규정하고, 그 파급 효과를 짚었다. 스페이스X는 6월 12일 나스닥(Nasdaq)에 데뷔했고, 오픈AI(OpenAI)와 앤트로픽(Anthropic)도 비공개로 상장을 신청하며 뒤를 따를 채비를 하고 있다.상징적인 변화는 약어의 교체다. 한때 증시를 이끌던 'FAANG'(페이스북·애플·아마존·넷플릭스·구글)이 이제 'MANGOS'로 바뀌었다는 것이다. 메타(Meta)·앤트로픽·엔비디아(NVIDIA)·구글(Google)·오픈AI·스페이스X를 묶은 조어다. 진행자 키어스틴 코로섹은 \"소비·소셜 네트워크에 쏠려 있던 공개 시장의 막대한 자본이 이제 AI 연구소와 스페이스X 같은 딥테크로 옮겨가고 있다\"고 분석했다. 스트리밍 강자 넷플릭스가 빠지고 AI 기업들이 그 자리를 채운 것 자체가 무게중심의 이동을 보여준다.진행자들은 스페이스X가 공개 시장의 한계를 시험하고 있다고 봤다. 한 진행자는 \"스페이스X는 공개 시장의 막대한 자금을 빨아들이는 동시에, 한 사람이 기업을 어디까지 통제할 수 있는지를 시험하고 있다\"며 \"다른 기술 기업들이 이를 얼마나 따라 할지가 관심사\"라고 말했다. 오픈AI",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "SpaceX의 역대 최대 규모 상장으로 미국 증시의 주도주가 FAANG에서 AI 기업과 딥테크 중심의 MANGOS로 전환되고 있다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/06/15/aic1976e6f44a7ccf6a9ebc286c2addb2d.jpg",
+    "score": 5.374,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai",
+      "오픈ai",
+      "anthropic",
+      "nvidia",
+      "엔비디아"
+    ],
+    "source_weight": 0.9
+  },
+  {
+    "title": "코난테크놀로지, 부산역에 AI 통역 솔루션 '링고엑스' 도입",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211716",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-15T13:03:51+00:00",
+    "raw_excerpt": "코난테크놀로지(대표 김영섬)는 부산교통공사와 손잡고 부산역에 AI 통역 안내 솔루션 '링고엑스(Lingo-X)'를 공급한다고 15일 밝혔다.링고엑스는 13개 언어 실시간 통역을 지원하는 AI 통역 안내 솔루션으로 자체 대형언어모델(LLM) 기반 생성형 AI 기술과 음성인식(STT) 엔진을 탑재했다. 외부 API에 의존하는 타사 솔루션과 달리 원천 기술을 기반으로 도입 및 운영 비용을 줄인 것이 특징이다.이를 통해 이용객들은 자국어로 편리하게 도시철도 이용법, 환승 경로, 주변 관광 정보 등을 안내받을 수 있다고 설명했다.AI로 해결",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "코난테크놀로지가 자체 LLM 기반 AI 통역 솔루션 '링고엑스'를 부산역에 도입해 13개 언어 실시간 통역 서비스를 제공한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211716_214770_4959.png",
+    "score": 5.256,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "llm",
+      "생성형 ai"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "Where are all those invites for secret parties and VIP events for the AI Engineer World's Fair?",
+    "url": "https://x.com/headinthebox/status/2066580606608363872",
+    "source": "X @headinthebox",
+    "source_type": "x",
+    "published_at": "2026-06-15T17:56:26+00:00",
+    "raw_excerpt": "Where are all those invites for secret parties and VIP events for the AI Engineer World's Fair?",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AI Engineer World's Fair의 비밀 파티와 VIP 이벤트 초대장이 어디 있냐는 비아냥.",
+    "thumbnail": "https://pbs.twimg.com/profile_images/2434343548/c80bae9z52ca9bbrh4ip_200x200.jpeg",
+    "score": 5.247,
+    "engagement": 3938,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "모인, NIPA 고성능 컴퓨팅 지원사업 최종 선정...AI 개발 역량 입증",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40513",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-16T08:34:17+00:00",
+    "raw_excerpt": "해외송금 전문 핀테크 기업 모인은 과학기술정보통신부와 정보통신산업진흥원(NIPA)이 추진하는 ‘2026년 고성능 컴퓨팅 지원사업’에 최종 선정됐다고 16알 밝혔다. 이번 선정을 통해 모인은 자사의 인공지능(AI) 연구개발 역량과 기술 성장 가능성을 공식적으로 인정받았다고 설명했다.NIPA 고성능 컴퓨팅 지원사업은 인공지능 기술을 개발하는 국내 중소·벤처기업에 고성능 인프라를 제공해 국가 AI 산업 경쟁력을 높이기 위한 프로그램이다. 모인은 이번 사업을 통해 확보한 컴퓨팅 자원을 바탕으로, 해외송금 서비스의 고객확인(KYC), 고객실",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "해외송금 핀테크 기업 모인이 NIPA 고성능 컴퓨팅 지원사업에 최종 선정되어 AI 연구개발 역량을 공식 인정받았다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40513_61098_3346_v150.jpg",
+    "score": 5.227,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2
+  },
+  {
+    "title": "We saw the action and control layer coming. Now we're going to own it.",
+    "url": "https://t.co/kn5SGEIyQr",
+    "source": "X @TryArcade",
+    "source_type": "x",
+    "published_at": "2026-06-15T17:09:37+00:00",
+    "raw_excerpt": "We saw the action and control layer coming. Now we're going to own it.\n\nEveryone focused on the models. We focused on what happens when the agent actually does something.\n\n\n@WSJ\n covered our $60M Series A today: \nhttps://\nwsj.com/cio-journal/ar\ncade-dev-raises-60-million-to-secure-ai-agents-5d07eff4?mod=author_content_page_1_pos_1\n…",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "AI 에이전트의 실행 제어 계층에 집중한 Arcade가 6천만 달러 Series A 펀딩을 확보했다.",
+    "thumbnail": "",
+    "score": 5.214,
+    "engagement": 22051,
+    "matched_keywords": [
+      "series a"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "Model neutrality is the new conductor principle.",
+    "url": "https://x.com/sauvast/status/2066544302554231273",
+    "source": "X @sauvast",
+    "source_type": "x",
+    "published_at": "2026-06-15T15:32:10+00:00",
+    "raw_excerpt": "Model neutrality is the new conductor principle.\n\nA great conductor doesn't play one instrument, they orchestrate the right one at the right moment. \nYour agentic architecture should do the same: for example, Claude for reasoning, a fast small model for parsing, an open-weight",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "AI 에이전트 아키텍처는 지휘자처럼 각 상황에 맞는 최적의 모델을 선택해 사용하는 '모델 중립성' 원칙을 따라야 한다.",
+    "thumbnail": "https://pbs.twimg.com/profile_images/2064963848726347776/SOh9R0va_200x200.jpg",
+    "score": 5.146,
+    "engagement": 1102,
+    "matched_keywords": [
+      "agentic"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "Together with my co-founders Michael ",
+    "url": "https://x.com/exnx/status/2066496190502555888",
+    "source": "X @exnx",
+    "source_type": "x",
+    "published_at": "2026-06-15T12:21:00+00:00",
+    "raw_excerpt": "Together with my co-founders Michael \n@MichaelPoli6\n, Stefano \n@Massastrello\n and Armin \n@athmsx\n, I am excited to announce \n@RadicalNumerics\n is emerging from stealth with a $50M seed round to build general biological intelligence.\n\nWe’re also sharing an early preview of our new model",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Radical Numerics가 생물학적 인공지능 개발을 위해 5,000만 달러 규모의 시드 펀딩을 받으며 공식 출범했습니다.",
+    "thumbnail": "https://pbs.twimg.com/media/HK2pye2a8AAoJua.jpg:large",
+    "score": 5.014,
+    "engagement": 766682,
+    "matched_keywords": [
+      "seed round"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "‘생체 모방’ 휴머노이드…뜨거운 초기 반응",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211746",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-16T06:55:00+00:00",
+    "raw_excerpt": "AI타임스 조예주 기자 joyejuoffice@aitimes.com",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "생체 모방 기술을 적용한 휴머노이드 로봇이 초기 시장에서 긍정적인 반응을 얻고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211746_214808_376.jpg",
+    "score": 4.923,
+    "engagement": 0,
+    "matched_keywords": [
+      "휴머노이드"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "\"클로드 코드·코덱스를 하나로\"…데이터브릭스, 에이전트 통합 플랫폼 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211742",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-15T17:20:53+00:00",
+    "raw_excerpt": "'클로드 코드'와 '코덱스' 등 서로 다른 도구를 하나의 상위 계층에서 조합하고 통제할 수 있는 AI 에이전트 통합 플랫폼이 등장했다.데이터브릭스는 12일(현지시간) 여러 AI 에이전트를 하나의 시스템으로 통합해 관리할 수 있는 오픈소스 플랫폼 '옴니전트(Omnigent)'를 공개했다. 데이터브릭스는 AI 에이전트 개발의 다음 단계가 개별 모델이나 에이전트가 아닌, 이들을 조율하는 상위 계층인 '메타 하네스(meta-harness)'에 있다고 강조했다.옴니전트는 아파치 2.0 라이선스로 깃허브에 공개된 오픈소스 프로젝트로, 데이터브",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "데이터브릭스가 Claude Code, Codex 등 여러 AI 에이전트를 하나의 플랫폼에서 통합 관리하는 오픈소스 프로젝트 'Omnigent'를 공개했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211742_214812_715.png",
+    "score": 4.839,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "유클릭스,김정인 사장 영입...\"기업 AX 컨설팅 속도 낸다\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211747",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-15T16:45:00+00:00",
+    "raw_excerpt": "유클릭스(대표 김철)는 글로벌 컨설팅사 맥킨지앤드컴퍼니와 현대카드 출신의 김정인 사장을 영입, 기업 AX 컨설팅 사업 강화에 나선다고 15일 밝혔다.김정인 사장은 유클릭스의 기업 AX 컨설팅 브랜드 '에이파이(Aify)'를 중심으로 서비스 사업을 총괄한다.김 사장은 맥킨지앤드컴퍼니에서 파트너로 재직하며 기업 전략, 리스크 관리, 디지털 전환, 인수합병 및 기업 혁신 프로젝트를 이끌었다. 현대카드에서는 운영 총괄과 최고전략책임자(CSO), 카드 사업본부장 등을 역임했다.에이파이 사업뿐 아니라 총괄 법인 터틀날리지 산하 주요 사업 전반",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "유클릭스가 맥킨지앤드컴퍼니 출신 김정인 사장을 영입해 기업 AX 컨설팅 브랜드 '에이파이'를 중심으로 서비스 사업을 강화한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211747_214814_251.png",
+    "score": 4.806,
+    "engagement": 0,
+    "matched_keywords": [
+      "디지털 전환",
+      "ax"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "미소정보기술, 반도체 부품 생산라인에 AI-사람 협업 ‘제품 결함 검사’ 구축",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211741",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-15T16:24:53+00:00",
+    "raw_excerpt": "데이터 전문 미소정보기술(대표 남상도)은 반도체 공정용 소재부품 전문 씨엠티엑스(CMTX) 제조 공정에 AI 비전 검사를 위한 차세대 지능형 제조 플랫폼 ‘닥시(DAXI)’를 구축했다고 15일 밝혔다.CMTX는 반도체 생산 품질을 좌우하는 핵심인 식각 공정에 사용되는 실리콘 부품을 글로벌 반도체 기업에 공급하고 있다.그동안은 생산 제품의 미세 이물과 결함 여부를 숙련 작업자의 육안에 의존해 검사해 왔지만, 작업자 숙련도에 따른 검사 품질 편차, 판정 일관성 부족, 생산량 증가 대응 한계 등의 문제를 겪고 있었다.미소정보기술은 닥시를",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "미소정보기술이 반도체 부품 제조업체 CMTX에 AI 비전 검사 플랫폼 '닥시'를 구축해 육안 검사의 편차를 줄이고 결함 검사를 자동화했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211741_214804_562.jpeg",
+    "score": 4.788,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "차세대"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "\"음향 AI로 불량품 검출\"...디플리, 25억 신규 투자 유치",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211714",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-15T12:49:36+00:00",
+    "raw_excerpt": "디플리(대표 이수지)는 25억원 규모의 신규 투자 유치를 완료했다고 15일 밝혔다. 데브시스터즈벤처스가 리드 투자사로 나섰고, 수인베스트먼트캐피탈과 노틸러스인베스트먼트가 공동 투자자로 참여했다.디플리는 산업용 음향 AI 솔루션 '리슨 AI'를 개발했다. 사람의 발화 소리와 주변 잡음을 제거하고 타깃 음향만을 추출해 정상 범위 여부를 판별함으로써, 사람의 귀로는 감지하기 어려운 음향의 미세한 차이까지 분석할 수 있다는 설명이다.리슨 AI는 실제 양산라인에서 99.87% 이상의 검사 정확도를 보이며 기계 부품 품질 검사, 체결음 검사,",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "음향 AI 기술로 불량품을 검출하는 디플리가 25억원 신규 투자를 유치했으며, 개발한 '리슨 AI'는 산업 현장에서 99.87% 이상의 검사 정확도를 보인다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211714_214769_2814.png",
+    "score": 4.594,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처",
+      "투자 유치"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "AWS, AI 에이전트 정조준 칩 ‘그래비톤5’ 출시",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=20876",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-06-15T15:55:06+00:00",
+    "raw_excerpt": "아마존웹서비스(AWS)가 자체 설계 프로세서 최신작 ‘그래비톤5’ 기반 아마존 EC2 인스턴스 M9g·M9gd를 정식 출시했다. 지난해 12월 AWS 리인벤트 2025에서 공개된 뒤 프리뷰를 거쳐 정식 서비스로 전환됐다. 이번 출시 핵심은 AI가 스스로 판단하고 여러 단계를 거쳐 일을 처리하는 ‘에이전틱 AI’ 환경을 직접 겨냥했다는 점이다. AI 서비스가 많은 사용자의 요청을 동시에 빠르게 처리해야 하는 시대에 맞춰 칩 성능을 끌어올렸다.◇ 한 칩에 192개 두뇌… AI 처리 속도 최대 35% 빨라져그래비톤5는 칩 하나에 192개",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "AWS가 AI 에이전트 워크로드에 최적화한 자체 설계 칩 '그래비톤5' 기반 EC2 인스턴스를 정식 출시했으며 AI 처리 속도가 최대 35% 향상됐다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202606/20876_21465_5144.jpg",
+    "score": 4.579,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "에이전틱",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.1
+  },
+  {
+    "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
+    "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-06-15T13:46:08+00:00",
+    "raw_excerpt": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "인도의 AI 스타트업 Sarvam이 HCLTech 주도로 2억 3,400만 달러 투자를 유치해 유니콘 기업이 되었다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/02/sarvam.jpg?resize=1200,800",
+    "score": 4.48,
+    "engagement": 0,
+    "matched_keywords": [
+      "startup",
+      "unicorn",
+      "funding"
+    ],
+    "source_weight": 1.1
+  },
+  {
+    "title": "마이크로소프트, \"AI 시대 승부는 도입 아닌 학습 속도\"…AI 에이전트가 실행하고 인간은 판단한다",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40505",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-15T16:17:22+00:00",
+    "raw_excerpt": "마이크로소프트(Microsoft)가 인공지능(AI) 에이전트 확산에 따라 인간의 역할이 축소되는 것이 아니라 오히려 더욱 중요해지고 있다고 진단했다. AI가 반복 업무와 실행을 담당할수록 인간은 판단과 책임, 전략 수립에 집중하게 되며, 미래 조직의 경쟁력은 기술 도입 속도가 아니라 학습 속도와 조직 내 AI 내재화 역량에 의해 결정될 것이라는 전망이다.마이크로소프트는 15일, 기자 간담회를 통해 연례 보고서인 '업무동향지표 2026(Work Trend Index 2026)'를 발표하고, AI 에이전트 시대의 새로운 업무 모델인 '",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "마이크로소프트는 AI 에이전트가 실행 업무를 담당하면서 인간은 판단과 전략에 집중하게 되며, 미래 경쟁력은 기술 도입 속도가 아닌 학습 속도와 AI 내재화 역량으로 결정될 것이라고 진단했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40505_61084_1531_v150.jpg",
+    "score": 4.413,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.2
+  }
+]
