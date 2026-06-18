@@ -25,7 +25,14 @@
                 letter-spacing:-.01em;color:#cfcfd3;}
   nav.dates{background:var(--black);padding:0 24px 14px;}
   nav.dates .wrap{max-width:1140px;margin:0 auto;display:flex;gap:6px;
-                  overflow-x:auto;padding-bottom:2px;}
+                  overflow-x:auto;padding-bottom:8px;
+                  scrollbar-width:thin;scrollbar-color:#3a3a40 transparent;}
+  /* 얇은 커스텀 스크롤바 — 검은 배경에 어울리는 둥근 회색 바 (호버 시 밝아짐) */
+  nav.dates .wrap::-webkit-scrollbar{height:6px;}
+  nav.dates .wrap::-webkit-scrollbar-track{background:transparent;}
+  nav.dates .wrap::-webkit-scrollbar-thumb{background:#3a3a40;border-radius:99px;}
+  nav.dates .wrap::-webkit-scrollbar-thumb:hover{background:#55555c;}
+  nav.dates .wrap:hover{scrollbar-color:#55555c transparent;}
   nav.dates a{flex:none;padding:5px 12px;border-radius:6px;font-size:12px;
               text-decoration:none;color:#9c9ca3;border:1px solid var(--hair);
               transition:.15s;}
