@@ -1,0 +1,389 @@
+[
+  {
+    "title": "카카오, ‘AGENTIC PLAYER 10’ 개최… AI 서비스 발굴 나선다",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40559",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-17T18:14:46+00:00",
+    "raw_excerpt": "카카오(대표이사 정신아)는 에이전틱(Agentic) AI 생태계 활성화와 창의적인 인공지능 서비스 발굴을 위해 ‘AGENTIC PLAYER 10’ 공모전을 개최한다고 17일 밝혔다.이번 공모전은 카카오의 MCP(Model Context Protocol) 기반 개방형 플랫폼 ‘PlayMCP’를 활용해 다양한 AI 서비스와 도구를 개발하는 경진대회다. 참가자들은 직접 개발한 MCP 서버를 등록할 수 있으며, 본선 진출 시에는 카카오 내·외부의 다양한 서비스와 연동되는 AI 에이전트 서비스인 ‘Kakao Tools(카카오툴즈)’를 통해",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "카카오가 MCP 기반 개방형 플랫폼 'PlayMCP'를 활용한 'AGENTIC PLAYER 10' 공모전을 개최해 AI 에이전트 생태계 활성화에 나선다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40559_61169_1432_v150.jpg",
+    "score": 6.911,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic",
+      "mcp",
+      "model context protocol",
+      "에이전트",
+      "에이전틱",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.2
+  },
+  {
+    "title": "“접근성이 곧 AI 경쟁력”… 코딧, 포용적 AI 생태계 조성 위한 3대 과제 제안",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40562",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-18T08:53:22+00:00",
+    "raw_excerpt": "인공지능 법·규제·정책 플랫폼 기업 코딧(CODIT, 대표 정지은) 부설 글로벌정책실증연구원은 '포용적 AI를 위한 정책 과제: 접근성 혁신과 디지털 포용 생태계 조성' 보고서를 발간했다고 18일 밝혔다.생성형 AI가 행정·의료·교육 등 사회 전반의 핵심 인프라로 자리 잡으면서, AI 혜택을 누구나 누릴 수 있도록 하는 ‘포용적 AI(Inclusive AI)’의 중요성이 커지고 있다. 특히 한국의 등록 장애인은 약 262만 8천 명, 65세 이상 고령 인구는 전체의 21.2%에 달하는 만큼(2025년 기준), 접근성을 고려하지 않은",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "코딧이 생성형 AI가 사회 인프라화하는 가운데 장애인·고령층 등 모두가 AI 혜택을 누릴 수 있는 포용적 AI 생태계 조성을 위한 3대 정책 과제를 제안했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40562_61172_5241_v150.jpg",
+    "score": 5.843,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "생성형 ai"
+    ],
+    "source_weight": 1.2
+  },
+  {
+    "title": "마키나락스, 한국수자원공사와 스마트정수장 생성형 AI 고도화 나선다",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40561",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-18T08:43:50+00:00",
+    "raw_excerpt": "마키나락스(MakinaRocks, 대표 윤성호)가 한국수자원공사와 함께 스마트정수장 업무지원 시스템에 생성형 AI를 접목하는 프로젝트를 추진하며, 공공 인프라 현장에서 활용 가능한 인공지능(AI) 운영 모델 고도화에 나선다.이번 프로젝트는 마키나락스의 AI 운영체제(AI OS) ‘런웨이(Runway)’를 기반으로 한국수자원공사의 스마트정수장 AI 자율운영 시스템에 생성형 AI 기술을 적용하는 것이 핵심이다. 이를 통해 현장 운영자는 AI의 판단 결과를 보다 직관적으로 이해하고, 운영 데이터와 내부 문서를 함께 참고하며 보다 효율적으",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "마키나락스가 한국수자원공사와 함께 스마트정수장 시스템에 생성형 AI를 적용해 공공 인프라 AI 운영 모델을 고도화한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40561_61171_4339_v150.jpg",
+    "score": 5.835,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "생성형 ai"
+    ],
+    "source_weight": 1.2
+  },
+  {
+    "title": "AI 인프라 플랫폼 텐, 과기부 '글로벌 ICT 미래 유니콘' 선정",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211793",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-17T09:10:00+00:00",
+    "raw_excerpt": "AI 인프라 플랫폼 전문 텐(대표 오세진)은 과학기술정보통신부와 정보통신산업진흥원(NIPA)이 주관하는 '2026 글로벌 ICT 미래 유니콘 육성사업(ICT GROWTH)' 지원 기업으로 선정됐다고 17일 밝혔다.이는 ICT 기업을 발굴해 유니콘 기업으로 육성하기 위한 국가 사업이다. 기술 우수성, 시장 확대 가능성, 투자유치 실적 등 기업의 성장 잠재력을 평가해 주식회사 텐과 리벨리온을 포함해 15개사가 최종 선정됐다.이번 선정을 통해 텐은 글로벌 시장 진출을 위한 현지 프로그램, 투자 및 금융지원 연계, 창업·벤처 지원기관 연계",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "AI 인프라 플랫폼 텐이 과기부와 NIPA가 주관하는 '2026 글로벌 ICT 미래 유니콘 육성사업'에 15개사 중 하나로 선정돼 글로벌 진출 지원을 받게 됐다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211793_214866_230.jpg",
+    "score": 5.695,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처",
+      "유니콘",
+      "투자유치",
+      "창업"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "[6월17일] 앤트로픽을 둘러싼 미국의 달라진 시선...\"AI 안전론의 역설\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211815",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-18T07:00:00+00:00",
+    "raw_excerpt": "불과 몇달 전만 해도 앤트로픽은 미국 AI 업계에서 가장 많은 지지를 받는 기업 중 하나였습니다.지난 2월 트럼프 행정부와 갈등을 빚었을 당시만 해도, 실리콘 밸리와 AI 업계 상당수는 앤트로픽의 편이었습니다. 구글이나 오픈AI 등 경쟁사 연구원들과 업계 관계자들은 정부의 조치를 비판했고, 샘 알트먼 오픈AI CEO까지도 공개적으로 앤트로픽을 옹호했습니다. 당시에는 \"정부가 AI 혁신을 과도하게 제약하는 것 아니냐\"라는 문제의식이 있었습니다.하지만 최근 앤트로픽을 둘러싼 미국 내 분위기는 이전과는 상당히 달라진 모습입니다.미국 정부",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "앤트로픽이 수개월 전 AI 안전 강조로 업계의 지지를 받았으나, 최근 미국 내 시선이 변화하고 있으며 이는 AI 규제와 혁신 사이의 입장 차이를 반영한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211815_214895_520.png",
+    "score": 5.578,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "'챗GPT' 독주 흔들…글로벌 점유율 사상 첫 50% 아래로",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211810",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-17T18:57:22+00:00",
+    "raw_excerpt": "오픈AI의 '챗GPT'가 처음으로 글로벌 점유율 50% 아래로 내려간 것으로 나타났다. 센서타워가 16일(현지시간) 공개한 '2026 AI 시장 보고서(State of AI Report 2026)'에 따르면, 구글 '제미나이'와 앤트로픽 '클로드'의 성장세로 경쟁이 심화하면서 사용자들이 여러 AI 비서 서비스를 오가는 현상이 뚜렷해지고 있다.챗GPT는 최근 성장세가 다시 빨라지며 월간 이용자 10억명을 돌파한 최초의 AI 애플리케이션이 됐다. 현재 월간 활성 사용자(MAU)는 11억명 이상으로 전 세계 AI 비서 가운데 가장 많은",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "ChatGPT의 글로벌 점유율이 사상 처음 50% 아래로 내려가며 Google Gemini와 Anthropic Claude의 성장으로 AI 비서 시장 경쟁이 심화되고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211810_214891_048.jpg",
+    "score": 5.576,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai",
+      "ai 시장"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "딥시크, 몸값 75조 인정...‘의결권 없는 투자’로 경영권 사수",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211825",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-17T17:14:52+00:00",
+    "raw_excerpt": "딥시크가 창사 이후 처음으로 외부 투자 유치에 나서 500억위안(약 11조1880억원) 이상을 조달했다. 특히 이번 투자 라운드는 일반적인 벤처 투자 방식과 달리 창업자인 량원펑 CEO가 절대적인 경영권을 유지할 수 있도록 설계된 독특한 구조를 채택해 주목받았다.16일(현지시간) 디 인포메이션에 따르면, 투자자들은 딥시크 본사에 직접 투자하는 대신 량원펑 CEO가 운용하는 유한책임파트너십(LP)에 자금을 출자하는 방식으로 참여했다. 기업 가치는 500억달러(약 75조6000억원) 수준이다.이 구조에서 대부분 투자자 의결권을 보유하지",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "딥시크가 500억 위안을 조달하며 기업 가치 75조원을 인정받았으나, 투자자에게 의결권을 부여하지 않는 구조로 창업자 경영권을 절대 보장했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211825_214909_234.jpg",
+    "score": 5.483,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처",
+      "투자 유치",
+      "창업"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "소프트스퀘어드, 업스테이지 '솔라'에 FDE 결합해 기업 AX 시장 진출",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211823",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-17T15:52:41+00:00",
+    "raw_excerpt": "소프트스퀘어드(대표 이하늘)는 업스테이지와 AI 사업 협력 및 기업 AX 지원을 위한 업무협약(MOU)을 체결했다고 17일 밝혔다.업스테이지의 대형언어모델(LLM) '솔라'에 소프트스퀘어드의 전방 배치 엔지니어(FDE) 중심 개발 조직을 결합해 기업 맞춤형 AX 구축에 나선다는 내용이다.양사는 ▲고객사 업무 맥락 분석 ▲AI 적용 과업 설계 ▲API 통합 ▲UI/UX 구현 ▲기존 시스템 ▲연계 배포 및 운영 등 AX 전 과정을 담당한다.특히 업스테이지의 솔라 API와 광학문자인식(OCR) 기술을 활용해 기업 내부 챗봇, 사내 문서",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "소프트스퀘어드가 업스테이지의 LLM '솔라'와 자사 FDE 조직을 결합해 기업 맞춤형 AI 경험(AX) 구축 시장에 진출한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211823_214908_853.png",
+    "score": 5.409,
+    "engagement": 0,
+    "matched_keywords": [
+      "사내",
+      "조직",
+      "ax"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "Introducing LifeSciBench, a benchmark for measuring and improving how well AI supports real-world life science research.",
+    "url": "https://x.com/OpenAI/status/2067346916929937827",
+    "source": "X @OpenAI",
+    "source_type": "x",
+    "published_at": "2026-06-17T20:41:29+00:00",
+    "raw_excerpt": "Introducing LifeSciBench, a benchmark for measuring and improving how well AI supports real-world life science research.\n\nDeveloped with 173 scientists from biotechnology and pharmaceutical research, LifeSciBench includes 750 expert-authored tasks across seven biological research",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI가 생명과학 분야 AI 성능을 측정하기 위해 173명의 과학자와 함께 750개 과제로 구성된 LifeSciBench 벤치마크를 개발했다.",
+    "thumbnail": "https://pbs.twimg.com/media/HLCs-hgaUAAuUAP.jpg:large",
+    "score": 5.361,
+    "engagement": 178156,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "GPT-5.4 helped drive a medicinal chemistry project from literature review to a validated experimental result.",
+    "url": "https://t.co/gcDaph8b2B",
+    "source": "X @OpenAI",
+    "source_type": "x",
+    "published_at": "2026-06-17T17:10:11+00:00",
+    "raw_excerpt": "GPT-5.4 helped drive a medicinal chemistry project from literature review to a validated experimental result.\n\nPaired with \nhttp://\nMolecule.one’s Maria AI and specialized lab, the model proposed an unexpected way to improve a widely used reaction in drug discovery.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "GPT-5.4가 의약화학 프로젝트에서 문헌 검토부터 실험 검증까지를 주도하며 신약 개발의 널리 사용되는 반응 개선 방안을 제시했다.",
+    "thumbnail": "",
+    "score": 5.215,
+    "engagement": 221487,
+    "matched_keywords": [
+      "gpt-5"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "Offload tasks to AI, but don't forget to keep learning.",
+    "url": "https://x.com/omarsar0/status/2067268161611739213",
+    "source": "X @omarsar0",
+    "source_type": "x",
+    "published_at": "2026-06-17T15:28:32+00:00",
+    "raw_excerpt": "Offload tasks to AI, but don't forget to keep learning.\n\nI find this /teach skill super useful to learn *anything*.\n\nGreat for beginners or advanced learners.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AI에 작업을 맡기되 계속 학습하는 것을 잊지 말아야 하며, 무언가를 배울 때는 '설명/가르침' 방식이 매우 효과적이다.",
+    "thumbnail": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_200x200.jpg",
+    "score": 5.144,
+    "engagement": 8242,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "시마AI, 업계 최초 피지컬 AI용 에이전틱 개발 플랫폼 ‘Palette Neat’ 출시",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40553",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-17T16:47:05+00:00",
+    "raw_excerpt": "피지컬 인공지능(Physical AI) 선도 기업 시마AI(SiMa ai)는 피지컬 AI를 위한 업계 최초 에이전틱(Agentic) 개발 플랫폼 ‘팔레트 니트(Palette Neat)’를 17일 출시했다. 이는 복잡한 피지컬 AI 애플리케이션 개발 기간을 기존 수개월에서 수일 수준으로 단축한다.Palette Neat는 피지컬 AI 구현에 특화한 오픈소스 통합 개발 플랫폼이다. 실행 라이브러리(Execution Library)와 에이전트 워크플로우 계층을 통합해 개발 생산성을 높인다. 또한 시마AI의 양산형 Modalix™ MLSoC",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "시마AI가 피지컬 AI 애플리케이션 개발 기간을 수개월에서 수일로 단축하는 업계 최초 에이전틱 개발 플랫폼 'Palette Neat'를 출시했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40553_61162_4655_v150.jpg",
+    "score": 5.038,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic",
+      "에이전트",
+      "에이전틱"
+    ],
+    "source_weight": 1.2
+  },
+  {
+    "title": "퀄컴 \"새로운 AI 기기 40종 개발 중...에이전트가 앱 대체할 것\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211833",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-17T17:56:41+00:00",
+    "raw_excerpt": "퀄컴이 스마트폰 이후 시대를 겨냥한 차세대 AI 기기 개발에 속도를 내고 있다. 현재 40종이 넘는 AI 웨어러블 기기 설계를 진행 중이며, 앞으로 AI 에이전트가 기존 모바일 앱의 역할을 상당 부분 대체할 것으로 전망했다.크리스티아누 아몬 퀄컴 CEO는 16일(현지시간) CNBC와의 인터뷰에서 \"현재 40개가 넘는 AI 기기 디자인을 개발하고 있으며, 폼팩터도 매우 다양하다\"라고 밝혔다.그가 언급한 차세대 기기에는 보석 형태의 웨어러블, 카메라가 탑재된 이어버드, 브로치, 스마트워치 등이 포함된다. 아몬 CEO는 \"항상 몸에 지니",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "퀄컴이 40종 이상의 AI 웨어러블 기기 개발 중이며 AI 에이전트가 기존 모바일 앱을 대체할 것으로 전망했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211833_214918_4320.jpg",
+    "score": 4.871,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "앤트로픽 서울 사무소 공식 개소...\"수출 통제 리스크 없을 것\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211840",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-18T05:31:04+00:00",
+    "raw_excerpt": "앤트로픽은 18일 여의도 콘래드 호텔에서 미디어 브리핑을 열고, 국내 오피스 공식 개소에 따른 비즈니스 전략을 공개했다. 이날 행사는 최기영 앤트로픽 한국 대표의 최근 취임에 따른 것으로, 본사에서는 크리스 차우리 앤트로픽 인터내셔널 총괄이 참석했다.특히, 현장에서는 미국 정부의 페이블 5와 미소스 5 모델의 수출 통제에 관심이 집중됐다. 그러나 앤트로픽은 말을 아꼈다.이 문제로 이날 참석 예정이었던 톰 브라운 최고 컴퓨팅책임자(CCO)는 방한하지 않았다. 대신, 크리스 차우리 총괄은 “브라운을 비롯한 앤트로픽의 공동 창립자와 경영",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "앤트로픽이 서울 사무소를 공식 개소하며 한국 시장 진출을 본격화했으나, 미국의 AI 모델 수출 통제 이슈에 대해서는 입장을 자세히 밝히지 않았다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211840_214934_4232.png",
+    "score": 4.848,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "KAIST “‘전력 10분의 1’ 액체 냉각 기술 개발…데이터센터 적용 가능”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211836",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-18T05:10:09+00:00",
+    "raw_excerpt": "한국과학기술원(KAIST, 총장 이광형)은 김성진 기계공학과 교수팀과 이익진 AX학과 교수팀이 공동 연구를 통해 기존 ‘매니폴드 마이크로채널(MMC)’ 냉각 기술의 한계를 극복하는 초고효율 액체 냉각 기술을 개발했다고 18일 밝혔다.매니폴드 마이크로채널은 머리카락보다 가는 미세 물길인 ‘마이크로채널’에 냉각수를 흘려 열을 제거하는 기술이다. 냉각수를 여러 지점에 동시 공급할 수 있어, 냉각 효율도 높일 수 있는 것이 특징이다.연구진은 기존에는 냉각수가 일부 채널에 집중되는 문제가 있었다고 지적했다. 이에, 냉각수가 모든 채널에 고르",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "KAIST가 냉각수를 모든 채널에 균등 분배하는 액체 냉각 기술을 개발해 기존 대비 전력 소비를 10분의 1로 줄일 수 있으며 데이터센터에 적용 가능하다고 발표했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211836_214926_5133.jpeg",
+    "score": 4.829,
+    "engagement": 0,
+    "matched_keywords": [
+      "ax"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "[게시판] LG CNS, 중기중앙회와 중소 제조기업 AX 돕는다 등 단신",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211832",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-17T17:00:00+00:00",
+    "raw_excerpt": "■ LG CNS(대표 현신균)는 중소기업중앙회(KBIZ)와 '중소기업 AI 확산을 위한 대·중소 상생협력 모델 발굴'에 대한 업무협약(MOU)을 체결했다고 밝혔다. LG CNS는 AX 교육, 기술 지원, 유통·마케팅 지원 등 3개 분야에 2년간 총 42억원 규모의 지원을 돕는다. 중기중앙회가 선정한 중소 제조기업을 대상으로 제조 현장 데이터 수집체계 구축부터 AI 모델 개발·적용, 시스템 통합 등에 LG CNS의 기술력과 전문 인력을 투입할 예정이다.■ 에스투더블유(대표 서상덕)는 이파피루스와 파트너십을 체결, AI 전자증빙 솔루션",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "LG CNS가 중소기업중앙회와 협력해 중소 제조기업의 AI 도입을 위해 2년간 42억원을 지원하기로 했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211832_214919_5657.jpg",
+    "score": 4.82,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장",
+      "ax"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "스페이스X, IPO 직후 90조에 커서 인수…\"공동 개발 모델 곧 공개\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211806",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-17T14:18:32+00:00",
+    "raw_excerpt": "스페이스X가 AI 코딩 플랫폼 ‘커서(Cursor)’ 개발사인 애니스피어를 600억달러(약 90조원) 규모에 인수하기로 했다. 스페이스X는 16일(현지시간) 애니스피어를 전액 주식 교환 방식으로 인수하는 최종 계약을 체결했다고 발표했다. 나스닥에 상장한 지 나흘 만에 옵션을 행사해 초고속으로 인수를 확정 지은 것이다.계약에 따라 커서는 600억달러 상당의 스페이스X 주식을 받게 되며, 합병은 규제 승인 절차를 거쳐 올해 3분기 중 마무리될 예정이다. 이번 인수는 스페이스X가 올해 초 AI 기업 xAI를 통합한 이후 추진하는 AI 사",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "스페이스X가 AI 코딩 플랫폼 '커서' 개발사 애니스피어를 600억달러(약 90조원)에 인수하기로 계약했으며, IPO 직후 나흘 만에 주식 교환 방식으로 거래를 확정했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211806_214900_212.png",
+    "score": 4.674,
+    "engagement": 0,
+    "matched_keywords": [
+      "cursor",
+      "ai 코딩"
+    ],
+    "source_weight": 1.3
+  },
+  {
+    "title": "prediction: tokenomics will be the dominant theme when it comes to discussing AI adoption & usage over the course of the next 6-12 months.",
+    "url": "https://x.com/masondrxy/status/2067091358007845159",
+    "source": "X @masondrxy",
+    "source_type": "x",
+    "published_at": "2026-06-17T03:45:59+00:00",
+    "raw_excerpt": "prediction: tokenomics will be the dominant theme when it comes to discussing AI adoption & usage over the course of the next 6-12 months.\n\norg-wide token spend has come up as a point of concern in every. single. conversation i've had with customers in the past ~2 months. annual",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "AI 도입 논의에서 토큰 경제학이 향후 6-12개월간 지배적 주제로 부상할 것으로 예상되며, 조직의 토큰 지출이 고객들의 주요 관심사로 떠올랐다.",
+    "thumbnail": "https://pbs.twimg.com/profile_images/1995350038050926592/FKXLSZIk_200x200.jpg",
+    "score": 4.656,
+    "engagement": 4110,
+    "matched_keywords": [
+      "ai adoption"
+    ],
+    "source_weight": 1.0
+  },
+  {
+    "title": "앤트로픽, 서울 상륙…기업·연구·공익 전방위 공략",
+    "url": "https://zdnet.co.kr/view/?no=20260617170159",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-17T14:59:02+00:00",
+    "raw_excerpt": "[지디넷코리아]앤트로픽이 서울 오피스를 열고 국내 고객·파트너 지원 강화를 비롯해 인공지능(AI) 생태계 전반과의 협력 확대에 나선다.앤트로픽은 17일 서울 영등포구 콘래드 호텔에서 기자 간담회를 열고 서울 오피스 개소를 공식화했다.이날 현장에는 크리스 차우리 앤트로픽 인터내셔널 총괄과 최기영 앤트로픽 한국 대표가 참석해 국내 유수 기업과 스타트업은 물론, 연구·공익 분야 기관 및 클로드 개발자 커뮤니티와의 파트너십 계획을 발표했다.앤트로픽에 따르면 한국 산업 전반에 걸쳐 자사 AI 모델인 클로드 도입이 확산하고 있다. 특히 개발자 생태계에서 클로드 활용이 두드러진다는 설명이다.네이버는 최근 전체 엔지니어링 조직에 AI 코딩 에이전트인 클로드 코드를 전면 도입해 개발자 수천 명의 코딩 도구를 다양화하고 코딩 생산성을 극대화하고 있다. 이는 아시아 최대 규모의 엔터프라이즈 도입 사례 중 하나다. 넥슨의 엔지니어링 조직 역시 클로드 코드를 활용해 전 세계 수백만 명이 즐기는 라이브 서비스 게임의 코드 작성, 검토 및 배포 업무를 수행하고 있다.국내 주요 대기업들도 클로드를 지속적으로 도입하고 있다. LG CNS는 수천 명의 임직원들에게 클로드를 순차적으로 지원해 소프트웨어 개발 및 고객 대상 기술 솔루션 제공 업무에 적용 중이며, LG그룹 전반에 걸쳐 클로드 도입을 확대할 예정이다.한화솔루션은 AWS 베드록을 통해 글로벌 임직원에게 클로",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "앤트로픽이 서울 오피스를 개설하고 네이버·넥슨·LG CNS 등 국내 주요 기업에 AI 모델 클로드 도입을 확대하며 한국 시장 공략에 나섰다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/06/17/24300c1c1c9d5ab42a0f2d536e54f322.png",
+    "score": 4.161,
+    "engagement": 0,
+    "matched_keywords": [
+      "생산성",
+      "조직",
+      "도입 사례",
+      "현장"
+    ],
+    "source_weight": 0.9
+  },
+  {
+    "title": "구글 클라우드, 국내에 ‘보안 운영 플랫폼’ 공식 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211829",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-17T16:12:05+00:00",
+    "raw_excerpt": "구글 클라우드는 17일 구글 클라우드 서울 리전에서 ‘구글 보안 운영 플랫폼(Google SecOps)’의 로컬 데이터 레지던시 지원을 공식 발표하고 국내 기업을 지원하겠다고 밝혔다.구글 보안 운영 플랫폼은 구글의 위협 인텔리전스 및 AI 기반 보안 운영 플랫폼으로, 위협 대응에 필요한 속도∙규모∙인사이트를 제공하며 에이전틱 사이버 방어 역량 강화를 지원하게 될 예정이다. 금융·공공 등 규제 산업군에 유용할 것이라는 설명이다.서울 리전에서 구글 보안 운영 플랫폼을 공식 지원함에 따라, 국내 기업은 모든 보안 로그와 분석 데이터를 국",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "구글 클라우드가 AI 기반 위협 탐지 및 대응 솔루션인 '구글 보안 운영 플랫폼'을 서울 리전에서 공식 출시하며 국내 금융·공공 등 규제 산업 지원에 나섰다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211829_214912_5519.jpeg",
+    "score": 4.126,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전틱"
+    ],
+    "source_weight": 1.3
+  }
+]
