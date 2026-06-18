@@ -38,6 +38,7 @@ def collect_feed(feed: dict, config: Config) -> list[Article]:
     name = feed.get("name", url)
     weight = float(feed.get("weight", 1.0))
     kind = feed.get("kind", "rss")
+    region = feed.get("region", "global")
     window = int(config.get("time_window_hours", 30))
 
     resp = httpx.get(url, headers=HTTP_HEADERS, timeout=20, follow_redirects=True)
@@ -68,6 +69,7 @@ def collect_feed(feed: dict, config: Config) -> list[Article]:
                 raw_excerpt=_entry_excerpt(entry),
                 thumbnail=_extract_thumbnail(entry),
                 source_weight=weight,
+                region=region,
             )
         )
     return articles

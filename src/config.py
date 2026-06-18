@@ -42,6 +42,17 @@ class Config:
         return self._raw.get("topics", [])
 
     @property
+    def slots(self) -> list[dict]:
+        return self._raw.get("slots", [])
+
+    def slot(self, key: str) -> dict:
+        """회차 key 로 slot 설정을 찾는다. 없으면 빈 dict."""
+        for s in self.slots:
+            if s.get("key") == key:
+                return s
+        return {}
+
+    @property
     def exclude_keywords(self) -> list[str]:
         return [k.lower() for k in self._raw.get("exclude_keywords", [])]
 

@@ -11,7 +11,7 @@ from urllib.parse import urlsplit
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 from ..config import ROOT, Config
-from ..state import load_all_days, load_insight
+from ..state import load_all_days
 
 log = logging.getLogger("axnewsbot.site")
 
@@ -35,6 +35,20 @@ def _favicon_url(url: str) -> str:
         "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON"
         f"&fallback_opts=TYPE,SIZE,URL&size=128&url=https://{host}"
     )
+
+
+def _slot_label(config: Config, key: str) -> str:
+    if key == "all":
+        return "전체 브리핑"
+    return config.slot(key).get("label", key)
+
+
+def _ordered_slots(slots_data: dict, config: Config) -> list[str]:
+    """config.slots 순서(morning→noon→evening)대로, 그 외(레거시 'all')는 뒤에."""
+    order = [s["key"] for s in config.slots]
+    ordered = [k for k in order if k in slots_data]
+    ordered += [k for k in slots_data if k not in order]
+    return ordered
 
 
 def _group_by_topic(articles: list[dict], config: Config) -> list[dict]:
@@ -72,12 +86,26 @@ def build_site(config: Config) -> int:
     day_tpl = env.get_template("day.html.j2")
     index_tpl = env.get_template("index.html.j2")
 
+    def _day_total(slots_data: dict) -> int:
+        return sum(len(p.get("articles", [])) for p in slots_data.values())
+
     for date in dates_desc:
+        slots_data = days[date]
+        slot_blocks = []
+        for key in _ordered_slots(slots_data, config):
+            payload = slots_data[key]
+            arts = payload.get("articles", [])
+            slot_blocks.append({
+                "key": key,
+                "label": _slot_label(config, key),
+                "insight": payload.get("insight", ""),
+                "count": len(arts),
+                "groups": _group_by_topic(arts, config),
+            })
         html_out = day_tpl.render(
             date=date,
-            groups=_group_by_topic(days[date], config),
-            count=len(days[date]),
-            insight=load_insight(date),
+            slots=slot_blocks,
+            count=_day_total(slots_data),
             feedback_url=feedback_url,
             feedback_ready=feedback_ready,
             all_dates=dates_desc[:14],
@@ -85,7 +113,7 @@ def build_site(config: Config) -> int:
         (SITE_DIR / f"{date}.html").write_text(html_out, encoding="utf-8")
 
     index_out = index_tpl.render(
-        days=[{"date": d, "count": len(days[d])} for d in dates_desc],
+        days=[{"date": d, "count": _day_total(days[d])} for d in dates_desc],
         feedback_url=feedback_url,
         feedback_ready=feedback_ready,
     )

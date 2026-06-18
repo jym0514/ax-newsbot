@@ -3,7 +3,18 @@ name: Daily AX News Digest
 on:
   # 자동 트리거는 cron-job.org → GitHub API workflow_dispatch 로 일원화.
   # (GitHub 자체 schedule 은 지연·누락이 잦아서 제거했고, 주말·공휴일 거르기는 main.py 가 담당.)
-  workflow_dispatch: {}
+  # 하루 3회: cron-job.org 에 아래 3개 트리거를 등록(KST 기준)하고 slot 을 넘긴다.
+  #   07:30 → slot=morning (밤사이 글로벌 중심)
+  #   12:00 → slot=noon    (국내 조간 중심)
+  #   18:00 → slot=evening (국내 석간 중심)
+  workflow_dispatch:
+    inputs:
+      slot:
+        description: "발송 회차 (morning|noon|evening)"
+        required: false
+        default: morning
+        type: choice
+        options: [morning, noon, evening]
 
 permissions:
   contents: write   # data/, state/ 커밋용
@@ -20,6 +31,9 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}
+    env:
+      # API(cron-job.org)·UI 어디서 트리거되든 slot 을 안전하게 확정(기본 morning)
+      SLOT: ${{ github.event.inputs.slot || 'morning' }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -39,7 +53,7 @@ jobs:
         continue-on-error: true
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python -m src.main --prepare-only
+        run: python -m src.main --prepare-only --slot "$SLOT"
 
       - name: Commit data & state
         if: always()
@@ -50,7 +64,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "커밋할 변경 없음"
           else
-            git commit -m "chore: 다이제스트 데이터 $(date -u +%F) [skip ci]"
+            git commit -m "chore: 다이제스트 데이터 $(date -u +%F) ${SLOT} [skip ci]"
             git pull --rebase --autostash
             git push
           fi
@@ -83,7 +97,7 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python -m src.main --send-only
+        run: python -m src.main --send-only --slot "$SLOT"
 
       - name: Commit sent marker
         if: always()
@@ -93,7 +107,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "커밋할 변경 없음"
           else
-            git commit -m "chore: 발송 마커 $(date -u +%F) [skip ci]"
+            git commit -m "chore: 발송 마커 $(date -u +%F) ${SLOT} [skip ci]"
             git push
           fi
 

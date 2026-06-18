@@ -74,7 +74,16 @@ def classify(articles: list[Article], config: Config) -> list[Article]:
     return kept
 
 
-def _rank(articles: list[Article], config: Config) -> list[Article]:
+def _rank(
+    articles: list[Article],
+    config: Config,
+    boost_region: str = "",
+    boost: float = 1.0,
+) -> list[Article]:
+    """랭킹 점수 계산. boost_region 과 일치하는 region 의 기사는 점수에 boost 배수를 곱한다.
+
+    회차 '중심'을 구현 — 키워드/맥락 필터는 그대로 두고 해당 지역 소스만 상위로 끌어올린다.
+    """
     now = now_utc()
     for a in articles:
         try:
@@ -87,7 +96,10 @@ def _rank(articles: list[Article], config: Config) -> list[Article]:
         recency = max(0.0, 2.0 - age_h / 24.0)            # 최신일수록 최대 2.0
         kw_score = min(len(a.matched_keywords), 6) * 0.5    # 키워드 적합도 최대 3.0
         engagement = min(a.engagement / 50.0, 2.0) if a.engagement else 0.0
-        a.score = round(a.source_weight * (1.0 + recency + kw_score) + engagement, 3)
+        base = a.source_weight * (1.0 + recency + kw_score) + engagement
+        if boost_region and a.region == boost_region:
+            base *= boost
+        a.score = round(base, 3)
     return sorted(articles, key=lambda x: x.score, reverse=True)
 
 
@@ -116,10 +128,14 @@ def _tok_alike(x: str, y: str) -> bool:
     )
 
 
-def _dedupe_stories(ranked: list[Article]) -> list[Article]:
+def _dedupe_stories(
+    ranked: list[Article], prior_titles: list[str] | None = None
+) -> list[Article]:
     """같은 사건을 다룬 중복 보도(서로 다른 매체)를 제거 — 상위 랭크 기사만 남긴다.
 
     제목의 '희소 토큰'(후보군에서 3개 이하 제목에만 등장)을 2개 이상 공유하면 중복으로 본다.
+    prior_titles 가 주어지면(같은 날 앞 회차에서 이미 발송된 제목들) 그 제목들과 겹치는
+    기사도 중복으로 보고 제거한다 — 회차 간 같은 사건 중복 발송 방지.
     """
     token_lists = [_title_tokens(a.title) for a in ranked]
     df: Counter = Counter()
@@ -127,7 +143,8 @@ def _dedupe_stories(ranked: list[Article]) -> list[Article]:
         for w in set(toks):
             df[w] += 1
     kept: list[Article] = []
-    kept_tokens: list[list[str]] = []
+    # 앞 회차에서 이미 발송된 제목들의 토큰으로 kept_tokens 를 미리 채운다.
+    kept_tokens: list[list[str]] = [_title_tokens(t) for t in (prior_titles or [])]
     for art, toks in zip(ranked, token_lists):
         rare = [w for w in set(toks) if df[w] <= 3]
         is_dup = False
@@ -142,9 +159,23 @@ def _dedupe_stories(ranked: list[Article]) -> list[Article]:
     return kept
 
 
-def select(articles: list[Article], config: Config) -> list[Article]:
-    """랭킹 → 중복 기사 제거 → 최소 점수 / 주제별 상한 / 전체 상한 적용."""
-    ranked = _dedupe_stories(_rank(articles, config))
+def select(
+    articles: list[Article],
+    config: Config,
+    slot_key: str = "",
+    prior_titles: list[str] | None = None,
+) -> list[Article]:
+    """랭킹 → 중복 기사 제거 → 최소 점수 / 주제별 상한 / 전체 상한 적용.
+
+    slot_key 가 주어지면 해당 회차가 강조하는 region 소스를 부스트하고, 선별된 기사에
+    slot 을 표기한다. prior_titles(같은 날 앞 회차 제목)는 회차 간 중복 제거에 쓰인다.
+    """
+    slot_cfg = config.slot(slot_key) if slot_key else {}
+    boost_region = slot_cfg.get("boost_region", "")
+    boost = float(config.get("region_boost", 1.5)) if boost_region else 1.0
+    ranked = _dedupe_stories(
+        _rank(articles, config, boost_region, boost), prior_titles
+    )
     max_total = int(config.get("max_articles_total", 28))
     max_per = int(config.get("max_articles_per_topic", 6))
     min_score = float(config.get("min_score", 1.0))
@@ -156,6 +187,7 @@ def select(articles: list[Article], config: Config) -> list[Article]:
         if per_topic.get(a.topic, 0) >= max_per:
             continue
         per_topic[a.topic] = per_topic.get(a.topic, 0) + 1
+        a.slot = slot_key
         chosen.append(a)
         if len(chosen) >= max_total:
             break

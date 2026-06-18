@@ -7,10 +7,13 @@ settings:
   # 기사 수집 시 "최근 N시간" 이내 발행분만 후보로 본다(여유 있게 30시간).
   time_window_hours: 30
   # 다이제스트에 담을 하루 최대 기사 수 / 주제별 상한
-  max_articles_total: 20
-  max_articles_per_topic: 6
+  max_articles_total: 40
+  max_articles_per_topic: 10
   # 기사가 다이제스트에 포함되려면 넘어야 하는 최소 점수
   min_score: 1.0
+  # 회차 '중심' 가중치 — 해당 회차가 강조하는 region 소스의 랭킹 점수에 곱하는 배수.
+  # (모든 키워드/맥락은 회차와 무관하게 항상 적용되고, 이 값은 '중심'만 결정한다)
+  region_boost: 1.5
 
   # --- 발송 후 채워야 하는 값들 (README 셋업 참고) ---
   # GitHub Pages 주소. 형식: https://<github-사용자명>.github.io/<저장소명>
@@ -21,6 +24,25 @@ settings:
   # Anthropic 요약 모델 / 출력 언어
   summary_model: "claude-haiku-4-5"
   summary_language: "ko"
+
+# ============================================================================
+# 회차(slot) — 하루 3회 발송. 각 회차는 '중심' region 소스를 부스트하지만
+# 키워드/맥락 필터는 모두 동일하게 적용된다. 발송 시각은 외부 트리거(cron-job.org)가
+# --slot <key> 로 워크플로를 호출해 결정한다.
+#   morning  07:30 KST — 밤사이 글로벌 뉴스 중심
+#   noon     12:00 KST — 국내 언론 조간 중심
+#   evening  18:00 KST — 국내 석간 중심
+# ============================================================================
+slots:
+  - key: morning
+    label: "🌍 아침 브리핑 · 글로벌 중심"
+    boost_region: global
+  - key: noon
+    label: "📰 점심 브리핑 · 국내 조간 중심"
+    boost_region: domestic
+  - key: evening
+    label: "🌆 저녁 브리핑 · 국내 석간 중심"
+    boost_region: domestic
 
 # ============================================================================
 # 주제(topic) — 기사는 키워드 점수가 가장 높은 주제로 분류된다.
@@ -154,6 +176,70 @@ topics:
       - "창업"
       - "스케일업"
 
+  - key: security_regulation
+    label: "🔐 AI·블록체인 보안 & 국내외 규제"
+    priority: 7
+    keywords:
+      # --- 보안 (AI/블록체인 공통) ---
+      - "ai security"
+      - "ai safety"
+      - "ai 보안"
+      - "ai 안전"
+      - "보안"
+      - "사이버 보안"
+      - "cybersecurity"
+      - "취약점"
+      - "vulnerability"
+      - "해킹"
+      - "hack"
+      - "exploit"
+      - "데이터 유출"
+      - "data breach"
+      - "프롬프트 인젝션"
+      - "prompt injection"
+      - "jailbreak"
+      - "탈옥"
+      - "adversarial"
+      - "딥페이크"
+      - "deepfake"
+      - "블록체인 보안"
+      - "blockchain security"
+      - "스마트 컨트랙트"
+      - "smart contract"
+      - "crypto hack"
+      - "가상자산 탈취"
+      # --- 규제 / 정책 / 거버넌스 (국내외) ---
+      - "규제"
+      - "regulation"
+      - "regulatory"
+      - "ai 규제"
+      - "ai regulation"
+      - "ai act"
+      - "eu ai act"
+      - "ai 기본법"
+      - "법안"
+      - "입법"
+      - "legislation"
+      - "compliance"
+      - "거버넌스"
+      - "governance"
+      - "ai governance"
+      - "가이드라인"
+      - "guideline"
+      - "개인정보"
+      - "프라이버시"
+      - "privacy"
+      - "gdpr"
+      - "규제 샌드박스"
+      - "가상자산 규제"
+      - "crypto regulation"
+      - "암호화폐 규제"
+      - "블록체인 규제"
+      - "blockchain regulation"
+      - "stablecoin"
+      - "스테이블코인"
+      - "디지털 자산 규제"
+
   - key: ai_ax_trends
     label: "🌐 국내외 AI/AX 최신 동향"
     priority: 9
@@ -214,47 +300,50 @@ exclude_keywords:
 # ============================================================================
 sources:
   # --- RSS / Substack (퍼블리케이션별 RSS) ---------------------------------
+  # region: global(해외) | domestic(국내). 회차별 가중치 부스트 기준이 된다.
+  #   - 아침(morning) 회차는 global 소스를, 점심/저녁(noon/evening) 회차는
+  #     domestic 소스를 상위로 끌어올린다. (모든 키워드는 회차와 무관하게 항상 적용)
   rss:
     # 해외 Substack 뉴스레터
-    - { name: "One Useful Thing (Ethan Mollick)", url: "https://www.oneusefulthing.org/feed", weight: 1.3, kind: substack }
-    - { name: "Latent Space (swyx)",              url: "https://www.latent.space/feed",       weight: 1.3, kind: substack }
-    - { name: "Interconnects (Nathan Lambert)",   url: "https://www.interconnects.ai/feed",   weight: 1.2, kind: substack }
-    - { name: "Import AI (Jack Clark)",           url: "https://importai.substack.com/feed",  weight: 1.2, kind: substack }
-    - { name: "Ahead of AI (S. Raschka)",         url: "https://magazine.sebastianraschka.com/feed", weight: 1.2, kind: substack }
-    - { name: "AI Supremacy",                     url: "https://www.ai-supremacy.com/feed",   weight: 1.0, kind: substack }
-    - { name: "The Algorithmic Bridge",           url: "https://www.thealgorithmicbridge.com/feed", weight: 1.0, kind: substack }
-    - { name: "Exponential View (Azeem Azhar)",   url: "https://www.exponentialview.co/feed", weight: 1.1, kind: substack }
-    - { name: "Towards AI",                       url: "https://newsletter.towardsai.net/feed", weight: 1.0, kind: substack }
-    - { name: "Last Week in AI",                  url: "https://lastweekin.ai/feed",          weight: 1.0, kind: substack }
+    - { name: "One Useful Thing (Ethan Mollick)", url: "https://www.oneusefulthing.org/feed", weight: 1.3, kind: substack, region: global }
+    - { name: "Latent Space (swyx)",              url: "https://www.latent.space/feed",       weight: 1.3, kind: substack, region: global }
+    - { name: "Interconnects (Nathan Lambert)",   url: "https://www.interconnects.ai/feed",   weight: 1.2, kind: substack, region: global }
+    - { name: "Import AI (Jack Clark)",           url: "https://importai.substack.com/feed",  weight: 1.2, kind: substack, region: global }
+    - { name: "Ahead of AI (S. Raschka)",         url: "https://magazine.sebastianraschka.com/feed", weight: 1.2, kind: substack, region: global }
+    - { name: "AI Supremacy",                     url: "https://www.ai-supremacy.com/feed",   weight: 1.0, kind: substack, region: global }
+    - { name: "The Algorithmic Bridge",           url: "https://www.thealgorithmicbridge.com/feed", weight: 1.0, kind: substack, region: global }
+    - { name: "Exponential View (Azeem Azhar)",   url: "https://www.exponentialview.co/feed", weight: 1.1, kind: substack, region: global }
+    - { name: "Towards AI",                       url: "https://newsletter.towardsai.net/feed", weight: 1.0, kind: substack, region: global }
+    - { name: "Last Week in AI",                  url: "https://lastweekin.ai/feed",          weight: 1.0, kind: substack, region: global }
 
     # 해외 테크/AI 매체
-    - { name: "The Decoder",        url: "https://the-decoder.com/feed/", weight: 1.1, kind: rss }
-    - { name: "TechCrunch AI",      url: "https://techcrunch.com/category/artificial-intelligence/feed/", weight: 1.1, kind: rss }
-    - { name: "The Verge",          url: "https://www.theverge.com/rss/index.xml", weight: 1.0, kind: rss }
-    - { name: "VentureBeat AI",     url: "https://venturebeat.com/category/ai/feed/", weight: 1.0, kind: rss }
-    - { name: "ZDNet (Global, AI)", url: "https://www.zdnet.com/topic/artificial-intelligence/rss.xml", weight: 1.1, kind: rss }
-    - { name: "MIT Tech Review",    url: "https://www.technologyreview.com/feed/", weight: 1.1, kind: rss }
-    - { name: "Ars Technica",       url: "https://feeds.arstechnica.com/arstechnica/index", weight: 0.9, kind: rss }
-    - { name: "Hacker News (front)",url: "https://hnrss.org/frontpage", weight: 0.8, kind: rss }
+    - { name: "The Decoder",        url: "https://the-decoder.com/feed/", weight: 1.1, kind: rss, region: global }
+    - { name: "TechCrunch AI",      url: "https://techcrunch.com/category/artificial-intelligence/feed/", weight: 1.1, kind: rss, region: global }
+    - { name: "The Verge",          url: "https://www.theverge.com/rss/index.xml", weight: 1.0, kind: rss, region: global }
+    - { name: "VentureBeat AI",     url: "https://venturebeat.com/category/ai/feed/", weight: 1.0, kind: rss, region: global }
+    - { name: "ZDNet (Global, AI)", url: "https://www.zdnet.com/topic/artificial-intelligence/rss.xml", weight: 1.1, kind: rss, region: global }
+    - { name: "MIT Tech Review",    url: "https://www.technologyreview.com/feed/", weight: 1.1, kind: rss, region: global }
+    - { name: "Ars Technica",       url: "https://feeds.arstechnica.com/arstechnica/index", weight: 0.9, kind: rss, region: global }
+    - { name: "Hacker News (front)",url: "https://hnrss.org/frontpage", weight: 0.8, kind: rss, region: global }
 
     # 기업 공식 블로그
-    - { name: "OpenAI News",        url: "https://openai.com/news/rss.xml", weight: 1.3, kind: rss }
-    - { name: "Google DeepMind",    url: "https://deepmind.google/blog/rss.xml", weight: 1.2, kind: rss }
-    - { name: "Hugging Face Blog",  url: "https://huggingface.co/blog/feed.xml", weight: 1.0, kind: rss }
+    - { name: "OpenAI News",        url: "https://openai.com/news/rss.xml", weight: 1.3, kind: rss, region: global }
+    - { name: "Google DeepMind",    url: "https://deepmind.google/blog/rss.xml", weight: 1.2, kind: rss, region: global }
+    - { name: "Hugging Face Blog",  url: "https://huggingface.co/blog/feed.xml", weight: 1.0, kind: rss, region: global }
 
     # 국내 AI/테크 매체
-    - { name: "AI타임스",            url: "https://www.aitimes.com/rss/allArticle.xml", weight: 1.3, kind: rss }
-    - { name: "인공지능신문",         url: "https://www.aitimes.kr/rss/allArticle.xml", weight: 1.2, kind: rss }
-    - { name: "THE AI",             url: "https://www.newstheai.com/rss/allArticle.xml", weight: 1.1, kind: rss }
-    - { name: "스마트타임스",         url: "https://www.smarttimes.co.kr/rss/allArticle.xml", weight: 0.9, kind: rss }
-    - { name: "바이라인네트워크",      url: "https://byline.network/feed/", weight: 1.1, kind: rss }
-    - { name: "GeekNews",           url: "https://news.hada.io/rss/news", weight: 1.0, kind: rss }
-    - { name: "ZDNet Korea",        url: "https://feeds.feedburner.com/zdkorea", weight: 0.9, kind: rss }
-    - { name: "전자신문 ICT",        url: "https://rss.etnews.com/Section901.xml", weight: 1.0, kind: rss }
+    - { name: "AI타임스",            url: "https://www.aitimes.com/rss/allArticle.xml", weight: 1.3, kind: rss, region: domestic }
+    - { name: "인공지능신문",         url: "https://www.aitimes.kr/rss/allArticle.xml", weight: 1.2, kind: rss, region: domestic }
+    - { name: "THE AI",             url: "https://www.newstheai.com/rss/allArticle.xml", weight: 1.1, kind: rss, region: domestic }
+    - { name: "스마트타임스",         url: "https://www.smarttimes.co.kr/rss/allArticle.xml", weight: 0.9, kind: rss, region: domestic }
+    - { name: "바이라인네트워크",      url: "https://byline.network/feed/", weight: 1.1, kind: rss, region: domestic }
+    - { name: "GeekNews",           url: "https://news.hada.io/rss/news", weight: 1.0, kind: rss, region: domestic }
+    - { name: "ZDNet Korea",        url: "https://feeds.feedburner.com/zdkorea", weight: 0.9, kind: rss, region: domestic }
+    - { name: "전자신문 ICT",        url: "https://rss.etnews.com/Section901.xml", weight: 1.0, kind: rss, region: domestic }
 
     # 국내 기업 기술블로그 (AX 사례용, 가중치 낮음)
-    - { name: "카카오 Tech",         url: "https://tech.kakao.com/feed/", weight: 0.8, kind: rss }
-    - { name: "토스 기술블로그",       url: "https://toss.tech/rss.xml", weight: 0.8, kind: rss }
+    - { name: "카카오 Tech",         url: "https://tech.kakao.com/feed/", weight: 0.8, kind: rss, region: domestic }
+    - { name: "토스 기술블로그",       url: "https://toss.tech/rss.xml", weight: 0.8, kind: rss, region: domestic }
 
   # --- Bluesky (X 보조; AT Protocol 공개 API, 인증 불필요) -------------------
   # handle 은 bsky.app 프로필의 핸들(@ 제외). 잘못된 핸들은 그냥 건너뛴다.

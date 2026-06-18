@@ -22,6 +22,8 @@ class Article:
     engagement: int = 0               # X/Bluesky 의 좋아요+리포스트 등
     matched_keywords: list[str] = field(default_factory=list)
     source_weight: float = 1.0        # 소스 가중치 (랭킹용)
+    region: str = "global"            # "global" | "domestic" — 소스 출신 지역(회차 부스트 기준)
+    slot: str = ""                    # 선별된 회차 key (morning|noon|evening), 아카이브 섹션용
 
     def to_dict(self) -> dict:
         return asdict(self)

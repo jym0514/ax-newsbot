@@ -59,10 +59,14 @@ def _article_block(article: Article, index: int) -> str:
 
 
 def build_messages(
-    articles: list[Article], date_str: str, archive_url: str
+    articles: list[Article], date_str: str, archive_url: str, slot_label: str = ""
 ) -> list[str]:
-    """다이제스트를 카테고리별로 그룹핑한 '단일' 메시지로 빌드(리스트 길이 1)."""
-    head_lines = [_TITLE, f"🗓️ {_esc(date_str)} · 총 {len(articles)}건"]
+    """다이제스트를 카테고리별로 그룹핑한 '단일' 메시지로 빌드(리스트 길이 1).
+
+    slot_label 이 주어지면(회차명, 예: '🌍 아침 브리핑 · 글로벌 중심') 헤더에 표기한다.
+    """
+    title = f"{_TITLE}\n{_esc(slot_label)}" if slot_label else _TITLE
+    head_lines = [title, f"🗓️ {_esc(date_str)} · 총 {len(articles)}건"]
     tags = _hashtags(articles)
     if tags:
         head_lines.append(_esc(tags))

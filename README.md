@@ -1,9 +1,13 @@
 # 📰 AX 뉴스봇
 
-매일 **오전 9시**에 텔레그램으로 AI/AX 뉴스 다이제스트를 보내주는 에이전트.
+평일 **하루 3회**(아침 07:30 · 점심 12:00 · 저녁 18:00, KST) 텔레그램으로 AI/AX 뉴스 다이제스트를 보내주는 에이전트.
 
+- **회차(slot)**: 모든 키워드/맥락은 매 회차 동일하게 적용하되, 회차마다 '중심' 소스를 가중치로 부스트한다.
+  - 🌍 **아침(morning, 07:30)** — 밤사이 글로벌 뉴스 중심
+  - 📰 **점심(noon, 12:00)** — 국내 언론 조간 중심
+  - 🌆 **저녁(evening, 18:00)** — 국내 석간 중심
 - **주제**: 핫한 테크 트렌드, 국내외 AI/AX 동향, 기업의 AI 도입·업무 변화 사례, AI Native,
-  AI 툴(Claude/Gemini/Codex/Genspark 등) 동향, AI Agent / Agentic AI
+  보안·국내외 규제(AI·블록체인), AI 툴(Claude/Gemini/Codex/Genspark 등) 동향, AI Agent / Agentic AI
 - **소스**: X(트위터) 홈 피드, Substack 뉴스레터, 국내외 AI/테크 매체, Bluesky
 - **출력**: 주제별로 묶인 AI 3줄 요약 + 기사별 링크. 메시지 하단에 **오늘의 아카이브 사이트** 링크
 - **아카이브**: 날짜별 기사 카드(썸네일·링크)와 팀 개선의견 수집 폼(Google Form)을 갖춘 웹사이트
@@ -13,15 +17,19 @@
 ## 동작 방식
 
 ```
-[08:35 KST] Mac (launchd)              [09:00 KST] GitHub Actions (클라우드)
-  run_x_collector.sh                     .github/workflows/daily.yml
-   └ X 홈 피드 스크래핑(Playwright)         └ src.main 실행
-   └ data/cache/x-<날짜>.json 푸시            · X 캐시 + RSS/Substack + Bluesky 수집
-                                             · 키워드 필터 → 주제 분류 → 랭킹/선별
-  (Mac 가 꺼져 있으면 이 단계는 생략 →         · Claude(Haiku)로 3줄 요약
-   그날은 X 없이 다른 소스로 정상 발송)         · 텔레그램 발송
-                                             · data/·state/ 커밋, 아카이브 사이트 배포
+[08:35 KST] Mac (launchd)        [07:30 / 12:00 / 18:00 KST] GitHub Actions (클라우드)
+  run_x_collector.sh               cron-job.org → workflow_dispatch(slot=morning|noon|evening)
+   └ X 홈 피드 스크래핑(Playwright)     .github/workflows/daily.yml → src.main --slot <회차>
+   └ data/cache/x-<날짜>.json 푸시        · X 캐시 + RSS/Substack + Bluesky 수집
+                                         · 키워드 필터 → 주제 분류 → 회차 부스트 랭킹/선별
+  (Mac 가 꺼져 있으면 이 단계는 생략 →     · 회차 간 중복 기사 제거(seen + 제목 토큰)
+   그날은 X 없이 다른 소스로 정상 발송)     · Claude(Haiku)로 3줄 요약 → 텔레그램 발송
+                                         · data/·state/ 커밋, 아카이브 사이트 배포
 ```
+
+> 회차별 발송 시각은 **cron-job.org** 트리거 3개로 결정합니다. 각 트리거는 GitHub
+> `workflow_dispatch` API를 호출하며 `inputs.slot` 에 `morning` / `noon` / `evening` 중
+> 하나를 넘깁니다(KST 07:30 / 12:00 / 18:00). 슬롯을 안 넘기면 기본값 `morning` 으로 동작합니다.
 
 X 수집만 Mac에서 돌리는 이유: 클라우드 러너 IP는 X가 자주 차단하기 때문입니다.
 Mac이 꺼져 있어도 다이제스트는 다른 소스로 정상 발송됩니다.
@@ -91,8 +99,27 @@ feedback_form_url: "https://docs.google.com/forms/d/e/..../viewform"
 ### 8. 첫 실행 테스트
 
 저장소 → **Actions → Daily AX News Digest → Run workflow** 로 수동 실행.
+이때 **slot**(morning/noon/evening)을 골라 회차별로 테스트할 수 있습니다.
 텔레그램 메시지가 오고 Pages 사이트가 뜨면 성공입니다.
-이후 매일 09:00(KST) 무렵 자동 실행됩니다.
+
+### 9. 하루 3회 자동 실행 — cron-job.org 트리거 3개 등록
+
+[cron-job.org](https://cron-job.org) 에 아래 3개의 크론잡을 만듭니다. 모두 같은 GitHub API
+엔드포인트(`POST`)를 호출하되 **시각**과 **slot 값만** 다릅니다.
+
+- URL: `https://api.github.com/repos/<사용자명>/ax-newsbot/actions/workflows/daily.yml/dispatches`
+- Method: `POST`
+- Headers: `Authorization: Bearer <GitHub PAT(repo+workflow 권한)>`, `Accept: application/vnd.github+json`
+- Body(JSON):
+
+| 시각(KST) | slot | Request body |
+|---|---|---|
+| 07:30 | morning | `{"ref":"main","inputs":{"slot":"morning"}}` |
+| 12:00 | noon    | `{"ref":"main","inputs":{"slot":"noon"}}` |
+| 18:00 | evening | `{"ref":"main","inputs":{"slot":"evening"}}` |
+
+> cron-job.org 의 실행 시간대(TIMEZONE)를 `Asia/Seoul` 로 설정하면 위 시각을 그대로 쓸 수 있습니다.
+> 주말·공휴일은 `src.main` 이 알아서 발송을 건너뜁니다(트리거는 매일 와도 됨).
 
 ---
 
@@ -145,21 +172,23 @@ The Verge, MIT Tech Review, OpenAI/DeepMind/Hugging Face, AI타임스, 인공지
 ## 로컬 테스트
 
 ```bash
-.venv/bin/python -m src.main --dry-run
+.venv/bin/python -m src.main --dry-run --slot morning
 ```
 
 `--dry-run` 은 텔레그램을 보내지 않고 상태를 갱신하지 않으며, 다이제스트를 콘솔에 출력하고
 `site/` 를 생성합니다. `site/index.html` 을 브라우저로 열어 아카이브를 미리 볼 수 있습니다.
 요약(Claude)을 함께 테스트하려면 `.env` 파일에 `ANTHROPIC_API_KEY` 를 넣으세요(`.env.example` 참고).
 
-옵션: `--date YYYY-MM-DD`(날짜 강제), `--force`(이미 발송된 날 재실행)
+옵션: `--slot morning|noon|evening`(회차 — 생략 시 `all`, 부스트 없는 단일 발송),
+`--date YYYY-MM-DD`(날짜 강제), `--force`(이미 발송된 날·회차 재실행)
 
 ---
 
 ## 알려진 한계
 
-- GitHub Actions 스케줄은 5~20분 지연될 수 있어 "9시 정각"이 아니라 9시 전후로 도착합니다.
-- 저장소가 60일간 활동이 없으면 GitHub이 스케줄을 비활성화합니다(수동 실행 시 다시 활성화).
+- 발송 시각은 cron-job.org 트리거가 결정합니다. 네트워크/큐 사정으로 수 분 전후 오차가 날 수 있습니다.
+- 같은 회차는 하루 한 번만 발송됩니다(state 의 회차별 발송 마커). 재발송하려면 `--force`.
+- 회차 간 중복은 URL(seen.json) + 제목 토큰으로 제거됩니다. 앞 회차에서 나간 기사는 다음 회차에서 빠집니다.
 - X 자동 수집은 약관 주의 영역이며, X가 화면 구조를 바꾸면 `scripts/collect_x.py` 의
   셀렉터를 손봐야 할 수 있습니다.
 - 무료 플랜에서 GitHub Pages는 공개 저장소를 요구합니다(시크릿은 저장소 밖에 보관됨).

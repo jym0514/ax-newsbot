@@ -98,11 +98,20 @@
   .read{margin-left:auto;text-decoration:none;color:var(--sub);transition:.15s;}
   .card:hover .read{color:var(--ink);}
 
-  /* ── 오늘의 핵심 인사이트 ── */
+  /* ── 회차 섹션 ── */
+  .slot{scroll-margin-top:18px;margin-bottom:36px;}
+  .slot-head{display:flex;align-items:center;gap:10px;margin:0 0 14px;
+             font-size:19px;font-weight:800;letter-spacing:-.025em;color:var(--ink);
+             padding-bottom:10px;border-bottom:3px solid var(--ink);}
+  .slot-count{font-size:12.5px;font-weight:600;color:var(--sub);
+              border:1px solid var(--line);background:var(--card);
+              padding:2px 9px;border-radius:99px;}
+
+  /* ── 핵심 인사이트 ── */
   .insight{max-width:1140px;margin:0 auto;padding:26px 24px 0;}
   .insight-card{background:#161618;color:#fafafa;border-radius:14px;
-                padding:28px 30px 30px;border:1px solid #26262a;}
-  .insight-title{margin:0 0 18px;font-size:22px;font-weight:800;
+                padding:24px 26px 26px;border:1px solid #26262a;margin:0 0 18px;}
+  .insight-title{margin:0 0 14px;font-size:17px;font-weight:800;
                  letter-spacing:-.025em;color:#fafafa;}
   .insight-list{margin:0;padding:0 0 0 22px;color:#f0f0f3;}
   .insight-list li{margin:0 0 11px;font-size:15.5px;line-height:1.7;
@@ -140,63 +149,72 @@
   </div>
 </nav>
 
-{% if insight %}
-<section class="insight">
-  <div class="insight-card">
-    <h2 class="insight-title">💡 오늘의 핵심 인사이트</h2>
-    <ul class="insight-list">
-      {% for line in insight.splitlines() %}{% if line.strip() %}
-      <li>{{ line.strip() }}</li>{% endif %}{% endfor %}
-    </ul>
-  </div>
-</section>
-{% endif %}
-
 <div class="layout">
   <aside class="lnb">
-    <h3>카테고리</h3>
+    <h3>회차</h3>
     <ul>
-      {% for g in groups %}
-      <li><a href="#cat-{{ g.key }}">
-        <span>{{ g.label }}</span>
-        <span class="count">{{ g.articles|length }}</span>
+      {% for s in slots %}
+      <li><a href="#slot-{{ s.key }}">
+        <span>{{ s.label }}</span>
+        <span class="count">{{ s.count }}</span>
       </a></li>
       {% endfor %}
     </ul>
   </aside>
   <main>
-    {% for g in groups %}
-    <details class="cat" id="cat-{{ g.key }}" open>
-      <summary>
-        <span>{{ g.label }}</span>
-        <span class="count">{{ g.articles|length }}</span>
-        <span class="chev">▾</span>
-      </summary>
-      <div class="grid">
-        {% for a in g.articles %}
-        <article class="card">
-          {% set logo = a.url | favicon %}
-          <a class="thumb{% if not a.thumbnail %} is-logo{% endif %}" href="{{ a.url }}" target="_blank" rel="noopener">
-            {# 최종 폴백: 썸네일도 로고도 못 띄우면 출처명 텍스트가 보인다 #}
-            <span class="thumb-src">{{ a.source }}</span>
-            {% if a.thumbnail %}<img src="{{ a.thumbnail }}" loading="lazy" alt=""
-                 onerror="var p=this.parentElement;{% if logo %}this.onerror=function(){this.remove();p.classList.remove('has-logo');};this.className='logo';p.classList.add('is-logo','has-logo');this.src='{{ logo }}';{% else %}this.remove();{% endif %}">
-            {% elif logo %}<img class="logo" src="{{ logo }}" loading="lazy" alt=""
-                 onload="this.parentElement.classList.add('has-logo')"
-                 onerror="this.remove()">{% endif %}
-          </a>
-          <div class="body">
-            <a class="title" href="{{ a.url }}" target="_blank" rel="noopener">{{ a.title }}</a>
-            <p class="summary">{{ a.summary or a.raw_excerpt }}</p>
-            <div class="meta">
-              <span class="src">{{ a.source }}</span>
-              <a class="read" href="{{ a.url }}" target="_blank" rel="noopener">원문 →</a>
-            </div>
-          </div>
-        </article>
-        {% endfor %}
+    {% for s in slots %}
+    <section class="slot" id="slot-{{ s.key }}">
+      <h2 class="slot-head">
+        <span>{{ s.label }}</span>
+        <span class="slot-count">{{ s.count }}건</span>
+      </h2>
+
+      {% if s.insight %}
+      <div class="insight-card">
+        <h3 class="insight-title">💡 이 회차의 핵심 인사이트</h3>
+        <ul class="insight-list">
+          {% for line in s.insight.splitlines() %}{% if line.strip() %}
+          <li>{{ line.strip() }}</li>{% endif %}{% endfor %}
+        </ul>
       </div>
-    </details>
+      {% endif %}
+
+      {% for g in s.groups %}
+      <details class="cat" id="cat-{{ s.key }}-{{ g.key }}" open>
+        <summary>
+          <span>{{ g.label }}</span>
+          <span class="count">{{ g.articles|length }}</span>
+          <span class="chev">▾</span>
+        </summary>
+        <div class="grid">
+          {% for a in g.articles %}
+          <article class="card">
+            {% set logo = a.url | favicon %}
+            <a class="thumb{% if not a.thumbnail %} is-logo{% endif %}" href="{{ a.url }}" target="_blank" rel="noopener">
+              {# 최종 폴백: 썸네일도 로고도 못 띄우면 출처명 텍스트가 보인다 #}
+              <span class="thumb-src">{{ a.source }}</span>
+              {% if a.thumbnail %}<img src="{{ a.thumbnail }}" loading="lazy" alt=""
+                   onerror="var p=this.parentElement;{% if logo %}this.onerror=function(){this.remove();p.classList.remove('has-logo');};this.className='logo';p.classList.add('is-logo','has-logo');this.src='{{ logo }}';{% else %}this.remove();{% endif %}">
+              {% elif logo %}<img class="logo" src="{{ logo }}" loading="lazy" alt=""
+                   onload="this.parentElement.classList.add('has-logo')"
+                   onerror="this.remove()">{% endif %}
+            </a>
+            <div class="body">
+              <a class="title" href="{{ a.url }}" target="_blank" rel="noopener">{{ a.title }}</a>
+              <p class="summary">{{ a.summary or a.raw_excerpt }}</p>
+              <div class="meta">
+                <span class="src">{{ a.source }}</span>
+                <a class="read" href="{{ a.url }}" target="_blank" rel="noopener">원문 →</a>
+              </div>
+            </div>
+          </article>
+          {% endfor %}
+        </div>
+      </details>
+      {% else %}
+      <p style="color:var(--sub);">이 회차에는 수집된 기사가 없습니다.</p>
+      {% endfor %}
+    </section>
     {% else %}
     <p style="color:var(--sub);">이 날짜에는 수집된 기사가 없습니다.</p>
     {% endfor %}
@@ -217,7 +235,7 @@
   </div>
 </section>
 
-<footer>AX 전략실 · 평일 오전 자동 발행 · 데이터 출처는 각 기사 원문 매체에 있습니다</footer>
+<footer>AX 전략실 · 평일 하루 3회(아침·점심·저녁) 자동 발행 · 데이터 출처는 각 기사 원문 매체에 있습니다</footer>
 <script>
   // LNB 링크 클릭 시 접혀 있는 카테고리도 자동 펼친 뒤 스크롤
   document.querySelectorAll('aside.lnb a[href^="#"]').forEach(function(a){
