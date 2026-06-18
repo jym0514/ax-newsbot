@@ -386,10 +386,13 @@
     "b56f153591910ab1": "https://image.zdnet.co.kr/2026/06/18/aiba19309d397a3939635148ca31df7579.jpg",
     "37719865e10dd849": "https://cdn.byline.network/wp-content/uploads/2026/06/DSC06247.jpg"
   },
-  "last_sent_date": "2026-06-18",
+  "last_sent_date": "2026-06-19",
   "sent": {
     "2026-06-18": [
       "evening"
+    ],
+    "2026-06-19": [
+      "morning"
     ]
   }
 }
