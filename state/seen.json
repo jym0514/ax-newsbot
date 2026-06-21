@@ -462,7 +462,7 @@
     "30ea6e74dfdcb2d1": "https://image.zdnet.co.kr/2026/06/21/1227ba0bf62992d051f298d6d10fb3a8.jpg",
     "1ebaab2051a3fc72": "https://image.zdnet.co.kr/2026/06/15/c66eb2f3cbc0df54744ef6f2cd5cd836.jpg"
   },
-  "last_sent_date": "2026-06-19",
+  "last_sent_date": "2026-06-22",
   "sent": {
     "2026-06-18": [
       "evening"
@@ -470,6 +470,9 @@
     "2026-06-19": [
       "morning",
       "evening"
+    ],
+    "2026-06-22": [
+      "morning"
     ]
   }
 }
