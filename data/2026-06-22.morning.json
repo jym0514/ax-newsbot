@@ -1,0 +1,820 @@
+[
+  {
+    "title": "Sam Altman says a whole generation of researchers held AI back by underestimating what scaling could do",
+    "url": "https://the-decoder.com/sam-altman-says-a-whole-generation-of-researchers-held-ai-back-by-underestimating-what-scaling-could-do/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-06-21T09:12:01+00:00",
+    "raw_excerpt": "At a Stanford talk, Sam Altman defended LLM scaling and hit back at skeptics, saying a whole generation of researchers slowed the field by underestimating what scaling could do. He cited OpenAI's recent disproof of a mathematical conjecture as evidence. The article Sam Altman says a whole generation of researchers held AI back by underestimating what scaling could do appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Sam Altman이 AI 연구자들이 스케일링의 가능성을 과소평가해 AI 발전을 지연시켰다고 지적했습니다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/openai_ceo_sam_altman_at_stanford_talk-1.png",
+    "score": 6.509,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "llm",
+      "openai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "[Exclusive] $250 off AI Engineer tix til Monday",
+    "url": "https://www.latent.space/p/exclusive-250-off-ai-engineer-tix",
+    "source": "Latent Space (swyx)",
+    "source_type": "substack",
+    "published_at": "2026-06-21T15:01:23+00:00",
+    "raw_excerpt": "special offer for subscribers - $250 off AI Engineer tix til Monday",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AI Engineer 컨퍼런스 티켓에 월요일까지 250달러 할인 혜택을 제공합니다.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!MovB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2eafb12-892b-44cc-b2d0-6ed07ef991cc_1494x870.png",
+    "score": 6.216,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "The EU doesn't really know what a deepfake is, and that's becoming a problem for retail",
+    "url": "https://the-decoder.com/the-eu-doesnt-really-know-what-a-deepfake-is-and-thats-becoming-a-problem-for-retail/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-06-20T17:17:38+00:00",
+    "raw_excerpt": "Eurocommerce, the trade association behind Amazon, H M, and IKEA, wants AI-generated ads exempt from the EU AI Act's transparency rules. The argument: an AI-generated living room image used to sell a sofa isn't a deepfake. Zalando alone says 90 percent of the marketing content on its platform is already AI-generated. The article The EU doesn t really know what a deepfake is, and that s becoming a problem for retail appeared first on The Decoder .",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "EU가 딥페이크의 정의를 명확히 하지 못하면서 AI 생성 광고의 투명성 규제 적용을 놓고 소매업체들과 규제 당국 간 갈등이 심화되고 있다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/eu_ai_flag-1.png",
+    "score": 5.416,
+    "engagement": 0,
+    "matched_keywords": [
+      "deepfake",
+      "ai act",
+      "eu ai act"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+    "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-06-21T14:40:28+00:00",
+    "raw_excerpt": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Apple이 iOS 27에서 Siri 외에도 사진 정리, 텍스트 요약, 문서 분석 등 실용적인 AI 기능들을 iPhone에 적용할 예정이다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/01/tim-cook-iphone-GettyImages-2234563479.jpg?w=1024",
+    "score": 5.236,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "세계 최초 완전 오픈소스 의료 LLM '메디트론FO' 공개…EPFL, 학습 데이터부터 코드·평가 방식까지",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40603",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-21T16:42:09+00:00",
+    "raw_excerpt": "스위스 로잔연방공과대학교(EPFL)가 의료 인공지능(AI)의 투명성과 책임성을 높이기 위한 세계 최초의 완전 공개형(Fully Open) 의료 대규모언어모델(LLM) 프레임워크를 공개했다.EPFL 컴퓨터·통신과학대학(School of Computer and Communication Sciences) 산하 지능형 글로벌 헬스 및 인도주의 대응 기술 연구소(LiGHT)는 의료 AI 모델 개발 프레임워크인 ‘메디트론FO(MeditronFO)’를 지난 17일(현지시간) 공개했다.연구진에 따르면 메디트론FO는 단순히 모델 가중치만 공개하는",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "EPFL이 학습 데이터부터 코드, 평가 방식까지 모두 공개하는 세계 최초의 완전 오픈소스 의료 LLM '메디트론FO'를 발표했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40603_61238_4153_v150.jpg",
+    "score": 5.109,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "llm"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "AI is inflating student grades, and the effect points to outsourced work, not better learning",
+    "url": "https://the-decoder.com/ai-is-inflating-student-grades-and-the-effect-points-to-outsourced-work-not-better-learning/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-06-21T12:01:46+00:00",
+    "raw_excerpt": "A UC Berkeley study of more than 500,000 grades found that courses heavy on writing and coding saw grades jump after ChatGPT launched. The effect shows up mainly in homework, a sign that AI is replacing student work rather than improving learning. The article AI is inflating student grades, and the effect points to outsourced work, not better learning appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "ChatGPT 출시 후 UC버클리 연구에서 50만 건 이상의 성적을 분석한 결과 쓰기와 코딩 과목 성적이 급상승했으나, 숙제 위주의 상승으로 볼 때 학습 개선이 아닌 AI 대행 작업 증가를 시사한다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/ai_grades_inflation.png",
+    "score": 5.054,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "AWS says AI agents lack business context and security, launches two services to patch the gaps",
+    "url": "https://the-decoder.com/aws-says-ai-agents-lack-business-context-and-security-launches-two-services-to-patch-the-gaps/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-06-21T08:25:41+00:00",
+    "raw_excerpt": "At its summit in New York, AWS unveiled two new services. Continuum automatically detects, prioritizes, and fixes code vulnerabilities. Context builds a knowledge graph from corporate data to give AI agents the business context they need. Both tackle the same problem: agents that write code fast but get things wrong too often. The article AWS says AI agents lack business context and security, launches two services to patch the gaps appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AWS가 AI 에이전트의 보안 취약점과 비즈니스 컨텍스트 부족 문제를 해결하기 위해 Continuum과 Context 두 서비스를 출시했다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2024/12/aws_agents_midjourney.png",
+    "score": 4.806,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Apertus – Open Foundation Model for Sovereign AI",
+    "url": "https://apertvs.ai/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-21T21:29:43+00:00",
+    "raw_excerpt": "Article URL: https://apertvs.ai/ Comments URL: https://news.ycombinator.com/item?id=48622778 Points: 54 # Comments: 12",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Apertus는 국가주권을 지향하는 오픈소스 기초 AI 모델로, 기술 자립도를 높이려는 움직임입니다.",
+    "thumbnail": "",
+    "score": 4.749,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "foundation model"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "오픈AI, 이번 주 'GPT-5.6' 출시 전망…앤트로픽 규제 틈타나",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211949",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-21T11:20:37+00:00",
+    "raw_excerpt": "오픈AI의 차세대 모델 'GPT-5.6'이 이번 주 공개될 것으로 전망됐다. 앤트로픽의 최신 모델 '페이블 5'가 정부 규제에 묶인 사이에 첨단 모델 출시로 사징을 선점하겠다는 의도로 분석됐다.18일(현지시간) AI 전문 매체 테스팅카탈로그 등이 포착한 바에 따르면, 일부 챗GPT 프로 구독자는 이미 'GPT-5.6 프로' 빌드를 테스트 중인 것으로 나타났다.이를 바탕으로 각종 커뮤니티에서는 23일 GPT-5.6가 출시될 것으로 내다봤다. 일부에서는 '미니'와 '프로' 버전까지 한꺼번에 서비스를 시작할 것으로도 예측됐다. 이는 일부",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI가 경쟁사 Anthropic의 규제 지연을 틈타 이번 주 GPT-5.6 출시로 시장 선점을 노리고 있으며, 일부 프로 구독자는 이미 베타 테스트 중인 것으로 파악됐다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211949_215077_459.jpg",
+    "score": 4.595,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+    "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-06-20T16:39:57+00:00",
+    "raw_excerpt": "Jumper isn't the only big name leaving Google DeepMind.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "노벨상 수상자 John Jumper가 DeepMind를 떠나 경쟁사 Anthropic으로 이직했다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2148577076-e1728469833661.jpg?resize=1200,676",
+    "score": 4.547,
+    "engagement": 0,
+    "matched_keywords": [
+      "anthropic",
+      "deepmind"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "🔮 Product eats the AI company; the bitter lesson prevails; Fable 5 as CEO, undersea diplomacy & jellyfish sleep++ #579",
+    "url": "https://www.exponentialview.co/p/ev-579",
+    "source": "Exponential View (Azeem Azhar)",
+    "source_type": "substack",
+    "published_at": "2026-06-21T03:12:26+00:00",
+    "raw_excerpt": "Hi all,",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "I appreciate you sharing this, but I notice the article content itself wasn't included in your message—only the title and header information from Exponential View were provided.\n\n요약을 정확하게 작성하려면 기사의 본문 내용이 필요합니다. 제목만으로는 \"Product eats the AI company\"가 구체적으로 무엇을 의미하는지, 어떤 회사나 제품이 관련되어 있는지 파악할 수 없습니다.\n\n기사의 본문 내용을 함께",
+    "thumbnail": "https://substack-post-media.s3.amazonaws.com/public/images/b1597f16-55bf-4555-9834-22d4d0c154ab_360x270.gif",
+    "score": 4.447,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "\"RAG도 미세조정도 한계\"... 실시간 모델 만드는 '하이퍼네트워크' 뜬다",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211947",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-21T18:39:23+00:00",
+    "raw_excerpt": "장시간 업무에서 한계를 드러내는 자율형 에이전트 문제를 해결하기 위해 '하이퍼네트워크(Hypernetworks)' 기반 전문 모델이 떠오르는 것으로 알려졌다. 기업 맞춤형 지식을 실시간으로 모델에 반영, 높은 자율성과 낮은 운영 비용을 동시에 달성할 수 있을지 관심이 집중되고 있다.벤처비트는 19일(현지시간) 기업들이 원하는 것은 장시간 독립적으로 업무를 수행한 뒤 사람이 최종 결과의 일부만 검토하는 ‘고자율성 에이전트’이지만, 실제 운영 환경에서는 기대만큼 자율적으로 작동하지 못한다고 지적했다.에이전트가 일정 시간 동안 업무를 수",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "하이퍼네트워크 기반 전문 모델이 RAG와 미세조정의 한계를 극복하고 기업 맞춤형 지식을 실시간으로 반영해 자율형 에이전트의 성능을 높이는 새로운 솔루션으로 주목받고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211947_215087_2615.png",
+    "score": 4.341,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Rent collections are down in New York – and no one's sure why",
+    "url": "https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-21T21:54:34+00:00",
+    "raw_excerpt": "Article URL: https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982 Comments URL: https://news.ycombinator.com/item?id=48622987 Points: 12 # Comments: 0",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "뉴욕의 임차료 징수율이 하락하고 있으나 원인이 명확하지 않은 상황이다.",
+    "thumbnail": "",
+    "score": 4.169,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Did my old job only exist because of fraud?",
+    "url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-21T21:40:53+00:00",
+    "raw_excerpt": "Article URL: https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/ Comments URL: https://news.ycombinator.com/item?id=48622867 Points: 5 # Comments: 0",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "저는 기사의 전체 내용을 볼 수 없어 정확한 요약을 제공할 수 없습니다. 제목과 출처, URL 정보만으로는 기사의 구체적인 내용을 파악하기 어렵습니다. \n\n기사 본문의 발췌 내용을 제공해 주시면 핵심을 1줄로 압축 요약해 드리겠습니다.",
+    "thumbnail": "",
+    "score": 4.158,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "FDA advisors unanimously vote to approve Moderna's mRNA after agency drama",
+    "url": "https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-21T21:30:25+00:00",
+    "raw_excerpt": "Article URL: https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/ Comments URL: https://news.ycombinator.com/item?id=48622788 Points: 28 # Comments: 10",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "FDA 자문위원회가 논란 속에서도 모더나의 mRNA 백신 승인에 만장일치로 찬성했다.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2020/12/GettyImages-1290558683.jpg",
+    "score": 4.149,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "PowerFox Browser",
+    "url": "https://powerfox.jazzzny.me/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-21T21:23:13+00:00",
+    "raw_excerpt": "Article URL: https://powerfox.jazzzny.me/ Comments URL: https://news.ycombinator.com/item?id=48622731 Points: 20 # Comments: 6",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "죄송하지만, 제공하신 자료에는 기사의 본문 내용이 없어서 요약할 수 없습니다. 제목과 출처, URL만 있고 실제 기사 내용(원문 발췌)이 부족합니다. PowerFox Browser에 대한 구체적인 내용(무엇인지, 어떤 특징인지, 왜 주목받는지 등)이 필요합니다.",
+    "thumbnail": "https://powerfox.jazzzny.me/assets/img/prodimg.png",
+    "score": 4.143,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Everything Is Logarithms",
+    "url": "https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-21T21:10:32+00:00",
+    "raw_excerpt": "Article URL: https://alexkritchevsky.com/2026/05/25/everything-is-logarithms.html Comments URL: https://news.ycombinator.com/item?id=48622626 Points: 40 # Comments: 0",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "수학적 관점에서 다양한 현상과 알고리즘이 로그 함수로 설명될 수 있다는 주제의 기술 논문이 해커 뉴스 전면에 올랐다.",
+    "thumbnail": "",
+    "score": 4.133,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Stop wasting tokens and re explaining your project between sessions",
+    "url": "https://github.com/raiyanyahya/recall",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-21T21:05:37+00:00",
+    "raw_excerpt": "Article URL: https://github.com/raiyanyahya/recall Comments URL: https://news.ycombinator.com/item?id=48622590 Points: 25 # Comments: 22",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Recall 도구가 AI 프로젝트 설명을 자동으로 저장해 세션 간 반복 설명을 줄여줍니다.",
+    "thumbnail": "https://opengraph.githubassets.com/6841590ce81f9de9a45b2cf73aabeeacb2908d9dec0e3a692b921522d348986f/raiyanyahya/recall",
+    "score": 4.129,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Ask for no, don't ask for yes (2022)",
+    "url": "https://www.mooreds.com/wordpress/archives/3518",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-21T20:17:48+00:00",
+    "raw_excerpt": "Article URL: https://www.mooreds.com/wordpress/archives/3518 Comments URL: https://news.ycombinator.com/item?id=48622234 Points: 63 # Comments: 28",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "요청할 때 거절을 기대하고 접근하면 더 솔직한 답변을 얻을 수 있다는 협상 심리학 원칙입니다.",
+    "thumbnail": "",
+    "score": 4.089,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "JSON-LD Explained for Personal Websites",
+    "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-21T18:51:47+00:00",
+    "raw_excerpt": "Article URL: https://hawksley.dev/blog/json-ld-explained-for-personal-websites/ Comments URL: https://news.ycombinator.com/item?id=48621517 Points: 122 # Comments: 31",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "JSON-LD 구조화 데이터를 개인 웹사이트에 적용하는 방법과 SEO 개선 효과를 설명하는 가이드.",
+    "thumbnail": "https://hawksley.dev/og/blog/json-ld-explained-for-personal-websites.png",
+    "score": 4.017,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "삼성전자, '커넥티드 케어' 헬스 비전 토론… 개방된 협업 생태계 강조",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40605",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-21T18:27:38+00:00",
+    "raw_excerpt": "삼성전자가 19일(현지시간) 프랑스 파리에서 열린 유럽 최대 규모 스타트업∙테크 박람회인 '비바테크(VivaTech) 2026'에서 개방적 협업 기반의 삼성 헬스케어 비전인 '커넥티드 케어(Connected Care)'를 주제로 패널 토론을 진행했다.이날 행사에는 삼성전자 MX 사업부 박헌수 디지털 헬스 팀장과 삼성넥스트 데이빗리 센터장, 젤스(Xealth) 최고경영자(CEO) 마이크 맥쉐리가 참여했다. 또 삼성넥스트의 투자를 받은 제너레이션랩(Generation Lab)의 CEO인 알리나 수와 사이폭스 헬스(SiPhox Healt",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "삼성전자가 파리 '비바테크 2026'에서 개방형 협업 기반의 '커넥티드 케어' 헬스케어 비전을 소개하며 생태계 확대 전략을 공유했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40605_61240_2558_v150.jpg",
+    "score": 3.997,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "한은의 '반도체 보너스발 인플레 경고'...CNBC \"유례없는 규모\" 조명",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211952",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-21T12:14:20+00:00",
+    "raw_excerpt": "국내 반도체 대기업들의 파격적인 성과급 지급 소식이 글로벌 업계의 이슈로 떠올랐다. 단순한 기업 차원의 보상을 넘어, 국가 중앙은행이 물가 상승을 우려하는 요인으로 이 현상을 꼽았다는 점에 주목하며 이를 이례적인 거시경제적 현상으로 비중 있게 다루기 시작했다CNBC는 20일(현지시간) \"한국 반도체 공장 노동자들의 거액 보너스 지급으로 중앙은행이 인플레이션 경고에 나섰다\"라고 보도하며, 성과급 규모와 파급 효과를 집중 조명했다.로이터와 소식통을 인용, 기본급이 8000만원인 메모리 반도체 생산직은 올해 총 성과급으로만 6억2600만",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "한국은행이 반도체 업계의 사상 최대 규모 성과급 지급을 인플레이션 요인으로 경고하자 CNBC 등 글로벌 매체들이 이를 이례적인 거시경제 현상으로 조명했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211952_215081_123.png",
+    "score": 3.993,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "SKT-코리아IT아카데미, 국비 지원 실무형 AX 교육 과정 ‘ALEPH(알레프)’ 교육생 모집",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40604",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-21T17:16:41+00:00",
+    "raw_excerpt": "SK텔레콤(대표이사 CEO 정재헌)이 인공지능 전환(AX) 시대에 필요한 보안·네트워크 분야 인재 양성에 나선다.SKT는 코리아IT아카데미와 함께 고용노동부 K-뉴딜 아카데미 사업의 일환으로 AI 보안·네트워크 분야 실무 인재 양성을 위한 ‘ALEPH(알레프)’를 운영하고 교육생을 모집한다고 21일 밝혔다.ALEPH는 교육비 전액이 국비로 지원되는 실무형 AX 교육 프로그램으로, AI가 기업의 보안·네트워크 운영 환경 전반으로 확산되는 흐름에 맞춰 기획됐다. 기업 인프라 운영에 AI를 적용할 수 있는 실무 역량을 기르는 데 초점을",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "SKT와 코리아IT아카데미가 고용노동부 지원으로 AI 보안·네트워크 분야 실무 인재 양성 프로그램 'ALEPH'의 교육생을 모집한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40604_61239_1622_v150.jpg",
+    "score": 3.938,
+    "engagement": 0,
+    "matched_keywords": [
+      "ax"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Wildcard (YC W25) is hiring an applied ML engineer",
+    "url": "https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-21T17:00:28+00:00",
+    "raw_excerpt": "Article URL: https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer Comments URL: https://news.ycombinator.com/item?id=48620504 Points: 0 # Comments: 0",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Wildcard(YC W25)가 Applied ML 엔지니어를 채용 중입니다.",
+    "thumbnail": "https://bookface-images.s3.amazonaws.com/logos/ded9c49e4caae76b5466102e61073e6b370cb326.png?1738308671",
+    "score": 3.924,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Tell HN: Happy Fathers Day",
+    "url": "https://news.ycombinator.com/item?id=48620502",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-21T17:00:26+00:00",
+    "raw_excerpt": "My shortened story: due to factors in Soviet controlled Poland, my uncle played my dad role. He took me to a quarry to fire Estes-style rocket cars, and all that.. he also managed to steal a Milicja (military police) siren from work, and put it on the back of my banana style bike. As an EE, he made it actually function. Thanks to all the hackers who made us who we are. Comments URL: https://news.ycombinator.com/item?id=48620502 Points: 195 # Comments: 26",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Hacker News 사용자가 소련 통제 폴란드에서 삼촌과의 추억을 나누며 해커 정신에 감사를 표현했다.",
+    "thumbnail": "",
+    "score": 3.924,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "전남, 정부양곡 보관·가공·공급 품질관리 교육",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211906",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-21T09:30:00+00:00",
+    "raw_excerpt": "AI 생성 영상전라남도가 정부양곡 품질관리 역량 강화에 나섰다고 밝혔다.전남은 19일 나주 뉴나주시티호텔에서 정부양곡 관리 효율화 워크숍을 열고, 시군 공무원과 정부양곡 도정공장 대표 등 60여명을 대상으로 보관·가공·공급, 품질 감정 등 현장 실무 교육을 진행했다.이번 워크숍은 정부양곡의 안정적 공급과 품질 신뢰도 향상을 위해 마련됐다. 참석자들은 정부양곡 정책 추진 방향과 쌀 수급관리 방안을 공유하고, 업무 현장의 주요 현안과 애로사항을 함께 다뤘다.교육은 양곡가공기술 도정 이론, 쌀 품질 감정 방법, 양곡 도정 관리 요령을 중",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "전남이 정부양곡의 보관·가공·공급 품질관리 강화를 위해 시군 공무원과 도정공장 대표 60여명을 대상으로 실무 교육 워크숍을 개최했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211906_215024_429.jpg",
+    "score": 3.845,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "[AI는 지금] 몸값 커진 AI 기업들...美 정치권, 규제 압박론 '확산'",
+    "url": "https://zdnet.co.kr/view/?no=20260621123652",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-21T05:01:01+00:00",
+    "raw_excerpt": "[지디넷코리아]인공지능(AI) 성장 이익과 사회적 비용을 둘러싼 논쟁이 미국 정치권에서 새로운 쟁점으로 떠올랐다. 20일(현지시간) 월스트리트저널(WSJ) 등 외신에 따르면 시장은 앤트로픽과 오픈AI 같은 AI 기업 성장성에 주목하고 있지만, 미국 정치권은 AI 확산이 일자리와 전기요금, 국가 안보에 미칠 영향을 더 크게 따지기 시작한 것으로 전해졌다. 버니 샌더스 미국 무소속 상원의원은 최근 대형 AI 기업 지분 절반을 공공이 보유하도록 하는 법안을 발의했다. AI 기업이 창출한 부를 사회 전체에 환원해야 한다는 취지다.샌더스 의원은 \"AI 기업은 성장으로 발생하는 이익을 국민에게 환원해야 한다\"며 \"정부는 이를 사회복지 재원으로 활용해야 한다\"고 밝혔다. 이어 \"향후 AI 기업이 선거자금으로 AI 규제를 옹호하는 후보를 떨어뜨릴 가능성도 있다\"고 주장했다.공화당에서도 AI 기업을 향한 압박이 이어지고 있다. 조시 홀리 공화당 상원의원은 AI가 일자리 감소와 전기요금 상승을 초래할 수 있다며 규제 필요성을 제기했다.WSJ은 정치권 압박을 가장 크게 받는 기업으로 앤트로픽을 꼽았다. 앤트로픽은 현재 기업가치 1조 달러(약 1533조원) 평가를 받으며 올가을 기업공개(IPO) 유력 후보로 거론되고 있지만, AI 안전 문제를 두고 미국 정부와 갈등을 빚고 있다.다리오 아모데이 앤트로픽 최고경영자(CEO)는 정부가 AI 모델 사용 범위를 ",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "AI 성장 이익을 둘러싼 논쟁이 미국 정치권의 새로운 쟁점으로 떠오르며 민주·공화 양당이 AI 기업들에 대한 규제 압박을 확산하고 있다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/06/07/d66961662c7dc760a2a6ecdf19e3717f.jpg",
+    "score": 3.844,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai 안전",
+      "규제",
+      "ai 규제",
+      "법안"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Identity verification on Claude",
+    "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-21T12:44:13+00:00",
+    "raw_excerpt": "https://old.reddit.com/r/ClaudeAI/comments/1ubm53n/official_... Comments URL: https://news.ycombinator.com/item?id=48618455 Points: 468 # Comments: 427",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Claude 사용 시 신원 확인 절차가 도입되었습니다.",
+    "thumbnail": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png",
+    "score": 3.711,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "헤르메스, 신규 기여자 수에서 오픈클로 역전...'하네스' 최적화의 승리",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211931",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-20T18:21:36+00:00",
+    "raw_excerpt": "누스 리서치의 오픈소스 AI 에이전트 '헤르메스(Hermes)'이 사용량에서 '오픈클로'를 앞지른 데 이어, 개발자 관심도 측면에서 1위에도 오른 것으로 확인됐다.디 인포메이션은 18일(현지시간) 오픈소스 AI 에이전트 생태계 분석 플랫폼 클로차트(ClawCharts)의 깃허브 통계를 인용, '헤르메스 에이전트'가 최근 30일 기준 신규 깃허브 기여자 수에서 오픈클로를 앞질렀다고 보도했다.신규 기여자 수는 오픈소스 프로젝트에 대한 개발자 참여도를 보여주는 주요 지표로 평가된다.이에 앞서 지난 5월에는 오픈라우터의 글로벌 트래픽 랭킹",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Nous Research의 오픈소스 AI 에이전트 '헤르메스'가 신규 기여자 수에서 '오픈클로'를 역전하며 개발자 관심도 1위에 올랐다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211931_215049_5533.png",
+    "score": 3.675,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Show GN: opencodex — Codex에서 아무 LLM이나 쓸 수 있는 로컬 프록시",
+    "url": "https://news.hada.io/topic?id=30685",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-06-21T08:29:47+00:00",
+    "raw_excerpt": "Codex는 OpenAI 모델만 된다. Claude 쓰고 싶으면? GLM-5.2로 코딩하고 싶으면? OpenAI가 추가해줄 때까지 기다려야 한다. opencodex는 이 문제를 푸는 로컬 프록시다. Codex와 LLM 프로바이더 사이에 끼어서 프로토콜을 실시간으로 번역한다. 스트리밍, 도구 호출, 추론 토큰, 이미지 — 전부 양방향으로 작동",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "opencodex는 Codex를 OpenAI 외 다른 LLM과 호환되도록 하는 로컬 프록시로, 프로토콜을 실시간 번역해 스트리밍과 도구 호출 등을 지원합니다.",
+    "thumbnail": "https://social.news.hada.io/topic/30685",
+    "score": 3.416,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "codex"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "애플 비츠 이어폰, '도청 해킹' 취약점 뒤늦게 패치",
+    "url": "https://zdnet.co.kr/view/?no=20260621085821",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-21T04:51:21+00:00",
+    "raw_excerpt": "[지디넷코리아]애플이 산하 오디오 브랜드 비츠(Beats)의 무선 이어폰 '비츠 스튜디오 버즈'에서 타인이 내 통화와 대화 내용을 몰래 도청할 수 있는 치명적인 보안 취약점을 확인, 소프트웨어 업데이트를 통해 수정했다.결함 보고 약 1년 만에 이뤄진 보안 패치로, 경쟁사들 대비 수개월 늦은 조치다.21일 IT 전문 매체 아르스테크니카 등 외신에 따르면, 문제가 된 취약점은 'CVE-2025-20701'로 이름 지어졌다. 이는 대만 미디어텍의 자회사 아이로하(Airoha)가 제공하는 블루투스 오디오 소프트웨어 개발 키트(SDK)에서 발생한 버그다. 이 취약점을 악용하면 공격자가 사용자 동의 없이 블루투스 오디오 기기를 몰래 페어링할 수 있으며, 추가적인 실행 권한 없이도 원격으로 기기 접근 권한을 획득할 수 있다. 해당 결함의 심각도(CVSS) 평가는 10점 만점에 8.8점으로 '고위험' 수준에 해당한다.이 취약점이 뚫릴 경우, 블루투스 신호 범위 내에 있는 제3자가 원래 페어링된 사용자의 스마트폰이 아닌 자신의 기기를 비츠 스튜디오 버즈에 강제로 연결할 수 있게 된다.독일 보안 기업 인시뉴에이터 소속 연구원인 데니스 기제(Dennis Giese)와 프리더 슈타인메츠(Frieder Steinmetz)는 지난해 6월 이 문제를 최초로 보고하며 \"공격자가 이 취약점을 이용해 표적 기기의 통화 이력이나 연락처를 빼내고, 임의의 번호로 몰래 ",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "애플의 비츠 스튜디오 버즈 이어폰에서 도청 해킹이 가능한 블루투스 취약점이 발견돼 1년 만에 패치됐으며, 보안 업데이트가 경쟁사 대비 수개월 늦었다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/06/21/6b5450449b2d9adc2d44cfe0308382a0.jpg",
+    "score": 3.388,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "취약점",
+      "해킹"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "박준우 베슬AI 리더 \"분산 GPU 최적화, 토큰 시대의 해답\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211798",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-20T22:40:45+00:00",
+    "raw_excerpt": "지구촌 전체가 극심한 GPU 공급 부족(Shortage) 상태에 빠졌다. 단기간에 공급량을 늘릴 수 없는 구조적 한계 속에서 인프라 시장에는 기존 자원을 아껴 나눠 쓰는 일종의 ‘아나바다’ 바람이 불고 있다.전 세계에 흩어진 유휴 GPU 자원을 발굴해 실시간 연결하는 네오클라우드 기업 베슬AI의 박준우 GTM(Go-To-Market) 리더를 만나 쇼티지의 현실과 해법을 들었다.■ 쇼티지보다 무서운 건 확보한 GPU 100% 활용 못 하는 현실베슬AI는 현재의 쇼티지를 물량 자체가 부족하기도 하지만, 막상 비싼 돈을 들여 칩을 확보하",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "베슬AI는 전 세계 유휴 GPU를 실시간 연결하는 분산 최적화로 GPU 부족 문제를 해결하고, 확보한 자원의 활용률 극대화가 핵심이라고 강조했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211798_214996_1135.jpg",
+    "score": 3.259,
+    "engagement": 0,
+    "matched_keywords": [
+      "gpu"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Show GN: 모두의 사과문",
+    "url": "https://news.hada.io/topic?id=30688",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-06-21T11:43:31+00:00",
+    "raw_excerpt": "안녕하세요. 요즘 각종 보안 사고가 많이 터지는 것을 보곤, 사고가 터지기 전에 미리 사과문을 만들어 보는 모두의 사과문 라는 서비스를 만들어 보았습니다. 모두의 사과문 서비스 주소: <a href=\"https://modusorry.vercel.app/",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "AI 보안 사고에 대비해 미리 사과문을 생성하는 '모두의 사과문' 서비스가 출시되었습니다.",
+    "thumbnail": "https://social.news.hada.io/topic/30688",
+    "score": 3.05,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "MS, 올 10월 '오피스 2021' 지원 종료…보안 업데이트도 중단",
+    "url": "https://zdnet.co.kr/view/?no=20260621125714",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-21T07:30:01+00:00",
+    "raw_excerpt": "[지디넷코리아]마이크로소프트가 올해 10월 '오피스 2021' 지원을 종료한다. 이용자는 이후에도 오피스 2021을 사용할 수 있지만 보안 패치와 기능 업데이트를 받을 수 없다. 마이크로소프트는 21일 워드와 엑셀, 파워포인트 등이 포함된 생산성 소프트웨어(SW) 제품군 오피스 2021 지원을 2026년 10월 13일 종료한다고 발표했다. 테크크런치 등 다수 외신은 오피스 2021이 지원 종료 후 대부분 환경에서 사용 가능할 것으로 보고 있다. 실제로 '오피스 2010'과 '오피스 2013'도 지원 종료 이후 상당 기간 사용된 사례가 있었다는 이유에서다.마이크로소프트는 오피스 2021 지원 종료 후 보안 패치와 기능 개선 업데이트는 더 이상 제공되지 않는다고 밝혔다. 오피스 2021에서 새로운 취약점 발견돼도 이를 해결할 방법이 없다는 의미다. 현재 오피스 2021 이용자는 지원 종료를 앞두고 대안을 찾기 시작했다. 영구 라이선스를 선호하는 이용자에게는 '오피스 2024'가 해결책으로 제시됐다. 오피스 2024는 워드와 엑셀, 파워포인트 등을 일회성 구매 방식으로 사용할 수 있는 제품이다.최신 기능과 지속적인 업데이트를 원하는 사용자는 '마이크로소프트 365'로 전환해야 한다. 마이크로소프트 365는 구독 방식으로 운영되며 정기적인 기능 개선과 보안 지원을 제공한다.마이크로소프트는 \"오피스 2021 지원이 중단되면 이용자들은 심각하고",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "MS가 올해 10월 오피스 2021 지원을 종료하며 이후 보안 패치와 업데이트를 제공하지 않아 사용자들이 오피스 2024나 마이크로소프트 365로의 전환을 고려해야 한다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/06/21/82e8730b83ac64761c28d2db61ad04c5.jpg",
+    "score": 3.037,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "취약점"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "르노코리아, AI 에이전트 앞세워 SDV 경쟁력 강화 나선다",
+    "url": "https://zdnet.co.kr/view/?no=20260621131348",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-21T04:13:48+00:00",
+    "raw_excerpt": "[지디넷코리아]르노코리아가 국내외 기업 및 스타트업과의 협업을 기반으로 미래 모빌리티 생태계 확대에 나선다. 자체 개발 중인 인공지능(AI) 에이전트와 파트너사 기술을 공개하며 소프트웨어 중심 차량(SDV) 경쟁력 강화 전략도 제시했다.르노코리아는 지난 18일~19일 서울 코엑스에서 열린 아시아 최대 기술·스타트업 행사 '넥스트라이즈 2026'에 참가해 미래 모빌리티 비전과 오픈 이노베이션 전략을 소개했다고 21일 밝혔다.르노코리아는 '모빌리티 심포니'를 주제로 전시 부스를 열고 국내 연구진이 개발 중인 AI 통합 에이전트 'AI 오케스트레이터' 베타 버전을 선보였다.AI 오케스트레이터는 차량 내 다양한 기능을 통합 제어하며 운전자 맞춤형 서비스를 제공하는 것이 특징이다. 운전자의 선호 시트 위치와 실내 온도, 주행 모드 등을 음성으로 저장·설정할 수 있으며, 스마트폰 일정과 연계한 목적지 추천 기능도 지원한다.전시장에는 카카오모빌리티, 티맵모빌리티, 스매시랩스, 발레오 등 협력사들도 참여했다. 카카오모빌리티는 그랑 콜레오스 차량에 자사 서비스를 적용한 차세대 모빌리티 콘셉트카를 전시했다. 티맵모빌리티는 실제 주행 환경을 입체적으로 구현한 차세대 3D 내비게이션 콘셉트를 공개하며 2027년 상용화 계획을 밝혔다.행사 기간 열린 컨퍼런스에서는 르노그룹과 르노코리아의 오픈 이노베이션 전략도 소개됐다.니콜라 샹프티에 르노그룹 혁신담당 부사",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "르노코리아가 AI 에이전트 'AI 오케스트레이터'를 앞세워 카카오모빌리티, 티맵모빌리티 등 파트너사와 협력해 소프트웨어 중심 차량(SDV) 경쟁력을 강화하고 있다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/06/21/da20021781f53b999ec9735d8088a1aa.jpg",
+    "score": 2.914,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "[증권街소식]하나증권ㆍ대신증권ㆍ한국투자증권",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=46560",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-21T15:25:42+00:00",
+    "raw_excerpt": "◇하나증권, 한국산업은행과 기업·산업정보 협력 MOU 체결하나증권은 지난 19일 한국산업은행과 기업·산업정보 협력을 위한 업무협약(MOU)을 체결했다고 21일 밝혔다.협약에 따라 하나증권은 리서치센터가 발간하는 기업 및 산업 분석 보고서를 산업은행의 기업혁신지원시스템에 제공하게 된다. 해당 자료는 산업은행 임직원의 여신 및 투자 심사, 기술·산업 분석 등 기업금융 업무 수행 과정에서 참고자료로 활용될 예정이다.양 기관은 이번 협약을 계기로 정보 공유 범위를 점차 확대하고, 향후 AI·반도체·이차전지 등 미래 성장산업에 대한 연구 협",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "하나증권이 한국산업은행과 기업·산업정보 협력 MOU를 체결하고 리서치 자료를 제공하기로 했다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202606/46560_44989_122_v150.jpg",
+    "score": 2.884,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "英, 유튜브 등에 공영방송 뉴스 ‘우선 노출’ 방안 검토",
+    "url": "https://zdnet.co.kr/view/?no=20260621102237",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-21T10:30:01+00:00",
+    "raw_excerpt": "[지디넷코리아]영국 정부가 유튜브, 메타 등 사회관계망서비스(SNS)에 공영방송 뉴스 콘텐츠를 보다 눈에 띄게 노출하는 방안을 추진한다.20일(현지시간) 파이낸셜타임스 등 외신에 따르면 영국 정부는 BBC, ITV, 채널4 등 공영 방송의 뉴스 채널과 콘텐츠 노출을 확대하는 규정에 대한 의견 수렴을 이달 중 시작할 계획이다.이번 조치는 신뢰할 수 있는 영국 뉴스가 해외 기업의 알고리즘에 의해 가려지고 있다는 우려를 해소하기 위한 것이다. 현재 젊은 층이 TV 대신 SNS를 통해 뉴스를 소비하는 만큼 허위 정보와 조작 확산 문제에 대응하겠다는 목적이다.논의 중인 규정은 향후 중앙지(전국지)와 지역 신문에도 적용될 수 있다. 틱톡 피드 상단에 뉴스 콘텐츠를 우선 배치하는 방식 등이 거론된다.영국 정부는 BBC 등 방송사들이 동영상·SNS 플랫폼으로 적극 진출하는 것을 지지하고 있다. 또한 월드컵, 올림픽, 윔블던과 같은 주요 스포츠 행사의 주문형(VOD)·스트리밍 권리도 관련 규정 적용 대상에 포함하는 방안을 검토 중이다. 이를 통해 해당 중계권이 별도로 스트리밍 업체에 판매되지 않도록 한다는 구상이다.반면 빅테크 기업들은 ‘우선 노출’에 강하게 반발하고 있다. 이용자 선호에 따라 콘텐츠를 추천하는 알고리즘 체계와 충돌한다는 이유에서다.이와 함께 영국 정부는 디지털 TV 전환 계획도 검토 중이다. 정부가 준비 중인 정책 보고에는 빠르면 ",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "영국 정부가 유튜브·메타 등 SNS에서 BBC·ITV 등 공영방송 뉴스를 우선 노출하도록 하는 규정을 추진 중으로, 허위정보 확산 방지와 신뢰할 수 있는 뉴스 보급을 목표로 하고 있다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/04/28/077fbb5bda5936356702077e7cff2215.jpg",
+    "score": 2.699,
+    "engagement": 0,
+    "matched_keywords": [
+      "빅테크"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "쿠팡이츠서비스, 배달파트너 폭염 대응 강화",
+    "url": "https://zdnet.co.kr/view/?no=20260621141020",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-21T09:30:01+00:00",
+    "raw_excerpt": "[지디넷코리아]쿠팡이츠서비스가 여름철 배달파트너 온열질환 예방을 위해 폭염 대응 지원을 확대한다. 고용노동부와 지방자치단체, 한국노동공제회 등과 협력해 현장 캠페인과 쉼터 운영을 병행한다.쿠팡이츠서비스는 고용노동부의 ‘폭염안전 5대 기본수칙’을 바탕으로 배달파트너 대상 현장 지원을 강화한다고 21일 밝혔다.폭염안전 5대 기본수칙은 물, 냉방, 휴식, 보냉장구, 119 신고 등으로 구성된다. 쿠팡이츠서비스는 이를 기준으로 배달파트너가 폭염 상황에서 수분을 보충하고 휴식할 수 있는 지원 체계를 운영한다.우선 고용노동부, 한국노동공제회, 지자체 등과 함께 폭염 대비 나눔 캠페인을 진행한다. 캠페인은 지난 17일 부천을 시작으로 8월까지 두 달간 10개 지역에서 진행된다.현장을 찾은 배달파트너에게는 대형 텀블러와 커피, 간식, 생수, 이온음료, 여름용품 등을 제공한다. 다음 달에는 아이스커피 교환권도 지급할 예정이다.전국 이동노동자 쉼터 지원도 확대한다. 쿠팡이츠서비스는 전국 50여개 지자체 이동노동자 쉼터에 생수와 이온음료, 포도당 캔디, 쿨스카프, 쿨토시 등 폭염 대비 용품을 비치한다.한국오토바이정비협회와 협력해 전국 140여개 정비센터도 배달파트너 냉방 쉼터로 운영한다. 각 센터에는 에어컨, 냉장고, 정수기 등을 갖춘 휴식 공간을 마련했다. 쉼터는 수도권과 충청, 호남, 영남, 강원, 제주 등 주요 권역에 위치한다.기상 상황에 따른 안",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "쿠팡이츠서비스가 고용노동부, 지자체 등과 협력해 배달파트너 대상 폭염 대응 지원을 확대하며 캠페인, 이동노동자 쉼터, 정비센터 냉방실 등을 운영한다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/06/21/b36099aad3ceb2422f3709659483fbd2.jpg",
+    "score": 2.662,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "스타벅스, 영국·홍콩서 대규모 감원",
+    "url": "https://zdnet.co.kr/view/?no=20260621080122",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-21T06:30:01+00:00",
+    "raw_excerpt": "[지디넷코리아]스타벅스가 영국과 홍콩 사무소 인력을 감축하며 글로벌 조직 효율화에 나섰다. 북미 외 지역 사업에서 직영 운영 비중을 줄이고 라이선스 파트너 중심 체제로 전환하는 전략에 속도를 내는 모습이다.20일(현지시간) 블룸버그통신에 따르면 스타벅스는 중국과 일본을 제외한 아시아태평양(APAC) 지역 사업을 총괄하는 홍콩 사무소 인력의 약 20%를 감원했다. 감원 규모는 약 60명 수준이다.유럽·중동·아프리카(EMEA) 사업 본부가 위치한 영국 런던 사무소에서도 약 120개 직무를 없앴다. 구조조정 이후 런던 사무소에 남게 될 인력 규모는 공개되지 않았다.이번 감원은 스타벅스가 추진 중인 글로벌 조직 재편의 일환이다. 회사는 비용 절감과 함께 중복된 관리 조직과 업무 조정 중심 직무를 줄이기 위해 조직 효율화 작업을 진행해왔다.이번 구조조정으로 일부 업무는 라이선스 파트너로 이관되거나 시애틀 본사 등 여러 지역을 지원하는 조직으로 통합될 예정이다.스타벅스는 지난 5월 글로벌 구조조정 계획을 발표하며 미국 내 인력 감축과 함께 해외 조직 전반에 대한 검토에 착수했다고 밝힌 바 있다.조직 개편의 핵심은 북미 외 지역에서 직영 운영 비중을 줄이고 현지 라이선스 파트너에 더 많은 권한을 부여하는 것이다. 이를 통해 미국을 중심으로 한 직영 사업에 자원과 투자를 집중한다는 전략이다.스타벅스는 제3자 파트너를 활용해 해외 매장 수를 현재의 ",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "스타벅스가 영국·홍콩 사무소에서 180여 명을 감원하며 해외 직영 비중을 줄이고 라이선스 파트너 중심으로 조직을 재편하고 있다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/06/21/1227ba0bf62992d051f298d6d10fb3a8.jpg",
+    "score": 2.549,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "[ZD브리핑] '세기의 재산 분할' 최태원-노소영, SK 주식 놓고 이번 주 공방 재개",
+    "url": "https://zdnet.co.kr/view/?no=20260621135028",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-21T04:52:44+00:00",
+    "raw_excerpt": "[지디넷코리아]지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 제공합니다. '꼭 챙길 뉴스'는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠, 플랫폼, e커머스, 금융, 디지털 헬스케어, 게임, 블록체인, 과학 등의 소식을 담았습니다. 바쁜 현대인들의 월요병을 조금이나마 덜어 줄 '꼭 챙길 뉴스'를 통해 한 주 동안 발생할 IT 이슈를 미리 확인해 보시기 바랍니다. [편집자주]이번 주 산업계에선 삼성전자의 중국 협력사 대응과 노사 현안이 주요 변수가 될 것으로 보입니다. 재계와 정치권에선 최태원 SK그룹 회장과 노소영 아트센터 나비관장의 이혼 재산분할 소송 파기환송심 변론 재개, 한성숙 국무총리 후보자 인사청문회가 주목됩니다. 특히 최 회장과 노 관장 측 조정이 불성립된 후 오는 26일 열리는 첫 변론기일에선 SK㈜ 주식의 분할 대상 포함 여부와 재산분할 기준 시점 등이 관심을 받을 것으로 보입니다. AI·소프트웨어·보안 분야에서는 기업 행사와 정책 세미나가 잇따를 예정입니다.노태문 삼성전자 DX부문장 사장은 이번 주 BOE 등 중국 협력사를 방문할 예정입니다. 노태문 사장은 스마트폰을 만드는 MX사업부장도 맡고 있는데, DX부문에는 TV를 만드는 VD사업부도 있습니다. 노태문 사장의 방중 일정에 동참하는 임직원 구성에 따라 BOE 등과 논의할 사항도 윤곽이 드러날 것으로 예상됩니다. ",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "최태원 SK그룹 회장과 노소영 아트센터 나비관장의 이혼 재산분할 소송이 이번 주 변론기일을 앞두고 SK 주식 분할 대상 포함 여부 등을 두고 공방을 재개할 예정이다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/06/15/c66eb2f3cbc0df54744ef6f2cd5cd836.jpg",
+    "score": 2.488,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  }
+]
