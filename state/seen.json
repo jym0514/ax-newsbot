@@ -694,7 +694,7 @@
     "79110ff68837bfb7": "https://image.zdnet.co.kr/2026/06/22/c8e5c2a8e1b430ef09499b41144691bd.jpg",
     "4607075804d9cead": "https://img.etnews.com/news/article/2026/06/17/news-p.v1.20260617.47a6d9af81da4128a90c051ec0662d70_P1.png"
   },
-  "last_sent_date": "2026-06-22",
+  "last_sent_date": "2026-06-23",
   "sent": {
     "2026-06-18": [
       "evening"
@@ -707,6 +707,9 @@
       "morning",
       "noon",
       "evening"
+    ],
+    "2026-06-23": [
+      "morning"
     ]
   }
 }
