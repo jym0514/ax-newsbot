@@ -883,7 +883,7 @@
     "1338138b802c9204": "https://cdn.smarttimes.co.kr/news/thumbnail/202606/46638_45066_422_v150.jpg",
     "0edef3e4e3413e91": "https://cdn.smarttimes.co.kr/news/thumbnail/202606/46637_45065_4120_v150.jpg"
   },
-  "last_sent_date": "2026-06-23",
+  "last_sent_date": "2026-06-24",
   "sent": {
     "2026-06-18": [
       "evening"
@@ -901,6 +901,9 @@
       "morning",
       "noon",
       "evening"
+    ],
+    "2026-06-24": [
+      "morning"
     ]
   }
 }
