@@ -1,0 +1,820 @@
+[
+  {
+    "title": "스페이스X, 앤트로픽·구글 이어 리플렉션과 컴퓨팅 파워 공급 계약",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212020",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-23T17:23:36+00:00",
+    "raw_excerpt": "스페이스X가 오픈소스 AI 스타트업 리플렉션 AI와 수십억달러 규모의 컴퓨팅 자원 공급 계약을 체결하며 AI 인프라 사업 확대에 속도를 내고 있다.월스트리트저널(WSJ)에 따르면, 리플렉션 AI는 22일(현지시간) 스페이스X와 계약을 맺고 미국 테네시주 멤피스의 '콜로서스 2(Colossus 2)' 데이터센터의 컴퓨팅 자원을 이용한다.리플렉션은 2026년 7월1일부터 2029년까지 매월 1억5000만달러(약 2300억원)를 지급하며, 총계약 규모는 약 63억달러(약 9조7000억원)에 달한다.이번 계약을 통해 리플렉션은 엔비디아의",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "스페이스X가 오픈소스 AI 스타트업 리플렉션 AI와 수십억 달러 규모의 컴퓨팅 자원 공급 계약을 체결하며 AI 인프라 사업을 확대하고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212020_215179_4427.jpg",
+    "score": 8.48,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "엔비디아"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "오픈AI, 사이버 보안 강화 위한 ‘데이브레이크’ 확대...GPT-5.5-사이버 버전과 코덱스 시큐리티 플러그인 공개",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40634",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-23T13:02:24+00:00",
+    "raw_excerpt": "오픈AI는 인공지능을 활용해 전 세계 조직의 사이버 보안 역량을 강화하는 데이브레이크(Daybreak)를 확대한다고 22일(현지시간) 밝혔다. 데이브레이크는 소프트웨어 취약점의 발견을 넘어, 검증과 위험도 평가, 패치 개발·테스트 및 배포까지 이어지는 전체 수정 과정을 가속하는 것을 목표로 하는 오픈AI의 사이버 보안 이니셔티브다.오픈AI는 데이브레이크 확대를 통해 코덱스 시큐리티(Codex Security) 플러그인을 공개했다. 코덱스 시큐리티는 단순히 경고를 생성하는 데 그치지 않는다. 팀의 코드와 위협 모델을 이해하고, 위협",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "OpenAI가 사이버 보안 강화를 위한 'Daybreak' 이니셔티브를 확대하며 GPT-5.5-사이버 버전과 Codex Security 플러그인을 공개했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40634_61285_136_v150.jpg",
+    "score": 8.401,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "사이버 보안",
+      "취약점"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "에이프리카, AI 개발·운영 플랫폼 ‘치타’로 공공기관 GPU 자원 활용도 강화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212017",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-23T15:33:24+00:00",
+    "raw_excerpt": "브레인즈컴퍼니(대표 강선근)의 자회사인 AI 전문 에이프리카가 AI 개발·운영 플랫폼 ‘치타(Cheetah)’를 통해 공공기관의 GPU 자원 활용도를 높이는 데 기여했다고 23일 밝혔다. 에이프리카는 치타를 활용해 광주과학기술원(GIST)의 대규모 GPU 기반 HPC-AI 공용 인프라 구축과 인천스타트업파크 POOM 플랫폼 구축을 주도했다. 치타는 AI 모델 개발 환경 생성, 학습 작업 관리, 모델 배포, 파이프라인 운영, 성능모니터링 등을 통합 지원하는 ML옵스·LLM옵스 플랫폼이다. 특히, GPU 사용현황을 바탕으로 자원 배정과",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "에이프리카가 AI 개발·운영 플랫폼 '치타'로 GIST와 인천스타트업파크의 GPU 인프라 구축을 주도하며 공공기관 GPU 자원 활용도를 높였다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212017_215176_040.png",
+    "score": 8.331,
+    "engagement": 0,
+    "matched_keywords": [
+      "gpu",
+      "스타트업"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "이스트소프트·SKT·테라코랩스, 상담 훈련용 'AI 아바타' 개발 맞손",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212005",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-23T13:44:18+00:00",
+    "raw_excerpt": "이스트소프트(대표 정상원)는 SK텔레콤, 테라코랩스와 ‘AI 아바타 기반 정신건강 분야 전문 인력 교육 훈련 솔루션’ 공동 개발을 추진한다고 23일 밝혔다.3사는 정신건강 분야 상담 훈련생이 AI 아바타와 상담을 연습하고 피드백을 받을 수 있는 교육용 AI 솔루션 개발을 목표로 한다.이스트소프트는 자체 실시간 대화형 AI 아바타 서비스 '페르소 인터랙티브'를 적용해 최적화된 음성·영상·표정을 갖춘 AI 아바타를 구현한다.SKT는 대형언어모델(LLM) 기반 AI 에이전트를 담당하며, 훈련 상황에 맞게 자연스러운 대화를 이어가고 목적에",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "이스트소프트·SKT·테라코랩스가 AI 아바타를 통해 정신건강 상담원을 훈련할 수 있는 교육 솔루션을 공동 개발한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212005_215154_2344.png",
+    "score": 8.183,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "llm"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "올거나이즈, 하나증권 AI 챗봇 '하나Q' 구축...\"금융권 AX 사업 확대\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212002",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-23T13:43:46+00:00",
+    "raw_excerpt": "올거나이즈(대표 이창수)는 하나증권의 고객 상담용 AI 챗봇 '하나Q'를 구축했다고 23일 밝혔다.하나Q는 금융상품 안내와 서비스 이용 등 다양한 고객 문의를 처리하는 챗봇으로 올거나이즈의 올인원 대형언어모델(LLM) 플랫폼 '알리'와 검색증강생성(RAG) 솔루션이 적용됐다.기존 시나리오 기반 답변 방식에서 벗어나 사내 지식 기반 검색과 맥락 기반 답변 설계를 통해 정확도를 높인 것이 특징이다.여기에 고객 정보 보호와 망분리 등 금융권 보안 규제에 대응하기 위해 금융 인프라에 최적화된 온프레미스 환경으로 구축했다.올거나이즈는 하나증",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "올거나이즈가 하나증권을 위해 AI 챗봇 '하나Q'를 구축했으며, 이는 RAG 솔루션과 금융 최적화 기술로 정확도를 높이고 보안 규제에 대응한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212002_215150_2854.png",
+    "score": 8.182,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "llm"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "英 정부, \"앨런 튜링의 유산 이어간다\"...차세대 AI 연구소 2곳 설립, 6000만 파운드 투자",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40640",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-23T17:37:00+00:00",
+    "raw_excerpt": "영국 정부가 차세대 인공지능(AI) 기술 개발을 위해 최대 6000만 파운드(약 1220억원)를 투자하고, 옥스퍼드대학교(University of Oxford)와 유니버시티 칼리지 런던(University College London, UCL)을 중심으로 새로운 AI 연구소 2곳을 설립한다.영국 과학혁신기술부(Department for Science, Innovation and Technology)는 23일(현지시간) 옥스퍼드대와 UCL이 주도하는 신규 AI 연구소에 정부 자금을 지원한다고 발표했다. 이번 프로젝트는 AI를 보다 저렴",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "영국 정부가 앨런 튜링의 유산을 계승하며 옥스퍼드대와 UCL 중심으로 차세대 AI 연구소 2곳을 설립하고 6000만 파운드를 투자한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40640_61293_3424_v150.jpg",
+    "score": 7.845,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "\"미래 AI 에이전트 기능은 인터랙션 API 중심으로\"...구글, '인터랙션 API' 정식 출시",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40639",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-23T16:57:51+00:00",
+    "raw_excerpt": "구글(Google)이 23일(현지시간) 생성형 AI 모델과 자율형 에이전트를 위한 차세대 개발 인터페이스 '인터랙션 API(Interactions API)'를 정식 출시하고 AI 에이전트 생태계 구축에 속도를 낸다. 앞으로 제미나이(Gemini) 모델과 AI 에이전트를 활용하기 위한 기본 인터페이스로 채택된다고 덧붙였다.인터랙션 API는 지난해 12월 공개 베타 버전으로 처음 선보인 이후 빠르게 개발자들의 주요 선택지로 자리 잡았다. 구글은 이번 정식 출시와 함께 안정화된 스키마(schema)를 제공하는 동시에 개발자들이 요청해온",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "구글이 생성형 AI와 자율형 에이전트 개발을 위한 '인터랙션 API'를 정식 출시하며 AI 에이전트 생태계 확대에 나섰다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40639_61291_5725_v150.jpg",
+    "score": 7.796,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "최태원 회장, “큰 나무가 모여 숲을 이룬다”… AI 시대 이끌 인재 생태계 키운다",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40637",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-23T13:39:19+00:00",
+    "raw_excerpt": "\"한 사람이 큰 나무로 성장하면 그 아래 또 다른 생명이 자라 결국 숲을 이루듯, 여러분도 각자의 자리에서 큰 나무가 되어 더 많은 사람이 함께 성장할 환경을 만들어주길 바랍니다.\"최태원 SK 회장 겸 한국고등교육재단(KFAS) 이사장이 지난 22일 서울 강남구 재단 빌딩에서 ‘KFAS 신진학자상’ 수상자들과 해외유학을 떠나는 장학생들에게 이같이 당부했다. 이날 행사에는 ‘KFAS 신진학자상’ 수상자 3명, 해외유학장학생 33명, 김유석 한국고등교육재단 대표, 재단 관계자 등 120여명이 참석했다.최 회장은 격려사에서 \"인공지능 시",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "SK 최태원 회장이 한국고등교육재단을 통해 AI 시대를 주도할 인재 양성에 앞장서며 우수 학자와 유학생 36명을 지원하겠다고 밝혔다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40637_61288_385_v150.jpg",
+    "score": 7.547,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "앤트로픽, '클로드' 일부 사용자 신원 확인 도입…7월8일부터 신분증 요구",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212013",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-23T17:35:10+00:00",
+    "raw_excerpt": "앤트로픽이 일부 사용자를 대상으로 신분증 제출을 통한 연령 및 신원 확인 절차를 도입한다. 앤트로픽은 22일(현지시간) 오는 7월부터 일부 사용자에게 정부 발행 신분증 제출을 통한 연령 및 신원 확인을 요구할 수 있다고 밝혔다.이번 조치가 계정 정지와는 무관하며, 사기 행위가 의심되는 소수의 사용자에게 적용되는 항소 절차라고 설명했다. 신원 인증 서비스는 미국 샌프란시스코의 페르소나가 담당한다.최근 공개된 개인정보처리방침에 따르면, 앤트로픽은 7월8일부터 ‘특정 상황’에서 사용자의 나이나 신원을 확인하기 위해 증빙 자료를 요청할 수",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "앤트로픽이 7월 8일부터 일부 사용자를 대상으로 정부 발행 신분증 제출을 통한 신원 및 연령 확인을 요구하기 시작한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212013_215175_5623.jpg",
+    "score": 7.521,
+    "engagement": 0,
+    "matched_keywords": [
+      "개인정보"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "LG화학 김동춘 사장, \"R&D 15조 투입, AI 기반 고부가 소재 사업 재편 가속할 것\"",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40635",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-23T13:15:50+00:00",
+    "raw_excerpt": "LG화학이 2035년까지 R D에 15조를 투자해 인공지능(AI) 기반 고부가 소재 기업으로의 전환에 본격 나선다. LG화학 CEO 김동춘 사장은 지난 22일, 타운홀 미팅에서 반도체·모빌리티·로봇 소재, 항암 신약을 미래 핵심 사업으로 육성하며 포트폴리오 고도화하겠다고 밝혔다. 이번 전략은 글로벌 공급 과잉과 경쟁 심화로 전통 화학 사업의 수익성이 둔화되는 가운데, 고성장 산업 중심으로 수익 구조를 고도화하기 위한 것이다. LG화학은 기존 사업 경쟁력을 지속 강화하는 한편, 기술 경쟁력과 고객 기반을 바탕으로 고부가 사업 비중을",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "LG화학이 2035년까지 R&D에 15조를 투입해 AI 기반 고부가 소재 기업으로 전환하며 반도체·모빌리티·항암 신약 등을 핵심 사업으로 육성한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40635_61286_150_v150.jpg",
+    "score": 7.518,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "광양, 초등아동 점심도시락 배달 29일부터 신청",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212012",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-23T17:10:04+00:00",
+    "raw_excerpt": "AI 생성 영상광양시가 여름방학 기간 초등학생 가정의 점심 부담을 줄이기 위해 점심도시락 배달 지원사업을 추진한다고 23일 밝혔다.모집 대상은 광양에 거주하는 초등아동 가정 120가구이며, 신청은 29일 오전 9시부터 7월1일 오후 6시까지 광양시청 누리집과 MY광양 앱에서 선착순으로 받는다.이번 사업은 학교 급식이 중단되는 방학 기간 가정 내 식사 준비 부담을 줄이고, 초등학생의 건강한 식생활을 지원하기 위해 마련됐다. 특히 맞벌이 가정 등 방학 중 돌봄 공백을 겪는 가구의 점심 준비 부담을 덜어주는 데 초점을 맞췄다.도시락은 7",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "광양시가 여름방학 중 초등학생 가정의 점심 부담 경감을 위해 29일부터 120가구를 대상으로 점심도시락 배달 지원을 신청받는다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212012_215181_133.jpg",
+    "score": 7.487,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "오라클, AI 인프라 투자 확대로 2만1000명 감원",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212026",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-23T17:04:47+00:00",
+    "raw_excerpt": "오라클이 AI 인프라 투자 확대에 따른 비용 절감을 위해 전체 인력의 13%에 달하는 대규모 구조조정을 단행했다.오라클이 22일(현지시간) 발표한 공시 자료에 따르면, 2026 회계연도 기준 총직원 수는 14만1000명으로 집계됐다. 이는 전년 같은 기간의 16만2000명에 비해 2만1000명 감소한 수치다.회사는 이번 인력 조정이 경영진 개편과 제품 라인업 변경, 실적 저하 대응, 그리고 인수합병(M A)에 따른 전략적 변화 등 다양한 요인이 맞물린 결과라고 설명했다. 오라클은 이번 회계연도에 구조조정 관련 퇴직금 및 기타 비용으",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "오라클이 AI 인프라 투자 확대를 위해 전체 인력의 13%인 2만1000명을 감원하는 대규모 구조조정을 단행했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212026_215189_232.png",
+    "score": 7.48,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "매대를 바꾸면 AI가 알아채고 분석한다...리테일트렌드, 소형 매장 올인원 분석 서비스 ‘리테일트렌드 V2’ 출시",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40632",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-23T12:34:01+00:00",
+    "raw_excerpt": "인공지능 기반 방문객 분석 서비스 리테일트렌드(대표 이영수)가 매장의 레이아웃과 집기, 매대, POP 등의 변화를 인공지능(AI)이 스스로 인식하고, 이에 따른 고객 행동 데이터를 자동으로 분석해 주는 ‘매장 변화 감지(Store Layout Change Index, SLCI)’ 기능을 새롭게 선보였다고 23일 밝혔다.그동안 오프라인 매장에서는 인테리어 변경, 상품 진열 변경, POP 교체, 매대 재배치 등의 다양한 개선 활동이 이뤄졌지만 이러한 변화가 실제 고객 행동과 매장 성과에 어떤 영향을 미쳤는지 객관적으로 분석하기 어려웠다",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AI 기반 방문객 분석 서비스 리테일트렌드가 매장 레이아웃 변화를 자동 감지하고 고객 행동 데이터를 분석하는 'SLCI' 기능을 출시했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40632_61283_3332_v150.jpg",
+    "score": 7.466,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "\"코딩 못해도 만든다\"… AI 코딩 도구 '커서', 서울 AI 허브서 세 번째 공식 해커톤 개최",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40631",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-23T12:14:45+00:00",
+    "raw_excerpt": "글로벌 인공지능(AI) 코딩 도구 커서의 국내 공식 빌더 커뮤니티 '팀휴먼'이 오는 27일 서울 AI 허브에서 '커서 해커톤 서울 3회'를 개최한다.이번 행사는 커서와 서울 AI 허브가 처음으로 손잡는 자리로, 개발자와 비개발자가 함께 단 하루 만에 실제 작동하는 AI 프로덕트를 만드는 공개 빌딩 행사다. 팀휴먼이 주최하고 커서가 공식 후원하며, 서울 AI 허브가 공동 협력한다. 참가비는 무료이며, 선발제로 100~150명을 모집한다.이번 해커톤의 핵심 메시지는 '코딩하지 못해도 만들 수 있다'이다. 자연어 명령만으로 AI가 코드를",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AI 코딩 도구 커서가 서울 AI 허브와 함께 27일 해커톤을 개최하며, 비개발자도 자연어 명령만으로 AI 제품을 만들 수 있다는 것을 시연한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40631_61282_1434_v150.jpg",
+    "score": 7.442,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "광양경자청, 폴란드 투자유치기관과 업무협약 체결",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212028",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-23T16:35:00+00:00",
+    "raw_excerpt": "광양만권경제자유구역청(청장 구충곤)은 폴란드 그단스크에서 포메라니아 개발공사와 투자유치 업무 협력 협약을 체결하고, 실질적 협력 증진 방안에 대해 논의했다고 23일 밝혔다.포메라니아 개발공사는 폴란드 북부 보이보데십 지역의 외국인직접투자(FDI) 유치와 지속 가능한 경제성장을 지원하기 위해 설립된 지역투자진흥기관으로 ‘인베스트 인 포메라니아’사업을 수행하고 있으며, 지방정부, 대학, 기업지원기관과 협력해 첨단기술, ICT, E-모빌리티, 재생에너지 등을 핵심으로 부지선정 지원, 공공기관 협력 조정, 투자 후 관리 서비스를 포괄적으로",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "광양만권경자청이 폴란드 포메라니아 개발공사와 투자유치 업무협약을 체결해 양국 간 경제협력을 강화했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212028_215190_832.jpg",
+    "score": 7.439,
+    "engagement": 0,
+    "matched_keywords": [
+      "투자유치"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "사카나, 모델 오케스트레이션 플랫폼 '푸구' 출시...\"페이블 성능 넘어\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212008",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-23T13:58:38+00:00",
+    "raw_excerpt": "사카나 AI가 여러 전문 AI 모델을 상황에 따라 조합·조율해 단일 모델처럼 동작하는 새로운 AI 오케스트레이션 시스템을 출시했다. 이를 통해 현존 최강으로 알려진 앤트로픽의 '페이블 5' 코딩 성능을 능가했다. 사카나 AI는 22일(현지시간) 여러 AI 모델을 하나의 시스템처럼 조율하는 차세대 오케스트레이션 플랫폼 '푸구(Fugu)'를 공개했다. 푸구는 '복어'를 뜻하는 일본어다.푸구는 사용자가 하나의 API 엔드포인트에 요청을 보내면 내부적으로 가장 적합한 AI 모델들을 선택하고, 작업을 분배하며, 결과를 검증·통합해 최종 답변",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "사카나 AI가 여러 AI 모델을 상황에 맞게 조합하는 오케스트레이션 플랫폼 '푸구'를 출시했으며, 앤트로픽의 '페이블 5' 코딩 성능을 능가했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212008_215159_627.jpeg",
+    "score": 7.228,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "순천, 합성니코틴 액상형 전자담배 규제 점검",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212010",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-23T13:42:40+00:00",
+    "raw_excerpt": "AI 생성 영상순천시가 7월15일까지 국민건강증진법상 담배 규제 사항을 집중 점검한다고 23일 밝혔다.2026년 4월24일부터 담배 정의가 확대되면서 합성니코틴 액상형 전자담배도 담배 규제 대상에 포함된 데 따른 조치다. 금연구역 내 전자담배 흡연도 단속 대상이어서 시민과 업소의 주의가 필요하다.주요 점검사항은 금연구역 내 흡연행위, 금연구역 표지판 또는 스티커 부착 여부, 시설 내 흡연실 설치기준 준수 여부, 담배자동판매기 설치 기준 준수 여부, 담배 소매점 담배광고 기준 준수 여부 등이다. 전자담배는 금연구역 내 흡연행위 점검에",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "순천시가 2026년 4월부터 담배 규제 대상에 포함되는 합성니코틴 액상형 전자담배를 비롯한 담배 규제 사항을 7월 15일까지 집중 점검한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212010_215164_1331.jpg",
+    "score": 7.206,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "전남, 한우농가 노동 공백 줄이는 대체인력 사업 추진",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=211997",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-23T13:39:30+00:00",
+    "raw_excerpt": "AI 생성 영상전라남도가 한우농가의 노동 공백을 줄이기 위해 한우농가 삶의 질 향상 시범 지원사업을 추진한다고 23일 밝혔다.질병, 경조사, 입원, 교육 등으로 농가가 자리를 비워야 할 때 전문 대체인력이 사료 급여, 질병 예찰, 축사 관리를 대신 맡는 방식이며 연간 최대 10일까지 이용할 수 있다.한우농가는 매일 사료를 주고 축사를 관리해야 하는 특성상 하루도 농장을 비우기 어렵다. 갑작스러운 병원 입원이나 가족 행사, 장례 등이 생겨도 농장 관리 부담 때문에 개인 일정을 미루는 사례가 많았다는 점에서 이번 사업은 현장 노동 공백",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "전라남도가 질병·경조사 등으로 자리를 비운 한우농가를 위해 전문 대체인력이 사료 급여와 축사 관리를 맡는 시범 지원사업을 추진한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/211997_215144_5821.jpg",
+    "score": 7.202,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "F5, 멀티클라우드 앱 전송·보안 통합…AI 에이전트까지 관리",
+    "url": "https://byline.network/2026/06/23-601/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-06-23T08:11:06+00:00",
+    "raw_excerpt": "기업의 애플리케이션과 인공지능(AI) 시스템이 여러 클라우드와 데이터센터에 흩어지면서 이를 같은 정책으로 관리할 필요성이 커지고 있다. F5는 23일 서울 강남구 웨스틴 서울 파르나스에서 기자간담회를 열고, 하이브리드 멀티클라우드 전반의 애플리케이션 전송과 보안을 통합하는 ‘F5 애플리케이션 전송·보안 플랫폼(F5 Application Delivery and Security Platform, ADSP)’의 통제 범위를 AI 모델과 에이전트까지 확대한다고 밝혔다.",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "F5가 멀티클라우드 환경에서 애플리케이션과 AI 시스템을 통합 관리하는 'ADSP' 플랫폼으로 AI 에이전트까지 보안·전송 관리 범위를 확대했다.",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/06/F5_.jpg",
+    "score": 6.542,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "‘데이터 독점’이 경쟁 우위, 버티컬 플랫폼 수익화 시점은?",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=20939",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-06-23T16:38:34+00:00",
+    "raw_excerpt": "여행 예약 이력, 동네 중고거래 패턴, 새벽배송 구매 데이터, 패션 소비 행동. 이 같은 도메인 특화 데이터가 AI 시대의 주요 자산으로 평가받고 있다. 네이버·카카오 등 거대 플랫폼이 AI를 앞세워 인접 서비스 영역으로 확장하는 가운데, 버티컬 플랫폼은 범용 AI로 대체하기 어려운 도메인 데이터를 바탕으로 각자의 AI 전환 전략을 가속하는 추세다.◇ 버티컬 플랫폼의 특별한 무기 ‘도메인 데이터’스탠퍼드 HAI가 발표한 2026 AI 인덱스 보고서에 따르면, AI 경쟁의 중심이 개별 모델 성능에서 자본과 데이터 및 정책이 결합한 시",
+    "topic": "ai_native",
+    "topic_label": "🧬 AI Native",
+    "summary": "버티컬 플랫폼들이 AI 시대에 범용 AI로 대체 불가능한 도메인 특화 데이터를 경쟁 우위로 활용해 AI 전환을 가속하고 있다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202606/20939_21542_3732.png",
+    "score": 6.299,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai 전환"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "\"AI 보안 목적, 망분리 규제 소외된 핀테크, 균형있게 규제 마련돼야\"",
+    "url": "https://zdnet.co.kr/view/?no=20260623152858",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-23T07:27:06+00:00",
+    "raw_excerpt": "[지디넷코리아]금융위원회가 인공지능(AI) '미토스' 공격 위협에 대응하기 위해 보안 목적의 AI활용을 위한 망분리 규제 완화에서 핀테크와 빅테크는 제외돼 규제 형평성이 어긋난다는 지적이 나왔다.23일 서울 여의도 국회의원회관 제3미나실에서 한국핀테크산업협회·핀테크AI협의회·마이데이터AI포럼이 공동 주관한 'AI시대, 금융시스템을 다시 설계하다' 국회 포럼에 참석한 이혜민 핀테크AI협의회장은 \"고객에게 동일한 금융서비스를 제공하고 동일한 수준의 책임을 지는 사업자라면 혁신을 위한 환경 또한 균형있게 마련돼야 한다\"며 \"중소형 핀테크는 물론이고 빅테크까지 망분리 완화와 관련된 제도에 참여하지 못하고 있는게 현실\"이라고 지적했다.김종현 한국핀테크산업협회장 역시 AI 시대가 상대적으로 소규모 핀테크 기업을 위한 제도적 뒷받침이 필요하다고 진단했다. 김 회장은 \"데이터 접근·보안, 인력과 비용 부담 등은 소규모 핀테크 기업에게 현실적인 장벽으로 다가온다\"며 \"핀테크가 충분한 기술력과 이이디어를 갖추고 있더라도, 제도와 시장환경이 뒷받침하지 못한다면 글로벌 경쟁에 뒤처질 수밖에 없다\"고 부연했다.현제 핀테크산업협회는 망분리 규제 완화에서 핀테크가 소외되지 않도록 금융당국과 해당 내용을 논의하고 있다. 김 회장은 \"금융위와 지속적으로 망분리 규제 완화에 핀테크가 순차적으로 빠른 시일 내 포함될 수 있도록 노력하고 있다\"고 설명했다.이날 토론회에",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "AI 보안 목적의 망분리 규제 완화에서 핀테크와 빅테크가 제외되어 규제 형평성 문제가 제기되고 있으며, 업계는 소규모 핀테크 기업의 경쟁력 강화를 위한 균형있는 제도 마련을 촉구하고 있다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/06/23/0e704f5ad01a3b09d20e08bea4e400fa.jpg",
+    "score": 5.987,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai 보안",
+      "보안",
+      "규제"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "모태펀드-국민성장펀드 '투자 이어달리기' 가동…K-빅테크에 대규모 자금 붓는다",
+    "url": "https://www.etnews.com/20260623000078",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-06-23T05:30:00+00:00",
+    "raw_excerpt": "정부가 모태펀드와 국민성장펀드를 연계해 벤처·스타트업이 글로벌 유니콘을 넘어 빅테크 기업으로 스케일업할 수 있도록 돕는 대규모 '투자 이어달리기' 체계를 본격적으로 가동한다. 민간 벤처캐피털(VC)이 모태펀드로 키워낸 유망 기술기업을 선별하면 국민성장펀드가 대규모 자금을 이어받아 투자하는 부처 간 협업 모델이다. 금융위원회와 중소벤처기업부는 23일 서울 마포구 SVC 서울에서 '모태펀드-국민성장펀드 이어달리기 공동행사'를 개최하고 이 같은 방안",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "정부가 모태펀드와 국민성장펀드를 연계해 벤처·스타트업의 K-빅테크 성장을 지원하는 '투자 이어달리기' 체계를 본격 가동한다.",
+    "thumbnail": "",
+    "score": 5.78,
+    "engagement": 0,
+    "matched_keywords": [
+      "빅테크",
+      "스타트업"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "신한벤처투자, 일본 SBI그룹과 맞손…\"한·일 스타트업 공동 육성\"",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=46613",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-23T15:15:03+00:00",
+    "raw_excerpt": "신한벤처투자가 일본 SBI그룹과 한·일 스타트업 공동 육성 및 크로스보더 투자를 위한 업무협약(MOU)을 체결했습니다. 양사는 신한금융그룹의 신한퓨처스랩과 SBI그룹의 네트워크를 결합하여 국내 유망 스타트업의 글로벌 진출 지원, 공동 펀드 조성 등 양국 벤처 생태계 활성화를 위한 전방위적 협력 관계를 본격화합니다..article-container { width: 100%; max-width: 800px; margin: auto; padding: 5px; box-sizing: border-box; text-align: left; li",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "신한벤처투자가 일본 SBI그룹과 한·일 스타트업 공동 육성 및 크로스보더 투자를 위한 MOU를 체결했습니다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202606/46613_45034_043_v150.jpg",
+    "score": 5.75,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업",
+      "벤처"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "시대 역행하는 공공 보안 규제…국산 보안 기업 설자리 잃어",
+    "url": "https://zdnet.co.kr/view/?no=20260622165311",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-23T08:11:46+00:00",
+    "raw_excerpt": "[지디넷코리아]국내 보안업계가 공공 부문의 경직된 규제로 글로벌 보안 트렌드인 '클라우드 보안' 도입이 가로막혀 있다며 위기감을 토로했다. 규제가 더욱 까다롭다는 금융권도 클라우드 기반 보안 서비스를 빠르게 흡수하고 있는 반면, 공공 시장은 여전히 물리적 장비 구축만을 고집, 국내 보안 산업의 '갈라파고스화'를 부추긴다는 지적이다. 심지어 민간 영역은 외산 제품이 지배하고 있어 국내 보안 기업은 설 자리를 잃고 있는 형국이다.양봉열 로그프레소 대표는 최근 SNS에서 공공기관의 클라우드 보안 도입 실태를 강하게 비판했다.양 대표는 \"공공기관에 제로 트러스트 전환을 제안하는 과정에서 \"클라우드 기반의 보안 액세스 서비스 엣지(SASE)는 클라우드 보안 제품이니 도입할 수 없다. 국가정보원이 이를 허락하지 않는다\"는 답을 들었다\"면서 \"구축형 제품인 제로트러스트 네트워크 액세스(ZTNA) 장비만 도입이 가능하다는 것\"이라고 지적했다.이어 그는 \"지금도 민간 영역은 프리즈마 SASE, Z스캐일러, CATO 등 외산 제품으로 도배돼 있다. 국내 벤더사는 어디에 발을 디뎌야 하는가\"라고 물으며 \"규제가 까다롭다는 금융권도 서비스형 소프트웨어(SaaS)가 개방되기 시작했는데, 서비스형 보안(SECaaS) 도입을 막는 이 심각한 컴플라이언스 문제는 누가 해결해야 하는가\"라고 목소리를 높였다.민간 영역은 이미 글로벌 보안 기업들의 클라우드 기반 SA",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "공공 부문의 경직된 클라우드 보안 규제로 국내 보안 기업들이 시장에서 설 자리를 잃고 있으며, 민간 시장은 외산 제품이 지배하면서 업계의 갈라파고스화가 심화되고 있다.",
+    "thumbnail": "https://image.zdnet.co.kr/2024/03/26/9b3d2cae27358749d79f8a9bf8f8f196.png",
+    "score": 5.353,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "규제"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "코스피 10% 추락 8200선 턱걸이…‘검은 화요일’ 맞은 국내 증시",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=46633",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-23T17:42:47+00:00",
+    "raw_excerpt": "[스마트타임스]국내 증시가 사상 초유의 폭락장을 맞이하며 ‘검은 화요일’을 보냈다. 코스피는 하루 만에 무려 910포인트 넘게 빠지며 10% 가까이 추락했고, 코스닥 역시 900선이 무너지며 올해 상승분을 모두 반납했다. 그간 지수 상승을 견인해 온 대형 반도체주를 중심으로 차익 실현 매물이 쏟아진 것이 결정적 원인으로 분석된다.23일 한국거래소에 따르면 코스피 지수는 전 거래일 대비 910.71포인트(-9.99%) 폭락한 8,203.84에 장을 마감했다. 이날 코스피는 전장보다 0.34% 내린 9,083.54로 출발해 장 초반 잠",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "코스피가 하루 900포인트 넘게 급락하며 10% 가량 떨어져 8200선에서 장을 마감했고, 반도체주 중심의 차익실현이 주요 원인으로 분석됐다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202606/46633_45058_4234_v150.jpg",
+    "score": 5.214,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "공간정보법 개정안에 플랫폼 업계 공개 지적…“형사책임 과도”",
+    "url": "https://www.etnews.com/20260623000431",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-06-23T08:06:48+00:00",
+    "raw_excerpt": "정부가 '국가공간정보 기본법 일부개정법률' 시행령 개정안을 공개한 가운데 보안처리 규정을 두고 플랫폼 업계가 보완을 요구했다. 민간 기업의 보안처리 대상과 의무 발생 시점이 불명확한 상태에서 형사책임부터 부과하는 것은 과도하다는 우려다. 내비게이션처럼 실시간으로 정보를 갱신하는 지도 플랫폼에 건별 사전 심사를 요구하는 것도 현실성이 떨어진다는 지적이다. 한국인터넷기업협회는 23일 국토부가 경기 수원시 국토지리정보원에서 개최한 '국가공간정보 기본",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "정부의 공간정보법 개정안에서 민간 기업의 보안처리 의무가 불명확한 상태에서 형사책임을 부과하는 것이 과도하다는 플랫폼 업계의 지적이 제기됐다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/06/23/news-p.v1.20260623.1d5ca25b94e8422692c525af8781a7c6_P1.jpg",
+    "score": 5.193,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "KT&G 에쎄, 국가브랜드경쟁력지수 담배 부문 17년 연속 1위",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=46629",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-23T17:18:37+00:00",
+    "raw_excerpt": "[스마트타임스] KT G는 초슬림 담배 브랜드 '에쎄(ESSE)'가 한국생산성본부가 주관하는 '2026 국가브랜드경쟁력지수(NBCI)' 담배 부문에서 17년 연속 1위에 선정됐다고 23일 밝혔다.1996년 출시된 에쎄는 올해 출시 30주년을 맞았으며 2004년부터 국내 궐련 시장 점유율 1위를 유지하고 있다.KT G는 캡슐형 제품과 냄새 저감 기술 등을 적용한 신제품을 지속적으로 선보이며 제품군을 확대해왔다.에쎄는 KT G의 대표 수출 브랜드로 현재 전 세계 90여 개국에서 판매되고 있다. 지난해에는 단일 브랜드 기준 해외 매출 1",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "KT&G의 초슬림 담배 브랜드 에쎄가 국가브랜드경쟁력지수 담배 부문에서 17년 연속 1위를 기록했으며, 2004년부터 국내 궐련 시장 점유율 1위를 유지 중이다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202606/46629_45052_491_v150.jpg",
+    "score": 5.191,
+    "engagement": 0,
+    "matched_keywords": [
+      "생산성"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "“항공관제에 스타링크 쓴다”…공항공사, 저궤도 위성 백업망 추진",
+    "url": "https://www.etnews.com/20260623000322",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-06-23T07:30:00+00:00",
+    "raw_excerpt": "한국공항공사가 항공교통관제 백업망 확보를 위해 스타링크 저궤도 위성통신 도입을 추진한다. 소방·전력·항공 등 국가 인프라 분야에 저궤도 위성 활용이 확산하면서 통신주권 확보를 위한 독자망 구축 필요성도 커졌다. 23일 통신 업계에 따르면 한국공항공사는 항공무선표지소의 통신망 이중화를 위해 국내 스타링크 리셀러인 KT SAT(KT샛)과 적용 가능성 검토에 나섰다. 양사는 현장 실사 후 도입 여부를 포함한 구체적 방안을 협의할 계획이다. KT SA",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "한국공항공사가 항공관제 백업망 확보를 위해 스타링크 저궤도 위성통신 도입을 추진 중이며, 이는 국가 인프라의 통신주권 확보 필요성을 반영한다.",
+    "thumbnail": "https://img.etnews.com/news/article/2025/12/03/ams.V01.photo.ETN.P.20251203.P12025120317293907626317417_P1.jpg",
+    "score": 5.155,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "코스맥스그룹, 상하이 HNC 참가…글로벌 건기식 시장 공략",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=46626",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-23T16:33:36+00:00",
+    "raw_excerpt": "[스마트타임스] 코스맥스그룹은 지난 15~17일 중국 상하이에서 열린 건강기능식품 박람회 'HNC 2026'에 참가해 자체 개발 소재와 혁신 제형 기술을 선보였다고 23일 밝혔다.코스맥스그룹의 건강기능식품 ODM 기업인 코스맥스엔비티와 코스맥스바이오는 '웰니스 혁신 기술의 일상화'를 주제로 공동 부스를 운영했다.양사는 소재·제형·패키징·크로스보더(CBEC)를 아우르는 원스톱 솔루션을 소개했다.행사 기간 약 500개 브랜드가 부스를 방문해 제품 개발 상담을 진행했으며 양사는 이번 박람회에서 '스마트 제조 기술 혁신 선도 기업상'을 공",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "코스맥스그룹이 상하이 건강기능식품 박람회 HNC 2026에 참가해 자체 개발 소재와 제형 기술을 선보이며 글로벌 건기식 시장 공략에 나섰다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202606/46626_45049_3537_v150.jpg",
+    "score": 5.149,
+    "engagement": 0,
+    "matched_keywords": [
+      "혁신 기술"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "이재용 회장, 삼성 천안사업장 방문…HBM 라인 직접 챙겨",
+    "url": "https://www.etnews.com/20260623000396",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-06-23T06:47:51+00:00",
+    "raw_excerpt": "이재용 삼성전자 회장이 23일 충남 천안사업장을 방문해 고대역폭메모리(HBM) 생산 라인을 점검하고 현장 임직원을 격려했다. 삼성전자에 따르면 이 회장은 이날 천안사업장 C1·C2 라인을 찾아 사업장 운영 현황과 생산 계획, 기술 개발 진행 상황 등에 대한 설명을 청취했다. 이어 방진복을 착용하고 HBM 패키징 생산라인을 둘러보며 생산 및 품질 경쟁력 현황을 살폈다. 천안사업장은 삼성전자 HBM 후공정과 첨단 패키징을 담당하는 핵심 생산 거점이",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "이재용 삼성전자 회장이 천안사업장의 HBM 생산 라인을 직접 방문해 생산 현황과 기술 개발 상황을 점검했다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/06/23/article_23165803577254.png",
+    "score": 5.111,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[르포]“언젠가는 창업할 겁니다”…'모두의창업' 탈락자들의 다시 쓰는 사업계획서",
+    "url": "https://www.etnews.com/20260623000349",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-06-23T06:30:00+00:00",
+    "raw_excerpt": "“원래는 반려동물 헬스케어 목걸이로 사업화하려고 했는데요. 멘토링을 받으면서 같은 아이템이라도 고객을 다르게 보면 전혀 다른 사업이 될 수 있다는 걸 배웠습니다.” 23일 오후 고려대학교 세종캠퍼스 농심국제관. 반차를 내고 모두의 창업 '재도전 멘토링'을 찾은 직장인 김상민 씨는 “언젠가는 꼭 창업을 해보고 싶다”며 다시 노트를 펼쳤다. 모두의 창업 1차 서류심사에서 탈락했지만 그는 포기 대신 '피봇(Pivot)'을 선택했다. 김 씨는 심사평에",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "'모두의창업' 프로그램 탈락자들이 멘토링을 통해 사업 아이템을 재정의하며 재도전 기회를 얻고 있다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/06/23/news-p.v1.20260623.b74b8452039b404289788c43f8871685_P1.jpg",
+    "score": 5.092,
+    "engagement": 0,
+    "matched_keywords": [
+      "창업"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "美·中 양자전쟁 격화… \"韓 대응 속도 높여야\"",
+    "url": "https://www.etnews.com/20260623000347",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-06-23T05:57:23+00:00",
+    "raw_excerpt": "미국이 양자컴퓨터 실전 도입을 앞당기기 위한 국가 차원 지원에 나섰다. 중국이 정부 주도로 양자기술에 대규모 투자를 이어가는 데 따른 대응이다. 인공지능(AI)에 이어 미·중 양자컴퓨팅 패권 경쟁이 격화되는 모양새다. 우리나라도 양자 대응에 속도를 내야 한다는 지적이 제기된다. 도널드 트럼프 미국 대통령은 22일(현지시간) 양자기술 개발과 보안 강화를 담은 행정명령 2건에 서명했다. 백악관은 연방기관이 기업·대학과 협력해 과학 연구용 양자컴퓨터",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "미국이 양자컴퓨터 실전 도입을 앞당기는 행정명령에 서명하며 중국과의 양자기술 패권 경쟁이 격화되고 있어 한국도 대응 속도를 높여야 한다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/06/23/news-p.v1.20260623.43760e9c771c488fb037c1930f1c5249_P1.png",
+    "score": 5.058,
+    "engagement": 0,
+    "matched_keywords": [
+      "양자"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "한투운용 \"ACE 글로벌AI맞춤형반도체 ETF, 순자산 500억원 돌파\"",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=46619",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-23T14:39:37+00:00",
+    "raw_excerpt": "[스마트타임스]한국투자신탁운용은 ACE 글로벌AI맞춤형반도체 상장지수펀드(ETF)의 순자산액이 500억원을 돌파했다고 23일 밝혔다.한국거래소에 따르면 22일 기준 ACE 글로벌AI맞춤형반도체 ETF의 순자산액은 504억원으로 집계됐다. 연초 대비 406.52% 증가한 수치다.이 ETF의 최근 3개월 수익률은 122.31%로, 국내에 상장된 해외형 ‘반도체’ ETF 23개 중 2위다(레버리지 제외). 최근 6개월 및 1년 수익률은 각각 132.20%, 174.65%다.해당 상품은 맞춤형 반도체(ASIC)를 대표하는 산업을 선별해 소",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "한국투자신탁운용의 ACE 글로벌AI맞춤형반도체 ETF가 순자산 500억원을 돌파하며 연초 대비 406% 이상 급성장했다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202606/46619_45045_3913_v150.jpg",
+    "score": 5.042,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "정부, 휴대폰 안면인증 시행령 개정 착수…시장 우려는 여전",
+    "url": "https://www.etnews.com/20260623000332",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-06-23T05:41:15+00:00",
+    "raw_excerpt": "과학기술정보통신부가 다음달 휴대전화 안면인증 제도 정식 시행을 앞두고 법적 근거 마련에 착수했다. 본인확인 과정에서 생체정보를 활용할 수 있는 규정을 시행령에 명시해 제도 정당성과 지속성을 뒷받침한다는 취지다. 다만 휴대폰 유통 현장에선 아직까지 저조한 인식률과 대체인증 준비 미흡 등으로 인한 혼선을 우려하는 분위기다. 23일 업계에 따르면 과기정통부는 이같은 내용을 담은 '전기통신사업법 시행령 일부개정령안'을 입법 예고했다. 핵심은 휴대전화",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "과학기술정보통신부가 다음달 휴대폰 안면인증 제도 정식 시행을 위해 법적 근거를 담은 시행령 개정에 착수했으나, 시장에서는 낮은 인식률과 대체인증 준비 부족으로 혼선을 우려하고 있다.",
+    "thumbnail": "https://img.etnews.com/news/article/2025/12/23/news-p.v1.20251223.70dca66228234dff81c9a732df4f035e_P1.jpg",
+    "score": 5.042,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "우아한청년들-배달플랫폼노조, 단체협약 체결...\"7년 연속\"",
+    "url": "https://zdnet.co.kr/view/?no=20260623170910",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-23T08:28:38+00:00",
+    "raw_excerpt": "[지디넷코리아]우아한청년들이 배달플랫폼노동조합과 2026년 단체협약을 체결했다. 2020년 플랫폼 업계 첫 단체협약 체결 이후 7년째 교섭을 이어가고 있다.배달의민족 물류서비스를 전담하는 우아한청년들은 민주노총 서비스연맹 배달플랫폼노동조합과 서울 송파구 우아한청년들 본사에서 조인식을 열고 2026년 단체교섭 협상안에 서명했다고 23일 밝혔다.이날 조인식에는 권오중 우아한청년들 대표 등 회사 임직원과 홍창의 배달플랫폼노조 위원장을 포함한 노조 교섭단 등 총 16명이 참석했다.우아한청년들과 배달플랫폼노조는 2020년 단체협약을 체결한 뒤 매년 교섭을 통해 라이더 배달환경 개선 방안을 논의해왔다. 회사 측은 라이더 상생지원금 등 현장 의견을 반영한 제도를 운영해왔다고 설명했다.노사는 라이더 안전과 배달환경 개선을 위한 공동 프로그램도 진행해왔다. 대표적으로 라이더 안전경영위원회 출범, 라이더 위험성평가 공동 진행, 야간 안전운행 캠페인, 혹서기·혹한기 계절성 캠페인, 배달라이더 준법 100일 캠페인 등이 있다.우아한청년들은 최근 라이더 대상 생수 지원과 계절용품 지원, 배달라이더 동행쉼터 운영 등도 병행하고 있다. 고용노동부, 국토교통부, 경찰청 등과의 협약을 바탕으로 전국 배민B마트에서 라이더에게 생수 70만병을 배포하는 사업도 진행 중이다.권오중 우아한청년들 대표는 “라이더가 보다 안전하고 신뢰할 수 있는 환경에서 배달을 수행할 수 있",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "우아한청년들이 배달플랫폼노동조합과 2026년 단체협약을 체결하며 2020년 이후 7년 연속으로 노사 교섭을 진행하고 있다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/06/23/bd23baf5b0bab44fc2d56b9cab834568.jpg",
+    "score": 4.694,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "'기피 보직' 오명 벗나…국책사업 맡은 공무원, 승진 더 빨라진다",
+    "url": "https://zdnet.co.kr/view/?no=20260623171533",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-23T08:17:45+00:00",
+    "raw_excerpt": "[지디넷코리아]중앙부처와 지방정부, 민간기업 간 인사교류가 '기피 보직'으로 밀려난 악순환을 끊기 위해 행정안전부가 칼을 빼들었다. 승진 단축·특별승진·성과급 보장을 앞세워 공무원들이 꺼리던 교류 직위에 인센티브를 붙이기로 한 것이다.행정안전부는 23일 국무회의에서 이 같은 내용을 담은 '지방공무원 임용령' 개정안이 의결됐다고 밝혔다. 개정안은 오는 30일부터 시행된다.이번 개정안은 지난 4월 29일 청와대가 발표한 '공직 역량 강화 태스크포스' 운영 성과의 일환이다. 핵심은 국책사업 등 지역 현안 대응을 위해 신설되는 '핵심 인사교류' 직위 근무자와 지역 투자 유치를 지원하는 '민간기업 전담공무원'에게 인사상 혜택을 주는 것이다.그동안 인사교류 직위는 본청을 벗어나면 승진 심사나 근무평정에서 불리할 수 있다는 인식 탓에 인재 유입이 쉽지 않다는 지적을 받아왔다. 지역 투자 유치나 국책사업 대응 과정에서 중앙부처·지방정부·민간기업 간 협업 역량이 중요해졌지만, 인사상 불이익 우려가 교류 확대의 걸림돌로 작용했다.하지만 이번 개정안에 따라 핵심 인사교류 직위나 민간기업 전담공무원으로 근무한 지방공무원은 최대 1년 범위에서 승진소요 최저연수를 단축받을 수 있다. 감면 기간은 해당 직위 교류 기간의 절반 범위에서 적용된다.해당 직위에서 1년 이상 근무하고 우수한 성과를 낸 공무원에게는 특별승진 기회도 주어진다. 기존 인사교류자에게 적용되던",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "행정안전부가 국책사업과 지역투자 유치를 담당하는 공무원에게 승진 단축·특별승진·성과급 보장 등 인사상 혜택을 제공해 기피 보직 악순환을 개선하기로 했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2025/11/06/73e0223d6deba6fc618d97e758bd7b1c.jpg",
+    "score": 4.684,
+    "engagement": 0,
+    "matched_keywords": [
+      "투자 유치"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "스페이스X의 재진입 캡슐 '스타폴' 첫 비행 나선다 [우주로 간다]",
+    "url": "https://zdnet.co.kr/view/?no=20260623155839",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-23T08:07:28+00:00",
+    "raw_excerpt": "[지디넷코리아]스페이스X의 팰컨9 로켓이 지구 저궤도에서 전 세계 어디든 화물을 운송할 수 있도록 설계된 신형 회수 캡슐을 시험 비행할 예정이라고 우주 전문 매체 아스테크니카 등 외신들이 23일 보도했다.‘스타폴(Starfall)’로 불리는 이 원반형 재진입 캡슐은 스페이스X가 극비리 개발해 온 것이다. 지난달 미국 연방항공청(FAA)이 공개한 환경영향평가 보고서에 따르면, 이 캡슐은 \"우주를 통한 물품 운송 및 배송을 지원하는 것\"으로 설계됐다. 스페이스X는 첫 발사 임무를 철저한 보안 속에 진행하고 있다.스타폴은 23일 오전 6시 43분(미국 동부시간 기준, 한국시간 19시 43분) 팰컨9 로켓에 탑재돼 발사된다. 팰컨9 로켓은 지구를 두 바퀴 돈 후, 스타폴을 대기권으로 진입시킨 후 로켓 상단부는 태평양에 착수할 예정이다.스타폴은 팰컨9 및 팰컨 헤비 로켓에 탑재되어 저궤도(LEO) 공간으로 화물을 운반하고, 다시 안전하게 지구로 귀환시키는 '화물 전용 수송선'이다. 유인 우주선과 달리 의약품이나 궤도 내 제조 제품 등 우주 환경에서 실험을 마친 후 회수가 필요한 연구용 화물 수송에 초점을 맞췄다.이 분야는 현재 제약 산업을 중심으로 급성장 중인 신흥 시장으로, 앞서 민간 스타트업 '바르다 스페이스 인더스트리(Varda Space Industries)'가 유사한 연구용 캡슐을 성공적으로 회수한 바 있다.스타폴은 지름 3.1m, ",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "스페이스X가 저궤도에서 전 세계 어디든 화물을 운송할 수 있는 신형 재진입 캡슐 '스타폴'의 첫 비행을 추진 중으로, 우주 기반 화물 운송 시장 확대를 노린다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/06/23/8a46c7339fac3515d760797b796ade82.jpg",
+    "score": 4.674,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "로블록스-성균관대, 'Games for Change' 게임 쇼케이스 성료",
+    "url": "https://zdnet.co.kr/view/?no=20260623165819",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-23T07:58:19+00:00",
+    "raw_excerpt": "[지디넷코리아]로블록스가 성균관대학교와 손잡고 진행한 산학협력 프로젝트를 통해 대학 정규 교육 과정에 플랫폼을 도입하며 차세대 창작자 양성에 나섰다.로블록스는 성균관대 게임디자인학과 및 영상학과와 공동 기획한 'Games for Change(G4C)' 최종 쇼케이스를 성균관대 국제관 R E 라운지에서 마무리했다고 23일 밝혔다.G4C는 게임을 활용해 교육과 사회문제 해결 등을 도모하는 글로벌 비영리단체다. 로블록스와 글로벌 챌린지를 협업 중이며 현재 한국을 비롯해 호주, 인도 등 4개국 교육기관이 동참하고 있다. 국내에서는 성균관대 RISE 사업단 지원 아래 정규 교과 과정에 로블록스를 정식 도입했다.지난 3월부터 시작된 해당 교과 과정에는 게임 전공자 외에도 경영, 경제, 물리 등 다양한 전공 배경을 지닌 학생 70여 명이 참여했다. 이들은 로블록스 스튜디오를 활용해 코딩 지식이 부족한 상태에서도 두 달 만에 기획부터 테스트까지 마친 20개의 콘텐츠를 제작했다.멀티플레이와 물리 시스템 등 핵심 기능이 내장된 플랫폼 특성상 개발 효율과 협업 시너지가 극대화됐다는 분석이다. 쇼케이스 현장에는 미국 뉴욕대학교(NYU) 교수진과 학생들도 참석해 교류를 이어갔으며, 종합 평가를 거쳐 선정된 우수 3개 팀에게는 미국 연수 기회가 부여된다.이재준 성균관대 교수는 \"이번 협업은 단지 툴을 배우는 것을 넘어 학생들이 창작과 협업, 문제 해결 과정을",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "로블록스가 성균관대와 협력해 대학 정규 교육에 플랫폼을 도입하고 70여 명 학생이 2개월간 20개 콘텐츠를 제작하는 'Games for Change' 프로젝트를 완료했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/06/23/515c54f0ac827c2dd1891ea617296436.png",
+    "score": 4.666,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "'52주 최저가' 한컴라이프케어, 佛 방산 동맹으로 반등 노린다",
+    "url": "https://zdnet.co.kr/view/?no=20260623163732",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-23T07:37:51+00:00",
+    "raw_excerpt": "[지디넷코리아]52주 최저가까지 밀린 한컴라이프케어가 프랑스 방산·로봇 기업과의 협력을 계기로 반등의 실마리를 찾을 수 있을지 주목된다. 올해 들어 주가가 40% 넘게 빠진 가운데 한컴라이프케어가 CBRN 방호와 무인지상체계 등 미래 방산 분야로 사업 보폭을 넓히면서 약해진 투자심리를 되살릴 수 있을지 관심이 쏠린다.23일 한국거래소에 따르면 한컴라이프케어 주가는 전 거래일 대비 6.81% 내린 1725원에 거래를 마쳤다. 장중 한때 1713원까지 밀리며 52주 최저가를 새로 썼다.한컴라이프케어 주가는 올해 초 3000원대에서 출발한 뒤 하락세를 이어 왔다. 이날 종가 기준 연초 대비 하락률은 약 44% 수준으로, 방산 사업 일부 프로젝트 납품 지연과 실적 부진 우려가 주가를 눌렀다. 또 지난 4월 중순 전기차 화재·소방 관련 테마성 매수세 유입으로 2600원 선까지 반등하는 모습을 보였지만, 주가 상승 흐름은 오래가지 못했다.특히 이달 들어 낙폭은 더 커졌다. 주가는 2000원 선 아래로 내려선 데 이어 1700원대 초반까지 밀렸다. 방산·로봇 협력 소식이 나온 이날도 주가가 약세를 보이면서 시장에서는 신사업 기대보다 실적 개선 가시성에 더 민감하게 반응한 모습을 보였다.실제 한컴라이프케어는 이날 프랑스 파리에서 열린 세계 최대 규모 지상·항공 방위·안보 전시회 '유로사토리 2026' 현장에서 프랑스 CBRN 방호 전문기업 우브리(",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "52주 최저가까지 떨어진 한컴라이프케어가 프랑스 방산·로봇 기업과의 협력을 통해 CBRN 방호와 무인지상체계 등 미래 방산 사업 확대로 반등을 노린다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/06/23/1c2366d3b9685ce0d320b4cbdda500bd.jpg",
+    "score": 4.647,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "공연법 시행령 보완 필요성 제기...\"암표는 막되 소비자 피해는 줄여야\"",
+    "url": "https://zdnet.co.kr/view/?no=20260623144042",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-23T07:29:00+00:00",
+    "raw_excerpt": "[지디넷코리아]공연·스포츠 경기 암표 거래를 근절하기 위한 공연법 및 국민체육진흥법 시행령 개정안에 대해 전문가들이 정책 취지에는 공감하면서도 소비자 보호와 제도 실효성을 높이기 위한 보완이 필요하다고 입을 모았다. 정상적인 티켓 양도까지 위축시키지 않도록 소비자 권익을 고려하고, 국내 사업자에만 규제가 집중되지 않도록 형평성과 집행 기준을 명확히 해야 한다는 지적이다.22일 한국온라인쇼핑협회가 개최한 '공연법 및 국민체육진흥법 시행령 개정안 전문가 좌담회'에서는 소비자·업계·국회 관계자들이 참석해 시행령 개정안의 주요 쟁점과 개선 방향을 논의했다.이날 좌담회에는 고형석 한국소비자법학회 명예회장(한국해양대 교수), 하명진 한국온라인쇼핑협회 사무국장, 국회 김대식 의원실 이명재 보좌관 등이 참석했다.참석자들은 암표 거래를 근절해야 한다는 정책 방향에는 공감하면서도 소비자의 정당한 권익 보호와 플랫폼 규제의 형평성, 집행 기준의 명확성이 함께 마련돼야 한다는 데 의견을 같이했다.소비자 측에서는 암표 근절 정책이 필요하지만 정상적으로 티켓을 구매한 소비자까지 제재 대상으로 인식돼서는 안 된다고 지적했다.공연이나 스포츠 경기 관람은 일정 변경이나 개인 사정, 동행인 취소 등으로 티켓을 양도해야 하는 경우가 발생할 수 있는 만큼, 이러한 거래까지 과도하게 제한하면 소비자 혼란과 불안이 커질 수 있다는 것이다.고형석 교수는 \"암표 근절과 소비자",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "암표 거래 근절을 위한 공연법 시행령 개정안에 대해 전문가들이 암표 근절 취지에는 공감하면서도 정상적인 티켓 양도까지 위축시키지 않도록 소비자 보호와 제도 형평성 강화가 필요하다고 지적했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/06/23/90d5e8f833abf6b2064952e99495722f.png",
+    "score": 4.638,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  }
+]
