@@ -1,0 +1,820 @@
+[
+  {
+    "title": "Helping build shared standards for advanced AI",
+    "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-06-23T13:00:00+00:00",
+    "raw_excerpt": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI가 Appia Foundation을 통해 고급 AI의 평가 프레임워크, 안전 관행, 국제 협력을 위한 공동 표준 구축을 지원하고 있다.",
+    "thumbnail": "",
+    "score": 7.027,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+    "url": "https://openai.com/index/gpt-5-immunology-mystery",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-06-23T17:00:00+00:00",
+    "raw_excerpt": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "GPT-5 Pro가 면역학자 Derya Unutmaz의 3년 묵은 T세포 행동 수수께끼를 풀어 암과 자가면역질환 연구를 진전시켰다.",
+    "thumbnail": "",
+    "score": 6.377,
+    "engagement": 0,
+    "matched_keywords": [
+      "gpt-5"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+    "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-06-23T17:00:00+00:00",
+    "raw_excerpt": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise workflows.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Anthropic이 Slack용 Claude Tag를 출시해 기업의 메시지와 워크플로우를 학습하며 조직 맥락을 포착하는 전략을 추진 중이다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-Tag.png?resize=1200,687",
+    "score": 6.221,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "How Omio is building the future of conversational travel",
+    "url": "https://openai.com/index/omio",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-06-23T00:00:00+00:00",
+    "raw_excerpt": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Omio가 OpenAI 기술을 활용해 대화형 여행 서비스를 구현하고 AI 기반 회사로의 전환을 추진하고 있다.",
+    "thumbnail": "",
+    "score": 5.971,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "구글 딥마인드, A24와 전략적 연구 파트너십 ...AI와 영화 제작의 경계 허문다",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40638",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-23T16:39:34+00:00",
+    "raw_excerpt": "구글 딥마인드(Google DeepMind)가 독립영화와 혁신적 콘텐츠 제작으로 유명한 영화 스튜디오 A24와 손잡고 인공지능(AI) 기반 차세대 창작 기술 개발에 나선다.구글 딥마인드는 23일(현지시간) A24와 연구 중심의 전략적 파트너십을 체결했다고 발표했다. 회사는 이번 협력이 세계 최고 수준의 AI 연구기관과 창작자 중심의 영화 스튜디오를 연결하는 최초의 시도라고 설명했다.이번 파트너십의 핵심은 단순한 기술 공급이나 상업적 협력이 아닌 공동 연구개발(R D) 체계를 구축하는 데 있다. 구글 딥마인드 연구진과 A24의 영화",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "구글 딥마인드와 영화 스튜디오 A24가 AI 기반 창작 기술 개발을 위한 전략적 연구 파트너십을 체결했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40638_61290_3912_v150.jpg",
+    "score": 5.707,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "deepmind",
+      "딥마인드"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Sharing a love for calculus",
+    "url": "https://www.technologyreview.com/2026/06/23/1138271/sharing-a-love-for-calculus/",
+    "source": "MIT Tech Review",
+    "source_type": "rss",
+    "published_at": "2026-06-23T21:00:00+00:00",
+    "raw_excerpt": "The national conversation about the value of education is currently dominated by speculation about the risks and positive potential of AI. Whatever your own perspective on that debate, I hope you’ll be glad to know that MIT is also working on a deeply important but comparatively old-fashioned challenge: American high school students’ startlingly uneven access",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "MIT가 AI 논의 속에서도 미국 고등학생들의 불균등한 교육 접근성 문제에 주력하고 있다.",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2025/08/MIT_Sally_Kornbluth_034.jpeg?resize=1200,600",
+    "score": 5.671,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Hollywood is bending the knee to OpenAI",
+    "url": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-06-23T22:03:18+00:00",
+    "raw_excerpt": "Netflix, A24, Focus Features, and Warner Bros.' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO Sam Altman - for distribution deals. And while Neon and Mubi are still said to be interested in the film, this situation makes it seem [ ]",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "넷플릭스·A24·워너브라더스 등 주요 할리우드 스튜디오들이 OpenAI CEO 샘 알트만 전기영화 배급을 거절하며 기술기업에 대한 할리우드의 영향력 약화를 보여준다.",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&strip=all&crop=4.7487503051758%2C21.869598945592%2C95.251249694824%2C74.804666989327&w=1200",
+    "score": 5.221,
+    "engagement": 0,
+    "matched_keywords": [
+      "openai"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+    "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-06-23T13:00:00+00:00",
+    "raw_excerpt": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedIn and TikTok.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "스톡홀름의 Fika Jobs가 AI 면접관과 숏폼 비디오 프로필을 결합한 영상 기반 채용 플랫폼 구축을 위해 400만 달러를 유치했다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/06/Torleif_Svensson-FikaJobsAI.jpeg?w=1200",
+    "score": 5.121,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "ByteDance's Seedance 2.5 breaks the 30-second barrier for AI video generation",
+    "url": "https://the-decoder.com/bytedances-seedance-2-5-breaks-the-30-second-barrier-for-ai-video-generation/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-06-23T12:15:35+00:00",
+    "raw_excerpt": "ByteDance introduced five new AI models at Volcano Engine's FORCE conference. The centerpiece is Seedance 2.5, a video model set to launch in early July. The article ByteDance s Seedance 2.5 breaks the 30-second barrier for AI video generation appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "ByteDance가 7월 초 출시 예정인 Seedance 2.5로 AI 비디오 생성에서 30초 이상의 영상 제작을 가능하게 했다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/02/seedance_20_demo_teaser.png",
+    "score": 5.07,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Cursor announces its own AI model, a new Git platform, and a mobile app",
+    "url": "https://the-decoder.com/cursor-announces-its-own-ai-model-a-new-git-platform-and-a-mobile-app/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-06-23T12:12:40+00:00",
+    "raw_excerpt": "Cursor has revealed new details about its first AI model trained entirely in-house and announced two new products. The article Cursor announces its own AI model, a new Git platform, and a mobile app appeared first on The Decoder .",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Cursor가 자체 개발한 AI 모델과 Git 플랫폼, 모바일 앱을 발표했다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2024/08/cursor_AI_logo.png",
+    "score": 5.067,
+    "engagement": 0,
+    "matched_keywords": [
+      "cursor"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "OpenAI launches new initiative to help find and patch open source bugs",
+    "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-06-23T00:11:31+00:00",
+    "raw_excerpt": "OpenAI is using AI to help the open source community better protect itself.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI가 AI를 활용해 오픈소스 소프트웨어의 보안 취약점을 찾고 패치하도록 지원하는 새로운 프로젝트를 시작했다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
+    "score": 5.065,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Tesla claims driver manually overrode self-driving in deadly Texas crash",
+    "url": "https://www.theverge.com/transportation/955153/tesla-full-self-driving-texas-crash",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-06-23T19:11:04+00:00",
+    "raw_excerpt": "Tesla is pushing back on claims that its Full Self-Driving (FSD) system caused a fatal Texas crash, where a speeding Model 3 barreled into a home, killing a 76-year-old woman inside. In a reply on X, Tesla AI head Ashok Elluswamy says the driver \"manually overrode self-driving by pressing the accelerator all the way to [ ]",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Tesla AI 책임자가 텍사스 치명적 충돌 사건에서 운전자가 수동으로 자율주행을 무시하고 가속 페달을 밟았다고 주장했습니다.",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2233586350.jpg?quality=90&strip=all&crop=0%2C10.730717013576%2C100%2C78.538565972849&w=1200",
+    "score": 5.042,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "스캐터랩, 600억 투자 유치...\"일본서 넷플릭스 제친 '제타' 효과\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212030",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-23T18:01:54+00:00",
+    "raw_excerpt": "AI 캐릭터 채팅 앱 '제타' 운영사 스캐터랩이 600억원 규모의 투자를 유치한 것으로 알려졌다.23일 업계에 따르면, 제타의 이번 투자 라운드에는 에이티넘인베스트먼트, SBVA, 미래에셋벤처투자, 한국투자파트너스가 투자에 참여했다.제타는 올해 6월 기준 누적 가입자 800만명을 돌파했으며, 월 사용 시간 1억시간, 월간 활성 이용자(MAU) 300만명을 기록하고 있다. 지난해 매출은 267억원, 영업이익은 28억원이다.특히 일본에서의 성과가 두드러진다. 지난 4월에는 총 사용 시간 기준으로 일본 엔터테인먼트 카테고리에서 넷플릭스를",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "스캐터랩의 AI 캐릭터 채팅 앱 '제타'가 600억원을 투자받았으며, 일본에서 넷플릭스를 제치며 성장세를 보이고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212030_215193_4438.jpg",
+    "score": 4.957,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처",
+      "투자 유치"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "TAI #210: GLM-5.2 Closes Most of the Open-Weight Gap in Ten Weeks",
+    "url": "https://newsletter.towardsai.net/p/tai-210-glm-52-closes-most-of-the",
+    "source": "Towards AI",
+    "source_type": "substack",
+    "published_at": "2026-06-23T15:01:11+00:00",
+    "raw_excerpt": "Also, SpaceX acquires Cursor, Noam Shazeer joins OpenAI & more.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "GLM-5.2가 10주만에 오픈 가중치 모델과 독점 모델 간 성능 격차를 대부분 해소했다.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!EOS8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56f75ca1-a5c3-40b0-a20f-05aadecf74a7_1600x900.png",
+    "score": 4.781,
+    "engagement": 0,
+    "matched_keywords": [
+      "cursor"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "팀스파르타 “교육·구축·컨설팅까지…AX ‘엔드투엔드’ 책임진다”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212031",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-24T02:00:23+00:00",
+    "raw_excerpt": "“팀스파르타는 AI를 실제 업무 흐름에 반영해 성과를 낼 수 있도록 전 과정을 지원합니다. 대부분의 글로벌 기업에서도 갖추지 못한 역량이라는 점에서, 가능성과 차별점을 긍정적으로 평가해 합류를 결정하게 됐습니다.”팀스파르타는 2019년부터 코딩 교육 서비스 ‘스파르타코딩클럽’으로 잘 알려져 있다. 이제는 교육 역량을 활용해 기업과 개인의 AX를 담당하고 있다. 브랜드와 사업 명칭도 코딩을 뺀 ‘스파르타클럽’으로 바꿨다.박영진 팀스파르타 AX사업본부장은 이에 맞춰 지난 3월 합류했다. 마이크로소프트, 오라클, 워크데이 등을 거친 그가",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "팀스파르타가 AI 교육부터 구축·컨설팅까지 엔드투엔드 지원으로 기업과 개인의 AI 트랜스포메이션을 전담한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212031_215195_2012.png",
+    "score": 4.739,
+    "engagement": 0,
+    "matched_keywords": [
+      "ax"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "유아이패스, 에이전틱 케이스 관리 기능 ‘마에스트로 케이스’ 발표",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=20943",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-06-23T17:48:16+00:00",
+    "raw_excerpt": "유아이패스가 AI 네이티브 방식으로 설계된 새 에이전틱 케이스 관리 기능 ‘마에스트로 케이스(Maestro Case)’를 발표했다. 정형화된 자동화로는 처리하기 어려운 동적이고 예외가 많은 업무까지 AI 에이전트가 사람·시스템과 함께 처리할 수 있도록 한 것이 핵심이다.마에스트로 케이스는 유아이패스의 비즈니스 오케스트레이션 솔루션 ‘마에스트로’ 기능으로 제공된다. 기존 자동화가 명확한 단계가 정해진 프로세스에 적합했다면, 이 기능은 단계별로 변수가 많고 사람의 판단이 자주 필요한 업무를 겨냥했다. 케이스를 단계와 주체, 시스템을 넘",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "UiPath가 AI 에이전트가 동적이고 예외 상황이 많은 업무를 사람·시스템과 함께 처리하는 새로운 에이전틱 케이스 관리 기능 '마에스트로 케이스'를 발표했다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202606/20943_21549_4748.png",
+    "score": 4.734,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "에이전틱",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+    "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+    "source": "Hugging Face Blog",
+    "source_type": "rss",
+    "published_at": "2026-06-23T12:51:55+00:00",
+    "raw_excerpt": "",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "CUGA 경량 프레임워크를 활용한 24개의 실제 작동 에이전트 앱 예제를 소개합니다.",
+    "thumbnail": "https://cdn-uploads.huggingface.co/production/uploads/649d9ad1500fd8d51a675a93/p9JwFYkZS7fB9g2PMFMft.png",
+    "score": 4.647,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "알리바바, 비디오 생성 모델 ‘해피호스 1.1’ 출시...기업용 API 시장 정조준",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212011",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-23T19:11:10+00:00",
+    "raw_excerpt": "알리바바는 22일(현지시간) 차세대 비디오 생성 모델 '해피호스 1.1(HappyHorse)'을 정식 출시하고, 기업 고객과 개발자를 위한 전체 API를 공개했다.연구용 데모나 소비자용 서비스가 아닌, 기업용 소프트웨어 스택에 직접 통합할 수 있도록 설계된 API 제품이다. 알리바바는 출시 후 2주간 40% 할인 프로모션도 제공한다.해피호스 1.0은 올해 4월 아티피셜 애널리시스(AA)의 비디오 아레나(Video Arena)에 익명으로 처음 등장해 주목받았다. 이후 알리바바가 개발사로 확인됐으며, 당시에는 텍스트-투-비디오(Text",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "알리바바가 비디오 생성 모델 '해피호스 1.1'을 정식 출시하고 기업용 API를 공개하며 기업 고객 시장 공략에 나섰다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212011_215169_2441.png",
+    "score": 4.37,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "xAI, ‘그록 빌드’에 장시간 자율 코딩 기능 ‘/goal’ 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212027",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-23T17:58:09+00:00",
+    "raw_excerpt": "커서를 인수한 xAI가 터미널 기반 코딩 에이전트인 ‘그록 빌드(Grok Build)’에 장시간 자율 작업 수행 기능인 ‘골(/goal)’을 추가했다. 사용자가 구현 목표만 제시하면 AI가 계획 수립부터 코드 작성, 실행, 검증까지 스스로 수행하는 기능으로, AI 코딩 에이전트의 자율성을 한 단계 끌어올렸다는 평가다.xAI는 22일(현지시간) 그록 빌드에 새로운 모드인 골을 공개했다.이 기능은 장시간 실행이 필요한 복잡한 개발 작업을 AI에게 위임할 수 있도록 설계됐다. 사용자는 단순히 목표를 입력한 뒤 작업을 넘겨주면 되며, 에이",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "xAI가 터미널 기반 코딩 에이전트 '그록 빌드'에 '/goal' 기능을 추가하여 AI가 계획부터 코드 작성·실행·검증까지 자율적으로 수행할 수 있게 했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212027_215191_1752.png",
+    "score": 4.304,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "[게시판] 플래티어, 에이전틱 쇼핑 앱으로 일본 이커머스 시장 공략 등 단신",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212033",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-23T17:00:00+00:00",
+    "raw_excerpt": "■ AI·DX 전문 플래티어(대표 이상훈)는 에이전틱 디스커버리 플랫폼 ‘젤라또(gelatto)’의 한국 및 일본 시장 전용 모바일 애플리케이션 앱을 구글 플레이스토어와 애플 앱스토어를 통해 이번 주 동시 출시했다고 밝혔다. 현재 젤라또가 확보한 연동 상품 수(SKU)는 150만개를 돌파했으며, 올 연말까지 1000만 SKU 확보를 목표로 하고 있다.■ 센드버드(대표 김동신)는 IT 전문 GS네오텍과 전략적 파트너십을 체결했다고 밝혔다. 이번 협력을 통해 GS네오텍은 센드버드의 AI 컨시어지 플랫폼 delight.ai의 국내 구축",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "플래티어가 에이전틱 쇼핑 앱 '젤라또'를 한·일 시장 출시했으며, 150만 개 상품을 연동했고 연말까지 1000만 개 확보를 목표로 하고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212033_215198_1116.png",
+    "score": 4.251,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전틱"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "United Wizards of the Coast recognized by NLRB",
+    "url": "https://unitedwizardsofthecoast.com/news/2026-06-23-we-have-a-union",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-23T21:57:32+00:00",
+    "raw_excerpt": "Article URL: https://unitedwizardsofthecoast.com/news/2026-06-23-we-have-a-union Comments URL: https://news.ycombinator.com/item?id=48652028 Points: 5 # Comments: 0",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Wizards of the Coast 직원 노조가 미국 국립노동관계위원회(NLRB)로부터 공식 인정을 받았습니다.",
+    "thumbnail": "",
+    "score": 4.172,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "마이크론, 앤트로픽 투자 이어 메모리 공급 파트너십",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212018",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-23T15:07:51+00:00",
+    "raw_excerpt": "메모리 제조사인 마이크론 테크놀로지가 앤트로픽과의 파트너십을 발표했다. 지난달 발표된 전략적 투자에 이어, 차세대 AI 인프라 공급을 위한 협력체계를 구축한다는 내용이다.마이크론은 22일(현지시간) 앤트로픽에 AI 메모리와 스토리지 제품을 공급하고 '클로드' 모델을 도입하는 등 전략적 협약을 발표했다.여기에는 지난달 마감한 앤트로픽의 시리즈 H 투자 사실도 포함됐다. 당시 투자자 명단에는 마이크론을 비롯해 삼성전자와 SK하이닉스도 전략적 투자자로 소개됐다.이번 협력은 데이터센터 구축 비용이 천문학적으로 치솟으면서, AI 기업들이 고",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "마이크론이 앤트로픽에 전략적 투자를 이어 AI 메모리·스토리지 공급 파트너십을 체결하며 차세대 AI 인프라 협력을 강화한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212018_215177_61.jpeg",
+    "score": 4.15,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "ATProto Permissioned Data Proposal Draft",
+    "url": "https://github.com/bluesky-social/proposals/pull/94",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-23T21:29:20+00:00",
+    "raw_excerpt": "Article URL: https://github.com/bluesky-social/proposals/pull/94 Comments URL: https://news.ycombinator.com/item?id=48651727 Points: 5 # Comments: 1",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Bluesky의 ATProto 프로토콜에 허가 기반 데이터 접근 체계를 도입하는 제안이 공개되었습니다.",
+    "thumbnail": "https://opengraph.githubassets.com/442cf9efee61fd336e832c5a8a6da78eba879d6717d25bf248c1570c2bac5ede/bluesky-social/proposals/pull/94",
+    "score": 4.149,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "German rail service suspended due to radio interference",
+    "url": "https://apnews.com/article/germany-trains-halted-communications-radio-problem-deutsche-bahn-e8fd970b2d889f3ae7ce03322d5c726b",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-23T21:19:44+00:00",
+    "raw_excerpt": "Article URL: https://apnews.com/article/germany-trains-halted-communications-radio-problem-deutsche-bahn-e8fd970b2d889f3ae7ce03322d5c726b Comments URL: https://news.ycombinator.com/item?id=48651613 Points: 91 # Comments: 30",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "독일 철도청(Deutsche Bahn)이 무선 간섭으로 인한 통신 장애로 열차 운행을 중단했다.",
+    "thumbnail": "https://dims.apnews.com/dims4/default/32ecc16/2147483647/strip/true/crop/6687x4456+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8d%2F70%2F6936ce11bb50e0f614ec7615c673%2F853cac2c14a3425eb021ee92c53b871b",
+    "score": 4.141,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Algorithmic Monocultures in Hiring",
+    "url": "https://hai.stanford.edu/news/ai-hiring-tools-can-yield-racial-bias-and-systemic-rejection",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-23T18:56:19+00:00",
+    "raw_excerpt": "https://algorithmichiring.github.io/ https://arxiv.org/abs/2605.27371 Comments URL: https://news.ycombinator.com/item?id=48649673 Points: 112 # Comments: 104",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "채용 알고리즘의 단일화가 다양성을 훼손하고 있으며, 이를 분석한 연구가 주목받고 있습니다.",
+    "thumbnail": "",
+    "score": 4.021,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Jerry's Map",
+    "url": "http://www.jerrysmap.com/the-map",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-23T18:40:22+00:00",
+    "raw_excerpt": "https://www.openculture.com/2026/06/this-man-has-been-drawin... Comments URL: https://news.ycombinator.com/item?id=48649435 Points: 254 # Comments: 30",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "한 남성이 45년에 걸쳐 손으로 그린 거대한 지도 'Jerry's Map'이 오픈 컬처에서 소개되며 주목받고 있습니다.",
+    "thumbnail": "",
+    "score": 4.008,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Fired by Google for creating the Google workspace CLI",
+    "url": "https://twitter.com/JPoehnelt/status/2069482265953087602",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-23T18:13:40+00:00",
+    "raw_excerpt": "https://xcancel.com/JPoehnelt/status/2069482265953087602 Comments URL: https://news.ycombinator.com/item?id=48649011 Points: 148 # Comments: 100",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Google이 회사 업무용 CLI 도구를 개발한 직원을 해고했습니다.",
+    "thumbnail": "https://pbs.twimg.com/media/HLhHJvWaoAEBgxd.jpg:large",
+    "score": 3.986,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Show GN: AI 에이전트를 내 걸로 만드는 방법",
+    "url": "https://news.hada.io/topic?id=30768",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-06-23T21:55:53+00:00",
+    "raw_excerpt": "AI 코딩 에이전트랑 매일 작업하는 개발자라면 이 기분 안다. 어제 분명히 우리가 같이 정한 컨벤션인데, 새 세션 열면 백지다. 내가 TypeScript에서 항상 interface 말고 type 쓰는 거, PR 리뷰에서 저 패턴 별로라고 했던 거, 지난주에 겨우 잡은 그 버그의 근본 원인 — 전부 처음 듣는 이",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "AI 코딩 에이전트가 이전 대화 내용과 코딩 컨벤션을 기억하지 못하는 문제를 해결하는 방법에 관한 가이드.",
+    "thumbnail": "https://social.news.hada.io/topic/30768",
+    "score": 3.976,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Swift Package Index joins Apple",
+    "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-23T18:00:58+00:00",
+    "raw_excerpt": "Article URL: https://swiftpackageindex.com/blog/swift-package-index-joins-apple Comments URL: https://news.ycombinator.com/item?id=48648779 Points: 138 # Comments: 44",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Swift Package Index가 Apple에 인수되어 Swift 생태계의 패키지 관리 인프라를 강화하게 되었다.",
+    "thumbnail": "",
+    "score": 3.975,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "FUTO Swipe – A new swipe typing model",
+    "url": "https://swipe.futo.tech/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-23T17:50:22+00:00",
+    "raw_excerpt": "Article URL: https://swipe.futo.tech/ Comments URL: https://news.ycombinator.com/item?id=48648619 Points: 152 # Comments: 48",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "FUTO가 오픈소스 스와이프 타이핑 모델 FUTO Swipe를 출시했습니다.",
+    "thumbnail": "",
+    "score": 3.966,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "San Diego photologs from the 1970s",
+    "url": "https://www.beautifulpublicdata.com/san-diego-photologs-from-the-1970s/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-23T16:55:26+00:00",
+    "raw_excerpt": "Article URL: https://www.beautifulpublicdata.com/san-diego-photologs-from-the-1970s/ Comments URL: https://news.ycombinator.com/item?id=48647823 Points: 131 # Comments: 44",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "1970년대 샌디에이고의 공개 사진 자료가 Beautiful Public Data를 통해 공개되어 도시 역사 연구와 시각적 아카이빙 가치를 제공한다.",
+    "thumbnail": "https://storage.ghost.io/c/7e/ed/7eed3692-c4ce-47fb-af77-6293d8e19002/content/images/size/w1200/2026/06/san-diego-header.png",
+    "score": 3.92,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "멘로시큐리티 “AI 에이전트의 과도한 권한이 위협”",
+    "url": "https://byline.network/2026/06/622/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-06-23T10:11:20+00:00",
+    "raw_excerpt": "권혁인 멘로시큐리티 상무는 지난 18일 서울 잠실 롯데호텔에서 열린 ‘사이버보안 기술 전략 컨퍼런스 2026’에 참석해 이처럼 말했다. 이날 권 상무는 AI 에이전트 시대에 대비해야 하는 세 가지 보안 위협 지점을 제시하고, 멘로 에이전트 런타임 시큐리티(MARS)를 통한 해결책을 소개했다. 보안 위협 지점으로는 ▲과도한 접근 권한 ▲악의적인 데이터 판별 불가 ▲내부 데이터 유출이 분석됐다.",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "멘로시큐리티가 AI 에이전트의 과도한 접근 권한, 악의적 데이터 판별 불가, 내부 데이터 유출을 주요 보안 위협으로 지목하고 해결책을 제시했다.",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/06/Menlo-1.jpg",
+    "score": 3.835,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "이글루코퍼레이션 “취약점 공격 1000배 빨라진 시대, 자율형 SOC 구축 필수”",
+    "url": "https://byline.network/2026/06/622-2/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-06-23T10:08:00+00:00",
+    "raw_excerpt": "황범석 이글루코퍼레이션 기술위원은 지난 18일 서울 잠실 롯데호텔에서 열린 ‘바이라인네트워크 사이버보안 기술 전략 컨퍼런스 2026’에 참석해 이처럼 말했다. 이날 황 위원은 최신 SOC 운영 현황을 점검하고, 자율형 SOC 구축의 필요성을 강조했다. 자율형 SOC의 필요성은 날이 갈수록 강해지고 있다. 미토스 사태가 최근 SOC 운영 현황에 가장 영향을 끼친 것으로 풀이된다. 황 위원은 최근 LLM을 통한 공격이 가능해지면서 취약점 발견부터 무기화까지 걸리는 시간이 약 1000배 단축됐다고 밝혔다. 제로데이(알려지지 않거나 알려졌으나 패치되지 않은 보안 취약점) 및 원데이(취약점이 발견되고 이에 대한 패치가 발표됐지만 아직 적용되지 않은 상태일 때)를 노린 공격이 가속하고 있다. 이에 따라 공격자는 즉시 공격하지만 방어는 복잡한 보고 체계를 거쳐야 하는 대응 시간의 비대칭성도 확대됐다.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "LLM 기반 공격으로 취약점 악용 시간이 1000배 단축되면서 자동화된 자율형 SOC 구축이 필수적이 되고 있다.",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/06/igloo-1.jpg",
+    "score": 3.832,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "취약점"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Claude Code의 “Extended Thinking” 출력 텍스트는 실제 추론이 아님",
+    "url": "https://news.hada.io/topic?id=30766",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-06-23T17:35:11+00:00",
+    "raw_excerpt": "Claude Code는 세션을 디스크에 기록하지만, 로컬 로그의 thinking block 에는 실제 추론 텍스트 대신 600자 길이의 signature 만 남아 있었음 Claude의 추론은 signature로 암호화 되며, 키는 Anthropic이 보유하고 사용자 기기에는 전달되지 않음 ...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Claude Code의 \"Extended Thinking\" 기능은 사용자 기기의 로그에 실제 추론 내용 대신 암호화된 서명만 저장되어 진정한 로컬 추론을 제공하지 않는 것으로 밝혀졌다.",
+    "thumbnail": "https://social.news.hada.io/topic/30766",
+    "score": 3.795,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "claude code"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "SK하이닉스, 나스닥 ADR 상장 추진…최대 22조 원 조달",
+    "url": "https://zdnet.co.kr/view/?no=20260623210957",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-23T12:09:57+00:00",
+    "raw_excerpt": "[지디넷코리아]SK하이닉스가 미국 나스닥(Nasdaq)에 미국주식예탁증서(ADR) 상장을 추진한다. 로이터(Reuters)는 6월 10일 SK하이닉스가 이번 상장에서 전체 발행 주식의 약 2.5%를 공모해 최대 140억 달러(약 22조 원)를 조달할 것이라고 보도했다. 상장 시점은 이르면 7월 말에서 8월 초로 점쳐진다.준비는 상당히 진척된 상태다. SK하이닉스는 지난 3월 미국 증권거래위원회(SEC)에 비공개로 상장 신청 서류를 제출하고 주관사 선정을 마쳤다. 주관사로는 시티그룹, JP모건, 골드만삭스, 뱅크오브아메리카가 참여한 것으로 전해졌다. ADR은 한국 원주를 미국 예탁기관에 맡기고 그 위에 발행하는 증권으로, 미국 투자자가 달러로 SK하이닉스에 투자하도록 길을 열어 준다.상장 추진의 배경에는 고대역폭메모리(HBM)를 앞세운 AI 메모리 수요 폭증이 있다. SK하이닉스는 엔비디아(NVIDIA)·AMD 등의 AI 가속기에 들어가는 HBM의 핵심 공급사다. 기술·반도체주가 모이는 나스닥에서 'AI 공급사'라는 정체성을 더 효과적으로 평가받을 무대가 열린 셈이다.곽노정 CEO는 지난 3월 \"글로벌 빅테크가 상장된 미국 시장에서 대형 기관투자가들에게 기업가치를 제대로 재평가받겠다\"고 밝힌 바 있다. 미국 상장으로 조달한 자금은 HBM 증설과 첨단 패키징, 차세대 메모리 연구개발에 투입될 것으로 보인다. AI 메모리 슈퍼사이클에 대응",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "SK하이닉스가 나스닥 ADR 상장을 추진하며 최대 22조 원을 조달할 예정으로, AI 메모리 수요 증가에 대응하기 위해 HBM 증설과 R&D에 투자할 계획이다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/06/23/aid284418cf36c5dc5dcb3b300c22aa2a7.jpg",
+    "score": 3.662,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "빅테크",
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "GLM-5.2를 로컬에서 실행하는 방법",
+    "url": "https://news.hada.io/topic?id=30760",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-06-23T10:44:31+00:00",
+    "raw_excerpt": "744B 파라미터 와 40B 활성 파라미터, 1M 컨텍스트 윈도우를 갖춘 Z.ai의 새 오픈 모델로, 롱 호라이즌 코딩·추론·에이전트 작업에서 SOTA 성능 제공 Unsloth Dynamic GGUF 를 통해 로컬 하드웨어에서 실행 가능하며, Claude 4.8 Opus·GPT-5.5·Gemi...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Z.ai의 새 오픈 모델 GLM-5.2가 Unsloth Dynamic GGUF를 통해 로컬 환경에서 실행 가능하며, 1M 컨텍스트 윈도우로 코딩·추론 작업에서 최고 성능을 제공한다.",
+    "thumbnail": "https://social.news.hada.io/topic/30760",
+    "score": 3.509,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "gpt-5"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "GSMA MWC26 상하이, 글로벌 모바일 커뮤니티 집결 예정… 모바일, 2030년까지 중국 경제에 2조 달러 이상 기여할 것으로 예측",
+    "url": "https://zdnet.co.kr/view/?no=20260623201003",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-23T11:10:03+00:00",
+    "raw_excerpt": "[지디넷코리아] 로봇 축구 선수부터 업계 선도 연사들, 포뮬러 E 및 몰입형 존에 이르기까지 MWC26 상하이, 6월 24일 개막하여 글로벌 연결성의 미래를 형성하는 혁신과 아이디어 선보여 상하이, 2026년 6월 23일 /PRNewswire/ -- 글로벌 연결성 커뮤니티가 MWC26 상하이(MWC26 Shanghai)에서 만날 준비를 하는 가운데, GSMA가 중국이 전 세계 5G 연결의 40% 이상을 차지한다는 새로운 연구를 발표했다. 행사에 앞서 GSMA는 모바일 이코노미 차이나 2026(Mobile Economy China 2026) 보고서를 출시하고, 참석자들이 기대할 수 있는 혁신과 라이브 경험을 미리 공개했다. 하이라이트에는 휴머노이드 로봇 축구 페널티 챌린지(Humanoid Robot Football Penalties Challenge)와 아시아 글로벌 모바일 어워드(GLOMOs Asia) 출시가 포함된다. GSMA의 시한 보 천(Sihan Bo Chen) 그레이터 차이나 책임자는 다음과 같이 말했다. \"중국은 이제 전 세계 5G 연결의 40% 이상을 차지하며, 모바일 기술은 2025년 1조 5000억 달러의 경제적 가치를 창출했다. 이 수치들은 연결성을 훨씬 넘어 생산성, AI 기반 서비스, 지속 가능한 경제 성장을 위한 플랫폼이라는 훨씬 더 보편적인 무언가로 발전한 산업의 이야기를 전한다. 이를 직접 살아 숨 쉬는 사",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "중국이 전 세계 5G 연결의 40% 이상을 차지하며 모바일이 2030년까지 중국 경제에 2조 달러 이상 기여할 것으로 예측되는 가운데 MWC26 상하이가 6월 개막 예정이다.",
+    "thumbnail": "https://zdnet.co.kr/images/default_img.jpg",
+    "score": 3.174,
+    "engagement": 0,
+    "matched_keywords": [
+      "휴머노이드",
+      "humanoid"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "MoneyGram Expands Blockchain Strategy With Solana Validator Role",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=46639",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-23T21:42:46+00:00",
+    "raw_excerpt": "MoneyGram has deepened its involvement in blockchain infrastructure by becoming a validator on the Solana network, marking another step in the remittance company's growing focus on stablecoin-powered payment services.As a validator, MoneyGram will help process transactions and secure the Solana bloc",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "MoneyGram이 Solana 네트워크 검증자로 참여하며 블록체인 기반 송금 서비스 확대를 본격화하고 있습니다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202606/46639_45067_4238_v150.jpg",
+    "score": 3.12,
+    "engagement": 0,
+    "matched_keywords": [
+      "stablecoin"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Ripple Moves Closer to EU-Wide Crypto License Through Luxembourg Approval",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=46638",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-23T21:42:04+00:00",
+    "raw_excerpt": "Ripple has taken a significant step toward expanding its presence in Europe after receiving preliminary approval for a crypto license in Luxembourg under the European Union’s Markets in Crypto-Assets regulation (MiCA).The blockchain company, which developed the XRP Ledger, announced that it had secu",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Ripple이 EU의 암호자산시장규제(MiCA)에 따라 룩셈부르크에서 암호화폐 라이선스 예비 승인을 받아 유럽 확장의 발판을 마련했다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202606/46638_45066_422_v150.jpg",
+    "score": 3.119,
+    "engagement": 0,
+    "matched_keywords": [
+      "regulation"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Bank of England Unveils Updated Framework for Systemic Stablecoins",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=46637",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-23T21:41:32+00:00",
+    "raw_excerpt": "The Bank of England has published a policy statement and draft rules outlining how systemic pound-backed stablecoins would operate under a future regulatory framework in the United Kingdom. The proposal represents a significant step toward establishing formal oversight for stablecoins that could pla",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Bank of England가 영국에서 파운드화 기반 스테이블코인의 규제 체계를 정식으로 수립하기 위한 정책성명과 초안 규칙을 발표했습니다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202606/46637_45065_4120_v150.jpg",
+    "score": 3.119,
+    "engagement": 0,
+    "matched_keywords": [
+      "regulatory"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  }
+]
