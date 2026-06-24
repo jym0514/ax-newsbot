@@ -1067,7 +1067,7 @@
     "6bc39b1de17df1bc": "https://image.zdnet.co.kr/2026/06/25/93f92e297c3d15c91ae23b1e23f2cd7c.png",
     "c75a851624a8b2f9": "https://cdn.smarttimes.co.kr/news/thumbnail/202606/46670_45098_2010_v150.jpg"
   },
-  "last_sent_date": "2026-06-24",
+  "last_sent_date": "2026-06-25",
   "sent": {
     "2026-06-18": [
       "evening"
@@ -1090,6 +1090,9 @@
       "morning",
       "noon",
       "evening"
+    ],
+    "2026-06-25": [
+      "morning"
     ]
   }
 }
