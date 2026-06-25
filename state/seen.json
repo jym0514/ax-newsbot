@@ -1262,7 +1262,7 @@
     "00f9b7b69738405a": "https://social.news.hada.io/topic/30831",
     "d4722e895379121e": "https://cdn.smarttimes.co.kr/news/thumbnail/202606/46712_45137_4015_v150.jpg"
   },
-  "last_sent_date": "2026-06-25",
+  "last_sent_date": "2026-06-26",
   "sent": {
     "2026-06-18": [
       "evening"
@@ -1290,6 +1290,9 @@
       "morning",
       "noon",
       "evening"
+    ],
+    "2026-06-26": [
+      "morning"
     ]
   }
 }
