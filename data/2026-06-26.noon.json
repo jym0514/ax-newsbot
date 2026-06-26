@@ -1,0 +1,819 @@
+[
+  {
+    "title": "네이버, 대화형 검색 'AI탭' 정식 출시… 5,000만 사용자의 일상으로",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40696",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-26T11:33:02+00:00",
+    "raw_excerpt": "네이버앱 검색홈의 ‘그린닷’이 ‘AI탭’으로 바뀐다.네이버(대표 최수연)는 생성형 AI 기반의 대화형 검색 서비스 ‘AI탭’을 전체 사용자를 대상으로 정식 출시하고 인공지능 검색 경험을 전면 확대한다고 26일 밝혔다.모바일 시대 연결과 발견의 상징으로 검색과 AI 도구를 담아온 ‘그린닷’이 AI탭 중심으로 재편된다. 그린닷의 기능 가운데 멀티모달 검색의 핵심 도구 ‘스마트렌즈’는 검색창에서 바로 이용할 수 있도록 AI탭 버튼 옆에 배치해 접근성을 높였고, ‘음악 검색’은 AI탭 안으로 통합됐다.AI탭은 사용자의 검색 의도와 맥락을",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "네이버가 생성형 AI 기반 대화형 검색 서비스 'AI탭'을 전체 사용자 대상으로 정식 출시하며 검색 경험을 AI 중심으로 재편한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40696_61367_308_v150.jpg",
+    "score": 8.74,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "생성형 ai"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "오픈AI, 'GPT-5.5 인스턴트' 업데이트… \"컨텍스트 추적 능력 강화로 대화 원활\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212129",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-26T11:56:16+00:00",
+    "raw_excerpt": "오픈AI가 무료 버전 '챗GPT'의 기본 모델로 사용되는 'GPT-5.5 인스턴트(GPT-5.5 Instant)'를 대폭 업데이트했다. 이번 개선은 사용자의 의도를 더 정확하게 파악하고 여러 차례 이어지는 대화의 맥락을 유지하는 능력을 강화하는 데 초점을 맞췄다. 오픈AI는 24일(현지시간) 이번 업데이트를 통해 GPT-5.5 인스턴트가 질문의 표면적인 내용이 아니라 사용자가 실제로 달성하려는 목적을 더 잘 이해하도록 개선했다고 밝혔다.특히 조언을 구하거나 계획을 세우고 여러 선택지를 비교하는 상황에서 사용자의 의도를 더 정확하게",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI가 ChatGPT의 기본 모델인 GPT-5.5 인스턴트를 업데이트해 사용자 의도 파악과 대화 맥락 추적 능력을 강화했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212129_215304_4125.jpg",
+    "score": 8.525,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "행안부·방통위·성평등부, AI 탐지 모델로 딥페이크 성범죄 잡는다",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212137",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-26T11:49:22+00:00",
+    "raw_excerpt": "행정안전부·성평등가족부·방송미디어통신위원회는 '딥페이크 성범죄 대응 기술협력을 위한 업무협약'을 체결했다고 25일 밝혔다.세 기관은 ▲AI 딥페이크 탐지·분석모델 공유 및 활용 ▲피해영상물 탐지·삭제·차단 절차 연계 ▲2차 피해 방지를 위한 정보보호·보안조치 등에서 협력을 추진한다.특히 행정안전부가 국립과학수사연구원(국과수)이 개발한 ‘AI 딥페이크 탐지·분석모델’을 관계기관과 공유해 탐지·분석부터 삭제·차단, 피해자 보호까지 이어지는 기술 기반 협력체계를 구축할 예정이다.성평등가족부는 피해영상물 처리·보안 관련 업무기준을 마련해",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "행안부·방통위·성평등부가 국과수의 AI 딥페이크 탐지 모델을 공유해 성범죄 적발부터 삭제·차단까지 통합 대응 시스템을 구축한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212137_215311_031.jpg",
+    "score": 8.515,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "딥페이크"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "뉴빌리티, 유니트리와 손잡고 로봇 솔루션 공동 개발 나선다",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212131",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-26T11:46:44+00:00",
+    "raw_excerpt": "뉴빌리티(대표 강기혁)는 중국 유니트리와 차세대 로봇 솔루션 개발을 위한 양해각서(MOU)를 체결했다고 26일 밝혔다.뉴빌리티의 로보틱스 컴퓨팅 플랫폼 '뉴온(NeuOn)'과 유니트리 로봇을 결합한 솔루션 개발을 목표로 한다. 한국을 중심으로 아시아태평양(APAC) 지역으로 협력도 확대할 예정이다.뉴온은 로봇에 모듈 형태로 장착하는 '애드온' 방식의 컴퓨팅 플랫폼이다. AI 기반 자율항법 기술이 탑재돼 주변 환경을 인식하고 스스로 이동 경로를 계획·주행할 수 있는 것이 특징이다.여기에 자체 컨트롤 센터를 통해 다수의 로봇을 모니터링",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "뉴빌리티가 중국 유니트리와 MOU를 체결해 자사의 로보틱스 AI 플랫폼 '뉴온'과 유니트리 로봇을 결합한 차세대 로봇 솔루션 개발에 나선다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212131_215305_5545.jpg",
+    "score": 8.512,
+    "engagement": 0,
+    "matched_keywords": [
+      "로보틱스",
+      "차세대"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "세계 로봇 석학들 KAIST로..네이처 첫 자율 로보틱스 컨퍼런스 개최",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40695",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-26T11:19:49+00:00",
+    "raw_excerpt": "인공지능(AI)이 디지털 혁신을 이끌었다면, 자율 로보틱스는 그 혁신을 현실 세계로 확장하는 핵심 기술로 주목받고 있다. 이러한 흐름 속에서 자율 로봇의 미래를 조망하는 세계적 학술행사가 KAIST에서 열린다.KAIST(총장 이광형)는 세계적 학술지 네이처(Nature)와 공동으로 오는 10월 13일부터 15일까지 대전 본원에서 ‘2026 네이처 컨퍼런스: 자율 로보틱스(2026 Nature Conference: Autonomous Robotics)’를 개최한다고 26일 밝혔다.네이처가 로보틱스를 단독 주제로 컨퍼런스를 개최하는 것",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "KAIST가 네이처와 공동으로 10월 13~15일 자율 로보틱스 전문 컨퍼런스를 개최하며, 네이처가 로보틱스를 단독 주제로 컨퍼런스를 열기는 처음이다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40695_61365_193_v150.jpg",
+    "score": 7.823,
+    "engagement": 0,
+    "matched_keywords": [
+      "로보틱스",
+      "robotics"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "한전, 전력제어시스템 협력 네트워크 구축...공급망 리스크 공동 대응 나서",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40694",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-26T11:14:52+00:00",
+    "raw_excerpt": "한국전력(사장 김동철, 이하 한전)이 재생에너지 확대와 인공지능(AI) 기술 확산으로 복잡해지는 전력망 환경에 대응하기 위해 전력제어시스템 분야 산·학·연·관 협력체계를 구축하고 국가기반시설 안정성 강화에 나선다.한전은 지난 25일, 한전 경인건설본부에서 ‘제1회 공공기관 전력제어시스템 기술혁신 토론회’를 개최했다. 전력그룹사, 철도·공항·가스 등 공공기관을 비롯해, 한국에너지공과대학교(KENTECH), 전력연구원 및 지멘스(Siemens) 등 산·학·연 관계자들이 대거 참석했다.이번 토론회는 재생에너지 확대에 따른 전력망 운영의",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "한국전력이 재생에너지 확대와 AI 기술 확산에 따른 복잡한 전력망에 대응하기 위해 산·학·연·관 협력체계를 구축하고 전력제어시스템 기술혁신을 추진하고 있다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40694_61364_1433_v150.jpg",
+    "score": 7.817,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "MIT·마이크로소프트, AI 에이전트 전력소비 73% 줄이는 '무라카브' 공개",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40692",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-26T09:30:59+00:00",
+    "raw_excerpt": "인공지능(AI) 산업이 단일 모델 중심 경쟁에서 여러 AI 모델과 도구가 협업하는 'AI 에이전트' 시대로 빠르게 전환되는 가운데, MIT와 마이크로소프트 연구진이 AI 에이전트의 에너지 소비와 운영 비용을 획기적으로 줄일 수 있는 새로운 최적화 플랫폼 '무라카브(Murakkab)'를 25일(현지시간) 공개했다.연구진은 무라카브가 AI 에이전트 워크플로의 설계부터 배포, 실행까지 전 과정을 자동 최적화함으로써 기존 방식 대비 연산량을 약 65%, 에너지 소비를 73%, 운영 비용을 최대 75%까지 절감할 수 있다고 설명했다.최근 생",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "MIT와 마이크로소프트가 AI 에이전트의 전력소비를 73% 줄이는 최적화 플랫폼 '무라카브'를 공개했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40692_61363_2954_v150.jpg",
+    "score": 7.687,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "애플, 고성능 M6 건너뛰고 ‘온디바이스 AI 특화’ M7 칩 체제 조기 전환",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212132",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-26T11:57:57+00:00",
+    "raw_excerpt": "애플이 맥(Mac)용 자체 칩 전략을 대대적으로 개편한다. 보급형 제품에는 올해 M6 칩을 투입하지만, 그동안 이어져 온 M6 프로(Pro)·맥스(Max)·울트라(Ultra) 등 고성능 파생 모델은 출시하지 않고 곧바로 차세대 AI 중심 아키텍처인 M7 시리즈로 전환하는 이례적인 로드맵을 추진하는 것으로 알려졌다.25일(현지시간) 블룸버그에 따르면, 애플은 현재 M5 시리즈를 판매 중인 가운데 이르면 올해 안에 M6 프로세서를 탑재한 보급형 맥을 선보일 계획이다.M6는 코드명 '코모도(Komodo·H18G)'로 개발되고 있으며, 올",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "애플이 고성능 M6 프로/맥스/울트라 모델을 건너뛰고 온디바이스 AI 특화 M7 칩으로 직접 전환하는 이례적인 로드맵을 추진 중이다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212132_215309_4735.png",
+    "score": 7.552,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "KT클라우드에 카카오 'AI 가드레일' 심는다...AI 안전 생태계 협력",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212133",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-26T11:48:33+00:00",
+    "raw_excerpt": "카카오(대표 정신아)는 KT클라우드와 안전하고 신뢰할 수 있는 AI 서비스 생태계 조성을 위한 양해각서(MOU)를 체결했다고 26일 밝혔다.카카오의 AI 세이프티 기술과 KT클라우드의 AI 인프라 역량을 바탕으로 AI 안전 기술의 개발·검증·확장 3단계를 순차적으로 추진할 예정이다.특히 카카오의 자체 AI 가드레일 모델 '카나나 세이프가드'를 비롯해 모델 안전성 평가, 레드티밍 시스템 등 'AI 세이프티 툴'을 KT클라우드의 AI 플랫폼에 적용한다.카나나 세이프가드는 현재 카카오의 주요 AI 서비스에 적용됐으며, 한국어와 한국 문화",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "카카오가 'AI 가드레일' 기술을 KT클라우드에 적용하여 안전한 AI 서비스 생태계 구축을 위해 협력하기로 했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212133_215306_2413.jpg",
+    "score": 7.539,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai 안전"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "광양시, 워크온 7월 걷기 챌린지 운영",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212145",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-26T11:48:13+00:00",
+    "raw_excerpt": "AI 생성 영상광양시가 시민 건강 증진과 걷기 실천 문화 확산을 위해 7월 한 달 동안 모바일 걷기 앱 워크온을 활용한 걷기 챌린지를 운영한다고 25일 밝혔다.이번 챌린지는 무더운 여름에도 시민들이 일상 속 걷기를 꾸준히 실천하도록 돕기 위한 건강생활 프로그램이다.참여자는 하루 최대 8000걸음까지 인정받을 수 있다. 챌린지 기간 동안 누적 20만 보를 달성하면 상품권 추첨 대상이 된다. 광양은 목표를 채운 참여자 가운데 추첨을 통해 모두 700명에게 광양사랑상품권 5000원권을 지급할 계획이다.광양 지역 제한 설정이 적용되기 때문",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "광양시가 워크온 앱을 이용한 7월 걷기 챌린지를 운영하며, 20만 보 달성자 700명에게 상품권을 제공한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212145_215317_4430.png",
+    "score": 7.539,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "전남, 고향사랑기금으로 취약계층 식사 꾸러미 지원",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212130",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-26T11:45:42+00:00",
+    "raw_excerpt": "AI 생성 영상전라남도가 고향사랑기부금을 활용해 취약계층 600여 세대에 전남산 농수산물로 구성한 식사 꾸러미를 지원하는 ‘전남OK 행복밥상’을 추진한다고 26일 밝혔다.6월부터 10월까지 월 1회 정기 배송하는 시범사업으로, 한부모가정과 조손가정 등 먹거리 지원이 필요한 가구를 중심으로 추진된다.총사업비는 2억원이며 전액 전남 기금으로 운영된다. 지원 대상은 성장기 아동이 포함된 한부모가정과 영양 관리가 취약한 조손가정 등 600여 세대다. 전남은 시군별 여건에 따라 장애인, 독거노인 등 지원이 시급한 취약 가구도 추가로 선정해",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "전라남도가 고향사랑기부금 2억 원을 활용해 6~10월 취약계층 600여 세대에 전남산 농수산물 식사 꾸러미를 월 1회씩 지원하는 시범사업을 추진한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212130_215307_2731.jpg",
+    "score": 7.535,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "구글 핵심 AI 인재 연쇄 이탈에 주가 급락...\"IPO 지분 대박 유혹 때문\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212124",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-26T09:54:01+00:00",
+    "raw_excerpt": "구글의 생성 AI 개발을 이끌던 핵심 연구진이 잇달아 경쟁사로 이탈하면서 주가가 급락했다. 25일(현지시간) 월스트리트저널(WSJ)과 비즈니스 인사이더 등에 따르면, 업계에서는 단순한 연구 환경이나 전략 차이보다 상장을 앞둔 AI 스타트업의 막대한 지분 보상이 인재 이동을 부추기는 핵심 요인으로 분석하고 있다.구글의 '제미나이' 개발을 주도해온 핵심 연구원 요나스 아들러 알렉산더 프리첼이 회사를 떠나 경쟁사인 앤트로픽으로 합류할 예정이다. 두 연구원은 제미나이 모델의 핵심 개발자로 평가받는 인물들이다.이번 이탈은 최근 이어진 구글",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "구글의 AI 핵심 인재들이 상장 예정 AI 스타트업의 막대한 지분 보상에 이끌려 앤트로픽 등 경쟁사로 이탈하면서 주가가 급락했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212124_215300_1214.jpg",
+    "score": 7.384,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "트럼프 행정부, 안보 우려로 \"GPT-5.6 순차적 출시\" 압박",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212122",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-26T09:49:09+00:00",
+    "raw_excerpt": "도널드 트럼프 미국 행정부가 차세대 AI 모델의 국가안보 위험성을 이유로 오픈AI의 최신 모델 'GPT-5.6' 공개를 사실상 통제하면서, 미국 AI 업계 전반에 새로운 출시 관행이 자리 잡고 있다. 자율적인 사전 검토를 표방했던 정부 방침과 달리 실제로는 정부 승인 없이는 최첨단 AI 모델을 공개하기 어려운 분위기가 형성되면서 '사실상의 허가제' 논란도 커지고 있다.디 인포메이션에 따르면, 샘 알트먼 오픈AI CEO는 지난 25일(현지시간) 사내 질의응답에서 GPT-5.6을 일반에 즉시 공개하지 않고 일부 협력사에만 제한적으로 제",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "트럼프 행정부가 국가안보 우려를 이유로 OpenAI의 GPT-5.6 공개를 통제하면서 AI 모델 출시에 정부 승인이 사실상 필수화되는 추세가 나타나고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212122_215298_1232.jpg",
+    "score": 7.378,
+    "engagement": 0,
+    "matched_keywords": [
+      "gpt-5"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "애플, 메모리 폭등에 맥·아이패드 최대 25% 인상",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212123",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-26T09:48:54+00:00",
+    "raw_excerpt": "애플이 AI 데이터센터 확산으로 촉발된 메모리 반도체 공급난과 부품 가격 급등을 이유로 맥과 아이패드를 비롯한 주요 제품 가격을 전격 인상했다. 월스트리트저널(WSJ)에 따르면, 애플은 25일(현지시간) 온라인 스토어를 일시적으로 닫은 뒤 인상된 가격을 적용했다.이번 인상으로 맥 제품은 약 15~20%, 아이패드는 15~25%가량 가격이 올랐다. 아이폰과 애플워치, 에어팟은 이번에는 가격을 유지했지만, 애플은 추가 인상 가능성을 시사했다.이번 조치는 최근 팀 쿡 CEO가 \"부품 가격 상승을 더 이상 자체적으로 흡수하기 어려운 상황\"",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "애플이 AI 데이터센터 수요로 촉발된 메모리 반도체 공급난을 이유로 맥과 아이패드 가격을 최대 25% 인상했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212123_215299_4218.jpg",
+    "score": 7.377,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "오픈AI, 첫 자체 AI 칩 ‘할라페뇨’ 공개... GPU 의존도 낮춘다",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=20951",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-06-25T11:40:34+00:00",
+    "raw_excerpt": "오픈AI가 첫 번째 독자 설계 AI 가속기 ‘할라페뇨(Jalapeño)’를 공개하며 반도체 시장에 뛰어들었다. 챗봇과 모델 개발에 집중해 온 이 회사가 칩 설계까지 영역을 넓힌 것이다. 추론 영역에 특화한 이 칩은 GPU 대비 성능 및 비용 개선을 실현했다. 자체 추론 칩을 생산하는 빅테크 대열에 오픈AI까지 합류하게 되면서, 공고했던 엔비디아 생태계에 점차 변화가 일어나고 있다. ◇ LLM 추론에 특화한 목적 설계 칩오픈AI와 브로드컴은 24일(현지시간) 할라페뇨를 공동 발표했다. 혹 탄 브로드컴 CEO와 반도체 부문 사장 찰리",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI가 자체 설계한 추론 특화 AI 칩 '할라페뇨'를 공개하며 GPU 의존도를 낮추고 엔비디아 중심의 시장에 변화를 초래하고 있다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202606/20951_21559_3717.jpg",
+    "score": 7.195,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "llm",
+      "오픈ai",
+      "엔비디아"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "“맡기면 안심?”… ‘티빙’ 사고가 남긴 클라우드 보안 교훈",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=20972",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-06-26T10:10:34+00:00",
+    "raw_excerpt": "티빙에서 약 1953만 명의 개인정보가 유출됐다. 쿠팡(약 3756만 명), 싸이월드·네이트(약 3500만 명), SK텔레콤(약 2324만 명)에 이은 역대 네 번째 규모다. 빠져나간 정보에는 인터넷상 ‘온라인 주민등록번호’로 불리는 연계정보(CI)도 들어 있다. CI는 한 번 새어 나가면 바꿀 수 없어 명의도용 같은 2차 피해로 이어질 수 있다는 우려가 나온다. 피해자들은 그 원인으로 티빙의 아마존웹서비스(AWS) 액세스 키 관리 부실을 지목하고 있다.액세스 키는 서버나 프로그램이 클라우드 자원에 접근할 때 쓰는 인증 수단이다.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "티빙 1953만 명 개인정보 유출 사태에서 AWS 액세스 키 관리 부실이 원인으로 지목되며, 변경 불가능한 연계정보(CI) 유출로 인한 명의도용 우려가 제기되고 있다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202606/20972_21581_659.png",
+    "score": 7.092,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "개인정보"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "카이스트의 놀라운 기술력… 적은 데이터로 정말 동작까지!",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212117",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-26T06:10:00+00:00",
+    "raw_excerpt": "AI타임스 조예주 기자 joyejuoffice@aitimes.com",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "카이스트가 소량의 데이터로도 효과적으로 작동하는 AI 기술을 개발했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212117_215290_71.jpg",
+    "score": 7.081,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "RWS, 3년 연속 '올해의 머신번역 솔루션' 수상…기업·정부용 고정밀 번역 시장 선도",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40689",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-25T23:28:40+00:00",
+    "raw_excerpt": "글로벌 AI 기반 언어 솔루션 기업 알더블유에스(이하, RWS)가 인공지능(AI) 번역 분야에서 다시 한번 기술력을 인정받았다. RWS는 25일(현지시간) 자사의 최신 AI 번역 플랫폼인 '랭귀지 위버 프로(Language Weaver Pro)'가 'AI 브레이크스루 어워드(AI Breakthrough Awards) 2026'에서 '올해의 머신번역 솔루션(Machine Translation Solution of the Year)' 부문을 수상했다고 밝혔다.이번 수상은 RWS가 해당 부문에서 3년 연속 정상에 오른 것으로, 기업용 A",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "RWS의 Language Weaver Pro가 AI Breakthrough Awards 2026에서 3년 연속 '올해의 머신번역 솔루션' 부문을 수상하며 기업·정부용 고정밀 번역 시장에서의 기술력을 입증했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40689_61360_2821_v150.jpg",
+    "score": 6.935,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "한미반도체, 시스템반도체 패키징 'FC 본더 3.5' 출시",
+    "url": "https://zdnet.co.kr/view/?no=20260626094532",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-26T01:00:59+00:00",
+    "raw_excerpt": "[지디넷코리아]한미반도체가 첨단 패키징 장비 영역을 메모리에서 시스템반도체로 확장한다. 인공지능(AI) 고성능 칩이 대면적을 요구하는 만큼, 이에 최적화한 장비로 고객 대응력을 높일 계획이다. 한미반도체는 AI 시스템반도체용 신규 장비 'FC 본더 3.5(FLIP CHIP BONDER 3.5)'를 출시하고 글로벌 파운드리·후공정(OSAT) 기업에 공급한다고 26일 밝혔다.한미반도체는 AI 반도체 수요 급증에 따라 폭발적으로 성장 중인 2.5D 패키징 시장에 대응하기 위해 지난해 'FC 본더 75'를 출시한 바 있다. 이번에 FC 본더 3.5를 출시하며, AI 반도체 구현에 필수인 초대형 다이(Die)와 멀티칩 집적 공정을 지원하는 제품군을 확대했다. 현재 2.5D 패키징 공정은 엔비디아, AMD, 브로드컴, 마벨, 애플 등 글로벌 빅테크 기업이 자사 AI 칩 생산에 적극 채택하며 AI 반도체와 고성능 컴퓨팅(HPC) 분야 핵심 기술로 자리매김했다. 한미반도체 FC 본더 3.5는 글로벌 AI 반도체 기업들이 요구하는 최신 공정기준을 충족한다. 경쟁사 대비 생산성과 정밀도가 대폭 향상됐고, 2.5D 로직 다이를 C2W(Chip to Wafer) 본딩 방식을 적용하여 최대 340mm 크기 대형패널과 기판까지 처리할 수 있다. 최근 고성능 AI 반도체가 패널레벨패키징(PLP) 방식으로 진화하면서 그래픽처리장치(GPU), 중앙처리장치(CPU)",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "한미반도체가 AI 시스템반도체용 FC 본더 3.5를 출시해 2.5D 패키징 시장에서 초대형 다이와 멀티칩 집적 공정을 지원하며 고성능 AI 칩 생산 수요에 대응한다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/06/26/1a3ca5b04c91ac224c18eed7ed5d4824.jpg",
+    "score": 5.962,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "gpu",
+      "빅테크"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "도구와 대화하는 것의 피로감",
+    "url": "https://news.hada.io/topic?id=30841",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-06-26T01:02:23+00:00",
+    "raw_excerpt": "LLM은 키보드나 자동차처럼 몸에 익는 좋은 도구 가 아니라, 요청과 협상을 요구하는 상대처럼 작동해 사용자의 사회적 에너지를 소모함 좋은 도구는 일관성과 속도 덕분에 뇌가 신체의 확장 처럼 받아들이지만, Claude나 Cursor 같은 LLM은 아직 그 수준에 미치지 못...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "LLM은 도구가 아닌 상대와의 협상처럼 작동해 사용자의 사회적 에너지를 소모하므로, 자동차 같은 신체 확장형 도구와는 달리 피로감을 유발한다.",
+    "thumbnail": "https://social.news.hada.io/topic/30841",
+    "score": 5.876,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "cursor"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "New research from Meta.",
+    "url": "https://x.com/omarsar0/status/2070235085732000228",
+    "source": "X @omarsar0",
+    "source_type": "x",
+    "published_at": "2026-06-25T19:58:02+00:00",
+    "raw_excerpt": "New research from Meta.\n\nBuilding synthetic training data has stayed a fixed pipeline that you hand-tune and then freeze.\n\nAutodata casts an AI agent as a data scientist that builds training and evaluation data, with an implementation called Agentic Self-Instruct that extends",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Meta가 AI 에이전트를 데이터 과학자로 활용하여 훈련 데이터를 자동 생성하는 'Agentic Self-Instruct' 기법을 개발했습니다.",
+    "thumbnail": "https://pbs.twimg.com/media/HLrz1pAakAAnmjG.jpg:large",
+    "score": 5.706,
+    "engagement": 7101,
+    "matched_keywords": [
+      "ai agent",
+      "agentic"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "한싹 “망연계 넘어 통합보안으로 사업 확장, N2SF 시장 정조준”",
+    "url": "https://byline.network/2026/06/25-575/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-06-26T00:48:16+00:00",
+    "raw_excerpt": "한싹이 강점인 망연계 기술을 기반으로 분리망 보안통제(CDS), 통합접근제어, 패스워드 관리, 보안소켓계층(SSL) 가시성까지 사업 영역을 넓히며 국가망보안체계(N2SF) 시장 공략에 나선다.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "한싹이 망연계 기술 기반으로 CDS, 접근제어, 패스워드 관리 등 통합보안 솔루션으로 사업을 확장하며 N2SF 시장 진출을 추진한다.",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/06/HANSACK.jpg",
+    "score": 5.623,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "명노현 LS 부회장, ‘기회의 땅’ 북미 현장 경영…“글로벌 전력·에너지 패권 잡을 것”",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=46735",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-26T10:46:17+00:00",
+    "raw_excerpt": "[스마트타임스] ㈜LS 명노현 부회장이 미국 중심의 글로벌 공급망 재편에 대응하고 북미 전력 인프라 시장 공략을 강화하기 위해 약 열흘간의 광폭 현장 경영 행보를 펼쳤다.26일 LS그룹에 따르면 명 부회장은 그룹의 핵심 성장 동력인 전력·에너지 사업의 북미 시장 지배력을 공고히 하기 위해 지난 17일 미국 출길에 올랐다.출장 첫 일정으로 명 부회장은 지난 18일 워싱턴 D.C.에서 열린 '한미 전략산업 및 안보포럼'에 참석했다.이 자리에서 강경화 주미 한국대사를 비롯해 미 백악관 국가안전보장회의(NSC) 수석국장, 미국 무역대표부(",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "LS 명노현 부회장이 북미 전력·에너지 시장 지배력 확보를 위해 미국 출장에서 현장 경영을 강화하며 글로벌 공급망 재편에 대응하고 있다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202606/46735_45158_4552_v150.jpg",
+    "score": 5.161,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "LastPass가 또 다른 데이터 유출을 사용자에게 통지함",
+    "url": "https://news.hada.io/topic?id=30844",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-06-26T01:08:49+00:00",
+    "raw_excerpt": "LastPass 사용자는 외부 파트너 Klue 침해 사고 로 개인 데이터와 지원 케이스 데이터가 노출됐다는 통지를 받음 이번 사고의 접근 범위는 표준 비즈니스 연락처 정보 , CRM 데이터, 지원 케이스 데이터, 영업 관련 데이터로 제한됐으며 비밀번호 금고는 영향받지 않...",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "LastPass가 외부 파트너 Klue 침해로 사용자 개인정보와 지원 케이스 데이터가 노출됐다고 통지했으나 비밀번호 금고는 안전합니다.",
+    "thumbnail": "https://social.news.hada.io/topic/30844",
+    "score": 5.133,
+    "engagement": 0,
+    "matched_keywords": [
+      "데이터 유출"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "美 운전대 없는 차세대 로보택시 공개…주당 100대 생산 가능",
+    "url": "https://www.etnews.com/20260625000427",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-06-26T00:55:00+00:00",
+    "raw_excerpt": "아마존 자회사 죽스(Zoox)가 차세대 로보택시를 공개하고 대량 생산 단계 진입을 예고했습니다. 죽스는 테스트 및 초기 운영 과정에서 약 50만명의 탑승자 피드백을 반영해 차량 설계를 개선했다고 밝혔습니다. 이번 모델은 운전대와 페달이 없는 전용 자율주행 구조를 유지하면서 편의성과 양산성을 높인 점이 특징입니다. 실내는 마주보는 좌석 구조를 유지하되 밝은 색상과 인체공학 설계를 적용했고, 컵홀더와 충전 패드 등 편의 요소도 개선됐습니다. 외관에",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "아마존 자회사 죽스가 운전대와 페달이 없는 차세대 로보택시를 공개하고 주당 100대 생산 능력으로 대량 생산 체제 진입을 예고했습니다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/06/25/news-p.v1.20260625.de491376681348ac83d2ec5541f5af97_P1.jpg",
+    "score": 5.119,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "딥테크 기업은 다르게 만들어진다",
+    "url": "https://news.hada.io/topic?id=30838",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-06-26T00:45:01+00:00",
+    "raw_excerpt": "지난 10년간 확장 속도가 빠른 비트(소프트웨어)에 자본이 집중됐으나, 이제 경제 전반의 병목이 다시 원자(atoms), 즉 물리적 영역으로 돌아오면서 이를 제거하는 프론티어 기술 기업이 차세대 기업으로 부상 중 데이터센터의 전력망 부담, 국방 예산의 자율무기·센서·조선 전환, 제...",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "소프트웨어 중심의 투자에서 물리적 제약을 해결하는 딥테크 기업으로 자본 이동이 일어나고 있다.",
+    "thumbnail": "https://social.news.hada.io/topic/30838",
+    "score": 5.108,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "I guess MCP won.",
+    "url": "https://x.com/omarsar0/status/2070196187508929002",
+    "source": "X @omarsar0",
+    "source_type": "x",
+    "published_at": "2026-06-25T17:23:28+00:00",
+    "raw_excerpt": "I guess MCP won.\n\nJokes aside, this is super cool from OpenRouter. \n\nJust making it easier for devs to run their long-running agents with the right level of intelligence. More of this, please.",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "OpenRouter가 MCP(Model Context Protocol)를 지원하면서 개발자들이 장기 실행 에이전트를 더 쉽게 구축할 수 있게 되었다.",
+    "thumbnail": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_200x200.jpg",
+    "score": 5.099,
+    "engagement": 37043,
+    "matched_keywords": [
+      "mcp"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "auth.md — 에이전트가 사용자를 대신해 가입시키기 위한 오픈 프로토콜",
+    "url": "https://news.hada.io/topic?id=30837",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-06-26T00:31:02+00:00",
+    "raw_excerpt": "각 서비스가 자기 도메인 루트에 호스팅하는 auth.md 파일 표준 에이전트에게 사용자를 대신해 등록하는 방법을 알려줘서, 별도의 회원가입 폼 없이 에이전트가 사용자를 등록 가능 파일에는 지원하는 flow , 존재하는 scope , 서비스 등록 방...",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "서비스 도메인의 auth.md 파일 표준을 통해 에이전트가 사용자를 자동으로 등록할 수 있는 오픈 프로토콜이 제안되어 회원가입 절차 간소화를 추구하고 있다.",
+    "thumbnail": "https://social.news.hada.io/topic/30837",
+    "score": 5.094,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "[인사] HD현대",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=46723",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-26T09:33:56+00:00",
+    "raw_excerpt": "[HD한국조선해양]◇ 전무 승진▲ 최한내◇ 상무 승진▲ 최광호(전문위원)[HD현대중공업]◇ 전무 승진▲ 이상봉(함정·중형선사업부)◇ 상무 승진▲ 김보성[HD현대삼호]◇ 상무 승진▲ 김인일[HD현대로보틱스]◇ 전무 승진▲ 정영근",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "HD현대 계열사들이 최한내, 이상봉, 정영근 등 5명을 전무로, 4명을 상무로 승진시키는 인사를 단행했다.",
+    "thumbnail": "http://www.smarttimes.co.kr/image/logo/snslogo_20230619043942.jpg",
+    "score": 5.093,
+    "engagement": 0,
+    "matched_keywords": [
+      "로보틱스"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "CSS font-family 권장 사항",
+    "url": "https://news.hada.io/topic?id=30836",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-06-26T00:12:21+00:00",
+    "raw_excerpt": "웹에서 특정 폰트 이름을 믿고 디자인하면 플랫폼·네트워크·보안 설정에 따라 깨질 수 있어, 일반 계열 fallback 을 전제로 font-family 를 짜야 함 고정폭 표현이 필요한 코드·아트워크·레이아웃에는 monospace 를 반드시 포함해야 하며,...",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "웹 폰트는 플랫폼 차이로 깨질 수 있으므로 generic family fallback을 포함해 font-family를 구성해야 한다.",
+    "thumbnail": "https://social.news.hada.io/topic/30836",
+    "score": 5.074,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "대부분의 스타트업은 번(burn) 문제가 아니라 의사결정 문제를 안고 있다",
+    "url": "https://news.hada.io/topic?id=30835",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-06-26T00:11:02+00:00",
+    "raw_excerpt": "2023년 이후 폐업한 VC 투자 스타트업 431곳을 분석한 결과 자본 고갈 이 70% 로 실패 원인 1위를 차지했으나, 현금 소진은 더 깊은 문제의 증상에 불과함 근본 원인은 파편화된 데이터 , 불명확한 우선순위, 무엇이 실제 성과를 이끄는지에 대한",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "2023년 이후 폐업한 스타트업 431곳 분석 결과 자본 고갈이 직접 원인이 아니라 데이터 파편화와 불명확한 우선순위 같은 의사결정 결함이 근본 원인임이 드러났다.",
+    "thumbnail": "https://social.news.hada.io/topic/30835",
+    "score": 5.073,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Hacker News 데이터로 살펴보는 18년간 기술 트렌드 변화",
+    "url": "https://news.hada.io/topic?id=30833",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-06-26T00:06:20+00:00",
+    "raw_excerpt": "Hacker Trends 는 Hacker News에 축적된 약 4,500만 건의 게시글과 댓글을 분석하여 특정 기술, 제품, 기업, 인물의 언급량 변화를 시계열로 보여주는 서비스이다. 여러 검색어를 한 그래프에 표시하여 기술 간 경쟁, 시장의 세대교체, 사건에 따른 관심도 급등을 비교할 수 있다.",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "Hacker News의 4,500만 건 게시글을 분석한 'Hacker Trends'가 18년간 기술 트렌드 변화를 시각화하여 기술 간 경쟁과 시장 세대교체를 추적할 수 있게 한다.",
+    "thumbnail": "https://social.news.hada.io/topic/30833",
+    "score": 5.068,
+    "engagement": 0,
+    "matched_keywords": [
+      "기술 트렌드"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "브릴스, 코스닥 상장예비심사 통과…\"글로벌 시장 진출 박차\"",
+    "url": "https://zdnet.co.kr/view/?no=20260626101838",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-26T02:21:35+00:00",
+    "raw_excerpt": "[지디넷코리아]로봇 모듈화 기업 브릴스가 코스닥 상장예비심사를 통과했다고 26일 밝혔다.브릴스는 증권신고서를 제출하고 이르면 올해 상장 절차를 마무리할 예정이다. 상장 주관사는 IBK투자증권이다.브릴스는 로봇 시스템의 설계, 제어, 제작, 설치, 유지보수까지 전 과정에서 모듈화 솔루션을 제공한다.브릴스는 \"기존 로봇 자동화 시장은 고객별 공정에 맞춰 처음부터 시스템을 개발했다\"며 \"브릴스는 제어 기술과 소프트웨어 등을 모듈 단위로 사전 구축해 현장에 맞게 조합하는 '모듈화 플랫폼 솔루션' 지원한다\"고 설명했다.그러면서 \"지난 10여 년간 축적한 공정 경험과 기술을 바탕으로 요소 기술을 100종 이상 모듈 단위로 개발했다\"며 \"고객의 생산 환경에 최적화된 로봇 자동화 시스템을 구현해 기존 대비 도입 속도와 운영 효율을 높이고 있다\"고 덧붙였다브릴스는 자동차, 반도체, 2차전지, 식품, 물류 등 산업 전반에 솔루션을 공급하고 있으며, 최근에는 의료, 우주항공, 환경 등 신사업 분야로도 적용 범위를 확대하고 있다.회사는 상장을 통해 연구개발 투자를 확대하고, 글로벌 시장 진출을 본격화할 계획이다. 지난 3월 미국 미시간주에 설립한 현지 법인을 거점으로 북미 시장을 확대해 나갈 방침이다.전진 브릴스 대표는 \"모듈화 플랫폼 기술과 차별화된 사업 전략을 바탕으로 글로벌 시장 진출에 나서겠다\"고 말했다.",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "로봇 모듈화 솔루션 기업 브릴스가 코스닥 상장예비심사를 통과하고 올해 상장을 목표로 글로벌 시장 진출을 가속화한다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/06/26/2cbf3b47eb7bb5769d9b205433c2f9e0.jpg",
+    "score": 4.688,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "美 의회 실무대표단, 고려아연 온산제련소 방문",
+    "url": "https://zdnet.co.kr/view/?no=20260626110916",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-26T02:09:16+00:00",
+    "raw_excerpt": "[지디넷코리아]미국 의회 실무대표단이 고려아연 온산제련소를 찾아 한미 핵심광물 공급망 협력 방안을 논의했다.고려아연은 미국 하원 중국특별위원회와 외교위원회 소속 보좌진, 군 관계자 등 7명으로 구성된 미국 의회 실무대표단이 최근 울산 온산제련소를 방문했다고 26일 밝혔다.이번 방문은 미국 의회의 요청과 주한미국대사관의 주선으로 성사됐다. 대표단은 온산제련소의 친환경 제련 기술과 생산 역량, 핵심광물 공급망 경쟁력을 직접 확인했다.온산제련소는 아연과 연, 구리 등 기초금속부터 금·은 등 귀금속, 안티모니·인듐·비스무트 등 희소금속까지 생산하는 통합 제련소다. 제련 부산물과 전자스크랩, 폐인쇄회로기판, 태양광 폐패널 등 재활용 원료에서 핵심광물을 회수하는 역량도 갖췄다.대표단은 고려아연과 미국 정부가 추진 중인 ‘프로젝트 크루서블’에도 관심을 보였다. 프로젝트 크루서블은 약 11조원을 들여 미국 테네시주에 핵심광물 11종을 포함한 비철금속 12종과 반도체용 황산 등을 생산하는 제련소를 건설하는 사업이다. 온산제련소를 모델로 설계됐으며, 고려아연의 제련 기술과 운영 노하우가 적용될 예정이다.고려아연은 이번 방문을 계기로 미국 연방정부와 의회, 테네시 주정부 등과 협력을 강화해 프로젝트 크루서블을 추진하고 한미 핵심광물 공급망 회복력 강화에 기여한다는 계획이다.앞서 지난 4월 말에는 스튜어트 맥워터 테네시주 부지사도 온산제련소를 방문했다. ",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "미국 의회 실무대표단이 고려아연 온산제련소를 방문해 한미 핵심광물 공급망 협력과 미국 내 '프로젝트 크루서블' 제련소 건설 사업을 논의했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/06/26/84ce98dd4da305694b744be16693449f.jpg",
+    "score": 4.676,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "세라젬, 7월 롯데콘서트홀서 고객 소통형 웰니스 콘서트 개최",
+    "url": "https://zdnet.co.kr/view/?no=20260626095056",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-26T01:06:57+00:00",
+    "raw_excerpt": "[지디넷코리아]헬스케어 가전기업 세라젬이 고객과 건강한 삶의 가치를 공유하고 소통하는 웰니스 행사를 개최한다. 세라젬은 오는 7월 21일 서울 롯데콘서트홀에서 웰니스 토크 콘서트 '세라젬 드 애프터눈(Ceragem de Afternoon)'을 개최한다고 26일 밝혔다.'가장 빛나는 오후'를 주제로 열리는 이번 행사에 고객 1000명을 초청한다. 세라젬이 제안하는 건강한 삶을 위한 7가지 습관 '7-HABIT'(척추·운동·휴식·뷰티·순환·에너지·정신)을 바탕으로, 일상에서 실천할 수 있는 건강 관리 방법과 웰니스 인사이트를 공유한다. 강연에는 이경수 세라젬 대표를 비롯해 방송인 박미선, 홍정기 국민대 스포츠건강재활학과 교수가 연사로 나선다. 박미선은 건강 회복 과정에서 경험한 삶의 변화와 긍정적 메시지를 전달하며, 홍정기 교수는 건강수명 연장을 위한 생활 습관과 실천법을 소개한다. 이경수 대표는 고객 참여형 토크 세션에서 무대에 직접 올라 소통한다. 이 대표는 사전에 수집한 질문과 관심사를 바탕으로 현장에서 공개된 키워드에 맞춰 고객들 질문에 직접 답변하며 웰니스에 대한 공감대를 형성할 계획이다. 토크 세션 이후에는 가수 환희의 축하 공연이 이어진다. 이번 콘서트는 지난 4월 열린 토크 콘서트에 이어 올해 두 번째 고객 초청 행사다. 세라젬은 고객 접점을 넓히고 건강한 라이프스타일에 대한 공감대를 다지기 위해 참여형 웰니스 프로그램을 ",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "세라젬이 7월 21일 롯데콘서트홀에서 고객 1000명을 초청해 건강한 삶의 가치를 공유하는 웰니스 토크 콘서트를 개최한다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/06/26/7071d9a7e1f041d8eb332c8c350792e1.jpg",
+    "score": 4.618,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "[AINews] OpenAI reports median internal Codex output tokens grew 56x in Research, 32x in Customer Support, 27x in Engineering, and 13x in Legal since November 2025.",
+    "url": "https://www.latent.space/p/ainews-openai-reports-median-internal",
+    "source": "Latent Space (swyx)",
+    "source_type": "substack",
+    "published_at": "2026-06-26T01:12:30+00:00",
+    "raw_excerpt": "It's happening.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "OpenAI가 Codex 출력 토큰 사용량이 2025년 11월 이후 연구팀에서 56배, 고객지원팀에서 32배 증가했다고 보고했습니다.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!roAd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a48b472-a807-4211-b981-983f7a401c3a_2156x1576.png",
+    "score": 4.452,
+    "engagement": 0,
+    "matched_keywords": [
+      "codex"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "12년간 남편에 감금된 佛 여성, 파키스탄서 극적 구조",
+    "url": "https://www.etnews.com/20260625000400",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-06-25T13:30:00+00:00",
+    "raw_excerpt": "파키스탄에서 남편에게 10년 넘게 감금된 채 가정폭력을 당해온 프랑스 여성이 자녀 5명과 함께 현지 경찰에 극적으로 구조됐다. 24일(현지시간) 가디언 등 외신에 따르면 파키스탄 카이버 파크툰크와주 바라 마을의 한 흙벽돌 집에서 프랑스 국적의 실비 야스미나(54) 씨와 그의 자녀 5명이 구조됐다고 와카르 아흐마드 지역 경찰서장이 밝혔다. 경찰은 현장에서 야스미나 씨의 남편을 체포해 조사 중이다. 이번 구조는 감금돼 있던 아들 중 한 명이 집에서",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "프랑스 여성이 남편에게 파키스탄에서 12년간 감금되며 가정폭력을 당하다 자녀 5명과 함께 경찰에 극적으로 구조됐다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/06/25/news-p.v1.20260625.3a1f7e96a1274a8988edf885be1cbfb0_P1.png",
+    "score": 4.405,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "영국 Wikipedia 직원들, 노조 인정 요구",
+    "url": "https://news.hada.io/topic?id=30821",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-06-25T12:02:04+00:00",
+    "raw_excerpt": "영국의 Wikimedia Foundation 직원들 이 Wikipedia 관련 직원 집단으로는 처음으로 노조 인정을 요구하며, Wikimedia 운동 내부 노동 조직화의 새 사례가 됨 직원들은 6월 24일 수요일 경영진에 서한을 보내 UTAW 가 자신들을 대표할 권리를 인정해 달라고 요청함",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "영국 Wikimedia Foundation 직원들이 Wikipedia 관련 직원으로는 처음 노조(UTAW) 인정을 요구하며 노동 조직화에 나섰다.",
+    "thumbnail": "https://social.news.hada.io/topic/30821",
+    "score": 4.314,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "정부, 발전5사 통합준비반 꾸린다…내달 실무조직 출범",
+    "url": "https://www.etnews.com/20260625000414",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-06-25T08:19:44+00:00",
+    "raw_excerpt": "정부가 발전공기업 5사 통합을 위한 실무조직을 구성한다. 발전공기업 통폐합 연구용역 중간보고 이후 후속 작업에 속도를 내는 모습이다. 25일 기후에너지환경부에 따르면 한국남동발전·한국중부발전·한국서부발전·한국남부발전·한국동서발전에서 회사별 3명씩 모두 15명을 파견받아 7월 중 '통합준비반(가칭)'을 출범시키는 방안을 추진하고 있다. 준비반은 서울 강남 발전공기업협력본부에 설치하는 방안이 유력하며, 통합법인 조직 설계와 본사 입지 검토, 특별법",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "정부가 7월 중 발전5사(남동·중부·서부·남부·동서발전) 통합을 위한 실무조직 '통합준비반'을 출범시켜 통폐합 작업을 본격화한다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/06/25/news-p.v1.20260625.5c69bc2f5cbc4ba48268fb6405b455e6_P1.jpg",
+    "score": 4.082,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Binance Withdraws Greek MiCA License Bid, Seeks Approval Elsewhere in EU",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=46703",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-25T14:08:13+00:00",
+    "raw_excerpt": "Binance has withdrawn its application for a Markets in Crypto-Assets (MiCA) license in Greece and plans to pursue authorization in another European Union member state as it works to maintain access to the bloc's cryptocurrency market.The decision comes just days before a key regulatory deadline that",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Binance가 그리스의 MiCA 라이선스 신청을 철회하고 EU 내 다른 회원국에서의 승인을 추진하며 유럽 암호화폐 시장 접근성을 유지하려 한다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202606/46703_45127_88_v150.jpg",
+    "score": 4.0,
+    "engagement": 0,
+    "matched_keywords": [
+      "regulatory"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  }
+]
