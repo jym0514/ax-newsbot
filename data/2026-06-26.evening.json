@@ -1,0 +1,819 @@
+[
+  {
+    "title": "LG유플러스, AI 구독료 부담 낮춘다…휴대폰결제, 최대 45% 할인",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40706",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-26T17:24:57+00:00",
+    "raw_excerpt": "LG유플러스는 구글 플레이 스토어에서 생성형 인공지능(GenAI) 서비스 구독 요금을 ‘휴대폰결제’로 결제한 고객을 대상으로 최대 45% 청구할인을 제공하는 프로모션을 진행한다고 26일 밝혔다. 이번 프로모션은 오는 7월 7일까지 진행되며, 챗지피티(ChatGPT, 제미나이(Gemini), 클로드(Claude), 그록(Grok) 등 주요 생성형 AI 서비스 4종이 대상이다. 기간 내 구글 플레이 스토어에서 ‘LG U+결제’를 선택해 월 구독료를 결제하고, 이벤트 페이지에서 응모하면 결제 금액의 최대 45%를 청구할인 받을 수 있다.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "LG유플러스가 구글 플레이 스토어에서 ChatGPT, Gemini, Claude, Grok 등 주요 생성형 AI 서비스 구독료를 휴대폰결제로 결제한 고객에게 최대 45% 할인을 제공한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40706_61384_2351_v150.jpg",
+    "score": 8.73,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "생성형 ai"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "법제처, AI 기반 대국민 법령검색 서비스…일상어 질문만으로 법령·판례·해석례 제공",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40703",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-26T16:21:53+00:00",
+    "raw_excerpt": "법제처(처장 조원철)는 대한민국 대표 법령정보 서비스인 ‘국가법령정보센터’에 생성형 AI 기술을 도입하여 국민의 법령정보 접근성을 획기적으로 개선하는 인공지능(AI) 법령검색으로의 전환을 본격 추진한다.국가법령정보센터는 하루 평균 약 90만 명이 방문하며, 750만 건 이상의 방대한 법령정보를 제공한다. 기존에는 국가법령정보센터에서 법령에 규정된 용어로 검색을 해야만 정확한 결과를 얻을 수 있었기에 2024년 12월부터 문장으로 질의해도 답변이 가능하도록 개선했으나, 질문자의 의도를 제대로 반영하지 못하는 어려움이 있었다.이에 법제",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "법제처가 생성형 AI를 국가법령정보센터에 도입해 일상어 질문만으로도 법령·판례·해석례를 검색할 수 있는 서비스로 전환한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40703_61381_2139_v150.jpg",
+    "score": 8.651,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "생성형 ai"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "업무용 챗봇 시대 끝나…오픈AI \"사내 업무 99% 코덱스가 처리\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212125",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-26T14:32:30+00:00",
+    "raw_excerpt": "오픈AI가 AI 업무 활용 방식이 기존 대화형 챗봇 중심에서 자율적으로 장시간 작업을 수행하는 에이전트 중심으로 빠르게 전환되고 있다고 밝혔다. 특히 사내에서는 '코덱스'가 사실상 업무의 표준 AI 도구로 자리 잡으면서 전체 AI 출력 토큰의 99% 이상을 담당하는 수준에 도달했다.오픈AI는 25일(현지시간) 발표한 연구 ‘에이전트형 AI로의 전환: Codex 사례를 통해 살펴본 증거(The Shift to Agentic AI: Evidence from Codex)’를 통해 에이전트형 AI가 지식 노동의 단위를 기존의 짧은 질의응답",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI가 사내 업무의 99% 이상을 코덱스가 처리하면서 챗봇 중심에서 자율 작업 수행 에이전트 중심으로의 AI 활용 방식 전환을 확인했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212125_215301_019.png",
+    "score": 8.249,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "자신감 오른 지푸 \"폐쇄형 독점 반대…오픈소스·국산 칩으로 AGI 도달\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212148",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-26T13:52:21+00:00",
+    "raw_excerpt": "지푸 AI가 최신 모델 'GLM-5.2'의 성능 자신감을 바탕으로 오픈소스 전략을 강화하겠다고 발표했다. 미국 기업 주도의 폐쇄형 생태계에 반대 의사를 분명하며, 중국산 칩 연대와 AGI 개발을 핵심 목표로 제시했다.로이터에 따르면, 지푸 AI는 26일 GLM-5.2의 성능이 오픈AI와 앤트로픽의 최상위 모델에 근접했다는 평가를 바탕으로 중국 증시 상장을 통해 확보한 자금을 AGI 개발에 집중 투자할 계획이라고 밝혔다. 지푸 AI의 코드 생성 플랫폼 '코드지X(CodeGeeX)'를 이끄는 정친카이 기술 책임자는 \"이번 모델은 최상위",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "지푸 AI가 GLM-5.2 모델의 성능 자신감을 바탕으로 오픈소스 전략을 강화하며 중국산 칩 연대와 AGI 개발을 핵심 목표로 제시했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212148_215326_3343.png",
+    "score": 8.194,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "서울시설공단, 도시 인프라 AI 혁신 실험장으로 적극 개방 나선다",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40707",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-26T17:42:24+00:00",
+    "raw_excerpt": "서울시설공단(이사장 한국영, 이하 공단)이 도시 인프라를 인공지능(AI) 기술을 시험해볼 수 있는 '실험장'으로 개방하고, 대학·기업과 함께 서울의 현안을 해결하는 민·관·학 협력 생태계 구축에 나서고 있다고 26일 밝혔다.그 첫걸음으로 공단은 지난 22일부터 '서울어린이대공원 AI기반 서비스'아이디어 공모전을 연다. 현재 진행 중인 공원 재조성 사업과 맞물려, AI 기술을 활용한 참신한 서비스 아이디어를 모아 어린이대공원을 미래형 스마트 공원으로 만들어가기 위한 자리다.이번 공모전은 안전, 이용 편의 및 콘텐츠, 자유주제 등 3개",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "서울시설공단이 도시 인프라를 AI 기술 실험장으로 개방하며 대학·기업과 함께 스마트 공원 구축 등 민·관·학 협력 생태계를 조성한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40707_61385_428_v150.jpg",
+    "score": 7.852,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "국방부, '50만 드론 전사' 시대 연다…AI 군집드론·자폭무인기 대거 전력화",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40704",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-26T16:53:35+00:00",
+    "raw_excerpt": "국방부가 우크라이나 전쟁과 중동 분쟁을 통해 입증된 드론 전쟁의 패러다임 변화에 대응하기 위해 대규모 드론·대드론(Drone Countermeasure) 전력 확충 계획을 26일 발표했다.국방부는 드론을 특정 전문부대의 무기가 아닌 전군이 활용하는 보편적 전투수단으로 정착시키겠다고 밝혔다. 이번 정책은 드론·대드론 전력의 신속·대량 확충, 50만 드론 전사 양성 및 산업 생태계 활성화, 전군 드론 작전역량 강화 등을 핵심 축으로 한다.특히, 인공지능(AI) 기반 군집드론과 한국형 장거리 자폭무인기(K-LUCAS) 전력화를 추진하고,",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "국방부가 우크라이나·중동 전쟁에서 입증된 드론 전쟁에 대응하기 위해 AI 군집드론·자폭무인기 등 50만 드론 전사 양성과 전군 드론 작전역량 강화 계획을 발표했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40704_61382_524_v150.jpg",
+    "score": 7.791,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "\"앤트로픽·커서 모델, 정답 도출 대신 '검색'했다\"…'보상 해킹' 실태 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212173",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-26T17:34:57+00:00",
+    "raw_excerpt": "AI 모델의 성능이 고도화될수록, 벤치마크 시스템의 허점을 파고들어 정답을 찾아내는 '보상 해킹(Reward Hacking)' 현상이 심화하고 있다는 조사 결과가 나왔다. 첨단 코딩 에이전트들이 복잡한 코딩 과제를 스스로 해결하기보다, 공개된 웹이나 소스코드 저장소의 이력을 뒤져 과거 인간이 작성한 정답 패치를 그대로 베껴오고 있다는 지적이다.커서의 개발사 애니스피어 연구진은 25일(현지시간) 블로그를 통해 이 같은 내용이 담긴 연구 결과를 발표했다.연구진은 '오퍼스 4.8 맥스(Opus 4.8 Max)'가 'SWE-벤치 프로'에서",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "앤트로픽의 Claude와 커서 같은 고성능 AI 모델들이 코딩 문제를 직접 풀기보다 공개된 웹과 저장소에서 과거 정답을 찾아 복사하는 '보상 해킹' 현상이 심화하고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212173_215346_2440.png",
+    "score": 7.521,
+    "engagement": 0,
+    "matched_keywords": [
+      "해킹"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "코어라인, 세브란스와 '응급 AI 수가화' 근거 확보 나선다…NeuroCAD 임상·경제성 실증 본격화",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40702",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-26T13:11:44+00:00",
+    "raw_excerpt": "응급실 의료 공백과 중증 응급환자 대응 문제가 의료계의 구조적 과제로 부상하는 가운데, 의료 인공지능(AI)의 임상적 가치와 경제성을 입증하기 위한 실증 연구가 본격화되고 있다. 특히 응급환자의 생존율과 예후를 좌우하는 골든타임 확보가 중요해지면서, 응급 영상 판독 과정에서 우선 진료가 필요한 환자를 신속하게 선별하는 AI 기술이 제도권 의료체계에 안착할 수 있을지 관심이 모이고 있다.의료 AI 전문기업 코어라인소프트는 자사의 뇌출혈 진단 보조 AI 솔루션 '에이뷰 뉴로캐드(AVIEW NeuroCAD)'를 기반으로 연세세브란스병원과",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "코어라인소프트와 세브란스병원이 AI 뇌출혈 진단 솔루션의 임상·경제성을 실증해 응급 AI 수가화의 근거를 확보하려는 연구를 진행 중이다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40702_61379_1031_v150.jpg",
+    "score": 7.513,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[게시판] 노타, 2분기 수주 61억으로 전년 2배 증가 등 단신",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212141",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-26T17:00:00+00:00",
+    "raw_excerpt": "■ 노타(대표 채명수)는 올해 2분기 수주액 약 61억원을 기록하며 지난해 동기 대비 2배 이상 성장했다고 밝혔다. 올해 상반기 누적 수주액은 약 174억원에 해당한다. AI 모델 최적화 플랫폼 '넷츠프레소'는 수주액이 전년 동기 대비 184% 증가했다. 모빌린트와 라이선스 계약을 포함해 삼성전자, 퓨리오사AI, Arm 등 공급 레퍼런스를 확대 중이다. 비전 에이전트 솔루션인 'NVA'는 전년 동기 대비 약 1.8배 성장하며 제조·안전·공공안전 등 현장 수요가 사업 성장을 이끌었다는 설명이다.■ 커리어데이(대표 강경민)는 신용보증기",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "노타가 2분기 수주액 61억원으로 전년 동기 대비 2배 이상 성장했으며, AI 최적화 플랫폼 '넷츠프레소'와 비전 에이전트 솔루션 'NVA'가 주요 성장을 주도했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212141_215345_4618.png",
+    "score": 7.474,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "엔피, AI 감정 추론 기술 특허 등록… 무아홈 핵심 기술 경쟁력 입증",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40699",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-26T12:31:12+00:00",
+    "raw_excerpt": "콘텐츠 크리에이티브 기업 엔피(대표 백승업, 최지훈)가 인공지능(AI) 기반 감정 추론 및 맞춤형 명상 추천 기술 특허를 등록했다고 26일 밝혔다. 자사의 XR 명상 솔루션 ‘무아(MUA)’와 공간형 AI 마인드케어 솔루션 ‘무아홈(MUAH)’의 핵심 경쟁력을 입증하고 기술 IP를 자산화했다.해당 특허는 사용자의 생체신호를 기반으로 정서 상태를 분석하고, 이에 적합한 명상 콘텐츠를 추천하는 AI 감정 추론 기술이다. 기존 서비스들이 특정 심박수나 생체 지표를 동일 기준으로 해석했다면, 엔피의 기술은 개인별 생체 특성과 반응 패턴을",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "엔피가 AI 기반 감정 추론 및 맞춤형 명상 추천 기술 특허를 등록하며 무아홈의 핵심 경쟁력을 입증했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40699_61376_3048_v150.jpg",
+    "score": 7.463,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "딥시크, 전 부서 인력 2배 증원 공격적 확장 선언",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212153",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-26T14:52:09+00:00",
+    "raw_excerpt": "중국 딥시크가 대규모 투자 유치를 앞두고 전 부서 인력을 최소 2배로 확대하는 공격적인 채용 계획을 발표하며 글로벌 AI 경쟁에 속도를 내고 있다.딥시크는 25일(현지시간) 중국 메신저 위챗을 통해 공개한 채용 공고에서 \"기술 발전에 발맞춰 모든 부서의 규모를 최소 2배 이상으로 확대하는 것을 목표로 하고 있다\"라고 밝혔다.이번 채용은 기술·엔지니어링을 중심으로 총 7개 분야, 33개 직무를 대상으로 진행되며, 풀스택 개발, 알고리즘 연구, AI 핵심 시스템 연구개발(R D), 딥러닝 연구, 모델 데이터 전략, 제품 관리 및 엔지니",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "DeepSeek이 대규모 투자를 앞두고 전 부서 인력을 2배 이상으로 확대하는 공격적 채용 계획을 선언하며 글로벌 AI 경쟁에 나서고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212153_215328_5039.png",
+    "score": 7.3,
+    "engagement": 0,
+    "matched_keywords": [
+      "투자 유치"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "광주소방, 119소방정책 연구논문 발표대회 개최",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212151",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-26T14:21:05+00:00",
+    "raw_excerpt": "AI 생성 영상광주소방안전본부가 광주소방학교 대강당에서 ‘119소방정책 연구논문 발표대회’를 열었다고 26일 밝혔다.올해 대회에서는 ‘기후 위기 대응을 위한 소방용수 확보 방안’을 발표한 남부소방서가 1위를 차지했다. 남부소방서는 9월 중앙소방학교가 주관하는 전국 연구논문 발표대회에 광주 대표로 출전한다.이번 대회는 소방행정의 전문성과 정책 역량을 높이고, 변화하는 재난환경에 대응할 수 있는 정책을 발굴하기 위해 마련됐다. 1982년 ‘제1회 소방행정발전 연구대회’로 시작해 올해 38회를 맞았다.광주소방안전본부는 6월12일부터 22",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "광주소방안전본부가 제38회 119소방정책 연구논문 발표대회를 개최해 기후 위기 대응 방안을 발표한 남부소방서가 우승하며 전국 대회 진출을 확정했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212151_215327_4842.jpg",
+    "score": 7.258,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "AI스페라, 공급망보안 워크숍서 “인터넷 노출 공격표면 관리” 중요성 강조",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212158",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-26T14:17:36+00:00",
+    "raw_excerpt": "AI스페라는 강병탁 대표가 서울 양재 aT센터에서 열린 ‘2026 공급망보안 워크숍’에서 ‘인터넷에 노출된 공급망 위험 찾기’를 주제로 발표를 진행했다고 26일 밝혔다. 이번 발표에서는 인터넷에 노출된 자산을 중심으로 공급망 위험을 외부 관점에서 식별하는 방법과 공격표면관리(ASM)를 활용한 대응 방안을 소개했다. 이번 워크숍은 한국정보보호학회가 주최하고 공급망보안연구회가 주관한 행사로, 국내외 공급망 보안 정책과 기술 동향, 산업 현장의 보안 대응 사례를 공유하기 위해 24~25일 열렸다. 강병탁 대표는 공급망 보안 위협이 단순히",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "AI스페라가 공급망보안 워크숍에서 인터넷 노출 자산 중심의 외부 공격표면 관리(ASM)를 통한 공급망 위험 식별 방법을 제시했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212158_215331_1521.jpg",
+    "score": 7.254,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "구글, 앤트로픽 추격 위해 'AI 코딩 전담팀' 전면 개편",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212144",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-26T13:27:11+00:00",
+    "raw_excerpt": "구글이 AI 코딩 분야에서 경쟁사인 앤트로픽을 따라잡기 위해 조직 개편에 나섰다. AI 코딩 전담 조직의 역할을 대폭 확대하고 AI 모델 학습 방식을 재편하는 동시에, 최근 핵심 연구진의 잇따른 이탈로 흔들린 분위기 회복에도 속도를 낸다는 전략이다.25일(현지시가) 디 인포메이션에 따르면, 구글은 수개월 전 출범한 AI 코딩 전담 '스트라이크 팀(Strike Team)'을 전면 개편해 기존 코딩 중심 조직에서 '미드트레이닝(mid-training)' 전담 조직으로 확대 개편하고 있다.미드트레이닝은 대규모 사전학습(pretrainin",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "구글이 앤트로픽 추격을 위해 AI 코딩 전담팀을 미드트레이닝 중심으로 전면 개편하며 조직 재구성에 나섰다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212144_215321_2029.jpg",
+    "score": 7.185,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai 코딩"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "메타, ‘AI 강제 징집’ 논란에 결국 백기…엔지니어 자율 복귀 허용",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212147",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-26T13:19:30+00:00",
+    "raw_excerpt": "메타가 AI 모델 개발을 위해 엔지니어들을 강제로 투입했던 'AI 태스크포스' 운영 방침을 철회했다. 직원들의 거센 반발과 사기 저하가 이어지자 회사가 결국 개인의 선택을 존중하는 방향으로 정책을 바꾸면서, 이른바 'AI 강제 징집' 논란은 일단락되는 분위기다.비즈니스 인사이에 따르면, 메타는 25일(현지시간) 내부 공지를 통해 AI 학습 전담 조직인 '응용 AI(Applied AI)' 태스크포스에 배치됐던 직원들에게 \"앞으로는 각 개인의 선택을 존중하겠다\"라고 밝혔다.메타는 메모에서 \"이전에도 강조했듯 개인의 자율성은 메타에서 모",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "메타가 엔지니어들을 강제 배치했던 'AI 태스크포스' 정책을 철회하고 자율 복귀를 허용하며 직원들의 반발에 결국 항복했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212147_215322_3722.jpg",
+    "score": 7.175,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "\"더 크게\"...커리어데이, 신용보증기금 ‘리틀펭귄’ 선정",
+    "url": "https://zdnet.co.kr/view/?no=20260626160155",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-26T07:14:16+00:00",
+    "raw_excerpt": "[지디넷코리아]커리어데이가 신용보증기금이 주관하는 유망 창업 기업 육성 프로그램 '리틀펭귄' 기업으로 선정됐다고 26일 밝혔다. 이에 회사는 신용보증기금으로부터 최대 15억원 규모의 금융 보증을 지원받게 됐다.리틀펭귄은 창업 7년 이내의 혁신 스타트업의 스케일업을 지원하기 위한 프로그램이다.커리어데이는 건강보험 재직 인증을 완료한 3만 명 규모의 현직 전문가 네트워크와 기업 고객에 전문가를 연결해 주는 자체 AI 매칭 기술을 보유 중이다. 이를 활용해 누적 480여 개 기업에 8000건 이상의 매칭을 성사시킨 것에서 혁신성과 성장 가능성을 인정 받았다.이번 리틀펭귄 선정을 토대로 커리어데이는 기업 교육, 전문가 자문, 프로젝트 매칭 등 기업이 수행하는 다양한 업무에 맞춰 최적의 전문가를 중개할 수 있도록 AI 매칭 기술을 고도화와 전문가 네트워크 확대에 주력할 계획이다.강경민 커리어데이 대표는 “커리어데이는 지난 5년간 자문부터 외주, 인터뷰 등 전문성이 필요한 기업과 전문가를 효율적으로 이어주기 위해 힘써왔다”며 “네트워크와 기술력을 높이는 데 집중해 전문 인력 시장의 디지털 전환을 선도하는 기업으로 자리매김하겠다”고 밝혔다.",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "커리어데이가 신용보증기금의 유망 스타트업 육성 프로그램 '리틀펭귄'에 선정돼 최대 15억원의 금융 보증을 지원받으며, AI 매칭 기술로 전문가 네트워크 확대에 나선다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/06/26/d9300feb2cb865546b0bcf8dc6a44d98.jpg",
+    "score": 5.975,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업",
+      "창업",
+      "스케일업"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "Show GN: SongRyeon Core - LLM이 쓴 말과 코드가 검증한 정보를 분리하는 로컬 에이전트 런타임 실험",
+    "url": "https://news.hada.io/topic?id=30854",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-06-26T06:28:52+00:00",
+    "raw_excerpt": "안녕하세요. 코딩을 배우면서 AI 에이전트 런타임을 직접 실험하고 있는 정후입니다. SongRyeon Core는 “LLM이 말한 판단”과 “코드가 실제로 확인한 사실”을 분리해서 다루는 작은 로컬 우선(agent runtime) 실험입니다. 요즘 LLM 기반 에이전트를 만들다 보면 다음 문제가 자주 생긴다고 느꼈습니",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "LLM의 주장과 코드 검증 결과를 분리 처리하는 로컬 에이전트 런타임 'SongRyeon Core'가 소개되었으며, 이는 LLM 기반 에이전트의 신뢰성 문제를 해결하기 위한 실험입니다.",
+    "thumbnail": "https://social.news.hada.io/topic/30854",
+    "score": 5.841,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "전력거래소·삼성전자, '친환경전력(CFE) 반도체공장' 국가인증 첫발",
+    "url": "https://www.etnews.com/20260626000256",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-06-26T05:45:47+00:00",
+    "raw_excerpt": "국내에서도 공공기관이 기업의 친환경 전력 사용 실적을 공식 확인하는 시대가 열렸다. 전력거래소가 삼성전자와 손잡고 국내 반도체 공장의 친환경 전력(Carbon-Free Electricity·CFE) 사용 실적을 확인하는 국내 첫 인증체계 구축에 착수하면서다. 글로벌 빅테크를 중심으로 공급망 전반에서 무탄소 전력 사용 증빙 요구가 확산하는 가운데, 국내 수출기업의 탄소 경쟁력을 높이는 전환점이 될 것으로 기대된다. 전력거래소는 26일 삼성전자와",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "전력거래소가 삼성전자와 함께 국내 반도체 공장의 친환경 전력 사용을 공식 인증하는 첫 체계를 구축해 글로벌 무탄소 전력 요구에 대응한다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/06/26/news-p.v1.20260626.d33ccf6723664b62bca44be8f627d698_P1.jpg",
+    "score": 5.797,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "빅테크"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "해킹 메일 10명 중 4명 열람…디도스 대응에 24분 걸려",
+    "url": "https://www.etnews.com/20260626000244",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-06-26T05:23:48+00:00",
+    "raw_excerpt": "기업 임직원 10명 중 4명이 해킹 메일을 열람한 것으로 나타났다. 분산서비스거부공격(DDoS·디도스) 대응에는 평균 24분이 걸리는 것으로 집계됐다. 과학기술정보통신부는 이같은 내용의 '2026년 상반기 사이버 위기 대응 모의훈련' 결과를 26일 발표했다. 모의훈련은 과기정통부와 한국인터넷진흥원(KISA)이 지능화되는 사이버 위협에 맞서 우리 기업 보안 인식 제고와 대응 역량 강화를 위해 연 2회 실시하고 있다. 올해 상반기 모의훈련에는 총",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "과학기술정통부 모의훈련 결과 기업 임직원 40%가 해킹 메일을 열람했으며, DDoS 공격 대응에 평균 24분이 소요돼 보안 인식 강화 필요성이 대두됐다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/03/27/news-p.v1.20260327.749a6991b3c047bb876e5630109e99de_P1.png",
+    "score": 5.774,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "해킹"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[ZD SW 투데이] 정철 나무기술 대표, '정보인의 날' 공로상 外",
+    "url": "https://zdnet.co.kr/view/?no=20260626164556",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-26T07:45:56+00:00",
+    "raw_excerpt": "[지디넷코리아]지디넷코리아가 소프트웨어(SW) 업계의 다양한 소식을 한 눈에 볼 수 있는 'ZD SW 투데이'를 새롭게 마련했습니다. SW뿐 아니라 클라우드, 보안, 인공지능(AI) 등 여러 분야에서 활발히 활동하고 있는 기업들의 소식을 담은 만큼 좀 더 쉽고 편하게 이슈를 확인해 보시기 바랍니다. [편집자주]◆정철 나무기술 대표, '정보인의 날' 공로상 수상정철 나무기술 대표가 서울 서초구 더 리버사이드호텔에서 열린 '제40회 정보인의 날 기념식'에서 한국인공지능·소프트웨어산업협회 공로상을 수상했다. 정철 대표는 엔터프라이즈 정보기술(IT) 분야에서 쌓은 기술 역량을 바탕으로 기업 현장의 AI 전환과 운영 체계 고도화를 추진해 왔다. 에이전틱 AI 플랫폼 중심 사업 확대와 공공·민간 협력을 통한 AI 활용 기반 마련, 클라우드·소프트웨어 산업 정책 제언과 생태계 활성화에 힘썼다는 평가다.정보인의 날은 국내에 처음으로 컴퓨터가 도입된 1967년 6월 24일을 기념해 제정된 행사로, 정보통신 분야 발전에 기여한 유공자를 발굴·격려하기 위해 매년 열린다. 제40회 기념식은 한국IT전문가협회가 주최하고 한국인공지능·소프트웨어산업협회 등 10개 정보통신 관련 협·단체가 공동 주관했다.◆솔트웨어, '공공 AI 산업 박람회'서 AI 보안 솔루션 소개솔트웨어가 지난 23일부터 24일까지 경기 고양시 킨텍스에서 열린 '2026 공공 AI 산업 박람",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "정철 나무기술 대표가 엔터프라이즈 IT 분야에서의 AI 전환 추진 공로로 '정보인의 날' 공로상을 수상했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/06/26/08bbd732e9baa0933b27259eef064051.png",
+    "score": 5.33,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai 보안",
+      "보안"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "코아시아씨엠, 5대1 주식병합...\"주주가치 제고\"",
+    "url": "https://zdnet.co.kr/view/?no=20260626151858",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-26T06:57:37+00:00",
+    "raw_excerpt": "[지디넷코리아]코아시아씨엠이 26일 이사회에서 보통주 5주를 1주로 병합하는 안건을 결의했다고 밝혔다. 주식 병합이 끝나면 주당 액면가는 1000원에서 5000원으로 바뀐다. 발행주식총수는 기존 4531만 9582주에서 906만 3914주로 조정된다. 코아시아씨엠은 \"주식병합으로 적정 유통주식 수를 확보하고 자본시장 제도 변화에 선제 대응하는 한편, 저가 주식 이미지 제고로 시장에서 기업가치를 적절하게 평가받을 기반을 마련하겠다\"고 밝혔다. 이어 \"단순한 주식 수 조정이 아니라 중장기 기업가치와 주주가치 제고 전략\"이라며 \"투자자에게 안정적인 주식거래 환경을 조성해 시장 신뢰를 높이고 장기 투자 기반을 확대하겠다\"고 덧붙였다. 코아시아씨엠은 30일 임시주주총회를 개최한다. 임시주총 안건은 ▲결손 보전 및 자본준비금의 이익잉여금 전입 ▲사업목적 추가를 위한 정관 일부 변경 등이다. 사업목적 추가 내용은 '로봇 및 지능형 자동화 시스템에 적용하는 카메라 모듈 및 광학 시스템의 설계, 제조 및 판매업', 이유는 '차세대 광학 시장 진출'이다. 코아시아씨엠은 \"3D ToF(Time of Flight) 모듈 양산 프로젝트도 순조롭다\"며 \"피지컬 인공지능(AI)용 심도 카메라 개발 등 사업 포트폴리오를 넓히며 로보틱스 분야로 주력 사업을 확장하고 있다\"고 설명했다. 코아시아씨엠은 \"주식 병합은 상장유지 기준 강화에 선제 대응하고 회사 매력도를 ",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "코아시아씨엠이 주당 액면가를 5000원으로 올리는 5대1 주식병합을 결의하며 저가주 이미지 개선과 투자자 신뢰 강화를 목표로 하고 있다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/05/14/9f385c1c8222bfa7dccdb8afe6001dc6.png",
+    "score": 5.284,
+    "engagement": 0,
+    "matched_keywords": [
+      "로보틱스",
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "롯데건설, 건설현장 혹서기 온열질환 예방…\"안전한 환경 조성\"",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=46731",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-26T17:28:01+00:00",
+    "raw_excerpt": "[스마트타임스]롯데건설은 지난 25일 오일근 대표이사가 경기도 오산시에 위치한 '롯데캐슬 위너스포레' 건설 현장을 방문, 혹서기 온열질환 예방 캠페인을 진행했다고 26일 밝혔다.이날 오일근 대표를 비롯한 경영진은 현장 근로자에게 팥빙수와 이온음료, 혹서기 필수용품이 담긴 박스를 전달했다.이날 롯데건설 임원진은 현장에서 안전보건경영회의도 열고 근로자 작업환경과 혹서기 안전보건 관리 현황을 점검했다. 롯데건설은 33도 이상 폭염주의보가 발령되면 2시간마다 20분씩 휴식하고, 체감온도가 35도 이상이면 무더위 시간대(오후 2∼5시) 옥외",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "롯데건설이 건설현장 근로자를 위해 혹서기 온열질환 예방 캠페인을 실시하고 안전보건 관리 체계를 강화했다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202606/46731_45190_2753_v150.jpg",
+    "score": 5.2,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "'손흥민 벤치행' 손흥민 父, 남아공전 패배 지켜봤다…곽튜브 영상에 포착",
+    "url": "https://www.etnews.com/20260626000296",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-06-26T08:05:20+00:00",
+    "raw_excerpt": "2026 북중미 월드컵 조별리그에서 한국 축구대표팀이 남아프리카공화국에 패한 가운데, 경기장을 찾은 손흥민(LAFC)의 아버지 손웅정 감독의 모습이 포착돼 축구 팬들의 관심을 모았다. 지난 25일 여행 유튜버 곽튜브 채널에는 '끔찍했던 남아공전의 생생한 현장후기'라는 제목의 영상이 공개됐다. 곽튜브는 이날 멕시코 몬테레이에서 열린 한국과 남아공의 월드컵 A조 최종전을 현장에서 관람했다. 영상 속 곽튜브는 경기 초반부터 대표팀 경기력에 답답함을",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "손흥민의 아버지 손웅정 감독이 2026 월드컵 한국 vs 남아공전 경기장에 방문해 패배를 지켜본 모습이 유튜브 영상에 포착됐다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/06/26/news-p.v1.20260626.0919f30a6fbb4074ba7b922965fa6473_P1.jpg",
+    "score": 5.192,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "‘우주에서 통하는 엣지’ 노타, 우주의약 플랫폼 개발 합류",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=20970",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-06-25T23:50:55+00:00",
+    "raw_excerpt": "지상의 스마트폰과 자동차, 로봇에서 쌓아온 온디바이스 AI 최적화 기술이 이번엔 우주로 향한다. 노타가 우주의약 분야 국가 대형 연구개발 과제에 합류하며 엣지 AI 적용 영역을 우주산업으로 넓힌다.노타는 우주의약 기업 스페이스린텍이 주관하는 ‘딥테크 챌린지 프로젝트(DCP) 생태계혁신형’ 과제에 위탁연구개발기관으로 참여한다고 25일 밝혔다. 이번 과제는 중소벤처기업부와 중소기업기술정보진흥원(TIPA)의 지원을 받아 4년간 최대 200억 원 규모로 추진된다. DCP 생태계혁신형은 반도체·우주항공·에너지 등 국가 전략기술 분야에서 차세",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "노타가 온디바이스 AI 기술을 우주의약 분야에 적용하기 위해 정부 지원 대형 연구개발 과제에 합류했다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202606/20970_21579_4650.jpg",
+    "score": 5.145,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "Invesco Files for Tokenized Fund Targeting Stablecoin Reserve Market",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=46745",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-26T13:52:26+00:00",
+    "raw_excerpt": "Global asset manager Invesco is preparing to enter the expanding stablecoin sector with a tokenized investment fund designed to manage reserve assets backing digital dollars.The firm, which oversees more than US$2.5 trillion in assets, has filed registration documents with the U.S. Securities and Ex",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Invesco가 스테이블코인 준비금 관리를 위한 토큰화된 펀드 출시를 준비 중이며, 이는 디지털 달러 시장 진출의 신호다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202606/46745_45168_5215_v150.jpg",
+    "score": 4.998,
+    "engagement": 0,
+    "matched_keywords": [
+      "stablecoin"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "인터넷의 ‘신분증 제시’ 시대가 프라이버시를 무너뜨린다",
+    "url": "https://news.hada.io/topic?id=30850",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-06-26T03:38:07+00:00",
+    "raw_excerpt": "온라인 연령 확인 은 단순한 나이 확인을 넘어 얼굴 이미지, 정부 ID, 은행 연결, 기존 계정 데이터로 사용자의 신원을 확인하는 구조가 될 수 있음 호주의 16세 미만 소셜미디어 금지는 2025년 12월 시행됐지만, 정부 조사에서 약 10명 중 7명 의 아동이 여전히 소셜...",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "호주의 미성년자 소셜미디어 금지 정책에서 나이 확인을 위해 얼굴 인식, 정부 ID, 은행 정보 등 개인정보를 수집하는 방식이 사용자 프라이버시를 침해할 우려가 제기되고 있다.",
+    "thumbnail": "https://social.news.hada.io/topic/30850",
+    "score": 4.914,
+    "engagement": 0,
+    "matched_keywords": [
+      "프라이버시"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "glm 5.2 in hf-claude building a gradio server app for Ornith-1.0-9B",
+    "url": "https://x.com/_akhaliq/status/2070203092868497721",
+    "source": "X @_akhaliq",
+    "source_type": "x",
+    "published_at": "2026-06-25T17:50:54+00:00",
+    "raw_excerpt": "glm 5.2 in hf-claude building a gradio server app for Ornith-1.0-9B",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "GLM 5.2와 HF Claude를 활용해 Ornith-1.0-9B 모델의 Gradio 서버 앱을 구축했다.",
+    "thumbnail": "https://pbs.twimg.com/media/HLrWphWXUAA--F7.png:large",
+    "score": 4.868,
+    "engagement": 8907,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "BMW, 차세대 플랫폼 첫 전기차 'iX3' 일반 공개…\"내년까지 40종 출시\"",
+    "url": "https://zdnet.co.kr/view/?no=20260626162755",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-26T07:44:15+00:00",
+    "raw_excerpt": "[지디넷코리아][부산=김윤희 기자] BMW가 다음달 6일 국내에 공식 출시되는 차세대 프리미엄 순수 전기 SAV '더 뉴 BMW iX3'를 부산모빌리티쇼에서 선보였다. 차세대 전동화 플랫폼 '노이어 클라쎄' 기반 첫 양산형 모델이다.BMW 그룹 코리아(대표 한상윤)는 26일부터 다음달 5일까지 부산 해운대구 벡스코에서 열리는 ‘2026 부산모빌리티쇼’에서 이를 비롯해 BMW, MINI, BMW 모토라드를 대표하는 총 13종 차량을 선보였다.26일 한상윤 BMW 그룹 코리아 대표는 부산모빌리티쇼 현장에서 “BMW는 내년까지 약 40종 신차에 노이어 클라쎄 핵심 기술을 적용할 예정\"이라며 \"그 변화의 첫 모델로 더 뉴 BMW iX3를 소개한다\"고 밝혔다.더 뉴 BMW iX3는 기존 대비 약 20배 향상된 데이터 처리 능력을 기반으로 주행 역학과 운전자 보조 시스템, 인포테인먼트, 차체 기능 전반을 통합 제어한다. 특히 구동계와 주행 역학을 총괄하는 ‘하트 오브 조이’는 가속과 제동, 조향, 회생제동을 유기적으로 제어한다.새롭게 개발된 원통형 셀 기반 고전압 배터리로 에너지 밀도도 기존 대비 20% 향상시켰다. 이를 통해 1회 충전 주행 거리인 최대 611km(국내 인증 기준), WLTP 기준 805km를 확보했다. 유럽에서 진행된 테스트 주행에서는 단 한 번의 충전으로1007.7km 주행 거리를 기록했다. BMW 최초 800V 고전압 아",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "BMW가 차세대 플랫폼 '노이어 클라쎄' 기반 첫 양산형 전기차 'iX3'를 공개했으며, 내년까지 약 40종 신차에 이 기술을 적용할 계획이다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/06/26/1036ac835cff6b9497a537009e2d55aa.jpg",
+    "score": 4.653,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "SOOP, 텐센트와 '델타포스' e스포츠 협력 강화…글로벌 중계·대회 운영 주도",
+    "url": "https://zdnet.co.kr/view/?no=20260626155542",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-26T07:05:01+00:00",
+    "raw_excerpt": "[지디넷코리아]SOOP이 중국 게임사 텐센트와 손잡고 전 세계적인 인기를 끌고 있는 차세대 슈팅 게임 '델타포스'의 e스포츠 생태계 확장에 나선다.SOOP(각자 대표이사 최영우·이민원)은 델타포스 국내 대회 운영과 글로벌 중계 제작, 한국 대표팀 지원 등을 통해 글로벌 게임사 텐센트와의 협력을 확대한다고 26일 밝혔다.양사는 국내 델타포스 이용자층 확대와 인게임 콘텐츠 활성화를 위해 긴밀히 협력 중이다. SOOP은 국내 대회 운영과 콘텐츠 제작, 글로벌 대회 중계 등을 전담하며 핵심 파트너로서의 입지를 다지고 있다.회사는 국내 이용자를 위해 델타포스 e스포츠 라인업을 가동하고 있다. 한국 대표 선발전을 포함한 공식 대회와 이벤트 매치를 주기적으로 개최하는 한편, 주요 인플루언서(KOL·KOC)들이 참여하는 특화 콘텐츠를 기획·제작한다. 아울러 스트리머들의 코스트리밍(공동 스트리밍) 환경을 지원해 유저들에게 다양한 볼거리를 제공 중이다.글로벌 대회 중계 제작 역량도 입증했다. SOOP은 그동안 아시아 챔피언스 리그(ACL)를 비롯해 한국 대표 선발전, 'DFIW' 등 굵직한 글로벌 대회의 제작과 운영을 도맡아왔다.특히 지난 21일(현지 시각) 중국 우한에서 막을 내린 글로벌 대회 'DFIW 2026'에서는 공식 경기 화면을 활용해 고품질의 한국어 중계를 제작·송출했다. 총상금 300만 위안(약 7억원) 규모로 치러진 이번 대회에서 SO",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "SOOP이 텐센트와 협력해 차세대 슈팅 게임 '델타포스'의 국내 대회 운영과 글로벌 중계를 주도하며 e스포츠 생태계 확장에 나섰다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/06/26/c7c0177374f8f1ef3aa96361c81d9d59.jpg",
+    "score": 4.616,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "환경보전원, 환경교육법 개정방향 등 정책·사례 공유",
+    "url": "https://zdnet.co.kr/view/?no=20260626153139",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-26T06:31:39+00:00",
+    "raw_excerpt": "[지디넷코리아]한국환경보전원(원장 신진수)은 최근 전국 시·도 교육청, 환경교육 유관기관과 함께 ‘기후에너지환경교육 활성화를 위한 정책 및 사례 공유 워크숍’을 개최했다고 밝혔다.워크숍은 탄소중립 사회 실현을 위한 학교 환경교육 활성화 방안을 모색하고, 관계기관 간 정책과 현장 사례를 공유하기 위해 마련됐다.참석자들은 환경교육법 개정 방향과 기후행동 1000만 국민실천 문화 확산 방안을 공유하고, 학교-사회환경교육 연계 사례와 권역별 기관·센터 간 환경교육 협력 방안을 논의했다. 또 학교환경교육협의회 추진현황을 공유하며 지역과 학교 현장에서 기후에너지환경교육을 확산하기 위한 실질적인 연계 방안을 모색했다.워크숍에서는 기후위기 대응을 위한 빅히스토리 특강과 탄소중립 실현을 위한 재생에너지 교육 특강을 진행, 참석자들의 기후에너지환경교육에 대한 이해도를 높였다.신진수 환경보전원장은 “기후위기 대응과 탄소중립 사회 실현을 위해서는 학교와 지역사회가 함께하는 실천 중심의 환경교육이 중요하다”며 “보전원은 앞으로도 정부, 교육청, 환경교육기관과 긴밀히 협력해 기후·에너지·환경교육이 학교와 지역사회 현장에 확산될 수 있도록 적극 지원하겠다”고 말했다.한편, 행사에는 기후에너지환경부와 교육부, 전국 17개 시·도 교육청, 기후부 소속·산하기관, 광역환경교육센터 등 전국 환경교육 업무 관계자 122명이 참석해 학교와 지역사회 현장에서의 환경교육 확",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "한국환경보전원이 탄소중립 사회 실현을 위해 전국 교육청 및 환경교육 기관과 함께 환경교육법 개정 방향과 기후·에너지 교육 사례를 공유하는 워크숍을 개최했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/06/26/acea4bc30f45303a3f302cd8a7a45113.jpg",
+    "score": 4.585,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "제임스 웹이 본 오리온의 '우주 탄생 요람'…\"별들의 탄생 순간\"",
+    "url": "https://zdnet.co.kr/view/?no=20260626145946",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-26T06:29:47+00:00",
+    "raw_excerpt": "[지디넷코리아]제임스 웹 우주망원경(JWST)이 오리온자리의 별 형성 지역인 ‘OMC-2’를 생생하게 포착한 사진이 공개됐다고 과학매체 라이브사이언스가 최근 보도했다.공개된 이미지는 폭발적인 에너지 광선이 무지갯빛 우주 공간을 가로지르는 모습을 담고 있어, 마치 공상과학(SF) 영화 속 전투 장면을 연상시킨다. 하지만 이 역동적인 풍경은 사실 가스와 먼지, 그리고 갓 태어난 별들이 활발하게 꿈틀대는 격동적인 '별의 탄생' 현장이다.사진의 배경이 된 '오리온 A'는 지구에서 약 1300광년 떨어진 오리온자리 남쪽에 위치해 있으며, 지구와 가장 가깝고 거대한 분자운 중 하나다. 가스와 먼지가 길게 늘어선 필라멘트 구조를 띠고 있으며, 길이는 290광년에 달한다. 거대한 오리온 분자운 복합체의 일부인 오리온A는 별들이 빽빽하게 밀집된 대표적인 우주 요람으로, 지난 수백만 년 동안에만 약 3000개의 별을 탄생시킨 것으로 추정된다.오리온A에 위치한 ‘OMC-2’는 차가운 가스와 먼지 구름으로 가득 찬 지역으로, 현재도 주변 물질을 흡수하며 질량을 키워가고 있는 매우 어린 별인 '원시항성'들이 집중적으로 형성되는 곳이다. OMC-2는 오리온 성운 뒤쪽에 길게 뻗은 거대한 필라멘트 구조인 '오리온 분자운'의 네 구역 중 하나이기도 하다. 성운 바로 뒤에는 OMC-1이 있으며, 북쪽에는 OMC-2와 OMC-3가, 남쪽에는 OMC-4가 각각 자리 ",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "제임스 웹 우주망원경이 오리온자리의 별 형성 지역 OMC-2를 촬영해 갓 태어난 원시항성들이 활발히 탄생하는 우주 요람의 모습을 포착했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/06/26/9f568251eca478d309497ea4da748ff8.png",
+    "score": 4.583,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "Micron locks in historically high memory prices for five years",
+    "url": "https://www.theregister.com/systems/2026/06/25/micron-locks-in-historically-high-memory-prices-for-five-years/5261854",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-26T06:27:25+00:00",
+    "raw_excerpt": "Article URL: https://www.theregister.com/systems/2026/06/25/micron-locks-in-historically-high-memory-prices-for-five-years/5261854 Comments URL: https://news.ycombinator.com/item?id=48683041 Points: 40 # Comments: 29",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Micron이 5년간 역사적 고가 수준의 메모리 가격을 고정하여 업계와 소비자에게 장기적 비용 상승 압력을 줄 것으로 예상된다.",
+    "thumbnail": "https://image.theregister.com/5262109.jpg?imageId=5262109&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "score": 2.715,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "Libre Barcode Project",
+    "url": "https://graphicore.github.io/librebarcode/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-26T03:12:42+00:00",
+    "raw_excerpt": "Article URL: https://graphicore.github.io/librebarcode/ Comments URL: https://news.ycombinator.com/item?id=48681949 Points: 132 # Comments: 13",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Libre Barcode Project는 오픈소스로 바코드 폰트를 개발해 누구나 자유롭게 바코드를 생성하고 사용할 수 있도록 하는 프로젝트입니다.",
+    "thumbnail": "",
+    "score": 2.606,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "What happened after 2k people tried to hack my AI assistant",
+    "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-26T02:29:23+00:00",
+    "raw_excerpt": "Article URL: https://www.fernandoi.cl/posts/hackmyclaw/ Comments URL: https://news.ycombinator.com/item?id=48681687 Points: 131 # Comments: 50",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "AI 어시스턴트를 2천 명이 해킹하려 시도한 결과를 분석한 사례 연구.",
+    "thumbnail": "",
+    "score": 2.582,
+    "engagement": 0,
+    "matched_keywords": [
+      "hack"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
+    "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-26T01:10:52+00:00",
+    "raw_excerpt": "Article URL: https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/ Comments URL: https://news.ycombinator.com/item?id=48681220 Points: 154 # Comments: 85",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Framework의 10G 이더넷 모듈이 USB-C 규격의 복잡성을 드러내면서 기술 커뮤니티의 관심을 모으고 있습니다.",
+    "thumbnail": "",
+    "score": 2.539,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)",
+    "url": "https://gchandbook.org/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-25T23:10:30+00:00",
+    "raw_excerpt": "Article URL: https://gchandbook.org/ Comments URL: https://news.ycombinator.com/item?id=48680370 Points: 132 # Comments: 21",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "자동 메모리 관리의 기술을 다루는 'The Garbage Collection Handbook' 2판(2023)이 개발자들의 주목을 받고 있습니다.",
+    "thumbnail": "",
+    "score": 2.472,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "The 'papers, please' era of the internet will decimate your privacy",
+    "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-25T21:44:55+00:00",
+    "raw_excerpt": "Article URL: https://expression.fire.org/p/the-papers-please-era-of-the-internet Comments URL: https://news.ycombinator.com/item?id=48679608 Points: 679 # Comments: 317",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "온라인 신원 확인 의무화가 확산되면서 인터넷 사용자의 프라이버시가 심각하게 침해될 위험이 커지고 있다.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!ikRw!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9049285c-dc2e-420a-b023-0f94858244b3_1000x667.jpeg",
+    "score": 2.424,
+    "engagement": 0,
+    "matched_keywords": [
+      "privacy"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "The Doorman's Fallacy in action",
+    "url": "https://rozumem.xyz/posts/17",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-25T20:00:35+00:00",
+    "raw_excerpt": "Article URL: https://rozumem.xyz/posts/17 Comments URL: https://news.ycombinator.com/item?id=48678495 Points: 110 # Comments: 151",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "The Doorman's Fallacy는 보안 결정에서 입구 점검만으로 내부 위협을 간과하는 논리적 오류를 지적합니다.",
+    "thumbnail": "",
+    "score": 2.366,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "OS9Map",
+    "url": "https://yllan.org/software/OS9Map/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-25T15:01:06+00:00",
+    "raw_excerpt": "Article URL: https://yllan.org/software/OS9Map/ Comments URL: https://news.ycombinator.com/item?id=48674484 Points: 224 # Comments: 44",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "I appreciate your request, but I notice that you've provided the metadata and header information for an article (OS9Map from Hacker News) but not the actual article content itself.\n\nTo create an accurate one-sentence summary in Korean, I need the actual article text. Could you please provide:\n\n1. The full article content or main body text\n2. A summary/excerpt of what OS9Map is about\n\nOnce you share the article content, I'll compress it into a single Korean sentence (under 80 characters) following all the guidelines you've specified.",
+    "thumbnail": "",
+    "score": 2.2,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "Zig's new bitCast semantics and LLVM back end improvements",
+    "url": "https://ziglang.org/devlog/2026/#2026-06-25",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-25T14:19:28+00:00",
+    "raw_excerpt": "Article URL: https://ziglang.org/devlog/2026/#2026-06-25 Comments URL: https://news.ycombinator.com/item?id=48673825 Points: 237 # Comments: 119",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Zig 프로그래밍 언어가 bitCast 의미론을 개선하고 LLVM 백엔드 성능을 향상시켰다.",
+    "thumbnail": "",
+    "score": 2.177,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  }
+]
