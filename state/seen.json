@@ -1221,7 +1221,7 @@
     "04113a049f23c006": "https://social.news.hada.io/topic/30901",
     "7428fff3df183efa": "https://image.zdnet.co.kr/2026/06/28/df37f648fd68ef6ad3e20a02ddac1daa.png"
   },
-  "last_sent_date": "2026-06-26",
+  "last_sent_date": "2026-06-29",
   "sent": {
     "2026-06-22": [
       "morning",
@@ -1247,6 +1247,9 @@
       "morning",
       "noon",
       "evening"
+    ],
+    "2026-06-29": [
+      "morning"
     ]
   }
 }
