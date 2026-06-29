@@ -1,0 +1,821 @@
+[
+  {
+    "title": "앤트로픽 출신 베테랑들, ‘과학자용 AI’ 스타트업 설립…역대급 시드 투자 유치",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212244",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-29T16:32:10+00:00",
+    "raw_excerpt": "앤트로픽 출신의 핵심 연구원들이 설립한 AI 스타트업 미렌딜(Mirendil)이 대규모 투자 유치에 성공하며 본격적인 행보에 나섰다. 오픈소스 개발자와 과학자들이 자체적인 AI 모델을 직접 구축할 수 있도록 돕는 'AI를 만드는 AI' 개발이 목표다.월스트리트저널(WSJ)에 따르면, 미렌딜은 최근 앤드리슨 호로비츠와 클라이너 퍼킨스, 엔비디아 등으로부터 2억달러(약 3083억원) 규모의 시드 투자를 유치했다. 이번 투자에서 미렌딜은 기업 가치 10억달러(약 1조5414억원)를 인정받으며 단숨에 유니콘 기업 반열에 올랐다. 최근 신생",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "앤트로픽 출신 연구원들이 설립한 미렌딜이 2억 달러 시드 투자로 유니콘 기업이 되며, 과학자들이 AI 모델을 직접 구축하도록 돕는 플랫폼 개발을 추진 중이다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212244_215437_2734.jpeg",
+    "score": 10.361,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업",
+      "유니콘",
+      "시드 투자",
+      "투자 유치"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "'카르파시 AI 코딩 지침' 확산…\"프롬프트에서 루프 시대로 진화\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212236",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-29T16:01:29+00:00",
+    "raw_excerpt": "AI 연구자 안드레이 카르파시가 작성한 것으로 추정되는 새로운 AI 코딩 지침 문서가 개발자 커뮤니티에서 빠르게 퍼지고 있다. 진위는 확인되지 않았지만, 기존에 널리 알려진 4가지 원칙을 10가지 규칙으로 확장하면서 AI 코딩 에이전트의 프롬프트 작성법을 넘어 자율적으로 작업을 수행하는 '에이전트 워크플로우' 자체를 바꿀 수 있다는 평가가 나오고 있다.27일(현지시간) 테크타임스에 따르면, 최근 X를 통해 공유된 문서는 'CLAUDE.md' 파일로 '같은 실수를 두 번 보고 얻은 짧은 규칙(A Short List of Rules,",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Andrej Karpathy로 추정되는 AI 코딩 지침이 프롬프트 작성을 넘어 AI 에이전트의 자율 작업 워크플로우 자체를 개선할 수 있다는 평가를 받으며 개발자 커뮤니티에서 확산 중이다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212236_215430_5657.png",
+    "score": 9.344,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "ai 코딩",
+      "프롬프트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[게시판] 위로보틱스, 휴머노이드 ‘알렉스’ 시뮬레이션 모델 공개 등 단신",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212243",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-29T16:30:00+00:00",
+    "raw_excerpt": "■ 위로보틱스(대표 이연백, 김용재)는 피지컬 AI 개발 생태계 구축을 위한 기술 공개 로드맵을 시작한다고 밝혔다. 첫 번째 공개 기술로는 휴머노이드 ‘알렉스(ALLEX)’의 시뮬레이션 모델과 심-투-리얼(Sim-to-Real) 검증 결과를 공개했다. 이번 모델을 통해, 개발자와 연구자는 실제 하드웨어 없이도 알렉스 하드웨어 기반의 제어, 학습, 합성 데이터 생성 연구를 수행할 수 있다.■ 아이스크림에듀(대표 이재준)는 28일 수원시 청소년문화센터 온누리 아트홀에서 열린 ‘수원새빛인강 학부모 설명회 및 오리엔테이션’에 참여해 AI",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "위로보틱스가 휴머노이드 로봇 '알렉스'의 시뮬레이션 모델을 공개하여 개발자들이 실제 하드웨어 없이도 로봇 제어 및 학습 연구를 할 수 있게 했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212243_215436_2410.jpeg",
+    "score": 8.408,
+    "engagement": 0,
+    "matched_keywords": [
+      "로보틱스",
+      "휴머노이드"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "오픈AI, 코덱스 '크레딧 선물' 기능 테스트…생태계 확장 시동",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212223",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-29T16:12:24+00:00",
+    "raw_excerpt": "오픈AI가 AI 코딩 도구 '코덱스(Codex)'에서 사용자 간 크레딧을 공유할 수 있는 '선물(Gifting)' 기능을 테스트 중인 것으로 알려졌다. 이는 크레딧 사용을 하나의 계정에만 묶어두는 기존 방식에서 벗어나, 다른 사용자에게 크레딧을 전달할 수 있도록 하는 새로운 기능이다. 28일(현지시간) 테스팅카탈로그에 따르면, 최근 공개된 오픈AI의 최신 빌드에서 코덱스 크레딧을 다른 사용자에게 전달할 수 있도록 설계된 숨겨진 위젯과 함께 사용자 프로필 메뉴에 '선물(Gifts)' 항목이 추가된 것이 확인됐다.현재 이 메뉴는 아직",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI가 코딩 도구 Codex에서 사용자 간 크레딧 공유 기능을 테스트 중으로, 크레딧의 개인 계정 제한을 해제하고 생태계 확장을 시도하고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212223_215418_4147.png",
+    "score": 8.384,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "AI가 만든 허위정보, 책임은 누구에게 있나?...독일 법원, 구글에 금지명령",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40733",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-29T12:16:36+00:00",
+    "raw_excerpt": "독일 법원이 생성형 AI가 허위 정보를 생성해 명예를 훼손한 경우 플랫폼 사업자에게 직접 책임을 물을 수 있다는 판단을 내렸다.구글의 인공지능 검색요약 서비스인 'AI 오버뷰(AI Overview)'가 존재하지 않는 내용을 생성해 특정 출판사를 '사기 수법'과 연관 지어 표현한 사건에서, 뮌헨 지방법원은 구글에 해당 표현의 반복을 금지하는 예비적 금지명령을 내렸다. 이는 생성형 AI 산출물에 대한 플랫폼 책임을 인정한 대표적 사례로 평가된다.그동안 챗GPT와 제미나이 등 생성형 AI는 학습데이터를 바탕으로 사용자의 질문에 응답해 왔",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "독일 법원이 구글의 AI 검색요약 서비스가 생성한 허위정보로 인한 명예훼손에 대해 플랫폼 사업자에게 직접 책임을 물을 수 있다고 판단했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40733_61425_3739_v150.jpg",
+    "score": 8.345,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "생성형 ai"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "엔비디아, 인도네시아에 대규모 'AI 팩토리' 건설…스타트업 비용 부담 낮춘다",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212234",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-29T14:18:49+00:00",
+    "raw_excerpt": "엔비디아가 호주 AI 인프라 기업 퍼머스 테크놀로지스(Firmus Technologies)와 전략적 파트너십을 체결하고 아시아·태평양 지역 AI 인프라 확대에 나선다.28일(현지시간) 블룸버그에 따르면, 엔비디아와 퍼머스는 인도네시아에 최대 17만 개의 엔비디아 AI 가속기를 투입한 대규모 'DSX AI 팩토리(DSX AI Factory)'를 구축해 신생 AI 기업들이 낮은 비용으로 AI 컴퓨팅 자원에 접근할 수 있도록 지원할 계획이다.이번 계약에 따라 엔비디아는 퍼머스에 AI 인프라를 공급하고, 퍼머스는 이를 활용해 AI 네이티브",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "엔비디아가 호주 기업 퍼머스와 협력해 인도네시아에 최대 17만 개의 AI 가속기를 갖춘 'DSX AI 팩토리'를 건설하여 스타트업의 AI 컴퓨팅 자원 접근 비용을 낮춘다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212234_215426_137.jpg",
+    "score": 8.23,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "엔비디아"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "스타트업포럼, '피지컬 AI 협의회' 출범...\"로봇·자율주행 생태계 키운다\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212230",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-29T13:42:27+00:00",
+    "raw_excerpt": "코리아스타트업포럼(의장 김재원)은 피지컬 AI 산업 육성과 생태계 활성화를 위한 협의체 '피지컬 AI 산업협의회'를 29일 공식 출범했다고 밝혔다.협의회에는 ▲리얼월드 ▲메가존클라우드 ▲베어로보틱스 ▲본에이아이 ▲브레인커머스 ▲서울로보틱스 ▲아그모 ▲에스오에스랩 ▲엘리스그룹 ▲페르소나AI ▲하이퍼엑셀 등 11개 기업이 참여한다. 초대 협의회장은 황희승 브레인커머스 대표가 맡았다.협의회는 산업계 의견 수렴과 정책 제언, 기술 실증(PoC) 확대, 글로벌 진출 지원 등을 통해 국내 피지컬 AI 생태계 활성화에 나설 계획이다.로봇·자율주",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "코리아스타트업포럼이 로봇·자율주행 등 피지컬 AI 산업 육성을 위해 11개 기업이 참여한 '피지컬 AI 산업협의회'를 출범했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212230_215424_3358.png",
+    "score": 8.181,
+    "engagement": 0,
+    "matched_keywords": [
+      "로보틱스",
+      "스타트업"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "\"AI 모델 직접 고르는 시대 끝났다\"...마인드로직, 슈퍼 에이전트 사용 5배 급증",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212218",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-29T13:38:36+00:00",
+    "raw_excerpt": "마인드로직(대표 김용우·김진욱)은 멀티 AI 에이전트 플랫폼 '팩트챗' 내 슈퍼 에이전트 사용 비중이 지난달 2.3%에서 11.6%로 크게 늘었다고 29일 밝혔다.팩트챗은 챗GPT·클로드·제미나이 등 80여개 AI 모델을 통합 제공하는 플랫폼이다. 슈퍼 에이전트는 사용자가 AI 모델을 직접 지정하지 않아도 목적에 맞는 최적의 모델을 자동으로 조합해 실행하는 기능이다.이는 국내 이용자들의 AI 리터러시 향상과 다양한 모델을 목적에 맞게 활용하려는 수요가 반영된 결과라는 설명이다.팩트챗 데이터 기반, 국내 AI 활용 패턴 분석 결과도",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "마인드로직의 팩트챗 플랫폼에서 사용자가 AI 모델을 직접 선택하지 않아도 최적 모델을 자동 조합하는 슈퍼 에이전트 사용이 5배 급증했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212218_215412_4436.jpg",
+    "score": 8.176,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "\"AI 테스트는 끝났다\"…기업 100% AI 예산 할당, '양산 단계' 전격 진입",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212228",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-29T13:35:55+00:00",
+    "raw_excerpt": "AI 토큰 비용의 압박이 기업의 AI 도입을 가로막는 최대 걸림돌이 될 것이라는 예측과는 달리, 아직도 많은 기업은 관련 예산을 늘리고 있다는 조사 결과가 나왔다. 또 오픈AI는 앤트로픽을 압도적인 격차로 따돌리며 기업 시장에서 독점적 지위를 지키는 것으로 나타났다. 이런 결과는 이제부터 대부분 기업들이 본격적으로 AI를 도입하는 단계로 접어들었다는 것을 보여준다.글로벌 투자은행 RBC 캐피털 마켓츠는 26일(현지시간) 최고 정보책임자(CIO) 및 기술 업계 리더 100여명을 대상으로 실시한 '기업 IT 지출 설문조사' 보고서를 발",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "기업들이 AI 토큰 비용 부담에도 불구하고 AI 예산을 지속 증가시키며 본격적인 도입 단계에 진입하고 있으며, OpenAI가 시장을 독점하고 있는 것으로 조사됐다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212228_215420_1531.png",
+    "score": 8.172,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[양현상 칼럼] 전남의 미래, ‘K-방산’과 ‘산학연 생태계’에 답이 있다",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212219",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-29T10:45:00+00:00",
+    "raw_excerpt": "세계는 지금 대한민국 방위산업을 주목하고 있다. K9 자주포와 FA-50, 천무 다연장로켓은 글로벌 시장에서 경쟁력을 인정받으며 대한민국을 대표하는 수출 산업으로 자리 잡았다. 이제 방위산업은 국가 안보를 위한 전략산업을 넘어 반도체, 우주항공, 인공지능(AI), 로봇, 첨단소재가 융합된 미래 국가경제의 핵심 성장동력이 되고 있다.정부 역시 이러한 흐름에 발맞춰 방위산업을 미래 신산업으로 육성하고 있다. 최근 방위사업청은 'K-방산 청년뉴딜'을 통해 방산 전문인력 양성에 본격적으로 나섰다. 오는 2030년까지 채용연계형 방산 계약학",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "K-방산이 반도체·AI·로봇 등과 융합된 미래 국가경제의 핵심 성장동력으로 부상하면서 전남이 산학연 생태계 구축으로 이를 주도해야 한다는 주장.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212219_215411_4410.jpg",
+    "score": 7.941,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "SK, AI 인프라에 1100조원 투자…전국 15GW 데이터센터·서남권 반도체 거점 구축",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40740",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-29T16:43:35+00:00",
+    "raw_excerpt": "SK그룹이 대한민국 인공지능(AI) 경쟁력 강화를 위한 초대형 투자 계획을 발표했다. 전국에 총 15GW 규모의 AI 데이터센터를 구축하고, 용인·청주·서남권을 연결하는 AI 메모리 생산벨트를 조성하는 등 AI 인프라 구축에 총 1100조원을 투입한다는 구상이다.최태원 SK그룹 회장은 29일 청와대 영빈관에서 열린 '대한민국 대도약 3대 메가프로젝트 국민보고회'에서 \"대한민국이 AI를 추진하는 궁극적인 목표는 지능 생산 시장을 활성화해 사회 전반의 비용을 획기적으로 줄이고 국민경제를 성장시키는 것\"이라며 \"AI 데이터센터와 반도체",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "SK그룹이 AI 경쟁력 강화를 위해 1100조원을 투자해 전국 15GW 규모 데이터센터와 AI 메모리 생산벨트를 구축하는 계획을 발표했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40740_61432_433_v150.jpg",
+    "score": 7.778,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "AI가 이끄는 제조업의 대전환, 청사진 나왔다....정부, 2030년까지 민·관 합동 20조원 투자",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40739",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-29T16:31:22+00:00",
+    "raw_excerpt": "인구 감소와 글로벌 경쟁 격화로 대한민국 제조업의 위기감이 커지는 가운데, 정부가 인공지능(AI)을 앞세워 제조업 재도약의 신호탄을 쏘아 올렸다. 정부는 29일 열린 대한민국 대도약 3대 메가프로젝트 국민보고회 계기에, 제조업 대전환의 막을 여는 대한민국 제조업 대전환의 길: 제조AI 2030 전략을 발표했다.우리나라는 AI 전반의 기술 경쟁력에서는 미국·중국 등과 치열한 경쟁에 직면해 있지만, 반도체, 조선, 자동차 등 세계적 경쟁력을 갖춘 주력 산업과 全산업에 걸쳐 촘촘히 형성된 대·중소기업 가치사슬, 그리고 수십 년간 축적된",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "정부가 2030년까지 민·관 합동 20조원을 투자해 AI 기반 제조업 혁신 전략인 '제조AI 2030'을 발표했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40739_61431_3036_v150.jpg",
+    "score": 7.763,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "삼성, \"AI 시대 국가 산업 지형 바꾼다\"...국내에 2655조원 투자",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40738",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-29T16:30:00+00:00",
+    "raw_excerpt": "삼성이 인공지능(AI) 시대 국가 경쟁력 강화를 위해 총 2655조원 규모의 국내 투자 계획을 발표했다. 평택·용인 반도체 클러스터를 중심으로 한 초대형 반도체 투자와 함께 호남·충청·영남권에 AI 반도체, AI 데이터센터, 로봇, 차세대 배터리, 디스플레이 등 미래 산업 투자를 대폭 확대해 대한민국을 글로벌 첨단산업 허브로 육성한다는 구상이다.삼성은 29일 열린 '대한민국 대도약 3대 메가 프로젝트 국민보고회'에서 AI 시대 기술 패러다임 변화에 선제적으로 대응하고 미래 성장동력을 확보하기 위해 총 2655조원을 국내에 투자하겠다",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "삼성이 AI 시대 대응을 위해 2655조원 규모의 국내 투자 계획을 발표하며 반도체, AI 칩, 데이터센터, 로봇, 배터리 등 미래산업에 집중 투자한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40738_61430_1834_v150.jpg",
+    "score": 7.761,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "이재명 대통령, \"AI 신대륙 선점할 마지막 기회\"...서남권 800조원 투자, '반도체·피지컬 AI·AI 데이터센터' 3대 메가 프로젝트 선언",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40737",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-29T15:20:48+00:00",
+    "raw_excerpt": "이재명 대통령이 인공지능(AI) 시대 국가 경쟁력 확보를 위한 초대형 산업 전략인 '대한민국 대도약 3대 메가 프로젝트'를 공식 발표했다. 반도체와 피지컬 AI(Physical AI), AI 데이터센터를 국가 미래 성장의 3대 축으로 육성하고, 이를 기반으로 수도권 중심 산업구조를 전국 단위 혁신 생태계로 전환하겠다는 구상이다.이 대통령은 29일 열린 '대한민국 대도약 3대 메가 프로젝트 국민보고회'에서 모두발언을 통해 \"대한민국은 새로운 대도약의 전환점에 서 있다\"라며 \"국정 2년 차인 올해를 세계 어떤 나라도 대신할 수 없는 대",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "이재명 대통령이 AI 신대륙 선점을 위해 반도체·피지컬 AI·AI 데이터센터를 3대 메가 프로젝트로 삼아 서남권에 800조원 투자하는 '대한민국 대도약' 전략을 발표했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40737_61429_206_v150.jpg",
+    "score": 7.675,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "“반도체·인공지능 등 첨단기술 유출 막는다”...지식재산처, 국가 기술안보 지킬 전문수사조직 본격 가동",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40735",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-29T13:29:14+00:00",
+    "raw_excerpt": "반도체·인공지능(AI) 등 첨단기술 유출을 막고 국가 기술안보를 지킬 전문수사조직이 30일 본격 출범한다.지식재산처(처장 김용선)는 29일 반도체·인공지능(AI) 등 첨단기술 유출에 대응하기 위한 기술유출·탈취 대응체계 확대개편 방안을 발표했다. 이번 방안은 ‘기술유출특별사법경찰과’ 등을 신설해 첨단기술 유출 사건을 전담트랙에서 수사하도록 하는 것이 핵심이다. 기술경찰은 기존 27명에서 61명으로 확충된다.지식재산처 기술경찰은 ’19년 특허·영업비밀 수사권 도입, ’21년 전담조직(기술디자인특별사법경찰과) 신설 이후 최고 수준의 기",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "지식재산처가 반도체·AI 등 첨단기술 유출을 대응할 전문수사조직을 30일부터 본격 가동하며, 기술경찰을 27명에서 61명으로 확충한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40735_61427_287_v150.jpg",
+    "score": 7.535,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "엠아이큐브솔루션, AI 네이티브 개발 체제 도입...자율제조 AX 고도화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212245",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-29T15:55:00+00:00",
+    "raw_excerpt": "엠아이큐브솔루션(대표 박문원·심효준)은 AI 기반 소프트웨어 개발 방식 'AIDD'를 전사 개발 체계에 적용해 자율제조 솔루션 혁신에 속도를 낸다고 29일 밝혔다.이를 위해 대표 직속 'AX 혁신 TFT'를 신설했다. AI-네이티브 개발 플랫폼과 AI-임베디드 솔루션 두 축으로 나눠 AIDD 기반 신규 솔루션 개발과 방법론 구축, 내재화에 주력할 계획이다.AI-네이티브 개발 플랫폼은 AI를 단순 개발 도구가 아닌 분석·설계·개발·테스트 전 과정의 자동화 수단으로 활용한다. AI-임베디드 솔루션은 제조 운영 과정에서 수요예측, 공정",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "엠아이큐브솔루션이 AI 기반 개발 방식 AIDD를 도입해 자율제조 솔루션 AX의 고도화를 추진한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212245_215438_4829.png",
+    "score": 7.386,
+    "engagement": 0,
+    "matched_keywords": [
+      "ax"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "머스크 \"그록 4.5 비공개 베타 시작…앤트로픽 오퍼스 능가할 것\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212222",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-29T14:57:07+00:00",
+    "raw_excerpt": "일론 머스크 CEO가 차세대 AI 모델 '그록(Grok) 4.5'의 내부 테스트가 진행 중이라고 공개하며, 초기 성능이 앤트로픽의 최상위 모델 '클로드 오퍼스'에 근접하거나 이를 뛰어넘을 가능성이 있다고 주장했다. 또 올해 안에 처음부터 새롭게 학습시킨 AI 모델을 매달 공개하겠다는 계획도 밝혔다.머스크 CEO는 28일(현지시간) X를 통해 \"그록 4.5는 1조5000억(1.5T) 매개변수 규모의 V9 기반 모델을 바탕으로 추가 학습을 거쳐 현재 스페이스X와 테슬라에서 비공개 베타 테스트를 진행 중\"이라고 발표했다.현재 그록 4.5",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "머스크가 차세대 AI 모델 그록 4.5의 비공개 베타 테스트를 시작했으며, 클로드 오퍼스 수준 이상의 성능을 목표로 하고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212222_215416_194.jpg",
+    "score": 7.307,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "여수세계섬박람회 현장 점검…구 국도 17호선 30억 지원 건의",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212220",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-29T13:40:02+00:00",
+    "raw_excerpt": "AI 생성 영상여수시는 서영학 여수시장 당선인이 윤호중 행정안전부 장관과 2026여수세계섬박람회 준비 현장을 점검했다고 29일 밝혔다.현장에서는 주행사장 조성 상황과 교통·주차 대책, 관람객 편의시설, 위생 관리 등이 다뤄졌으며, 서 당선인은 구 국도 17호선 노후·위험도로 정비를 위한 특별교부세 30억원 지원을 건의했다.이번 점검은 섬박람회 개막을 앞두고 행사장 안전과 관람객 이동 편의를 확인하기 위해 이뤄졌다. 현장에서는 주행사장 주요 시설의 조성 상황과 관람객 동선, 교통 혼잡 대응 방안, 주차 대책이 함께 점검됐다.안전 대책",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "여수시장 당선인이 행안부 장관과 2026여수세계섬박람회 준비 상황을 점검하며 구 국도 17호선 정비를 위한 30억원 지원을 건의했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212220_215423_2710.jpg",
+    "score": 7.203,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "태양광 패널 없어도 전기요금 절감…스리랑카 가상 순계량 추진",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212216",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-29T12:00:00+00:00",
+    "raw_excerpt": "스리랑카에서 옥상 태양광 전력을 모아 전기요금 크레딧으로 나눠주는 분산형 전력 인프라 사업이 추진된다. 대형 건물 지붕에서 생산한 전력을 여러 소비자에게 배분하는 방식으로, 직접 태양광 패널을 설치하기 어려운 영세·중소기업과 지역 조직도 재생에너지 전력을 활용할 수 있게 된다.아시아개발은행(ADB)은 26일(현지시간) 스리랑카의 청정에너지 접근성을 높이고 온실가스 배출을 줄이기 위해 5740만달러(약 886억원) 규모의 금융 패키지를 승인했다고 밝혔다. 시행기관 부담분을 포함한 총 추정 사업비는 8050만달러(1242억원)다.사업명",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "스리랑카가 ADB 자금지원으로 대형 건물 옥상 태양광을 여러 소비자와 공유하는 분산형 전력 사업을 추진해 태양광 설치가 어려운 소규모 사업자도 재생에너지 혜택을 받을 수 있게 한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212216_215414_5046.jpg",
+    "score": 7.067,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "AX대학원, 수도권 독식 논란에 결국 ‘추가 모집’",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=20979",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-06-29T13:00:00+00:00",
+    "raw_excerpt": "과학기술정보통신부가 인공지능전환(AX) 융합인재 양성을 위한 ‘AX대학원’ 추가 모집에 나선다. 첫 선정 결과가 서울·수도권에 쏠렸다는 비판이 제기된 지 한 달여 만이다. 학계에서는 “처음부터 설계가 잘못된 사업임을 정부 스스로 인정한 셈”이라는 평가가 나온다.29일 복수의 대학 관계자에 따르면 과기정통부와 정보통신기획평가원(IITP)은 다음 달 AX대학원 추가 모집 절차에 들어갈 예정이다. 규모와 선정 기준은 아직 정해지지 않았다. 정부는 지난주 올해 선정된 10개 대학에 결과를 개별 통보했으며, 이 가운데 비수도권 대학은 경북에",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "정부가 수도권 집중 논란에 따라 AX대학원 추가 모집을 추진하기로 했으며, 학계는 사업 설계 부실을 인정한 것이라고 평가하고 있다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202606/20979_21594_579.jpg",
+    "score": 6.049,
+    "engagement": 0,
+    "matched_keywords": [
+      "ax"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "IPARK현대산업개발, KCC와 브랜드 시그니처 색상기준 개발",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=46775",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-29T17:54:41+00:00",
+    "raw_excerpt": "[스마트타임스]IPARK현대산업개발과 KCC가 IPARK 단지의 일관된 품질 구현을 위한 색채 체계와 도장 기준을 개발한다.양사는 지난 26일 IPARK 브랜드 시그니처 컬러 기준 정립과 색채 매뉴얼북 제작을 위한 업무협약을 체결했다고 29일 밝혔다.IPARK 시그니처 컬러 기준 정립은 HDC그룹 창립 50주년을 맞아 추진한 브랜드 리뉴얼의 연장선이다.KCC와 협업해 IPARK 단지 외관과 주동, 지하주차장, 공용공간 등에 적용할 색채와 도장, 자재 기준을 표준화하고 모든 현장에 적용하는 것이 목표다.새로운 색채 체계에는 색각 이상",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "IPARK현대산업개발이 KCC와 함께 단지의 일관된 품질 구현을 위해 브랜드 시그니처 색상 기준과 도장 기준을 개발하기로 했다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202606/46775_45263_5431_v150.jpg",
+    "score": 5.225,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "삼성전자, 차세대 HBM 구조 변경 추진…고단 대응 신개념 특허 출원",
+    "url": "https://www.etnews.com/20260629000171",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-06-29T08:00:00+00:00",
+    "raw_excerpt": "삼성전자가 고대역폭 메모리(HBM) 패키지의 신뢰성 문제 해결을 위한 신규 특허를 출원한 것으로 확인됐다. HBM4E와 HBM5 등 고적층 시대가 임박하면서 메모리 다이를 보호하는 '더미 다이(Dummy Die)' 구조를 혁신, 구조적 안정성과 수율 안정성을 추구하고 있는 것으로 나타났다. 28일 해당 HBM 패키징 특허에 따르면 삼성전자는 스택 최상단의 더미 다이 측면을 3단 계단식 +곡면 구조로 가공하는 기술을 개발했다. 고적층 HBM에서",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "삼성전자가 HBM4E와 HBM5 등 차세대 고적층 메모리의 신뢰성 확보를 위해 더미 다이 구조를 개선한 신규 특허를 출원했다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/06/26/news-p.v1.20260626.bfc08b29d2db4c4db6f22b5bdf9f5600_P2.png",
+    "score": 5.186,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "경제계, 메가프로젝트 '환영'…“인프라 차질 없어야”",
+    "url": "https://www.etnews.com/20260629000417",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-06-29T07:54:58+00:00",
+    "raw_excerpt": "경제 6단체가 정부 '대한민국 대도약 3대 메가프로젝트' 추진 계획에 공식 환영 입장을 밝히면서, 전력·용수·부지 등 필수 인프라 적기 공급을 강하게 주문했다. 투자 의지와 함께 정부 지원을 전제 조건으로 못 박은 것이다. 한국경영자총협회·대한상공회의소 등 경제 6단체는 29일 공동성명을 내고 “정부가 반도체와 피지컬 AI 등 미래 성장동력을 육성하고, AI 데이터센터 구축을 비롯한 산업 기반 생태계 확충에 국가적 역량을 결집하기로 한 것을 환",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "경제 6단체가 정부의 '대한민국 대도약 3대 메가프로젝트'를 환영하면서 반도체·AI 등 미래산업 육성을 위해 전력·용수 등 필수 인프라 적기 공급을 강하게 요구했다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/06/29/news-p.v1.20260629.8bd0b55ebc314562acb63f31a9a9ced1_P1.jpg",
+    "score": 5.181,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "삼성, 2655조 '초대형 베팅'…광주 '반도체'·해남 'AI'·구미 '로봇'",
+    "url": "https://www.etnews.com/20260629000416",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-06-29T07:52:17+00:00",
+    "raw_excerpt": "삼성그룹이 AI 시대 미래 경쟁력 확보를 위해 국내에 총 2655조원을 투자한다고 29일 밝혔다. 평택·용인 반도체 클러스터에 2030조원을 쏟아붓고, 호남·충청·영남 3개 권역에 625조원을 추가 배분하는 초대형 투자 계획이다. AI 반도체·로봇·배터리·IT 부품소재를 4대 축으로 삼아 대한민국을 글로벌 최첨단 산업 클러스터로 조성하겠다는 구상이다. 호남 투자 핵심은 광주 반도체 클러스터다. 삼성전자는 기흥·화성, 평택, 용인에 이은 차기 반",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "삼성그룹이 AI 시대 경쟁력 확보를 위해 국내에 2655조원을 투자하며, 평택·용인 반도체 클러스터와 호남·충청·영남 권역에 AI반도체·로봇·배터리 등 4대 분야를 집중 육성한다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/06/29/news-p.v1.20260629.63f9373b0a6d47d7b93eb3258f732a04_P1.jpg",
+    "score": 5.178,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "공간정보 보안성 검토, 밀실협의 우려…업계 “고정밀지도 반출 절차 투명해야”",
+    "url": "https://www.etnews.com/20260629000350",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-06-29T07:00:00+00:00",
+    "raw_excerpt": "사상 처음으로 고정밀지도 국외 반출이 결정된 가운데 공간정보 보안관리를 국토교통부·국방부 장관 등에 맡기는 시행령안이 검토 중인 것으로 파악됐다. 기존에 대통령령으로 명문화됐던 조항을 국토부·국방부 장관 등이 정할 수 있도록 한 것이어서 밀실협의가 가능해진다는 지적이 나온다. 공간정보·정보기술(IT) 업계는 구글에 이어 애플은 물론 중국 등 다른 해외 빅테크도 고정밀 지도를 노리는 상황에서 고정밀지도의 반출 문턱이 낮아지는 것 아니냐고 우려했다",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "고정밀지도 국외 반출 기준을 시행령으로 변경하려는 정부 방안에 대해 업계가 투명성 부족과 보안 우려를 제기했다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/06/23/news-p.v1.20260623.1d5ca25b94e8422692c525af8781a7c6_P1.jpg",
+    "score": 5.124,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "반도체 쉬자 코스닥 날았다…코스닥 8%대 급등",
+    "url": "https://www.etnews.com/20260629000400",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-06-29T06:54:14+00:00",
+    "raw_excerpt": "반도체주 중심의 쏠림 장세가 완화되면서 국내 증시가 엇갈린 흐름을 보였다. 코스피는 외국인 매도와 대형 반도체주 약세에 장중 급락 후 약보합으로 마감한 반면, 코스닥은 2차전지·바이오주 강세에 8%대 급등했다. 29일 한국거래소에 따르면 코스피는 전 거래일보다 16.56포인트(0.20%) 내린 8394.65에 거래를 마쳤다. 지수는 전장보다 76.93포인트(0.91%) 내린 8334.28로 출발해 장중 한때 8127.99까지 밀렸다. 이후 낙폭",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "반도체 약세로 코스피는 약보합에 그친 반면, 2차전지·바이오주 강세에 코스닥이 8%대 급등했다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/06/29/rcv.YNA.20260629.PYH2026062914650001300_P1.jpg",
+    "score": 5.118,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[대한민국 3대 메가프로젝트]정부, 특별회계·인력양성 등 …정부 합동 총력지원체계 구축",
+    "url": "https://www.etnews.com/20260629000373",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-06-29T06:20:33+00:00",
+    "raw_excerpt": "정부가 반도체·제조AI·AI 데이터센터 분야의 산업 생태계 조성과 기업 참여 확대를 위한 총력지원체계를 구축한다. 중앙정부, 지방정부를 막론하고 국가 모든 구성원이 3대 메가프로젝트 성공을 위해 단결한다. 먼저 반도체 분야에서는 대통령 주재 '반도체 경쟁력 강화 특별위원회', 산업통상부 장관이 총괄하는 '반도체 짜르', 산업통상부 내 '반도체 혁신지원단'을 중심으로 국가 차원의 지원체계를 가동한다. 2027년 약 2조원 규모의 반도체 특별회계를",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "정부가 반도체·제조AI·AI 데이터센터 3대 메가프로젝트 성공을 위해 특별회계와 전담 조직으로 국가 차원의 총력지원체계를 구축한다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/06/29/news-p.v1.20260629.f1756b6b03b840ef8804f27bb435c755_P1.png",
+    "score": 5.083,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "이재준 한림대 춘천성심병원장 “AX로 지역 뇌질환 골든타임 사수”",
+    "url": "https://www.etnews.com/20260629000344",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-06-29T06:20:00+00:00",
+    "raw_excerpt": "한림대춘천성심병원이 의료 취약지를 겨냥한 인공지능 전환(AX)에 고삐를 죈다. 지역내 전문의 부족으로 응급 환자 이송·처치가 지연되는 고질적 문제를 AI 기술로 돌파하겠다는 구상이다. 초고령화 지역은 뇌경색·지주막하출혈 등 노인성 뇌질환 부담이 가파르다. 이재준 한림대 춘천성심병원 병원장은 “AI 기반 정밀진단과 응급 대응 체계로 뇌신경계 질환의 중증화율을 낮추고, 지역 간 의료격차를 해소하는 것이 목표”라고 말했다. 뇌질환 치료 관건은 시간이",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "한림대 춘천성심병원이 AI 기술로 의료 취약지의 뇌질환 골든타임을 확보하고 지역 의료격차를 해소하겠다고 밝혔다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/06/29/news-p.v1.20260629.9b6603a1f0ee4ad4bd408392fdce4472_Z1.jpg",
+    "score": 5.082,
+    "engagement": 0,
+    "matched_keywords": [
+      "ax"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[대한민국 3대 메가프로젝트]호남 반도체 생태계 조성 관건…인력 확보 최대 과제",
+    "url": "https://www.etnews.com/20260629000371",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-06-29T06:18:37+00:00",
+    "raw_excerpt": "호남권 반도체 클러스터 조성이 본격화되면서, 단순한 팹 건설을 넘어 '완전한 생태계' 구축이 관건으로 떠올랐다. 삼성전자와 SK하이닉스가 800조원을 투자해 메모리 팹 4기(각각 2기)를 구축, 5년 내 생산능력 2배 확충을 추진하는 가운데, 소부장 협력사 이전, 전문 인력 확보, 에너지 공급 등 복합적인 과제가 산적해 있다. 특히 인력 확보는 가장 큰 걸림돌로 지목된다. 29일 업계에 따르면 호남 지역 인력 확보 효과가 어려운 이유는 소위 '",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "삼성전자·SK하이닉스가 호남에 800조원 투자로 메모리 팹 4기를 구축하면서 단순 건설을 넘어 생태계 완성이 관건이며, 특히 전문 인력 확보가 최대 과제로 지적됐다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/06/29/news-p.v1.20260629.8b8e171f5dd94beb97064f0d47cb25f8_P2.png",
+    "score": 5.081,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "인하대 이차전지사업단-IMU, 이차전지·모빌리티 산업 육성 협약",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=46798",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-29T14:53:03+00:00",
+    "raw_excerpt": "[스마트타임스]인하대학교는 지난 26일 인천모빌리티연합(IMU)과 이차전지 산업 활성화·전문인력 양성을 위한 업무협약(MOU)을 체결했다고 29일 밝혔다.인하대와 인천모빌리티연합은 인천 송도를 중심으로 한 ‘지역 거점 이차전지 기지’ 조성을 위해 ▲산학협력 기반 공동 기술 개발·사업화 ▲현장 중심 전문인력 양성 ▲시험·연구 인프라 공동 활용 등 구체적인 협력 방안을 추진하기로 했다.특히 대학의 연구 인력과 기업의 현장 수요를 매칭해 이차전지·미래 모빌리티 분야 핵심 기술을 공동 개발하고 상용화를 가속화할 예정이다.학생·연구원을 대상",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "인하대와 인천모빌리티연합이 이차전지·모빌리티 산업 육성을 위한 협약을 체결, 송도 지역 거점 기지 조성과 전문인력 양성에 협력하기로 했다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202606/46798_45240_5248_v150.jpg",
+    "score": 5.055,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "Dubai Crypto Regulator Issues 50th Virtual Asset License as Digital Asset Sector Expands",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=46803",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-29T14:50:44+00:00",
+    "raw_excerpt": "Dubai's Virtual Assets Regulatory Authority (VARA) has reached a new milestone by issuing its 50th virtual asset service provider license, highlighting the emirate's continued efforts to establish itself as a leading global center for digital asset businesses.The regulator announced that its latest",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Dubai의 가상자산 규제당국(VARA)이 50번째 가상자산 서비스 제공자 라이선스를 발급하며 글로벌 디지털자산 허브로서의 위상을 강화하고 있다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202606/46803_45239_5041_v150.jpg",
+    "score": 5.053,
+    "engagement": 0,
+    "matched_keywords": [
+      "regulatory"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "Binance Suspends Some EU Services Ahead of MiCA Licensing Deadline",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=46800",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-29T14:49:02+00:00",
+    "raw_excerpt": "Binance has begun suspending certain services for customers across the European Union after confirming it will not secure a Markets in Crypto-Assets (MiCA) license before the regulatory deadline.The world's largest cryptocurrency exchange by trading volume informed affected users via email that it w",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "바이낸스가 MiCA 규제 기한까지 라이선스 취득에 실패해 EU 고객 대상 일부 서비스를 중단하기 시작했다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202606/46800_45236_4853_v150.jpg",
+    "score": 5.051,
+    "engagement": 0,
+    "matched_keywords": [
+      "regulatory"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "김성환 기후부 장관 \"서남권 반도체 지역에 전력 15GW·용수 65만톤 적기 공급\"",
+    "url": "https://zdnet.co.kr/view/?no=20260629160610",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-29T07:06:10+00:00",
+    "raw_excerpt": "[지디넷코리아]김성환 기후에너지환경부 장관은 29일 “서남권 반도체 지역에 필요한 전력 6.3GW와 용수 65만톤을 적기에 차질 없이 공급하겠다”고 밝혔다.김 장관은 이날 청와대에서 열린 ‘대한민국 대도약 3대 메가프로젝트 국민보고회’에서 “반도체·AI 데이터센터 같은 첨단산업이 발전하기 위해선 물과 전기가 꼭 필요하다. 기후부는 필요한 전기와 용수를 적기에 공급해서 대한민국 대도약을 적극 뒷받침하도록 하겠다”며 이같이 말했다.김 장관은 이날 ‘AI 시대를 선도하는 전기국가 비전’를 주제로 한 발표에서 “호남지역은 원전·햇빛·바람으로 정기를 생산하기는 했지만, 소비수요가 없어서 수도권으로 전력을 송출하기만 했지만, 이제는 호남에서 생산하는 전기가 호남의 반도체 팹을 움직이는 용도로 사용될 수 있게 됐다”고 말했다.김 장관은 “6.3GW와 전력과 65만톤의 용수를 적기에 공급하고 그 이상의 전력과 물도 미리 준비할 수 있도록 하는 한편, 수도권 용인 지역에 필요한 전력 15GW와 용수 150만톤도 차질 없이 공급하겠다”고 덧붙였다.김 장관은 이어 “지역 전기요금 제도를 도입하면 철강·석유화학과 같은 전통제조업과 함께 반도체 같은 첨단산업 경쟁력도 더욱 높아질 것”이라며 “충청·영남·호남·강원권 등에 세워지는 대규모 AI 데이터센터에 필요한 8GW 이상의 전력도 적기에 공급할 수 있도록 하겠다”고 말했다.그는 AI 데이터센터 유치 경쟁력",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "김성환 기후부 장관이 서남권 반도체 지역에 전력 6.3GW와 용수 65만톤, 수도권에 전력 15GW와 용수 150만톤을 적기에 공급하겠다고 발표했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/06/29/e3fcc91a83737d40bf1ce5f8512d7efd.jpg",
+    "score": 4.617,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "공용 DNS 리졸버 선택 가이드",
+    "url": "https://news.hada.io/topic?id=30914",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-06-28T22:41:13+00:00",
+    "raw_excerpt": "공용 DNS 리졸버는 단순 속도보다 개인정보 보호, 필터링, 관할권, 운영 주체, 암호화 전송 을 함께 봐야 하며, 이 가이드는 30개 글로벌 서비스를 요구사항별로 비교함 선택 도구는 DoH·DoT·DoQ·DNSCrypt, DNSSEC 검증 , IPv6, 관할권, 운영자 유형, EDNS Client Su...",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "공용 DNS 리졸버 선택 시 속도보다 개인정보보호·암호화·필터링을 우선 고려해야 하며, 30개 글로벌 서비스를 요구사항별로 비교하는 가이드가 제시됨.",
+    "thumbnail": "https://social.news.hada.io/topic/30914",
+    "score": 4.604,
+    "engagement": 0,
+    "matched_keywords": [
+      "개인정보"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "US Grid Constraints: Towards 40GW+ of Behind-the-Meter Datacenter by 2028?",
+    "url": "https://newsletter.semianalysis.com/p/us-grid-constraints-towards-40gw",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-29T07:36:08+00:00",
+    "raw_excerpt": "Article URL: https://newsletter.semianalysis.com/p/us-grid-constraints-towards-40gw Comments URL: https://news.ycombinator.com/item?id=48716009 Points: 17 # Comments: 2",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "미국 전력망 제약으로 인해 2028년까지 40GW 이상의 자체 발전 데이터센터 구축이 가속화될 것으로 예상된다.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!t8wj!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F907313ec-d17d-4e62-bd79-17e374d6767e_1672x940.png",
+    "score": 2.753,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "Replacing Systemd with OpenRC in Debian",
+    "url": "https://danielcordova.me/blog/debian-openrc/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-29T06:37:44+00:00",
+    "raw_excerpt": "Article URL: https://danielcordova.me/blog/debian-openrc/ Comments URL: https://news.ycombinator.com/item?id=48715630 Points: 43 # Comments: 48",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Debian에서 systemd를 OpenRC로 대체하는 방법에 대한 기술 가이드가 공개되어 init 시스템 선택의 자유도에 대한 논의가 활발해졌다.",
+    "thumbnail": "",
+    "score": 2.72,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "Lore – Give your coding agent the decisions your team made",
+    "url": "https://github.com/itsthelore/rac-core",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-29T04:40:35+00:00",
+    "raw_excerpt": "Article URL: https://github.com/itsthelore/rac-core Comments URL: https://news.ycombinator.com/item?id=48714880 Points: 31 # Comments: 35",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Lore는 개발 팀의 결정 사항을 코딩 에이전트에 제공하여 더 나은 코드 생성을 돕는 도구입니다.",
+    "thumbnail": "https://repository-images.githubusercontent.com/1255866572/8702002c-6eb6-4689-b725-868c5177c008",
+    "score": 2.655,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "Age verification is just a precursor to automated attribution of speech",
+    "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-29T03:42:07+00:00",
+    "raw_excerpt": "Article URL: https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026 Comments URL: https://news.ycombinator.com/item?id=48714529 Points: 409 # Comments: 220",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "나이 인증 제도가 결국 온라인 발언의 자동 추적 및 귀속으로 이어질 수 있다는 우려가 제기되고 있습니다.",
+    "thumbnail": "",
+    "score": 2.623,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
+    "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-29T01:44:40+00:00",
+    "raw_excerpt": "Article URL: https://danunparsed.com/p/hackerrank-open-source-ats Comments URL: https://news.ycombinator.com/item?id=48713832 Points: 364 # Comments: 119",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "HackerRank이 오픈소스한 ATS 도구가 이력서 점수를 일관성 없게 매겨 신뢰성 문제를 드러냈다.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!S-dx!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbab22a57-acb5-4fe4-929f-132059bcb466_1800x900.png",
+    "score": 2.558,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
+    "url": "https://arxiv.org/abs/2401.07013",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-28T22:32:04+00:00",
+    "raw_excerpt": "Article URL: https://arxiv.org/abs/2401.07013 Comments URL: https://news.ycombinator.com/item?id=48712420 Points: 96 # Comments: 15",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "대규모 언어모델의 내부 구조 접근 없이도 지식 증류 기술로 소형 모델 성능을 향상시킬 수 있다는 연구가 주목받고 있습니다.",
+    "thumbnail": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "score": 2.451,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  }
+]
