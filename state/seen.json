@@ -1452,7 +1452,7 @@
     "590108ca97055890": "https://cdn.byline.network/wp-content/uploads/2026/06/KISA2.jpg",
     "b76bf623b860f121": "https://image.zdnet.co.kr/2026/06/29/f811c8a0ddd202a170e44fc9ff335053.png"
   },
-  "last_sent_date": "2026-06-29",
+  "last_sent_date": "2026-06-30",
   "sent": {
     "2026-06-22": [
       "morning",
@@ -1483,6 +1483,9 @@
       "morning",
       "noon",
       "evening"
+    ],
+    "2026-06-30": [
+      "morning"
     ]
   }
 }
