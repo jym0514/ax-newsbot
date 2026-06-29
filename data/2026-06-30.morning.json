@@ -1,0 +1,820 @@
+[
+  {
+    "title": "EU seeks AI independence as Austria proposes luring Anthropic to Europe",
+    "url": "https://the-decoder.com/eu-seeks-ai-independence-as-austria-proposes-luring-anthropic-to-europe/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-06-29T17:58:42+00:00",
+    "raw_excerpt": "Austria's State Secretary for Digitalization, Alexander Pröll, is calling on the European Commission to explore bringing Anthropic to Europe. He's responding to the U.S. ban on advanced AI models from OpenAI and Anthropic for foreign users. The initiative is likely unrealistic, though. And the alternative floating in the background, Chinese AI models, would just trade one dependency for another. The article EU seeks AI independence as Austria proposes luring Anthropic to Europe appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "오스트리아가 Anthropic을 유럽으로 유치해 AI 독립성을 확보하자고 제안했으나, 미국 의존에서 중국 의존으로 바뀔 수 있다는 우려가 제기되고 있다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/usa_china_eu.png",
+    "score": 7.113,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai",
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Meta restricts use of Claude Code and Codex to keep rival AI out of its training data",
+    "url": "https://the-decoder.com/meta-restricts-use-of-claude-code-and-codex-to-keep-rival-ai-out-of-its-training-data/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-06-29T15:47:43+00:00",
+    "raw_excerpt": "Meta is restricting its engineers' use of Anthropic's Claude and OpenAI's Codex to prevent output from these AI tools from being incorporated into its own training data. The article Meta restricts use of Claude Code and Codex to keep rival AI out of its training data appeared first on The Decoder .",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Meta가 경쟁사 AI 모델들의 결과물이 자사 학습 데이터에 포함되는 것을 막기 위해 엔지니어들의 Claude와 Codex 사용을 제한하고 있다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/Code-Agent-Harness-Nano-Banana-Pro.jpg",
+    "score": 6.963,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "codex",
+      "claude code"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Mapping Europe’s AI Workforce Opportunity",
+    "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-06-29T07:00:00+00:00",
+    "raw_excerpt": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI가 유럽 노동시장에서 AI로 인한 직업 변화를 분석한 보고서를 발표했으며, 자동화·성장·업무 변화의 위험에 처한 직종들을 파악했다.",
+    "thumbnail": "",
+    "score": 6.539,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+    "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-06-29T18:10:26+00:00",
+    "raw_excerpt": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Anthropic이 캘리포니아 정부와 Claude 반값 사용 계약을 체결하면서 연방정부와 OpenAI 간 갈등이 심화되고 있다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+    "score": 6.302,
+    "engagement": 0,
+    "matched_keywords": [
+      "openai",
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Amazon engineers are reportedly distilling Anthropic models to cut costs before new token-based pricing kicks in",
+    "url": "https://the-decoder.com/amazon-engineers-are-reportedly-distilling-anthropic-models-to-cut-costs-before-new-token-based-pricing-kicks-in/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-06-29T18:05:37+00:00",
+    "raw_excerpt": "Amazon engineers are already distilling Anthropic models into smaller, cheaper versions for internal use. Starting next year, Amazon will pay by tokens processed rather than compute hours, which could push costs up sharply. The company is also exploring alternatives like OpenAI. The article Amazon engineers are reportedly distilling Anthropic models to cut costs before new token-based pricing kicks in appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Amazon 엔지니어들이 내년의 토큰 기반 요금제 전환 전에 Anthropic 모델을 축소하여 비용 절감을 시도하고 있습니다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2023/09/amazon_anthropic-e1695638185191.png",
+    "score": 6.296,
+    "engagement": 0,
+    "matched_keywords": [
+      "openai",
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Agent confidence on the technical frontier",
+    "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+    "source": "MIT Tech Review",
+    "source_type": "rss",
+    "published_at": "2026-06-29T14:44:01+00:00",
+    "raw_excerpt": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial outcomes their businesses seek. A prime opportunity for AI agents",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "기업들이 2026년을 AI 투자 전환점으로 보며 실질적 ROI 창출을 위해 에이전트 AI에 주목하고 있다.",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/06/Microsoft-Social-Card.png?resize=1200,600",
+    "score": 6.065,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic",
+      "agentic ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "OpenAI is teasing new hardware… for Codex",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-06-29T18:52:03+00:00",
+    "raw_excerpt": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongside the caption, \"Your favorite Codex shortcuts are getting an upgrade.\" This isn't the mysterious AI-powered device OpenAI is working on with [ ]",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI가 7월 15일 AI 코딩 도구 Codex용 새로운 하드웨어 기기를 출시할 예정이다.",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/openai-codex-hardware.png?quality=90&strip=all&crop=0%2C8.6878272251309%2C100%2C82.624345549738&w=1200",
+    "score": 5.772,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Claude Code runs a GitHub repo's hidden malware without verification, giving attackers full control",
+    "url": "https://the-decoder.com/claude-code-runs-a-github-repos-hidden-malware-without-verification-giving-attackers-full-control/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-06-29T10:04:32+00:00",
+    "raw_excerpt": "Security researchers at Mozilla's 0DIN platform have shown how a single compromised GitHub repo can take over a developer's machine the moment an AI coding tool like Claude Code runs its setup. The catch: the malicious code only loads at runtime via a DNS query, invisible in the repo, to scanners, and to the AI agent itself. The article Claude Code runs a GitHub repo s hidden malware without verification, giving attackers full control appeared first on The Decoder .",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Claude Code와 같은 AI 코딩 도구가 DNS 쿼리로 숨겨진 악성코드를 실행해 개발자 머신을 장악당할 수 있는 보안 취약점이 발견됐다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/ai_prompt_injection-1200x670.png",
+    "score": 5.745,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "claude code"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "[6월29일] '챗GPT' 비밀번호를 공유하면 안 되는 이유...\"넷플릭스와는 달라\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212217",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-30T07:00:00+00:00",
+    "raw_excerpt": "AI 챗봇의 대중화로 최근 국내외에서 챗GPT와 클로드, 제미나이 등의 유료 요금제 계정을 공유하는 사례가 늘고 있습니다. 마치 넷플릭스처럼, 가족이나 친구, 커플, 심지어 같은 프로젝트를 진행하는 직장인들이 아이디와 비밀번호를 공유하는 것입니다.그러나 이는 오픈AI나 앤트로픽이 엄격하게 금지하는 행위일뿐더러, 실제로 문제가 될 소지가 크다는 분석이 등장했습니다.월스트리트저널(WSJ)에 따르면, 전문가들은 AI 챗봇이 사용자의 '두 번째 뇌' 역할을 하는 만큼, 넷플릭스와 같은 OTT 계정 공유와는 완전히 다른 차원의 위험성을 내포",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "ChatGPT 비밀번호 공유는 넷플릭스와 달리 AI가 사용자의 개인 정보를 학습하는 '두 번째 뇌' 역할을 하기 때문에 오픈AI·앤트로픽이 금지하며 위험하다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212217_215408_2028.png",
+    "score": 5.66,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Gemini’s personalized AI image generation is now free for US users",
+    "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-06-29T20:12:59+00:00",
+    "raw_excerpt": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Google이 미국의 무료 사용자에게 Gemini의 개인맞춤형 AI 이미지 생성 기능을 확대하며 사용자의 관심사와 연결된 Google 앱 데이터 기반 이미지 생성을 지원한다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472.jpg?w=1024",
+    "score": 5.617,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
+    "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-06-29T18:07:48+00:00",
+    "raw_excerpt": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "삼성·SK하이닉스 등 한국 반도체 기업들이 AI 수요 급증에 대응하기 위해 550억 달러 이상을 투자해 메모리 칩 생산을 확대하기로 약속했다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-455242307_8b18ff.jpg?resize=1200,800",
+    "score": 5.474,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "AI agents are not your “coworkers”",
+    "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+    "source": "MIT Tech Review",
+    "source_type": "rss",
+    "published_at": "2026-06-29T18:00:00+00:00",
+    "raw_excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will report to you. The worker is not a person but an AI tool—one that your company nonetheless calls Alex, an",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AI 에이전트를 인간 동료처럼 대하는 것은 위험하며, 기업이 제공하는 인간적 이름은 실제 자율성이 없는 도구일 뿐이라는 점을 간과하게 한다.",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/06/260625_AIAgents.jpg?resize=1200,600",
+    "score": 5.465,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+    "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-06-29T17:39:17+00:00",
+    "raw_excerpt": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AI 성능 평가 플랫폼 Arena가 상용 서비스 출시 불과 7개월 만에 1억 달러 기업으로 평가받고 있다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/06/ARENA_3Founders.jpg?resize=1200,801",
+    "score": 5.441,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+    "url": "https://openai.com/index/hp-frontier-partnership",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-06-28T17:00:00+00:00",
+    "raw_excerpt": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "HP Inc.가 OpenAI와의 Frontier 파트너십을 확대하여 고객 경험, 소프트웨어 개발, 엔터프라이즈 운영 전반에 AI를 배포한다.",
+    "thumbnail": "",
+    "score": 5.402,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Cursor now has a mobile app for guiding your coding agent on the go",
+    "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-06-29T17:03:50+00:00",
+    "raw_excerpt": "Cursor has launched a new mobile app for remote oversight over coding agents.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Cursor가 코딩 에이전트를 원격으로 감독할 수 있는 모바일 앱을 출시했다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/12/Anysphere-Cursor-Michael-Truell-.png?resize=1200,745",
+    "score": 5.4,
+    "engagement": 0,
+    "matched_keywords": [
+      "cursor"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+    "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-06-29T14:00:08+00:00",
+    "raw_excerpt": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands.",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "로봇 손 제작 스타트업 Proception이 Tesla 영업비밀 소송을 합의하고 1,100만 달러 투자 유치를 발표했다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/06/proception-prohand-proglove-1.jpg?resize=1200,800",
+    "score": 5.19,
+    "engagement": 0,
+    "matched_keywords": [
+      "robotics"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Leaked iPhone 18 Pro photos reportedly wound up on the dark web",
+    "url": "https://www.theverge.com/tech/959229/iphone-18-pro-leak-apple-dark-web",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-06-29T20:18:26+00:00",
+    "raw_excerpt": "Leaked iPhone 18 Pro photos and parts lists appeared on the dark web following a data breach affecting one of Apple's key suppliers, according to a report from Reuters. The leaked images show a drop test of what a source tells Reuters is the iPhone 18 Pro, equipped with a three-camera layout and Apple logo. [ ]",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Apple의 주요 공급업체 데이터 침해로 iPhone 18 Pro의 사진과 부품 목록이 다크웹에 유출됐다.",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/DSC02122.webp?quality=90&strip=all&crop=0%2C10.277834479943%2C100%2C79.444331040114&w=1200",
+    "score": 5.112,
+    "engagement": 0,
+    "matched_keywords": [
+      "data breach"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "마크비전, 브랜드 보호 자동화 도구 ‘브랜드 인텔리전스 에이전트’ 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212242",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-29T15:53:21+00:00",
+    "raw_excerpt": "IP 전문 마크비전(대표 이인섭)은 브랜드 시장 변화 분석과 브랜드 보호 업무 자동화를 지원하는 신규 기능 ‘브랜드 인텔리전스 에이전트(Brand Intelligence Agent)’를 출시했다고 29일 밝혔다.브랜드 인텔리전스 에이전트는 고객사 브랜드 보호 데이터를 바탕으로 브랜드 운영에 필요한 인사이트를 제공하고 의사결정을 지원하는 AI 에이전트다. 브랜드 보호 과정에서 축적되는 셀러, 리스팅, 가격, 마켓플레이스, 소셜미디어 데이터를 통합 분석해 시장 변화를 파악하고 브랜드 운영을 위한 데이터 기반 의사결정을 지원한다. 보고서",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "마크비전이 AI 기반 '브랜드 인텔리전스 에이전트'를 출시해 브랜드 보호 업무 자동화와 시장 변화 분석을 지원한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212242_215434_4734.jpeg",
+    "score": 4.841,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "위로보틱스, 휴머노이드 ‘알렉스’ 가상 모델 무료 공개",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=20986",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-06-29T16:15:53+00:00",
+    "raw_excerpt": "위로보틱스가 자사 휴머노이드 로봇 ‘알렉스(ALLEX)’를 똑같이 본뜬 가상 모델을 29일 무료 공개했다. 개발자들이 값비싼 실제 로봇 없이도 컴퓨터 안에서 알렉스를 움직여보며 로봇 AI를 연구할 수 있게 하기 위해서다.이번 공개는 위로보틱스가 추진하는 ‘피지컬 AI’ 개발 생태계 구축의 첫걸음이다. 피지컬 AI는 로봇이 현실 세계를 인식하고 스스로 판단해 움직이는 기술로, 차세대 로봇 산업의 핵심으로 떠오르고 있다. 특히 휴머노이드 분야에서는 실제 로봇의 특성을 정밀하게 옮긴 가상 환경에서 먼저 학습과 검증을 거치는 개발 방식이",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "위로보틱스가 휴머노이드 로봇 '알렉스'의 가상 모델을 무료 공개해 개발자들이 실제 로봇 없이 피지컬 AI 연구를 할 수 있게 했다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202606/20986_21598_1456.jpg",
+    "score": 4.664,
+    "engagement": 0,
+    "matched_keywords": [
+      "로보틱스",
+      "휴머노이드",
+      "차세대"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Quantum computing startup says it will leapfrog everybody",
+    "url": "https://arstechnica.com/science/2026/06/quera-promises-thousands-of-error-corrected-qubits-by-2029/",
+    "source": "Ars Technica",
+    "source_type": "rss",
+    "published_at": "2026-06-29T17:59:50+00:00",
+    "raw_excerpt": "But the system would require a massive leap from any of its existing hardware.",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "양자컴퓨팅 스타트업이 기존 하드웨어에서 대규모 도약이 필요한 시스템 개발을 추진 중이다.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Libra-internals44-copy-1152x648.jpeg",
+    "score": 4.471,
+    "engagement": 0,
+    "matched_keywords": [
+      "quantum"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "정부, 서남권 메모리 팹에 800조 쏟는다...'메가 프로젝트' 전격 가동",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212241",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-29T16:49:45+00:00",
+    "raw_excerpt": "정부는 29일 청와대 영빈관에서 '대한민국 대도약 3대 메가프로젝트 국민보고회'를 열고, 반도체 생산공장(팹)과 대규모 AI 데이터센터, 피지컬 AI 및 첨단 로봇 산업을 중점적으로 추진한다고 밝혔다.이날 행사는 이재명 대통령과 이재용 삼성전자 회장, 최태원 SK그룹 회장 등 주요 경영진이 참석했다.가장 핵심인 반도체 부문은 수도권에서 벗어나 광주 중심 서남권을 제2 생산거점, 충청권을 패키징 거점, 동남·대경권을 소부장 혁신 거점으로 다변화한다.서남권에는 총 800조원을 투입해 메모리 팹 4개가 들어설 전망이다. 정부는 서남권에",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "정부가 서남권에 800조원을 투입해 메모리 팹 4개를 건설하는 '대도약 3대 메가프로젝트'를 추진하며 반도체 생산거점을 다변화한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212241_215435_2159.jpg",
+    "score": 4.242,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": ".self: A new top-level domain designed to support self-hosting",
+    "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-29T19:49:28+00:00",
+    "raw_excerpt": "Article URL: https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/ Comments URL: https://news.ycombinator.com/item?id=48724230 Points: 145 # Comments: 95",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "self 최상위 도메인이 자체 호스팅을 지원하기 위해 새로 설계되었습니다.",
+    "thumbnail": "",
+    "score": 4.065,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "JumpServer: Open-Source Privileged Access Management",
+    "url": "https://github.com/jumpserver/jumpserver",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-29T19:06:17+00:00",
+    "raw_excerpt": "Article URL: https://github.com/jumpserver/jumpserver Comments URL: https://news.ycombinator.com/item?id=48723677 Points: 37 # Comments: 8",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "JumpServer는 권한 있는 접근을 관리하는 오픈소스 PAM 솔루션으로 GitHub에서 주목받고 있습니다.",
+    "thumbnail": "https://opengraph.githubassets.com/98953ad794e868e8cdd2b13c3e8d78e361a075dceea7661d62e1379d5c27c6d6/jumpserver/jumpserver",
+    "score": 4.029,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Qwen 3.6 27B is the sweet spot for local development",
+    "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-29T17:05:16+00:00",
+    "raw_excerpt": "Article URL: https://quesma.com/blog/qwen-36-is-awesome/ Comments URL: https://news.ycombinator.com/item?id=48721903 Points: 491 # Comments: 429",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Qwen 3.6 27B 모델이 로컬 개발에 최적화된 성능과 효율성의 균형점으로 평가받고 있습니다.",
+    "thumbnail": "https://quesma.com/_astro/thermal_master_p3_macbook.DJG2GL38.jpg",
+    "score": 3.929,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "European ISPs Want Rightsholders Held Accountable for Overblocking Damage",
+    "url": "https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-29T16:07:15+00:00",
+    "raw_excerpt": "Article URL: https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/ Comments URL: https://news.ycombinator.com/item?id=48721072 Points: 301 # Comments: 78",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "유럽 ISP들이 저작권자의 과도한 콘텐츠 차단으로 인한 손해배상을 요구하고 있습니다.",
+    "thumbnail": "https://torrentfreak.com/images/wall-feat.jpg",
+    "score": 3.88,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "US Supreme Court rules geofence warrants require constitutional protections",
+    "url": "https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-29T15:54:24+00:00",
+    "raw_excerpt": "Article URL: https://www.theguardian.com/us-news/2026/jun/29/supreme-court-geofence-warrants-case-decision Comments URL: https://news.ycombinator.com/item?id=48720924 Points: 355 # Comments: 161",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "미국 대법원이 지오펜스 수색영장에 헌법적 보호 조치 적용을 의무화했습니다.",
+    "thumbnail": "https://i.guim.co.uk/img/media/ddb87e813bdb11401cf5abac3654ec9ff5b15d85/328_0_5001_4002/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4dde1080bea475527e46e854344cca12",
+    "score": 3.87,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "A native graphical shell for SSH",
+    "url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-29T15:42:17+00:00",
+    "raw_excerpt": "Article URL: https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html Comments URL: https://news.ycombinator.com/item?id=48720758 Points: 206 # Comments: 90",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "SSH를 위한 네이티브 그래픽 셸이 개발되어 원격 서버 접근 방식을 개선할 수 있는 가능성을 제시했습니다.",
+    "thumbnail": "https://probablymarcus.com/images/2026-06-28-outer-shell.png",
+    "score": 3.859,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
+    "url": "https://humphri.es/blog/WATaBoy/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-29T15:02:00+00:00",
+    "raw_excerpt": "Article URL: https://humphri.es/blog/WATaBoy/ Comments URL: https://news.ycombinator.com/item?id=48720190 Points: 160 # Comments: 24",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "WATaBoy라는 Game Boy 에뮬레이터가 명령어를 WASM으로 JIT 컴파일하여 네이티브 인터프리터보다 빠른 성능을 달성했다.",
+    "thumbnail": "",
+    "score": 3.826,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "You Don't Know Jack About Formal Verification",
+    "url": "https://queue.acm.org/detail.cfm?id=3819084",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-29T14:12:05+00:00",
+    "raw_excerpt": "Article URL: https://queue.acm.org/detail.cfm?id=3819084 Comments URL: https://news.ycombinator.com/item?id=48719521 Points: 83 # Comments: 33",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "형식 검증(formal verification)이 소프트웨어 개발에서 실제로 어떻게 작동하는지에 대한 일반적인 오해들을 다룬 기술 분석이 관심을 받고 있습니다.",
+    "thumbnail": "",
+    "score": 3.784,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Rocketlab acquires Iridium",
+    "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-29T14:09:24+00:00",
+    "raw_excerpt": "Article URL: https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully Comments URL: https://news.ycombinator.com/item?id=48719485 Points: 322 # Comments: 193",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Rocket Lab이 Iridium을 인수하여 위성 통신 산업에서 완전 통합 기업을 구성한다.",
+    "thumbnail": "",
+    "score": 3.782,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "What happens when you run a CUDA kernel?",
+    "url": "https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-29T13:11:08+00:00",
+    "raw_excerpt": "Article URL: https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/ Comments URL: https://news.ycombinator.com/item?id=48718863 Points: 188 # Comments: 20",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "CUDA 커널 실행 시 GPU에서 일어나는 내부 동작 과정을 상세히 설명하는 기술 글이 화제입니다.",
+    "thumbnail": "https://fergusfinn.com/_astro/cover.jG4AhdiB.jpg",
+    "score": 3.734,
+    "engagement": 0,
+    "matched_keywords": [
+      "gpu"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Rebuilding the Computer Room",
+    "url": "https://alexwlchan.net/2026/computer-room/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-29T11:34:36+00:00",
+    "raw_excerpt": "Article URL: https://alexwlchan.net/2026/computer-room/ Comments URL: https://news.ycombinator.com/item?id=48717905 Points: 85 # Comments: 43",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "컴퓨터실을 재구축한 개발자의 경험과 배운 교훈을 공유하는 글이 해커뉴스에서 주목받고 있습니다.",
+    "thumbnail": "https://alexwlchan.net/images/cards/2026/computer-room.jpg",
+    "score": 3.653,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "삼성·SK 반도체 합산 투자 ‘4755조 시대’ 열었다",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=20992",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-06-29T18:06:53+00:00",
+    "raw_excerpt": "29일 청와대 영빈관, 이재명 대통령이 주재한 ‘대한민국 대도약 3대 메가프로젝트 국민보고회’에서 전례 없는 수치가 쏟아졌다. 이재용 삼성전자 회장은 총 2655조 원의 국내 투자 계획을 발표했고, 최태원 SK 회장은 15기가와트(GW) 규모의 AI 데이터센터 구축과 함께 2100조 원의 반도체 투자 로드맵을 공개했다. 양사의 합산 투자 규모는 4755조 원에 달한다. 대한민국 GDP의 두 배를 훌쩍 넘는 숫자다.◇ 삼성, 반도체 벨트 수도권 밖으로 넓힌다이번 발표는 단순한 기업 투자 계획을 넘어선다. AI 반도체, 데이터센터, 피",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "삼성과 SK가 합산 4755조 원 규모의 반도체·AI 투자 계획을 발표하며 국내 반도체 산업의 대규모 확대에 나섰다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202606/20992_21604_48.jpg",
+    "score": 3.648,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "SK하이닉스 손잡은 에이직랜드, 319억 eSSD 컨트롤러 설계 수주",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=20984",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-06-29T16:14:49+00:00",
+    "raw_excerpt": "에이직랜드가 SK하이닉스와 손을 잡고 차세대 기업용 SSD(eSSD) 컨트롤러 개발에 뛰어든다. 에이직랜드는 29일 공시를 통해 SK하이닉스의 차세대 eSSD 컨트롤러 개발을 위한 맞춤형 설계 서비스와 테이프아웃 지원 계약을 체결했다고 밝혔다. 계약 규모는 약 319억 원이며, 이행 기간은 올해 5월부터 2027년 12월까지다. SK하이닉스는 HBM(고대역폭 메모리)으로 AI 서버 메모리 시장을 주도하는 한편, 데이터센터용 낸드·스토리지 포트폴리오도 지속적으로 확대해 왔다. 솔리다임을 통한 eSSD 사업 강화가 대표적이다. 카운터포",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "SK하이닉스가 에이직랜드와 차세대 eSSD 컨트롤러 개발 계약을 체결해 데이터센터 스토리지 포트폴리오를 확대한다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202606/20984_21597_1011.jpg",
+    "score": 3.563,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "[인터뷰] 토스 “스테이블코인, 메인넷 운영은 검토 안해 ”",
+    "url": "https://byline.network/2026/06/0629-3/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-06-29T14:10:16+00:00",
+    "raw_excerpt": "토스는 스테이블코인과 슈퍼앱을 미래 성장의 두 축으로 보고 있다. 스테이블코인은 기존 은행 중심의 금융 시스템을 넘어 블록체인 기반의 새로운 금융 인프라를 구축하는 역할을, 슈퍼앱은 금융을 넘어 다양한 라이프스타일 서비스를 하나의 앱에서 제공하는 플랫폼으로의 진화를 의미한다. 서창훈 토스 신사업담당 상무를 만나 토스가 스테이블코인과 슈퍼앱을 통해 그리는 성장 전략과 신사업 추진 방향에 대해 들어봤다.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "토스가 스테이블코인과 슈퍼앱을 중심으로 블록체인 기반 금융 인프라 구축과 다양한 라이프스타일 서비스 통합을 추진하되, 직접 메인넷 운영은 검토하지 않는 전략을 추구하고 있다.",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/06/KakaoTalk_20260629_213939741.jpg",
+    "score": 3.468,
+    "engagement": 0,
+    "matched_keywords": [
+      "스테이블코인"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "“청소부터 보고서까지”…화장실 자율 청소 로봇 눈길",
+    "url": "https://www.etnews.com/20260629000490",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-06-29T21:00:00+00:00",
+    "raw_excerpt": "레온레기온 산하 로봇 브랜드 아토믹스 로보틱스가 자율 화장실 청소 로봇 '포모도'를 공개했습니다. 포모도는 카메라와 센서를 활용해 화장실 구조를 인식하고 스스로 이동 경로를 설정해 청소를 수행하는 로봇입니다. 변기, 소변기, 세면대, 거울, 바닥을 대상으로 고압 스팀 세척, 물 분사, 세정제 분사, 진공 흡입, 건조, 살균 등을 통해 자동 청소를 진행합니다. 청소 후 AI가 결과를 점검하고 보고서를 생성해 청소 이력을 데이터로 관리할 수 있도록",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "아토믹스 로보틱스의 자율 화장실 청소 로봇 '포모도'는 카메라·센서로 공간을 인식해 스스로 청소하고 AI가 결과를 검증해 보고서를 생성한다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/06/29/news-p.v1.20260629.e1af301038ff4d38b0bb5a5b31382415_P1.jpg",
+    "score": 3.437,
+    "engagement": 0,
+    "matched_keywords": [
+      "로보틱스"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "엔키화이트햇, 오펜시브 보안 기술로 코스닥 기술성 평가 통과",
+    "url": "https://zdnet.co.kr/view/?no=20260629222500",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-29T13:25:00+00:00",
+    "raw_excerpt": "[지디넷코리아]공격(오펜시브) 보안 전문기업 엔키화이트햇(대표 이성권)이 코스닥 기술특례 상장을 위한 기술성평가를 통과했다. 본격적인 기업공개(IPO) 절차에 돌입한다.기술성평가는 코스닥 기술특례 상장을 위한 핵심 관문이다. 기업의 기술력과 사업화 가능성을 종합적으로 검증하는 절차다. 한국거래소가 지정한 전문평가기관에서 일정 등급 이상을 획득해야 한다.29일 회사에 따르면, 엔키화이트햇은 주관사인 신영증권과 함께 상장을 준비 중이며, 최근 나이스디앤비와 한국기술신용평가(KTCB) 두 곳의 평가 기관에서 각각 ‘A, A’ 등급을 획득해 기술특례상장을 위한 요건을 성공적으로 충족했다. 엔키화이트햇은 자체 개발한 ‘인텔리전트 공격표면 관리(ASM) 및 침투테스트 자동화(PTaaS) 기술’ 혁신성과 시장 내 독보적인 경쟁력을 객관적으로 인정받았다.이 회사의 핵심 경쟁력은 지난 10년간 축적한 23만 8000건 이상의 실전 해커 지식 데이터베이스다. 실전 해커 지식 데이터베이스를 기반으로 기업 외부에 노출된 공격표면을 사전에 완벽히 식별하고, 단순 취약점 탐지를 넘어 실제 침투 가능성까지 자동으로 검증하는 올인원 오펜시브 보안 솔루션 ‘오펜(OFFen)’을 완성했다.오펜에 적용된 원천 기술들은 국가로부터 ‘NET 신기술 인증’을 획득하며 우수성을 증명했다. 특히 기업조차 인지하지 못한 'Shadow IT' 자산을 99% 이상 정확도로 찾아냈다",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "오펜시브 보안 전문기업 엔키화이트햇이 코스닥 기술특례 상장을 위한 기술성평가에서 A등급을 획득해 본격적인 IPO 절차에 돌입했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/06/29/3744863760c67011ec8c145fa9b3a2b6.jpg",
+    "score": 3.259,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "취약점"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "지니언스, 버그바운티 포상금 상반기 1046% 증가",
+    "url": "https://zdnet.co.kr/view/?no=20260629215601",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-29T12:56:01+00:00",
+    "raw_excerpt": "[지디넷코리아]사이버보안 전문기업 지니언스(대표 이동범)가 2026년 상반기 자사의 ‘보안 취약점 신고 포상제’를 운영한 결과, 취약점 접수 건수가 전년 동기 대비 약 129%, 지급 포상금은 약 1046% 증가한 것으로 나타났다.AI 기술 대중화와 고위험 취약점 출현이 맞물린 결과다. AI 기술이 급격히 발전하면서 화이트해커들의 AI 활용도 역시 크게 높아졌다. 특히 AI를 활용해 보안 취약점을 자동으로 찾아내는 탐지 활동이 새로운 트렌드로 자리매김하고 있다.보안 취약점 신고 포상제(이하 버그 바운티)는 소프트웨어나 웹 서비스의 보안 약점을 찾아낸 화이트해커에게 포상금을 지급하는 제도다. 최근 AI를 악용한 초고속·대규모의 지능화된 AI 위협이 일상화되면서 기존 사후 조치 중심의 정보보안 체계는 근본적인 한계에 도달했다는 평가다.단일 보안 사고가 대형 재난으로 비화되는 것을 막고 위협을 선제적으로 찾아 제거하는 능동형 상시 예방 체계로의 패러다임 전환이 시급하다. 이에, 보안 취약점 신고·조치·공개 제도가 필수로 요구되고 있다.구글·애플·아마존 등 글로벌 IT 기업들도 적극적으로 버그 바운티 프로그램을 운영하고 있다. 지니언스는 KISA가 운영중인 소프트웨어 신규 취약점 신고 포상제도의 공동운영사로 참여한 이래 지난 2022년 국내 보안 업계 최초로 독자적인 버그 바운티 프로그램을 시행했다.최근 글로벌 주요 국가에서는 버그 바운티를",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "지니언스의 버그바운티 프로그램이 2026년 상반기 포상금 1046% 증가를 기록했으며, 이는 AI 기술 확산으로 화이트해커들의 취약점 발굴 활동이 활발해진 결과다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/06/29/d0a9a8f946455290c13e479bc0773368.png",
+    "score": 3.241,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "취약점"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "전자문서 송수신·열람까지 증명…KISA, ‘모바일 전자증명’ 확산",
+    "url": "https://byline.network/2026/06/29-528/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-06-29T08:59:27+00:00",
+    "raw_excerpt": "한국인터넷진흥원(KISA)이 전자문서의 송수신과 열람 이력, 보관 중 무결성을 증명하는 ‘모바일 전자증명’ 서비스를 공공·민간 10개 분야로 확산한다. KISA는 한국부동산원, 우정사업본부, IBK기업은행, 기술보증기금과 공공분야 과제 4개를 추진한다. 민간에서는 로앤컴퍼니, 빅테크플러스, 메디쏠, 와이더랩, 토피도, 에이알컴즈가 참여한다. 10개 과제는 연내 서비스 구현을 목표로 한다.",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "KISA가 전자문서의 송수신·열람·보관 무결성을 증명하는 '모바일 전자증명' 서비스를 공공·민간 10개 분야로 올해 안에 확산한다.",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/06/KISA2.jpg",
+    "score": 3.23,
+    "engagement": 0,
+    "matched_keywords": [
+      "빅테크"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "한국정보산업연합회-SK AX, AI인재 양성 협력",
+    "url": "https://zdnet.co.kr/view/?no=20260629212919",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-29T12:29:19+00:00",
+    "raw_excerpt": "[지디넷코리아]한국정보산업연합회(회장 양승욱, 정산연)는 29일 SK AX(사장 김완종)와 'AI 인재양성 사업 협력을 위한 업무협약(MOU)'을 체결했다.협약은 인공지능(AI) 분야 전문 인재를 체계적으로 양성하기 위해 마련됐다. 양 기관은 상호 협력 체계를 구축하고 AI 관련 교육·실습·역량 평가 등 인재육성 활동을 공동으로 추진, 산업 현장이 요구하는 실무형 AI 역량을 갖춘 인재를 양성하고 지속 가능한 AI 산업 생태계 조성에 기여한다.협약에 따라 ▲AI 역량을 갖춘 전문 인재 양성을 위한 교육 및 프로그램 운영 ▲AI 인재 발굴 및 육성을 위한 산학 협력 추진 ▲기타 상호 협의에 따른 신규 교육 프로그램 협력 추진 등에 힘을 합친다.연합회는 이번 협약에 따라 AI 인재양성 사업 추진을 위한 협력 환경을 조성하고, 교육 참여자 모집 및 홍보를 지원하는 한편 AI 교육 운영을 위한 행정적·대외적 지원을 수행한다. 아울러 AI 교육 관련 공동 사업 발굴 및 추진을 위한 협력 체계도 함께 운영한다.SK AX는 AI 실무 중심 교육 프로그램을 기획·운영하고, AI 전문 역량을 기반으로 교육 운영을 지원한다. 또한 교육 성과 및 역량 검증 방법을 연합회와 공동으로 운영하며, 기타 신규 AI 인재 육성 관련 공동 사업에 협력할 부분을 계속 검토해 나갈 예정이다.□ 한국정보산업연합회는 \"AI 기술 발전 속도에 비해 현장에서 즉시 활용 가능",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "한국정보산업연합회와 SK AX가 AI 전문인재 양성을 위한 업무협약을 체결하고 실무형 교육·산학협력을 공동으로 추진한다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/06/29/f811c8a0ddd202a170e44fc9ff335053.png",
+    "score": 3.224,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장",
+      "ax"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  }
+]
