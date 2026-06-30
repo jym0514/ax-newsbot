@@ -1,0 +1,818 @@
+[
+  {
+    "title": "메타, '클로드·코덱스' 사내 사용 제한…“AI 증류 우려 사전 차단”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212263",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-30T17:59:41+00:00",
+    "raw_excerpt": "메타가 앤트로픽의 '클로드 코드'와 오픈AI의 '코덱스' 등 외부 AI 코딩 도구에 대한 사내 사용을 대폭 제한했다. 자체 AI 코딩 플랫폼 메타코드(MetaCode)에 무게를 싣는 동시에, 경쟁사로부터 제기될 수 있는 'AI 증류(distillation)' 논란을 사전에 차단하려는 조치다.디 인포메이션이 입수한 내부 지침에 따르면, 메타는 지난 5월부터 응용 AI 엔지니어링(Applied AI Engineering) 조직에서 클로드 코드와 코덱스 사용에 엄격한 제한을 적용하고 있다.일부 업무는 아예 중단하도록 지시했으며, 외부 A",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "메타가 클로드·코덱스 등 외부 AI 코딩 도구의 사내 사용을 제한하고 자체 메타코드 플랫폼 활용을 강화해 AI 증류 논란을 사전 차단하고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212263_215464_574.jpg",
+    "score": 8.529,
+    "engagement": 0,
+    "matched_keywords": [
+      "사내",
+      "조직"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "바이브컴퍼니, ‘에이전트 플랫폼’ 출시…“업무별 맞춤형 AI 모델 조합”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212287",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-30T17:29:41+00:00",
+    "raw_excerpt": "AI 전문 바이브컴퍼니(대표 김경서)는 단일 플랫폼에서 맞춤형 AI 에이전트를 초고속으로 구축, 운영할 수 있는 '바이브 에이전트 플랫폼(VAIV Agent Platform)'을 공식 출시했다고 30일 밝혔다.바이브 에이전트 플랫폼은 업무 복잡도와 성격에 따라 세 가지 맞춤형 빌더(단일 노드/워크플로우/딥 에이전트)를 제공한다. 비개발자부터 고급 개발자까지 에이전트를 신속하게 생성, 배포할 수 있도록 지원하는 것이 가장 큰 특징이다.에이전트 확산에 따른 관리·통제 문제도 해결했다고 전했다. 역할 기반 접근 제어(RBAC), 가드레일",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "바이브컴퍼니가 업무별 맞춤형 AI 에이전트를 빠르게 구축·운영할 수 있는 '바이브 에이전트 플랫폼'을 출시했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212287_215493_2129.png",
+    "score": 8.489,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "애플, AI 사이버 위협에 선제 대응…iOS 보안 패치 '조기 배포'로 전환",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212285",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-30T17:06:54+00:00",
+    "raw_excerpt": "AI로 인해 사이버 공격 도구 개발 속도가 빨라지는 환경에 대응하기 위해 애플이 iOS 보안 업데이트 배포 방식을 대폭 변경한다. 그동안 새로운 운영체제 버전에 포함해 제공하던 보안 패치를 앞으로는 별도로 먼저 배포, 사용자들을 더 빠르게 보호한다는 방침이다.로이터에 따르면, 애플은 29일(현지시간) AI 기술의 발전으로 악성 해킹 도구 개발 속도가 크게 빨라지고 있는 현실을 반영해 보안 업데이트 공개 시점과 실제 사용자 기기에 적용되는 시점 사이의 간격을 줄이기로 했다고 밝혔다.이는 애플이 오랫동안 유지해 온 소프트웨어 배포 전략",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "애플이 AI 기반 사이버 위협에 대응하기 위해 iOS 보안 패치를 새 OS 버전 출시와 분리해 조기 배포하는 방식으로 전환한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212285_215488_341.jpg",
+    "score": 8.458,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "해킹"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "KQC, 전문 지식 없이 쓸 수 있는 양자 AI 플랫폼 ‘큐비티어’ 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212277",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-30T16:53:06+00:00",
+    "raw_excerpt": "양자컴퓨팅 전문 한국퀀텀컴퓨팅(KQC, 대표 김준영)은 차세대 양자 AI 하이브리드 플랫폼 '큐비티어(KQC Qubiteer)’를 정식 출시했다고 30일 밝혔다. 큐비티어는 사용자가 해결하려는 문제를 입력하면, AI 에이전트가 수학적 모델링과 최적의 솔버 선택, 계산 실행까지 원스톱으로 처리하는 하이브리드 양자컴퓨팅 플랫폼이다. 전문 지식이 필요한 복잡한 작업 과정을 AI가 대신 처리, 일반 사용자도 쉽게 양자컴퓨터를 쓸 수 있게 됐다는 설명이다. 실제로 기존 양자컴퓨팅 솔루션은 사용자가 직접 변수, 목적함수, 제약 조건을 수학적으",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "KQC가 전문 지식 없이도 양자컴퓨터를 사용할 수 있도록 AI가 문제 해결 과정을 자동화하는 '큐비티어' 플랫폼을 출시했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212277_215482_2759.jpeg",
+    "score": 8.439,
+    "engagement": 0,
+    "matched_keywords": [
+      "양자",
+      "차세대"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "'오픈클로' iOS·안드로이드 앱 출시...접근성 높였지만 진입장벽 여전",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212257",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-30T14:09:10+00:00",
+    "raw_excerpt": "오픈클로(OpenClaw)가 iOS와 안드로이드용 공식 모바일 앱을 출시했다. 사용자는 스마트폰에서 AI 에이전트와 대화하는 것은 물론 카메라와 위치 정보, 일정, 연락처 등 다양한 기기 기능을 AI에 연결해 활용할 수 있게 됐다. 오픈클로 재단은 29일(현지시간) 오픈클로 공식 앱을 앱 스토어와 구글 플레이에 동시 출시했다고 발표했다.오픈클로는 원래 개발자 피터 스타인버거의 개인 프로젝트로 시작했지만, 올해 초 그가 오픈AI에 합류한 이후 프로젝트 운영은 비영리 단체인 오픈클로 재단으로 이관됐다. 오픈AI는 재단에 재정적 지원을",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "OpenClaw가 iOS·안드로이드 모바일 앱을 출시해 AI 에이전트와의 상호작용 및 카메라·위치·일정 등 기기 기능 연동이 가능해졌다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212257_215457_171.jpg",
+    "score": 8.217,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "삼성, 호남에 425조원 투자 승부수…광주 반도체 클러스터·해남 AI 데이터센터 구축",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40757",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-30T17:21:12+00:00",
+    "raw_excerpt": "삼성그룹이 미래 성장동력 확보와 국가 균형발전을 위해 호남권에 총 425조원을 투자하는 초대형 프로젝트를 추진한다. 광주를 글로벌 반도체 생산 거점으로 육성하고, 전남 해남에는 대규모 AI 데이터센터를 구축하는 한편 무탄소 에너지와 첨단 물류 인프라 투자도 확대할 계획이다.전영현 삼성전자(대표이사 겸 DS 부문장) 부회장은 30일, 광주광역시 김대중컨벤션센터에서 열린 '서남권 첨단산업 발전비전 국민보고회'에서 이 같은 내용을 담은 호남 지역 투자 계획을 발표했다. 이번 투자 계획은 글로벌 최첨단 반도체 클러스터, 인공지능 데이터센터",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "삼성그룹이 광주 반도체 클러스터와 해남 AI 데이터센터 구축 등 호남권 425조원 투자 계획을 발표했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40757_61458_5516_v150.jpg",
+    "score": 7.825,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "삼성 SSAFY 14기 수료…누적 취업자 1만 명 육박, ‘AI 네이티브 인재’ 양성 성과",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40755",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-30T16:22:20+00:00",
+    "raw_excerpt": "삼성의 대표 청년 소프트웨어(SW)·인공지능(AI) 인재 양성 프로그램인 삼성청년SW·AI아카데미(Samsung Software AI Academy For Youth, SSAFY)가 14기 수료생을 배출하며 국내 AI 인재 양성의 대표 모델로 자리매김하고 있다. 출범 이후 누적 취업자는 1만 명에 육박했으며, 취업률은 85%를 기록했다.삼성은 30일 서울 강남구 SSAFY 서울캠퍼스에서 14기 수료식을 개최했다. 행사에는 권창준 고용노동부 차관, 서일준 국민의힘 의원, 류석영 카이스트(KAIST) 전산학부 교수, 박승희 삼성전자 C",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "삼성 SSAFY 14기가 수료하며 누적 취업자 1만 명 육박, 85% 취업률을 달성해 국내 AI 인재 양성의 대표 모델로 자리잡았다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40755_61455_2127_v150.jpg",
+    "score": 7.751,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "텔레다인 FLIR, AI 기반 지상 ISR 소프트웨어 '프리즘 그라운드 ISR' 출시…군용 표적 탐지·분류 정밀도 향상",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40754",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-30T16:02:10+00:00",
+    "raw_excerpt": "텔레다인 테크놀로지스(Teledyne)의 자회사인 텔레다인 FLIR OEM(Teledyne FLIR OEM)이 인공지능(AI) 기반 지상 정보·감시·정찰(ISR) 소프트웨어인 '프리즘 그라운드 ISR(Prism Ground ISR)'을 30일 출시했다.새로운 솔루션은 첨단 컴퓨테이셔널 이미징과 AI 기반 표적 인식 기술을 결합해 군용 차량을 비롯한 다양한 지상 표적을 신속하게 탐지·분류·추적할 수 있도록 설계됐다. 최근 공개된 대드론(Counter-UAS) 솔루션 '프리즘 C-UAS(Prism C-UAS)'의 기술을 지상 감시 영역",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "텔레다인 FLIR이 AI 기반 지상 ISR 소프트웨어 '프리즘 그라운드 ISR'을 출시하여 군용 표적 탐지·분류·추적의 정밀도를 향상시켰다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40754_61453_128_v150.jpg",
+    "score": 7.726,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "메타, 뇌 신호 해독 ‘브레인투쿼티 v2’ 공개…\"비침습 BCI 성능 한계 넘어\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212282",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-30T17:43:06+00:00",
+    "raw_excerpt": "메타가 사람의 뇌 활동만으로 머릿속에서 떠올린 문장을 실시간으로 텍스트로 변환하는 비침습형 두뇌-컴퓨터 인터페이스(BCI) 기술을 공개했다. 이 기술은 뇌에 전극을 이식하는 수술 없이도 신경 신호를 해독할 수 있어, 뇌 손상 등으로 말하거나 몸을 움직이기 어려운 환자의 의사소통을 지원할 차세대 기술로 주목받고 있다. 메타는 29일(현지시간) 뇌에 전극을 삽입하는 수술 없이 사람의 뇌 활동을 문장으로 실시간 변환하는 차세대 BCI 기술 '브레인투쿼티 v2(Brain2Qwerty v2)'를 공개했다.이번 연구를 통해 비침습 방식의 뇌-",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "메타가 뇌 수술 없이 생각만으로 텍스트를 실시간 변환하는 비침습형 BCI 기술 '브레인투쿼티 v2'를 공개하며 신경 신호 해독 기술의 성능 한계를 넘어섰다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212282_215486_2113.png",
+    "score": 7.532,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[게시판] 프리윌린, 홍콩 교육박람회서 AI 코스웨어 공개 등 단신",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212288",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-30T17:00:00+00:00",
+    "raw_excerpt": "■ AI 교육 전문 프리윌린(대표 권기성)은 25~27일 홍콩 컨벤션 및 전시센터에서 열린 ‘러닝 앤 티칭 엑스포 2026(LTE 2026)’에 참가해 AI 코스웨어를 선보였다고 밝혔다. 교사 수업 설계와 학습 관리를 지원하는 수학 AI 코스웨어 ‘스쿨플랫’, 학생의 자기주도 학습을 돕는 K-12 AI 학습 솔루션 ‘풀리스쿨’, 대학 교육에 특화된 AI 코스웨어 ‘풀리캠퍼스’를 소개했다.■ 서울 AI 허브(센터장 변우석)는 26일 서울 AI 허브 메인센터에서 '산업별 클러스터 연계 AX 확산 네트워킹 데이'를 개최했다고 밝혔다. 서",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AI 교육 전문 기업 프리윌린이 홍콩 교육박람회에서 수학·K-12·대학 교육용 AI 코스웨어 3종을 공개했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212288_215494_3515.jpg",
+    "score": 7.473,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[게시판] SKT, AI 영상 합성 기술로 글로벌 학회 논문 채택 등 단신",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212278",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-30T17:00:00+00:00",
+    "raw_excerpt": "■ SK텔레콤(대표 정재헌)은 KAIST 주재걸 교수 연구팀과 공동 연구한 AI 영상 합성 기술 '인서트애니웨어(InsertAnywhere)' 논문이 유럽 컴퓨터 비전 학회 'ECCV 2026'에 채택됐다고 밝혔다. 영상 속 원하는 위치에 새로운 사물 이미지를 자연스럽게 삽입하는 기술이다. 3차원 공간 구조와 시간 흐름을 함께 반영하는 '4D 장면 이해 기법'을 적용해 영상 후반 작업, 광고 제작 등에 활용이 기대된다는 설명이다. ■ 스카이월드와이드(대표 신재혁)는 티에스아이디와 AI·데이터 솔루션 보안 인증 강화를 위한 업무협약(",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "SK텔레콤이 KAIST와 공동 개발한 AI 영상 합성 기술 'InsertAnywhere'가 유럽 컴퓨터 비전 학회 ECCV 2026에 채택되었으며, 이는 4D 장면 이해 기법으로 영상 제작 산업에 활용될 전망이다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212278_215492_745.jpg",
+    "score": 7.473,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "식약처, LLM 기반 디지털의료기기의 허가·심사 기준 제시... '허가·심사 가이드라인’ 공개",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40753",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-30T12:30:58+00:00",
+    "raw_excerpt": "식품의약품안전처(처장 오유경) 식품의악품안전평가원(원장 강석연)은 의료 분야 전반으로 빠르게 확산하고 있는 대형언어모델(LLM) 기술의 안전성과 유효성을 체계적으로 확인할 수 있도록 ‘식의약 안심 50대 과제’로 추진된 ‘LLM 기반 디지털의료기기 허가·심사 가이드라인(민원인 안내서)’을 30일 제정했다.생성형 인공지능 기술의 발전으로 다양한 디지털의료기기가 개발되고 있으며, 식약처는 이러한 기술 변화에 적극 대응하기 위해 지난해 1월 ‘생성형 인공지능 의료기기 허가·심사 가이드라인’을 선제적으로 마련하여 디지털의료기기의 허가·심사",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "식약처가 LLM 기반 디지털의료기기의 안전성과 유효성을 체계적으로 검증하기 위한 허가·심사 가이드라인을 제정했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40753_61450_3018_v150.jpg",
+    "score": 7.462,
+    "engagement": 0,
+    "matched_keywords": [
+      "인공지능",
+      "llm"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "캘리포니아주, 앤트로픽과 '클로드' 반값 계약...연방정부 제재와 대조",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212272",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-30T16:45:41+00:00",
+    "raw_excerpt": "미국 캘리포니아주가 앤트로픽과 전략적 협약을 체결하고 '클로드'를 주정부 전 기관과 지방정부에서 활용할 수 있도록 했다. 이는 캘리포니아의 첫 번째 공식 AI 플랫폼 계약으로, 연방정부의 블랙리스트 조치와는 대조적인 행보다.개빈 뉴섬 캘리포니아 주지사는 29일(현지시간) 이번 계약을 통해 주정부 기관과 클로드 도입을 원하는 시·카운티는 기존보다 50% 할인된 가격으로 서비스를 이용할 수 있다고 발표했다. 앤트로픽은 공무원을 대상으로 한 무료 교육과 기술 지원도 제공한다.크리스 기븐 캘리포니아주 기술부 국장은 폴리티코와의 인터뷰에서",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "캘리포니아주가 앤트로픽의 'Claude'를 공공기관에 50% 할인가로 도입하는 전략적 협약을 체결해 연방정부의 제재와 대조를 이루고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212272_215479_429.jpg",
+    "score": 7.454,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "나우로보틱스, 한양로보틱스 합병…”산업용 로봇 라인업 완성”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212286",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-30T16:40:00+00:00",
+    "raw_excerpt": "나우로보틱스가 한양로보틱스와의 흡수합병 절차를 완료하고 통합 운영 체계를 본격화한다고 30일 밝혔다.1997년 설립된 한양로보틱스는 국내 취출로봇 및 사출자동화 분야에서 30여년의 력과 기술력을 축적해 왔다. 국내외 3000여 고객사를 기반으로 사출 성형 공정에 특화된 취출자동화 솔루션을 공급해 왔으며, 이를 통해 생산·영업 네트워크를 보유하고 있다.이번 합병을 통해 나우로보틱스는 취출로봇, 다관절로봇, 스카라로봇, 자율주행 물류로봇(AMR), 공장자동화(FA) 시스템까지 산업용 로봇 전 분야를 아우르는 풀 라인업을 구축하게 됐다.",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "나우로보틱스가 한양로보틱스 합병을 완료해 취출로봇부터 AMR까지 산업용 로봇 전 분야를 포함한 풀 라인업을 확보했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212286_215489_4625.png",
+    "score": 7.446,
+    "engagement": 0,
+    "matched_keywords": [
+      "로보틱스"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "목포어린이도서관, 여름방학 프로그램 7월3일부터 선착순 접수",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212266",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-30T16:16:10+00:00",
+    "raw_excerpt": "AI 생성 영상목포어린이도서관이 여름방학을 맞아 어린이 대상 체험프로그램을 7월28일부터 4주간 운영한다.목포어린이도서관은 2026년 여름방학 체험프로그램을 운영한다고 30일 밝혔다. 이번 프로그램은 어린이들이 방학 동안 유익하고 즐거운 시간을 보낼 수 있도록 마련됐으며, 학년별 수준에 맞춰 진행된다.강좌는 모두 4개로 구성됐다. 맛있는 동화 쿠킹클래스, 창의보드, 헬로메이플 코딩으로 만드는 나만의 세상, 지구사랑 공예탐험대가 운영된다. 각 강좌는 4회 과정으로 진행돼 어린이들이 한 가지 활동을 단계적으로 체험할 수 있도록 했다.수",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "목포어린이도서관이 7월28일부터 4주간 코딩, 요리, 공예 등 4개 체험프로그램을 운영하며 7월3일부터 선착순 접수를 시작한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212266_215474_3819.jpg",
+    "score": 7.414,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "플랜아이, 투자자 응대 AI 서비스 '플래니 IR' 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212276",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-30T16:14:49+00:00",
+    "raw_excerpt": "플랜아이(대표 이명기)는 상장사의 투자자 응대를 돕는 특화 AI 서비스 '플래니 IR(Planee IR)'을 출시했다고 30일 밝혔다.공시자료, 사업보고서, 실적 발표 자료, 주주서한 등 기업이 보유한 공식 IR 자료를 바탕으로 투자자 질문에 답변하는 AI 서비스다. 자료에서 수치를 찾는 데 그치지 않고, 여러 재무 정보를 조합해 EV/EBITDA·PBR·ROE 같은 복합 지표도 직접 계산해준다는 점이 기존 챗봇과 차별화된다. 특히, 기업별 IR 정책에 맞게 지표 정의와 계산 기준을 직접 설정할 수 있다. 투자자가 어떤 질문을 하더",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "플랜아이가 상장사의 IR 업무를 자동화하는 특화 AI 서비스 '플래니 IR'을 출시했으며, 복합 재무지표 계산 기능으로 기존 챗봇과 차별화된다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212276_215481_1118.jpeg",
+    "score": 7.412,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "머스크, 연일 '그록 4.5' 홍보 총력전…\"스페이스X 엔지니어까지 투입\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212280",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-30T15:45:37+00:00",
+    "raw_excerpt": "일론 머스크 CEO가 '그록 4.5'의 비공개 테스트 사실을 밝힌 데 이어, 자회사 엔지니어들을 대거 투입했다고 강조하는 등 연일 홍보에 나서고 있다. 스페이스X와의 합병과 인원 이탈 등으로 흔들렸던 프론티어 모델 경쟁에 다시 불을 붙이는 모양새다.머스크 CEO는 29일(현지시간) X를 통해 \"스페이스X의 스타링크 및 스타십 분야 최고 엔지니어 수십 명이 AI 프로젝트에 많은 시간을 투자하고 있다\"라며 \"이로 인해 스페이스X AI의 모델 및 시스템 개선 속도가 엄청나게 빨라지는 중\"이라고 주장했다.이는 전날인 28일 그록 4.5가",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "머스크가 SpaceX 엔지니어들을 AI 개발에 투입하며 그록 4.5 홍보에 총력을 기울이고 있어 프론티어 모델 경쟁 재개 의지를 드러냈다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212280_215484_4122.jpg",
+    "score": 7.373,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "KAIST, 초전도 직전 전자들의 ‘숨은 질서’ 규명",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21002",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-06-30T16:57:19+00:00",
+    "raw_excerpt": "KAIST 연구진이 초전도가 시작되기 전 전자들이 먼저 ‘숨은 질서’를 만든다는 사실을 밝혀냈다. 초전도의 작동 원리를 이해하고 차세대 초전도체 개발에 중요한 단서를 제공할 것으로 기대되는 성과다.KAIST 물리학과 김용관·한명준·이성빈 교수 공동연구팀은 차세대 양자물질로 주목받는 카고메 금속(CsV₃Sb₅)에서 초전도가 나타나기 전 전자들이 먼저 숨은 질서를 형성한다는 사실을 실험과 이론으로 규명했다고 30일 밝혔다.초전도는 전기가 저항 없이 흐르고 에너지 손실이 거의 없어 양자컴퓨터, 자기부상열차, 차세대 전력망 등 미래 기술의",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "KAIST 연구진이 초전도 현상이 시작되기 전 전자들이 먼저 형성하는 '숨은 질서'를 규명해 차세대 초전도체 개발의 단서를 제시했다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202606/21002_21621_5640.jpg",
+    "score": 7.146,
+    "engagement": 0,
+    "matched_keywords": [
+      "양자",
+      "차세대"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "디지털산업 법안 평가하니 고작 26점…전문가들 “규제 실증 강화해야”",
+    "url": "https://www.etnews.com/20260630000177",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-06-30T07:11:08+00:00",
+    "raw_excerpt": "제22대 국회의 디지털 산업 입법을 법률 적정성과 산업·기술 환경 정합성, 집행 메커니즘 등을 기준으로 평가한 결과 100점 만점에 26.1점에 그쳤다. 최근 5년간 관련 법안의 임기 만료 폐기율도 80%를 넘었다. 법안은 무더기로 발의되지만 입법 품질과 실제 법률 반영률은 낮다는 지적이다. 전문가들은 디지털 산업 입법의 품질을 높이기 위해 실태조사와 실증분석을 바탕으로 규제를 설계해야 한다고 강조했다. 김민호 성균관대 법학전문대학원 교수는 한",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "제22대 국회의 디지털산업 법안이 100점 만점에 26.1점으로 평가받으며, 전문가들은 실증 기반 규제 설계를 통한 입법 품질 개선을 촉구했다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/06/30/news-p.v1.20260630.3bd08593f5cb4aa3b8108005f62f47c3_P1.png",
+    "score": 6.635,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제",
+      "법안",
+      "입법"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "벤처투자 표준계약서 3년 만에 전면 개편…IPO 강제조항 폐지·사전동의권 개선",
+    "url": "https://www.etnews.com/20260630000334",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-06-30T06:00:00+00:00",
+    "raw_excerpt": "벤처투자 과정에서 반복돼 온 불공정 계약 관행이 대폭 개선된다. 정부·벤처업계가 투자계약서와 주주간계약서를 분리하고, 기업공개(IPO) 강제조항과 리픽싱(전환가액 조정) 방식, 사전동의권 행사 절차 등을 전면 손질했다. 상환전환우선주(RCPS) 중심의 계약 관행도 글로벌 기준에 맞춰, 창업자와 투자자 간 균형을 맞춘 투자계약 체계를 마련했다는 평가다. 중소벤처기업부와 한국벤처투자는 30일 '벤처투자 계약문화 발전 선포식'을 열고 3년 만에 개정",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "정부와 벤처업계가 3년 만에 벤처투자 표준계약서를 전면 개편해 IPO 강제조항을 폐지하고 사전동의권 절차를 개선해 창투자 간 균형을 맞추는 공정한 계약 체계를 마련했다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/06/30/news-t.v1.20260630.877bfab78d2e433fbdd8c14028ea20c7_P1.png",
+    "score": 5.811,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처",
+      "창업"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "LG와 실리콘밸리 VC는 왜 젠스파크에 주목했나",
+    "url": "https://byline.network/2026/06/30-563/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-06-30T06:52:02+00:00",
+    "raw_excerpt": "젠스파크는 ‘AI 워크스페이스’란 제품을 출시한 이래 광고비를 전혀 지출하지 않았다. 웬 상 젠스파크 최고운영책임자(COO)에 따르면, 젠스파크 AI 워크스페이스 1.0을 출시한 지 45일만에 200만명 사용자에 도달했고, 연간반복매출(ARR)은 출시 5개월만에 5000만 달러, 9개월에 1억달러를 돌파했다. 모두 입소문으로 이룬 성과였다. 먼저 젠스파크에 주목한 벤처 투자자로 이머전스캐피털 파트너스, 소조벤처스, LG테크놀로지벤처스, SBI인베스트, 파빌리온캐피털, 미래에셋 등이 이름을 올렸다. 젠스파크는 두차례의 시리즈 투자금 유치를 통해 26억달러의 기업가치를 인정받았다. 젠스파크에 주목했던 벤처투자사 담당자들은 무엇에 이끌렸는 지 들어봤다.",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "광고 없이 입소문만으로 9개월 내 연간반복매출 1억달러를 달성한 AI 워크스페이스 기업 젠스파크가 LG, SBI 등 글로벌 VC의 투자를 받으며 26억달러 기업가치를 인정받았다.",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/06/IMG_5427.jpg",
+    "score": 5.627,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "\"금융보안, 세계는 자율이 대세\"...금보원, 미·일 주요국 현황 조사 나서",
+    "url": "https://zdnet.co.kr/view/?no=20260630155246",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-30T06:52:46+00:00",
+    "raw_excerpt": "[지디넷코리아]금융보안원(원장 박상원)이 미국, 일본 등 주요국 금융권의 자율보안체계 운영 현황을 조사 및 분석에 나선다. AI와 클라우드 확산 등 급변하는 보안 환경 속에서 국내 금융회사의 자율보안 역량 강화를 지원하기 위해서다.지난 십수 년간 국내 금융회사는 외부와의 연계를 차단하는 망분리 중심의 보안 체계를 유지해 왔으나, 금융의 AI 전환이 본격화하면서 AI 등 신기술을 안전하고 적극적으로 활용할 수 있는 유연하고 고도화된 보안체계 마련이 필요해졌다.특히, 미토스(Mythos) 등 고성능 AI 위협이 현실화함에 따라, 기존 망분리와 같은 경계 기반 보안 통제만으로는 이러한 보안 위협에 효과적으로 대응하기 어려워 금융권 전반의 보안 역량 강화가 요구되는 시점이다. 이에, 금융위원회는 지난달 25일 '고성능 AI 관련 금융권 보안 위협 대응 방안'을 발표하는 등 망분리 규제 개선을 추진 중이다.금융보안원 조사 결과, 해외 주요국은 디지털금융 환경에서 보안을 핵심 위험 요인으로 인식하고 신뢰할 수 있는 보안 프레임워크를 기반으로 금융회사 스스로 보안 수준을 점검･개선하는 자율보안체계를 지속적으로 발전시키고 있다. 또 망분리 규제로 일률적인 보안 통제를 적용하고 있는 국내와 달리, 자사의 업무 특성과 위험 수준에 맞는 보안 대책을 자율적으로 마련해 운영중이다.미국은 국립표준기술연구소(NIST)가 개발한 보안 위험관리 프레임워크인 CS",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "금융보안원이 미국·일본 등 주요국의 자율보안체계를 조사하며, AI 확산에 대응하기 위해 기존 망분리 중심 규제에서 자율 기반 보안으로의 전환을 추진 중이다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/06/30/fece217d7f6775dd4255aca495180634.png",
+    "score": 5.28,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "규제"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "KISTI, 한울소재과학에 하이브리드 양자보안 기술이전",
+    "url": "https://zdnet.co.kr/view/?no=20260630154649",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-30T06:46:49+00:00",
+    "raw_excerpt": "[지디넷코리아]한국과학기술정보연구원(KISTI)이 30일 한울소재과학에 ‘하이브리드 양자보안 기술’ 이전을 완료했다. 통상실시권 조건으로 정액기술료 6,000만원을 받았다.이전 기술은 양자통신연구센터가 개발한 ‘하이브리드 양자보안 기술’이다. 이 기술은 국내 특허 2건이 등록돼 있다.이 기술은 양자키 자원을 효율적으로 관리하는 기술에 양자키분배(QKD), 양자내성암호(PQC)를 결합해 높은 보안성과 실용성을 동시에 확보했다. 실제 서비스 환경에서도 활용할 수 있도록 구현했다.이원혁 양자통신연구센터장은 \"양자암호통신망에서 데이터를 전달하는 최적 경로를 선택하는 릴레이 경로 결정 기술도 이전 대상에 포함됐다\"며 \"이 기술은 네트워크 내 양자키 보유 현황을 실시간으로 고려해 최적 전달 경로를 선택함으로써 제한된 양자키를 효율적으로 활용하고, 대규모 양자암호통신 서비스 성능과 운영 효율을 높일 수 있다\"고 설명했다.이 센터장은 또 “하이브리드 양자보안 기술은 높은 보안성과 실용성을 갖춘 차세대 양자암호통신 기술”이라며 “이번 기술이전이 국내 기업의 상용화를 촉진하고, 국가 양자보안 산업 생태계 조성에 기여하는 계기가 될 것으로 기대한다\"고 밝혔다.심효정 한울소재과학 연구소장은 “KISTI의 하이브리드 양자보안 기술은 대규모 양자암호통신망 구축과 서비스 구현에 필요한 핵심 기반 기술”이라며 “상용화를 앞당기는데 총력을 기울일 것\"이라고 덧붙였",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "KISTI가 양자키분배와 양자내성암호를 결합한 '하이브리드 양자보안 기술'을 한울소재과학에 6,000만원에 기술이전하며 국내 양자암호통신 상용화를 촉진할 것으로 기대된다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/06/30/2ea5c62e02d641d510ab56fa797f9457.jpg",
+    "score": 5.274,
+    "engagement": 0,
+    "matched_keywords": [
+      "양자",
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "LS일렉트릭, KAIST에 미래 전력에너지 공동연구센터 개소",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=46828",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-30T17:56:53+00:00",
+    "raw_excerpt": "[스마트타임스]LS일렉트릭은 지난 29일 대전 유성구 한국과학기술원(KAIST) 본원에서 'LS일렉트릭-KAIST 공동연구센터' 개소식을 개최했다고 30일 밝혔다.양 기관은 공동연구센터를 통해 글로벌 전력 시장의 차세대 기술 장벽을 극복하고 세계 시장을 선도할 고부가가치 미래 전력 솔루션을 공동 개발할 계획이다.공동연구센터는 ▲차세대 고효율 전력변환 ▲직류(DC) 배전 ▲AI 접목 설계 최적화 ▲고장 진단 기술을 통한 신뢰성 고도화 ▲차세대 냉각기술 등 연구 분야에 집중한다는 전략이다.연구센터는 기술 개발을 넘어 인재 양성의 요람",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "LS일렉트릭이 KAIST와 공동연구센터를 개소해 차세대 전력변환·DC배전·AI 설계 최적화 등 미래 전력 솔루션을 공동 개발한다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202606/46828_45302_5638_v150.jpg",
+    "score": 5.227,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "티맵모빌리티, 정보보호 투자 규모 43% 늘렸다",
+    "url": "https://zdnet.co.kr/view/?no=20260630142643",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-30T05:26:43+00:00",
+    "raw_excerpt": "[지디넷코리아]티맵모빌리티가 지난해 정보보호 투자를 전년 대비 43% 가까이 늘렸다. 전체 IT 투자에서 정보보호 투자 비율은 5.8%까지 확대됐다.30일 티맵모빌리티 정보보호 공시에 따르면 2025년 정보보호 투자액은 41억 8900만 원으로 전년 대비 약 43% 증가했다.전체 IT 투자 대비 정보보호 투자 비율도 3.9%에서 5.8%로 큰 폭으로 상승했다.티맵모빌리티는 투자 확대를 통해 제로트러스트 기반 접근통제, 클라우드 보안, 통합 보안관제, 개인정보보호 등 주요 보안체계를 고도화했다. 내부 직원과 외주 인력이 업무에 필요한 시스템에만 접근할 수 있도록 권한을 세분화하는 제로트러스트 기반 접근통제를 구축하고 클라우드 환경의 이상행위와 보안설정을 실시간으로 모니터링하고 탐지할 수 있는 체계도 구축했다.또 회사 내 모든 보안 시스템에서 발생하는 보안 위협을 한 곳에서 통합 감시하는 관제 체계를 구축해 이상징후를 신속하게 탐지할 수 있는 기반을 갖췄다. 개인정보 보유 여부를 탐지하고 필요한 보호조치를 수행할 수 있는 개인정보 관리체계 기반도 마련했다.보안 활동도 전년 10건보다 늘어 올해 12건을 기록했다. PC에 저장된 개인정보를 직접 점검하는 활동을 본격 시작했고, 임직원을 대상으로 한 정보보호 교육과 사내 캠페인도 강화했다. 이용자 측면에서는 이용자 개인정보보호 강화를 위한 계정 보호 기능을 고도화했다.글로벌 자동차 산업 특화",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "티맵모빌리티가 정보보호 투자를 전년 대비 43% 늘려 41억 8900만 원을 투자하고, 제로트러스트·클라우드 보안·통합 관제 등 보안체계를 고도화했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/06/30/eb844ba88f1d3fefe67cfc57d1ac40c9.png",
+    "score": 5.199,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "개인정보"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[뉴스줌인]반도체 기판 업계, 하반기 납품 단가 인하 압박 우려",
+    "url": "https://www.etnews.com/20260630000297",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-06-30T07:30:00+00:00",
+    "raw_excerpt": "납품 단가 연동제에서 소외된 주요 중견 반도체 기판 제조사들이 하반기 수익 악화를 우려하고 있다. 올초 금·구리 등 기판 원자재 가격 급등이 소폭 반영됐던 납품 단가가 다시 원점으로 돌아올 가능성 때문이다. 기판 업계에서는 납품 단가 연동제 확대 적용과 함께 주요 고객사인 반도체 제조사들의 상생 협력을 주문하고 있다. 30일 업계에 따르면, 국내 주요 반도체 기판 제조사는 삼성전자·SK하이닉스와 하반기 기판 납품 단가 협상을 진행하고 있다. 기",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "반도체 기판 제조사들이 납품 단가 연동제 미적용으로 인한 하반기 수익 악화를 우려하며 원자재 가격 인상분 반영과 상생 협력을 요청하고 있다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/06/30/news-p.v1.20260630.c515bb036e774fd6827c36c5bee91a1e_P1.png",
+    "score": 5.155,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "곽노정 SK하이닉스 사장 “서남권, 반도체 클러스터 최적 입지…1GW AI 데이터센터 구축”",
+    "url": "https://www.etnews.com/20260630000362",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-06-30T06:40:10+00:00",
+    "raw_excerpt": "곽노정 SK하이닉스 사장은 30일 “서남권 반도체 클러스터 생산기반을 구축해 급증하는 글로벌 메모리 수요에 대응하겠다”고 밝혔다. 곽 사장은 이날 광주에서 열린 '서남권 첨단산업 발전비전 국민보고회'에서 “서남권은 반도체 클러스터 조성에 필요한 입지 조건을 갖출 것으로 기대된다”며 이같이 말했다. 그는 “AI 시대에는 메모리가 단순한 부품이 아니라 AI 성능을 좌우하는 핵심 인프라”라며 “미래 메모리 수요가 폭발적으로 늘어날 것으로 예상되는 만",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "SK하이닉스 곽노정 사장이 서남권을 반도체 클러스터 최적 입지로 제시하며 1GW AI 데이터센터 구축 계획을 발표했다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/06/30/rcv.YNA.20260630.PYH2026063015220001300_P1.jpg",
+    "score": 5.103,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "세종사이버대 한국어학과, 해외 학우 동아리 ‘또바기’ 봄학기 특강",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=46847",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-30T15:14:02+00:00",
+    "raw_excerpt": "[스마트타임스]세종사이버대학교 한국어학과는 지난 23일 해외 학우 동아리 ‘또바기’가 2026학년도 봄학기 종강 기념 특강을 개최했다고 30일 밝혔다.이날 특강은 영국 아메리칸 리치먼드 대학교에서 한국어를 지도하는 신문경 교수가 ‘한국어, 영국에서 이렇게 가르치고 있어요’라는 주제로 강연했다.신 교수는 영국의 한국어 교육 현황과 교육 현장에서 겪는 어려움, 수업을 준비할 때 고려해야 할 요소들을 소개했다.신 교수는 \"자원봉사, 보조 교사, 온라인 튜터 등 작은 경험부터 시작하고 수업을 기록하며 성찰하는 습관과 동료들과 경험을 나누며",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "세종사이버대 한국어학과 해외 학우 동아리 '또바기'가 영국의 한국어 교육 현황을 주제로 한 특강을 개최했다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202606/46847_45285_1222_v150.jpg",
+    "score": 5.075,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "키움 인수설에 빗썸 몸값 주목…시총은 5000억, 협상가는?",
+    "url": "https://www.etnews.com/20260630000256",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-06-30T06:00:00+00:00",
+    "raw_excerpt": "키움증권의 빗썸 지분 인수 추진설이 불거지면서 업계 2위 가상자산거래소 빗썸의 몸값이 다시 수면 위로 떠올랐다. 30일 네이버페이 비상장에 따르면 빗썸은 주당 22만원으로, 추정 시가총액은 5261억1297만원이다. 업비트를 운영하는 두나무는 최근 삼성 계열사 지분 거래에서 15조원대 밸류를 받았고, 코인원도 한국투자증권·OKX 투자 유치 과정에서 4000억원 안팎의 기업가치를 인정받았다. 가상자산업계에서는 빗썸의 장외주식 시총과 인수 협상에서",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "키움증권의 빗썸 인수설로 시총 5261억원의 거래소 몸값이 재조명되고 있으며, 업계 선례와 비교해 실제 협상가는 달라질 수 있을 전망이다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/02/10/rcv.YNA.20260210.PYH2026021011530001300_P1.jpg",
+    "score": 5.061,
+    "engagement": 0,
+    "matched_keywords": [
+      "투자 유치"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[르포]“손톱만 한 펠릿이 6개월 전기를 만든다”…5만 가구 밝히는 '원전의 심장' KNF",
+    "url": "https://www.etnews.com/20260630000343",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-06-30T05:59:50+00:00",
+    "raw_excerpt": "국내 모든 원자력발전소에는 한전원자력연료가 만든 연료가 들어간다. 원자로 안에서 핵분열을 일으켜 전기를 만드는 '원전의 심장'이다. 대전 유성구 한전원자력연료 본사에서는 손톱만 한 우라늄 소결체(펠릿)가 길이 4m짜리 연료봉으로, 다시 무게 650㎏의 집합체로 완성되는 과정이 쉼 없이 이어지고 있었다. 국방부 지정 국가중요시설이자 국가 안보시설인 만큼 출입 절차는 엄격하다. 보안 게이트를 지나자 '국가 전력의 심장'을 만드는 생산라인이 모습을",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "한전원자력연료는 국내 모든 원전에 공급하는 우라느 펠릿을 생산하며, 손톱 크기의 펠릿이 연료봉을 거쳐 집합체로 완성돼 5만 가구 규모의 전력을 6개월간 공급한다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/06/30/news-p.v1.20260630.590b0f848bbc43acb4e177ce85f32d0e_P1.jpg",
+    "score": 5.061,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "한투운용 \"ACE K반도체TOP2+ ETF, 개인순매수 2천억원 돌파\"",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=46845",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-30T14:31:55+00:00",
+    "raw_excerpt": "[스마트타임스]한국투자신탁운용은 지난 23일 상장한 ‘ACE K반도체TOP2+ 상장지수펀드(ETF)’로 유입된 개인 순매수액이 2000억원을 돌파했다고 30일 밝혔다.한국거래소에 따르면 지난 29일 기준 이 ETF가 기록한 개인 순매수액은 2102억원으로 집계됐다. 상장 당일에만 1157억원이라는 개인 순매수액을 기록했다.해당 ETF는 SK하이닉스와 삼성전자를 최대 50% 비중으로 편입하며 대표 종목에 대한 노출도를 높이기 위해 SK스퀘어까지 포함하는 포트폴리오를 구사한다. 3종목 합산 편입비는 약 70%에 달한다.30%는 기판 기",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "한국투자신탁운용의 'ACE K반도체TOP2+ ETF'가 상장 후 일주일 만에 개인 순매수 2천억원을 기록하며 반도체 섹터에 대한 개인투자자의 높은 관심을 보였다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202606/46845_45280_3123_v150.jpg",
+    "score": 5.035,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[현장] RTI, 한국 SDV 시장 공략 본격화…\"현대차·티어1 공급망과 협력 확대\"",
+    "url": "https://zdnet.co.kr/view/?no=20260630155553",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-30T06:57:26+00:00",
+    "raw_excerpt": "[지디넷코리아]리얼타임이노베이션(RTI)이 소프트웨어정의차량(SDV) 시대 주요 인프라로 꼽히는 차량용 데이터 통신 플랫폼을 앞세워 한국 시장 공략에 나선다.현대자동차그룹을 비롯한 국내 완성차 업체와 티어1 공급망을 핵심 고객으로 사업을 확대하고 중장기적으로 한국 법인 설립도 추진할 계획이다.RTI는 30일 서울 강남구 아셈타워에서 기자간담회를 열고 차량용 데이터 통신 플랫폼 '커넥트 드라이브(Connext Drive)'와 국내 사업 확대 전략을 공개했다.RTI는 미국 실리콘밸리에 본사를 둔 실시간 데이터 통신 전문기업이다. 국방, 항공우주, 산업 자동화, 의료기기, 자율주행 분야에서 데이터 분산 통신 표준인 데이터 분산 서비스(DDS) 기반 실시간 데이터 통신 기술을 공급하고 있다.이날 공개한 커넥트 드라이브는 DDS 기반 차량용 통신 플랫폼이다. 차량 내 수많은 전자제어장치(ECU)와 고성능 컴퓨팅(HPC), 인공지능(AI), 클라우드 시스템 간 데이터를 실시간으로 연결하는 역할을 수행한다.박지웅 RTI 자동차 솔루션 아키텍트는 \"차량이 소프트웨어 중심 구조로 전환되면서 자율주행, AI, 존(Zonal) 아키텍처, 커넥티드 서비스 등 다양한 기능이 하나의 차량에 통합되고 있다\"며 \"이 과정에서 차량 내부 시스템들이 대량의 데이터를 지연 없이 안전하게 주고받을 수 있는 통신 인프라가 중요해지고 있다\"고 설명했다.RTI는 DDS 기술",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "RTI가 Connext Drive 차량용 데이터 통신 플랫폼으로 한국 시장 공략을 본격화하며 현대차 등 완성차와 티어1 공급망과의 협력을 추진 중이다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/06/30/82dbc29a62dabd7c9280ff91932e3f0f.jpg",
+    "score": 4.609,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[인사] 개인정보보호위원회",
+    "url": "https://zdnet.co.kr/view/?no=20260630152709",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-30T06:27:09+00:00",
+    "raw_excerpt": "[지디넷코리아]◆과장급 전보▲개인정보보호정책과장 최윤정",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "개인정보보호위원회 개인정보보호정책과장에 최윤정이 과장급으로 전보되었다.",
+    "thumbnail": "https://zdnet.co.kr/images/default_img.jpg",
+    "score": 4.581,
+    "engagement": 0,
+    "matched_keywords": [
+      "개인정보"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "홈플러스·고려아연 노조 한목소리…\"투기자본 MBK 규탄\"",
+    "url": "https://zdnet.co.kr/view/?no=20260630150538",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-30T06:14:12+00:00",
+    "raw_excerpt": "[지디넷코리아]마트산업노조 홈플러스지부와 고려아연노동조합이 사모펀드 MBK파트너스를 규탄하며 연대투쟁에 나섰다. 양대 노조는 MBK의 무책임한 경영과 적대적 인수합병(M A)으로 홈플러스와 고려아연 노동자들의 생존권이 위협받고 있다며 정부 개입을 촉구했다.민주노총 마트산업노조 홈플러스지부와 고려아연노조는 30일 오후 서울 종로구 광화문광장에 마련된 마트산업노조 홈플러스지부 단식농성장에서 공동 기자회견을 열고 “국가 기간산업을 파괴하고 노동자를 죽음으로 내모는 투기자본 MBK를 강력히 규탄한다”고 밝혔다.안수용 홈플러스지부장은 현장 발언을 통해 “홈플러스는 MBK 인수 이후 10년 동안 끊임없이 자산과 부동산을 매각해 왔고, 그 결과 수많은 점포가 폐점됐고 노동자들은 삶의 터전을 떠나야 했다”며 “지금 홈플러스는 회생절차에 들어가 청산의 위기 앞에 서있다”고 말했다.안 지부장은 “이 모든 과정에서 책임져야 할 MBK는 홈플러스를 살리기 위한 자구노력은 하지 않은 채 긴급운영자금과 관련해서 채권단과 서로 책임을 떠넘기기에만 급급하다”고 비판했다.고려아연 역시 MBK의 적대적 인수합병(M A) 시도로 인해 같은 위기에 직면했다는 주장이다.이날 기자회견에서 홈플러스지부와 고려아연노조는 공동연대전선을 구축하고 정부와 MBK에 ▲홈플러스 사태 해결을 위한 약속 이행 ▲MBK의 고려아연 경영권 침탈 중단 ▲투기자본 규제 대책 수립 등을 요구했다.",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "홈플러스·고려아연 노조가 MBK파트너스의 무책임한 경영과 적대적 M&A로 노동자 생존권이 위협받고 있다며 정부 개입을 촉구하고 연대투쟁에 나섰다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/06/30/2052358834292e92893d7c1cfa7625af.jpg",
+    "score": 4.568,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "지란지교시큐리티 \"모바일키퍼 V5, 국내 최초 형태로 CC인증 획득\"",
+    "url": "https://zdnet.co.kr/view/?no=20260630145253",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-30T05:52:53+00:00",
+    "raw_excerpt": "[지디넷코리아]지란지교시큐리티(대표 조원희)의 모바일 통합 관리 솔루션이 안드로이드와 iOS를 단일 플랫폼으로 CC인증을 획득하는 데 성공했다.지란지교시큐리티는 29일 모바일 통합 관리 솔루션 '모바일키퍼 V5'가 안드로이드와 iOS를 각각 인증받는 기존 방식이 아닌, 단인 플랫폼에서 두 운영체제를 통합 관리하는 환경에 대해 보안성을 검증받아 CC인증을 국내 최초로 획득했다고 밝혔다.이로써 모바일키퍼 V5는 현재 국내에서 Android와 iOS 통합 플랫폼 형태의 CC인증을 획득한 유일한 MDM 솔루션이 됐다. 또한 CC인증을 획득함으로써 공공 부문에서 요구되는 보안 검증 기준을 충족한 제품으로 인정받게 됐다.CC인증은 국가 및 공공기관에서 요구하는 공통평가기준(Common Criteria)에 따라 제품의 보안성과 안전성을 검증하는 제도다.지란지교시큐리티는 이번 인증 획득으로 공공기관과 교육 분야를 중심으로 높은 수준의 보안성과 관리 체계를 요구하는 시장에서 모바일키퍼 V5의 적용 범위가 더욱 확대될 전망하고 있다. 최근 디지털 플랫폼 정부 정책과 모바일 기반 업무환경 확산에 따라 공공부문의 모바일 보안 요구 수준이 높아지고 있으며, 검증된 모바일 관리 체계에 대한 수요 역시 지속적으로 증가하고 있다.또한 지난 3월1일부터 '초중등 교육법' 개정안이 시햄됨에 따라 교내 스마트기기 사용 제한에 대한 법적 근거가 마련되면서 학교와 교육청",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "지란지교시큐리티의 '모바일키퍼 V5'가 안드로이드와 iOS를 통합 플랫폼으로 관리하는 국내 최초 형태의 CC인증을 획득해 공공·교육 시장 확대가 예상된다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/06/30/e23103b7db9c00299a53a6145366d0cf.png",
+    "score": 4.548,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "LG전자, CEO 직속 '로보틱스사업센터' 신설…데이터팩토리 구축",
+    "url": "https://zdnet.co.kr/view/?no=20260630142202",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-06-30T05:27:39+00:00",
+    "raw_excerpt": "[지디넷코리아]LG전자가 최고경영자(CEO) 직속으로 로보틱스사업센터를 신설한다고 30일 밝혔다. 센터 산하에는 데이터팩토리를 세워 로봇파운데이션모델(RFM) 개발에 속도를 낸다는 전략이다. 데이터팩토리는 로봇이 인간처럼 움직이고 복잡한 작업을 수행하도록 고품질 행동·시각·촉각 데이터(액션 데이터)를 대량으로 수집, 가공, 학습하는 인프라다. 로봇 파운데이션 모델은 한 모델로 여러 작업과 로봇에 두루 쓸 수 있는 범용 인공지능(AI) 두뇌다.신설 조직 수장에는 송시용 센터장이 임명됐다. 송시용 센터장은 생산기술원 산하 제조역량강화담당, 생산시스템솔루션담당, 스마트팩토리솔루션센터장 등을 역임했다. 연말 정기 조직개편을 4개월여 앞두고 이뤄진 이번 개편은 로보틱스 사업에 대한 LG전자 의지가 반영된 결과로 풀이된다. LG전자는 자회사인 로보스타와 베어로보틱스 중심의 산업용·상업용 로봇에 이번 신설 센터가 이끄는 가정용 로봇을 더해 3각 축으로 시장을 공략할 예정이다. 센터 산하에는 로봇 학습용 데이터팩토리 전담 조직을 구축한다. LG전자는 서울 서초구 양재R D캠퍼스에 연내 가동을 목표로 데이터팩토리를 구축 중이다. 여기서 얻는 고품질 데이터를 활용해 로봇파운데이션모델을 개발할 방침이다.로보틱스사업센터는 사업개발, 공급망, 제조 등 사업 전 영역을 아우리는 통합조직으로 운영한다. LG전자는 \"효율적인 의사결정 체계를 구축해 민첩하게 사업",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "LG전자가 CEO 직속 로보틱스사업센터를 신설하고 로봇 학습용 데이터팩토리를 구축해 범용 AI 로봇 개발에 나선다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/06/30/e6c99b28dc5eef842638fdcee05fa01e.jpg",
+    "score": 4.525,
+    "engagement": 0,
+    "matched_keywords": [
+      "로보틱스"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "SBI Holdings to Acquire Bitbank in $289M Deal to Expand Crypto Business",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=46799",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-29T14:47:59+00:00",
+    "raw_excerpt": "Japanese financial services group SBI Holdings has agreed to acquire cryptocurrency exchange Bitbank for approximately US$289 million.The transaction, announced on Thursday, remains subject to regulatory approval and is expected to close in October.The acquisition follows SBI's announcement last mon",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "SBI Holdings이 암호화폐 거래소 Bitbank를 2억 8,900만 달러에 인수하기로 합의해 암호화폐 사업을 확장한다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202606/46799_45235_4754_v150.jpg",
+    "score": 3.7,
+    "engagement": 0,
+    "matched_keywords": [
+      "regulatory"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+    "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-06-30T02:28:41+00:00",
+    "raw_excerpt": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model — with hopes that it will eventually outperform frontier models.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Wix 소유의 비브 코딩 플랫폼 Base44가 자체 AI 모델을 출시하며 최첨단 모델 성능을 앞지르길 기대하고 있다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/06/Maor-Shlomo-headshot-1.jpeg?resize=1200,754",
+    "score": 3.55,
+    "engagement": 0,
+    "matched_keywords": [
+      "vibe coding"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "The end of the AArch64 desktop experiment",
+    "url": "https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-30T04:51:12+00:00",
+    "raw_excerpt": "Article URL: https://marcin.juszkiewicz.com.pl/2026/06/26/the-end-of-the-aarch64-desktop-experiment/ Comments URL: https://news.ycombinator.com/item?id=48728599 Points: 32 # Comments: 14",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "ARM 기반 AArch64 데스크톱 프로젝트가 종료되며 x86 아키텍처의 데스크톱 시장 지배력이 지속될 것으로 보인다.",
+    "thumbnail": "https://marcin.juszkiewicz.com.pl/files/images/hrw-192.jpg",
+    "score": 2.661,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "Exploring PDP-1 Lisp (1960)",
+    "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-06-30T00:56:42+00:00",
+    "raw_excerpt": "Article URL: https://obsolescence.dev/pdp1-lisp-introduction.html Comments URL: https://news.ycombinator.com/item?id=48727323 Points: 68 # Comments: 17",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "1960년대 PDP-1 컴퓨터에서 작동한 초기 Lisp 언어의 역사와 특징을 탐구하는 기사가 관심을 받고 있다.",
+    "thumbnail": "",
+    "score": 2.531,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  }
+]
