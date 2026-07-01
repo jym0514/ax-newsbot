@@ -1460,7 +1460,7 @@
     "3c8832462efe81c3": "https://cdn.byline.network/wp-content/uploads/2026/07/Sonnet5.jpg",
     "55e77094dadca7b4": "https://mmx.prnasia.com/media/MS1874933/DXC-Technology-Services-LLC-DXC-DXC-Private-Cloud-출시-엔터프라이즈-클.jpg?id=OA2744877&p=medium600"
   },
-  "last_sent_date": "2026-07-01",
+  "last_sent_date": "2026-07-02",
   "sent": {
     "2026-06-24": [
       "morning",
@@ -1491,6 +1491,9 @@
       "morning",
       "noon",
       "evening"
+    ],
+    "2026-07-02": [
+      "morning"
     ]
   }
 }
