@@ -1,0 +1,826 @@
+[
+  {
+    "title": "앤트로픽, '클로드 페이블 5·미토스 5' 수출통제 해제…7월 1일부터 서비스 순차 복원",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40771",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-01T11:03:37+00:00",
+    "raw_excerpt": "앤트로픽(Anthropic)이 미국 정부의 수출통제 조치가 해제됨에 따라 자사의 최신 인공지능(AI) 모델인 '클로드 페이블 5(Claude Fable 5)'와 '클로드 미토스 5(Claude Mythos 5)'에 대한 서비스 복원을 시작한다고 6월 30일(현지시간) 발표했다.앤트로픽은 이날 공식 X(구 트위터)를 통해 \"미국 상무부(Department of Commerce)로부터 클로드 페이블 5와 미토스 5에 대한 수출통제가 해제됐다는 통보를 받았다\"며 \"내일부터 접근 권한 복원을 시작하고, 곧 추가 업데이트를 공유하겠다\"고 밝",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "앤트로픽이 미국 정부의 수출통제 해제에 따라 Claude Fable 5와 Mythos 5 서비스를 7월 1일부터 순차 복원한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/40771_61476_153_v150.jpg",
+    "score": 8.703,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "anthropic"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "SKT, '정보보호백서 2025' 발간...전사 관점에서 정보보호 체계 재점검",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40765",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-01T09:11:00+00:00",
+    "raw_excerpt": "SK텔레콤(대표이사 CEO 정재헌)은 자사의 첫 '정보보호백서 2025'를 발간하고, 사이버 위협 환경 변화 속에서 고객 신뢰를 지키기 위한 정보보호 및 개인정보보호 활동을 홈페이지에 공개한다고 1일 밝혔다.이번 백서는 지난해부터 SK텔레콤이 정보보호 체계를 전사 관점에서 재점검하고, 재발 방지와 신뢰 회복을 위해 추진해 온 주요 활동과 성과를 투명하게 정리한 첫 공식 보고서다.‘정보보호백서 2025(다운)’는 총 3개 파트로 구성된다. 정보보호 거버넌스, 정보보호 아키텍처 및 기술, 개인정보보호를 아우르며, 정보보호·프라이버시 전",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "SK텔레콤이 처음으로 '정보보호백서 2025'를 발간해 전사적 정보보호 체계 재점검과 사이버 위협 대응 현황을 투명하게 공개했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/40765_61470_1037_v150.jpg",
+    "score": 8.562,
+    "engagement": 0,
+    "matched_keywords": [
+      "거버넌스",
+      "개인정보",
+      "프라이버시"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "[6월30일] 프로토타입 90개 만든 AI...이제 인간 경쟁력은 '선택'",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212264",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-01T07:00:00+00:00",
+    "raw_excerpt": "AI가 코드를 작성하는 시대를 넘어, 최근에는 AI가 만든 코드를 AI가 검토하고 수정하는 'AI 루프'까지 등장하고 있습니다. 인간은 직접 구현보다 전체 과정을 감독하는 역할로 이동하고 있습니다.그리고 실제로 AI 루프를 가동하면 어떤 현상이 일어나는지에 대한 이야기가 등장했습니다. 오픈AI에서 '코덱스' 데스크톱 앱 개발을 이끄는 앤드류 암브로시노는 29일(현지시간) '레니의 팟캐스트'에 출연, 흥미로운 사례를 소개했습니다.그는 AI 루프에 대한 질문을 받자, \"루프 시스템 같은 것은 이미 지난주 이야기\"라고 재치 있게 받아쳤습",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AI가 코드 작성과 검토를 자동으로 반복하는 'AI 루프' 시대가 도래하며 인간의 역할이 직접 구현에서 전체 과정 감독으로 전환되고 있습니다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212264_215497_3057.png",
+    "score": 8.123,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "네이버웹툰, 원작자 승인한 IP로 나만의 스토리 만든다…AI 스토리챗 ‘바이어스’ 출시",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40769",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-01T10:22:13+00:00",
+    "raw_excerpt": "네이버웹툰이 원작자가 승인한 웹툰 지식재산권(IP)을 기반으로 캐릭터와 대화하며 새로운 이야기를 만드는 인공지능(AI) 스토리챗 ‘바이어스(byUs)’를 1일 출시했다.‘바이어스’는 이용자가 원작 IP 기반 스토리의 주인공이 되어 나만의 서사를 전개할 수 있는 서비스다. 원작자가 승인한 공식 IP만을 활용하기 때문에 원작의 매력과 세계관을 존중하면서, 이용자는 몰입감 높은 환경에서 캐릭터와 교감하며 이야기를 만들어갈 수 있다.‘바이어스’는 웹툰 IP를 기반으로 오리지널 스토리와 팬 스토리 등 두 가지 콘텐츠 경험을 제공한다.오리지널",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "네이버웹툰이 원작자 승인 IP 기반의 AI 스토리챗 '바이어스'를 출시해 사용자가 캐릭터와 대화하며 나만의 이야기를 창작할 수 있는 서비스를 제공한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/40769_61475_2155_v150.jpg",
+    "score": 7.751,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "한국연구재단, KAIST 전산학부 문수복 교수 '국가전략연구본부장' 선임",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40768",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-01T10:10:13+00:00",
+    "raw_excerpt": "한국연구재단(이사장 홍원화)은 7월 1일자로 국가전략연구본부장에 한국과학기술원(KAIST) 전산학부 문수복(文壽福) 교수를 선임하고 주요 보직 인사를 단행했다.문수복 본부장은 서울대학교 컴퓨터공학부(학사 및 석사), 미국 미국 매사추세츠대 애머스트(UMass Amherst/전산학 박사)에서 학위를 받은 뒤 2003년부터 KAIST 전산학부 교수로 재직해 왔다. 네트워크 성능 측정·분석, 온라인 소셜 네트워크 분석, 초고성능 네트워크 시스템, 인공지능(AI) 등의 연구를 이어왔다.문수복 본부장은 향후 2년간 국가전략연구본부를 이끌며",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "KAIST 문수복 교수가 한국연구재단 국가전략연구본부장으로 선임되어 국내 전략적 연구 방향을 주도하게 된다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/40768_61474_5415_v150.jpg",
+    "score": 7.736,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "삼성전자, 모바일 AI 시대에 맞춰 8세대 폴더블폰 라인업 재편 방향 공개",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40766",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-01T09:31:11+00:00",
+    "raw_excerpt": "삼성전자가 다가오는 갤럭시 언팩에서 8세대 폴더블폰의 라인업에 대한 새로운 방향성을 담은 영상을 공개했다.1일, 오전 삼성전자 글로벌 공식 인스타그램, 유튜브 등 계정에 공개한 8세대 폴더블 티저 영상은 길쭉한 초콜릿을 부러뜨리거나 스티커 사진을 찢는 등 일상의 소재를 활용해 새로운 폴더블폰의 특정 비율과 형태가 드러나는 순간을 보여줬다.영상은 삼성전자가 인공지능 활용이 일상 전반으로 확대되고 AI 경험의 핵심 진입점으로 모바일 기기가 자리잡는 변화에 맞춰, 기존 폼팩터의 핵심 경험을 한층 강화하는 동시에 새로운 선택지를 더해 경험",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "삼성전자가 모바일 AI 시대에 대응하기 위해 8세대 폴더블폰의 새로운 라인업 방향을 공개했으며, 폼팩터 강화와 새로운 선택지 추가를 통해 AI 경험 중심으로 재편할 계획입니다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/40766_61472_3020_v150.jpg",
+    "score": 7.688,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "몸짓도 언어다… KAIST, 동물 행동의 의미 읽는 AI ‘비헤이버트’ 개발",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40764",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-01T08:58:53+00:00",
+    "raw_excerpt": "생쥐의 몸짓을 단어처럼 읽고 의미를 이해하는 인공지능이 등장했다. KAIST 연구진은 행동 데이터를 언어처럼 학습해 자폐 모델 생쥐의 사회적 행동 결함을 스스로 찾아내는 AI 모델 ‘비헤이버트(BehaVERT)’를 개발하며 해석 가능한 뇌과학의 새로운 패러다임을 제시했다.KAIST 뇌인지과학과 김대수 교수 연구팀이 동물의 움직임을 언어처럼 읽고 해석하는 인공지능(AI) 모델을 개발했다고 1일 밝혔다. 연구팀은 생쥐의 골격 움직임을 자연어의 단어에 해당하는 ‘토큰(token)’으로 변환해 학습시키는 방식으로 행동의 의미를 이해하는 A",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "KAIST 연구진이 동물의 몸짓을 언어처럼 해석하는 AI '비헤이버트'를 개발해 자폐 모델 생쥐의 사회적 행동 결함을 자동으로 진단할 수 있게 했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/40764_61467_5647_v150.jpg",
+    "score": 7.647,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "뇌-컴퓨터 인터페이스 시대, 대한민국 의료AI는 무엇을 준비해야 하는가",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40761",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-30T20:26:56+00:00",
+    "raw_excerpt": "인공지능(AI)의 발전은 인간과 기계의 상호작용 방식을 빠르게 변화시키고 있다. 키보드와 마우스에서 시작된 인터페이스는 터치스크린과 음성인식을 거쳐 생성형 AI 기반 자연어 인터페이스로 진화했다. 그리고 이제 다음 단계로 주목받는 기술 가운데 하나가 바로 뇌-컴퓨터 인터페이스(Brain-Computer Interface, BCI)다. BCI는 인간의 뇌 신호를 측정하고 해석해 컴퓨터, 로봇, 보철기기, 웨어러블 장치, 디지털 환경과 연결하는 기술이다.최근 정부가 K-문샷 프로젝트의 주요 도전 과제 중 하나로 BCI를 제시한 것은 의",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "뇌-컴퓨터 인터페이스(BCI) 기술이 차세대 인터페이스로 부상하면서 대한민국 의료AI가 이에 대한 준비와 대응 전략을 마련해야 한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40761_61463_2548_v150.jpg",
+    "score": 7.607,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "생성형 ai"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "생성형 AI 시대 방송콘텐츠 교육의 새로운 길 제시...박민서 ·이승현 교수, 'AI 시대 방송콘텐츠 교육' 출간",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40759",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-06-30T18:47:35+00:00",
+    "raw_excerpt": "생성형 인공지능(Gen AI)이 방송과 콘텐츠 산업의 패러다임을 빠르게 변화시키는 가운데, 방송콘텐츠 교육의 새로운 방향을 제시하는 전문서 'AI 시대 방송콘텐츠 교육'이 출간됐다.이 도서는 생성형 AI 기술이 방송 제작 현장과 콘텐츠 교육에 가져온 변화를 체계적으로 분석하고, 대학과 교육기관에서 실제 활용할 수 있는 교육 모델과 실습 방법을 함께 제시한 실무 중심의 교육서라는 점에서 주목받고 있다.저자인 박민서 경희대학교 교수, 이승현 동서울대학교 교수는 방송콘텐츠 제작과 미디어 정책 분야를 연구해 온 학자로, 급변하는 AI 환경",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "박민서·이승현 교수가 생성형 AI 시대에 맞춘 방송콘텐츠 교육의 새로운 방향을 제시하는 전문서를 출간했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202606/40759_61460_4558_v150.jpg",
+    "score": 7.483,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "생성형 ai"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "‘램마겟돈’? 흔들리는 메모리 시장의 진정한 피해자는….",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212284",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-01T06:55:00+00:00",
+    "raw_excerpt": "AI타임스 조예주 기자 joyejuoffice@aitimes.com",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "메모리 반도체 과잉공급으로 인한 가격 급락으로 메모리 산업의 구도가 재편되고 있습니다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212284_215491_5229.jpg",
+    "score": 7.142,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "오픈AI, 개발자 겨냥 ‘코덱스’ 전용 첫 하드웨어 티저 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212261",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-06-30T18:05:50+00:00",
+    "raw_excerpt": "오픈AI가 AI 코딩 에이전트 코덱스(Codex) 사용 경험을 개선하기 위한 첫 번째 전용 하드웨어를 공개했다. 오픈AI는 29일(현지시간) X를 통해 여러 개의 버튼이 배치된 정사각형 형태의 기기를 공개하며 \"당신이 가장 좋아하는 코덱스 단축키가 업그레이드된다\"라는 메시지를 남겼다. 또 이날 열린 AI 엔지니어 월드 페어에서는 실물을 공개했다.이번 제품은 소비자 기기가 아니라, 개발자의 생산성을 높이는 데 초점을 맞춘 매크로 패드 형태의 장치다. 전 애플 최고 디자인책임자 조니 아이브가 개발 중인 AI 장치와는 별개의 제품이다.개",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "오픈AI가 코덱스 사용자를 위한 첫 전용 하드웨어 매크로 패드를 공개하며 개발자의 생산성 향상을 목표로 한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202606/212261_215459_4723.png",
+    "score": 7.075,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "클로드 코드는 요청에 스테가노그래피 표시를 하고 있음",
+    "url": "https://news.hada.io/topic?id=30980",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-06-30T23:17:11+00:00",
+    "raw_excerpt": "Claude Code 2.1.196 바이너리에는 시스템 프롬프트의 현재 날짜 문장을 바꿔 요청 안에 분류 신호 를 숨기는 함수가 들어 있음 트리거는 ANTHROPIC_BASE_URL 이며, 공식 api.anthropic.com 이 아니거나 값이 설정된 경우 호스트명·시간대를 확인해 ...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Claude Code 2.1.196 바이너리에 시스템 프롬프트를 조작해 요청 내에 분류 신호를 숨기는 스테가노그래피 함수가 포함된 것으로 확인됐다.",
+    "thumbnail": "https://social.news.hada.io/topic/30980",
+    "score": 6.517,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "claude code",
+      "프롬프트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "open-fusion in claude code with hf-claude",
+    "url": "https://x.com/_akhaliq/status/2072023950062751746",
+    "source": "X @_akhaliq",
+    "source_type": "x",
+    "published_at": "2026-06-30T18:26:20+00:00",
+    "raw_excerpt": "open-fusion in claude code with hf-claude",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Hugging Face Claude를 활용해 Claude 코드에서 open-fusion 기능을 구현했다.",
+    "thumbnail": "https://pbs.twimg.com/media/HMFOtZ-WkAAluww.jpg:large",
+    "score": 5.643,
+    "engagement": 7244,
+    "matched_keywords": [
+      "claude",
+      "claude code"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Here's an example, recorded by \"shot-scraper video\" using a YAML storyboard constructed by Codex Desktop and GPT-5.5 xhigh",
+    "url": "https://x.com/simonw/status/2072001653176426911",
+    "source": "X @simonw",
+    "source_type": "x",
+    "published_at": "2026-06-30T16:57:44+00:00",
+    "raw_excerpt": "Here's an example, recorded by \"shot-scraper video\" using a YAML storyboard constructed by Codex Desktop and GPT-5.5 xhigh",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "shot-scraper video 도구가 YAML 스토리보드와 GPT-5.5 xhigh로 구성된 자동화된 비디오 녹화 기능을 지원하게 되었다.",
+    "thumbnail": "https://pbs.twimg.com/profile_images/378800000261649705/be9cc55e64014e6d7663c50d7cb9fc75_200x200.jpeg",
+    "score": 5.581,
+    "engagement": 5309,
+    "matched_keywords": [
+      "codex",
+      "gpt-5"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "온라인 게임 아이템, 스테이블코인으로 거래한다",
+    "url": "https://byline.network/2026/06/0630-6/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-06-30T10:42:37+00:00",
+    "raw_excerpt": "헥토월렛원과 아이템베이가 실제 서비스 환경에서 스테이블코인 결제 상용화를 검증하기 위한 개념검증(PoC)을 완료했다. 이번 PoC는 향후 스테이블코인 제도화에 선제적으로 대응하기 위해 실제 결제·정산 프로세스와 규제 대응 체계를 점검하는 데 초점을 맞췄다. 헥토월렛원과 아이템베이를 비롯해 웹 3.0 마켓플레이스 오버테이크, 레이어1 블록체인 수이(Sui) 재단이 공동으로 참여했다. 30일 디지털자산 업계에 따르면 총 100명의 실사용자가 아이템베이 플랫폼에서 게임 아이템을 구매하고 판매 대금을 정산하는 전 과정에서 USDC(서클이 발행한 달러 연동 스테이블코인)가 활용됐다. 단순한 송금 테스트를 넘어 주문 생성부터 결제 확인, 입금 검증, 거래 완료, 판매자 정산에 이르는 실제 서비스 전 과정을 수이 메인넷에서 구현한 것이 특징이다.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "헥토월렛원과 아이템베이가 게임 아이템 거래에 USDC 스테이블코인을 활용한 상용화 개념검증을 완료해 실제 결제·정산 프로세스 구현을 입증했다.",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/06/06300.jpg",
+    "score": 5.479,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제",
+      "스테이블코인"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Microsoft just released a new GUI agent on Hugging Face",
+    "url": "https://x.com/HuggingPapers/status/2071951218889339131",
+    "source": "X @HuggingPapers",
+    "source_type": "x",
+    "published_at": "2026-06-30T13:37:20+00:00",
+    "raw_excerpt": "Microsoft just released a new GUI agent on Hugging Face\n\nSico-Evolution jumps from 39.8% to 82.9% Task Success Rate\n\nOutperforming GPT-5.4, Claude Opus 4.6, and Claude Opus 4.7\n\nAll from a 4B parameter model",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "마이크로소프트가 Hugging Face에 공개한 GUI 에이전트 'Sico-Evolution'이 4B 파라미터로 82.9% 작업 성공률을 달성하며 대형 모델들을 능가했다.",
+    "thumbnail": "https://pbs.twimg.com/media/HMEMpymWsAAhrU2.jpg:large",
+    "score": 5.442,
+    "engagement": 10372,
+    "matched_keywords": [
+      "claude",
+      "gpt-5"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "LGU+, 지속가능경영보고서 발간...정보보안 강화 내용 고도화",
+    "url": "https://zdnet.co.kr/view/?no=20260701101926",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-01T01:47:52+00:00",
+    "raw_excerpt": "[지디넷코리아]LG유플러스가 보안, 네트워크 품질 강화, 친환경 에너지 전환, AI 혁신에 대한 내용을 담은 ESG 지속가능경영보고서를 발간했다.LG유플러스는 환경, 사회, 지배구조 성과를 담은 2025 지속가능경영보고서를 발간했다고 1일 밝혔다.보고서는 한국 지속가능성기준위원회(KSSB)에서 제시하는 거버넌스·전략·위험관리 지표와 목표 기준에 맞춰 중대성 평가를 통해 선정된 4대 ESG 중요 이슈를 담았다.정보보안·개인 정보 보호 강화, 통신 서비스 안정성과 네트워크 품질 강화, 에너지 사용 절감과 재생에너지 전환 확대, AI 혁신을 통한 가입자 만족·사회적 가치 제고 내용을 한층 고도화했다.디지털 포용성 관련 페이지도 신규 구성해 디지털 소외 계층의 요구사항을 접근성, 역량, 보호 등 세 가지 영역으로 구분하고 각 영역별 활동과 성과를 공개했다.환경 영역에선 기후 대응과 에너지 전환 성과를 구체화했다. LG유플러스는 CDP 평가에서 리더십 A 등급을 획득해 탄소경영 아너스클럽에 편입됐으며, 과학기반감축목표 이니셔티브의 탄소중립 목표 승인을 완료했다.사회 영역에선 가입자 만족과 사회적 책임 관련 성과를 확대했다. LG유플러스는 2025년 국가고객만족도 이동전화서비스 부문에서 1위를 기록했으며, 방송미디어통신위원회 이용자 보호업무 평가에선 ‘매우 우수’ 등급을 획득했다. 정보보호 국제표준인 ISO 인증 4종을 유지하며 보안 신뢰성을 ",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "LG유플러스가 정보보안·개인정보 보호 강화, 네트워크 품질 개선, 재생에너지 전환, AI 혁신을 중심으로 한 2025 지속가능경영보고서를 발간했습니다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/07/01/a232d7e90bb86379b2ef459f5aada5ae.jpg",
+    "score": 5.331,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "거버넌스"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "국내 우편요금 500원으로 인상...미국·일본 대비 반값",
+    "url": "https://zdnet.co.kr/view/?no=20260701103048",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-01T01:30:48+00:00",
+    "raw_excerpt": "[지디넷코리아]국내 우편요금이 7월부터 500원으로 조정된다. 기존 430원에서 5년만에 조정되는 것으로, 우편 물량 감소와 비용 증가 등으로 사업 적자 폭이 커진 상황을 극복하고 안정적인 보편적 우편서비스를 제공하기 위한 조치다.우정사업본부는 1일부터 규격 25g 기준 국내 통상 우편요금을 430원에서 500원으로 조정한다고 밝혔다.국민 부담 최소화를 위해 창구망과 운송망 효율화, 노후 시설과 장비 활용도 제고를 통한 비용 절감 등 강도 높은 경영 혁신이 추진됐다. 특히 준등기 출시, 편의점 제휴 등 신규 수익원 발굴과 복지우편 폐의약품 회수 등 공공서비스 확대로 요금조정 요인을 최대한 억제해왔다.이같은 노력에도 디지털 전환 가속화로 우편 물량이 감소하고, 우체국망 유지비용이 지속적으로 오르면서 우편사업 적자는 2024년 1659억 원에 이어 2025년 3116억 원으로 늘어났다.이에 따라 최소한의 수준에서 요금을 조정하게 됐다. 다만 미국 1176원, 일본 1040원에 비해 절반 수준에도 미치지 못한다. 프랑스 2670원과 비교하면 5분의 1 수준이다.박인환 우정사업본부장은 “우편서비스 부분의 적자 확대로 인해 불가피하게 요금을 조정할 수 밖에 없게 된 점에 대해 국민의 깊은 이해를 부탁드린다”면서 “집배원 등 현장 종사원의 안전한 근무환경 조성, AI 전환·업무혁신을 통한 요금조정 요인 최소화, 복지우편 안부살핌 소포 등 공공서",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "국내 우편요금이 7월부터 430원에서 500원으로 인상되는데, 이는 우편 물량 감소와 비용 증가로 인한 적자 극복 조치이며 미국·일본 대비 여전히 낮은 수준이다.",
+    "thumbnail": "https://image.zdnet.co.kr/2022/08/09/45f94811aa7357e71c37aee23eb09893.jpg",
+    "score": 5.315,
+    "engagement": 0,
+    "matched_keywords": [
+      "디지털 전환",
+      "현장"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "6월 수출 사상 첫 1천억 달러 돌파…독일·중국·미국이어 세계 4번째",
+    "url": "https://zdnet.co.kr/view/?no=20260701102025",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-01T01:20:25+00:00",
+    "raw_excerpt": "[지디넷코리아]6월 수출이 사상 처음으로 1000억 달러를 돌파했다. 독일·중국·미국에 이어 세계 네 번째로 월 수출 1000억 달러를 넘어섰다. 반도체 수출도 월 기준 처음으로 400억 달러를 초과했다.산업통상자원부는 6월 수출이 지난해 같은 달 보다 70.9% 증가한 1022억 5000만 달러, 수입은 30.1% 증가한 661억 달러, 무역수지는 361억 5000만 달러 흑자를 기록했다고 1일 밝혔다.반도체 수출은 199.5%, 반도체 외 품목은 28% 증가했다. 조업일수를 고려한 하루 평균 수출은 59.5% 증가한 45억 4000만 달러로 지난달에 이어 2개월 연속으로 역대 최대 실적을 경신했다.6월에는 20대 주력 수출품목 가운데 18개 품목 수출이 증가했다.반도체 수출은 199.5% 늘어난 448억 2000만 달러를 기록했다. 메모리 수요의 폭발적 증가에 따른 고정가격 상승세가 수출 증가를 견인했다. 사상 처음으로 400억 달러를 돌파했다.메모리 고정가격은 DDR516Gb 기준 3월 31달러에서 4월 35.5달러, 5월 37.5달러, 6월 40달러로 상승했다. NAND128Gb 기준으로는 3월 17.7달러에서 4월 24.2달러, 5월 26.5달러, 6월 28.8달러로 올랐다.컴퓨터 수출은 빅테크 기업의 인공지능(AI) 인프라 투자 확대에 따른 SSD 수요 증가로 308.8% 증가한 54억 1000만 달러를 기록했다.무선통신기",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "6월 수출이 사상 처음 1000억 달러를 넘어 세계 4번째 국가가 됐고, 반도체 수출도 월 기준 처음 400억 달러를 돌파했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2023/07/04/361c9b8390d283c53691bdf3dcc7582c.jpg",
+    "score": 5.306,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "빅테크"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "브랜든, 도난방지 기능 강화한 '세이프 데이즈' 가방 출시",
+    "url": "https://zdnet.co.kr/view/?no=20260701100821",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-01T01:12:01+00:00",
+    "raw_excerpt": "[지디넷코리아]부스터스의 라이프스타일 브랜드 브랜든이 여행과 일상에서 모두 활용할 수 있는 기능성 가방 라인을 선보였다. RFID 차단과 도난방지 기능을 강화한 제품으로 여행용을 넘어 일상용 가방 시장까지 공략한다.부스터스는 라이프스타일 브랜드 브랜든의 신제품 '세이프 데이즈' 라인을 출시했다고 1일 밝혔다.세이프 데이즈 라인은 출퇴근과 출장, 여행까지 하나의 가방으로 해결하려는 소비자를 겨냥한 제품이다.제품은 백팩과 토트백, 숄더백, 3웨이(3way) 미니백 등 4종으로 구성됐으며, 제트블랙·애쉬그레이·모카브라운·다크네이비 색상을 선택할 수 있다.이번 신제품은 기존 세이프 시리즈의 보안 기능을 강화한 것이 특징이다.절단 저항력을 높인 와이어 절단방지 웨빙과 잠금장치를 개선한 버티컬 락 풀러, 오픈형 가방의 보안성을 높이는 세이프티 스트링 락 스토퍼 등을 적용했다.또 모든 제품에 RFID 차단 기능을 탑재해 여권과 신용카드 정보를 보호할 수 있도록 했다. 가방에는 발수 코팅 처리한 290T 나일론 트윌 원단과 특수 방검 원단을 적용해 내구성과 안전성을 높였다.최근 여행 수요가 회복되면서 여행용품 시장에서는 단순 수납 기능을 넘어 도난 방지와 개인정보 보호 기능을 강화한 제품이 늘어나는 추세다. 특히 RFID 차단과 방검 소재 등을 적용한 기능성 여행 가방이 프리미엄 여행용품 시장에서 차별화 요소로 자리 잡고 있다.브랜든은 오는 13일",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "브랜든이 RFID 차단과 와이어 절단방지 등 도난방지 기능을 강화한 '세이프 데이즈' 가방 라인을 출시했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/07/01/88b9181c0c4a43a7d26f4e5b4529f0e5.jpg",
+    "score": 5.298,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "개인정보"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "If you build with MCPs, this one is worth reading.",
+    "url": "https://x.com/omarsar0/status/2072076720367341933",
+    "source": "X @omarsar0",
+    "source_type": "x",
+    "published_at": "2026-06-30T21:56:02+00:00",
+    "raw_excerpt": "If you build with MCPs, this one is worth reading.\n\n(bookmark it)\n\nThe paper covers five recurring MCP server patterns across fifteen independently developed servers.\n\nThat taxonomy is useful because I see many AI teams rebuilding the same shapes without shared names.\n\nIf you are",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "MCP 서버 개발에서 반복되는 5가지 패턴을 정리한 논문이 공개되어 AI 팀들이 같은 구조를 중복 개발하는 문제를 해결할 수 있게 됐다.",
+    "thumbnail": "https://pbs.twimg.com/media/HMF-y47bsAEt49K.png:large",
+    "score": 5.288,
+    "engagement": 4423,
+    "matched_keywords": [
+      "mcp"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Thank you to everyone to came to the Claude managed agents workshop at ",
+    "url": "https://x.com/PriyankaPhatak/status/2072074853990211765",
+    "source": "X @PriyankaPhatak",
+    "source_type": "x",
+    "published_at": "2026-06-30T21:48:37+00:00",
+    "raw_excerpt": "Thank you to everyone to came to the Claude managed agents workshop at \n@aiDotEngineer\n with \n@gcemaj\n and I. We had an absolute blast sharing our journey and walking you through building your first agent. And really enjoyed engaging with the community and answering your questions.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Anthropic Claude 팀이 관리형 에이전트 워크숍을 성공적으로 개최하고 참가자들과 에이전트 개발 방법을 공유했다.",
+    "thumbnail": "https://pbs.twimg.com/media/HMF9GBFa8AEkIwy.jpg:large",
+    "score": 5.283,
+    "engagement": 1359,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "KB금융 \"'로보컵 2026 인천, 메인 후원사로 참여\"",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=46878",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-01T11:32:02+00:00",
+    "raw_excerpt": "[스마트타임스]KB금융그룹은 메인 후원사로 참여하는 '로보컵 2026 인천'이 오는 2일 인천 송도컨벤시아에서 개막한다고 1일 밝혔다.이번 대회는 ▲RoboCup Soccer(로봇축구) ▲RoboCup Rescue(재난구조) ▲RoboCup @Home(가정서비스) ▲RoboCup Industrial(산업) 의 4개 분야로 구성된 메이저 대회와 주니어 대회로 진행된다.참가팀들은 자율 로봇들이 팀을 이루어 펼치는 축구 경기와 재난 상황을 가정한 환경에서의 구조 임무 수행, 가정과 산업 현장의 다양한 과제를 해결하는 기술을 겨룬다.KB금",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "KB금융그룹이 메인 후원사로 참여하는 '로보컵 2026 인천'이 2일 인천 송도컨벤시아에서 개막하며, 로봇축구·재난구조·가정서비스·산업 등 4개 분야의 자율로봇 경쟁이 펼쳐진다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202607/46878_45319_3118_v150.jpg",
+    "score": 5.204,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "랜섬웨어 공격으로 '아이폰18' 정보 유출?…“애플 최대 유출사고 될 수도”",
+    "url": "https://www.etnews.com/20260701000214",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-07-01T01:49:44+00:00",
+    "raw_excerpt": "애플의 차세대 스마트폰인 '아이폰 18 프로'의 핵심 공급망 정보와 부품 사진이 인도 제조 파트너사인 타타 일렉트로닉스의 데이터 유출 사고로 대거 노출됐다. 29일(현지시간) 로이터 통신 및 업계에 따르면 랜섬웨어 그룹 월드 리크스가 타타 일렉트로닉스에서 탈취해 다크웹에 게시한 파일에는 출시 예정인 아이폰 18 프로 모델의 사진과 부품 명칭, 핵심 공급업체 목록이 포함된 것으로 확인됐다. 유출된 문서 중 일부에는 애플의 '기밀' 워터마크와 함께",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "랜섬웨어 공격으로 인도 제조사 타타 일렉트로닉스에서 아이폰18 프로의 설계·부품 정보가 다크웹에 유출돼 애플 최대 정보 유출사고가 될 가능성이 제기됐다.",
+    "thumbnail": "",
+    "score": 5.176,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "모나코 주택가서 '폭탄 테러'… 친러시아 우크라 재벌 일가 참변",
+    "url": "https://www.etnews.com/20260701000192",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-07-01T01:39:03+00:00",
+    "raw_excerpt": "모나코 공국 도심의 한 주택에서 29일(현지시간) 폭발 사고가 발생해 러시아와의 연계 의혹이 제기돼온 우크라이나 재력가 일가가 중상을 입었다. 1일(현지시간) AP통신에 따르면 폭발은 29일 오후 9시경 모나코와 프랑스 국경 부근의 주거용 건물에서 일어났다. 모나코 수사 당국에 따르면, 한 인물이 건물 로비에 가방 또는 소포 형태의 물체를 두고 떠난 직후 해당 건물 1층에 거주하던 세 명이 현장에 도착했고 곧바로 폭발이 발생했다. 사건 관계자들",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "모나코에서 친러시아 우크라이나 재벌 일가를 겨냥한 것으로 추정되는 폭탄 테러가 발생해 3명이 중상을 입었다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/07/01/news-p.v1.20260701.e7d06a069a9849a2a24eede9099b0478_P1.png",
+    "score": 5.165,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "미래에셋자산운용 \"TIGER 차이나반도체FACTSET, 수익률 121%\"",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=46873",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-01T10:37:50+00:00",
+    "raw_excerpt": "[스마트타임스]미래에셋자산운용은 'TIGER 차이나반도체FACTSET ETF(396520)'가 국내 상장 중국 투자 ETF 54종 중 연초 이후 수익률 1위를 기록했다고 1일 밝혔다.해당 상품의 연초 이후 수익률은 지난 30일 기준 121.4%를 기록했다. 최근 1년 수익률도 239.2%에 달한다. 작년 말 1,265억원이었던 순자산은 6,533억원으로 반년 만에 약 5배로 늘었다. 이에 따라 해당 ETF는 국내 상장 중국 투자 ETF 가운데 순자산 2위 규모로 성장했다고 설명했다.반도체 설계(Fabless), 파운드리, 장비, 메",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "TIGER 차이나반도체FACTSET ETF가 국내 중국 투자 ETF 중 연초 이후 수익률 121%로 1위를 기록하며 순자산도 반년 만에 5배 증가했다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202607/46873_45311_3311_v150.jpg",
+    "score": 5.153,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Sonnet 5 is here!",
+    "url": "https://x.com/omarsar0/status/2072022542521438300",
+    "source": "X @omarsar0",
+    "source_type": "x",
+    "published_at": "2026-06-30T18:20:45+00:00",
+    "raw_excerpt": "Sonnet 5 is here!\n\nThis is going to support better long-running agents.\n\nPrevious Sonnet models were unreliable, so it's great to see the improved version that can complete agentic tasks more reliably. It also seems to have improved substantially in computer use.",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Anthropic이 Sonnet 5를 출시했으며, 장시간 실행되는 에이전트를 더 잘 지원하고 컴퓨터 사용 성능을 개선했다.",
+    "thumbnail": "https://pbs.twimg.com/media/HMFNGHSWUAA1LJ6.jpg:large",
+    "score": 5.139,
+    "engagement": 11472,
+    "matched_keywords": [
+      "agentic"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Introducing Claude Sonnet 5, our most agentic Sonnet yet.",
+    "url": "https://x.com/claudeai/status/2072017450611142835",
+    "source": "X @claudeai",
+    "source_type": "x",
+    "published_at": "2026-06-30T18:00:31+00:00",
+    "raw_excerpt": "Introducing Claude Sonnet 5, our most agentic Sonnet yet.\n\nIt makes plans, uses tools like browsers and terminals, and runs autonomously at a level that just a few months ago required larger and more expensive models.",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Claude Sonnet 5는 계획 수립, 브라우저·터미널 등 도구 활용, 자율 실행이 가능해 더 큰 모델 수준의 성능을 제공합니다.",
+    "thumbnail": "https://pbs.twimg.com/profile_images/1950950107937185792/QOfEjFoJ_200x200.jpg",
+    "score": 5.125,
+    "engagement": 3698385,
+    "matched_keywords": [
+      "agentic"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "유럽 디지털 ID 지갑, Google·Apple 안전 서비스에 의존",
+    "url": "https://news.hada.io/topic?id=30993",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-07-01T00:54:11+00:00",
+    "raw_excerpt": "유럽의 디지털 ID 지갑 은 공공 서비스 접근과 온라인 연령 확인에 쓰일 예정이지만, 보안 확인을 Google Play Integrity API와 Apple Managed Device Attestation 같은 민간 플랫폼에 맡기는 구조임 Play Integrity 는 앱이 정품 인증 Android 기기에서 실행되는지 ...",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "유럽 디지털 ID 지갑이 공공 서비스 접근과 온라인 연령 확인에 활용될 예정이지만 보안을 Google·Apple의 민간 서비스에 의존하는 구조로 프라이버시 우려를 낳고 있다.",
+    "thumbnail": "https://social.news.hada.io/topic/30993",
+    "score": 5.118,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Claude Sonnet 5 공개",
+    "url": "https://news.hada.io/topic?id=30992",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-07-01T00:51:11+00:00",
+    "raw_excerpt": "Anthropic은 2026년 6월 30일 Claude Sonnet 5를 출시하며, 더 비싼 Opus급 모델에 가까운 에이전트 실행 능력 을 Sonnet급 비용대로 제공하려 함 Sonnet 4.6보다 추론, 도구 사용, 코딩, 지식 작업 이 개선됐고, effort 조절로 작업별 비용과 성능의 균형을 더 세밀...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Anthropic이 Claude Sonnet 5를 출시하며 Opus 수준의 에이전트 능력을 Sonnet 가격대에서 제공하고 추론과 코딩 성능을 대폭 개선했다.",
+    "thumbnail": "https://social.news.hada.io/topic/30992",
+    "score": 5.115,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "삼성·SK만? 조선업계도 성과급 전쟁…“영업이익 공유하라”",
+    "url": "https://www.etnews.com/20260701000128",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-07-01T00:50:56+00:00",
+    "raw_excerpt": "국내 조선업계가 올해 임금 및 단체협상(임단협)에 접어든 가운데, 대규모 성과급 지급과 영업이익 공유를 요구하는 목소리가 커지고 있다. 삼성전자와 SK하이닉스 등 반도체 기업에서 촉발된 성과급 기준 투명화와 이익 공유 논쟁이 조선업계로도 번지는 모습이다. 1일 관련 업계에 따르면 HD현대중공업 노조는 올해 임단협 주요 조건으로 '성과급 체계 개편'을 전면에 내세웠다. 수년간의 불황을 버텨내고 찾아온 슈퍼사이클(초호황기)의 결실을 노동자와 정당하",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "삼성·SK의 성과급 투명화 논쟁이 조선업계로 확대되며 HD현대중공업 노조 등이 초호황기 이익 공유와 성과급 체계 개편을 요구하고 있다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/06/29/news-p.v1.20260629.89d3f31e55e04b14934d1e3350431532_P1.jpg",
+    "score": 5.114,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Atlassian의 DESIGN.md 공개 - 이식 가능한 디자인 컨텍스트를 실전 테스트하며 얻은 교훈",
+    "url": "https://news.hada.io/topic?id=30990",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-07-01T00:39:01+00:00",
+    "raw_excerpt": "AI가 생성하는 UI가 브랜드 정체성 없이 일반화되는 slop 문제를 해결하기 위한 이식 가능한 Markdown 포맷 으로, 디자인 시스템의 핵심 요소를 한 파일에 담아 프롬프트에 포함하는 방식 DESIGN.md는 기계 판독용 디자인 토큰 과 사람...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Atlassian이 AI 생성 UI의 일관성 문제를 해결하기 위해 디자인 시스템을 Markdown 파일로 표준화한 DESIGN.md를 공개했습니다.",
+    "thumbnail": "https://social.news.hada.io/topic/30990",
+    "score": 5.102,
+    "engagement": 0,
+    "matched_keywords": [
+      "프롬프트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "pi-subagents - Pi를 위한 서브에이전트",
+    "url": "https://news.hada.io/topic?id=30989",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-07-01T00:31:02+00:00",
+    "raw_excerpt": "Pi 코딩 에이전트 가 작업을 자식 Pi 세션 에 위임하도록 해주는 확장 기능 코드 리뷰/코드 정찰/구현/병렬 감사/백그라운드 작업 등 추가적인 시각 이 필요한 작업에 활용 설치 후 별도 설정/슬래시 명령 학습 없이 자연어 요청...",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Pi 코딩 에이전트가 작업을 자식 세션에 위임할 수 있게 하는 서브에이전트 확장 기능이 출시되어 코드 리뷰, 병렬 감사 등 복잡한 작업을 더 효율적으로 처리할 수 있게 되었다.",
+    "thumbnail": "https://social.news.hada.io/topic/30989",
+    "score": 5.094,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Tutorial on using Gemini live to build a voice agent",
+    "url": "https://x.com/hwchase17/status/2072003684415000802",
+    "source": "X @hwchase17",
+    "source_type": "x",
+    "published_at": "2026-06-30T17:05:48+00:00",
+    "raw_excerpt": "Tutorial on using Gemini live to build a voice agent\n\nUses deepagents as a tool: offload complex work to this subagent, use Gemini live for the naturalness/latency",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Gemini Live를 활용해 음성 에이전트를 구축하는 튜토리얼로, DeepAgents를 서브에이전트로 활용해 복잡한 작업을 분담하면서 자연스러운 응답과 낮은 지연시간을 구현하는 방법을 소개합니다.",
+    "thumbnail": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_200x200.jpg",
+    "score": 5.087,
+    "engagement": 3156,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Building voice agents can come with tradeoffs.",
+    "url": "https://x.com/LangChain/status/2072001573408968736",
+    "source": "X @LangChain",
+    "source_type": "x",
+    "published_at": "2026-06-30T16:57:25+00:00",
+    "raw_excerpt": "Building voice agents can come with tradeoffs.\n\n Better convos w/ speech to speech models\nVs\n More reliable harnesses w/ sandwich architecture\n\nHow to build a voice research agent with both:\n Gemini Live: low-latency, natural-sounding convos\n Deep Agents: long-running",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "음성 에이전트 구축 시 자연스러운 대화와 안정성 중 선택해야 하는데, Gemini Live와 Deep Agents를 결합하면 두 가지 장점을 모두 확보할 수 있다.",
+    "thumbnail": "https://pbs.twimg.com/profile_images/2028336270431453184/jRRpLAdG_200x200.jpg",
+    "score": 5.081,
+    "engagement": 8851,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "다쏘시스템, 버추얼 트윈으로 유럽 헬스케어 스타트업 키운다",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21001",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-06-30T16:52:09+00:00",
+    "raw_excerpt": "다쏘시스템이 프랑스의 의료 AI·디지털 혁신 허브 ‘파리상테 캠퍼스’와 파트너십을 맺고 헬스케어 스타트업 지원에 나선다고 30일 밝혔다. 다쏘시스템의 버추얼 트윈 기술과 클라우드 인프라를 유럽 디지털 헬스 생태계와 결합해, 스타트업이 아이디어를 유럽 데이터 보안 규제에 맞는 솔루션으로 키울 수 있도록 돕는 구조다.파리상테 캠퍼스는 프랑스의 ‘이노베이션 상테 2030’ 전략 아래 설립된 의료 분야 디지털 혁신 거점이다. 이번 협약에 따라 파리상테 캠퍼스의 지원을 받는 스타트업은 다쏘시스템의 ‘3D익스피리언스 랩’과 ‘OUTSCALE",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "다쏘시스템이 파리상테 캠퍼스와 협력해 버추얼 트윈 기술과 클라우드 인프라로 유럽 헬스케어 스타트업을 지원한다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202606/21001_21620_5038.png",
+    "score": 5.077,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "체크인부터 청소까지 로봇이 전담…中 '로봇 호텔' 추진",
+    "url": "https://www.etnews.com/20260630000433",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-07-01T00:15:00+00:00",
+    "raw_excerpt": "중국 로봇기업 푸두 로보틱스가 2027년 중국 광둥성에 세계 최초의 '로봇 호텔'을 개장할 계획이라고 밝혔습니다. 이 호텔은 프런트 접수와 체크인, 룸서비스, 청소, 음식 준비, 고객 응대 등 주요 호텔 서비스를 모두 로봇이 수행하도록 설계됐습니다. 로봇들은 푸두 로보틱스의 모델로 구성돼 영역별로 업무를 분담합니다. 회사 측은 로봇이 하나의 AI 플랫폼을 통해 정보를 공유하며 호텔 전반에 걸쳐 일관된 서비스를 제공할 수 있다고 설명했습니다. 호",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "푸두 로보틱스가 2027년 중국에 세계 최초의 로봇 호텔을 개장하며 체크인부터 청소까지 모든 서비스를 로봇이 담당하도록 설계했습니다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/06/30/news-p.v1.20260630.82b4298dc4414428b4d79dabfa0a9f10_P1.jpg",
+    "score": 5.077,
+    "engagement": 0,
+    "matched_keywords": [
+      "로보틱스"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "AArch64 데스크톱 실험의 끝",
+    "url": "https://news.hada.io/topic?id=30985",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-07-01T00:04:04+00:00",
+    "raw_excerpt": "약 11개월간 Ampere Altra 기반 AArch64 데스크톱 을 실사용했지만, 서버용 플랫폼을 데스크톱처럼 쓰면서 커널·GPU·앱 호환성 부담이 계속 누적됨 시스템은 Ampere Altra Q80-30 80코어 3.0GHz , 128GB RAM, AMD Radeon RX6700XT, ASRock Rack ALTRAD8UD-1L2T, Fedo...",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "Ampere Altra 기반 AArch64 데스크톱을 11개월 사용한 결과 커널·GPU·앱 호환성 문제로 인해 서버 플랫폼의 데스크톱 활용이 실무적으로 제약이 많음을 확인했다.",
+    "thumbnail": "https://social.news.hada.io/topic/30985",
+    "score": 5.066,
+    "engagement": 0,
+    "matched_keywords": [
+      "gpu"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "We’re shipping 2 major releases: ",
+    "url": "https://x.com/GoogleDeepMind/status/2071988044878516466",
+    "source": "X @GoogleDeepMind",
+    "source_type": "x",
+    "published_at": "2026-06-30T16:03:40+00:00",
+    "raw_excerpt": "We’re shipping 2 major releases: \n Nano Banana 2 Lite: our fastest and cheapest Gemini Image model\n Gemini Omni Flash: now available via the Gemini API and in \n@GoogleAIStudio\n to help developers generate and edit high-quality videos.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Google DeepMind가 저비용 고속 이미지 모델 Nano Banana 2 Lite와 동영상 생성·편집 기능의 Gemini Omni Flash를 출시했다.",
+    "thumbnail": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_200x200.jpg",
+    "score": 5.043,
+    "engagement": 133100,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "The last major keyboard moment was in 2007,",
+    "url": "https://x.com/callmeyoung93/status/2071964331261272332",
+    "source": "X @callmeyoung93",
+    "source_type": "x",
+    "published_at": "2026-06-30T14:29:26+00:00",
+    "raw_excerpt": "The last major keyboard moment was in 2007,\nwhen Apple put the keyboard on glass.\n\nNearly 20 years later, we're introducing:\nActi \n@openacti1\n, the Agentic Keyboard.\n\nNot another AI keyboard that fixes grammar.\nNot another voice keyboard that types faster.\n\nAn invisible agent in",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Apple이 2007년 유리 키보드를 선보인 이후 20년 만에 AI 에이전트 기반의 새로운 키보드 'Acti'가 출시되었다.",
+    "thumbnail": "https://pbs.twimg.com/profile_images/2069988034578444288/girTLMJ5_200x200.jpg",
+    "score": 4.978,
+    "engagement": 1194259,
+    "matched_keywords": [
+      "agentic"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  }
+]
