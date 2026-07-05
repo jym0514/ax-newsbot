@@ -1240,7 +1240,7 @@
     "e212d33bbf0b2651": "https://social.news.hada.io/topic/31145",
     "bd68b5a2b742e307": "https://image.zdnet.co.kr/2026/07/05/c12d5a5936020442d4bf8ac487028d97.jpg"
   },
-  "last_sent_date": "2026-07-03",
+  "last_sent_date": "2026-07-06",
   "sent": {
     "2026-06-29": [
       "morning",
@@ -1265,6 +1265,9 @@
     "2026-07-03": [
       "morning",
       "evening"
+    ],
+    "2026-07-06": [
+      "morning"
     ]
   }
 }
