@@ -1,0 +1,818 @@
+[
+  {
+    "title": "Zhipu AI launches ZCode to challenge Claude Code and OpenAI Codex at a fraction of the cost",
+    "url": "https://the-decoder.com/zhipu-ai-launches-zcode-to-challenge-claude-code-and-openai-codex-at-a-fraction-of-the-cost/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-07-06T18:28:26+00:00",
+    "raw_excerpt": "Zhipu AI is bringing GLM-5.2 to its ZCode development environment, pitching the model's long-context capabilities for complex coding tasks. New customers get a free five-day trial with up to 5 million tokens per day, and subscribers receive about 1.5 times more token quota through July 2026. The article Zhipu AI launches ZCode to challenge Claude Code and OpenAI Codex at a fraction of the cost appeared first on The Decoder .",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Zhipu AI가 GLM-5.2 기반 코딩 환경 ZCode를 출시해 Claude Code와 OpenAI Codex를 저렴한 가격으로 대항한다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/10/Zhipu-AI-Logo-Wall-Pattern-GPT-4o.jpg",
+    "score": 7.147,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "codex",
+      "claude code"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Your family’s $300 stake in OpenAI",
+    "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+    "source": "MIT Tech Review",
+    "source_type": "rss",
+    "published_at": "2026-07-06T18:00:00+00:00",
+    "raw_excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times reported that Altman is in",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI의 샘 알트만 CEO가 추진 중인 AI 부의 공유 계획이 미국인들에게 연간 약 300달러 규모의 이익 배분을 제공할 수 있다는 보도가 나왔다.",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/07/openai-money.jpg?resize=1200,600",
+    "score": 6.289,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "I tested the new Claude Desktop on Linux - here's how it compares to rival apps",
+    "url": "https://www.zdnet.com/article/i-tested-claude-desktop-on-linux-how-it-compares-to-rival-apps/",
+    "source": "ZDNet (Global, AI)",
+    "source_type": "rss",
+    "published_at": "2026-07-06T16:05:00+00:00",
+    "raw_excerpt": "Claude Code finally has an official Linux desktop app. It's a great option, but trying to use local AI is where things get tricky.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Anthropic이 Claude의 공식 Linux 데스크톱 앱을 출시했으며, 로컬 AI 사용에서는 한계가 있는 것으로 평가됨.",
+    "thumbnail": "https://www.zdnet.com/a/img/resize/d83212605a4627d140fec84f3320b05a8cecc01c/2026/07/06/d1471b75-b61b-483c-a7e6-b022e9959f2b/claudedesktophero.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "score": 6.157,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "claude code"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Nvidia's Kyber NVL144 reportedly pushed back more than a year, Asian suppliers drop",
+    "url": "https://the-decoder.com/nvidias-kyber-nvl144-reportedly-pushed-back-more-than-a-year-asian-suppliers-drop/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-07-06T12:30:11+00:00",
+    "raw_excerpt": "Nvidia's next AI server rack, Kyber NVL144, has been delayed more than a year to 2028 because of circuit board manufacturing problems, according to analyst firm SemiAnalysis. Asian suppliers lost up to double-digit percentages in market value. The more powerful Rubin Ultra variant has also been canceled. The setbacks could give AMD and Google an opening to compete. The article Nvidia s Kyber NVL144 reportedly pushed back more than a year, Asian suppliers drop appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Nvidia의 차세대 AI 서버 랙 Kyber NVL144이 회로 기판 제조 문제로 2028년까지 1년 이상 지연되면서 아시아 공급업체들의 주가가 큰 폭으로 하락했다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/12/nvidia_logo_wall_cb-1.jpeg",
+    "score": 5.911,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "nvidia"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+    "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-07-06T19:01:59+00:00",
+    "raw_excerpt": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "iOS 27 베타에서 Siri의 말하기 속도와 표현력을 커스터마이징할 수 있게 되어, Apple이 생성형 AI 기반으로 더 자연스러운 음성 어시스턴트를 만드는 노력을 진행 중이다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/10/apple-siri-header.jpg?resize=1200,800",
+    "score": 5.535,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Cloudflare replaces its blanket AI bot block with granular controls for search, training, and agent crawlers",
+    "url": "https://the-decoder.com/cloudflare-replaces-its-blanket-ai-bot-block-with-granular-controls-for-search-training-and-agent-crawlers/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-07-06T18:54:45+00:00",
+    "raw_excerpt": "Cloudflare is giving all customers granular AI bot controls. Site owners can now manage Search, Training, and Agent bots separately instead of blocking them all at once. Starting September 15, 2026, Training and Agent bots will be blocked by default on ad-supported pages. The article Cloudflare replaces its blanket AI bot block with granular controls for search, training, and agent crawlers appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Cloudflare가 검색, 학습, 에이전트 봇을 각각 제어할 수 있는 세분화된 AI 봇 관리 기능을 모든 고객에게 제공하며, 2026년 9월 15일부터 광고 지원 페이지에서는 학습 및 에이전트 봇이 기본적으로 차단된다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/cloudflare_logo_wall-2.png",
+    "score": 5.527,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Every major tech layoff in 2026 that has name-checked AI",
+    "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-07-06T18:35:00+00:00",
+    "raw_excerpt": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "2026년 주요 기술 기업들이 AI를 이유로 대규모 감원을 잇따라 단행하고 있다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/06/AI-layoffs-picture.png?resize=1200,800",
+    "score": 5.504,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+    "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-07-06T15:32:43+00:00",
+    "raw_excerpt": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial sales the hardest.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Microsoft가 전 직원의 2.1%에 해당하는 약 4,800명을 구조조정하며 Xbox와 상업 판매 부문이 가장 큰 타격을 받고 있습니다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/05/microsoft-logo.jpg?resize=1200,800",
+    "score": 5.295,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Reddit is using LLMs to solve a problem LLMs largely created",
+    "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-07-06T15:22:08+00:00",
+    "raw_excerpt": "In the AI era, platforms have no choice but to fight fire with fire to cull spam.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Reddit이 LLM이 만든 스팸 문제를 해결하기 위해 LLM을 활용하고 있다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2023/06/reddit-glitch-1.jpg?resize=1200,675",
+    "score": 5.283,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "\"생성형 AI, 사진의 경계까지 확장한다\"…퀄컴 특허 기술이 보여주는 '무한 캔버스'의 시대",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40853",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-06T19:46:41+00:00",
+    "raw_excerpt": "생성형 인공지능(AI)은 이제 단순히 새로운 이미지를 만들어내는 수준을 넘어 기존 사진 자체를 다시 창조하는 단계로 진화하고 있다. 불과 몇 년 전까지만 하더라도 생성형 AI는 텍스트를 입력하면 새로운 그림을 생성하거나 사진 속 일부 영역을 수정하는 수준에 머물렀다. 그러나 최근에는 사용자가 촬영한 사진의 경계를 넘어 실제 존재하지 않았던 공간까지 자연스럽게 생성하는 기술이 빠르게 발전하고 있다.이러한 기술은 흔히 '아웃페인팅(Outpainting)'이라 불린다. 사진의 바깥 영역을 AI가 추론해 확장하는 기술이다. 사용자는 사진을",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "퀄컴의 특허 기술을 통해 생성형 AI가 사진 경계 너머의 존재하지 않는 공간까지 자연스럽게 생성하는 '아웃페인팅' 기술로 진화하고 있다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/40853_61586_4517_v150.jpg",
+    "score": 5.263,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "생성형 ai"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
+    "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-07-06T13:00:00+00:00",
+    "raw_excerpt": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping stone for promising AI startups.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "파리의 스타트업 허브 Station F가 유럽의 유망한 AI 스타트업들을 육성하기 위해 F/ai 액셀러레이터 프로그램을 확대 운영 중이다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/07/STATION-F-Master-stage-_-Credits-Patrick-Tourneboeuf.jpg?resize=1200,800",
+    "score": 5.12,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Claude Fable 5 is back, but I'm sticking with Opus 4.8 for daily work: 5 reasons why",
+    "url": "https://www.zdnet.com/article/claude-fable-5-returns-why-im-using-opus-4-8-instead/",
+    "source": "ZDNet (Global, AI)",
+    "source_type": "rss",
+    "published_at": "2026-07-06T12:28:00+00:00",
+    "raw_excerpt": "Anthropic's Fable 5 promises mythic AI power, but surprise restrictions make me wonder if it's more trouble than it's worth for day-to-day use.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Anthropic의 Claude Fable 5가 출시됐지만 예상치 못한 제약으로 인해 일상 업무에는 Opus 4.8이 더 실용적이라는 평가.",
+    "thumbnail": "https://www.zdnet.com/a/img/resize/dea8f56b0df85d10bf78201749ffa422a47ecdd7/2026/07/06/09e67dfd-b97c-462b-a468-8aaa46cf0263/gettyimages-2280239226.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "score": 5.084,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "China forces its biggest AI platforms to shut down humanlike chatbot personas",
+    "url": "https://the-decoder.com/china-forces-its-biggest-ai-platforms-to-shut-down-humanlike-chatbot-personas/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-07-06T12:26:09+00:00",
+    "raw_excerpt": "ByteDance and Alibaba are shutting down the features that let users build and chat with custom AI companions, responding to new regulations from Beijing. The article China forces its biggest AI platforms to shut down humanlike chatbot personas appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "중국 정부의 규제에 따라 바이트댄스와 알리바바가 맞춤형 AI 챗봇 기능을 종료한다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/12/china_neural_network.jpeg",
+    "score": 5.081,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "메타 AI, '예약 작업' 도입 준비…챗봇 넘어 '에이전트'로 진화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212456",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-06T18:37:29+00:00",
+    "raw_excerpt": "'메타 AI'에 사용자의 반복적인 작업을 자동으로 수행하는 '예약 작업(Scheduled Tasks)' 기능이 도입될 것으로 확인됐다. 이번 기능이 추가되면 메타 AI는 단순히 질문에 답하는 챗봇을 넘어, 사용자를 대신해 비동기적으로 업무를 수행하는 AI 에이전트 형태로 한 단계 진화할 것으로 기대된다.4일(현지시간) 테스팅카탈로그에 따르면, 메타 AI 웹 버전의 개발 빌드에서는 '예약 작업(Scheduled Tasks)' 메뉴가 새롭게 추가된 정황이 발견됐다.아직 일반 사용자에게는 공개되지 않았지만, 사용자가 매번 같은 프롬프트를",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "메타 AI가 반복 작업을 자동으로 수행하는 '예약 작업' 기능을 준비 중으로, 챗봇에서 사용자 업무를 자동 처리하는 AI 에이전트로 진화할 예정이다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212456_215720_222.jpg",
+    "score": 4.989,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "샌프란시스코 '해커 하우스'로 향하는 대학생들…\"졸업장보다 AI 창업\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212451",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-06T18:30:51+00:00",
+    "raw_excerpt": "미국 명문대 학생들의 여름방학은 빅테크 기업이나 투자은행, 컨설팅 회사에서 인턴십을 수행하며 안정적인 취업을 준비하는 시기였다. 그러나 AI 시대가 본격화하면서 이러한 공식이 빠르게 무너지고 있다. 5일(현지시간) 월스트리트저널(WSJ)에 따르면, 일부 대학생들은 방학 시즌을 맞아 샌프란시스코의 '해커 하우스(Hacker House)'와 스타트업 인큐베이터로 몰려가 창업에 뛰어들고 있다. 일부는 휴학이나 자퇴까지 감수하며 AI 스타트업 창업에 인생을 걸고 있다.이 같은 변화의 배경에는 AI가 촉발한 급격한 산업 재편과 갈수록 좁아지",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "미국 명문대 학생들이 전통적인 인턴십 대신 샌프란시스코의 해커 하우스에서 AI 스타트업 창업에 뛰어들며, 심지어 휴학·자퇴까지 감수하고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212451_215741_288.png",
+    "score": 4.983,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업",
+      "창업"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "바이트댄스·알리바바, ‘AI 페르소나’ 서비스 중단…정부 규제 앞두고 선제 조치",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212452",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-06T18:03:18+00:00",
+    "raw_excerpt": "중국의 대표적인 생성 AI 서비스인 바이트댄스의 '더우바오'와 알리바바의 '큐원'이 사용자 맞춤형 AI 에이전트와 AI 페르소나(Persona) 기능을 잇달아 종료한다. 오는 15일 시행되는 중국 정부의 새로운 AI '의인화' 규제에 대응하려는 조치다.사우스차이나모닝포스트에 따르면, 더우바오는 3일(현지시간) 공지를 통해 \"제품 기능 조정을 이유로 15일부터 사용자 맞춤형 AI 에이전트 기능을 종료한다\"라 밝혔다.또 10월15일 이후에는 관련 사용자 데이터가 개인정보 처리방침에 따라 관리되며, 앱 내에서는 더 이상 조회하거나 복구할",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "바이트댄스와 알리바바가 중국 정부의 AI '의인화' 규제 시행을 앞두고 AI 페르소나 기능을 잇달아 중단하고 있습니다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212452_215714_78.jpg",
+    "score": 4.958,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제",
+      "개인정보"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "마이크론, 히로시마 공장 증설…14조 투입해 HBM 생산 확대",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212473",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-06T16:54:04+00:00",
+    "raw_excerpt": "미국 메모리 반도체 기업 마이크론 테크놀로지가 93억달러(약 14조원) 규모의 일본 히로시마 공장 증설에 착공하며 AI용 고대역폭메모리(HBM) 생산 확대에 나섰다.블룸버그에 따르면, 마이크론은 4일(현지시간) 일본 히로시마 공장 증설 기공식을 열고 차세대 메모리 생산시설 구축을 공식 시작했다.새 공장에서는 엔비디아의 AI 가속기 등에 사용되는 HBM을 비롯한 첨단 DRAM 제품이 생산될 예정이다.생산설비 반입과 설치는 2028년 하반기부터 시작되며, 일본 경제산업성은 이번 사업에 최대 5000억 엔(약 4조7000원)의 보조금을",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "마이크론이 히로시마 공장에 93억 달러를 투자해 AI용 고대역폭메모리(HBM) 생산을 확대한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212473_215736_231.png",
+    "score": 4.895,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "차세대"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "KT, AX 인프라 5조 투자…\"대표 사업 모델로 ‘토큰 팩토리’ 키운다\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212465",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-06T15:44:34+00:00",
+    "raw_excerpt": "KT는 6일 서울 광진구 풀만 앰배서더 서울 이스트폴 호텔에서 취임 후 첫 기자간담회를 개최하고 'AX 플랫폼 컴퍼니'로 도약하기 위한 핵심 전략을 발표했다.새롭게 제시한 AX 플랫폼 컴퍼니는 ▲제로 트러스트 정보보안 및 IT, 네트워크 ▲AI 데이터센터·AI 엣지·해저케이블 ▲B2B·B2C·신성장 AX 서비스 등을 연결해 AX 생태계를 구축한다는 전략이다.특히, 인프라에 5조원을 투자해 총 1기가와트(GW) 용량의 데이터센터를 실수요 바탕으로 추가 구축할 예정이다. 대규모 학습과 추론 수요에 대응하는 중앙 데이터센터와 산업 현장",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "KT가 5조원의 인프라 투자로 1GW 규모 AI 데이터센터를 구축하고 '토큰 팩토리'를 대표 사업으로 육성하는 AX 플랫폼 컴퍼니 전략을 발표했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212465_215728_411.jpeg",
+    "score": 4.833,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장",
+      "ax"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Stealth robotics startup (YC S26) is hiring principal engineers (Palo Alto)",
+    "url": "https://news.ycombinator.com/item?id=48806976",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-06T16:33:04+00:00",
+    "raw_excerpt": "Comments URL: https://news.ycombinator.com/item?id=48806976 Points: 0 # Comments: 0",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Y Combinator S26 동기 스텔스 로봇 스타트업이 팔로알토에서 주임 엔지니어를 채용 중입니다.",
+    "thumbnail": "",
+    "score": 4.501,
+    "engagement": 0,
+    "matched_keywords": [
+      "startup",
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "아틀라스, FIFA 월드컵 2026 16강전 무대 퍼포먼스로 AI 로보틱스 기술 구현",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40847",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-06T16:10:09+00:00",
+    "raw_excerpt": "현대자동차가 'FIFA 월드컵 2026™'에서 보스턴 다이나믹스의 인공지능(AI) 휴머노이드 로봇 '아틀라스(Atlas)'와 함께 전 세계 축구팬들에게 새로운 미래 모빌리티 경험을 선사하며 첨단 로보틱스 선도 기업으로서의 위상을 뽐냈다. 현대차는 5일(현지시간) 미국 뉴저지에 위치한 뉴욕 뉴저지 스타디움에서 열린 16강전 하프타임에서 아틀라스가 심판에게 경기구를 전달하는 퍼포먼스를 성공적으로 시연했다.이날 아틀라스는 하프타임 종료 직전, 선수 입장 터널에서 등장해 관중들을 향해 해리 케인, 엘링 홀란드, 마테우스 쿠냐, 손흥민 등",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "현대자동차가 FIFA 월드컵 2026 16강전에서 보스턴 다이나믹스의 AI 휴머노이드 로봇 '아틀라스'를 무대에 출동시켜 첨단 로보틱스 기술력을 선보였다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/40847_61577_719_v150.jpg",
+    "score": 4.482,
+    "engagement": 0,
+    "matched_keywords": [
+      "로보틱스",
+      "휴머노이드"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "The Token Apocalypse",
+    "url": "https://www.ai-supremacy.com/p/the-token-apocalypse",
+    "source": "AI Supremacy",
+    "source_type": "substack",
+    "published_at": "2026-07-06T09:25:05+00:00",
+    "raw_excerpt": "Governments, productivity, leaders and efficiency are steering AI's adoption now.",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "정부와 생산성 중심의 리더십이 현재 AI 도입 방향을 주도하고 있다.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!WbrI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec170b71-506b-4762-b381-e2df1cdd3de4_1261x1577.jpeg",
+    "score": 4.431,
+    "engagement": 0,
+    "matched_keywords": [
+      "productivity"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "광양경자청, ‘찾아가는 환경기술지원단’으로 환경오염 사전 차단",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212478",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-06T15:40:00+00:00",
+    "raw_excerpt": "광양만권경제자유구역청(청장 구충곤)은 관내 환경오염물질 배출사업장을 대상으로 ‘2026년 찾아가는 환경기술지원단’ 사업을 운영한다고 6일 밝혔다.이번 사업은 오염물질 배출을 사전에 방지하고 기업의 환경 관리 역량을 강화하기 위해 마련된 현장 중심의 맞춤형 기술지원 프로그램이다.광양경자청은 16일까지 관내 사업장들의 참가 신청을 받아 6개 사업장을 선정한 후, 오는 8월부터 11월까지 현장을 직접 방문해 환경 관리 사업을 지원한다. 신청 방법 등 자세한 내용은 광양경자청 누리집 공지사항을 통해 확인할 수 있다.주요 지원 내용은 ▲배출",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "광양만권경자청이 관내 오염물질 배출사업장을 대상으로 환경기술지원단을 파견해 오염 사전차단과 기업의 환경관리 역량을 강화하는 맞춤형 지원사업을 추진한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212478_215743_2641.jpg",
+    "score": 4.179,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Full Writeup of the Windows GDID",
+    "url": "https://github.com/SmtimesIWndr/gdid-reversal",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-06T22:02:24+00:00",
+    "raw_excerpt": "Article URL: https://github.com/SmtimesIWndr/gdid-reversal Comments URL: https://news.ycombinator.com/item?id=48811081 Points: 3 # Comments: 0",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Windows GDID에 대한 전체 역분석 내용이 GitHub에 공개되어 Windows 시스템 식별 메커니즘의 기술적 상세가 드러났습니다.",
+    "thumbnail": "https://opengraph.githubassets.com/8319ed907dd02d2636c5237c6d34d200ee26d38a72b47eb1ecb90b3a653e3ef9/SmtimesIWndr/gdid-reversal",
+    "score": 4.176,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Titan's Resources and Their Utilization",
+    "url": "https://arxiv.org/abs/2606.06608",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-06T21:39:04+00:00",
+    "raw_excerpt": "Article URL: https://arxiv.org/abs/2606.06608 Comments URL: https://news.ycombinator.com/item?id=48810841 Points: 5 # Comments: 1",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "토성의 위성 타이탄의 자원과 그 활용 방안에 대한 연구가 발표되었습니다.",
+    "thumbnail": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "score": 4.156,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Taiganet.com, Home of the WS4000 Simulator",
+    "url": "https://www.taiganet.com/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-06T21:06:24+00:00",
+    "raw_excerpt": "Article URL: https://www.taiganet.com/ Comments URL: https://news.ycombinator.com/item?id=48810501 Points: 6 # Comments: 0",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Taiganet.com이 WS4000 시뮬레이터를 제공하는 플랫폼으로 소개되었습니다.",
+    "thumbnail": "",
+    "score": 4.129,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Learning to code is still worthwhile",
+    "url": "https://stevekrouse.com/learn-to-code",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-06T20:59:54+00:00",
+    "raw_excerpt": "Article URL: https://stevekrouse.com/learn-to-code Comments URL: https://news.ycombinator.com/item?id=48810439 Points: 66 # Comments: 61",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "코딩 학습은 AI 시대에도 여전히 가치 있으며, 프로그래밍 능력은 기술 업계에서 핵심 경쟁력으로 남아있다.",
+    "thumbnail": "",
+    "score": 4.124,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "M/PC – A Concatenative OS",
+    "url": "https://wiki.xxiivv.com/site/m_pc.html",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-06T20:08:46+00:00",
+    "raw_excerpt": "Article URL: https://wiki.xxiivv.com/site/m_pc.html Comments URL: https://news.ycombinator.com/item?id=48809810 Points: 7 # Comments: 0",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "M/PC는 프로그래밍 언어 Forth 기반의 최소주의 운영체제로, 단순한 구조를 통해 컴퓨터 시스템의 근본적인 작동 원리를 탐구하는 프로젝트입니다.",
+    "thumbnail": "https://wiki.xxiivv.com/media/services/rss.jpg",
+    "score": 4.081,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Price per 1M tokens is meaningless",
+    "url": "https://janilowski.pl/en/blog/2026/price-per-m-tokens/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-06T19:43:36+00:00",
+    "raw_excerpt": "Article URL: https://janilowski.pl/en/blog/2026/price-per-m-tokens/ Comments URL: https://news.ycombinator.com/item?id=48809542 Points: 113 # Comments: 62",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "LLM 가격 비교 시 사용되는 백만 토큰당 가격 지표가 모델 성능과 효율성 차이를 제대로 반영하지 못해 의미가 제한적이라는 주장입니다.",
+    "thumbnail": "",
+    "score": 4.06,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Python 3.14 compiled to metal – no interpreter",
+    "url": "https://github.com/can1357/pon",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-06T19:40:22+00:00",
+    "raw_excerpt": "Article URL: https://github.com/can1357/pon Comments URL: https://news.ycombinator.com/item?id=48809496 Points: 85 # Comments: 47",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Python 코드를 인터프리터 없이 네이티브 기계코드로 직접 컴파일하는 pon 프로젝트가 공개되어 성능 향상 가능성을 보여주고 있습니다.",
+    "thumbnail": "https://opengraph.githubassets.com/d61005a4656666f50487ec10671705f4eac49ebd974418e9dbf688486aab4203/can1357/pon",
+    "score": 4.057,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Pruning RAG context down to what the answer actually needs",
+    "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-06T19:28:24+00:00",
+    "raw_excerpt": "Article URL: https://www.kapa.ai/blog/how-we-prune-rag-context Comments URL: https://news.ycombinator.com/item?id=48809354 Points: 16 # Comments: 0",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "RAG 시스템에서 답변에 필요한 컨텍스트만 추려내는 방법으로 효율성과 정확도를 동시에 개선할 수 있습니다.",
+    "thumbnail": "https://framerusercontent.com/images/6GxuXM90o1IK62mxhycPvoG2M.png?width=1267&height=654",
+    "score": 4.047,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "인피니언, 50억 유로 투자 ‘스마트 파워 팹’ 개소… AI 데이터센터·전기차·재생에너지용 반도체 생산",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40852",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-06T18:49:06+00:00",
+    "raw_excerpt": "독일 반도체 기업 인피니언 테크놀로지스(Infineon Technologies)가 독일 드레스덴(Dresden)에 세계 최대 규모의 전력반도체 및 아날로그·혼합신호(Analog/Mixed-Signal) 반도체 생산공장을 지난 2일(현지시간) 공식 개소했다.인피니언은 총 50억 유로(약 8.7조원)를 투자한 신규 생산시설 '스마트 파워 팹(Smart Power Fab)'을 예정보다 수개월 앞당겨 가동에 들어갔다고 이날 밝혔다.이번 투자는 인피니언 역사상 최대 규모의 단일 투자 프로젝트이자 독일 내 최대 첨단산업 투자 가운데 하나로 평",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "인피니언이 독일 드레스덴에 50억 유로를 투자한 세계 최대 규모의 전력반도체 생산공장 '스마트 파워 팹'을 개소해 AI 데이터센터, 전기차, 재생에너지용 반도체 생산을 본격화한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/40852_61585_4813_v150.jpg",
+    "score": 4.015,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "맥 미니는 왜 AI 에이전트 머신이 되었나",
+    "url": "https://byline.network/2026/07/mac-mini/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-07-06T09:18:13+00:00",
+    "raw_excerpt": "애플 실리콘 시니어 PM 더그 브룩스는 최근 미국 테크 미디어 더딥뷰(The Deep View)와의 인터뷰에서 맥 미니가 왜 에이전트 시대 최고의 머신으로 평가받는지 설명했다. 그에 따르면, 애플 실리콘의 핵심은 통합 메모리 아키텍처(UMA)다. CPU, GPU, 뉴럴엔진이 메모리를 함께 쓴다. 일반 PC는 CPU가 쓰는 시스템 램과 GPU가 쓰는 그래픽 메모리가 분리돼 있어, 대용량 AI 모델을 돌리려면 수백만원짜리 엔비디아 GPU가 필요했다. 맥은 다르다. 24GB 통합 메모리면 700억개 파라미터급 LLM을 로컬에서 구동할 수 있다.",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "애플 실리콘의 통합 메모리 아키텍처로 맥 미니가 고가의 별도 GPU 없이도 700억 파라미터급 LLM을 로컬에서 구동할 수 있어 AI 에이전트 머신으로 평가받고 있다.",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/07/mac-mini-stack.jpeg",
+    "score": 3.794,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "몇 분 만에 상처를 닫는 해파리, 과학자들이 주목하는 치유 비밀",
+    "url": "https://news.hada.io/topic?id=31185",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-07-06T21:38:26+00:00",
+    "raw_excerpt": "_Clytia hemisphaerica_의 유영 단계인 메두사(medusa) 는 작은 상처를 몇 분 안에 닫고 큰 상처도 1시간 이내에 회복하며, 사람과 달리 흉터 조직을 만들지 않음 투명한 몸과 빠른 회복 덕분에 살아 있는 개체 안에서 상피세포 가 손상 조직을 다시 이어 붙이는 과...",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "해파리가 흉터 없이 상처를 빠르게 치유하는 메커니즘을 과학자들이 규명하며 재생의학 분야의 중요한 치료법 개발 기초를 마련했다.",
+    "thumbnail": "https://social.news.hada.io/topic/31185",
+    "score": 3.463,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "삼성전자, 토요타와 '휴머노이드 동맹' 확대…로봇 공급 2년 만에 '5배'",
+    "url": "https://www.etnews.com/20260703000206",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-07-06T09:05:38+00:00",
+    "raw_excerpt": "삼성전자가 로봇 사업 부문에서 세계 최대 완성차 업체인 일본 토요타에 휴머노이드 공급을 늘리고 있다. 자회사 레인보우로보틱스를 중심으로 양사 파트너십이 견고해지는 가운데, 삼성전자의 로봇 사업도 성장 궤도에 오르는 모습이다. 6일 업계에 따르면 레인보우로보틱스는 이동형 휴머노이드 로봇 'RB-Y1'을 토요타에 2024년 최초 납품한 이후 공급량을 꾸준히 확대하고 있다. 지금까지 토요타가 구매한 RB-Y1은 총 25대 안팎으로 파악됐다. 레인보우",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "삼성전자 자회사 레인보우로보틱스가 토요타에 휴머노이드 로봇 RB-Y1 공급을 2년 만에 5배 확대하며 양사 파트너십을 강화하고 있다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/04/13/news-p.v1.20260413.a450faffc7d847b49bfe0a637f831b6c_P1.jpg",
+    "score": 3.44,
+    "engagement": 0,
+    "matched_keywords": [
+      "로보틱스",
+      "휴머노이드"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "한화오션, 캐나다 잠수함 수주 고배…독일 TKMS 승기 잡아",
+    "url": "https://zdnet.co.kr/view/?no=20260706230023",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-06T14:18:38+00:00",
+    "raw_excerpt": "[지디넷코리아]캐나다가 최대 60조원 규모의 차기 잠수함 도입 사업에서 독일 방산업체 티센크루프마린시스템(TKMS)을 우선협상대상자로 선정한 것으로 전해졌다.6일(현지시간) 캐나다 유력 일간지 글로브앤드메일은 \"마크 카니 캐나다 총리는 이날 노바스코샤주 핼리팩스에서 독일 TKMS를 차세대 잠수함 사업 우선협상대상자로 발표할 예정\"이라고 보도했다.복수의 소식통은 이번 발표가 최종 계약 체결을 의미하는 것은 아니지만, 캐나다 방산 조달 절차상 사실상 사업자를 가리는 핵심 단계라고 전했다. 최종 계약까지는 세부 조건 협상이 이어질 전망이다.CPSP는 2030년대 중반 퇴역 예정인 캐나다 해군의 빅토리아급 잠수함 4척을 대체하는 사업이다. 캐나다는 디젤 추진 잠수함 최대 12척을 도입해 대서양과 태평양, 북극해까지 아우르는 장거리 수중 작전 능력을 확보한다는 계획이다.잠수함 건조 비용은 약 20조원으로 추산된다. 도입 이후 30년간 유지·보수·운영 비용까지 포함하면 전체 사업 규모는 최대 60조원에 이를 것으로 전망된다.이번 사업에는 한국의 한화오션·HD현대중공업 원팀과 독일 TKMS가 적격후보에 올라 경쟁해왔다. 한국 측은 장보고-Ⅲ 기반 잠수함을 앞세워 빠른 납기와 건조 역량을 내세웠지만, 우선협상대상자 지위는 독일 측에 돌아간 것으로 알려졌다.",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "캐나다가 60조원 규모의 차기 잠수함 사업에서 독일 TKMS를 우선협상대상자로 선정하면서 한화오션과 HD현대중공업의 수주 시도가 무산됐다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/05/27/8b7a41ba03530b4852c4758b63d91174.jpg",
+    "score": 2.842,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "삼성전자 DS부문, 상반기 최대 100% 성과급 책정…모바일은 50%",
+    "url": "https://www.etnews.com/20260706000374",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-07-06T06:18:43+00:00",
+    "raw_excerpt": "삼성전자 반도체 사업을 담당하는 디바이스솔루션(DS)부문이 올해 상반기 기본급의 최대 100% 성과급을 지급받는다. 완제품 사업을 하는 디바이스경험(DX)부문은 기본급의 최대 75% 성과급을 받는다. 삼성전자는 6일 이같은 내용의 목표달성 장려금(TAI) 지급률을 공지했다. 지급일은 8일이다. TAI는 삼성전자 성과급 제도 중 하나로, 매년 상·하반기 한 차례씩 실적을 토대로 소속 사업 부문과 사업부 평가를 합쳐 최대 월 기본급 100%를 지급",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "삼성전자 DS부문이 상반기 성과급으로 기본급의 최대 100%를 받기로 결정되어 반도체 사업의 실적 개선을 반영했다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/05/27/news-p.v1.20260527.98378c18d64649ae9f13d910808b4a5b_P1.jpg",
+    "score": 2.825,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "엔피 '무아홈', 공무원 마음건강 챙긴다",
+    "url": "https://zdnet.co.kr/view/?no=20260706224250",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-06T13:42:50+00:00",
+    "raw_excerpt": "[지디넷코리아]엔피(대표 백승업·최지훈)가 공무원 대상으로 AI 마인드케어 솔루션 '무아홈'을 서비스 실증을 1년 간 진행한다.엔피는 전국공무원노동조합 경기지역본부 부천시지부와 공무원 마음건강 증진을 위한 업무협약(MOU)을 체결했다고 6일 밝혔다.이번 실증은 업무 과정에서 심리적 피로와 스트레스를 겪는 공무원을 대상으로 진행된다. 엔피는 무아홈을 통해 공공 근로환경에서의 디지털 마인드케어 솔루션의 효과와 활용 가능성을 검증할 계획이다.양측은 이번 협약을 통해 단순 복지 프로그램 도입을 넘어, 공공기관이 조직 차원에서 구성원의 마음건강을 체계적으로 관리할 수 있는 운영 모델 구축에 협력할 예정이다. 엔피는 실증 결과를 바탕으로 향후 지자체와 공공기관 등으로 적용 범위를 확대해 나간다는 계획이다.무아홈은 약 1평 규모의 독립 공간에서 비접촉 생체 데이터 측정, AI 감정 분석, XR 회복 콘텐츠를 결합한 마인드케어 솔루션이다. 자체 개발한 감정 추론 AI 'MIND C-AI'가 사용자의 감정 상태를 실시간으로 분석해 맞춤형 명상 콘텐츠를 제공한다.또 설치 공간의 특성과 목적에 따라 디자인과 구성을 맞춤형으로 적용할 수 있어 사무실, 교육시설, 공공기관 등 다양한 환경에서 활용 가능하다. 이번 실증 환경에도 공간 특성에 맞춘 형태로 설치될 예정이다.백승업 엔피 대표는 \"정신건강은 이제 개인의 문제를 넘어 조직과 사회가 함께 관리해야 할 ",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "엔피가 AI 마인드케어 솔루션 '무아홈'을 공무원 대상으로 1년간 실증해 공공기관의 체계적 정신건강 관리 모델을 구축한다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/07/06/faa04448950b2ef7599d0e4faac2a629.png",
+    "score": 2.82,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "동서발전, 내화·시공성 높인 건물일체형 태양광 실증 착수",
+    "url": "https://zdnet.co.kr/view/?no=20260706221622",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-06T13:16:22+00:00",
+    "raw_excerpt": "[지디넷코리아]한국동서발전(사장 권명호)은 내화성과 안전성을 갖춘 차세대 건물일체형 태양광(BIPV) 기술 현장 실증에 착수했다고 6일 밝혔다.동서발전은 2023년부터 포항산업과학연구원(RIST)과 공동으로 ‘내화특성 메탈패널일체형 BIPV’를 개발 중이다. 지난 5월 음성복합발전소에 17.7kW규모 시제품을 설치 완료하고 실증에 돌입했다.BIPV는 건물 외벽·지붕·창호 등 건축자재를 태양광 패널로 활용해 전기를 생산하는 방식으로, 별도 구조물을 옥상에 설치하는 기존 태양광과 달리 건물 외장재 자체를 태양광 설비로 대체할 수 있다.2025년 건축물 외부 마감 시스템 화재성능시험(KS F 8414)을 통과하며 내화 성능을 입증했다. 내풍압·수밀 테스트는 물론 BIPV 장기 신뢰성 표준인 KS C 8577 인증까지 획득해 기술적 완성도를 높였다.이 기술은 기존 메탈패널 시공법과 동일하게 메탈패널 간 블록을 쌓듯이 수직방향으로 요철을 끼워 맞추는 조립 방식을 쓰기 때문에 부자재가 필요 없고 시공 기간이 짧아 시공비를 최소 24% 이상 절감할 수 있을 것으로 기대된다.동서발전은 울산대학교와 산학협력을 통해 비정형 곡면 구조 건축물에도 태양광 모듈을 설치할 수 있는 ‘인공지능 기반 3차원 인쇄 에너지 건축 시스템’을 개발해 지난해 8월 HD현대건설기계 울산공장 외벽에 실증 설치했다. 이 기술은 지난해 BLT Built Design Awards",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "동서발전이 포항산업과학연구원과 함께 개발한 내화성 강화 건물일체형 태양광(BIPV) 기술을 음성복합발전소에 설치해 실증을 시작했으며, 시공비를 24% 이상 절감할 수 있을 것으로 기대된다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/07/06/ab4e6061f427c23285abdc8841c9f1c0.jpg",
+    "score": 2.803,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "남부발전, ‘미래내일 일경험 프로젝트’ 시행…청년 직무역량 강화",
+    "url": "https://zdnet.co.kr/view/?no=20260706213728",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-06T12:37:28+00:00",
+    "raw_excerpt": "[지디넷코리아]한국남부발전(사장 김준동)은 고용노동부 주관 ‘2026 미래내일 일경험(프로젝트형) 프로그램’을 시행, 청년층의 직무역량을 높이고 지역사회와의 상생 협력을 강화할 계획이라고 6일 밝혔다.미래내일 일경험 지원사업은 청년에게 실무 경험을 제공해 고용시장 진입을 돕는 고용노동부 청년 일자리 사업이다. 남부발전은 2023년부터 청년 일경험 지원규모를 점진적으로 확대해 왔다. 지난해에는 취업취약계층 대상 ‘인턴형’ 프로그램과 구직단념 청년 대상 ‘기업탐방형’ 프로그램 등을 통해 총 80여 명의 청년에게 맞춤형 일경험을 제공한 바 있다.올해는 청년이 직접 기업의 실제 과제를 해결하고 결과물을 도출하는 ‘프로젝트형’ 프로그램을 최초로 도입해 운영 체계를 한층 더 고도화할 예정이다. 이번 프로젝트는 오는 8월 말까지 총 8주간 진행된다. 발전소 주변 지역 정주여건 개선을 위한 ‘KOSPO 로컬업(도시재생)’과 청년 시선으로 뉴미디어 콘텐츠를 제작하는 ‘KOSPO 피드(광고·마케팅)’ 등 총 2개 분야로 운영된다.남부발전은 프로젝트 완성도를 높이고 청년 실무 역량을 다지기 위해 사내 직무 경험이 풍부한 직원을 전담 멘토로 배치했다. 지정된 멘토는 월 1회 이상 밀착 지도와 의견 조율을 수행한다.김기홍 남부발전 인사처장은 “그동안 청년 일경험 지원 범위를 지속해서 넓혀온 만큼, 올해 새롭게 시도하는 프로젝트형 과정 역시 내실 있게 운영할",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "한국남부발전이 고용노동부의 '미래내일 일경험 프로젝트'를 시행해 청년들이 실제 업무 과제를 해결하며 직무역량을 강화하도록 지원한다.",
+    "thumbnail": "https://image.zdnet.co.kr/2025/02/20/ca072cbddbb238d7fe10925865c1eb24.jpg",
+    "score": 2.779,
+    "engagement": 0,
+    "matched_keywords": [
+      "사내"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "네이버파이낸셜·두나무 주식교환 일정, 또 3개월 연기",
+    "url": "https://zdnet.co.kr/view/?no=20260706180146",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-06T09:12:31+00:00",
+    "raw_excerpt": "[지디넷코리아]네이버 자회사 네이버파이낸셜과 두나무가 진행하는 주식교환 일정이 9월에서 12월로 또 다시 미뤄졌다.6일 금융감독원 전자공시시스템에 따르면, 네이버는 당초 9월 30일이던 네이버파이낸셜과 두나무 주식교환일을 12월 31일로 변경한다고 공지했다. 이에 따라 주주총회 예정일도 8월 18일에서 11월 19일로 변경됐다.주주들 반대의사표시 접수기간 역시 당초 7월 31일부터 8월 14일까지였으나, 11월 4일부터 11월 18일까지로 연기됐다.시장에서는 공정거래위원회 기업결합 심사가 이번 일정 지연에 영향을 미쳤을 것으로 보고 있다.지난달 공정위는 증권사 18곳을 대상으로 두 기업 합병 관련 의견을 수렴했다. 증권사들은 시장지배력을 가진 두 회사 결합을 우려하는 입장을 전한 것으로 알려졌다.두나무 측은 이번 주식교환 일정 변경 배경에 대해 “디지털금융 패러다임 전환기에 글로벌 경쟁력을 확보하기 위한 결합 취지를 성실히 설명하고 있다”고 밝혔다.두 회사가 주식교환 일정을 미룬 것은 이번이 두 번째다. 앞서 관련 주주총회와 거래종결 일정을 한 차례 약 3개월씩 연기한 바 있다.당시 네이버는 디지털자산기본법 미비를 이유로 들었다. 가상자산 거래소 대주주의 지분(15~20%) 제한이 논의되고 있던 만큼, 이를 의식했다는 해석이 이어졌다.네이버는 “최근 디지털자산기본법 입법에 관한 논의가 진행 중인 것으로 보이는 바 향후 제정 및 시행되",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "네이버파이낸셜과 두나무의 주식교환이 공정거래위원회 심사 지연으로 9월에서 12월로 3개월 연기됐다.",
+    "thumbnail": "https://image.zdnet.co.kr/2025/11/27/3e389f0f8d8d36ad24822ffe478d73fa.png",
+    "score": 2.651,
+    "engagement": 0,
+    "matched_keywords": [
+      "입법"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  }
+]
