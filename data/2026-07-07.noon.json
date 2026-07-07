@@ -1,0 +1,820 @@
+[
+  {
+    "title": "ADD, 폐쇄망 생성형 AI ‘애디(Add+i)’ 전면 가동… 국방 연구개발 AI 전환 본격화",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40864",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-07T11:54:56+00:00",
+    "raw_excerpt": "국방과학연구소(ADD)가 자체 개발한 생성형 인공지능(AI) 서비스 ‘애디(Add+i)’를 전 직원 대상으로 운영하며 국방 연구개발 분야의 인공지능 전환(AX)에 본격 착수했다.국방과학연구소는 폐쇄망 환경에서 연구개발과 행정 업무를 지원하는 생성형 AI 서비스 ‘애디(Add+i)’를 구축하고 전 직원을 대상으로 운영을 시작했다. 이를 통해 연구 및 행정 업무 효율성을 높이는 동시에 국방 분야의 AI 활용 기반을 확대하고 연구개발 역량을 강화한다는 계획이다.‘애디(Add+i)’는 ‘ADD Intelligence’와 ‘Advanced",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "ADD가 폐쇄망 기반 자체 개발 생성형 AI '애디(Add+i)'를 전 직원 대상으로 가동해 국방 연구개발 분야의 AI 전환을 본격화했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/40864_61596_5430_v150.jpg",
+    "score": 8.767,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "생성형 ai"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "팀네이버-KAI, 방산 특화 AI 모델 공동 개발…국방 소버린 AI 구현 나선다",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40857",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-07T09:45:10+00:00",
+    "raw_excerpt": "팀네이버와 한국항공우주산업(KAI)가 국내 독자 기술을 기반으로 방산 특화 인공지능(AI) 모델 개발 및 피지컬 AI 기반 미래전투체계 플랫폼 개발을 공동 추진하기로 합의했다고 7일 밝혔다.3사는 팀네이버의 독자적인 AI 기술력과 KAI의 항공우주·방산 시스템 통합 역량을 기반으로 방산 분야에 최적화된 파운데이션 모델을 공동 개발하고, 기술 개발부터 사업화까지 이어지는 전방위적 협력 체계를 구축한다는 구상이다.네이버, 네이버클라우드, KAI 3사는 지난 6일 KAI 사천 본사에서 최수연 네이버 대표, 김유원 네이버클라우드 대표, 김",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "팀네이버와 KAI가 국내 독자 기술 기반 방산 특화 AI 모델을 공동 개발하며 국방 소버린 AI 구현을 추진한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/40857_61590_454_v150.jpg",
+    "score": 8.605,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "파운데이션 모델"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "마키나락스, AWS와 국방 AI 사업 확장...지휘통제부터 전장 관리까지 아우르는 AI OS로 고도화",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40865",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-07T11:38:11+00:00",
+    "raw_excerpt": "마키나락스(MakinaRocks, 대표 윤성호)가 국방 인공지능(AI) 사업 확장을 위해 아마존웹서비스(Amazon Web Services, 이하 AWS)와 협력한다고 7일 밝혔다.이번 협력을 통해 마키나락스는 AWS의 클라우드 인프라와 보안 기술을 활용해 국방 환경에 특화된 AI 기술 개발에 나선다. 먼저 AWS의 고성능 클라우드 컴퓨팅 인프라를 기반으로 대규모 AI 모델을 학습·추론하며, 안정적이면서도 신속한 응답이 요구되는 작전 환경에 맞춰 고가용성·저지연 아키텍처를 설계할 예정이다.보안 측면에서는 AWS의 보안 모범사례를 준",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "마키나락스가 AWS와 협력해 클라우드 인프라와 보안 기술을 활용한 국방 AI OS를 개발해 지휘통제부터 전장 관리까지 확대한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/40865_61595_3710_v150.jpg",
+    "score": 7.846,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "LG-코스콤, ‘엑사원 BI’에 국내 금융 데이터 결합한 ‘한국 주식시장 예측 AI 서비스’ 구축",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40861",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-07T10:27:10+00:00",
+    "raw_excerpt": "LG AI연구원과 코스콤(KOSCOM)은 7일 서울 여의도 코스콤 본사에서 ‘인공지능 기반 한국 금융 데이터 분석 서비스 제공을 위한 전략적 업무협약’ 체결식을 진행했다. 체결식에는 윤창현 사장, 이창진 전무 등 코스콤 경영진과 임우형 공동 연구원장, 이화영 사업개발부문장 등 LG AI연구원 경영진이 참석했다.코스콤은 한국 자본시장의 IT 인프라를 담당하는 금융IT 전문 기업으로 자본시장에서 발생하는 거래 데이터를 수집·가공해 금융기관에 필요한 시장 정보와 서비스를 제공하고 있다.양사는 글로벌 금융시장에서 기술력을 인정받은 LG A",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "LG AI연구원과 코스콤이 LG의 AI 기술에 국내 금융 데이터를 결합해 한국 주식시장 예측 AI 서비스를 함께 구축하기로 협약했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/40861_61593_2639_v150.jpg",
+    "score": 7.757,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "‘AI 취업 등용문’ KT 에이블스쿨 10기 모집... AI 개발자·DX 컨설턴트 과정",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40860",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-07T10:20:14+00:00",
+    "raw_excerpt": "KT(대표이사 박윤영)가 다음달 10일까지 청년 디지털 인재 양성 프로그램 ‘KT 에이블스쿨(AIVLE School)’ 10기 교육생을 모집한다고 7일 밝혔다.에이블스쿨은 KT가 고용노동부와 함께 운영하는 인공지능(AI)·클라우드 기반 실무형 인재 양성 프로그램이다. 2021년 첫 기수를 시작으로 현재까지 약 3,500명의 수료생을 배출했으며, 산업 현장에서 요구하는 디지털 역량과 실무 경험을 갖춘 인재를 꾸준히 양성해 왔다.이번에 모집하는 10기는 AI 개발자 트랙과 DX(디지털 전환) 컨설턴트 트랙으로 운영된다. 교육생들은 9월",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "KT가 고용노동부와 함께 운영하는 'KT 에이블스쿨' 10기 교육생을 다음달 10일까지 모집하며, AI 개발자와 DX 컨설턴트 과정을 제공한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/40860_61592_1930_v150.jpg",
+    "score": 7.749,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "GIST, ‘AI대학’ 출범...국가 AI·반도체 융합 인재 양성 본격화",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40859",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-07T09:57:37+00:00",
+    "raw_excerpt": "광주과학기술원(GIST·지스트, 총장 임기철)은 지난 1일 기존 정보컴퓨팅대학을 확대·개편한 AI대학(학장 김종원)을 공식 출범하고, 국가 AI·반도체 전략을 뒷받침할 세계 수준의 인공지능·반도체 융합 인재 양성에 본격 나섰다고 밝혔다.최근 정부가 서남권을 AI·반도체 산업의 새로운 거점으로 육성하는 전략을 발표하면서, 국가 AI 경쟁력을 뒷받침할 핵심 인재 양성이 중요한 과제로 떠오르고 있다. GIST는 AI대학 출범을 통해 이러한 국가 전략에 발맞춰 AI·반도체 분야 고급 인재를 안정적으로 양성·공급하는 핵심 거점 역할을 수행할",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "GIST가 정보컴퓨팅대학을 AI대학으로 확대 개편해 AI·반도체 융합 인재 양성을 본격화하며 정부의 서남권 AI·반도체 산업 거점 육성 전략을 지원한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/40859_61591_564_v150.jpg",
+    "score": 7.72,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "ETRI, 출연연 오픈소스 협의체 '범출연연'으로 확대... AI저작권 등 오픈소스 리스크 공동대응",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40856",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-07T09:39:33+00:00",
+    "raw_excerpt": "국내 연구진이 오픈소스 확산에 따른 기술·법적 리스크에 공동 대응하고 국가 전략기술 경쟁력을 높이기 위해 ‘출연연 오픈소스 협의체’를 확대 운영한다.한국전자통신연구원(ETRI)은 라이선스 분쟁, 보안 취약점, 인공지능(AI) 학습데이터 저작권 문제 등 오픈소스 관련 복합 리스크에 체계적으로 대응하고자 '출연연 오픈소스 협의체'를 확대 운영한다고 7일 밝혔다.오픈소스는 소프트웨어 개발을 넘어 인공지능, 반도체, 우주항공, 국방 등 국가 전략 분야를 견인하는 핵심 동력으로 부상했다. 최근에는 단순한 개발 도구를 넘어 기술 혁신과 산업",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "ETRI가 출연연 오픈소스 협의체를 확대해 라이선스 분쟁, AI 저작권 등 오픈소스 관련 리스크에 공동 대응하고 국가 전략기술 경쟁력을 강화한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/40856_61589_3910_v150.jpg",
+    "score": 7.698,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "더 안전한 무인 자율주행차 시대 열린다…정부, 레벨4 자율주행 가이드라인 마련",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40863",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-07T11:18:56+00:00",
+    "raw_excerpt": "국토교통부(장관 김윤덕)가 인공지능(AI) 시대, 완전 무인 자율주행차 시대를 앞당기기 위한 안전 기준을 마련했다. 이에 따라 국내 자율주행 기업들은 보다 명확한 기준 아래 레벨4(Level 4) 자율주행 기술 개발과 실증을 추진할 수 있게 됐으며, 국민들은 안전성이 확보된 무인 자율주행 서비스를 보다 빠르게 이용할 수 있을 것으로 기대된다.국토교통부는 7일, 무인 자율주행차의 안전운행 요건을 담은 '무인 자율주행차 안전운행 요건 가이드라인'을 마련했다고 밝혔다. 이번 가이드라인은 지난해 발표된 '자율주행차 산업 경쟁력 제고방안'의",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "국토교통부가 레벨4 자율주행차의 안전운행 요건 가이드라인을 마련해 안전성 확보 아래 무인 자율주행 기술 개발과 서비스 도입을 가속화할 수 있는 법적 근거를 마련했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/40863_61594_1842_v150.jpg",
+    "score": 6.922,
+    "engagement": 0,
+    "matched_keywords": [
+      "가이드라인"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "셀렉트스타, AI 안전성 연구 3편 'ICML 2026' 채택",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212468",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-06T16:08:44+00:00",
+    "raw_excerpt": "셀렉트스타(대표 김세엽)는 연구 논문 3편이 '국제머신러닝학회(ICML 2026)’ 워크샵에 게재된다고 6일 밝혔다.이를 통해 대형언어모델(LLM)의 안전성을 평가하기 위해 실제 사용 환경과 문화적 맥락, 변화하는 위험 유형을 반영한 접근이 필요하다는 점을 증명했다는 설명이다. 첫 번째 논문은 '루브릭 기반 안전성 판정 모델의 신뢰성 향상을 위한 커리큘럼 학습'이다. '커리큘럼 러닝' 방식을 통해 범용 학습된 평가 모델이 금융권 등 새로운 도메인에서도 일관된 성능을 보여 폐쇄망에서도 빠르고 정확한 AI 안전성 검증이 가능하다고 설명",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "셀렉트스타가 LLM 안전성 평가 관련 논문 3편이 ICML 2026 워크샵에 채택되어 문화적 맥락과 실제 사용 환경을 반영한 AI 안전성 검증 방법론을 제시했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212468_215732_3941.png",
+    "score": 6.916,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "llm"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "'AI 의식'에 몰리는 실리콘 밸리의 관심...주요 기업 연구 본격화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212459",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-06T13:49:51+00:00",
+    "raw_excerpt": "그동안 SF 영화나 업계 일부에서 다뤄지던 AI의 의식과 자각 능력에 대한 논의가 최근 실리콘 밸리 주류 무대로 떠오르고 있다. 앤트로픽과 오픈AI, 구글, 메타 등은 AI 모델의 주관적 경험과 감정 상태 등을 규명하기 위해 컴퓨터 과학자, 신경과학자, 철학자들을 영입하며 본격적인 연구에 착수했다.워싱턴포스트에 따르면, 이 분야에서 가장 앞선 곳은 앤트로픽이다. 최근에는 AI 모델의 내부 상태를 탐구하고 이들의 복지와 선호도를 평가하기 위해 'AI 정신의학(AI Psychiatry)' 팀을 신설했다.앤트로픽은 지난해 4월에는 ‘모델",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "앤트로픽, 오픈AI, 구글, 메타 등 주요 AI 기업들이 AI의 의식과 주관적 경험 규명을 위해 본격적인 연구에 착수했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212459_215723_4049.png",
+    "score": 6.728,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "“AI 버블 터지면 금융 시스템 전체 흔들린다“ 미 재무부 보고서",
+    "url": "https://byline.network/2026/07/ai-bubble/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-07-07T02:22:56+00:00",
+    "raw_excerpt": "재무부 내부에서 현재의 AI 투자 열기가 금융 시스템 전체를 위협할 수 있다는 경고를 담은 보고서가 작성돼 눈길을 끌고 있다. 보고서의 핵심 우려는 AI 기업들이 닷컴 시대보다 미국 경제에 훨씬 깊이 뿌리내리고 있다는 점이다. 보고서는 금융 여건이 악화되거나, AI가 기대하는 생산성 목표를 달성하지 못하거나, 각종 병목 현상이 성장을 막을 경우 시스템 전반에 중대한 위험이 초래될 수 있다고 결론지었다.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "미 재무부가 AI 투자 과열로 인한 버블 붕괴 시 금융 시스템 전체가 흔들릴 수 있다는 경고 보고서를 작성했다.",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/07/ai-bubble.jpg",
+    "score": 6.556,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "ai 투자"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "저커버그, AI 에이전트 기술이 기대보다 느리게 발전하고 있다",
+    "url": "https://news.hada.io/topic?id=31203",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-07-07T02:00:36+00:00",
+    "raw_excerpt": "AI 에이전트 개발 속도가 기대에 미치지 못했으며, 최근 최소 4개월간의 개발 궤적이 예상만큼 가속화되지 못함 올해 초 도입된 대규모 조직 개편이 충분히 깔끔하지 못했고, 경영진이 변화 시점 판단에서 오판 함 5월에 전체...",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "저커버그가 AI 에이전트 기술이 예상보다 느리게 발전하고 있으며 조직 개편이 충분하지 못했다고 인정했다.",
+    "thumbnail": "https://social.news.hada.io/topic/31203",
+    "score": 5.937,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "GPT-5.6 Sol Ultra는 Codex에 탑재될 것임",
+    "url": "https://news.hada.io/topic?id=31195",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-07-07T00:54:29+00:00",
+    "raw_excerpt": "GPT-5.5 pro가 Codex에서 제외 된 것은 실책이라고 지적하자 Codex 담당 Tibo가 Ultra will be in codex 라며 GPT-5.6 Sol Ultra가 Codex에 탑재 될것이라 언급함 질문자는 Codex의 훨씬 높은 사용량 한도 와 잦은 리...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "OpenAI의 Codex 담당자가 GPT-5.6 Sol Ultra를 Codex에 탑재할 계획임을 밝혔습니다.",
+    "thumbnail": "https://social.news.hada.io/topic/31195",
+    "score": 5.868,
+    "engagement": 0,
+    "matched_keywords": [
+      "codex",
+      "gpt-5"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "가짜뉴스법 본격 시행…허위정보 판단 주체는 ’플랫폼’",
+    "url": "https://byline.network/2026/07/0706-4/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-07-07T00:48:17+00:00",
+    "raw_excerpt": "내일(7일)부터 온라인상 허위조작정보 유통을 방지하는 개정 정보통신망법이 본격 시행된다. 위반 시 최대 10억원의 과징금이 부과될 수 있다. 플랫폼 업계에서는 무엇이 가짜뉴스인지 판별할 법적 기준이 모호하다고 지적한다. 이런 상황에서 실무 규제가 가동되면 현장의 운영 부담과 법적 리스크가 커질 수 있다는 우려도 제기된다.",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "내일부터 시행되는 개정 정보통신망법이 허위정보 판단을 플랫폼에 맡기는데, 가짜뉴스 판단 기준이 모호해 산업계의 규제 부담과 법적 리스크가 우려된다.",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/07/KISO.png",
+    "score": 5.623,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "As ",
+    "url": "https://t.co/mo9QykKn4H",
+    "source": "X @GoogleDeepMind",
+    "source_type": "x",
+    "published_at": "2026-07-06T15:43:26+00:00",
+    "raw_excerpt": "As \n@Apptronik\n expands their Robot Park facility, our research partnership means real-world data collected by the latest Apollo 2 humanoid platform will help train and advance Gemini Robotics. \n\nFind out more → \nhttps://\ngoo.gle/4vOPwpO",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "Google DeepMind와 Apptronik이 협력해 Apollo 2 휴머노이드 로봇에서 수집한 실제 데이터로 Gemini Robotics를 학습시킬 예정이다.",
+    "thumbnail": "",
+    "score": 5.529,
+    "engagement": 49718,
+    "matched_keywords": [
+      "robotics",
+      "humanoid"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "가비아, 쿠버네티스 전담 지원 체계 구축…클라우드 네이티브 전환 가속",
+    "url": "https://zdnet.co.kr/view/?no=20260707105218",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-07T01:52:48+00:00",
+    "raw_excerpt": "[지디넷코리아]가비아가 쿠버네티스 전담 지원 체계를 구축하며 공공·기업 클라우드 네이티브 시장 공략을 강화한다. 전문 인증 인력과 운영 정책을 기반으로 컨테이너 인프라 운영 역량을 높이고 향후 그래픽처리장치(GPU)·신경망처리장치(NPU) 기반 인공지능(AI) 인프라까지 연계해 클라우드 서비스 경쟁력을 확대한다는 전략이다.가비아는 쿠버네티스 전담 지원 체계를 구축했다고 7일 밝혔다.회사 측에 따르면 디지털플랫폼정부 추진과 정부 정보시스템 현대화가 맞물리면서 공공부문 클라우드 전환이 단순 인프라 이전을 넘어 컨테이너 기반 운영으로 확대되고 있다. 이에 쿠버네티스 도입·운영 수요도 빠르게 늘고 있지만 높은 기술 장벽과 운영 전문성 부족이 확산의 걸림돌로 지적되고 있다.가비아는 이러한 시장 변화에 대응하고자 전담 지원 체계를 마련했다. 이번 지원 체계 구축과 함께 사내 엔지니어 4명은 쿠버네티스 최고 수준 인증 가운데 하나인 '쿠베스트로넛' 자격을 취득했다. 쿠베스트로넛은 클라우드 네이티브 컴퓨팅 재단(CNCF)이 발급하는 인증으로, 쿠버네티스 관련 자격증 5종을 모두 취득해야 받을 수 있다. 현재 전 세계 취득자는 3500여 명이다.가비아는 전담 조직 운영과 함께 쿠버네티스 운영 정책도 새롭게 수립했다. 고객이 서비스를 직접 운영할 때 참고할 수 있도록 버전 업데이트와 아키텍처 구성 등 운영 전반에 대한 기술 가이드를 제공할 계획이다.지",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "가비아가 쿠버네티스 전담 지원 체계를 구축해 공공·기업의 클라우드 네이티브 전환을 지원하며, 향후 AI 인프라까지 연계해 경쟁력을 확대할 계획이다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/07/07/f695e0b343f18e5ec8ae162f84dcc924.jpg",
+    "score": 5.336,
+    "engagement": 0,
+    "matched_keywords": [
+      "사내",
+      "조직"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "황정아 의원 \"AI· 반도체 등 국가전략기술 쓰면 15% 세액공제\"",
+    "url": "https://zdnet.co.kr/view/?no=20260707102141",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-07T01:21:41+00:00",
+    "raw_excerpt": "[지디넷코리아]AI, 반도체 , 바이오 등 국가전략기술을 활용한 제품을 국내에서 생산할 경우 생산비용의 15% 를 세액공제하는 법안이 발의됐다.더불어민주당 황정아 의원(대전 유성구을)은 국가전략기술 활용 제품에 대해 생산세액을 공제해주는 '조세특례제한법 일부개정법률안'을 대표발의했다고 7일 밝혔다.황정아 의원에 따르면 현행 기업에 대한 세제지원은 연구개발과 시설투자 중심으로 설계돼 있어 실제 생산 단계지원책은 다소 부실하다. 미국이나 중국 등이 첨단산업의 자국 내 생산 확대를 위해 생산세액공제제도를 도입한 것과는 비교된다.실제 미국은 IRA(인플레이션 감축법)을 통해 배터리, 태양광, 풍력, 핵심 광물 등 청정에너지 관련 제품을 미국 내에서 생산하는 기업에 생산량에 따라 세액공제(PTC)해주는 제도를 시행하고 있다.황 의원은 \"AI, 반도체 , 바이오 등 국가전략기술을 활용한 제품을 국내에서 생산하는 경우 생산비용의 15% 를 세액공제 해주는 법안\"이라며 \"벤처·스타트업 등 영업이익이 불안정해 세액공제를 충분히 활용하지 못하는 기업을 위해 환급 특례도 신설했다\"고 강조했다.국가전략기술 연구개발·시설투자·생산 과정에서 발생한 세액공제 가운데 납부할 세액이 없어 공제받지 못한 금액의 경우 50% 를 먼저 환급받을 수 있도록 해 첨단산업 투자 기업들에 대한 지원 적시성을 높였다.황정아 의원실은 지디넷코리아아의 전화통화에서 향후 법안처리 절",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "황정아 의원이 AI·반도체·바이오 등 국가전략기술 활용 제품의 국내 생산비용 15% 세액공제 법안을 발의했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/06/19/fbae98838c776fa5b73a2f80ba6bb137.jpg",
+    "score": 5.307,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "스타트업"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "양자컴퓨터, 핵융합 연료 난제 푼다…IBM·ORNL 공동연구 맞손",
+    "url": "https://zdnet.co.kr/view/?no=20260707093747",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-07T01:01:19+00:00",
+    "raw_excerpt": "[지디넷코리아]핵융합 발전의 최대 걸림돌 가운데 하나로 꼽히는 핵심 연료 '삼중수소(트리튬)' 부족 문제 해결을 위한 양자컴퓨터 기반 연구가 본격화됐다.7일 미국 오크리지국립연구소(ORNL), 클리블랜드 클리닉, IBM 퀀텀 공동 연구진은 삼중수소 생산·회수 난제를 다룬 연구 결과를 아카이브(arXiv)에 공개했다.이번 연구는 기존 슈퍼컴퓨터와 양자컴퓨터를 결합한 하이브리드 계산 방식으로 핵융합로용 용융염 내부에서 삼중수소가 어떤 형태로 결합하고 반응하는지 분석하는 데 초점을 맞췄다.삼중수소는 양성자 1개와 중성자 2개로 이뤄진 희귀 수소 동위원소다. 현재 전 세계 비축량은 약 25kg 수준에 불과한 것으로 알려져 있다. 반면 1기가와트(GW)급 상용 핵융합 원자로 1기를 하루 가동하는 데만 약 0.5kg이 필요해 연료를 원자로 내부에서 자체 생산·회수하지 못하면 핵융합 발전소의 안정적 운영도 쉽지 않다.연구진은 해법으로 특수 용융염 '플리베(FLiBe)'에 주목했다. 플리베는 불화리튬(LiF)과 불화베릴륨(BeF₂)을 혼합한 물질이다. 핵융합 반응에서 방출된 중성자가 플리베에 포함된 리튬-6와 반응해 헬륨과 삼중수소를 만들어낼 수 있다. 여기에 베릴륨은 중성자 증폭 역할을 해 연료 생산 효율을 높인다.이 물질은 고온에서도 액체 상태를 유지해 열을 빼내고 장비를 보호하는 역할까지 수행할 수 있어 차세대 핵융합로 설계의 유력 후보로 평",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "IBM과 ORNL이 양자컴퓨터를 이용해 핵융합 원자로의 핵심 연료인 삼중수소를 용융염 내에서 자체 생산·회수하는 방법을 연구하고 있다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/07/07/ae7741d52f77bdfb08d1f05d05a1ceff.jpg",
+    "score": 5.288,
+    "engagement": 0,
+    "matched_keywords": [
+      "양자",
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "미래에셋자산운용 \"반도체TOP10커버드콜ETF, 커버드콜중 수익률 1위\"",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47046",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-07T11:31:46+00:00",
+    "raw_excerpt": "[스마트타임스]미래에셋자산운용은 'TIGER 반도체TOP10커버드콜액티브ETF'가 지난 4월 21일 상장 이후 이달 6일 기준 수익률 40.9%를 기록했다고 7일 밝혔다.이는 같은 기간 국내 상장 커버드콜 ETF 55종 가운데 가장 높은 수익률이다. 상장 이후 개인 투자자의 누적 순매수 규모도 5천억원을 넘어섰다는 설명이다.이 ETF는 삼성전자, SK하이닉스, SK스퀘어, 삼성전기 등 국내 반도체 밸류체인 핵심 종목에 투자한다. 여기에 개별주식 옵션을 활용한 액티브 커버드콜 전략을 적용해 분배 재원을 확보하고 시장 상승 국면에서 수",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "미래에셋자산운용의 'TIGER 반도체TOP10커버드콜액티브ETF'가 상장 후 8개월간 국내 커버드콜 ETF 55종 중 최고 수익률 40.9%를 기록했다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202607/47046_45538_3132_v150.jpg",
+    "score": 5.204,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "방금 지나간 천장이 무너졌다… 美 폭풍우에 대형마트 지붕 붕괴",
+    "url": "https://www.etnews.com/20260707000174",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-07-07T01:58:43+00:00",
+    "raw_excerpt": "악천후 속에서 미국의 한 대형 창고형 매장 지붕이 무너지는 아찔한 사고가 발생했으나, 다행히 매장 안에 있던 쇼핑객과 직원 전원이 무사히 탈출했다. 6일(현지시간) 미국 폭스뉴스 등 현지 매체에 따르면, 이날 뉴저지주 몬머스 카운티 오션 타운십에 위치한 창고형 할인매장 '비제이 도매 클럽(BJ's Wholesale Club)'에서 지붕 일부가 붕괴되는 사고가 일어났다. 당시 현장 모습이 담긴 영상에는 쇼핑객들이 평화롭게 식료품을 고르던 중, 갑",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "미국 뉴저지주의 대형 창고형 할인매장에서 폭풍우로 인해 지붕이 붕괴했으나 쇼핑객과 직원 전원이 안전하게 탈출했다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/07/07/news-p.v1.20260707.b43167f65574478db618286f18c240a8_P1.gif",
+    "score": 5.185,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "케이엔알시스템, '슈퍼휴머노이드'로 레드닷 디자인 어워드 본상 수상",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47048",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-07T10:49:55+00:00",
+    "raw_excerpt": "[스마트타임스]로봇전문기업 케이엔알시스템은 ‘슈퍼휴머노이드’ 로봇의 설계 디자인이 ‘2026 레드닷 디자인 어워드(Red Dot Design Award)’ 디자인 콘셉트 부문에서 본상(Winner)을 수상했다고 7일 밝혔다.독일에서 시작된 레드닷 어워드는 세계 3대 디자인 상 중 하나다. 이번에 수상한 디자인 콘셉트 부문은 혁신성과 함께 향후 수년 내 상용화 가능성, 생산 효율성 등을 종합적으로 심사한다.올해 연말 공개를 목표로 개발 중인 슈퍼휴머노이드는 가반하중 600kg급의 유·무인 탑승 방식을 호환하는 세계 최대 중량급 산업용",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "케이엔알시스템이 개발 중인 '슈퍼휴머노이드' 로봇이 세계 3대 디자인상인 2026 레드닷 디자인 어워드 본상을 수상했다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202607/47048_45534_4923_v150.jpg",
+    "score": 5.164,
+    "engagement": 0,
+    "matched_keywords": [
+      "휴머노이드"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "CoMaps - 오픈소스 오프라인 지도",
+    "url": "https://news.hada.io/topic?id=31200",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-07-07T01:33:12+00:00",
+    "raw_excerpt": "CoMaps 는 하이킹, 자전거, 자동차 이동에서 모바일 데이터 없이 경로를 찾고 안내받을 수 있는 커뮤니티 기반 지도 앱임 해외 여행이나 외딴 트레일에서도 GPS만으로 경로 계획, 내비게이션, 경유지 검색을 사용할 수 있음 앱은 프라이버시",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "CoMaps는 오프라인에서도 GPS로 하이킹, 자전거, 자동차 경로를 안내받을 수 있는 오픈소스 커뮤니티 기반 지도 앱입니다.",
+    "thumbnail": "https://social.news.hada.io/topic/31200",
+    "score": 5.158,
+    "engagement": 0,
+    "matched_keywords": [
+      "프라이버시"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "언어 모델 안의 글로벌 워크스페이스",
+    "url": "https://news.hada.io/topic?id=31199",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-07-07T01:18:06+00:00",
+    "raw_excerpt": "Anthropic은 Claude 내부에 말로 출력되지 않는 개념이 모이는 J-space 가 있으며, 이 공간이 여러 처리 과정에 공유되는 작업공간처럼 작동한다는 실험 결과를 공개함 Jacobian lens(J-lens) 는 특정 단어와 연결된 내부 활성 패턴을 찾아 J-space의 내용을 읽는 방...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Anthropic이 Claude의 내부에 언어로 표현되지 않는 개념들이 모이는 'J-space'라는 작업공간이 존재하며 여러 처리 과정에서 공유된다는 연구 결과를 발표했다.",
+    "thumbnail": "https://social.news.hada.io/topic/31199",
+    "score": 5.143,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Ripple Secures Full MiCA License to Expand Crypto Services Across Europe",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47045",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-07T10:06:36+00:00",
+    "raw_excerpt": "Ripple has received full authorization under the European Union's Markets in Crypto-Assets (MiCA) regulation, allowing the blockchain payments company to offer regulated digital asset services throughout the European Economic Area.The company announced that Luxembourg upgraded its preliminary Crypto",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Ripple이 EU의 MiCA 규제에 따른 정식 인가를 취득하여 유럽 전역에서 규제되는 암호자산 서비스를 제공할 수 있게 되었다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202607/47045_45529_631_v150.jpg",
+    "score": 5.124,
+    "engagement": 0,
+    "matched_keywords": [
+      "regulation"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "금융위, 중저신용자 대출 확대·건전성 규제 완화한다…'포용금융 추진단' 가동",
+    "url": "https://www.etnews.com/20260707000102",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-07-07T01:00:00+00:00",
+    "raw_excerpt": "금융위원회가 중저신용자 대상 자금 공급을 늘리고 금융회사 건전성 규제를 합리화하기 위한 제도 개선에 착수했다. 은행과 제2금융권 협업을 통한 신규 대출 프로그램을 검토하고, 국민 체감도가 높은 보험·카드업권 지원 과제도 발굴한다. 금융위는 7일 서울 중구 은행회관에서 '포용금융 전략 추진단 금융산업분과' 킥오프(Kick-off) 회의를 개최했다. 지난달 열린 포용금융 현장 대토론회 후속 조치로, 학계·연구원·시민단체·금융업권 전문가 12명으로",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "금융위가 중저신용자 대출 확대와 금융회사 건전성 규제 완화를 추진하기 위해 포용금융 추진단을 가동했다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/07/07/news-p.v1.20260707.b887f3a7c57a4e33bff4df68e2f165fe_P1.jpg",
+    "score": 5.124,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "USDC Extends Lead Over USDT as Stablecoin Transactions Reach Record Levels",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47044",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-07T10:05:56+00:00",
+    "raw_excerpt": "Circle's USDC continued to widen its lead over rival Tether's USDT in transaction activity during the first half of 2026, as stablecoin usage reached new highs across payments, settlements and institutional financial services.According to Visa's onchain dashboard, adjusted stablecoin transaction vol",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "USDC가 USDT를 제치고 스테이블코인 거래량에서 선두를 유지하며 2026년 상반기 기록적 거래 규모를 달성했다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202607/47044_45528_554_v150.jpg",
+    "score": 5.123,
+    "engagement": 0,
+    "matched_keywords": [
+      "stablecoin"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "XBOX 재설정: 조직·스튜디오·운영 모델 재편",
+    "url": "https://news.hada.io/topic?id=31192",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-07-07T00:48:29+00:00",
+    "raw_excerpt": "XBOX는 FY27 동안 약 3,200명 감원 과 4개 스튜디오의 새 경영진 이관을 포함해, 비용 구조와 성장 둔화를 바로잡기 위한 대규모 재편에 들어감 비교 가능한 플랫폼·퍼블리싱 기업보다 마진이 3~10배 낮고 , Game Pass·멀티플랫폼·콘텐츠 확장도 기대한 속도로 성장하...",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "Xbox가 3,200명 감원과 스튜디오 재편을 추진하며 낮은 마진율과 성장 둔화를 개선하려 한다.",
+    "thumbnail": "https://social.news.hada.io/topic/31192",
+    "score": 5.112,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Astryx - Meta가 공개한 오픈소스 디자인 시스템",
+    "url": "https://news.hada.io/topic?id=31190",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-07-07T00:28:18+00:00",
+    "raw_excerpt": "React와 StyleX 기반으로 완전한 커스터마이징과 에이전트 대응 이 특징 접근성과 브랜드 테마 적용이 가능한 160개 이상의 React 컴포넌트 를 갖추고, 다크모드, 즉시 배포 가능한 템플릿, CLI를 하나의 통합 시스템으로 제공 Meta 내부에...",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Meta가 React와 StyleX 기반의 오픈소스 디자인 시스템 'Astryx'를 공개했으며, 160개 이상의 커스터마이징 가능한 컴포넌트와 다크모드, 템플릿을 제공한다.",
+    "thumbnail": "https://social.news.hada.io/topic/31190",
+    "score": 5.091,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "반도체 장비 '빅4' 용인행…원삼에 기술지원 전진기지",
+    "url": "https://www.etnews.com/20260707000015",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-07-06T22:54:24+00:00",
+    "raw_excerpt": "세계적인 반도체 장비기업 어플라이드 머티어리얼즈가 경기 용인시 반도체클러스터에 장비 운용과 유지보수를 담당할 기술지원 시설을 건립한다. 용인시는 지난 6일 시청에서 어플라이드 머티어리얼즈의 한국법인인 어플라이드 머티어리얼즈 코리아와 '반도체 산업 경쟁력 강화를 위한 업무협약'을 체결했다고 7일 밝혔다. 협약식에는 이상일 시장과 손성용 어플라이드 머티어리얼즈 코리아 부사장 등이 참석했다. 어플라이드 머티어리얼즈 코리아는 처인구 원삼면 용인 반도체",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "어플라이드 머티어리얼즈가 경기 용인시 반도체클러스터에 장비 운용·유지보수 기술지원 시설을 건립하기로 용인시와 협약했다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/07/07/news-p.v1.20260707.0ed11fee54c24c769c6dbdfec509a9ac_P1.jpg",
+    "score": 4.993,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "삼성전자 2분기 매출 171조·영업이익 89조 '전년比 19배'",
+    "url": "https://www.etnews.com/20260707000014",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-07-06T22:49:20+00:00",
+    "raw_excerpt": "삼성전자가 2026년 2분기 연결 기준 영업이익이 89조4000억원을 기록했다고 7일 밝혔다. 전년 동기 4조6800억원과 비교하면 19배 이상 늘어난 수치다. 매출액도 171조원을 기록해 전년 동기 대비 129.31% 증가했다. 지난해 부진했던 반도체 업황이 큰 폭으로 개선되며 실적 반등을 이끈 것으로 풀이된다. 한국채택국제회계기준(K-IFRS)에 따라 작성된 연결 기준 잠정 실적이다. 2분기 매출액 171조원은 직전 분기인 1분기 133조8",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "삼성전자 2분기 영업이익이 89조4000억원으로 전년 동기 대비 19배 증가하며 부진했던 반도체 업황 회복을 주도했다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/05/29/news-p.v1.20260529.de93ec8ef7674aaeb2c89964c4171809_P1.jpg",
+    "score": 4.988,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "국가유산청, 48차 세계유산위 앞두고 대테러 합동훈련 실시",
+    "url": "https://zdnet.co.kr/view/?no=20260707100852",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-07T01:30:02+00:00",
+    "raw_excerpt": "[지디넷코리아]국가유산청이 부산에서 열리는 제48차 유네스코 세계유산위원회의 안전한 개최를 위해 유관기관과 대규모 대테러 훈련을 진행했다.국가유산청은 지난 6일 세계유산위원회 개최 장소인 부산 벡스코에서 부산지역 테러대책협의회 주관으로 민·관·군·경·소방이 연계한 합동훈련을 실시했다고 7일 밝혔다.이번 훈련은 위원회 행사 기간 중 테러 및 위해 발생 상황을 가정해 종합적인 현장 대응 능력을 확인하고자 마련됐다. 현장에는 국가유산청과 국가정보원, 제53보병사단, 부산경찰청, 해운대소방서 등 총 11개 기관이 참가했다.참가 기관들은 벡스코 내에 미상의 폭발물과 백색 가루가 발견된 상황을 가정해 실전과 같은 현장 조치를 전개했다. 통제선 설치와 시민 대피, 긴급차량 통행로 확보 등 초기 대응 조치를 신속하게 수행했다.이어 용의자 추적과 함께 경찰특공대(EOD), 폭발물개척팀(EHCT), 대화생방테러특수임무대(CRST) 등을 투입해 위해물을 즉각 무력화했다. 소방차와 구급차를 동원해 부상자를 응급처치하고 긴급 이송하는 수습 활동도 집중적으로 점검했다.허민 국가유산청장은 \"대테러·안전관리를 위한 여러 관계기관의 관심과 헌신적인 노력에 깊이 감사하다\"며 \"행사 종료 시까지 빈틈없는 안전관리에 최선을 다해 한 건의 사고도 발생하지 않는 안전한 세계유산위원회를 만들어 줄 것을 당부한다\"고 밝혔다.",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "국가유산청이 부산에서 개최될 제48차 유네스코 세계유산위원회의 안전을 위해 11개 기관과 함께 대규모 대테러 합동훈련을 실시했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/07/07/86b0d4b16e9052a55efbc22ea9799385.jpg",
+    "score": 4.639,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "\"전고체 배터리 성공 가를 한 끗, EIS가 핵심 감별사\"",
+    "url": "https://zdnet.co.kr/view/?no=20260707005918",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-07T01:15:14+00:00",
+    "raw_excerpt": "[지디넷코리아]“배터리 소재 중 성능은 괜찮게 나와도, 양산성 검증에서 탈락하는 경우가 적지 않다. ‘전기화학임피던스분광법(EIS)’이 소재의 양산 가능성을 보다 빠르게 판별하는 데 유용하다는 점에 주목했다.”홍영진 민테크 대표는 지디넷코리아와의 인터뷰에서 전고체 배터리를 비롯한 첨단 소재 개발 자회사 ‘민테크아이오닉스’를 최근 설립한 배경을 이같이 소개했다.민테크는 EIS를 활용한 배터리 진단 장비 전문 기업이다. 배터리 성능을 진단하기 위해 충·방전 과정이 필요해 약 15~20시간이 소요되는 기존 기술과 달리, EIS는 배터리에 미세한 전류나 전압을 흘려 상태를 미리 파악하는 방식을 취한다. 이를 통해 검사 시간을 10~20분 수준으로 줄여주면서도 정확도도 95% 이상을 구현한 것이 특장점이다.이런 EIS 진단 장비는 배터리 완성품뿐 아니라, 배터리 제조 공정 도중에도 이상 여부를 판별하기 위해 활발히 쓰인다. 차세대 고성능 배터리로 업계가 주목 중인 전고체 배터리도 마찬가지다.민테크는 일찍이 전고체 배터리 관련 기술 확보에 뛰어들었다. 한국산업기술기획평가원의 전고체 배터리 개발 국책 사업 주관기관으로, 전기차용 황화물계 전고체 배터리 개발을 지난해부터 추진 중이다.이 사업 외에도 업계 주요 기업들과 전고체 배터리 및 소재 개발 과정에서 밀접하게 협력 중이다. 이 과정에서 EIS를 활용해 소재의 성능과 양산 여부를 단기간에 판별해",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "EIS(전기화학임피던스분광법)를 활용하면 기존 15~20시간 걸리던 배터리 성능 검사를 10~20분으로 단축하면서 95% 이상 정확도로 전고체 배터리의 양산 가능성을 빠르게 판별할 수 있다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/07/07/a1561b26f1dfca9bfbf41c9ffa5ec52a.png",
+    "score": 4.626,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "젠센휴즈, 힐트 인수로 동남아시아 입지 확대",
+    "url": "https://zdnet.co.kr/view/?no=20260707101002",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-07T01:10:02+00:00",
+    "raw_excerpt": "[지디넷코리아] 인수를 통해 지역 내 입지 강화 및 소방 엔지니어링 역량 제고 컬럼비아, 메릴랜드, 2026년 7월 7일 /PRNewswire/ -- 소방 및 생명 안전, 보안, 리스크 기반 엔지니어링 및 컨설팅 분야의 글로벌 선도 기업 젠센휴즈(Jensen Hughes)가 7월 7일, 싱가포르의 선도적인 소방 엔지니어링 기업인 힐트(HiLT Pte. Ltd.)를 인수했다고 발표했다. 이번 인수를 통해 젠센휴즈는 아시아 태평양 지역 내 입지를 강화하고, 운송, 에너지 저장 시스템, 대규모 상업 및 산업 개발을 포함한 까다로운 분야에서 고객을 지원하는 역량을 한층 높이게 됐다. 2002년에 설립된 힐트는 성능 기반 설계 및 에너지 저장, 워터 미스트 시스템 등 특수 소방 시스템과 관련된 국제 프로젝트에서의 기여로 널리 인정받고 있다. 또한 힐트는 철골 및 대형 엔지니어링 목재 건축물의 구조적 소방 엔지니어링 분야에서도 전문성을 보유하고 있으며, 배터리 에너지 저장 시스템(BESS) 및 합성 불소 프리 폼(SFFF) 등 신흥 소방 안전 트렌드에도 적극적으로 참여하고 있다. 젠센휴즈의 라즈 아로라(Raj Arora) 최고경영자는 \"힐트의 합류는 당사에 있어 매우 의미 있는 이정표\"라고 말했다. 이어 \"힐트의 탁월한 기술 역량과 동남아시아에서의 확고한 입지, 복잡한 소방 및 생명 안전 과제에 대한 선도적인 접근 방식은 당사의 전략적 우선순위",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "젠센휴즈가 싱가포르 소방엔지니어링 기업 힐트를 인수하여 동남아시아 입지를 강화하고 에너지저장·운송 등 고난도 분야에서의 소방안전 역량을 확대했다.",
+    "thumbnail": "https://zdnet.co.kr/images/default_img.jpg",
+    "score": 4.621,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "JADEPUFFER is the first agentic ransomware operation and it exposes old security sins at machine speed",
+    "url": "https://the-decoder.com/jadepuffer-is-the-first-agentic-ransomware-operation-and-it-exposes-old-security-sins-at-machine-speed/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-07-06T10:04:02+00:00",
+    "raw_excerpt": "Security firm Sysdig describes an extortion attack where a language model broke in on its own, stole credentials, and destroyed databases. No human appeared to be at the controls. The article JADEPUFFER is the first agentic ransomware operation and it exposes old security sins at machine speed appeared first on The Decoder .",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "AI 모델이 자동으로 침입해 자격증명을 탈취하고 데이터베이스를 파괴하는 첫 번째 에이전틱 랜섬웨어 'JADEPUFFER'가 발견되었다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/Agentic-Ransomware-Attack-title.png",
+    "score": 3.073,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "How to sequence your own DNA at home",
+    "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-07T00:14:21+00:00",
+    "raw_excerpt": "Article URL: https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home Comments URL: https://news.ycombinator.com/item?id=48812156 Points: 75 # Comments: 17",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "개인이 집에서 DNA 염기서열을 직접 분석할 수 있는 방법이 소개되며 유전체 분석의 대중화 가능성을 보여준다.",
+    "thumbnail": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/f7bd0bf9-fe1a-4481-ae32-a529633a4c5d/img_4423/public",
+    "score": 2.707,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "NSA and IETF: Fairness",
+    "url": "https://blog.cr.yp.to/20260706-fairness.html",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-06T23:33:54+00:00",
+    "raw_excerpt": "Article URL: https://blog.cr.yp.to/20260706-fairness.html Comments URL: https://news.ycombinator.com/item?id=48811887 Points: 58 # Comments: 33",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "NSA가 IETF 암호화 표준 개발 과정에서의 공정성 문제를 둘러싼 논의가 제기되고 있습니다.",
+    "thumbnail": "",
+    "score": 2.685,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
+    "url": "https://ternlight-demo.vercel.app/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-06T23:06:31+00:00",
+    "raw_excerpt": "Article URL: https://ternlight-demo.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=48811644 Points: 96 # Comments: 30",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Ternlight는 브라우저에서 직접 실행되는 7MB 규모의 경량 임베딩 모델로, WASM 기술을 통해 서버 없이 로컬 처리가 가능합니다.",
+    "thumbnail": "",
+    "score": 2.67,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "OpenSSH 10.4/10.4p1 Released",
+    "url": "https://www.openssh.org/txt/release-10.4",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-06T22:32:58+00:00",
+    "raw_excerpt": "Article URL: https://www.openssh.org/txt/release-10.4 Comments URL: https://news.ycombinator.com/item?id=48811373 Points: 34 # Comments: 7",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "OpenSSH 10.4/10.4p1이 새로운 버전으로 출시되어 보안 업데이트와 개선 사항을 제공한다.",
+    "thumbnail": "",
+    "score": 2.651,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Acronym Fatigue Series Introduction: why I'm wary of acronyms",
+    "url": "https://devz.cl/posts/acryonym-fatigue-series-why-i-m-wary-of-engineering-acronyms/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-06T22:30:33+00:00",
+    "raw_excerpt": "Article URL: https://devz.cl/posts/acryonym-fatigue-series-why-i-m-wary-of-engineering-acronyms/ Comments URL: https://news.ycombinator.com/item?id=48811339 Points: 24 # Comments: 12",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "개발자가 공학 약자(acronym) 남용의 문제점을 지적하며 약자 피로(Acronym Fatigue)에 대한 시리즈를 시작했다.",
+    "thumbnail": "",
+    "score": 2.65,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Poly/ML – A Standard ML Implementation",
+    "url": "https://github.com/polyml/polyml",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-06T22:28:06+00:00",
+    "raw_excerpt": "Article URL: https://github.com/polyml/polyml Comments URL: https://news.ycombinator.com/item?id=48811317 Points: 29 # Comments: 5",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Poly/ML은 Standard ML 언어의 오픈소스 구현으로, 함수형 프로그래밍과 강타입 시스템을 지원하는 컴파일러입니다.",
+    "thumbnail": "https://opengraph.githubassets.com/101e059dd9518bfb1c301c214675cd62353e43e93ed739b7269449f1d5346bb8/polyml/polyml",
+    "score": 2.648,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  }
+]
