@@ -1470,7 +1470,7 @@
     "4e3be4aca174e738": "https://image.zdnet.co.kr/2026/07/07/2fb40ccc91d23f9c4573c42d84a969b4.jpg",
     "df9092a13701729f": "https://img.etnews.com/news/article/2026/07/07/news-p.v1.20260707.ab61609898fe45d0a058dde2edb99e1c_P1.jpg"
   },
-  "last_sent_date": "2026-07-07",
+  "last_sent_date": "2026-07-08",
   "sent": {
     "2026-06-30": [
       "morning",
@@ -1500,6 +1500,9 @@
       "morning",
       "noon",
       "evening"
+    ],
+    "2026-07-08": [
+      "morning"
     ]
   }
 }
