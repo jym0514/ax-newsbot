@@ -1,0 +1,821 @@
+[
+  {
+    "title": "AI 보안 진단부터 대응까지, 공격자 관점으로 잡는다....AI 보안 위협 대응 가이드 2종 발간",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40887",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-08T17:12:57+00:00",
+    "raw_excerpt": "과학기술정보통신부(부총리 겸 과기정통부 장관 배경훈, 이하 ‘과기정통부’)와 한국인터넷진흥원(원장 이상중)은 인공지능 서비스의 보안 위협에 효과적으로 대응하고 현장의 보안 점검 역량을 강화하기 위해 'AI 보안 위협 대응 매뉴얼', 'AI 보안 레드티밍 가이드'를 발간했다.최근 AI 기술이 다양한 산업과 서비스에 빠르게 확산되면서 생산성과 혁신을 견인하고 있으나 프롬프트 인젝션, 권한 오남용, 데이터 유출 등 새로운 유형의 보안 위협도 함께 증가하고 있다.특히, AI 보안 위협은 기존 정보보호 체계만으로는 충분히 검증하고 대응하기",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "과기정통부와 한국인터넷진흥원이 프롬프트 인젝션 등 AI 보안 위협에 대응하기 위해 'AI 보안 위협 대응 매뉴얼'과 'AI 보안 레드티밍 가이드' 2종을 발간했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/40887_61623_1224_v150.jpg",
+    "score": 9.614,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai 보안",
+      "보안",
+      "데이터 유출",
+      "프롬프트 인젝션"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "솔트룩스, 하나금융융합기술원과 금융 문서·상담·내부통제 업무 돕는 AI 개발",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40884",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-08T12:26:42+00:00",
+    "raw_excerpt": "풀스택 인공지능(AI) 전문 기업 솔트룩스(대표 이경일)는 하나금융티아이(대표이사 박근영)의 사내 독립 기업인 하나금융융합기술원(원장 이해)과 금융 업무에 최적화된 AI 파운데이션 모델을 공동 개발했다고 8일 밝혔다.금융권에서 생성형 AI와 AI 에이전트 도입이 실제 업무와 고객 서비스로 확산하고, 금융 AI 가이드라인과 망분리 제도도 이에 맞춰 정비되면서 경쟁의 무게중심이 범용 모델의 규모에서 금융 업무를 얼마나 정확하고 효율적으로 처리하는지로 이동하고 있다.실제로 금융위원회는 지난 6월 금융분야 인공지능 가이드라인 개정안을 발표",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "솔트룩스와 하나금융융합기술원이 금융 문서 처리·고객 상담·내부통제 등 금융 업무에 특화된 AI 파운데이션 모델을 공동 개발했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/40884_61620_2629_v150.jpg",
+    "score": 9.257,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "파운데이션 모델",
+      "생성형 ai"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "앤트그룹, '유리'까지 인식하는 차세대 비전 AI 공개...12개 벤치마크서 SOTA",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212542",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-08T17:38:27+00:00",
+    "raw_excerpt": "중국 앤트그룹이 공간 인식과 로봇 공학에 특화된 차세대 '공간 네이티브(Spatial-Native)' 비전 AI 모델을 공개했다. 11억개 매개변수의 경량 모델임에도 메타의 70억개 매개변수 비전 모델을 뛰어넘는 성능을 기록했으며, 특히 유리와 거울, 투명 물체까지 안정적으로 인식하는 기술을 구현한 것으로 알려졌다.앤트그룹은 7일(현지시간) 공간 인식 비전 파운데이션 모델 '링봇-비전(LingBot-Vision)'과 이를 기반으로 한 공간 인식 모델 '링봇-뎁스 2.0(LingBot-Depth 2.0)'을 오픈소스로 공개했다.링봇-",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "앤트그룹이 11억 매개변수로 메타 70억 모델을 능가하며 유리·거울 등 투명 물체까지 인식하는 공간 네이티브 비전 AI '링봇'을 공개했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212542_215825_483.png",
+    "score": 8.5,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "파운데이션 모델"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[게시판] SKT, T 월드 매장에 AI 에이전트 전면 도입 등 단신",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212556",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-08T17:00:00+00:00",
+    "raw_excerpt": "■ SK텔레콤(대표 정재헌)은 T 월드 오프라인 매장에 AI를 전면 도입한다고 밝혔다. 오는 9월부터 매장용 AI 에이전트 등의 도입을 위한 개발 및 인프라 구축 작업에 착수, 내년에는 고객 경험 데이터와 매장 데이터를 결합해 온라인 T 월드에 AI 기반 매장 검색 및 안심 상담 기능을 도입할 예정이다. 또, 대리점주와 T 크루 전용 AI 에이전트도 개발해 맞춤형 매장 컨설팅과 업무 효율화를 지원한다는 계획이다.■ NC AI(대표 이연수)는 자체 음성 생성 AI 서비스 '바르코 보이스'가 유엔(UN) 산하 국제전기통신연합(ITU)",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "SK텔레콤이 9월부터 T 월드 매장에 AI 에이전트를 전면 도입하고 내년에는 AI 기반 매장 검색 및 상담 기능을 추가할 예정이다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212556_215842_935.jpg",
+    "score": 8.448,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "미국 정부, 오픈AI 'GPT-5.6' 규제 풀었다…9일 글로벌 정식 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212555",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-08T16:56:13+00:00",
+    "raw_excerpt": "미국 트럼프 행정부가 오픈AI의 최신 모델 'GPT-5.6'에 대한 광범위한 출시 제한을 해제했다. 이에 따라 오픈AI는 9일(이하 현지시간) 모델을 정식 출시할 예정이다.7일 악시오스에 따르면, 트럼프 행정부는 오픈AI의 최상위 플래그십 AI 모델인 '솔(Sol)'을 비롯해 하위 모델인 '테라(Terra)'와 '루나(Luna)'의 일반 사용자 대상 출시를 승인했다.이어 오픈AI는 이날 밤늦게 X를 통해 \"GPT-5.6 모델 제품군을 이번 목요일에 글로벌 시장에 내놓을 예정\"이라고 밝혔다.오픈AI는 지난달 26일 플래그십 모델인 '",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "트럼프 행정부가 오픈AI의 'GPT-5.6' 규제를 해제하면서 오픈AI가 9일 새로운 AI 모델을 전 세계에 정식 출시할 예정이다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212555_215839_4947.jpeg",
+    "score": 8.443,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "앤트로픽, '클로드 코워크' 모바일·웹으로 확장…\"기기 꺼져도 백그라운드 자동화\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212530",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-08T16:25:16+00:00",
+    "raw_excerpt": "앤트로픽이 AI 업무 에이전트 '클로드 코워크(Claude Cowork)'를 모바일과 웹으로 확대 출시하며 기업용 AI 시장 공략에 속도를 내고 있다. 그동안 데스크톱에서만 사용할 수 있었던 코워크를 다양한 기기로 확장해 사용자가 언제 어디서나 AI에 업무를 맡기고 진행 상황을 확인할 수 있도록 하면서, 개발자 중심의 AI 코딩 도구를 넘어 일반 사무직과 지식노동자를 위한 생산성 플랫폼으로 자리매김하겠다는 전략이다.앤트로픽은 7일(현지시간) 클로드 코워크의 모바일 및 웹 베타 서비스를 맥스(Max) 구독자를 대상으로 제공한다고 밝혔",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "앤트로픽이 AI 업무 에이전트 '클로드 코워크'를 모바일·웹으로 확장해 기기 꺼져도 백그라운드 자동화가 가능하도록 하며 일반 사무직 사용자로 시장을 넓혀가고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212530_215804_022.jpg",
+    "score": 8.401,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "ai 코딩"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "아마존, 38조 'AI 회사채' 발행…빅테크 채권 공급 과잉 우려도",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212538",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-08T14:36:57+00:00",
+    "raw_excerpt": "아마존이 AI 인프라 투자 확대를 위해 250억달러(약 38조원) 규모의 회사채를 발행했다. 올해 AI 투자 경쟁이 격화되면서 빅테크 기업들이 막대한 자금 조달에 나서는 가운데, 아마존 대규모 데이터센터와 AI 칩 구축을 위한 투자 재원을 확보하려는 행보다.로이터와 CNBC에 따르면, 아마존은 7일(현지시간) 미국 달러화 표시 회사채를 8개 트랜치로 나눠 발행했다.만기는 2029년부터 2066년까지 다양하게 구성됐으며, 고정금리채와 변동금리채를 함께 포함했다.이번 채권 발행에는 투자자들의 관심이 집중됐다. 최대 주문 규모는 620억",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "아마존이 AI 인프라 투자 확대를 위해 250억달러 규모 회사채를 발행하며, 빅테크의 막대한 자금 조달 경쟁이 채권 시장 과잉공급을 우려하게 하고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212538_215816_346.jpg",
+    "score": 8.254,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "ai 투자"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "스페이스XAI, 커서 합작 첫 모델 출시 초읽기...\"첨단 성능 따라붙어\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212525",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-08T12:51:20+00:00",
+    "raw_excerpt": "스페이스XAI가 AI 코딩 플랫폼 커서(Cursor)와 공동 개발한 첫 번째 AI 모델을 이르면 8일(현지시간) 공개할 것으로 알려졌다. 디 인포메이션은 7일 내부 직원들에게 전달된 메모를 인용, 스페이스XAI와 커서가 공동 개발한 AI 모델이 수요일 출시될 예정이라고 보도했다.메모에 따르면, 양사는 이 모델을 주초에 출시할 계획이었다. 그러나, 모델의 효율성을 높이기 위해 날짜를 미루고 최종 성능 개선 작업을 진행해 왔다.새 모델은 빠른 정보 처리 속도가 강점인 것으로 전해졌다. 또 일부 벤치마크에서는 앤트로픽의 '클로드 오퍼스",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "SpaceX AI가 AI 코딩 플랫폼 커서와 공동 개발한 첫 모델을 8일 공개 예정으로, 빠른 처리 속도와 경쟁 수준의 성능을 갖춘 것으로 알려졌다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212525_215799_345.png",
+    "score": 8.111,
+    "engagement": 0,
+    "matched_keywords": [
+      "cursor",
+      "ai 코딩"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "네이버클라우드, 미스트랄 AI와 제조 AX 위한 '소버린 AI' 동맹",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212527",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-08T12:38:14+00:00",
+    "raw_excerpt": "네이버클라우드(대표 김유원)는 프랑스의 미스트랄 AI와 제조 AI 시장을 공략하기 위한 전방위 파트너십 계약을 체결했다고 8일 밝혔다.양사는 공동 연구개발(R D)과 기술 교류를 통해 유럽과 아시아 제조 현장의 데이터 주권을 보장하는 소버린 AI 솔루션으로 글로벌 제조 기업 공략에 나선다는 방침이다.국내 비즈니스도 추진한다. 네이버클라우드 플랫폼을 통해 미스트랄 AI의 최신 모델과 플랫폼 등이 공급되며, 국내에 미스트랄 AI의 현장 전담 엔지니어(FDE)가 파견돼 기술 지원과 이슈 해결을 담당할 예정이다.특히 미스트랄 AI는 에어버",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "네이버클라우드가 미스트랄 AI와 제휴해 데이터 주권을 보장하는 소버린 AI 솔루션으로 제조 시장을 공략하기로 했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212527_215801_2251.png",
+    "score": 8.094,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "ai 시장"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "리퀴드 AI, 추론 모델 ‘무한 루프’ 잡는 ‘안티둠’ 훈련 기법 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212545",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-08T17:58:23+00:00",
+    "raw_excerpt": "리퀴드 AI가 추론형 AI 모델이 동일한 문장을 반복하다가 응답을 끝내지 못하는 '둠 루프(Doom Loop)' 문제를 해결할 학습 기법 '안티둠(Antidoom)'을 오픈소스로 공개했다. 새로운 지식이나 추론 능력을 추가로 학습하지 않고도 반복 오류만 선택적으로 제거해 모델 성능을 크게 높일 수 있다는 점이 특징이다.리퀴드 AI는 7일(현지시간) 깃허브를 통해 안티둠과 함께 학습 데이터 생성, 반복 탐지, 최종 토큰 선호도 최적화(FTPO·Final Token Preference Optimization) 훈련 코드를 공개했다고 밝",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Liquid AI가 추론 모델의 무한 반복 문제를 해결하는 '안티둠' 훈련 기법을 오픈소스로 공개하며, 새로운 학습 없이도 반복 오류를 선택적으로 제거해 성능을 향상시킬 수 있게 했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212545_215830_1632.gif",
+    "score": 7.552,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "\"휴대폰 회사는 옛말\"...노키아, AI 데이터센터 핵심 기업으로 변신",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212548",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-08T17:31:37+00:00",
+    "raw_excerpt": "한때 전 세계 휴대폰 시장을 지배했던 노키아가 AI 시대를 맞아 데이터센터 네트워크 기업으로 성공적인 변신을 이어가고 있다. AI 데이터센터 인프라 시장 확대에 힘입어 올해 주가가 약 90% 급등하는 등 투자자들로부터 새로운 AI 수혜주로 주목받고 있다.7일(현지시간) 월스트리트저널(WSJ)에 따르면, 노키아는 현재 휴대폰을 직접 생산하지 않는다. 대신, AI 데이터센터 내부에서 서버를 연결하는 스위치와 데이터 흐름을 제어하는 라우터와 광통신 장비, 네트워크 소프트웨어 등을 공급하며 AI 인프라 시장을 공략하고 있다.수천 km에 달",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "노키아가 휴대폰 사업을 접고 AI 데이터센터 네트워크 인프라 기업으로 전환하며 올해 주가 90% 급등으로 새로운 AI 수혜주로 주목받고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212548_215834_3121.jpg",
+    "score": 7.516,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "뉴욕주, 모든 법원서 스마트 안경 착용 금지...“불법 촬영·녹음 차단”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212550",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-08T17:25:14+00:00",
+    "raw_excerpt": "미국 뉴욕주가 AI 기능을 탑재한 스마트 안경의 법원 반입을 전면 금지한다. 메타와 구글 등 빅테크 기업들이 카메라와 음성 인식 기능을 갖춘 스마트 안경을 잇달아 출시하는 가운데, 법정 내 불법 촬영과 녹음을 원천 차단하기 위한 조치다.시러큐스닷컴에 따르면, 뉴욕주 법원행정처는 오는 20일(현지시간)부터 뉴욕주 통합법원 산하 모든 법원 시설에서 카메라와 마이크 등 녹화 및 녹음 기능이 탑재된 안경과 머리 착용형 기기의 반입을 금지한다고 밝혔다.이번 조치는 뉴욕주 전역의 1240개가 넘는 주·카운티·시·타운·빌리지 법원에 모두 적용된",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "뉴욕주가 AI 기능의 스마트 안경과 머리 착용형 기기를 모든 법원에서 금지하여 불법 촬영·녹음을 방지한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212550_215838_484.jpg",
+    "score": 7.507,
+    "engagement": 0,
+    "matched_keywords": [
+      "빅테크"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "목포영어도서관, 8월 여름 영어프로그램 운영",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212537",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-08T17:17:07+00:00",
+    "raw_excerpt": "AI 영상 생성목포영어도서관이 여름방학을 맞아 어린이와 성인을 대상으로 영어프로그램 10개 과정을 운영한다고 8일 밝혔다.8월4일부터 21일까지 영어 게임, 독서 활동, 일상 회화, 영화·애니메이션 활용 수업 등을 진행하며, 참여 신청은 13일부터 목포시통합도서관 누리집에서 선착순으로 받는다.이번 여름 영어프로그램은 연령과 학년별 수준에 맞춰 운영된다. 어린이 프로그램은 원어민과 함께 게임과 다양한 활동을 하며 영어를 배우는 Think & Play, 영어 도서를 읽고 만들기 활동을 이어가는 사부작사부작 영어독서교실 등으로 구성된다.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "목포영어도서관이 8월 4일부터 21일까지 어린이와 성인 대상으로 영어 게임, 독서, 회화 등 10개 과정의 여름 영어프로그램을 운영한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212537_215827_846.jpg",
+    "score": 7.496,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "여수 쌍봉도서관, 어린이 여름방학 독서 프로그램 접수",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212546",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-08T17:16:36+00:00",
+    "raw_excerpt": "AI 생성 영상여수시립쌍봉도서관이 여름방학을 맞아 어린이들이 책과 가까워질 수 있는 독서 프로그램 수강생을 모집한다고 8일 밝혔다.운영 강좌는 ‘생각이 쑥쑥, 독서 탐험대’와 ‘여름아 놀자!’ 총 2개다. 책을 매개로 한 활동을 통해 어린이들이 독서에 부담 없이 접근할 수 있도록 구성됐다.참여를 원하는 어린이는 13일부터 21일 까지 여수시립도서관 누리집에서 접수하면 된다.모집은 선착순으로 진행되며, 수강료와 재료비는 강좌별로 다르게 적용된다. 세부 운영 내용과 신청 방법은 도서관 누리집 공지사항에서 확인할 수 있다.여수 관계자는",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "여수시립쌍봉도서관이 여름방학을 맞아 어린이 대상 독서 프로그램 2개를 운영하며 13~21일 온라인 접수를 받는다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212546_215836_3535.jpg",
+    "score": 7.496,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "나주, 인공태양 연구개발특구 지정 전략 구체화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212551",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-08T17:16:22+00:00",
+    "raw_excerpt": "AI 생성 영상나주시가 핵융합 연구시설과 연계한 연구개발특구 지정 전략을 마련했다고 8일 밝혔다.나주는 지난 6일 시청 소회의실에서 ‘나주시 에너지 핵융합 연구개발특구 지정 전략 수립 용역’ 최종보고회를 열었다. 보고회에서는 핵융합 연구개발특구 지정 전략과 단계별 추진방안이 공유됐다.이번 용역은 인공태양 연구시설 구축사업과 연계해 연구개발특구 지정을 준비하기 위해 지난 4월 착수됐다. 3개월간 핵융합 산업과 정책환경 분석, 특구 지정 전략, 연구기관·기업 유치 방안, 단계별 실행 로드맵 등이 검토됐다.연구개발특구는 연구기관과 기업,",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "나주시가 인공태양 연구시설 구축과 연계해 핵융합 연구개발특구 지정 전략을 수립했으며, 연구기관 유치 및 단계별 추진방안을 마련했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212551_215841_5817.jpg",
+    "score": 7.495,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "구글, 독일 핵융합 스타트업에 투자…AI 전력 확보 총력전",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212541",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-08T15:04:35+00:00",
+    "raw_excerpt": "AI 붐으로 인한 전력 수요 급증에 따라, 구글이 유럽 핵융합 스타트업 투자에 나섰다. 미래 에너지 기술 확보 경쟁도 확대되는 추세다.독일의 핵융합 스타트업 프로시마 퓨전(Proxima Fusion)은 4억유로(약 6882억원) 규모의 투자 라운드를 유치하며 24억 유로(약 4조1288억원)의 기업 가치를 인정받았다고 밝혔다. 이번 투자는 영국 무역 회사인 XTX 마켓츠가 주도했으며, 구글이 전략적 투자자로 참여해 눈길을 끌었다.구글의 투자는 '무탄소 전력' 확보를 위한 것이다. 프란체스코 시오르티노 프로시마 퓨전 CEO는 \"구글은",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "구글이 AI 전력 수요 충당을 위해 독일 핵융합 스타트업 프로시마 퓨전에 투자해 미래 에너지 확보 경쟁에 나섰다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212541_215820_223.png",
+    "score": 7.317,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "메타, 차세대 이미지·동영상 AI 공개...\"검색·코딩까지 스스로\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212526",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-08T13:10:40+00:00",
+    "raw_excerpt": "메타가 차세대 이미지 모델 '뮤즈 이미지(Muse Image)'와 동영상 모델 '뮤즈 비디오(Muse Video)'를 공개하며 생성 AI 경쟁에 본격적으로 뛰어들었다. 메타 슈퍼인텔리전스 랩스(MSL)가 개발한 최초의 미디어 생성 모델로, 단순한 이미지 제작을 넘어 추론과 도구 활용 능력을 갖춘 '에이전트형 생성 AI'를 표방한 것이 특징이다.메타는 7일(현지시간) 뮤즈 이미지를 메타 AI 앱과 웹사이트, 미국 인스타그램 스토리, 일부 국가의 왓츠앱에서 제공한다고 밝혔다. 앞으로 페이스북과 메신저 등 메타의 주요 서비스에도 차례로",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "메타가 추론과 도구 활용 능력을 갖춘 차세대 이미지·동영상 생성 AI '뮤즈'를 공개하며 에이전트형 생성 AI 시장에 본격 진출했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212526_215812_351.png",
+    "score": 7.162,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "불법정보·가짜뉴스와의 전면전… 방미통위, 정보통신망법 가이드라인 공개",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40886",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-08T16:50:15+00:00",
+    "raw_excerpt": "정부가 인공지능(AI) 시대, 허위정보와 불법정보 유통 차단 나섰다. 불법정보·허위조작정보 유통방지를 위해 개정(‘26.1.6. 공포, ’26.7.7 시행)된 '정보통신망 이용 촉진 및 정보보호 등에 관한 법률' 및 관련 법령에 대한 올바른 이해를 돕기 위한 해설서 성격의 가이드라인이 발표됐다.방송미디어통신위원회(위원장 김종철)는 8일 법 개정에 따라 새로 도입된 제도의 현장 안착을 지원하고, 사업자와 이용자가 관련 제도를 명확히 이해할 수 있도록 ‘불법·허위조작정보 유통 방지를 위한 정보통신망법 가이드라인’을 제작, 배포했다고 밝",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "정부가 AI 시대 허위정보와 불법정보 차단을 위해 개정된 정보통신망법에 대한 가이드라인을 공개했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/40886_61622_4940_v150.jpg",
+    "score": 6.886,
+    "engagement": 0,
+    "matched_keywords": [
+      "가이드라인"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "아폴론, 하버드 의대 교수와 당뇨기기 창업자 자문단으로 영입...FDA 허가 및 상업화 가속",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40883",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-08T12:09:01+00:00",
+    "raw_excerpt": "바늘 없는 연속혈당측정기(CGM)를 개발하는 아폴론이 미국 당뇨 분야 최고 권위자와 당뇨기기 창업·매각 경험의 전략가를 동시에 자문위원으로 영입했다.8일, 아폴론에 따르면 하버드 의과대학 교수인 메다 문시(Medha Munshi) 박사와 보스턴컨설팅 대표 출신인 로런스 앨버츠(Laurence Alberts)가 각각 과학자문위원과 전략자문위원으로 합류했다.이번 영입은 아폴론이 미국 식품의약국(FDA) 신의료기기(De Novo) 허가 신청을 앞두고 이뤄졌다. 임상과 학계 협력을 넘어 실질적 자문 네트워크 구축 단계로 들어섰다는 평가가",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "아폴론이 하버드 의대 교수와 당뇨기기 창업 경험자를 자문위원으로 영입해 FDA 허가 신청과 상업화를 가속화하고 있다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/40883_61619_658_v150.jpg",
+    "score": 6.534,
+    "engagement": 0,
+    "matched_keywords": [
+      "창업"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "AMD \"에이전틱 AI 승부수는 CPU 아닌 '인프라 조화'\"",
+    "url": "https://zdnet.co.kr/view/?no=20260708154428",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-08T06:54:58+00:00",
+    "raw_excerpt": "[지디넷코리아]올 상반기부터 주요 CPU 제조사는 '에이전틱 AI를 위한 CPU'를 내세우며 경쟁하고 있다. 업계는 이용자의 요청에 따라 여러 작업을 수행하는 AI 에이전트를 정밀하게 조율하는 역할에는 GPU보다 CPU가 더 적합하다고 판단하고 있다.이들은 과거 데이터센터에서 CPU와 GPU 비율이 1:8 수준이었다면 앞으로는 CPU와 GPU 비율이 1:1 등 대등한 수준으로, 혹은 CPU 비율이 GPU를 앞지를 수 있다고 예상하고 있다.Arm은 3월 말 진행된 'Arm 에브리웨어' 행사에서 이를 겨냥한 AGI CPU를 공개했다. 인텔은 6월 '컴퓨텍스 타이베이 2026'에서 E(에피션트) 코어를 최대 288개 담은 제온6+(클리어워터 포레스트)를 정식 출시했다.엔비디아 역시 Arm 코어 88개를 내장한 단일 제품인 베라 CPU를 단품으로 주요 AI 업체에 공급할 예정이다. 퀄컴은 지난 6월 말 '인베스터 데이' 행사에서 2028년부터 공급할 '드래곤플라이 C1000' CPU 로드맵을 공개하기도 했다.경쟁사들이 모두 새로운 CPU를 전면에 내세운 것과 달리 AMD는 아직까지 에이전틱 AI를 겨냥한 CPU 신제품 공개를 미루고 있다.대신 지난 달 초부터 최근까지 공식 블로그를 통해 에이전틱 AI 대응에 필요한 전략과 인프라 설계 관련 메시지를 내놓고 있다.AMD는 '컴퓨텍스 타이베이 2026' 개막을 전후해 \"생성 AI 시대에는 GPU",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "AMD는 경쟁사들이 에이전틱 AI용 CPU 신제품을 앞다퉈 출시하는 와중에도 CPU 신제품 공개를 미루고 대신 인프라 설계와 시스템 조화를 강조하는 전략으로 차별화하고 있다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/03/25/9059d97b94c5732e8d983de431c01fdd.jpg",
+    "score": 5.956,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "에이전틱",
+      "ai 에이전트"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "카카오 VLM, 국내 모델 최다 다운로드…멀티모달 경쟁력 뽐냈다",
+    "url": "https://www.etnews.com/20260708000336",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-07-08T07:00:00+00:00",
+    "raw_excerpt": "카카오가 지난해 오픈소스로 공개한 비전언어모델(VLM)이 최근 한 달간 국내 VLM 가운데 가장 많은 다운로드 수를 기록했다. 높은 접근성과 효율적인 성능으로 그래픽처리장치(GPU) 자원이 부족한 스타트업과 공공 분야에서 활용이 확대되고 있다. 한국어 환경에 최적화된 국내 오픈소스 멀티모달 모델 수요가 커진 영향으로 풀이된다. 8일 허깅페이스에 따르면 카카오의 VLM '카나나-1.5-v-3b-인스트럭트'는 이날 기준 최근 한 달간 다운로드 수",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "카카오의 오픈소스 VLM '카나나-1.5-v-3b'가 최근 한 달간 국내 VLM 중 최다 다운로드를 기록하며 한국어 최적화 멀티모달 모델의 수요 확대를 입증했다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/07/08/news-p.v1.20260708.d0957dd4bf674901ac60f9e0e2403715_P1.png",
+    "score": 5.873,
+    "engagement": 0,
+    "matched_keywords": [
+      "gpu",
+      "스타트업"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "글로벌 언론도 주목한 현대차 아틀라스…\"월드컵 역사상 한 번도 없었던 일\"",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47093",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-08T15:24:31+00:00",
+    "raw_excerpt": "현대자동차그룹 휴머노이드 로봇 아틀라스가 FIFA 월드컵 2026 16강전 하프타임 퍼포먼스를 선보이며 글로벌 주요 언론의 주목을 받았다. 포춘, 블룸버그, 로이터, 애드위크는 이를 월드컵 최초의 휴머노이드 공개 시연이자 학습 기반 로보틱스 기술과 미래 제조 현장 적용 가능성을 보여준 사례로 평가했다.*{box-sizing:border-box;margin:0;padding:0;}.wrap{max-width:620px;margin:0 auto;padding:0 24px;font-family:'Pretendard',-apple-syst",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "현대차의 휴머노이드 로봇 아틀라스가 FIFA 월드컵 2026 16강전 하프타임 퍼포먼스를 펼쳐 월드컵 역사상 최초로 휴머노이드 로봇을 공개 시연했다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202607/47093_45585_98_v150.jpg",
+    "score": 5.759,
+    "engagement": 0,
+    "matched_keywords": [
+      "로보틱스",
+      "휴머노이드"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "스마일게이트, '2026 애니메 엑스포' 성료…'미래시'·'카제나' 호응",
+    "url": "https://zdnet.co.kr/view/?no=20260708162434",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-08T07:24:34+00:00",
+    "raw_excerpt": "[지디넷코리아]스마일게이트가 지난 2일부터 5일(현지시간)까지 진행된 북미 최대 규모 서브컬처 페스티벌 '2026 애니메 엑스포(AX)'에서 신작 시연 및 현장 이벤트를 성황리에 마무리했다.스마일게이트는 미국 LA에서 열린 2026 애니메 엑스포에 참가해 '카오스 제로 나이트메어(이하 카제나)'와 '미래시: 보이지 않는 미래(이하 미래시)' 부스를 성공적으로 운영했다고 8일 밝혔다.신작 미래시는 북미 최초로 게임 시연존을 마련해 평균 3시간의 대기열을 기록했다. 시연 보상인 캐릭터 '핫피'가 호응을 얻었으며, 주요 개발진의 '데브 토크'와 라이브 드로잉쇼 등 무대 프로그램도 관람객의 이목을 끌었다.김형섭 AD는 4일 초청 게스트 레이큐 작가와 합동 드로잉쇼를 진행했다. 미래시가 미출시 IP임에도 전 좌석이 매진을 이뤘으며, 관람객의 질문에 실시간으로 응답하는 소통 행사가 이뤄졌다.카제나 부스에서는 15종의 카드를 수집하는 콜렉팅 이벤트가 진행됐다. 24K 골드 카드 추첨을 위한 현장 오픈런이 발생했으며, 굿즈샵 아미아미(AmiAmi) 부스에서 판매된 관련 상품 대부분이 매진됐다.김형석 PD와 소수빈 AD 등 카제나 개발진은 현장 사인회와 패널 세션을 통해 이용자들과 만났다. 3일 열린 세션에서는 2D 애니메이션 게임 개발 철학을 공유하고 카제나의 신규 시즌 정보를 글로벌 최초로 공개했다.이노주 스마일게이트 마케팅 담당 이사는 \"북미 ",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "스마일게이트가 2026 애니메 엑스포에서 '미래시'와 '카제나' 신작을 선보여 평균 3시간 대기와 굿즈 매진 등 큰 호응을 얻었다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/07/08/dbe3f4636b3c8cce06144cffa9bde177.png",
+    "score": 5.309,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장",
+      "ax"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[카드] 현대차 정몽구 재단·UNDP, 아태 임팩트 스타트업 데모데이 개최",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47108",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-08T17:39:55+00:00",
+    "raw_excerpt": "[스마트타임스] 현대차 정몽구 재단은 유엔개발계획(UNDP) 서울정책센터와 공동 주최한 아시아·태평양 지역 임팩트 스타트업 육성 프로그램 '글로벌 임팩트프러너'의 네트워킹 행사와 데모데이를 지난 6~7일 서울 명동 온드림 소사이어티에서 개최했다고 8일 밝혔다.현대차 정몽구 재단 관계자는 “전지구적 사회난제를 해결하는 글로벌 임팩트 기업가 육성과 임팩트 생태계 확산을 위해 UNDP 서울정책센터와 함께 지속해 나갈 예정”이라고 말했다.",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "현대차 정몽구 재단과 UNDP 서울정책센터가 아시아·태평양 지역 임팩트 스타트업을 육성하는 '글로벌 임팩트프러너' 프로그램의 데모데이를 개최했다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202607/47108_45607_2721_v150.jpg",
+    "score": 5.211,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "반도체 호황에 5월 경상흑자 386억달러 ‘역대 최대’",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47111",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-08T17:27:51+00:00",
+    "raw_excerpt": "[스마트타임스]반도체 수출 호조에 힘입어 지난 5월 우리나라가 국제 교역에서 60조원에 가까운 역대 최대 규모의 흑자를 기록했다. 올해 5월까지의 누적 흑자액은 이미 지난해 연간 흑자 규모를 넘어섰다.한국은행이 8일 발표한 국제수지 잠정 통계에 따르면, 올해 5월 경상수지는 386억 1,000만 달러(약 58조 6,000억원) 흑자로 집계됐다. 이는 월간 기준으로 직전 최대치였던 올해 3월(379억 3,000만 달러)을 뛰어넘는 역대 최대 흑자 규모다. 이로써 경상수지는 2023년 5월부터 37개월 연속 흑자 기조를 유지하게 됐다.",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "반도체 수출 호조에 힘입어 5월 경상수지가 386억 달러로 역대 최대 흑자를 기록했으며, 올해 누적 흑자가 이미 지난해 연간 규모를 초과했다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202607/47111_45609_2745_v150.jpg",
+    "score": 5.2,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "Tether Invests $20M in Mercado Bitcoin to Expand Blockchain Finance Across Latin America",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47106",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-08T17:05:47+00:00",
+    "raw_excerpt": "Tether has invested US$20 million in Brazilian cryptocurrency platform Mercado Bitcoin as part of its strategy to accelerate the adoption of blockchain-based financial services throughout Latin America.The funding will support the expansion of tokenized assets, stablecoin payments, lending products",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Tether가 브라질 암호화폐 거래소 Mercado Bitcoin에 2,000만 달러를 투자해 라틴아메리카 지역의 블록체인 금융 서비스 확대를 추진한다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202607/47106_45603_530_v150.jpg",
+    "score": 5.179,
+    "engagement": 0,
+    "matched_keywords": [
+      "funding"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "삼성자산운용 \"KODEX 차이나휴머노이드로봇 1년 수익률 38.3%\"",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47103",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-08T16:59:04+00:00",
+    "raw_excerpt": "[스마트타임스]삼성자산운용은 KODEX 차이나휴머노이드로봇 ETF가 1년 수익률 38.3%를 기록했다고 8일 밝혔다. 이 ETF의 순자산은 2030억원에 달한다.1개월 수익률은 0.6%, 3개월 수익률은 18.1%를 기록했다. 경쟁 상품 대비 약 9~11%포인트까지 큰 폭으로 앞선 수익성과를 냈다는 설명이다.이가현 삼성자산운용 매니저는 “중국은 정부의 적극적인 로봇산업 육성정책과 제조 경쟁력, AI 기술력을 바탕으로 휴머노이드 산업의 상용화를 빠르게 추진하고 있다”며 “유니트리 IPO와 테슬라의 옵티머스 양산 개시 등 산업 전반의",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "삼성자산운용의 KODEX 차이나휴머노이드로봇 ETF가 1년 수익률 38.3%를 기록하며 경쟁 상품 대비 9~11%포인트 앞서고 있다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202607/47103_45599_5850_v150.jpg",
+    "score": 5.173,
+    "engagement": 0,
+    "matched_keywords": [
+      "휴머노이드"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "Coinbase Expands UK Offering With Approval to Add Equities and Derivatives",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47102",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-08T16:58:36+00:00",
+    "raw_excerpt": "Coinbase has received regulatory approval in the United Kingdom to broaden its product lineup beyond cryptocurrencies, allowing the company to introduce equities and derivatives trading in one of its most important international markets.The authorization enables institutional clients and advanced tr",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Coinbase가 영국 규제 승인을 받아 암호화폐를 넘어 주식과 파생상품 거래까지 확대할 수 있게 되었다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202607/47102_45598_5738_v150.jpg",
+    "score": 5.172,
+    "engagement": 0,
+    "matched_keywords": [
+      "regulatory"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "한국타이어, 지속가능경영 성과 담은 ESG 보고서 공개",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47095",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-08T15:59:16+00:00",
+    "raw_excerpt": "[스마트타임스] 한국타이어앤테크놀로지는 글로벌 ESG 공시 환경 변화에 대응하기 위한 관리 체계와 지속가능경영 성과를 담은 '2025/26 ESG 보고서'를 발간했다고 8일 밝혔다.17번째로 발간된 이번 보고서에는 유럽 지속가능성 보고지침(CSRD)과 유럽연합 산림전용방지규정(EUDR) 등 강화되는 글로벌 ESG 규제에 대응하기 위한 관리 체계와 추진 방향을 담았다.한국타이어는 유럽 지속가능성 보고 기준(ESRS)을 반영해 한국앤컴퍼니, 한온시스템 등 그룹 3사의 공통 ESG 관리 체계를 구축하고 이중 중대성 원칙을 적용한 그룹 통",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "한국타이어앤테크놀로지가 CSRD, EUDR 등 강화된 글로벌 ESG 규제에 대응하는 관리 체계를 담은 '2025/26 ESG 보고서'를 발간했다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202607/47095_45590_287_v150.jpg",
+    "score": 5.117,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "한투운용, '한국투자 레벨업코리아 펀드' 출시",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47083",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-08T15:35:26+00:00",
+    "raw_excerpt": "[스마트타임스]한국투자신탁운용은 '한국투자레벨업코리아 펀드(사모투자재간접형)'를 출시했다고 8일 밝혔다.이 펀드는 한국 증시의 중장기 재평가를 견인할 핵심 산업과 자본시장 정책 수혜 종목에 투자하는 상품이다. 오는 22일까지 한국투자증권과 신한은행 PWM 센터에서 가입할 수 있다.투자 테마는 ‘한국 핵심 산업’과 ‘자본시장 정책 수혜’ 두 축으로 나뉜다. 한국 핵심 산업군으로는 ▲AI 밸류체인 ▲AI 반도체 ▲피지컬AI(로봇·모빌리티) ▲안보(방산·조선) 등이 있다. 질적 성장을 이끌 자본시장 정책 수혜주로는 삼성그룹주, 상법 개정",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "한국투자신탁운용이 AI, 반도체, 방산 등 핵심 산업과 자본시장 정책 수혜주에 투자하는 '한국투자 레벨업코리아 펀드'를 출시했다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202607/47083_45591_3511_v150.jpg",
+    "score": 5.094,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "“비만 잡는 '위고비', 중증 지방간염 치료에도 효과”…英서 조건부 승인",
+    "url": "https://www.etnews.com/20260707000257",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-07-08T06:10:00+00:00",
+    "raw_excerpt": "비만 관리와 당뇨 치료에 활용돼 온 세마글루타이드(상품명 위고비)가 중증 지방간 질환 치료제로 승인받았다. 3일(현지시간) 데일리메일에 따르면 영국 의약품·보건제품규제청(MHRA)은 세마글루타이드를 대사기능장애 관련 지방간염(MASH·Metabolic-associated steatohepatitis) 치료 목적으로 사용할 수 있도록 허가했다. 이에 따라 세마글루타이드는 간 섬유화가 중간 단계 이상으로 진행된 성인 MASH 환자에게 처방될 수 있",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "비만 치료제 세마글루타이드(위고비)가 영국에서 중증 지방간염(MASH) 치료제로 조건부 승인되어 간 섬유화가 진행된 환자 치료에 활용될 수 있게 됐다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/07/07/news-p.v1.20260707.943aeefbd4a54a0fa712ea72bb282157_P1.jpg",
+    "score": 5.071,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "삼성바이오 쟁의행위 항고심 심리 종결…'바이오 연속공정' 판단 주목",
+    "url": "https://www.etnews.com/20260708000284",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-07-08T04:53:21+00:00",
+    "raw_excerpt": "삼성바이오로직스가 노동조합을 상대로 제기한 쟁의행위 금지 가처분 항고심 심리가 지난 3일 마무리됐다. 개별 기업의 노사 관계를 넘어 국내 바이오 산업에서 생산공정 특수성을 어디까지 인정할 것인지를 판단하는 만큼 법원 판결에 업계 이목이 집중된다. 재판의 핵심 쟁점은 노조법상 쟁의행위 기간에도 정상적으로 수행해야 하는 '보안작업'의 범위를 어디까지 인정하느냐다. 노조법은 작업 시설 손상이나 원료·제품의 변질 또는 부패를 방지하기 위한 작업은 쟁의",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "삼성바이오로직스 쟁의행위 금지 항고심이 종료되며 바이오 제약업의 '보안작업' 범위와 연속공정 특수성 인정 여부가 법원 판단의 핵심 쟁점으로 떠올랐다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/04/17/news-p.v1.20260417.21af7f2844f24689b756f0013ff143a3_P1.png",
+    "score": 4.992,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "“뉴욕 한복판 37층 건물 흔들”…맨해튼 고층 빌딩 붕괴 우려에 긴급 대피",
+    "url": "https://www.etnews.com/20260708000191",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-07-08T04:00:00+00:00",
+    "raw_excerpt": "7일(현지시간) 미국 뉴욕 맨해튼에서 공사 중이던 고층 건물의 철골 구조물이 변형되면서 붕괴 가능성이 제기돼 주변 거주자와 방문객들이 긴급히 대피하는 상황이 발생했다. 뉴욕타임스(NYT)에 따르면 이날 오전 8시경 맨해튼 미드타운 이스트 지역의 한 37층 건물에서 벽돌 일부가 도로로 떨어졌다는 신고가 접수됐다. 출동한 관계 당국은 현장 조사 결과 21층과 22층에 위치한 철제 지지대 두 개가 휘어졌고, 21층부터 26층까지의 바닥 구조가 내려앉",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "뉴욕 맨해튼의 37층 공사 중인 건물에서 철골 구조물이 변형되며 붕괴 우려가 제기되어 긴급 대피가 실시됐다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/07/08/rcv.YNA.20260708.PGT20260708018501009_P1.jpg",
+    "score": 4.936,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "STARCARES, 베트남 차세대 비즈니스 리더 육성을 위해 B-LEAD 2026과 파트너십 체결",
+    "url": "https://zdnet.co.kr/view/?no=20260708161002",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-08T07:10:02+00:00",
+    "raw_excerpt": "[지디넷코리아]50개 대학 1,500명 이상의 학생을 지원하는 이번 파트너십은 실전 학습을 통해 미래 리더를 양성하겠다는 STARCARES의 장기적인 의지를 보여줍니다. 베트남 호치민시, 2026년 7월 8일 /PRNewswire/ -- 과거 STAR Foundation으로 알려졌던 스타트레이더의 지역사회 공헌 이니셔티브인 STARCARES가 베트남을 대표하는 매니지먼트 트레이니 시뮬레이션 대회인 B-LEAD 2026과 파트너십을 체결했습니다. 이를 통해 국가의 차세대 비즈니스 리더들에게 미래를 이끌어 나갈 역량과 자신감, 그리고 실전 경험을 제공하겠다는 의지를 다시 한번 확인했습니다. STARCARES Partners with B-LEAD 2026 to Empower Vietnam's Next Generation of Business Leaders 이번 파트너십은 베트남의 미래 리더 육성에 대한 STARCARES의 장기적인 의지를 보여줍니다. B-LEAD 2026은 4단계의 경쟁 과정을 통해 3,000명 이상의 미래 리더 커뮤니티를 형성하며, 최종 결선에는 약 300명의 참가자가 참여하고, 50개 이상의 대학에서 1,500명 이상의 학생들에게 실질적인 비즈니스 경험을 제공합니다. B-LEAD 2026을 통해 STARCARES는 학습을 경험으로 전환시키고 있습니다. 이번 이니셔티브는 학생들에게 실제 비즈니스 과제에 도전하고, 리더십과",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "STARCARES가 베트남 매니지먼트 트레이니 시뮬레이션 대회 B-LEAD 2026과 파트너십을 체결해 50개 대학 1,500명 이상의 학생에게 실전 비즈니스 경험을 제공합니다.",
+    "thumbnail": "https://mmx.prnasia.com/media/MS1879410/STARCARES-B-LEAD-2026-1.jpg?id=OA2754821&p=medium600",
+    "score": 4.621,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "클로드, 국내 점유율 역대 최고…에이전트 업고 코파일럿 제쳤다",
+    "url": "https://zdnet.co.kr/view/?no=20260708153721",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-08T06:39:03+00:00",
+    "raw_excerpt": "[지디넷코리아]앤트로픽 인공지능(AI) 챗봇 '클로드'가 0%대에 머물던 국내 점유율을 반년 만에 5%대로 끌어올리며 역대 최고치를 기록했다. 성장세가 둔화한 경쟁 서비스들 사이에서 가파른 상승 곡선을 그리고 있다.8일 시장조사업체 스탯카운터에 따르면 클로드의 국내 AI 챗봇 시장 점유율은 올해 1월 0.9%에서 지난달 5.75%로 반년 만에 6배 이상 뛰었다. 4월 4.77%, 5월 5.13%로 꾸준히 상승한 끝에 마이크로소프트 코파일럿(4.36%)을 처음 제치고 국내 AI 챗봇 시장 4위에 올라섰다.이용자와 매출 지표도 같은 방향을 가리킨다. 아이지에이웍스 모바일인덱스 기준 지난달 클로드의 월간활성이용자수(MAU)는 141만명으로 1년 전(11만명)의 12.6배로 불어났다. 같은 기간 챗GPT의 전월 대비 성장률이 1%대에 그친 것과 대조적이다. 센서타워 집계에서는 올해 1월 1일부터 6월 9일까지 국내 iOS 생성형 AI 매출에서 클로드가 챗GPT에 이어 2위, 매출 성장률로는 1위를 차지했다.상승세의 배경으로는 한국 시장 본격 공략과 에이전트 수요가 꼽힌다. 앤트로픽은 스노우플레이크코리아 대표 출신 최기영 초대 한국 대표를 선임하고 지난달 서울 오피스를 공식 개소했다. 일본·인도·호주에 이은 아시아·태평양 네 번째 거점이다. 주요 제품군에서는 코딩 작업 전반을 대화만으로 처리하는 '클로드 코드'와 사용자 PC 화면을 보고 실무",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Claude가 에이전트 기능 강화와 한국 시장 본격 공략으로 국내 AI 챗봇 점유율 역대 최고인 5.75%를 기록하며 Copilot을 처음 제쳤다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/07/08/580aed92dfa7dd4c732bc93a5ab2c08b.jpg",
+    "score": 4.592,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "무신사, 대만 지사 설립...\"5년간 15개 매장 개소 목표\"",
+    "url": "https://zdnet.co.kr/view/?no=20260708140943",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-08T06:12:52+00:00",
+    "raw_excerpt": "[지디넷코리아]무신사는 한국 패션에 대한 선호도 증가로 지난 7일 대만 지사를 설립하며 시장 확장을 본격화한다고 8일 밝혔다. 실제로 무신사 글로벌 스토어 대만 지역 매출은 최근 3년간(2023~2025년) 연평균 두 배 이상의 증가세를 기록했다. 또한 지난해 국내 무신사 스토어 및 무신사 스탠다드 매장을 방문한 해외 관광객 가운데 대만 지역 출신이 3위권에 포함됐다. 무신사는 안정적인 초기 진입을 위해 전담 조직을 신설하고, 정교한 현지화 전략을 추진할 계획이다. 주요 상권별 유동 인구와 소비 특성 등을 면밀히 분석해 무신사 스탠다드를 중심으로 오프라인 접점을 확대해 나갈 방침이다.무신사는 대만 현지에서도 온·오프라인을 연계한 브랜드 경험을 강화하며, 향후 5년간 약 15개 매장 개점을 목표로 사업 확장에 속도를 낼 예정이다.무신사 관계자는 \"이번 대만 지사 설립은 글로벌 패션 시장 내 무신사의 영향력을 공고히 하기 위한 로드맵의 일환\"이라며 \"무신사는 앞으로도 플랫폼 기반의 데이터 경쟁력과 온·오프라인 운영 역량을 바탕으로 K-패션의 글로벌 확산을 이끌어 나갈 것\"이라고 말했다.",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "무신사가 대만 지사를 설립하고 5년간 15개 매장 개점을 목표로 현지 시장 진출을 본격화하며, 이는 한국 패션에 대한 대만의 높은 수요를 바탕으로 글로벌 확장 전략의 일환이다.",
+    "thumbnail": "https://image.zdnet.co.kr/2024/12/03/ef374b923a339f3d55416794d9672882.png",
+    "score": 4.567,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "TMRW 볼트®, 유럽 의료기기 규정(MDR) 하에 CE 마크 획득",
+    "url": "https://zdnet.co.kr/view/?no=20260708151002",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-08T06:10:02+00:00",
+    "raw_excerpt": "[지디넷코리아] 윌밍턴, 델라웨어, 2026년 7월 8일 /PRNewswire/ -- 리프로텍(Reprotech)이 7월 6일, TMRW 볼트 (TMRW Vault )가 유럽연합(European Union) 및 CE 마크를 인정하는 기타 국제 시장에서의 상업화를 지원하는 규정(EU) 2017/745에 따라 클래스 IIa(Class IIa) 의료기기로 CE 마킹을 획득했다고 발표했다. The TMRW Vault and Workstation 이번 성과는 TMRW 볼트가 디지털 관리 연속성, 첨단 모니터링, 확장 가능한 극저온 보관을 결합하여 난임 전문 클리닉이 위험을 줄이고, 표본 추적성을 강화하며, 성장을 지원하는 데 도움을 줌에 따라 모회사인 리프로텍과 난임 치료 산업 모두에게 중요한 이정표를 의미한다. TMRW 볼트 냉동고(TMRW Vault Freezer)는 난자, 배아, 정자의 액체 질소 보관을 제공하고 표본의 식별 및 추적성을 용이하게 하기 위한 극저온 냉동고다. TMRW 볼트 워크스테이션(TMRW Vault Workstation)은 사용자가 TMRW 볼트 냉동고에서 샘플을 입출고하고 소프트웨어 인터페이스를 통해 주문을 완료할 수 있도록 한다. 난임 전문 클리닉이 급격히 증가하는 냉동 생식 조직의 양을 관리함에 따라 더 안전하고 확장 가능하며 추적성이 더 높은 보관 솔루션의 필요성이 점점 더 중요해지고 있다. 역사적으로 클리닉",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "리프로텍의 TMRW 볼트가 EU 의료기기 규정(MDR)에 따라 Class IIa 의료기기 CE 마크를 획득, 유럽 시장 상업화가 가능해졌다.",
+    "thumbnail": "https://mma.prnasia.com/media2/3004224/The_TMRW_Vault_Workstation_Reprotech.jpg?p=medium600",
+    "score": 4.564,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "OpenAI's GPT-5.6 launches Thursday after a delay forced by the U.S. government",
+    "url": "https://the-decoder.com/openais-gpt-5-6-launches-thursday-after-a-delay-forced-by-the-u-s-government/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-07-08T08:00:30+00:00",
+    "raw_excerpt": "OpenAI is launching GPT-5.6 on Thursday after the U.S. government lifted its release ban following additional testing. Binding standards for future model approvals still don't exist. OpenAI says the Sol model beats Anthropic's Claude Mythos 5 on coding benchmarks at about half the cost. The article OpenAI s GPT-5.6 launches Thursday after a delay forced by the U.S. government appeared first on The Decoder .",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "OpenAI가 미국 정부의 출시 금지를 해제받은 후 GPT-5.6을 목요일 출시하며, Anthropic의 Claude Mythos 5 대비 절반 비용으로 코딩 벤치마크 성능을 앞선다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/openai_logo_vis-1.png",
+    "score": 4.353,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "gpt-5"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+    "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-07-08T08:00:00+00:00",
+    "raw_excerpt": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly.",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "프랑스 AI 스타트업 ZML이 튜링상 수상자 얀 르쿤의 지지를 받으며 다양한 AI칩에서 추론 속도를 높이는 무료 소프트웨어 ZML/LLMD를 공개했다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/07/ZML-founder-Steeve-Morin.jpg?resize=1200,800",
+    "score": 3.803,
+    "engagement": 0,
+    "matched_keywords": [
+      "startup"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
+    "url": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-08T03:59:35+00:00",
+    "raw_excerpt": "Article URL: https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/ Comments URL: https://news.ycombinator.com/item?id=48827325 Points: 171 # Comments: 100",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "ZFS 파일 시스템을 활용해 TrueNAS 같은 기성 제품 없이 최소한의 구성으로 NAS를 직접 구축하는 방법을 소개한 가이드.",
+    "thumbnail": "",
+    "score": 2.632,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  }
+]
