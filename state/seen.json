@@ -1462,7 +1462,7 @@
     "b6212c8e64563e12": "https://tuxnet.dev/img/this-is-the-way.webp",
     "48fba5b306dc1984": "https://image.zdnet.co.kr/2026/07/08/aie18cbf7e0d9ff4b3a9f5d90624b88552.jpg"
   },
-  "last_sent_date": "2026-07-09",
+  "last_sent_date": "2026-07-10",
   "sent": {
     "2026-07-02": [
       "morning",
@@ -1492,6 +1492,9 @@
       "morning",
       "noon",
       "evening"
+    ],
+    "2026-07-10": [
+      "morning"
     ]
   }
 }
