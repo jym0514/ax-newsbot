@@ -1463,7 +1463,7 @@
     "cd344295d2e41921": "https://image.zdnet.co.kr/2026/07/13/500ce5c577d90ec68b7ff993ce4cf5b8.jpg",
     "22d446d44da0dc26": "https://image.zdnet.co.kr/2026/07/13/cb1cc2d62f709c3710ad885539b8a637.jpg"
   },
-  "last_sent_date": "2026-07-13",
+  "last_sent_date": "2026-07-14",
   "sent": {
     "2026-07-06": [
       "morning",
@@ -1494,6 +1494,9 @@
       "morning",
       "noon",
       "evening"
+    ],
+    "2026-07-14": [
+      "morning"
     ]
   }
 }
