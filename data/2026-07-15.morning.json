@@ -1,0 +1,815 @@
+[
+  {
+    "title": "[AINews] Codex usage up >10x in 6 months to 7M users, +1M in the past ~day; did Codex overtake Claude Code??",
+    "url": "https://www.latent.space/p/ainews-codex-usage-up-10x-in-6-months",
+    "source": "Latent Space (swyx)",
+    "source_type": "substack",
+    "published_at": "2026-07-14T01:22:27+00:00",
+    "raw_excerpt": "a quiet day lets us fact check some numbers against the sound of silence of Claude Code reporting...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Codex 사용자가 6개월 만에 10배 이상 증가하여 700만 명에 달했으며, 최근 하루 동안만 100만 명이 추가되어 Claude Code를 추월했을 가능성이 제기되고 있다.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!cqvt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09c078c3-d47d-4ab1-91e5-b09ad5d082dd_1388x902.png",
+    "score": 7.057,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "codex",
+      "claude code"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+    "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-07-14T22:22:24+00:00",
+    "raw_excerpt": "OpenAI's first hardware device is reported to be a screenless, AI-guided smart speaker that can move. Weird enough for you?",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI가 첫 하드웨어 제품으로 움직이는 스크린 없는 AI 스피커를 개발 중인 것으로 보도됐다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273246979.jpg?resize=1200,800",
+    "score": 6.59,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Anthropic’s newest ad is creeping people out",
+    "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-07-14T19:41:27+00:00",
+    "raw_excerpt": "Anthropic has consistently attempted to depict itself as the ethical foil to other AI companies. This latest marketing stunt — which leans into criticism of AI as a way to make Anthropic seem aware of the responsibility it carries — would appear to be more of the same.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Anthropic의 새 광고가 AI의 윤리적 우려를 자조적으로 표현하며 오히려 불편함을 불러일으키고 있다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+    "score": 6.406,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
+    "url": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-07-14T17:45:55+00:00",
+    "raw_excerpt": "DeepMind CEO Demis Hassabis is proposing an AI \"standards body\" modeled after FINRA, to test frontier models and develop best practices for their release.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "DeepMind CEO가 프론티어 AI 모델의 안전성 검증과 출시 기준을 정하기 위해 금융감시기관 FINRA를 모델로 한 독립적인 AI 표준 기구 설립을 제안했다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2151467531.jpg?resize=1200,800",
+    "score": 6.273,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "deepmind"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "ChatGPT returns to WhatsApp in Europe after EU forces Meta to open the door to rival AI bots",
+    "url": "https://the-decoder.com/chatgpt-returns-to-whatsapp-in-europe-after-eu-forces-meta-to-open-the-door-to-rival-ai-bots/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-07-14T12:02:06+00:00",
+    "raw_excerpt": "OpenAI has re-enabled ChatGPT on WhatsApp, but only in the European Economic Area, covering the 27 EU member states plus Liechtenstein, Iceland, and Norway. The article ChatGPT returns to WhatsApp in Europe after EU forces Meta to open the door to rival AI bots appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "EU의 규제 압박으로 Meta가 경쟁사 AI 봇 접근을 허용하게 되면서 OpenAI의 ChatGPT가 유럽 지역 WhatsApp에서 복귀했다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/whatsapp-logo-generated-image-nano-banana-pro.jpg",
+    "score": 5.879,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Claude responds with more warmth in Hindi and more rigor in Russian, showing how language shapes AI answers",
+    "url": "https://the-decoder.com/claude-values-study/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-07-14T11:00:12+00:00",
+    "raw_excerpt": "A new Anthropic study maps hundreds of value concepts derived from thousands of individual terms onto four core dimensions. It reveals systematic differences across Claude models and languages, but also raises methodological questions. Anthropic has published a study examining which values Claude expresses in conversations and how those values shift depending on the model and language used. [ ] The article Claude responds with more warmth in Hindi and more rigor in Russian, showing how language shapes AI answers appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Anthropic 연구에서 Claude가 언어에 따라 다른 가치관을 표현하는 양상을 분석했으며, 힌디어에서는 따뜻함을, 러시아어에서는 엄밀함을 더 많이 보였다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/Claude-Values-1200x670.png",
+    "score": 5.808,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "How to manage AI investments in the agentic era",
+    "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-07-14T10:00:00+00:00",
+    "raw_excerpt": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "기업이 AI 에이전트 시대에 투자를 효율적으로 관리하기 위해 달러당 유용한 작업량 측정, 효율성 개선, 고가치 워크플로우 확대를 실행해야 한다.",
+    "thumbnail": "",
+    "score": 5.808,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "OpenAI pushes back on Apple trade secret lawsuit",
+    "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-07-14T22:07:42+00:00",
+    "raw_excerpt": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI가 Apple의 영업비밀 침해 소송에 대해 소송이 근거가 부족하다며 반박했다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+    "score": 5.748,
+    "engagement": 0,
+    "matched_keywords": [
+      "openai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
+    "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-07-14T21:50:11+00:00",
+    "raw_excerpt": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI의 최신 모델 GPT-5.6 Sol이 경고 없이 파일을 삭제하는 문제가 지속적으로 보고되고 있으며, 이는 6월에 이미 공개된 문제입니다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+    "score": 5.728,
+    "engagement": 0,
+    "matched_keywords": [
+      "openai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "I've used the iOS 27 beta for a month: 7 ways the new Siri is dramatically better",
+    "url": "https://www.zdnet.com/article/public-beta-ios-27-siri-ai-hands-on-testing/",
+    "source": "ZDNet (Global, AI)",
+    "source_type": "rss",
+    "published_at": "2026-07-14T20:15:17+00:00",
+    "raw_excerpt": "Siri AI is the star of iOS 27, and now most iPhone users can try it with the first public beta of the OS.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "iOS 27 베타에서 AI 기반으로 대폭 개선된 새로운 Siri가 공개 베타를 통해 iPhone 사용자들이 직접 체험할 수 있게 되었다.",
+    "thumbnail": "https://www.zdnet.com/a/img/resize/5c321dcd40097b00992b3769dc9f5df775b9745c/2026/07/14/e4f7cc42-a9fa-4aa2-85bb-dd5ddd4b8871/siri-ai-finding-files-on-an-iphone.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "score": 5.619,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone",
+    "url": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-07-14T19:39:39+00:00",
+    "raw_excerpt": "Overtone describes itself as \"a voice- and audio-forward service, enabled by AI, that provides highly curated introductions.\"",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Hinge 창립자가 음성 중심의 AI 데이팅 서비스 Overtone 구축을 위해 1,800만 달러를 조달했다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-960137688.jpg?resize=1200,600",
+    "score": 5.579,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Google faces another AI training lawsuit from major publishers",
+    "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-07-14T18:33:31+00:00",
+    "raw_excerpt": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "구글이 저작권 허가 없이 AI 학습에 출판사의 저작물을 무단 사용했다는 소송에 직면했다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
+    "score": 5.503,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Anthropic opens Claude for Teachers with a promise not to train models on student data",
+    "url": "https://the-decoder.com/anthropic-opens-claude-for-teachers-with-a-promise-not-to-train-models-on-student-data/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-07-14T17:24:27+00:00",
+    "raw_excerpt": "Anthropic is rolling out Claude for Teachers, a free offering for verified K-12 educators at US schools. The article Anthropic opens Claude for Teachers with a promise not to train models on student data appeared first on The Decoder .",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Anthropic이 미국 K-12 교육자를 위한 무료 Claude 서비스를 출시하며 학생 데이터를 모델 학습에 사용하지 않겠다고 약속했다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/anthropic-claude-for-teachers-book-apple-teaser.jpg",
+    "score": 5.424,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "DeepSeek needs more cash just weeks after closing its first $7 billion round",
+    "url": "https://the-decoder.com/deepseek-needs-more-cash-just-weeks-after-closing-its-first-7-billion-round/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-07-14T16:27:29+00:00",
+    "raw_excerpt": "DeepSeek is already raising again. The Chinese AI lab just closed its first funding round and needs capital for its own data centers and chips to keep its aggressive pricing strategy going. The article DeepSeek needs more cash just weeks after closing its first $7 billion round appeared first on The Decoder .",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "DeepSeek이 70억 달러 펀딩을 완료한 지 몇 주 만에 자체 데이터센터와 칩 구축을 위해 추가 자금을 모금하고 있다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/deepseek_red_whale.png",
+    "score": 5.358,
+    "engagement": 0,
+    "matched_keywords": [
+      "funding"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "OpenAI may announce a ChatGPT smart speaker this year",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-07-14T21:26:32+00:00",
+    "raw_excerpt": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a camera and additional sensors to \"understand\" your environment. The report comes just days after Apple filed a lawsuit against OpenAI that accused [ ]",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "OpenAI이 올해 ChatGPT와 대화할 수 있는 카메라와 센서가 탑재된 스마트 스피커 출시를 추진 중인 것으로 알려졌다.",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_4_CVirginia_D.png?quality=90&strip=all&crop=0%2C10.742221417566%2C100%2C78.515557164868&w=1200",
+    "score": 5.183,
+    "engagement": 0,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "12 YouTube default settings to change right now for a more enjoyable experience",
+    "url": "https://www.zdnet.com/article/12-youtube-settings-i-always-change-privacy-security-quality-autoplay/",
+    "source": "ZDNet (Global, AI)",
+    "source_type": "rss",
+    "published_at": "2026-07-14T12:20:00+00:00",
+    "raw_excerpt": "YouTube works well with default settings, but I tighten some privacy controls and enable a few features to make it even better.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "YouTube의 기본 설정을 조정하여 개인정보 보호와 사용자 경험을 개선할 수 있는 12가지 방법이 소개됐습니다.",
+    "thumbnail": "https://www.zdnet.com/a/img/resize/670adcd44278ab20c24a16ade8a17232d6284387/2026/07/14/54136fc3-4275-456f-906b-f886fcd070a3/youtube.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "score": 5.075,
+    "engagement": 0,
+    "matched_keywords": [
+      "privacy"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "The Download: Claude’s inner workings, and the future of world models",
+    "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
+    "source": "MIT Tech Review",
+    "source_type": "rss",
+    "published_at": "2026-07-14T12:10:00+00:00",
+    "raw_excerpt": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O Donnell When Anthropic announced last week that it had found a new window into its models’ “internal thoughts” as they reason through answers,",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Anthropic이 AI 모델의 내부 사고 과정을 들여다볼 수 있는 새로운 방법을 발견했으며, 이는 AI의 의사결정 메커니즘 이해에 중요한 진전을 의미한다.",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/07/thinking2.jpg?resize=1200,600",
+    "score": 5.063,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "\"실패 원인만 골라 강화학습\"…4분의 1 데이터로 상용 모델 넘은 '트레이스' 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212746",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-14T19:18:28+00:00",
+    "raw_excerpt": "AI 에이전트가 같은 실수를 반복하는 문제를 스스로 진단하고, 부족한 역량만 집중적으로 강화하는 새로운 학습 시스템이 등장했다. 스탠포드대학교 연구진은 최근 에이전트의 실패 원인을 자동 분석한 뒤 해당 역량만을 훈련할 수 있는 오픈소스 프레임워크 '트레이스(TRACE·Turning Recurrent Agent failures into Capability-targeted training Environments)'를 온라인 아카이브를 통해 공개했다.이 시스템을 적용한 270억개(27B) 규모의 오픈웨이트 모델은 소프트웨어 엔지니어링 벤",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "스탠포드 연구진이 AI 에이전트의 실패 원인을 자동 분석해 부족한 역량만 집중 훈련하는 '트레이스' 프레임워크를 공개했으며, 이를 적용한 27B 모델이 4분의 1 데이터로 상용 모델을 능가했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212746_216076_3638.png",
+    "score": 5.026,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "How data science teams use ChatGPT Work",
+    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-07-14T00:00:00+00:00",
+    "raw_excerpt": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "데이터 분석 팀이 ChatGPT Work로 근본 원인 분석부터 KPI 메모, 대시보드 명세까지 실무 산출물을 효율적으로 작성할 수 있다.",
+    "thumbnail": "",
+    "score": 4.995,
+    "engagement": 0,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "'유럽의 안두릴' 헬싱, 27조 가치로 2.7조 대형 투자 유치",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212757",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-14T18:06:34+00:00",
+    "raw_excerpt": "유럽 방위산업을 대표하는 AI 스타트업 헬싱(Helsing)이 180억달러(약 27조원)의 기업 가치를 인정받으며 18억달러(약 2조7000억원) 규모의 신규 투자 유치에 성공했다. 헬싱은 13일(현지시간) 신규 투자 라운드를 통해 18억달러를 조달했다고 발표했다.이번 투자에는 미국 투자사인 드라고니어 인베스트먼트 그룹과 라이트스피드가 주도했으며, JP모건 체이스와 골드만삭스, 캐나다 연금투자위원회, 아이코닉 등이 참여했다.헬싱은 \"투자 수요가 배정 물량을 크게 웃돌았다\"며 \"AI 기반 소프트웨어 중심 방위 기술에 대한 투자자들의",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "유럽의 방위산업 AI 스타트업 헬싱이 180억달러 기업가치로 18억달러 규모의 대형 투자를 유치했으며, 이는 방위 AI 기술에 대한 강한 투자자 수요를 반영한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212757_216094_5916.jpeg",
+    "score": 4.961,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업",
+      "투자 유치"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "베이글코드, 사내 1인 1에이전트 구축 완료…전사 협업 체계로 게임 개발 가속화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212752",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-14T16:22:20+00:00",
+    "raw_excerpt": "모바일 게임 전문 베이글코드(대표 윤일환, 김준영)는 전사 1인 1에이전트 업무 인프라 구축을 완료하고, 이를 게임 개발·라이브 운영·퍼블리싱 전반의 협업 효율을 높이는 팀 단위 협업 체계로 확장한다고 14일 밝혔다. 베이글코드는 올해 상반기 전 직원을 대상으로 사내 AI 에이전트 ‘에이전트B(AgentB)’ 배포를 완료했다. 에이전트의 안정적 구동을 위한 맥미니(Mac mini) 보급까지 마치며, 소프트웨어와 하드웨어를 아우르는 1인 1에이전트 업무 환경을 완비했다고 전했다. 에이전트B는 사내 데이터와 업무 맥락에 맞춰 각 구성원",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "베이글코드가 전 직원 대상 사내 AI 에이전트 '에이전트B' 배포를 완료하고 팀 단위 협업 체계로 확장해 게임 개발 효율을 높인다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212752_216083_012.jpg",
+    "score": 4.867,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
+    "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
+    "source": "MIT Tech Review",
+    "source_type": "rss",
+    "published_at": "2026-07-14T08:00:00+00:00",
+    "raw_excerpt": "The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid helium that keeps them only a few degrees above absolute zero.",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "PsiQuantum이 광자 기반의 초대형 양자컴퓨터를 개발 중이며, 이는 액체 헬륨으로 냉각되는 100개 규모의 스테인리스 캐비닛 구조로 구성될 예정이다.",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/07/PsiQuantum-0459-Headquarters-social.jpg?resize=1200,600",
+    "score": 4.777,
+    "engagement": 0,
+    "matched_keywords": [
+      "quantum"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "AI 에이전트로 로봇 학습용 가상세계 자동 생성…MIT·도요타연구소, '씬스미스' 오픈소스로 공개",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=40981",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-14T19:30:56+00:00",
+    "raw_excerpt": "최근 휴머노이드 로봇과 서비스 로봇이 빠르게 발전하고 있지만, 여전히 인간처럼 다양한 환경에서 복잡한 작업을 수행하는 데는 한계가 있다. 가장 큰 이유는 충분한 학습 데이터를 확보하기 어렵기 때문이다.인간은 실제 경험을 통해 학습하지만 로봇은 수많은 환경과 상황을 직접 경험해야 한다. 문제는 실제 공간에서 로봇에게 다양한 작업을 반복적으로 가르치는 과정이 시간과 비용 측면에서 매우 비효율적이라는 점이다.이에 따라 로봇 업계에서는 가상 환경에서 먼저 학습한 뒤 실제 환경으로 전이하는 '시뮬레이션 기반 학습(Simulation Trai",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "MIT와 도요타연구소가 AI 에이전트로 로봇 학습용 가상세계를 자동 생성하는 오픈소스 '씬스미스'를 공개해 로봇의 효율적인 학습 데이터 확보 문제를 해결하고자 한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/40981_61750_2715_v150.jpg",
+    "score": 4.65,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "\"한국어 쓰는 클로드, 더 다정하다\"…앤트로픽, 언어·모델별 가치 분석 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212765",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-14T19:04:59+00:00",
+    "raw_excerpt": "사용하는 언어에 따라 '클로드'가 표현하는 가치 성향이 크게 달라진다는 연구 결과가 나왔다. 특히 한국어는 글로벌 평균과 비교해 사용자의 감정에 공감하고 위로를 건네는 ‘따뜻함’과 ‘수용성’이 가장 두드러지는 것으로 나타났다.앤트로픽은 14일 '모델과 언어에 따른 클로드의 가치 표현' 연구를 공개했다. 실제 사용자와의 대화를 바탕으로 클로드가 모델별, 언어별로 어떤 가치를 표현하는지 측정한 결과다.개인정보 보호 기법을 적용해 약 31만건의 익명 대화를 분석했으며, 클로드 3개 모델(소네트 4.6, 오퍼스 4.6 및 4.7)과 사용량",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "앤트로픽이 공개한 연구에 따르면 한국어 사용 시 클로드가 글로벌 평균보다 공감과 위로의 '따뜻함'을 더 많이 표현하는 것으로 나타났다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212765_216099_5256.png",
+    "score": 4.364,
+    "engagement": 0,
+    "matched_keywords": [
+      "개인정보"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+    "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-07-13T23:31:18+00:00",
+    "raw_excerpt": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Nous Research가 로봇 벤처스 주도로 최소 7,500만 달러를 조달하며 15억 달러 기업가치로 평가받고 있습니다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/GjsjauvbsAAgUtD.jpeg?w=900",
+    "score": 4.194,
+    "engagement": 0,
+    "matched_keywords": [
+      "funding"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "해외 신소재 기업 광양경자청 찾아 투자 상담",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212769",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-14T15:25:00+00:00",
+    "raw_excerpt": "광양만권경제자유구역청(청장 구충곤)은 14일 해외 신소재 분야 잠재투자기업이 황금산단, 세풍산단, 광양항 배후 부지 등을 방문하고 투자 상담을 진행했다고 밝혔다.이번 잠재투자기업 A사는 항공우주와 반도체 분야 첨단소재를 생산하는 기업이며, 광양만권 투자 환경에 관심을 보여 방문이 추진됐다.구충곤 광양경자청장은 \"광양만권은 이차전지·반도체 등 첨단소재 산업의 핵심 거점으로 성장하고 있으며, 글로벌 신소재 기업들이 안정적으로 투자할 수 있는 최적의 환경을 갖추고 있다”며 \"이번 방문이 실질적인 투자로 이어질 수 있도록 맞춤형 행정 지원",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "해외 항공우주·반도체 신소재 기업이 광양만권경자유구역의 산단 부지를 방문해 투자 상담을 진행했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212769_216104_2047.jpg",
+    "score": 4.165,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Dependabot version updates introduce default package cooldown",
+    "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-14T21:15:51+00:00",
+    "raw_excerpt": "Article URL: https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/ Comments URL: https://news.ycombinator.com/item?id=48913050 Points: 27 # Comments: 6",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Dependabot의 버전 업데이트 기능에 패키지 쿨다운 기본값이 추가되어 업데이트 빈도를 제어할 수 있게 되었습니다.",
+    "thumbnail": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-improvements.jpg",
+    "score": 4.137,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Same model, same Q4_K_M label: 5.02, 5.07 and 5.27 bits per weight",
+    "url": "https://github.com/logxio/picchio",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-14T21:06:11+00:00",
+    "raw_excerpt": "Article URL: https://github.com/logxio/picchio Comments URL: https://news.ycombinator.com/item?id=48912947 Points: 7 # Comments: 1",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "동일한 모델과 양자화 레이블에도 불구하고 실제 비트 무게가 5.02, 5.07, 5.27로 다르게 측정되는 문제가 보고되었습니다.",
+    "thumbnail": "https://opengraph.githubassets.com/5fecfe47529a2247e48b2d7d7dcda747ec8e92d71a947097ae91bb3910e51fb6/logxio/picchio",
+    "score": 4.129,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "How I use HTMX with Go",
+    "url": "https://www.alexedwards.net/blog/how-i-use-htmx-with-go",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-14T19:55:31+00:00",
+    "raw_excerpt": "Article URL: https://www.alexedwards.net/blog/how-i-use-htmx-with-go Comments URL: https://news.ycombinator.com/item?id=48912175 Points: 32 # Comments: 2",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Go 언어와 HTMX를 함께 사용하는 웹 개발 방식을 소개한 기술 블로그가 해커뉴스에서 주목받고 있습니다.",
+    "thumbnail": "",
+    "score": 4.07,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "StubHub, CEO hit with ‘deceptive practices’ class action over mass scalping",
+    "url": "https://www.cbc.ca/news/world/stubhub-ceo-class-action-scalping-9.7268987",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-14T19:48:36+00:00",
+    "raw_excerpt": "Article URL: https://www.cbc.ca/news/world/stubhub-ceo-class-action-scalping-9.7268987 Comments URL: https://news.ycombinator.com/item?id=48912100 Points: 68 # Comments: 26",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "StubHub과 CEO가 대량 티켓 되팔기를 통한 기만 행위로 집단소송을 당했습니다.",
+    "thumbnail": "https://i.cbc.ca/ais/1828decc-4c1c-455f-a98d-79e258477071,1783985197122/full/max/0/default.jpg?im=Crop%2Crect%3D%28392%2C981%2C5169%2C2907%29%3BResize%3D620",
+    "score": 4.065,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Kontigo (YC S24) Is Hiring (Head of Security)",
+    "url": "https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-14T17:00:17+00:00",
+    "raw_excerpt": "Article URL: https://www.ycombinator.com/companies/kontigo/jobs/uNttrlv-head-of-security Comments URL: https://news.ycombinator.com/item?id=48909820 Points: 0 # Comments: 0",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Y Combinator S24 배치 회사인 Kontigo가 보안 책임자(Head of Security) 채용을 진행 중입니다.",
+    "thumbnail": "https://bookface-images.s3.amazonaws.com/logos/021205547e8691c3f3d6448bac786086900d5b0e.png?1718238521",
+    "score": 3.924,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "The Tower Keeps Rising",
+    "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-14T16:57:54+00:00",
+    "raw_excerpt": "Article URL: https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/ Comments URL: https://news.ycombinator.com/item?id=48909785 Points: 279 # Comments: 135",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Armin Ronacher의 블로그 글로 추정되는 이 기사는 기술 복잡성의 지속적인 증가 문제를 다루고 있으며, 개발자 커뮤니티에서 높은 관심을 받고 있습니다.",
+    "thumbnail": "https://lucumr.pocoo.org/social/2026-07-13-the-tower-keeps-rising-social.png",
+    "score": 3.922,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
+    "url": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-14T16:36:06+00:00",
+    "raw_excerpt": "Article URL: https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/ Comments URL: https://news.ycombinator.com/item?id=48909424 Points: 327 # Comments: 203",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Linux에서 X11과 Wayland, VRR, DXVK 간 입력 지연을 측정한 결과 Wayland가 더 낮은 지연시간을 보였습니다.",
+    "thumbnail": "https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/index.png",
+    "score": 3.904,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "The Agentic Loop: Three loops in a trench coat",
+    "url": "https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-14T14:39:56+00:00",
+    "raw_excerpt": "Article URL: https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a Comments URL: https://news.ycombinator.com/item?id=48907672 Points: 62 # Comments: 13",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "AI 에이전트의 의사결정 과정을 세 가지 루프 구조로 분석한 기술 분석 글이 해커 뉴스에서 주목받고 있습니다.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!QJH4!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc03157ad-d8f9-4584-a614-6451ee1739ca_1456x821.webp",
+    "score": 3.807,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Guardian Angels: LLM Personalization for Productivity and Security",
+    "url": "https://gwern.net/guardian-angel",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-14T12:50:29+00:00",
+    "raw_excerpt": "Article URL: https://gwern.net/guardian-angel Comments URL: https://news.ycombinator.com/item?id=48906041 Points: 41 # Comments: 3",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "LLM을 개인맞춤형으로 활용하여 생산성과 보안을 동시에 향상시키는 '가디언 엔젤' 개념이 제시되었습니다.",
+    "thumbnail": "https://gwern.net/doc/ai/nn/transformer/gpt/dall-e/4o/2026-06-13-gwern-gpt55pro-claude48opus-chatgptimages20-gaplusquill-guardianangellogo.jpg",
+    "score": 3.716,
+    "engagement": 0,
+    "matched_keywords": [
+      "productivity"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "How to stop Claude from saying load-bearing",
+    "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-14T11:46:02+00:00",
+    "raw_excerpt": "Article URL: https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing Comments URL: https://news.ycombinator.com/item?id=48905248 Points: 383 # Comments: 435",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Claude의 \"load-bearing\" 표현 사용을 줄이는 방법에 대한 글이 해커뉴스 프론트페이지에서 383포인트를 기록했으며 435개의 댓글이 달렸습니다.",
+    "thumbnail": "https://jola.dev/images/og/posts/how-to-stop-claude-from-saying-load-bearing.png",
+    "score": 3.662,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "물류 자동화가 현장에서 무너지는 진짜 이유 (feat. 콜로세움)",
+    "url": "https://byline.network/2026/07/14_29182773/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-07-14T14:35:17+00:00",
+    "raw_excerpt": "콜로세움이 내린 결론은 물류 자동화에서 진짜 발목을 잡는 건 개별 설비의 성능이 아니라, 설비를 들이기까지의 과정이라는 겁니다. 이 때문에 도입 이전 과정부터 꼼꼼히, 그리고 빠르게 나아가야 한다고 판단하고 있습니다.",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "물류 자동화의 성공을 좌우하는 것은 설비 성능이 아닌 도입 전 준비 과정이라는 콜로세움의 분석이 업계의 실패 원인을 지적한다.",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/07/Colosseum-Vault-Ground-2026.jpg",
+    "score": 3.487,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "비트코인 현물 ETF, 국내 상장 길 열린다…정부 하반기 도입 추진",
+    "url": "https://www.etnews.com/20260714000493",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-07-14T09:38:07+00:00",
+    "raw_excerpt": "정부가 올해 하반기 비트코인 등 가상자산 현물을 기초자산으로 하는 상장지수펀드(ETF) 도입을 위한 법 개정 지원에 나선다. 디지털자산 업종을 세분화하고 스테이블코인의 발행·유통 체계를 규율하는 '디지털자산기본법' 입법도 함께 추진한다. 정부는 14일 관계부처 합동으로 발표한 '2026년 하반기 경제성장전략'에서 이 같은 내용의 '블록체인 이코노미 활성화' 방안을 공개했다. 정부는 디지털자산기본법 제정을 통해 디지털자산 사업자의 업종을 세분화하",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "정부가 비트코인 현물 ETF의 국내 상장을 위해 올해 하반기부터 법 개정을 지원하고 디지털자산기본법 입법을 함께 추진한다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/07/14/rcv.YNA.20260714.PYH2026071408120001300_P1.jpg",
+    "score": 3.463,
+    "engagement": 0,
+    "matched_keywords": [
+      "입법",
+      "스테이블코인"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "새로운 로크웰 오토메이션 보고서에 따르면, 제조업체의 93%가 MES를 보유하고 있지만, 완전히 통합한 곳은 23%에 불과함",
+    "url": "https://zdnet.co.kr/view/?no=20260715001004",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-14T15:10:04+00:00",
+    "raw_excerpt": "[지디넷코리아] 제조업체는 설치된 MES를 전사적 성능으로 전환하고 있지만 대부분은 확장에 어려움을 겪고 있습니다. 밀워키, 2026년 7월 14일 /PRNewswire/ -- 세계 최대의 산업 자동화 및 디지털 전환 전문 기업인 Rockwell Automation, Inc.(NYSE: ROK)가 오늘 17개국 1,560명의 제조 및 산업 운영 의사 결정권자들의 의견을 바탕으로 한 업계 인사이트 보고서인 \"전사적 MES 확장\"을 발표했습니다. 연구에 따르면 제조 실행 시스템(MES)이 널리 도입되었음에도 불구하고, 성과 향상, 통합 및 장기적 가치를 추구하는 제조업체에게 전사적으로 MES를 확장하는 것은 중대한 과제가 되었습니다. Rockwell Automation's \"Scaling MES Across the Enterprise\" report offers insights on the MES maturity gap 대부분의 제조업체는 최소한 한 곳의 시설에서 MES를 운영하고 있습니다. 그러나 시스템 간의 단절, 데이터의 미활용, 증가하는 운영 리스크와 같은 요인들로 인해, 이미 투자한 설비에서 제조업체가 얻을 수 있는 가치를 제한하고 있어, 모든 현장에서 이를 일관되게 구현한 사례는 훨씬 적습니다. 보고서의 주요 결과는 다음과 같습니다. MES의 높은 도입률에도 불구하고 확장은 저조: 93%의 제조업체가 MES를 도입했으나, 전사적",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "Rockwell Automation 보고서에 따르면 제조업체의 93%가 MES를 도입했지만 전사적으로 완전히 통합한 곳은 23%에 불과해 확장의 어려움이 드러났습니다.",
+    "thumbnail": "https://mmx.prnasia.com/media/MS1882062/MES-SoSM-Press-Release-Image.jpg?id=OA2761565&p=medium600",
+    "score": 3.324,
+    "engagement": 0,
+    "matched_keywords": [
+      "디지털 전환",
+      "현장"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Precursor: 전체 세션에서 에이전트 행동을 탐지하는 Cloudflare 시스템",
+    "url": "https://news.hada.io/topic?id=31437",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-07-14T15:36:33+00:00",
+    "raw_excerpt": "로그인·가입·결제 같은 개별 검증 지점만으로는 실제 브라우저와 JavaScript를 활용하는 자동화를 가려내기 어려워지자, Cloudflare는 전체 사용자 여정의 행동 신호 를 연속 분석하는 Precursor를 도입함 HTML 응답에 동적으로 조립된 경량 JavaScript를 삽입해 포인터 이동, 키보드...",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Cloudflare가 사용자 세션 전체의 행동 신호를 연속 분석해 자동화된 에이전트를 탐지하는 Precursor 시스템을 도입했습니다.",
+    "thumbnail": "https://social.news.hada.io/topic/31437",
+    "score": 3.212,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  }
+]
