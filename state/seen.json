@@ -1461,7 +1461,7 @@
     "ec2ec114078ce20f": "https://cdn.byline.network/wp-content/uploads/2026/07/0715.jpg",
     "d3e476676a9fbb17": "https://image.zdnet.co.kr/2026/07/15/cbf5110b94e38f98342f2082c2402dbe.jpg"
   },
-  "last_sent_date": "2026-07-15",
+  "last_sent_date": "2026-07-16",
   "sent": {
     "2026-07-08": [
       "morning",
@@ -1492,6 +1492,9 @@
       "morning",
       "noon",
       "evening"
+    ],
+    "2026-07-16": [
+      "morning"
     ]
   }
 }
