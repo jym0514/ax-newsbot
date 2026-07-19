@@ -1,0 +1,821 @@
+[
+  {
+    "title": "딥시크를 넘어 '키미 K3' 까지…중국 AI의 대반격, 글로벌 AI 경쟁 가속",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41030",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-18T17:10:37+00:00",
+    "raw_excerpt": "지난 14일 중국 인공지능(AI) 스타트업 문샷AI(Moonshot AI)가 차세대 초거대 오픈모델 '키미 K3(Kimi K3-보기)'를 공개하자 글로벌 AI 업계와 개발자 커뮤니티가 즉각 반응했다. 겉으로 보기에는 또 하나의 대형언어모델(LLM) 출시처럼 보일 수 있다. 그러나 시장이 주목한 것은 단순한 신모델 발표가 아니었다.이번 공개는 AI 경쟁의 중심축이 바뀌고 있음을 보여주는 상징적 사건에 가깝다. 오픈AI(OpenAI), 앤트로픽(Anthropic), 구글 딥마인드(Google DeepMind)가 주도해 온 최첨단 AI",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "중국 문샷AI가 '키미 K3'를 공개하며 오픈AI 등 미국 주도의 AI 경쟁 구도가 흔들리고 있음을 보여줬다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/41030_61827_4640_v150.jpg",
+    "score": 5.733,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "llm",
+      "openai",
+      "오픈ai",
+      "anthropic",
+      "deepmind",
+      "딥마인드"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Moonshot's Kimi K3 outperforms Fable 5 in frontend code but lags far behind in complex math",
+    "url": "https://the-decoder.com/moonshots-kimi-k3-outperforms-fable-5-in-frontend-code-but-lags-far-behind-in-complex-math/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-07-19T09:32:19+00:00",
+    "raw_excerpt": "Moonshot's Kimi K3 is the first Chinese model to top the Code Arena: Frontend rankings, beating Claude Fable 5 and GPT-5.6 Sol by a wide margin. But on advanced math, the gap is stark: Kimi K3 scores only about 39 percent on FrontierMath Tier 4, while models from OpenAI and Anthropic hit close to 90. The article Moonshot s Kimi K3 outperforms Fable 5 in frontend code but lags far behind in complex math appeared first on The Decoder .",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "중국 AI 모델 Moonshot의 Kimi K3가 프론트엔드 코드 성능에서 Claude Fable 5를 압도하지만 고급 수학 문제에서는 OpenAI, Anthropic 모델들에 크게 뒤진다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/kimi_logo.png",
+    "score": 5.708,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "gpt-5"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+    "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-07-19T19:24:45+00:00",
+    "raw_excerpt": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Apple의 소송이 OpenAI의 하드웨어 사업 진출과 상장 계획에 미칠 영향에 대한 논의.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/05/portrait.jpg?w=1000",
+    "score": 5.562,
+    "engagement": 0,
+    "matched_keywords": [
+      "openai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+    "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-07-19T14:52:08+00:00",
+    "raw_excerpt": "\"Everybody knows the Greeks are inside.\"",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "영화감독 Christopher Nolan이 AI를 기술 업계에 숨겨진 위험을 끌어들이는 '트로이 목마'라고 경고했다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2285660756.jpg?w=1024",
+    "score": 5.249,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+    "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-07-19T14:00:00+00:00",
+    "raw_excerpt": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Current AI가 모든 문화를 포함하는 AI 개발을 위해 비영리 단체로서 기기와 AI 채팅 등 다양한 분야에서 진전을 이루고 있습니다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1370479417.jpg?resize=1200,806",
+    "score": 5.19,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Alibaba's Qwen takes on Kimi K3 with open-weight Qwen 3.8, says model is \"second only to Fable 5\"",
+    "url": "https://the-decoder.com/alibabas-qwen-takes-on-kimi-k3-with-open-weight-qwen-3-8-says-model-is-second-only-to-fable-5/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-07-19T12:07:06+00:00",
+    "raw_excerpt": "Alibaba has unveiled Qwen 3.8, a multimodal AI model with 2.4 trillion parameters that the Qwen team says rivals leading models and trails only Fable 5. A preview is available now. The article Alibaba s Qwen takes on Kimi K3 with open-weight Qwen 3.8, says model is second only to Fable 5 appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "알리바바가 2.4조 개 파라미터 규모의 멀티모달 AI 모델 Qwen 3.8을 공개했으며, 개발팀은 이것이 Fable 5 다음으로 우수하다고 주장합니다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/qwen_logo-1.png",
+    "score": 5.06,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "I hate that I don’t hate this song made with Suno",
+    "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-07-19T17:35:54+00:00",
+    "raw_excerpt": "I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the outputs of Suno. So I'm having a bit of a tough time processing the fact that [ ]",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Suno AI 음악 생성 도구로 만든 곡이 예상과 달리 흥미로워서 생성 AI 음악에 대한 편견을 재고하게 되었다.",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-19-at-1.30.30-PM.png?quality=90&strip=all&crop=0%2C3.7236463698791%2C100%2C53.407996633678&w=1200",
+    "score": 4.943,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Google Deepmind argues video generators already contain the world models computer vision has been missing",
+    "url": "https://the-decoder.com/google-deepmind-argues-video-generators-already-contain-the-world-models-computer-vision-has-been-missing/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-07-19T10:17:49+00:00",
+    "raw_excerpt": "Google Deepmind's GenCeption repurposes a video generator for classic vision tasks such as depth estimation and segmentation, matching state-of-the-art systems with far less training data. The model trained almost entirely on synthetic videos. Its results add to the debate over whether video generators already contain a kind of universal world model. The article Google Deepmind argues video generators already contain the world models computer vision has been missing appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Google Deepmind가 비디오 생성 모델이 컴퓨터 비전이 찾던 세계 모델을 이미 담고 있다고 주장하며, 적은 학습 데이터로도 최고 수준의 깊이 추정과 분할 성능을 달성했다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/google-deepmind-genception-generated-image-nano-banana-pro.jpg",
+    "score": 4.935,
+    "engagement": 0,
+    "matched_keywords": [
+      "deepmind"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "삼성전자, 프리미엄 ‘폴드8 울트라'·AI 안경 출격 준비",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212916",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-20T05:13:48+00:00",
+    "raw_excerpt": "삼성전자는 22일(현지시간) 영국 런던에서 하반기 신제품 공개 행사인 ‘갤럭시 언팩 2026’을 열고 신형 폴더블 스마트폰과 스마트워치, 스마트안경 등을 공개한다.19일 업계에 따르면 삼성전자는 이번 언팩에서 폴더블 스마트폰 '갤럭시 Z' 시리즈 3종과 갤럭시 워치, 안드로이드 기반 '갤럭시 글래스' 등을 대거 선보일 예정이다.가장 큰 변화는 '갤럭시 Z'의 프리미엄 라인업 도입이다. 삼성전자는 기존 기본형 및 플립 구성에서 ‘갤럭시 Z 폴드8 울트라' 모델을 추가한다. 해당 모델은 8인치 디스플레이에 종전 폴드 시리즈의 3대2 화",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "삼성전자가 런던에서 갤럭시 Z 폴드8 울트라 등 신형 폴더블 스마트폰과 AI 안경을 공개하며 프리미엄 라인업을 강화한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212916_216280_2537.jpg",
+    "score": 4.914,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "\"엔비디아 내부서도 GPU 확보 전쟁...젠슨 황이 직접 중재\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212914",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-19T16:35:35+00:00",
+    "raw_excerpt": "엔비디아 내부에서도 GPU 확보를 위한 치열한 경쟁이 벌어지고 있는 것으로 확인됐다. 세계적인 AI 열풍으로 데이터센터용 칩 주문이 폭주하는 가운데, 정작 엔비디아의 미래 핵심 사업인 자율주행 사업부조차 컴퓨팅 자원을 배정받기 위해 젠슨 황 CEO의 중재를 거쳐야 하는 실정으로 알려졌다.신조 우 엔비디아 차량용 반도체 부문 부사장은 최근 '디코더(Decoder)' 팟캐스트에 출연해 \"전 세계 모든 GPU가 예약돼 있어, 우리는 내부적으로도 컴퓨팅 자원 확보를 위한 치열한 다툼을 벌이고 있다\"라고 밝혔다.우 부사장에 따르면, 엔비디아",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "엔비디아 내부에서도 GPU 부족으로 자율주행 등 사업부 간 자원 배분 경쟁이 심화되어 CEO 젠슨 황이 직접 중재할 정도로 공급난이 심각한 상황이다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212914_216277_3431.png",
+    "score": 4.879,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "gpu"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "AI text detectors struggle when language models mimic an author's style",
+    "url": "https://the-decoder.com/ai-text-detectors-struggle-when-language-models-mimic-an-authors-style/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-07-19T08:35:26+00:00",
+    "raw_excerpt": "Epoch AI tested three leading AI text detectors (Pangram, GPTZero, and Originality.ai) using style-imitated texts. Up to 18 percent of AI-generated passages went undetected. For scientific writing, the miss rate climbed as high as 48 percent, the very genre where these detectors likely see the most real-world use. The article AI text detectors struggle when language models mimic an author s style appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AI 텍스트 감지 도구들이 언어 모델이 저자의 문체를 모방할 때 최대 48%까지 탐지에 실패하는 것으로 나타났다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/ai_tet_detector-1200x670.png",
+    "score": 4.818,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Birdfy s solar-powered smart feeder is down to one of its best prices",
+    "url": "https://www.theverge.com/gadgets/967336/birdfy-feeder-ai-powered-smart-bird-feeder-with-camera-deal-sale",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-07-19T15:00:00+00:00",
+    "raw_excerpt": "Birdfy has kicked off a midyear sale, taking up to 40 percent off a range of its smart bird feeders. One of the best deals is on Netvue’s Birdfy Feeder AI-Powered Smart Bird Feeder with Camera, which has dropped to $149.99 at Birdfy and is its second-best price to date. The bundle, which includes a [ ]",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Birdfy가 스마트 새 먹이통에 최대 40% 할인하는 세일을 진행 중이며, AI 카메라 기능의 Birdfy Feeder가 역대 두 번째 저가인 $149.99로 내려갔다.",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Netvue-Birdfy-Lifestyle-Image.webp?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+    "score": 4.78,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Jurassic Park packed $4M of legit 1993 computer hardware",
+    "url": "https://www.tomshardware.com/desktops/jurassic-park-packed-usd4-million-of-legit-1993-computer-hardware-a-software-engineer-detailed-every-single-piece-of-hardware-in-the-film",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-19T22:07:07+00:00",
+    "raw_excerpt": "Article URL: https://www.tomshardware.com/desktops/jurassic-park-packed-usd4-million-of-legit-1993-computer-hardware-a-software-engineer-detailed-every-single-piece-of-hardware-in-the-film Comments URL: https://news.ycombinator.com/item?id=48972082 Points: 4 # Comments: 1",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "영화 '쥐라기공원'에 1993년 당시 400만 달러 규모의 실제 컴퓨터 하드웨어가 사용되었으며, 한 소프트웨어 엔지니어가 영화에 등장한 모든 장비를 상세히 분석했다.",
+    "thumbnail": "",
+    "score": 4.18,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Claude Code uses Bun written in Rust now",
+    "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-19T10:03:23+00:00",
+    "raw_excerpt": "Article URL: https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/ Comments URL: https://news.ycombinator.com/item?id=48966569 Points: 357 # Comments: 471",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Claude Code가 Rust로 작성된 Bun 런타임을 사용하기 시작했습니다.",
+    "thumbnail": "",
+    "score": 4.177,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "claude code"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "How to Abandon Your Climate Commitments and Get Away with It",
+    "url": "https://www.nytimes.com/2026/07/17/climate/company-climate-change-commitments-renege.html",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-19T21:24:03+00:00",
+    "raw_excerpt": "Article URL: https://www.nytimes.com/2026/07/17/climate/company-climate-change-commitments-renege.html Comments URL: https://news.ycombinator.com/item?id=48971781 Points: 5 # Comments: 0",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "기업들이 기후 공약을 철회하면서 책임 회피 수단을 악용하고 있는 현황을 다룬 뉴욕타임스 기사.",
+    "thumbnail": "",
+    "score": 4.144,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "A new Intel Itanium (IA-64) emulator that boots Windows",
+    "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-19T20:50:42+00:00",
+    "raw_excerpt": "Article URL: https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html Comments URL: https://news.ycombinator.com/item?id=48971566 Points: 21 # Comments: 11",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Intel Itanium(IA-64) 에뮬레이터가 Windows 부팅에 성공했다.",
+    "thumbnail": "",
+    "score": 4.117,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Modder Runs GTA III Inside GTA: San Andreas on an In-Game TV",
+    "url": "https://videocardz.com/newz/modder-runs-gta-iii-inside-gta-san-andreas-on-an-in-game-tv",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-19T19:27:16+00:00",
+    "raw_excerpt": "Article URL: https://videocardz.com/newz/modder-runs-gta-iii-inside-gta-san-andreas-on-an-in-game-tv Comments URL: https://news.ycombinator.com/item?id=48970991 Points: 45 # Comments: 10",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "모더가 GTA: San Andreas의 게임 내 TV에서 GTA III를 실행하는 에뮬레이션 기법을 구현했습니다.",
+    "thumbnail": "",
+    "score": 4.047,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "HomeLab #1: MikroTik as a Home Router",
+    "url": "https://justsomebody.dev/blog/mikrotik-home-router",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-19T18:57:01+00:00",
+    "raw_excerpt": "Article URL: https://justsomebody.dev/blog/mikrotik-home-router Comments URL: https://news.ycombinator.com/item?id=48970772 Points: 48 # Comments: 35",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "MikroTik을 가정용 라우터로 설정하는 방법을 다룬 홈랩 가이드가 관심을 받고 있습니다.",
+    "thumbnail": "",
+    "score": 4.022,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "HMD Touch 4G",
+    "url": "https://www.hmd.com/en_int/hmd-touch-4g",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-19T17:25:03+00:00",
+    "raw_excerpt": "Article URL: https://www.hmd.com/en_int/hmd-touch-4g Comments URL: https://news.ycombinator.com/item?id=48969983 Points: 55 # Comments: 53",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "HMD가 4G 지원 저가 휴대폰 HMD Touch 4G를 출시했습니다.",
+    "thumbnail": "https://images.ctfassets.net/wcfotm6rrl7u/7wl5L7zEvmxcSEk731SC8r/9f41629703d9f243ca23ab22fc73ec71/HMD_Touch_4G-OG_Image.jpg?w=1200",
+    "score": 3.945,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "The Last MPEG-4 Visual Patent Has Expired",
+    "url": "https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-19T16:45:17+00:00",
+    "raw_excerpt": "Article URL: https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired Comments URL: https://news.ycombinator.com/item?id=48969635 Points: 120 # Comments: 29",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "MPEG-4 Visual의 마지막 특허가 만료되어 로열티 걱정 없이 자유롭게 사용 가능해졌습니다.",
+    "thumbnail": "https://www.phoronix.net/image.php?id=2026&image=mpeg4_last_patent",
+    "score": 3.912,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "C64 Basic Dungeon Crawler: Goblin Attack (C64 Basic Part 8)",
+    "url": "https://retrogamecoders.com/c64-basic-dungeon-part8/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-19T15:20:22+00:00",
+    "raw_excerpt": "Article URL: https://retrogamecoders.com/c64-basic-dungeon-part8/ Comments URL: https://news.ycombinator.com/item?id=48968949 Points: 50 # Comments: 2",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Commodore 64 BASIC으로 던전 크롤러 게임을 개발하는 튜토리얼 시리즈의 8부에서 고블린 공격 기능을 구현했다.",
+    "thumbnail": "https://retrogamecoders.com/wp-content/uploads/2026/07/c64-dungeon-crawler-coding-lesson-8-commodore-basic-roguelike-programming.png",
+    "score": 3.841,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "앤트로픽, '페이블 5' 정식 요금제 편입...프로모션 종료하고 '50% 제한'",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212908",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-19T09:24:31+00:00",
+    "raw_excerpt": "앤트로픽이 '페이블 5'의 한시적 무료 프로모션을 종료하고, 정식 유료 플랜 정책으로 전환한다. 최근까지 'GPT-5.6'의 공세를 막아내기 위해 연장해 왔던 전면 개방을 마무리하고, 인프라 비용 부담과 수요 예측 한계를 감안해 본격적인 수익화 및 사용량 통제 전략으로 선회한 것으로 분석된다.앤트로픽은 18일(현지시간) X를 통해 20일부터 페이블 5를 모든 '맥스' 및 '팀 프리미엄' 요금제에 정식 포함하며, 주간 사용량의 50% 제한을 적용한다고 발표했다.이에 따라 기존의 '프로'와 '팀 스탠다드' 이용자들은 정기 구독 범위 내",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "앤트로픽이 클로드 '페이블 5'의 무료 프로모션을 종료하고 20일부터 정식 유료 플랜에 편입하며 주간 사용량 50% 제한을 적용한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212908_216270_2129.jpg",
+    "score": 3.84,
+    "engagement": 0,
+    "matched_keywords": [
+      "gpt-5"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "광양, 전남 중·고생 SW코딩캠프 모집…20개 팀 선착순",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212860",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-19T09:10:00+00:00",
+    "raw_excerpt": "AI 생성 영상광양시가 전남지역 중·고등학생을 대상으로 ‘2026년 SCNU 전남청소년 SW코딩캠프’ 참가팀을 모집한다고 16일 밝혔다.학생들은 현장에서 공개되는 주제에 맞춰 C와 C++, 파이썬 가운데 한 가지 언어를 선택해 프로그램을 제작하고 팀별 발표와 질의응답에 참여한다.이번 캠프는 국립순천대학교 SW중심대학사업단이 주최·주관하며, 9월5일 오전 9시30분부터 오후 6시까지 광양시 커뮤니티센터에서 열린다.모집 대상은 전남 소재 중·고등학생이다. 참가팀은 2명에서 4명으로 구성해야 하며, 모두 20개 팀을 선착순으로 모집한다.",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "광양시가 전남 중·고생 대상 'SCNU 전남청소년 SW코딩캠프'를 9월 5일 개최하며 2~4명 구성 팀 20개를 선착순 모집한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212860_216207_843.jpg",
+    "score": 3.827,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Natural experiments prove phytoplankton carbon removal works",
+    "url": "https://www.onepercentbrighter.com/p/natural-experiments-prove-feeding",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-19T14:51:57+00:00",
+    "raw_excerpt": "Article URL: https://www.onepercentbrighter.com/p/natural-experiments-prove-feeding Comments URL: https://news.ycombinator.com/item?id=48968701 Points: 29 # Comments: 12",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "해양 식물플랑크톤을 이용한 탄소 제거 기술이 자연 실험을 통해 실제로 효과가 있음을 입증했습니다.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!lkgi!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5ff70833-3885-4a99-8295-94f0951945de_2416x1724.jpeg",
+    "score": 3.818,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "로봇청소기 몰카 위협 증가...IoT 보안 제도 재정비 필요성 커져",
+    "url": "https://zdnet.co.kr/view/?no=20260719104348",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-19T02:53:51+00:00",
+    "raw_excerpt": "[지디넷코리아]로봇청소기에 탑재된 IoT 카메라에 대한 보안 위협이 날로 커지고 있다. 이에 따라 IoT 보안 수준을 높이기 위해 모든 제품에 적용할 수 있는 최소 보안기준을 마련하고, 위험도에 따라 보안인증을 차등 의무화해야 한다는 문제 제기가 이목을 끈다.국회 입법조사처는 최근 보고서를 통해 현재 IoT 보안인증이 자율인증 중심으로 운영되고 있어 보안 수준을 지속적으로 높이는 데 한계가 있다고 지적했다.정부는 IoT 기기 종류와 기능, 네트워크 접속 방식 등이 다양해 공통 보안기준을 마련하기 어렵다는 입장이나, 보고서는 이는 획일적인 고도화 기준 적용이 어렵다는 의미일 뿐 기본적인 보안 조치까지 제외해야 하는 근거는 아니라고 꼬집었다.즉, 모든 IoT 기기에 공통 적용할 수 있는 최소 보안기준을 정보보호지침에 포함할 필요가 있다 주장이다. 예컨대 범용 디폴트 비밀번호 사용 금지, 제조사의 보안 취약점 신고 연락처 공개, 보안 업데이트 지원기간 공개 등을 대표적인 최소 보안요건으로 꼽았다.보고서는 IoT 보안인증 체계도 위험도에 따라 차등 적용해야 한다고 강조했다.의료·교통 등 해킹 사고 발생 시 국민 생명과 안전에 미치는 영향이 큰 고위험 IoT 기기는 정보통신망법 개정을 통해 보안인증을 의무화하고, 위험도가 낮은 기기는 제조사가 자체 점검한 결과를 인증기관이 확인하는 간편인증 제도를 도입하는 식이다.이와 같은 단계적 의무화가 중",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "로봇청소기 등 IoT 기기의 카메라 보안 위협 증가로 최소 보안기준 마련과 위험도별 차등 인증의무화가 필요하다는 지적이 나왔다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/07/19/371a75055427dbd2b7989062dbed7561.jpg",
+    "score": 3.764,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "취약점",
+      "해킹",
+      "입법"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
+    "url": "https://www.bbc.com/news/articles/cvg8edqq5g5o",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-19T13:29:29+00:00",
+    "raw_excerpt": "Article URL: https://www.bbc.com/news/articles/cvg8edqq5g5o Comments URL: https://news.ycombinator.com/item?id=48968063 Points: 106 # Comments: 78",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "영국 레일리 정원의 바나나 나무가 15년 만에 열매를 맺기 시작했다.",
+    "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/945a/live/453b2d10-8132-11f1-b525-63787292c170.jpg",
+    "score": 3.749,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Fable 5 vs. GPT-5.6 Sol: NP-난해 문제에서 /goal은 도움이 되는가?",
+    "url": "https://news.hada.io/topic?id=31588",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-07-19T18:34:55+00:00",
+    "raw_excerpt": "미공개 광섬유망 최적화 문제를 30분씩 풀게 한 결과, Fable 5 가 최고 점수와 가장 안정적인 성능을 보였지만 /goal 은 일관된 향상을 만들지 못함 /goal 은 단순히 더 오래 작업하게 하는 기능이 아니라 제어 루프와 탐색 경로 를 바꿔, 좋...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Fable 5가 NP-난해 최적화 문제에서 GPT-5.6 Sol보다 우수한 성능을 보였으나 /goal 기능은 일관된 성능 향상을 제공하지 못했다.",
+    "thumbnail": "https://social.news.hada.io/topic/31588?v=d3222ae7ab5f0b177fd83c0a7fb5c7ca",
+    "score": 3.336,
+    "engagement": 0,
+    "matched_keywords": [
+      "gpt-5"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "글로벌 상업용 서비스 로봇 출하량 1위 키논, WAIC 2026에서 휴머노이드 실전 투입",
+    "url": "https://zdnet.co.kr/view/?no=20260719111003",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-19T02:10:03+00:00",
+    "raw_excerpt": "[지디넷코리아] 상하이 2026년 7월 19일 /PRNewswire/ -- 키논 로보틱스(KEENON Robotics)가 WAIC 2026에서 휴머노이드 로봇과 특화 서비스 로봇을 한 무대에 선보인다. 이는 두 로봇을 서로 경쟁하는 개념이 아니라, 상업용 서비스의 전체 업무 과정에서 함께 작동하는 상호 보완적 형태의 체화된 지능(Embodied intelligence)으로 제시한다. IDC에 따르면 키논은 2025년 전 세계 상업용 서비스 로봇 출하량 1위를 기록했으며, 글로벌 배달 로봇 시장에서도 선두 자리를 유지했다. 또한 IDC는 업계가 특정 업무와 환경의 필요에 따라 다양한 유형의 로봇을 배치하는 더욱 다각화된 다양한 형태의 미래로 나아가고 있다고 분석했다. 키논은 이러한 전략을 가장 먼저 제안했으며, 이번 WAIC 전시는 그 흐름을 실제로 구현한다. 전시 부스에서 새롭게 선보이는 호텔 세탁 시나리오는 이러한 접근 방식을 가장 명확하게 보여준다. 휴머노이드 로봇은 세탁기에 세탁물을 넣고 기기를 조작하며, 깨끗한 세탁물을 꺼내고 의류를 개는 등의 작업을 수행한다. DINERBOT T9은 보다 폭넓은 배송 업무를 지원한다. 두 로봇은 실제 호텔 운영 환경에서 휴머노이드 로봇과 특화 로봇이 어떻게 역할을 분담하고 협업할 수 있는지 보여준다. 키논은 호텔 업무뿐만 아니라 식음료 및 소매 서비스에도 역할 기반의 동일한 접근 방식을 적용",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "글로벌 상업용 서비스 로봇 출하량 1위인 키논이 WAIC 2026에서 휴머노이드와 특화 서비스 로봇의 협업 모델을 선보이며 다각화된 로봇 배치 전략을 주도한다.",
+    "thumbnail": "https://zdnet.co.kr/images/default_img.jpg",
+    "score": 3.287,
+    "engagement": 0,
+    "matched_keywords": [
+      "로보틱스",
+      "robotics",
+      "휴머노이드"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "당신이 안 보는 사이 프론트엔드에 무슨 일이 있었나",
+    "url": "https://news.hada.io/topic?id=31587",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-07-19T17:12:58+00:00",
+    "raw_excerpt": "2008년경 프론트엔드를 떠난 개발자를 대상으로, 지난 20년간의 변화를 설명하는 글 모든 도구는 실제 문제(상처) 위에 생긴 흉터 조직이며 각 레이어의 해결책이 다음 레이어의 문제를 만들며 쌓였다는 것이 전체 논지 글 전체에서 button 하나를 표본으로 삼아 각 시...",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "프론트엔드 개발이 지난 20년간 복잡한 도구와 레이어가 쌓이면서 진화해왔으며, 각 해결책이 다시 새로운 문제를 야기하는 악순환 구조를 이루고 있다.",
+    "thumbnail": "https://social.news.hada.io/topic/31587?v=6ce323d340a3375eff7052b731a36754",
+    "score": 3.279,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Codex 사용량 한도 리셋 추적",
+    "url": "https://news.hada.io/topic?id=31586",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-07-19T16:34:22+00:00",
+    "raw_excerpt": "@thsottiaux의 X 공지를 추적해 Codex 사용량 한도 리셋 시점 을 기록하며, 마지막 리셋은 2일 전임 현재까지 35회 를 집계했고 평균 대기 간격은 8.9일, 최장 공백은 67.7일임 장애·지연·한도 계산 오류를 보상할 때뿐 아니라 사용자 증가, 제품 출시, 기념...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "OpenAI Codex 사용량 한도가 평균 8.9일 간격으로 리셋되며 지난 35회 중 최장 67.7일 공백이 기록됐다.",
+    "thumbnail": "https://social.news.hada.io/topic/31586?v=1bfee9e85eb570c1c27b435dda3e17ab",
+    "score": 3.252,
+    "engagement": 0,
+    "matched_keywords": [
+      "codex"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "GPT-5.6이 프롬프트로 볼록 최적화의 30년 공백을 메움",
+    "url": "https://news.hada.io/topic?id=31570",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-07-19T00:35:31+00:00",
+    "raw_excerpt": "제공된 본문은 GPT-5.6이나 볼록 최적화가 아니라, 모든 유한 단순군 을 18개 무한 계열과 26개 산재군으로 분류하는 군론의 정리를 다룸 유한 단순군은 소수처럼 유한군의 기본 구성 요소지만, 같은 합성열 을 가진 비동형 군이 존재하므로 구성 요소만으로 원래 군...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "제목과 실제 내용이 맞지 않아 정확한 요약이 어렵지만, 기사는 유한 단순군을 18개 무한 계열과 26개 산재군으로 분류하는 군론의 분류 정리를 다룹니다.",
+    "thumbnail": "https://social.news.hada.io/topic/31570",
+    "score": 3.087,
+    "engagement": 0,
+    "matched_keywords": [
+      "gpt-5",
+      "프롬프트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "충남, 반도체·디스플레이 등 중소 제조 AX 지원 시동…공정 데이터 자산화·표준화 지원",
+    "url": "https://www.etnews.com/20260716000293",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-07-19T00:00:00+00:00",
+    "raw_excerpt": "충남이 중소기업 제조 현장에 (비)정형 데이터 수집·분석 기반의 IT 시스템을 도입해 수율을 높이고 탄소 배출량 등 데이터도 관리해 EU 탄소 관세 규제에 대응하는 등 국제 경쟁력을 높이는 인공지능 대전환(AX) 지원에 본격적으로 나선다. 도·충남 테크노파크(TP)는 '지역 주도형 AI 대전환(AX) 사업'에 참여하는 반도체·디스플레이·모빌리티 등 주력 산업의 중소기업을 이달 내 모집하고 8월 AX 수준 진단을 거친 후 기업 30여곳을 선정해",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "충남이 반도체·디스플레이 등 중소 제조업체의 AI 도입을 지원해 수율 향상과 탄소 배출 관리를 통해 국제 경쟁력을 강화한다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/07/15/news-p.v1.20260715.0447f244309a4eb4b8f81b1343cc2688_P1.jpg",
+    "score": 3.062,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장",
+      "ax"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "[AI 이슈트렌드] 반도체발 코스피 쇼크 속 홈플러스 파산 위기 주목",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212904",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-18T18:03:37+00:00",
+    "raw_excerpt": "AI타임스와 이스트에이드의 7월 둘째 주(7월2~8일) 이슈 분석 결과, 반도체발 국내 증시 하락과 지정학적 리스크, 주요 사건·사고가 상위권을 차지했다.이번 주는 '코스피 코스닥 급락(6.87%)'이 검색량 1위를 차지했다. 국내 증시는 AI 설비투자(CAPEX) 및 반도체 성장세 둔화 우려, 미국 장기금리 상승, 단일종목 레버리지 상장지수펀드(ETF) 변동성으로 코스피는 6820, 코스닥은 791까지 하락했다.이에 금융당국은 삼성전자·SK하이닉스 단일종목 레버리지 ETF의 기본예탁금을 3000만원으로 상향하고 매매 단위를 20주",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "AI 설비투자 둔화 우려와 미국 장기금리 상승으로 코스피가 6.87% 급락하며 반도체주 중심의 증시 충격이 심화되고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212904_216265_3533.jpg",
+    "score": 3.009,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "씨엠티엑스, 600mm 단결정 실리콘 잉곳·부품 양산 개시",
+    "url": "https://www.etnews.com/20260719000056",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-07-19T09:00:00+00:00",
+    "raw_excerpt": "반도체 실리콘 소재·부품 전문기업 씨엠티엑스(CMTX)가 초대구경(600mm) 단결정 실리콘 잉곳 개발에 성공, 소재 및 부품 양산에 본격 나선다. 부품을 장비 제조사를 거치지 않고 직접 공급하는 '애프터마켓' 분야에서 세계 최초 성과다. 씨엠티엑스는 자회사 셀릭을 통해 600mm 단결정 실리콘 잉곳 성장 기술 개발에 성공했다고 19일 밝혔다. 실리콘 잉곳은 반도체 웨이퍼의 핵심 소재이자, 식각 공정에서 사용되는 소모성 부품의 소재다. 씨엠티엑",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "씨엠티엑스가 600mm 단결정 실리콘 잉곳 양산에 성공해 애프터마켓 분야에서 세계 최초로 직접 공급을 시작한다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/07/15/news-p.v1.20260715.5ed563b1d0904b22a1e80135e5cfa295_P2.png",
+    "score": 2.937,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "디지털포렌식센터, 기밀 유출 대응 SW 국산화…“탐지부터 증거화까지”",
+    "url": "https://www.etnews.com/20260716000138",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-07-19T08:00:00+00:00",
+    "raw_excerpt": "한국디지털포렌식센터가 외산 의존도가 높은 디지털포렌식 소프트웨어(SW) 시장에 국산 제품을 선보이며 도전장을 냈다. 수사기관, 포렌식 전문업체뿐 아니라 자체 감사·보안 체계를 강화하려는 기업·기관을 공략한다는 전략이다. 최운영 한국디지털포렌식센터 대표는 최근 전자신문과 인터뷰에서 “사고가 발생한 뒤 구체적 유출 사실을 조사하는 솔루션과 사고 징후를 모니터링하고 관련 기록을 남기는 솔루션을 모두 개발했다”면서 “이를 기반으로 이상 행위 탐지부터",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "한국디지털포렌식센터가 기밀 유출 탐지 및 증거 확보를 지원하는 국산 디지털포렌식 소프트웨어를 개발해 외산 의존도가 높은 시장 진출을 추진 중이다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/07/15/news-p.v1.20260715.f678e0e41c664cf5bb59e5ceb1fedc26_P1.png",
+    "score": 2.895,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "우주청, 프랑스 CNES·TAS 등과 협력 모색",
+    "url": "https://zdnet.co.kr/view/?no=20260719122729",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-19T03:27:29+00:00",
+    "raw_excerpt": "[지디넷코리아]우주항공청이 에어버스 D S와 탈레스 알레니아 스페이스(TAS) 등 프랑스 우주 기관 및 기업과의 협력 방안을 모색한다.우주청은 20~21일(현지시간) 프랑스 툴루즈에서 열린 ‘2026년도 한-유럽 과학기술학술대회(EKC 2026)’에 참석한다. 이 대회에서 우주청은 우리나라 우주항공 정책을 발표하고, 툴루즈 기반 프랑스 우주 기관 및 기업과의 협력 모델을 발굴할 계획이다.EKC는 과학기술단체총연합회와 유럽 9개국 한인과학기술자협회가 공동 주관하는 행사다. 행사가 열리는 툴루즈는 에어버스 본사 등 유럽 우주항공 산업 생산·연구 인프라가 집적돼 있는 우주항공 도시다.오태석 청장은 20일 'EKC 2026' 개막식 기조연설자로 나서 ‘한국의 우주정책 방향’을 주제로, 최근 제5차 국가우주위원회에서 확정한 ‘대한민국 우주항공 산업육성 전략’과 우주청 비전 등에 대해 강연한다.행사 첫날인 20일엔 혁신 클러스터인 에어로스페이스 밸리를 찾아 산·학·연·관 협력 구조와 스타트업 육성 등 선진 클러스터 운영 모델을 논의한다. 이어, 글로벌 위성 제조사인 에어버스 D S를 방문, 민간 주도 위성 대량 생산 체계를 돌아볼 예정이다.21일에는 프랑스 국립우주연구센터(CNES)의 툴루즈 우주센터를 방문한다. AI 기반 자동 관제 시스템 등 위성 운영 인프라를 살펴볼 예정이다. 또 탈레스 알레니아 스페이스(TAS)를 방문, 차세대 디지털 탑",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "우주청이 프랑스 CNES·에어버스·탈레스 알레니아 스페이스 등과 우주항공 협력 방안을 모색하기 위해 툴루즈를 방문한다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/05/15/2e7263f78505a01ccd2a52044c1da482.jpg",
+    "score": 2.885,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업",
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "쿠팡 인천물류센터 '건물 붕괴' 우려...서해구, 인근 상가에 대피령",
+    "url": "https://zdnet.co.kr/view/?no=20260720001242",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-19T15:12:42+00:00",
+    "raw_excerpt": "[지디넷코리아]쿠팡 인천물류센터에서 발생한 화재가 이틀째 이어지는 가운데, 건물 일부 붕괴 가능성이 제기되면서 관할 지자체가 인근 주민들에게 대피령을 내렸다.인천시 서해구는 19일 오후 11시쯤 안전안내문자와 긴급재난문자를 통해 석남동 쿠팡물류센터의 일부 건물 붕괴 위험을 알리고, 물류센터 램프구역 반경 116m 지역 구민들에게 즉시 대피하라고 명령했다. 이번 대피령은 서해구가 당일 오후 관계 기관과 상황판단 회의를 열고 주민들의 생명과 안전을 위해 선제적 조치를 하기로 결정한 데 따른 것이다. 대피 발령 장소에는 주택 밀집 지역 등 주거지역은 제외되며, 쿠팡 남측 상가와 공장, 사무실 등이 포함된다.이번 화재는 지난 18일 오전 6시 54분쯤 지상 8층, 연면적 29만 9000㎡ 규모의 쿠팡 32물류센터 6층에서 시작됐다. 불은 같은 날 오후 건물 외벽을 타고 7층으로 번졌으며 이틀째 진화 작업이 계속되고 있다. 소방 당국은 19일 오후 11시쯤 초진에 성공할 것으로 전망했지만, 건물 내부 고열과 짙은 연기가 심해 초진이 지연되고 있다. 특히 3단 랙크식 창고에 적재된 다량의 생활용품 등 가연물로 짙은 연기가 지속되면서 내부 시야 확보와 진입에 어려움을 겪고 있다.현재 현장에는 서울과 경기 등 인근 8개 시·도의 인력과 장비를 동원하는 국가소방동원령이 유지되고 있다. 고가사다리차, 굴절차, 소방헬기 등 장비 228대와 소방관 및 경",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "쿠팡 인천물류센터 화재로 건물 붕괴 위험이 제기되면서 인천시 서해구가 인근 상가에 대피령을 내렸다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/07/20/9011dd86608b0ad1b34e4c52b5da7c2f.jpg",
+    "score": 2.876,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "[단독] 하나은행, 원화 스테이블코인 '인프라 선점' 나섰다",
+    "url": "https://www.etnews.com/20260716000060",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-07-19T07:30:00+00:00",
+    "raw_excerpt": "하나은행이 원화 스테이블코인 제도화에 대비해 디지털화폐 인프라 설계에 착수한 것으로 확인됐다. 향후 원화 스테이블코인 운영에 필요한 발행·유통·상환·정산·자금세탁방지(AML) 체계를 은행 내부 시스템과 연결하는 작업이다. 은행권 원화 스테이블코인 경쟁이 인프라 선점 단계로 옮겨가고 있다는 분석이 나온다. 19일 금융권에 따르면 하나은행은 원화 기반 스테이블코인 사업화를 염두에 두고 내부 시스템과 업무 구조를 설계하고 있다. 당장 특정 코인을 발",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "하나은행이 원화 스테이블코인 제도화에 대비해 발행·유통·정산 등 디지털화폐 인프라 설계에 착수했으며, 은행권의 경쟁이 인프라 선점 단계로 이동하고 있다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/07/15/news-p.v1.20260715.80ea45e0460a401bb5f3d51e39734c5a_P1.jpg",
+    "score": 2.874,
+    "engagement": 0,
+    "matched_keywords": [
+      "스테이블코인"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "\"치킨도 과학이네\"...K치킨 교육·체험 거점 '교촌' 옛 사옥 가보니",
+    "url": "https://zdnet.co.kr/view/?no=20260715160623",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-19T03:00:02+00:00",
+    "raw_excerpt": "[지디넷코리아]교촌에프앤비가 20년 넘게 본사로 사용했던 경기 오산 사옥을 치킨 조리법과 식문화를 체험하는 관광·교육 공간으로 전환하며 외국인 관광객을 겨냥한 K치킨 체험 사업에 시동을 건다. 한때 임직원들이 오가던 본사 건물인 만큼 교촌의 역사와 조리 철학을 직접 보여주는 거점으로 활용한다는 계획이다.지난 15일 찾은 교촌에프앤비 오산 교육원에는 외국인 단체 관광객을 맞기 위한 체험시설과 조리 장비가 곳곳에 배치돼 있었다. 1층 강당과 식당을 지나 2층으로 올라가면 교촌의 창업 역사와 주요 소스, 원재료를 소개하는 전시공간이 나온다. 그 옆으로는 실제 매장 조리 과정을 구현한 체험장과 로봇 조리 공간이 이어진다.이곳은 교촌이 2023년 판교로 본사를 이전하기 전까지 20년 넘게 본사로 사용한 공간이다. 본사 이전 이후에는 가맹점 교육과 외국인 대상 체험 프로그램을 운영하는 교육원으로 기능을 바꿨다.오산 교육원은 가맹점 조리 품질을 일정하게 유지하기 위한 교육 시설로, 매장 운영에 필요한 표준 공정과 위생, 서비스 전반을 교육하는 역할을 맡고 있다. 교육은 사내 조직 ‘1991스쿨팀’이 담당하며, 신규 가맹점주와 직원뿐 아니라 기존 점주를 대상으로 한 재교육 프로그램도 운영한다.최근에는 인력난과 인건비 부담이 커지면서 조리 공정의 자동화 필요성이 커지고 있다. 교촌은 이를 반영해 튀김 공정을 중심으로 한 조리 로봇을 일부 매장에 도입",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "교촌에프앤비가 경기 오산 옛 본사를 K치킨 체험·교육 공간으로 전환하며 외국인 관광객 대상 체험 사업을 시작했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/07/15/3f91283afa9dce119819ef2c40c994f3.gif",
+    "score": 2.868,
+    "engagement": 0,
+    "matched_keywords": [
+      "사내",
+      "조직"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Hyundai Motor Group Moves to Take Full Ownership of Boston Dynamics",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47384",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-19T14:58:41+00:00",
+    "raw_excerpt": "Hyundai Motor Group plans to acquire the remaining stake in Boston Dynamics after SoftBank Group elected to exercise its put option for its 9.65% ownership in the U.S. robotics company, according to industry sources.The South Korean automaker purchased an 80% stake in Boston Dynamics from SoftBank f",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "현대자동차그룹이 소프트뱅크의 풋옵션 행사로 Boston Dynamics 지분 9.65%를 인수해 완전 자회사화할 계획이다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202607/47384_45937_5829_v150.jpg",
+    "score": 2.867,
+    "engagement": 0,
+    "matched_keywords": [
+      "robotics"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  }
+]
