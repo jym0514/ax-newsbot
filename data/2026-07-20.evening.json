@@ -1,0 +1,823 @@
+[
+  {
+    "title": "넘즈에이아이, ‘정형 데이터 파운데이션 모델’로 40억 시드 투자 유치",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212957",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-20T17:46:09+00:00",
+    "raw_excerpt": "넘즈에이아이(Nums AI, 대표 유재민)가 정형 데이터 파운데이션 모델(TFM) 기술력을 통해 40억원 규모의 첫 투자를 유치했다고 20일 밝혔다. 이번 투자는 스톤브릿지벤처스가 리드했으며 SBVA, KT인베스트먼트 및 베이스벤처스가 참여했다. 이번 투자를 계기로 GPU 인프라와 연구 조직을 확대하고, TFM 개발을 가속할 계획이다.‘정형 데이터’란 행과 열로 정리된 표 형태의 수치 데이터를 뜻한다. 매출 기록, 거래 내역, 고객 정보처럼 기업이 다루는 데이터의 상당수가 이에 해당한다. 대형언어모델(LLM)이 다음 단어를 예측하듯",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "넘즈에이아이가 기업 데이터 분석용 정형 데이터 파운데이션 모델 기술로 40억원 시드 투자를 유치하며 GPU 인프라 확대와 연구 가속화에 나선다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212957_216327_332.jpeg",
+    "score": 9.486,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처",
+      "시드 투자",
+      "투자 유치"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "트럼프 정부 'AI 규제 완화' 기조 흔들…인적 쇄신·부처 갈등에 '개입주의'로 선회",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212938",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-20T15:10:37+00:00",
+    "raw_excerpt": "도널드 트럼프 미국 행정부가 출범 초기 내세운 AI 규제 완화 기조에서 벗어나 국가안보를 앞세운 정부 개입을 확대하고 있다는 분석이 나왔다. 강력한 AI 모델의 등장과 백악관 내부의 잦은 인사 교체, 부처 간 갈등이 맞물리면서 초기 정책 기조가 흔들리고 있다는 지적이다.디 인포메이션과 CNBC 등은 18일(현지시간) 복수의 행정부 관계자와 정책 전문가를 인용해 트럼프 행정부가 최근 AI 기업에 대한 개입을 확대하는 방향으로 움직이고 있다고 보도했다. 앤트로픽 '페이블 5'에 대한 해외 접근 제한과 오픈AI 'GPT-5.6'의 제한적",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "트럼프 정부가 초기의 AI 규제 완화 기조에서 벗어나 국가안보를 명분으로 정부 개입을 강화하는 정책으로 선회하고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212938_216303_530.jpg",
+    "score": 9.275,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai",
+      "ai 규제"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "알리바바, ‘쿠다 독점’에 오픈소스로 도전장… 현실 장벽 여전히 높아",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212933",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-20T12:58:31+00:00",
+    "raw_excerpt": "미국의 반도체 수출 규제가 심화하는 가운데, 중국 알리바바가 하드웨어 난제를 넘어 AI 소프트웨어 생태계 주권을 확보하기 위한 오픈소스 카드를 꺼내 들었다. 엔비디아 독점 체제의 핵심인 '쿠다(CUDA)'를 추격하겠다는 전략이다.알리바바의 칩 설계 전문 자회사 '티헤드(T-Head)'는 18일 상하이에서 열린 세계인공지능대회(WAIC)에서 자체 AI 칩인 '진무(Zhenwu) 시리즈'의 기반 소프트웨어 아키텍처 '세일(SAIL)' 기술 스택 전체를 글로벌 개발자들에게 무료 개방한다고 발표했다.세일은 AI 모델이 진무 칩의 연산 성능",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "미국의 반도체 수출 규제 심화 속에 알리바바가 자체 AI 칩용 오픈소스 소프트웨어 'SAIL'을 공개해 엔비디아 CUDA 독점에 도전하지만, 기술 격차와 생태계 구축의 현실적 장벽이 여전히 높다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212933_216298_5338.png",
+    "score": 9.096,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "엔비디아"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "한성숙 국무총리, 중소기업단체협의회 8곳 초청 오찬간담회 개최",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41047",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-20T17:23:23+00:00",
+    "raw_excerpt": "한성숙 국무총리는 지난 19일(일) 서울 삼청동 공관에 중소기업중앙회 등 중소기업단체협의회 관계자들을 초청하여 오찬간담회를 가졌다.이날 간담회에는 한 총리를 비록한 중소기업중앙회 김기문 회장, 소상공인연합회 송치영 회장, 전국상인연합회 이충환 회장, 벤처기업협회 송병준 회장, 한국여성경제인협회 박창숙 회장, 한국벤처캐피탈협회 김학균 회장, 이노비즈협회 정광천 회장, 코리아스타트업포럼 김재원 의장 등이 참석했다.이번 간담회는 대내외 경영 불확실성 속에서도 우리 경제의 회복세를 이끌고 있는 중소기업인들을 격려하고, 인공지능 대전환(AX",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "한성숙 국무총리가 중소기업단체협의회 8개 단체 관계자들과 오찬간담회를 열어 경제 불확실성 속 중소기업인 지원을 논의했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/41047_61846_2252_v150.jpg",
+    "score": 8.728,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업",
+      "벤처",
+      "벤처캐피탈"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[게시판] 일레븐랩스, LOT 폴란드항공과 음성 AI 에이전트 실증 등 단신",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212959",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-20T17:00:00+00:00",
+    "raw_excerpt": "■ 일레븐랩스는 폴란드의 플래그 캐리어(국적기)인 LOT 폴란드항공과 손잡고 차세대 엔터프라이즈용 대화형 AI 플랫폼 ‘일레븐에이전트(ElevenAgents)’를 활용한 음성 AI 어시스턴트 실증 실험을 개시했다고 밝혔다. 전 세계 항공사들이 공통으로 겪고 있는 성수기의 폭발적인 문의 증가, 기상 악화로 인한 항공편 지연 및 결항 사태 등에 따른 다국어 대응 한계로 인한 고객 센터의 업무 과부하 문제를 해결하기 위한 것이다.■ 네이버클라우드(대표 김유원)는 HD한국조선해양(대표 김형관)과 조선 산업 특화 클라우드 구축에 나선다고 밝",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "일레븐랩스가 LOT 폴란드항공과 음성 AI 에이전트 '일레븐에이전트'로 고객 센터의 다국어 대응과 업무 과부하 문제 해결에 나섰다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212959_216330_1931.jpeg",
+    "score": 8.448,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "신진서 9단, AI ‘카타고’에 승리…”10년 만에 인간 승리”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212932",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-20T13:01:45+00:00",
+    "raw_excerpt": "세계 바둑 랭킹 1위인 신진서 9단이 현존 최강 AI 바둑 프로그램 ‘카타고(KataGo)’와의 승부에서 이겼다. 신진서 9단은 19일 서울 중구 한국경제TV스튜디오에서 열린 ‘쎈수학·한경 기신전’에서 카타고와의 약 5시간 승부 끝에 4집 반승을 거뒀다. 지난 2016년 이세돌 9단과 대결했던 구글 딥마인드 ‘알파고’에 이어 2019년 공개된 카타고는 현존하는 최고의 바둑 AI 프로그램으로 평가 받는다. 바둑 기사들의 연구에도 사용된다. 신 9단은 이러한 카타고를 상대로 10년 만에 공식적인 인간 승리를 기록했다. 두 점을 먼저 두",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "세계 바둑 랭킹 1위 신진서 9단이 현존 최강 AI '카타고'를 꺾으며 10년 만에 인간의 공식 승리를 기록했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212932_216299_5425.jpeg",
+    "score": 8.126,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "딥마인드"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[인사] 한국지능정보사회진흥원",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212924",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-20T12:03:44+00:00",
+    "raw_excerpt": "◇한국지능정보사회진흥원(NIA)■ 부서장 보임▲이재호 경영기획실장▲정준원 인공지능정부본부장▲박상현 공공지능데이터본부장AI타임스 news@aitimes.com",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "한국지능정보사회진흥원이 이재호, 정준원, 박상현을 각각 경영기획실장, 인공지능정부본부장, 공공지능데이터본부장으로 보임했다.",
+    "thumbnail": "https://www.aitimes.com/image/logo/snslogotrans_20250610094832.png",
+    "score": 8.047,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "\"한국형 올모급 완전 공개 모델 등장\"...비드래프트, 학습 레시피·로그까지 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212930",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-20T12:01:07+00:00",
+    "raw_excerpt": "AI 전문 비드래프트(대표 김민식)는 독자 개발한 오픈소스 파운데이션 모델 ‘Aether-7B-5Attn’을 글로벌 AI 플랫폼 허깅페이스에 공개했다고 20일 밝혔다. Aether-7B-5Attn은 아파치-2.0 라이선스로 공개됐으며, 모델 가중치뿐 아니라 학습 데이터 레시피, 전체 학습 코드, 하이퍼파라미터, 학습 로그, 중간 체크포인트, 평가 코드까지 포함한 완전 공개형 모델을 지향한다.비드래프트는 AI 기술과 양자컴퓨터 기술을 기반으로 물리·화학·생명·의약 분야 연구개발까지 수행하고 있다. 다윈(Darwin) 모델 패밀리, A",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "비드래프트가 학습 데이터 레시피와 코드까지 공개하는 완전 오픈소스 한국형 파운데이션 모델 'Aether-7B-5Attn'을 허깅페이스에 공개했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212930_216294_04.jpg",
+    "score": 8.044,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "파운데이션 모델"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "글루시스 ‘엑사스토’, 글로벌 HPC 스토리지 벤치마크 ‘IO500’ 공식 등재",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41045",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-20T16:47:04+00:00",
+    "raw_excerpt": "글루시스(대표 박성순)는 자사의 인공지능(AI) 및 고성능 컴퓨팅(HPC)용 병렬 파일 스토리지 ‘엑사스토(ExaStor)’가 최근 글로벌 고성능 스토리지 벤치마크인 IO500의 ‘10 Node Research’ 부문에 공식 등재됐다고 21일 밝혔다.IO500은 전 세계 HPC 및 슈퍼컴퓨팅 환경의 스토리지 성능을 평가하는 대표적인 국제 공개 벤치마크다. 대용량 데이터의 읽기·쓰기 성능뿐 아니라 파일 생성, 조회, 삭제, 검색 등 메타데이터 처리 성능을 종합적으로 측정해 결과를 공개한다.이번 테스트는 글루시스와 한국정보통신기술협회(",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "글루시스의 AI·HPC용 병렬 파일 스토리지 '엑사스토'가 글로벌 고성능 스토리지 벤치마크 IO500에 공식 등재돼 국제 수준의 성능을 인정받았다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/41045_61844_4652_v150.jpg",
+    "score": 7.782,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "LG-유네스코, ‘MOOC 프로젝트’ 글로벌 론칭…‘AI 윤리 연수’ 본격화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212939",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-20T16:32:12+00:00",
+    "raw_excerpt": "LG AI연구원(원장 이홍락, 임우형)은 유네스코(UNESCO)와 20일 서울 명동에 위치한 유네스코 한국위원회에서 ‘AI 윤리 MOOC(Massive Open Online Course) 프로젝트’ 글로벌 론칭 행사를 개최하고, 전 세계 누구나 무료 수강할 수 있는 교육 과정을 공개했다. LG AI연구원과 유네스코는 지난 2024년 5월 AI 서울 정상회의를 계기로 협약을 체결한 바 있다. 이후 2년 만에 ‘AI 윤리 MOOC 프로젝트’를 공동으로 선보이게 됐다. 국내의 민간 AI 연구 기관이 유엔 전문기구와 기획 단계부터 콘텐츠",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "LG AI연구원과 유네스코가 AI 윤리 무료 온라인 교육(MOOC)을 글로벌로 론칭해 전 세계인의 AI 윤리 교육 접근성을 높인다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212939_216321_3113.jpg",
+    "score": 7.436,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "여수, 고3 수험생 200명 대입 수시 1대 1 컨설팅",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212920",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-20T16:28:57+00:00",
+    "raw_excerpt": "AI 생성 영상여수시가 2027학년도 대입 수시모집을 준비하는 지역 고등학교 3학년 수험생과 학부모 200명을 대상으로 맞춤형 1대 1 입시 컨설팅을 운영한다고 20일 밝혔다.신청은 27일부터 시작하며, 상담은 8월8일과 8월22일 여수행복교육지원센터에서 두 차례 진행된다.이번 컨설팅은 9월 수시모집 원서접수를 앞둔 수험생들이 학교생활기록부와 모의평가 결과를 바탕으로 대학과 전형별 지원 전략을 점검할 수 있도록 마련됐다. 서울을 포함한 전국 각지에서 초빙한 입시 전문 상담가가 학생별 자료를 검토해 지원 방향을 함께 설계한다.상담은",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "여수시가 고3 수험생 200명을 대상으로 8월 두 차례에 걸쳐 1대 1 입시 컨설팅을 제공해 수시모집 준비를 지원한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212920_216311_3938.jpg",
+    "score": 7.431,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "목포, 제107회 전국체전 하키 개최지 확정",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212927",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-20T16:27:57+00:00",
+    "raw_excerpt": "AI 생성 영상목포시가 제주에서 열리는 제107회 전국체육대회 하키 종목의 분산 개최지로 확정됐다.경기는 목포국제축구센터 하키경기장에서 열릴 예정으로, 선수단과 대회 관계자의 방문이 숙박·음식·관광 등 지역 소비로 이어질지 주목된다.목포는 2023년 전국체전 하키 경기 운영 경험과 목포시청 직장운동경기부 하키팀 운영을 통해 쌓은 종목 경쟁력, 경기장 시설과 대회 지원 여건이 개최지 선정에 반영됐다고 20일 밝혔다.목포국제축구센터 하키경기장은 국제규격의 주경기장과 보조경기장을 갖추고 있다. 기록실과 중계실, 비디오판독실, 대회운영실,",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "목포시가 제107회 전국체전의 하키 분산 개최지로 확정되어 지역 경제 활성화와 국제규격 경기장 활용이 기대된다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212927_216306_2820.jpg",
+    "score": 7.43,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "나주, 나주목 관아 ‘동헌’ 재현 추진…설계비 1억 국비 신청",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212944",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-20T16:27:38+00:00",
+    "raw_excerpt": "AI 생성 영상나주시가 조선시대 지방행정의 중심이었던 나주목 관아의 핵심 건물 ‘동헌’ 재현을 추진한다고 20일 밝혔다.나주는 2027년도 실시설계비 1억원을 정부예산에 반영해 나주목 관아 역사공간을 완성하고, 원도심과 체류형 관광을 연결하는 문화거점으로 조성할 계획이다.오는 8월 국가유산청과 사업 추진 방안을 협의하고 9월 국가유산사적분과위원회 심의를 진행할 예정이다. 이어 10월 동헌과 관아터 지정구역 정비에 필요한 실시설계비 1억원을 2027년도 정부예산에 반영해 달라고 신청할 계획이다.실시설계비가 반영되면 동헌 재현 사업은",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "나주시가 조선시대 나주목 관아의 핵심 건물 '동헌' 재현을 위해 2027년도 실시설계비 1억원을 정부예산에 신청하고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212944_216317_411.jpg",
+    "score": 7.43,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "KTR 신임 원장에 이승렬 전 산업부 산업정책실장 취임",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212943",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-20T16:00:00+00:00",
+    "raw_excerpt": "이승렬 전 산업통상자원부 산업정책실장이 KTR(한국화학융합시험연구원) 제23대 원장으로 취임했다고 20일 밝혔다.이승렬 원장은 1997년 산업통상자원부 행정사무관으로 공직에 입문해 구주통상과, 자원개발전략과, 기획재정담당관, 정책기획관, 원전산업정책국장, 산업정책실장 등 주요 보직을 두루 거쳤다.퇴임 이후에는 대통령 직속 국가과학기술자문회의 자문위원으로 활동했으며, 국제무역개발회의(UNCTAD) 등에 파견돼 국제통상 및 해외협력 분야에서도 폭넓게 활약했다.이 원장은 '산업 AX 정책'과 'M.AX 얼라이언스' 구축을 비롯해 로봇,",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "산업부 출신의 이승렬 전 산업정책실장이 한국화학융합시험연구원 제23대 원장으로 취임했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212943_216314_529.png",
+    "score": 7.392,
+    "engagement": 0,
+    "matched_keywords": [
+      "ax"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "와이즈넛, 40만 공무원용 AI 에이전트 공개... ‘3세대 e-사람’ 구축 완료",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21175",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-07-20T16:33:54+00:00",
+    "raw_excerpt": "와이즈넛이 인사혁신처의 3세대 전자인사관리시스템(e-사람) 구축사업 완료보고회에서 자사가 개발한 개인 맞춤형 AI 에이전트를 선보였다. 와이즈넛은 이번 사업에서 개인 맞춤형 AI 에이전트를 개발해 3세대 e-사람 시스템에 접목했다. 해당 서비스에는 와이즈넛의 에이전트 특화 대형언어모델(LLM) ‘와이즈 로아(WISE LLOA)’와 검색증강생성(RAG) 기반 AI 에이전트 솔루션 ‘와이즈 아이랙(WISE iRAG)’이 적용됐다.이 AI 에이전트는 개인의 인사·급여·복무 관련 데이터를 분석해 개인 맞춤형 상담 서비스, 선제적 알림 서비",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "와이즈넛이 40만 공무원을 위해 개인 맞춤형 AI 에이전트를 탑재한 3세대 전자인사관리시스템 'e-사람' 구축을 완료했다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202607/21175_21837_278.jpg",
+    "score": 7.119,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "조코딩AX파트너스 'AX 인재전쟁' 마침표…5300명 중 60명 최종 결전",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212925",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-20T12:14:08+00:00",
+    "raw_excerpt": "조코딩AX파트너스(공동대표 조동근, 문경원)는 지난 18일 서울 영등포구 '워크모어 당산'에서 ‘AX 인재전쟁’ 본선을 개최했다고 밝혔다.학력이나 경력 대신 AI를 활용한 실질적인 문제 해결 능력만을 평가해 화제를 모은 이번 대회에는 오픈AI가 공식 협업사로 참여해 과제 수행을 위한 API 크레딧 등을 지원했다.총 5341명의 지원자가 몰린 이번 해커톤은 조코딩AX파트너스가 자체 개발하고 오픈AI의 기술 검토를 거친 5단계 정밀 채점 시스템 ‘AI 심사 에이전트’를 통해 선발된 60명이 본선 무대에 올랐다.본선에는 마이리얼트립, 무",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "조코딩AX파트너스가 5341명의 지원자 중 60명을 선발해 'AX 인재전쟁' 본선을 개최했으며, OpenAI가 공식 협업사로 참여해 AI 활용 문제 해결 능력을 평가했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212925_216290_2138.jpg",
+    "score": 7.086,
+    "engagement": 0,
+    "matched_keywords": [
+      "ax"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "반도체 규제에도 좁혀진 격차, 중국발 오픈웨이트 모델의 ‘진격’",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21171",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-07-20T15:44:34+00:00",
+    "raw_excerpt": "미국은 지난 3년간 첨단 반도체에 대한 대중 수출통제를 여러 차례 강화했다. 최신 그래픽처리장치(GPU)에 대한 접근이 막히면 연산 자원이 부족한 중국 기업이 결국 최상위권 AI 모델을 만들어내지 못할 것이라는 전망이 실리콘밸리 안팎에서 오랫동안 들렸다. 이는 미국 AI 기업의 몸값과 투자 심리를 떠받치는 전제였다. 블룸버그통신은 지난 18일(현지시간) 미국 AI 연구소의 한 임원이 익명을 전제로 “자사 기술이 중국 경쟁사보다 최소 6개월 앞서 있다고 봤다”고 언급하며, 중국 문샷의 신모델 공개 이후 이 같은 평가 자체가 재검토 대",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "미국의 반도체 수출규제에도 불구하고 중국의 오픈웨이트 AI 모델들이 빠르게 발전하면서 미국의 기술 우위 전제가 흔들리고 있다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202607/21171_21831_307.jpg",
+    "score": 7.062,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "gpu"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "중국, 태양광·배터리 저가 경쟁 제동…소비세 단계적 인상",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212919",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-20T11:15:00+00:00",
+    "raw_excerpt": "중국이 그동안 소비세를 면제해온 일반 태양전지와 리튬 1차전지·리튬이온 배터리에 세금을 단계적으로 부과한다. 반면 페로브스카이트 태양전지와 고체전지 등 차세대 제품은 2028년 말까지 면세를 유지해 관련 산업의 기술 전환을 유도한다.중국 재정부와 해관총서, 국가세무총국은 16일(현지시간) 배터리와 태양전지에 대한 소비세 조정안을 발표했다. 리튬 1차전지와 리튬이온 배터리, 전바나듐 흐름전지 등에는 2026년 9월 1일부터 2%, 2027년 9월 1일부터 4%의 소비세가 적용된다.태양전지는 2027년 4월 1일부터 2%, 2028년",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "중국이 기존 태양광·배터리에 2026년부터 단계적으로 소비세를 부과하면서 차세대 제품은 면세로 유지해 기술 전환을 유도한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212919_216287_3946.jpg",
+    "score": 7.006,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[기고] AX 시대, 통제 너머의 기업 컴플라이언스 2.0",
+    "url": "https://zdnet.co.kr/view/?no=20260720155435",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-20T07:30:13+00:00",
+    "raw_excerpt": "[지디넷코리아]챗GPT 등장 이후 인공지능(AI)과 신기술, 혁신적인 서비스의 개발을 해하지 않으면서도 이용자의 권리와 개인정보를 보호하려면 어떤 것을 고려해야 할 지에 대한 논의가 최근 활발해진 분위기다. 급변하는 정보사회에서 AI와 개인정보 보호에 있어 우리 사회가 취해야 할 균형 잡힌 자세가 어떤 것인지에 대해 법무법인 태평양 AI팀에서 [AI 컨택]을 통해 2주 마다 다뤄보고자 한다. [편집자주]AI 전환(AX)은 이제 금융, 헬스케어, 모빌리티 등 특정 업권 관심사가 아니라 비즈니스 모델과 조직 운영, 업무 효율화 전반에 AI를 내재화하려는 모든 기업의 공통 화두로 떠올랐다. 그럼에도 많은 기업은 AI 도입 과정에서 생기는 관리 절차의 공백을 메우거나 부서 간 책임을 재정비하기보다, 법무·준법감시·소비자보호 같은 전통적 통제부서가 문제를 포착해 제한적으로 관여하는 방식을 선호한다.속도와 혁신 경쟁이 어느 때보다 치열한 상황에서 전사적 AI 관리 강화가 자칫 발목을 잡을까 하는 경영진의 우려는 이해할 만하다. 그러나 경쟁에서 한발 앞서려면 경영진이 적기에 올바른 결정을 내리도록 뒷받침하는 리스크 관리·분석·보고 체계가 오히려 중요하다. AI를 출시할지 결정하려면 서비스의 편의·효용뿐 아니라, 잠재 리스크로 기업이 치러야 할 평판 훼손과 소비자 이탈까지 따져야 하기 때문이다. 하지만 현실에서는 개별 AI 서비스의 기획·개발·검증",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "AI 도입 과정에서 전통적 통제 중심의 사후 관여보다 기획 단계부터 리스크 관리를 강화하는 컴플라이언스 2.0 체계가 필요하다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/07/20/bd6830eb1d6df1f6359df7088254771c.jpg",
+    "score": 5.99,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직",
+      "ax",
+      "ai 도입"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "AI 힘주는 롯데…‘신동빈표 AX’ 어디까지 왔나",
+    "url": "https://zdnet.co.kr/view/?no=20260720160228",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-20T07:21:39+00:00",
+    "raw_excerpt": "[지디넷코리아]신동빈 롯데그룹 회장이 ‘AI 내재화’를 그룹 핵심 과제로 제시하면서 롯데의 인공지능 전환(AX)이 전방위로 확대되고 있다. 유통과 식품 계열사를 중심으로 AI가 고객 서비스와 상품 관리, 쇼핑 채널까지 스며들고 있지만, 현재까지는 생산성과 고객 경험 개선 사례가 대부분으로 AI가 실질적인 경영 성과를 만들어낼 수 있을지가 다음 과제로 떠오른다.20일 업계에 따르면 롯데는 최근 열린 하반기 VCM에서 그룹 AX 추진 현황과 주요 사례를 소개하는 'AI 에이전트 전시'를 진행했다. 이번 전시는 그룹의 AI 기술 현장 도입을 확산하기 위해 마련됐다. 음성과 모션 인식 기반의 AI 비서와 더불어 가격 모니터링, 수요예측, 글로벌 시장전망 분석 등 현업 적용 목적으로 개발한 10여 개 AI 에이전트를 선보였다.VCM 최초로 해외 연사도 초청했다. 미래학자 겸 경영 컨설턴트인 더그 스티븐스를 초청해 글로벌 유수 기업의 전략 수립 경험을 바탕으로 롯데 경영진에게 AI 트렌드 변화 및 글로벌 시장에 관한 인사이트를 전했다.롯데가 그룹 차원에서 AI 역량 강화에 나선 것은 이번이 처음이 아니다. 신 회장은 지난해 신년사에서 ‘AI 내재화’에 집중할 것을 주문하며 비즈니스 모델 창출과 비용 절감 등 유의미한 성과를 만들어야 한다고 강조했다.올해 신년사에서도 AI 활용을 재차 강조했다. 신 회장은 “앞으로 직면할 경영 환경의 변화는 더욱",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "신동빈 회장의 'AI 내재화' 방침에 따라 롯데그룹이 유통·식품 등 전 계열사에 AI를 적용 중이지만, 실질적인 경영 성과 창출이 향후 과제로 지적되고 있다.",
+    "thumbnail": "https://image.zdnet.co.kr/2025/03/24/9dee90bb7069133709ce84d4764faa46.jpg",
+    "score": 5.982,
+    "engagement": 0,
+    "matched_keywords": [
+      "생산성",
+      "현장",
+      "ax"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "존속 15년 '8800억원' 초장기기술투자펀드 나온다…3분기 운용사 모집",
+    "url": "https://www.etnews.com/20260720000052",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-07-20T06:30:00+00:00",
+    "raw_excerpt": "금융위원회와 한국산업은행이 차세대 반도체 등 첨단산업 장기투자를 유도하기 위해 15년 존속기한을 갖는 8800억원 규모의 '초장기기술투자펀드'를 신설하고, 올 3분기 위탁운용사 모집에 나선다. 금융위는 20일 서울 여의도 산업은행 투자설명회(IR)센터에서 공청회를 열고 초장기기술투자펀드 상세 운영방안을 공개했다. 이번 펀드는 정부가 추진 중인 정책성 펀드인 국민성장펀드의 일부로, 자금 부족과 높은 위험성으로 장기 투자가 어려웠던 미래 원천기술",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "금융위원회와 한국산업은행이 차세대 반도체 등 첨단산업 장기투자를 지원하기 위해 15년 존속기한의 8800억원 규모 초장기기술투자펀드를 신설하고 3분기 운용사 모집을 시작한다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/07/20/news-p.v1.20260720.b1ddf336526348c380efbb4a1d67483b_P1.jpg",
+    "score": 5.843,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "차세대"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "NH투자증권 “1000조원 이익 체력…반도체 피크아웃 우려 과도”",
+    "url": "https://www.etnews.com/20260720000295",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-07-20T05:41:41+00:00",
+    "raw_excerpt": "“현재 증시는 반도체 피크아웃 우려와 지정학적 불안, 수급 교란이 한꺼번에 반영되며 과도하게 하락한 상태다. 코스피 6000선은 여러 악재를 감안하더라도 사실상 '락바텀(더 내려가기 어려운 최저점)'으로 볼 수 있다.” 김병연 NH투자증권 투자전략부 리서치본부 이사는 20일 한국거래소 서울사옥에서 열린 'KRX 출입기자단-증권사 애널리스트 간담회'에서 하반기 국내 증시가 코스피 7000선 초중반을 회복한 뒤 빅테크 실적을 확인하며 안정을 찾아갈",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "NH투자증권은 반도체 피크아웃 우려가 과도하게 반영되었다며 코스피 6000선을 더 이상 내려가기 어려운 최저점으로 평가하고 하반기 회복을 전망했다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/07/20/news-p.v1.20260720.a894152f3e834757b97e4038973642ef_P1.jpg",
+    "score": 5.792,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "빅테크"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "“공주 있는데 36촌男 일왕으로?”…'男 중심' 황실전범 개정에 다카이치 지지율 '역대 최저'",
+    "url": "https://www.etnews.com/20260720000372",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-07-20T08:12:23+00:00",
+    "raw_excerpt": "일본 정치권이 왕실의 인구 감소를 막겠다며 통과시킨 '황실전범' 개정안이 국내외에서 거센 후폭풍을 맞고 있다. 여성 왕족의 왕위 승계를 전면 배제한 채 구시대적인 남성 중심의 제도만을 고집했다는 비판이 핵심이다. 18일 일본 요미우리·아사히 신문 등에 따르면 일본 참의원 본회의를 통과한 이번 개정안은 옛 왕족의 남성 계열 인물을 양자로 입적한 뒤, 그가 낳은 아들에게 왕위 계승권을 주는 내용을 담고 있다. 이에 따라 새로운 법적 지위를 얻게 될",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "일본이 여성 왕족의 왕위 승계를 배제하고 옛 왕족 남성의 양자 입적으로 왕위 계승권을 제한하는 황실전범 개정안을 통과시켜 성차별 논란을 빚고 있습니다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/07/02/rcv.YNA.20260702.PEP20260702159601009_P1.jpg",
+    "score": 5.199,
+    "engagement": 0,
+    "matched_keywords": [
+      "양자"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "Show GN: Oshiette(오시에떼) - 나만의 캐릭터와 대화하듯 즐기는 메신저형 비주얼 노벨",
+    "url": "https://news.hada.io/topic?id=31616",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-07-20T07:47:08+00:00",
+    "raw_excerpt": "소개 안녕하세요! 나만의 캐릭터와 대화하듯 즐기는 메신저형 비주얼 노벨, Oshiette(오시에떼)를 소개합니다. 이전에 프롬프트 없이 선택만으로 나만의 캐릭터를 만드는 서비스인 My Oshi Canvas를 소개했었는데요. (https://news.hada.io/topic?id=27477) 서비",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "사용자가 만든 캐릭터와 메신저 형식으로 대화하는 비주얼 노벨 게임 Oshiette가 출시되었다.",
+    "thumbnail": "https://social.news.hada.io/topic/31616?v=fa0975478286d0737872e6bef4833806",
+    "score": 5.173,
+    "engagement": 0,
+    "matched_keywords": [
+      "프롬프트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "반도체 우려·중동 악재에…코스피 4.5%·코스닥 5.3% 급락",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47417",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-20T16:57:04+00:00",
+    "raw_excerpt": "[스마트타임스]반도체에 대한 투자 심리 약화와 중동 정세 영향에 코스피가 4.5% 가까이 급락해 6,500선을 겨우 지켰고 코스닥도 5% 넘게 하락했다.20일 한국거래소에 따르면 코스피 지수는 전 거래일 대비 304.33포인트(4.46%) 내린 6,516.27에 장을 마감했다.이날 지수는 전장보다 177.02포인트(2.60%) 내린 6,643.58로 출발한 뒤 장중 한때 6,814.86까지 회복을 시도했다. 하지만 기관의 매도세에 밀려 장중 6,472.80까지 떨어지며 6,500선이 무너지기도 했다. 지수 폭락에 따라 오전 11시",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "반도체 투자 심리 약화와 중동 정세 악화로 코스피가 4.5%, 코스닥이 5.3% 급락했다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202607/47417_45980_5657_v150.jpg",
+    "score": 5.171,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "\"가계대출 문턱 더 높아진다\"… ‘빚투’ 수요 늘지만 주담대는 주춤",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47404",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-20T16:42:01+00:00",
+    "raw_excerpt": "[스마트타임스]올해 3분기 은행권의 가계대출 문턱이 한층 높아질 것으로 전망된다. 금융당국의 가계부채 관리 기조가 이어지는 가운데 증시 투자와 생활자금을 위한 대출 수요는 늘어나는 반면 금리 상승과 규제 강화 영향으로 주택관련대출은 줄어들 것으로 예상된다.한국은행이 20일 발표한 ‘금융기관 대출행태서베이 결과’에 따르면 올해 3분기 국내 은행의 대출태도 종합지수는 -7로 집계됐다.전 분기(-2) 대비 마이너스 폭이 확대된 수치로, 은행권의 대출 심사가 한층 까다로워질 것임을 시사한다. 이 지수는 마이너스(-)일수록 대출태도 강화(대",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "금융당국의 가계부채 관리로 은행권 대출 심사가 강화되면서 주택담보대출은 감소하지만 투자·생활자금 대출 수요는 증가하는 추세다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202607/47404_45978_4122_v150.jpg",
+    "score": 5.157,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "한국수자원조사기술원, 케이소방안전나눔센터에 소방공무원 후원금 전달",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47415",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-20T16:27:14+00:00",
+    "raw_excerpt": "[스마트타임스] 한국수자원조사기술원은 케이소방안전나눔센터의 활동 취지를 공감, 나눔의 가치를 실천하는 후원 행사를 개최했다고 20일 밝혔다.지난 16일 한국수자원조사기술원 이충대 기획경영본부장, 김지훈 정책기획실장 등은 케이소방안전나눔센터 허수탁 이사장에게 국민의 생명과 안전을 위해 헌신하는 소방공무원을 위한 후원금을 전달했다.케이소방안전나눔센터는 재난·재해 현장을 누비는 소방공무원들의 심리ㆍ사회ㆍ정서적 활동 지원의 취지를 설명하고 한국수자원조사기술원 후원에 감사의 뜻을 전했다.",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "한국수자원조사기술원이 케이소방안전나눔센터에 소방공무원 지원을 위한 후원금을 전달했다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202607/47415_45975_2521_v150.jpg",
+    "score": 5.143,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "'종합특검 연장법' 상정에 여야 충돌…국민의힘 필리버스터 돌입",
+    "url": "https://www.etnews.com/20260720000299",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-07-20T05:47:58+00:00",
+    "raw_excerpt": "22대 국회 후반기 시작부터 여야 강대강 대치가 재현됐다. 내란·김건희·채해병 등 3대 특검의 미진한 부분 등을 수사하는 2차 종합특검 수사 기간을 연장하는 법안이 20일 더불어민주당 주도로 본회의에 상정되자 국민의힘은 필리버스터(무제한 토론)로 맞서며 정면 충돌했다. 국회는 이날 본회의를 열고 '종합특검 연장법'을 상정했다. 민주당이 추진하는 이 법안은 종합특검의 수사 기간을 추가로 30일 연장할 수 있도록 하는 것이 핵심이다. 법안이 최종",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "민주당이 내란·김건희·채해병 사건 등 3대 특검의 수사 기간을 30일 연장하는 법안을 상정하자 국민의힘이 필리버스터로 맞서며 여야가 정면 충돌했다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/07/20/rcv.YNA.20260720.PYH2026072012810001300_P1.jpg",
+    "score": 5.049,
+    "engagement": 0,
+    "matched_keywords": [
+      "법안"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "가상자산 시총 9개월만에 반토막…스테이블코인마저 꺾였다",
+    "url": "https://www.etnews.com/20260720000277",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-07-20T05:22:32+00:00",
+    "raw_excerpt": "세계 가상자산 시장 규모가 9개월 만에 반토막 났다. 지난해 10월 4조4000억달러에 달했던 시가총액(이하 시총)은 올해 2분기 말 2조1000억달러로 줄었다. 미국 현물 상장지수펀드(ETF)에서 기관 자금이 빠져나간 데 이어 시장 대기자금으로 통하는 스테이블코인 시총까지 감소했다. 21일 글로벌 가상자산 데이터 플랫폼 코인게코가 발간한 '2026년 2분기 암호화폐 산업 보고서'에 따르면 2분기 말 전체 가상자산 시총은 2조1000억달러로 집",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "가상자산 시장이 9개월 만에 4조4000억달러에서 2조1000억달러로 반토막 났으며, 기관 자금 유출과 스테이블코인 감소가 주요 원인이다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/06/25/news-p.v1.20260625.233fcea48d164ab9bd29e421929efc0c_P1.png",
+    "score": 5.022,
+    "engagement": 0,
+    "matched_keywords": [
+      "스테이블코인"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "흥국생명, 차세대 시스템 '하이프라임' 론칭…“미래형 보험 토대”",
+    "url": "https://www.etnews.com/20260720000123",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-07-20T05:00:00+00:00",
+    "raw_excerpt": "흥국생명이 고객 편의성과 내부 업무 효율성을 대폭 개선한 차세대 시스템 하이프라임(Hi-Prime)을 구축하고 본격 가동에 나섰다. 인공지능(AI) 등 새로운 디지털 기술을 유연하게 적용할 수 있도록 미래형 보험 서비스 토대를 마련했다는 평가다. 흥국생명은 지난달 건강보험 선도회사 도약과 시장 변화에 유연한 대응을 위해 차세대 시스템을 오픈했다. 흥국생명은 약 22개월에 걸친 전사적 노력을 통해 차세대 시스템을 완성했다. 김상익 흥국생명 차세대",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "흥국생명이 AI 등 디지털 기술을 유연하게 적용할 수 있는 차세대 시스템 '하이프라임'을 구축해 미래형 보험 서비스의 토대를 마련했다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/07/20/news-p.v1.20260720.042d6f6bf67346dcaa02bdbf45f675e9_P2.jpg",
+    "score": 4.999,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "카드사도 VAN업 직접 한다…금융당국 해석에 업계 충돌",
+    "url": "https://www.etnews.com/20260720000231",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-07-20T04:48:34+00:00",
+    "raw_excerpt": "신용카드사가 다른 카드사의 승인·매입 중계(VAN) 업무를 직접 수행할 수 있다는 금융당국의 법령해석이 나오면서 카드업계와 VAN업계가 정면으로 맞붙었다. 금융당국은 카드사의 고유 업무라고 판단했지만, VAN업계는 동일한 사업을 하는 만큼 등록과 규제를 적용해야 한다고 반발하고 있다. 20일 금융권에 따르면, 금융당국은 “부가통신업(VAN)은 여신전문금융업법상 신용카드업의 범위에 포함되므로 신용카드업자가 직접 수행할 수 있다”는 판단을 내렸다.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "금융당국이 카드사의 VAN 업무 직접 수행을 허용하자 기존 VAN업계가 동등한 규제를 요구하며 충돌하고 있다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/07/20/news-p.v1.20260720.4a64eb41b20a4823b7f1a4e333ce2e3d_P1.png",
+    "score": 4.987,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "올해 상반기 반도체 신입 채용 공고 47% 증가",
+    "url": "https://www.etnews.com/20260720000170",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-07-20T03:47:57+00:00",
+    "raw_excerpt": "올해 상반기 반도체 업종 신입직 채용 공고가 크게 증가한 것으로 나타났다. 20일 잡코리아에 따르면 올해 상반기 반도체 업종 신입직 채용 공고 수는 전년 동기 대비 47% 증가했다. 업종 내 전체 채용 공고 중 신입직이 차지하는 비중은 12.2%로, 전년 동기 대비 2.4%포인트(P) 확대되며 최근 5개년 중 최고치를 기록했다. 그동안 경력직 중심으로 운영되던 반도체 업종 채용 시장이 신입 인력 확보로 확대되고 있는 것으로 분석된다. 신입·경력",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "올해 상반기 반도체 신입직 채용 공고가 전년 동기 대비 47% 증가해 경력직 중심의 채용 시장이 신입 인력 확보로 확대되고 있다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/07/20/news-p.v1.20260720.3aefbb48b9a04ca48d07b0fbfe1012bb_P2.png",
+    "score": 4.924,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "OpenAI, Codex 모델 컨텍스트 크기를 372k에서 272k로 축소",
+    "url": "https://news.hada.io/topic?id=31611",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-07-20T03:33:20+00:00",
+    "raw_excerpt": "OpenAI Codex의 번들 모델 메타데이터 를 갱신하면서 모델 컨텍스트 크기를 372k에서 272k로 줄인 변경을 release/0.144 브랜치에 백포트함 PR #33972는 agent/hotfix-0.144-model-metadata 브랜치에서 Codex 0.144 릴리스 로 변경 사항을...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "OpenAI가 Codex 모델의 컨텍스트 크기를 372k에서 272k로 축소했다.",
+    "thumbnail": "https://social.news.hada.io/topic/31611?v=bfe34d39529f2a2fc46110a5db718764",
+    "score": 4.909,
+    "engagement": 0,
+    "matched_keywords": [
+      "codex"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "한화솔루션, 유상증자 규모 1.17조 확정…초안 대비 절반 수준",
+    "url": "https://zdnet.co.kr/view/?no=20260720154453",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-20T07:35:57+00:00",
+    "raw_excerpt": "[지디넷코리아]한화솔루션 유상증자 규모가 1조 1700억원 대 수준으로 확정됐다. 당초 계획한 2조 4000억원보다 규모가 절반 가량 줄었다.한화솔루션은 유상증자 최종 발행가액을 주당 2만2100원으로 확정했다고 20일 공시했다. 1차 발행가액인 2만7900원보다 20.8% 낮아졌다.이에 따라 이번 유상증자 모집금액은 1조 1713억원으로 조정됐다.한화솔루션은 지난 3월 유상증자 추진 계획을 발표했지만, 금융 당국에 두 차례 정정 요구를 받으면서 유증 규모가 축소됐다. 이에 따라 채무상환에 투입할 계획인 자금도 최초 1조 4899억원에서 최종 2636억원으로 감소했다. 시설투자 금액은 최초 9077억원 수준을 유지했다.유상증자 규모가 축소됨에 따라 한화솔루션은 자체 자금 조달로 감소분을 보완하고 있다.회사는 지난 5월 지난해 수령한 첨단제조세액공제(AMPC) 중 약 2000억원(1억 3000만 달러) 규모를 매각했다. 지난달에는 큐셀 부문 미국 설계∙조달∙건설(EPC) 사업법인을 통해 3000억원 규모의 상환전환우선주(RCPS)를 발행했다.지난 16일에는 미국 벤처투자펀드를 매각해 1255억원을 추가 확보했다. 한화솔루션은 오는 22~23일 구주주 청약을 실시한다. 실권주 일반공모는 27~28일 진행되며 납입일은 30일이다. 신주 상장 예정일은 내달 11일로 발표했다.",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "한화솔루션이 유상증자 규모를 당초 2조 4000억원에서 1조 1700억원으로 축소 확정하고 부족분을 자산 매각과 우선주 발행으로 메우고 있다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/05/21/5db8218df528ed2c879dd021bb5008a2.jpg",
+    "score": 4.645,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "오리엔텀 \"이탈리아 링크스 재단과 양자기술 개발 업무협약\"",
+    "url": "https://zdnet.co.kr/view/?no=20260720163130",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-20T07:31:30+00:00",
+    "raw_excerpt": "[지디넷코리아]양자 컴퓨팅 소프트웨어 전문 기업 오리엔텀(대표 방승현)은 이탈리아 링크스 재단(LINKS)과 금융 서비스, 은행 및 보험 분야에서 양자 및 양자 영감 컴퓨팅 연구개발을 공동 모색하기 위한 업무협약(MoU)을 체결했다고 20일 밝혔다.이 협약은 양자 컴퓨팅, 양자 영감 기술, 그리고 초고성능 컴퓨팅-양자 하이브리드(HPC–퀀텀) 워크플로우가 복잡한 금융 애플리케이션의 플랫폼 기술을 어떻게 해결할 수 있는지를 공동 평가하기 위해 이루어졌다.양사는 ▲파생상품 및 옵션 가격 결정: 몬테카를로 기법 및 양자 진폭 증폭 추정 ▲포트폴리오 최적화 및 리스크 관리: 제약 조건이 있는 조합 최적화, 최적의 포트폴리오 청산 및 실행, 리스크 분석 ▲은행 및 보험용 머신러닝 애플리케이션: 이상 거래 탐지 및 상품 추천 등의 유스케이스를 위한 양자 및 양자 영감 머신러닝 등에서 협력 방안을 찾을 계획이다.양사는 이외에 양자 기술과 관련한 실현 가능성을 평가하고, 개념 증명(PoC) 및 시제품을 개발하기로 했다. 추가적인 공동 이니셔티브 기회도 발굴한다.이와함께 △금융 유스케이스 및 벤치마킹 방법론 정의 △알고리즘 및 소프트웨어 설계·테스트 △과학 및 기술 지식 교류 △지역·국가·국제 연구비 지원 프로그램 참여 모색 등의 협력도 구체적으로 논의할 계획이다.방승현 대표는 \"스마트 그리드, 에너지 시스템 및 관련 분야를 위한 양자 컴퓨팅 및 양",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "오리엔텀이 이탈리아 링크스 재단과 금융·은행·보험 분야의 양자컴퓨팅 연구개발을 위한 업무협약을 체결했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/07/20/fbcba9a6f2e56f5f25c577c88f3e9edb.jpg",
+    "score": 4.641,
+    "engagement": 0,
+    "matched_keywords": [
+      "양자"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "홈쇼핑 12개 회사, 정부·중소기업과 상생협력 공동선언문 서명",
+    "url": "https://zdnet.co.kr/view/?no=20260720152332",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-20T06:23:32+00:00",
+    "raw_excerpt": "[지디넷코리아]정부와 홈쇼핑 업계, 중소기업이 한데 모여 상생협력 공동선언문을 발표했다.방송미디어통신위원회는 20일 서울에서 12개 홈쇼핑사와 협력 중소기업 등이 참석한 가운데 ‘홈쇼핑 상생협력 공동선언식’을 개최했다. 지난 5월 발표한 홈쇼핑 상생‧활력 제고 방안을 계기로 정부와 홈쇼핑업계, 중소기업 간 동반성장 기반을 강화하기 위한 자리다.이날 공동선언식에는 TV홈쇼핑‧데이터홈쇼핑협회, 12개 TV홈쇼핑‧데이터홈쇼핑사, 이들과 함께 성장해 온 중소기업 대표들이 참석해 공동선언문에 서명했다.공동선언문에는 정부의 규제혁신과 정책지원, 홈쇼핑사의 중소기업 성장지원과 공정한 거래문화 확산, 이용자 권익 보호와 방송미디어 생태계 발전 기여, 중소기업의 상품과 서비스 경쟁력 제고 노력에 대한 내용이 담겼다.또한 홈쇼핑 산업이 중소기업과의 상생 및 방송생태계 발전에 기여할 수 있도록 책임을 다하겠다는 공동 의지를 표명하고 이를 구체화한 10대 공동 실천 과제도 마련했다.행사에서는 홈쇼핑사의 상생협력 사례와 홈쇼핑을 통해 성장한 중소기업의 성공 사례도 공유하며, 홈쇼핑이 단순한 판매채널을 넘어 중소기업의 성장 플랫폼 역할과 가치를 수행해 왔음을 확인했다.아울러 CJ ENM과 FICC는 CJ온스타일의 중소 브랜드 육성 프로그램인 CJ온큐베이팅을 통해 성장한 뷰티브랜드 아로셀 성장 사례와 홈앤쇼핑의 전통시장 소상공인 살리기 프로그램 등 4개 우수사",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "정부와 홈쇼핑 12개 회사가 중소기업과의 상생협력을 위한 공동선언문에 서명하고 10대 실천 과제를 마련했다.",
+    "thumbnail": "https://zdnet.co.kr/images/default_img.jpg",
+    "score": 4.577,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "삼현, 로봇 핸즈 개발 돌입…\"내년 여름 실물 공개\"",
+    "url": "https://zdnet.co.kr/view/?no=20260720143444",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-20T06:14:23+00:00",
+    "raw_excerpt": "[지디넷코리아]모션 컨트롤 기업 삼현이 로봇 핸즈(손) 개발에 나선다. 자사 액추에이터를 활용해 휴머노이드 상용화에 핵심 요소인 로봇 핸즈를 선점한다는 계획이다.액추에이터는 로봇이 인간과 유사한 방식으로 움직이도록 전기 에너지를 회전 운동(동력)으로 바꾸는 변환장치다. 사람으로 치면 관절을 움직이게 만드는 근육 같은 역할을 한다.20일 삼현 관계자는 \"내년 6~7월 로봇 핸즈 실물 공개를 목표로 제품을 개발 중\"이라고 말했다. 올해까지 선행 개발을 완료하고 내년 실제 제품을 시장에 공개한다는 방침이다.삼현은 내재화한 액추에이터 기술력을 기반으로 로봇 핸즈를 만든다는 전략이다. 회사는 이를 위해 로봇 핸즈에 들어갈 소형 액추에이터를 개발할 예정이다. 또 다른 삼현 관계자는 \"이달 초 공개한 12종 액추에이터 이외에 로봇 핸즈에 들어갈 액추에이터를 따로 개발할 것\"이라고 설명했다.로봇 핸즈에 탑재될 액추에이터에는 준직접구동(QDD) 제어 기술이 사용될 예정이다. QDD는 감속비를 낮춰 충격 흡수와 힘 제어에 유리한 구동 방식이다. 다만 로봇 핸즈의 구체적인 형태나 가격은 아직 미정이다.앞서 삼현은 이달 초 로봇용 액추에이터 12종을 공개했다. 액추에이터는 액슬론(AXLON)-I 시리즈(10종), O 시리즈(1종), L 시리즈(1종)로 나뉜다. I 시리즈는 로봇 주요 회전 관절에 적용하는 표준 액추에이터다. O 시리즈는 고난도 구동에 적합",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "모션 컨트롤 기업 삼현이 자체 액추에이터 기술을 활용해 로봇 핸즈를 개발 중이며 내년 6~7월 실물 공개를 목표로 하고 있다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/07/20/6f5a8a8abd908286b0f9c554b9e98f71.jpg",
+    "score": 4.569,
+    "engagement": 0,
+    "matched_keywords": [
+      "휴머노이드"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "LoRA Speedrun – a public wall-clock leaderboard for fine-tuning techniques",
+    "url": "https://github.com/Saivineeth147/lora-speedrun",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-20T04:24:48+00:00",
+    "raw_excerpt": "Article URL: https://github.com/Saivineeth147/lora-speedrun Comments URL: https://news.ycombinator.com/item?id=48974325 Points: 66 # Comments: 7",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "LoRA 파인튜닝 기법의 속도를 경쟁적으로 측정하는 공개 리더보드가 출시되었습니다.",
+    "thumbnail": "https://repository-images.githubusercontent.com/1305115824/8a9e536e-cfd7-49ca-9feb-56cc68dc9815",
+    "score": 2.646,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+    "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-20T02:51:16+00:00",
+    "raw_excerpt": "Article URL: https://xcancel.com/__alpoge__/status/2079028340955197566 Comments URL: https://news.ycombinator.com/item?id=48973869 Points: 368 # Comments: 211",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Claude가 야코비안 추측에 대한 반례를 발견해 수십 년간 미해결 문제에 진전을 가져왔습니다.",
+    "thumbnail": "",
+    "score": 2.595,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "Grok-iOS – remote Grok Build from your iPhone over ACP",
+    "url": "https://github.com/Pedroshakoor/grok-build-ios",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-19T21:51:26+00:00",
+    "raw_excerpt": "Article URL: https://github.com/Pedroshakoor/grok-build-ios Comments URL: https://news.ycombinator.com/item?id=48971999 Points: 10 # Comments: 0",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "iPhone에서 ACP를 통해 원격으로 Grok을 빌드할 수 있는 Grok-iOS 도구가 공개되었다.",
+    "thumbnail": "https://opengraph.githubassets.com/0b8f5ba5637b768b8dc629246df398a2083a6d1dcde4a84caaf9360d3b0d9d13/Pedroshakoor/grok-build-ios",
+    "score": 2.428,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  }
+]
