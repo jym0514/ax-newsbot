@@ -1,0 +1,822 @@
+[
+  {
+    "title": "엔비디아, 차세대 '젯슨 토르' 컴퓨터 공개…휴머노이드·엣지 AI 대중화 앞당긴다",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41044",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-20T11:23:53+00:00",
+    "raw_excerpt": "엔비디아(NVIDIA)가 차세대 로보틱스와 엣지 인공지능(AI) 시장을 겨냥한 새로운 ‘젯슨 토르(Jetson Thor)’ 컴퓨팅 플랫폼을 공개했다. 블랙웰(Blackwell) 아키텍처를 기반으로 한 T3000과 T2000 모듈을 통해 휴머노이드 로봇, 자율기계, 비주얼 AI 에이전트의 대규모 상용화를 지원하고, AI 에이전트를 활용한 자동 메모리 최적화 기능까지 제공하며 피지컬 AI(Physical AI) 생태계 확장에 속도를 내고 있다.엔비디아는 지난 16일(현지시간) 새로운 젯슨 토르 제품군과 함께 메모리 최적화용 ‘젯슨 에이",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "엔비디아가 블랙웰 아키텍처 기반 젯슨 토르 컴퓨팅 플랫폼을 공개하며 휴머노이드 로봇과 엣지 AI의 상용화를 가속화하고 있다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/41044_61843_2337_v150.jpg",
+    "score": 9.629,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "nvidia",
+      "엔비디아"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "구글은 AI에게 스스로 답을 검토하게 만든다…'셀프 리파인' 특허가 바꾸는 대형언어모델의 미래",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41040",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-20T10:43:59+00:00",
+    "raw_excerpt": "챗GPT(ChatGPT)나 제미나이(Gemini)와 같은 대형언어모델(LLM)을 사용하다 보면 원하는 답변이 나오기는 했지만 일부 내용이 틀렸거나, 요청한 형식을 제대로 지키지 못하거나, 중요한 조건을 빠뜨리는 경험을 하게 된다. 결국 사용자는 “다시 작성해줘”, “표로 정리해줘”, “10줄 이내로 작성해줘”, “좀 더 자세히 설명해줘”와 같은 후속 지시를 반복하게 된다.이러한 현상은 생성형 AI의 대표적인 한계 중 하나다. LLM은 방대한 데이터를 학습했지만 확률적으로 다음 단어를 예측하는 방식으로 동작하기 때문에 사용자의 복잡한",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "구글의 '셀프 리파인' 특허는 AI가 생성된 답변을 스스로 검토·수정하도록 해 LLM의 정확성과 형식 준수 문제를 해결하는 기술이다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/41040_61840_439_v150.jpg",
+    "score": 8.679,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "llm",
+      "생성형 ai"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "해수부, 해양수산 분야 AI 상용화 지원...총 400억원 사업비 투입",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41043",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-20T11:15:02+00:00",
+    "raw_excerpt": "해양수산 분야 인공지능(AI) 기술의 현장 적용과 유망 기업 지원을 통한 시장 확산을 촉진하기 위해 추진되는 ‘해양수산 AI 응용제품 신속상용화 지원사업’이 본격적인 출항의 닻을 올렸다.해양수산부(장관 황종우)가 주관하는 ‘해양수산 AI 응용제품 신속상용화 지원사업’의 전담 기관인 해양수산과학기술진흥원(원장 전재우, 이하 진흥원)은 엄격한 평가 과정을 거쳐 최종 20개 과제를 선정하고 사업에 착수했다고 20일 밝혔다.이번 사업은 기존 틀을 벗어나 첨단 기술을 해양수산 현장에 빠르게 적용하는 것이 핵심으로 시장 수요를 반영한 AI 응",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "해양수산부가 해양수산 분야 AI 상용화를 위해 400억원을 투입하며 20개 과제를 선정해 지원사업을 시작했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/41043_61842_1434_v150.jpg",
+    "score": 7.817,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "삼성SDS, 퓨리오사AI NPU 기반 NPUaaS 출시... AI 인프라 확산 및 소버린 AI 구축 전환점 기대",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41038",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-20T09:28:57+00:00",
+    "raw_excerpt": "삼성SDS가 퓨리오사AI의 2세대 신경먕처리장치(NPU)인 '레니게이드(RGND)'를 기반으로 한 NPUaaS(NPU as a Service)를 SCP(삼성 클라우드 플랫폼)에 탑재하여 출시했다고 20일 밝혔다.퓨리오사AI의 2세대 NPU 레니게이드는 인공지능(AI) 추론에 특화된 국산 NPU로, 이미 학습된 AI 모델을 실제 서비스에 적용해 답변 생성, 문서 분석, 이미지 판별 등을 처리하는 단계에서 GPU 대비 전력 효율성과 가성비가 매우 뛰어난 것이 특징이다.삼성SDS의 NPUaaS 고객은 NPU 서버를 직접 구매하거나 자체",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "삼성SDS가 국산 NPU 레니게이드 기반 NPUaaS를 클라우드 플랫폼에 출시하여 AI 추론 서비스의 전력 효율성과 가성비를 개선했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/41038_61839_2821_v150.jpg",
+    "score": 7.685,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "분당서울대병원, 수술 전 심전도 한 장...AI가 사망 위험·정밀검사 대상까지 분석한다",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41037",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-20T09:02:22+00:00",
+    "raw_excerpt": "수술을 앞둔 환자의 심전도 한 장을 인공지능(AI)으로 분석해 수술 후 사망 위험이 높은 환자를 찾아내고, 정밀 심장검사의 필요성이 낮은 환자를 효과적으로 선별할 수 있다는 연구 결과가 나왔다.분당서울대병원 순환기내과 최홍미 교수·김예린 전공의·조영진 교수, 마취통증의학과 송인애 교수 연구팀은 2020년부터 2021년까지 시행된 비심장(non-cardiac) 수술 4만6천 건의 자료를 분석해 AI 심전도의 위험 예측력과 정밀검사 대상 선별 능력을 평가했다.심전도는 심장이 뛸 때 발생하는 전기 신호를 파형으로 기록한 검사로, 미세한",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "분당서울대병원 연구팀이 수술 전 심전도를 AI로 분석해 수술 후 사망 위험도를 예측하고 정밀검사 필요 여부를 효과적으로 선별할 수 있음을 입증했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/41037_61837_5942_v150.jpg",
+    "score": 7.652,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "알리바바, 2.4조 매개변수 '큐원3.8' 공개...\"페이블 5 이어 세계 2위\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212918",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-20T08:00:42+00:00",
+    "raw_excerpt": "알리바바가 차세대 플래그십 모델 '큐원 3.8'을 공개하며 프론티어 모델 성능 경쟁에 또 한번 지각변동을 예고했다.알리바바는 19일 X를 통해 2조4000억개의 매개변수를 갖춘 초대형 멀티모달 모델 큐원 3.8을 곧 오픈소스로 전환하고 모델 가중치를 개방할 예정이라고 발표했다.알리바바는 \"큐원 3.8은 지속적으로 진화하고 있으며 현재 전 세계에서 사용 가능한 가장 강력한 인프라 중 하나\"라며 \"글로벌 최첨단 프론티어 AI 모델들과 어깨를 나란히 하는 성능을 갖췄으며, 현존 최고 성능으로 평가받는 앤트로픽의 페이블 5에 이어 두 번째",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "알리바바가 2.4조 매개변수 규모의 멀티모달 AI 모델 '큐원 3.8'을 공개하며 오픈소스로 전환할 예정으로, 페이블 5에 이어 세계 2위 성능을 갖춘 것으로 평가받는다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212918_216282_218.png",
+    "score": 7.231,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "HD현대-네이버클라우드, 조선산업 AI 생태계 구축 협력",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21165",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-07-20T10:26:28+00:00",
+    "raw_excerpt": "HD현대와 네이버클라우드가 조선산업 인공지능(AI) 생태계 구축을 위해 손잡았다. HD한국조선해양은 네이버클라우드와 ‘피지컬 AI 기반 조선 사업 혁신 업무협약(MOU)’을 체결했다고 20일 밝혔다.협약식은 세종시 네이버 데이터센터 ‘각 세종’에서 열렸다. HD한국조선해양 김형관 대표와 네이버클라우드 김유원 대표를 비롯한 양사 경영진이 참석했다.협력은 크게 네 갈래로 진행된다. 조선업 맞춤형 클라우드·AI 팩토리 구축을 통해 설계에서 생산, 연구개발까지 조선 사업 전 영역의 디지털 전환을 추진한다. 공동 전문조직을 구성해 AI 활용",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "HD현대와 네이버클라우드가 조선산업 전 영역의 디지털 전환을 위해 피지컬 AI 기반 협력에 나섰다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202607/21165_21825_2510.jpg",
+    "score": 7.11,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "법무법인 원, ‘AI 데이터센터 팀’ 출범… 전력·인허가·금융 통합 자문",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21164",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-07-20T10:13:14+00:00",
+    "raw_excerpt": "법무법인 원이 데이터센터 사업에 특화된 ‘AI 데이터센터 팀’을 출범했다고 20일 밝혔다. 생성형 AI 확산과 클라우드 서비스 성장으로 데이터센터가 국가 핵심 인프라로 부상하는 가운데, 입지 선정부터 전력·인허가·금융·세제까지 사업 전 생애주기를 통합 자문하는 체계를 갖췄다고 자평했다.데이터센터 사업은 단순한 건설 프로젝트를 넘어 전력 확보, 인허가, 도시개발, 금융 조달, 세제 인센티브, 정부 정책 대응 등이 동시에 맞물리는 복합 인프라 사업으로 변화하고 있다. 특히 수도권 전력계통 포화, 전력계통영향평가, 지역별 전기요금 차등제",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "법무법인 원이 AI 데이터센터 사업에 특화된 팀을 출범해 전력·인허가·금융·세제 등 전주기 통합 자문 서비스를 제공하기로 했다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202607/21164_21824_1214.jpg",
+    "score": 7.095,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "생성형 ai"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "“대형 OTT 오리지널 시리즈 안 부럽다!... AI로 만든 마이크로 드라마 전성시대”",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41042",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-20T11:09:13+00:00",
+    "raw_excerpt": "글로벌 AI 영상 제작 플랫폼 모픽(Morphic)이 급성장하는 숏드라마(마이크로 드라마) 시장을 겨냥해 ‘숏드라마 전용 워크플로 시스템’을 고도화하여 20일 공개했다. 이번 고도화는 막대한 자본과 인력을 투입하는 글로벌 대형 OTT(온라인 동영상 서비스) 중심의 미디어 환경에서, 중소 제작사 및 1인 크리에이터의 자생력과 시장 경쟁력을 높이기 위해 기획됐다.기존 드라마 제작 환경은 대규모 자본을 보유한 대형 OTT 사업자와 대형 제작사 위주로 독과점 되어 왔다. 중소 제작사나 개인 창작자는 아이디어가 있어도 세트장 구축, 스태프",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AI 영상 제작 플랫폼 모픽이 AI 기술을 활용한 숏드라마 제작 시스템을 고도화해 중소 제작사와 개인 크리에이터의 시장 진입 장벽을 낮추고 있다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/41042_61841_810_v150.jpg",
+    "score": 6.91,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "스테이블코인 '오픈 USD' 동맹 합류한 앱토스…“美 규제 변화, 기관 진입 촉진할 것”",
+    "url": "https://www.etnews.com/20260720000058",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-07-20T00:49:28+00:00",
+    "raw_excerpt": "에이버리 칭 앱토스 랩스 최고경영자(CEO)는 미국 의회에서 논의 중인 클래리티 법이 금융기관의 디지털 자산 시장 참여를 촉진하는 기폭제가 될 것이라고 전망했다. 에이버리 칭 CEO는 지난 18일 유튜브 채널 '삼프로TV'에서 미국 내 디지털 자산 규제 도입이 금융시장에 미칠 영향을 분석했다. 그는 “클래리티 법은 금융기관과 기업들이 디지털 자산 시장에 참가할 수 있는 규제 명확성을 제공한다”고 말했다. 칭 CEO는 현재 미국 상품선물거래위원회",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "앱토스가 스테이블코인 오픈 USD 동맹에 합류하며, 미국의 클래리티 법이 금융기관의 디지털 자산 시장 진입을 촉진할 것으로 예상했다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/07/20/news-p.v1.20260720.328c155d76324753a256bd02e53ab18c_P1.png",
+    "score": 6.613,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제",
+      "스테이블코인",
+      "디지털 자산 규제"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "분당서울대병원, ‘풀스택 의료 AI’ 시대 연다...국가 주도 의료 AI 대전환 시범사업 'AX-ready' 본격 착수",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41034",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-19T17:10:04+00:00",
+    "raw_excerpt": "분당서울대병원(원장 전영태)이 환자가 병원을 찾기 전 건강관리부터 진료·협진, 퇴원 이후 예후 관리까지 환자 여정(Patient Journey) 전체를 인공지능으로 연결하는 ‘풀스택(Full-stack) 의료 AI 통합 모델’ 구축에 본격 착수했다.21개 기관이 참여하는 AICON 컨소시엄을 통해 진료지원 AI, 지역 협진 플랫폼, 병원 업무 자동화 솔루션을 유기적으로 연결해 실증하고, 이를 표준 자산으로 공개해 향후 AI 특화병원의 전국 확산 모델로 자리 잡는다는 구상이다.분당서울대병원과 과학기술정보통신부·정보통신산업진흥원(NIP",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "분당서울대병원이 환자의 건강관리부터 진료, 퇴원 후 관리까지 전 과정을 AI로 연결하는 '풀스택 의료 AI 통합 모델'을 구축하기 시작했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/41034_61832_86_v150.jpg",
+    "score": 6.461,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "SKT-하나금융그룹, ‘TECH4GOOD 해커톤’ 성료… 포용적 미래를 위한 AI 서비스 발굴",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41033",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-19T16:59:36+00:00",
+    "raw_excerpt": "SK텔레콤(대표이사 CEO 정재헌)은 하나금융그룹(회장 함영주)과 함께 ‘포용적 미래를 위한 인공지능(AI) 서비스’를 주제로 개최한 ‘TECH4GOOD 해커톤’을 성공적으로 마쳤다고 19일 밝혔다.이번 해커톤 대회는 양사가 추진하고 있는 AI 인재 양성 프로그램의 일환으로 지난 15일부터 16일까지 경기도 이천 SKT 인재개발원에서 진행됐다. SKT의 청년 대상 AI 교육 프로그램 ‘FLY AI 챌린저’ 9기 61명과 하나금융그룹의 인재 양성 프로그램 ‘하나 청년 금융인재 양성 프로젝트’ 참가자 54명 등 대학생을 포함한 총 11",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "SKT와 하나금융그룹이 포용적 미래를 위한 AI 서비스 개발을 주제로 'TECH4GOOD 해커톤'을 개최해 AI 인재 양성 프로그램을 추진했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/41033_61830_581_v150.jpg",
+    "score": 6.448,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "농식품 스타트업, 해외 진출 시 기술력보다 현지화 우선",
+    "url": "https://byline.network/2026/07/859843058340/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-07-19T22:26:21+00:00",
+    "raw_excerpt": "애그테크·푸드테크·그린바이오 같은 농식품 스타트업 업계가 해외 진출을 하기 위해서는 기술력보다 현지화가 먼저 고려돼야 한다는 평가 기준이 제시됐다. 기술력보다 시장의 수요에 맞추는 것을 우선해야 한다는 의견도 뒤따랐다. 16일 서울 코엑스에서 열린 ‘제4회 농식품 테크 창업 스타트업 박람회(AFPRO)’에서는 글로벌 수출을 지원하는 2026 글로벌 액셀러레이팅 데모데이(GMEP Demo-Day)가 열렸다. 해당 세션의 패널 토론회에는 민요한 도시곳간 대표, 샤픽 조하리 더개리슨 최고투자책임자(CIO), 이재호 그린웨이브솔루션 대표가 참석했다.",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "농식품 스타트업의 해외 진출 성공을 위해서는 기술력보다 현지 시장 수요에 맞춘 현지화 전략이 우선되어야 한다.",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/07/AFPRO-1-1.jpg",
+    "score": 6.285,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업",
+      "창업"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Supabase가 조사한 2026년 스타트업 현황",
+    "url": "https://news.hada.io/topic?id=31604",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-07-20T01:02:02+00:00",
+    "raw_excerpt": "스타트업 빌더 2,000명을 조사한 결과, 2025~2026년 사이 창업자는 더 고령·비기술·1인 중심으로 바뀌었고 AI 작성 코드 가 일반화됐으며 창업 지역도 넓어짐 Anthropic 이 개발 도구·유료 구독·모델 공급자·에이전트 SDK에서 선두로 올라섰고, Claude Code 사용률은...",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Supabase 조사에 따르면 2025~2026년 스타트업 창업자는 고령화·비기술자·1인 중심으로 변화했고 AI 코드 생성이 일반화되며 Anthropic이 개발 도구에서 선두를 차지했다.",
+    "thumbnail": "https://social.news.hada.io/topic/31604?v=6fcc8fcf1f710692c50ea7e9ef65cc04",
+    "score": 5.876,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업",
+      "창업"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "한투운용 'ACE 데일리타겟커버드콜' 3종 7월 분배금 지급",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47388",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-20T11:23:42+00:00",
+    "raw_excerpt": "[스마트타임스]한국투자신탁운용은 'ACE 데일리타겟커버드콜' 상장지수펀드(ETF) 3종에 대해 특별 분배금을 포함한 분배금을 지급한다고 20일 밝혔다.3종 상품은 ACE 미국500데일리타겟커버드콜(합성), ACE 미국빅테크7+데일리타겟커버드콜(합성), ACE 미국반도체데일리타겟커버드콜(합성) 3종이다.3종 상품은 지난 2024년 4월 상장 이후 매월 1% 초중반의 월 분배율을 기록했으나 지난 6월부터 2~3%대의 월 분배율로 분배금을 지급하고 있다.7월 분배율은 ACE 미국500데일리타겟커버드콜(합성) 2.03%, ACE 미국빅테크",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "한국투자신탁운용이 'ACE 데일리타겟커버드콜' ETF 3종에 7월 분배금을 지급하며, 6월부터 월 분배율이 1% 초중반에서 2~3%대로 상향되었다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202607/47388_45952_2329_v150.jpg",
+    "score": 5.871,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "빅테크"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "여분의 Mac을 Claude Code 전용 제어 환경으로 만드는 단계별 가이드",
+    "url": "https://news.hada.io/topic?id=31591",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-07-19T23:35:47+00:00",
+    "raw_excerpt": "개인 데이터가 없는 여분의 Mac 에 Claude Code를 설치해, 주 Mac의 SSH와 휴대폰 Claude 앱에서 항상 접근 가능한 독립 실행 환경 으로 구성함 컨테이너보다 장비 격리 수준이 높고 Unity와 Mac 전용 GUI 앱도 사용할 수 있어, --dangerously-skip-permission...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "여분의 Mac을 Claude Code 전용 독립 환경으로 구성하면 보안 강화와 함께 Unity 등 전문 개발 도구를 안전하게 사용할 수 있다.",
+    "thumbnail": "https://social.news.hada.io/topic/31591?v=c03fe5981d43192b91770df278466ad5",
+    "score": 5.786,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "claude code"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "유창훈 대표가 말하는 ‘OT 보안에 센스톤의 OTAC가 필요한 이유’",
+    "url": "https://byline.network/2026/07/16-694/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-07-20T02:20:37+00:00",
+    "raw_excerpt": "“OTAC가 금융과 드론 같은 분야에서는 ‘있으면 좋은 기술’ 정도에 머물렀지만, 운영기술(OT)에서는 ‘반드시 필요한 기술’이 됐습니다.” 유창훈 센스톤 대표는 회사가 개발한 ‘일회용 인증코드(One-Time Authentication Code·OTAC)’를 산업용제어장치(PLC) 등 OT 장비에 적용하면, 외부 통신이 제한된 산업 현장에서도 사용자와 기기를 식별하고 비인가 접근을 막을 수 있다고 강조했다. 센스톤은 최근 작업자가 실제 OT 설비에 접속하기 직전 신원을 다시 확인하는 인증 영역을 집중적으로 공략하고 있다.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "센스톤의 OTAC(일회용 인증코드) 기술이 외부 통신이 제한된 산업 현장에서 OT 장비의 비인가 접근을 방지하는 필수 보안 솔루션으로 주목받고 있다.",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/07/SENSTONE22-1.jpg",
+    "score": 5.729,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "\"사용자 마우스 흔들고 바탕화면 변경\"…새로운 악성코드 발견",
+    "url": "https://zdnet.co.kr/view/?no=20260720104622",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-20T01:46:22+00:00",
+    "raw_excerpt": "[지디넷코리아]글로벌 사이버 보안 기업 카스퍼스키(한국지사장 이효은)가 현재까지 발견되지 않았던 새로운 원격제어 악성코드(RAT)가 판매되고 있는 동향을 포착했다.20일 카스퍼스키에 따르면 카스퍼스키 글로벌 연구분석팀(GReAT)는 새로운 RAT인 '크리스탈엑스 RAT(CrystalX RAT)'를 발견했다.이 악성코드는 일반적인 RAT를 넘어 ▲정보 탈취형 악성코드(스틸러) ▲키로거 ▲클리퍼(암호화폐 지갑 주소를 공격자가 미리 지정한 주소로 자동으로 바꿔치기하는 악성코드) ▲스파이웨어 등 기능을 하나로 통합한 것이 특징이다. 카스퍼스키에 따르면 공격자들은 이 악성코드를 서비스형 악성코드(MaaS) 형태로 제3자에게 판매하고 있는 것으로 파악됐다.실제 유튜브와 텔레그램 등을 통해 크리스탈엑스 RAT를 적극 홍보하고 있어 숙련도가 낮은 공격자도 악용할 가능성이 커지고 있다는 것이 카스퍼스키의 진단이다.뿐만 아니라 크리스탈엑스 RAT는 피해자의 다양한 정보까지도 수집할 수 있는 것으로 나타났다. 디스코드, 텔레그램 등의 자격증명을 탈취하고, 웹 브라우저에 저장된 계정정보 등 데이터를 수집하는 것도 가능하다. 또한 화면 캡처는 물론 마이크를 통한 음성 녹음, 웹캠 촬영, 그리고 피해자의 화면을 실시간으로 녹화할 수 있어 사실상 피해자의 활동 전반을 감시할 수 있다.특히 공격자는 피해자의 마우스 커서를 강제로 흔들거나, 바탕화면 배경을 변경하",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "카스퍼스키가 정보탈취·키로깅·스파이웨어 기능을 통합한 새로운 원격제어 악성코드 '크리스탈엑스 RAT'를 발견했으며, 이는 서비스형 악성코드로 판매되고 있어 초보 공격자도 악용할 수 있다는 점이 우려된다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/07/20/b71c65daa362c6366ded6d4f4265fc3f.png",
+    "score": 5.33,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "사이버 보안"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "마이다스그룹, AI 에이전트 중심 업무 전환…'인AX' 10월 공개",
+    "url": "https://zdnet.co.kr/view/?no=20260720102958",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-20T01:42:01+00:00",
+    "raw_excerpt": "[지디넷코리아]마이다스그룹이 업무 맥락을 이해하고 스스로 계획·실행하는 인공지능(AI) 에이전트를 전사에 도입한다. 사내 데이터와 업무 관계를 하나의 지식그래프로 연결한 AI 업무 플랫폼 '인AX(inAX)'를 오는 10월 선보이고 연말에는 글로벌 고객의 영업·기술지원·교육을 수행하는 전문 에이전트도 출시한다는 목표다.신미영 마이다스인 대표는 지난 16일 더블트리 힐튼 판교 호텔에서 개최한 '2026 마이다스 위크, 아너스 데이'에서 \"이제는 AI 에이전트가 일을 하고 사람은 판단한다\"며 \"사람이 AI로 대체되는 것이 아니라 능력이 AI를 통해 증강되는 미래가 마이다스그룹이 그리는 '더 맥스(the MAX)'\"라고 밝혔다.마이다스 위크는 지난 13일부터 17일까지 국내외 마이다스그룹 구성원이 모여 사업 성과와 비전을 공유하는 행사다. 이중 아너스 데이는 그룹 전사를 대상으로 미래 비전을 공유하는 핵심 프로그램이다. 올해는 중국·일본·인도·러시아·미국·유럽·호주 등 9개국 해외법인 구성원 111명을 포함해 판교 본사 리더와 핵심 인재 등 약 240명이 참석했다.마이다스그룹이 추진하는 AI 전환(AX)의 핵심은 그룹 업무 운영체계를 AI 에이전트 중심으로 재설계하는 인AX다. 기존 생성형 AI가 사용자의 질문에 답하거나 개별 업무를 자동화하는 수준에 머물렀다면, 인AX는 조직 목표와 사람·업무·고객·재무 데이터를 연결해 필요한 업무를 먼",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "마이다스그룹이 AI 에이전트 기반 업무 플랫폼 '인AX'를 10월 공개하고 조직 운영체계를 AI 중심으로 재설계하며, 연말까지 글로벌 고객 지원 전문 에이전트도 출시할 계획이다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/07/20/b62cb4b6bfe27da1664ad2f99bb139fb.jpg",
+    "score": 5.326,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "합성 소비자, 실전 활용 가능성을 입증하다",
+    "url": "https://news.hada.io/topic?id=31609",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-07-20T01:51:01+00:00",
+    "raw_excerpt": "실제 고객을 AI로 재현한 합성 소비자/고객(Synthetic Consumer) 이 정성적 탐색을 넘어 반복 가능한 정량 분석에 활용되며 제품 개발, 마케팅 시험, 현장 인력 훈련을 가속하고 있음 거래·행동·인구통계·고객 의견 등 기업의 자체 데이터 로 디지털 트윈이나 세그...",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "AI로 재현한 합성 소비자가 정량 분석 단계로 진입하며 제품 개발과 마케팅 시험, 직원 훈련을 가속화하고 있다.",
+    "thumbnail": "https://social.news.hada.io/topic/31609?v=e29acb695a59f9c6c4ccc1c1a716dc98",
+    "score": 5.177,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "항공우주 기술사업화 협력의 장 열린다…대덕특구 항공우주 혁신포럼 개최",
+    "url": "https://www.etnews.com/20260720000077",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-07-20T01:10:20+00:00",
+    "raw_excerpt": "대덕연구개발특구본부는 한국항공우주연구원과 27일 대전 사이언스 콤플렉스 D-유니콘라운지에서 '2026년 대덕특구 항공우주 혁신포럼'을 개최한다고 20일 밝혔다. 이번 포럼은 대덕특구 전략산업인 항공우주 분야의 기업과 연구기관 간 교류를 확대하고, 공공기술 사업화 과정에 필요한 정보와 항공우주 분야 특구기업 우수사례를 공유하기 위해 마련됐다. 행사에서는 항우연의 기술이전 절차 및 기업 협력 프로그램, 대덕특구의 기술사업화 지원 사업 및 제도와 함",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "대덕특구본부와 한국항공우주연구원이 27일 항공우주 혁신포럼을 개최해 기업과 연구기관 간 기술사업화 협력을 촉진한다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/07/20/news-p.v1.20260720.5211cf89112c427aa34ee5da0c5216e9_P2.jpg",
+    "score": 5.135,
+    "engagement": 0,
+    "matched_keywords": [
+      "유니콘"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "한화필리조선소, 美 '골든돔' 지원 선박 건조 사업자로 선정",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47386",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-20T10:05:26+00:00",
+    "raw_excerpt": "한화필리조선소가 미국 차세대 미사일 방어체계 '골든돔(Golden Dome)' 구축을 지원하는 해상 미사일 시험 계측선(MRIV) 건조 사업자로 선정됐다. NSMV 사업 수행 실적을 바탕으로 미국 국가안보 프로젝트에 참여하게 된 배경과 MRIV의 역할, 미국 정부와 한화의 평가, 향후 미 해군 함정 사업 확대 전략까지 살펴본다.*{box-sizing:border-box;margin:0;padding:0;}.wrap{max-width:620px;margin:0 auto;padding:0 32px;font-family:'Pretenda",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "한화필리조선소가 미국 차세대 미사일 방어체계 '골든돔' 지원용 해상 미사일 시험 계측선 건조 사업자로 선정됐다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202607/47386_45939_1444_v150.jpg",
+    "score": 5.123,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Transcribe.cpp: 크로스 플랫폼 로컬 음성 인식 라이브러리",
+    "url": "https://news.hada.io/topic?id=31600",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-07-20T00:52:57+00:00",
+    "raw_excerpt": "transcribe.cpp 는 여러 최신 음성 인식 모델을 Mac·Windows·Linux 앱에 쉽게 내장하고 GPU로 가속하기 위해 만든 ggml 기반 라이브러리임 16개 ASR 계열·60개 이상 모델 을 Vulkan·Metal·CUDA·TinyBLAS에서 실행하며 스트리밍과 배치 전사를 모두 지원함 모...",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "Transcribe.cpp가 Mac·Windows·Linux에서 60개 이상의 음성 인식 모델을 GPU 가속으로 실행하는 크로스 플랫폼 로컬 라이브러리로 출시되었다.",
+    "thumbnail": "https://social.news.hada.io/topic/31600?v=9535f61961c46ca05321e4bb237eb935",
+    "score": 5.117,
+    "engagement": 0,
+    "matched_keywords": [
+      "gpu"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "AI 래퍼는 끝났다: 초기 스타트업을 위한 수직화 전략",
+    "url": "https://news.hada.io/topic?id=31598",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-07-20T00:47:01+00:00",
+    "raw_excerpt": "기반 모델에 단일 기능을 얹은 AI 래퍼의 일시적 우위 가 사라지면서, 초기 스타트업은 전체 워크플로와 가치사슬을 소유하는 수직 통합형 사업으로 이동하고 있음 첫 번째 전략은 도메인 지식과 작업 오케스트레이션 을 결합해, 기반 모델의 원시 지능만으로는 얻기...",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "단순 기반 모델 래핑으로는 경쟁력이 사라지면서 AI 스타트업들이 도메인 지식과 워크플로 통합을 갖춘 수직 통합형 비즈니스로 전환하고 있다.",
+    "thumbnail": "https://social.news.hada.io/topic/31598?v=e3d36b823d78ec342f50a170c1eecc97",
+    "score": 5.11,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "기술적으로 뛰어난 데이터 팀이 여전히 실패하는 이유",
+    "url": "https://news.hada.io/topic?id=31596",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-07-20T00:41:01+00:00",
+    "raw_excerpt": "데이터 팀의 가치는 파이프라인·스키마·대시보드의 생산량이 아니라 조직의 의사결정 변화 에서 생기며, 데이터와 행동 사이에는 해석 계층인 관점(Perspective)이 필요함 Data-Perspective-Action 은 신뢰할 수 있는 데이터를 구축하고 비즈니스 맥락에 따라 해석한...",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "기술적으로 우수한 데이터 팀도 데이터를 비즈니스 맥락에 맞게 해석하고 의사결정으로 연결하지 못하면 가치를 창출할 수 없다.",
+    "thumbnail": "https://social.news.hada.io/topic/31596?v=9c0442dd21283353e711c5b9ab0f4e87",
+    "score": 5.104,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "OpenWiki - 코드베이스를 위한 에이전트용 문서를 작성하고 관리하는 CLI",
+    "url": "https://news.hada.io/topic?id=31594",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-07-20T00:31:01+00:00",
+    "raw_excerpt": "에이전트 전용 으로 제작된 문서화 도구로, 코드베이스나 목적별 메모리용 위키를 작성/유지 내장 커넥터 또는 Git 저장소를 통해 로컬 지식 소스를 가져와 하나의 로컬 위키로 통합 두 가지 모드 제공 Personal 모드...",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "OpenWiki는 AI 에이전트가 사용하도록 설계된 CLI 도구로, 코드베이스를 위한 문서를 작성·관리하고 로컬 지식 소스를 통합한 위키를 구축한다.",
+    "thumbnail": "https://social.news.hada.io/topic/31594?v=74296933748ce522916d27a922ee0e60",
+    "score": 5.094,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Most upvoted papers on ",
+    "url": "https://x.com/HuggingPapers/status/2078849971441336648",
+    "source": "X @HuggingPapers",
+    "source_type": "x",
+    "published_at": "2026-07-19T14:30:31+00:00",
+    "raw_excerpt": "Most upvoted papers on \n@huggingface\n this week\n\nHarness Handbook - Making evolving agent harnesses readable and editable\nLongStraw - Long-context RL beyond 2M tokens on fixed GPU budget\nWeak-to-Strong Generalization via Direct On-Policy Distillation\nBoogu-Image-0.1 - Open-source",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "Hugging Face에서 이번 주 가장 인기 있는 논문은 에이전트 하네스 가독성 개선, 장문맥 강화학습, 약한 모델을 강한 모델로 변환하는 증류 기법, 오픈소스 이미지 모델 등을 다룬다.",
+    "thumbnail": "https://pbs.twimg.com/media/HNmPCDhW0AAa_Ou.jpg:large",
+    "score": 4.979,
+    "engagement": 4843,
+    "matched_keywords": [
+      "gpu"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Here's a better way of confirming the Bun version that's used by the \"claude\" binary:",
+    "url": "https://x.com/simonw/status/2078828540917940718",
+    "source": "X @simonw",
+    "source_type": "x",
+    "published_at": "2026-07-19T13:05:21+00:00",
+    "raw_excerpt": "Here's a better way of confirming the Bun version that's used by the \"claude\" binary:",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Bun 버전 확인을 위한 더 나은 방법이 \"claude\" 바이너리를 통해 제시되었다.",
+    "thumbnail": "https://pbs.twimg.com/profile_images/378800000261649705/be9cc55e64014e6d7663c50d7cb9fc75_200x200.jpeg",
+    "score": 4.92,
+    "engagement": 10129,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "두나무, 자체 블록체인서 활동할 빌더·개발자 발굴 나서",
+    "url": "https://zdnet.co.kr/view/?no=20260720105000",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-20T01:53:08+00:00",
+    "raw_excerpt": "[지디넷코리아]두나무가 자체 블록체인 기와(GIWA) 생태계에서 활동할 빌더, 개발자, 창업자 발굴에 나섰다.두나무는 이러한 내용의 ‘가속(GASOK)’ 프로그램을 이번달 말까지 운영한다고 20일 밝혔다.참가팀은 피치덱을 포함한 MVP 데모영상이나 웹사이트, 스마트 컨트랙트 퍼블릭 링크, 기술 세부사항 등을 제출해야 한다.우수 팀에게는 10만 달러 상금과 블록체인 컨퍼런스 ‘코리아 블록체인 위크2026(KBW 2026)’에서 프로덕트를 소개할 수 있는 기회가 주어진다. 또 개발, 운영에 필요한 기와 인프라를 무상으로 제공한다.한편 기와는 두나무가 만든 웹3 인프라로, 레이어2 블록체인 기와체인과 지갑 서비스인 기와월렛이 포함됐다.",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "두나무가 자체 블록체인 기와 생태계 발전을 위해 'GASOK' 프로그램으로 빌더·개발자를 모집하며, 우수팀에게 10만 달러 상금과 인프라를 지원한다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/07/20/95526c51da6724f863e8a2f8934d3b0f.jpg",
+    "score": 4.661,
+    "engagement": 0,
+    "matched_keywords": [
+      "창업"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "에브리존 \"화이트 디펜더 플랫폼은 '랜섬웨어 전용 EDR'\"",
+    "url": "https://zdnet.co.kr/view/?no=20260720101753",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-20T01:37:26+00:00",
+    "raw_excerpt": "[지디넷코리아]\"'화이트 디펜더'는 단순한 안티 랜섬웨어가 아닌, '랜섬웨어 전용 EDR(엔드포인트 탐지 및 대응)'입니다. 행위 기반으로 알려지지 않은 랜섬웨어를 보호하며, 단순히 경고(알림)을 보내는 기존 보안 패러다임에서 나아가 실질적인 공격 차단 및 대응을 가능케 합니다. 서비스형 소프트웨어(SaaS) 형태의 화이트 디펜더를 통해 기업 및 조직에서 더욱 편하게 랜섬웨어 공격에 대응할 수 있습니다.\"홍승균 에브리존 대표는 최근 지디넷코리아와 인터뷰에서 이같이 밝혔다. 에브리존은 최근 랜섬웨어 통합 대응 솔루션 '화이트 디펜더'를 SaaS 형태로 공급하는 '화이트 디펜더 플랫폼'을 출시했다. 이와 관련, 홍 대표는 클라우드, 윈도우·리눅스 서버 등 운영체제(OS)가 다른 환경에서도 랜섬웨어 대응이 하나의 화면에서 가능할 수 있게 지원한다. 그는 \"최근 랜섬웨어는 파일이 없는 형태 등 신종이나 변종의 형태로 공격이 이뤄지고 있다\"며 \"이에 패턴 기반의 보안 솔루션은 알려지지 않은 랜섬웨어 대응에 한계가 있다\"고 말했다.이어 홍 대표는 \"이처럼 랜섬웨어 공격이 고도화하고 있는 가운데 한 번 공격에 당할 경우 모든 파일이 암호화되고, 데이터가 유출되며, 금전적인 피해로까지 이어진다. 업무 연속성이 중단되는 셈\"이라며 \"이에 랜섬웨어는 행위 기반으로 알려지지 않은 랜섬웨어라도 이상행위로 탐지되면 즉시 차단하고 대응이 가능하도록 대비해야 ",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "에브리존이 행위 기반으로 미알려 랜섬웨어를 탐지·차단하는 '화이트 디펜더 플랫폼'을 SaaS 형태로 출시했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/07/20/b9ec007213faa9d39e1b06675dcadb77.jpg",
+    "score": 4.647,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "PS5·Xbox·스팀 계정 하나로…펄어비스 '붉은사막', 크로스 세이브 기능 추가",
+    "url": "https://zdnet.co.kr/view/?no=20260720103252",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-20T01:35:02+00:00",
+    "raw_excerpt": "[지디넷코리아]펄어비스(대표 허진영)가 오픈월드 대작 '붉은사막'에 콘솔과 PC 경계를 허무는 플랫폼 통합 데이터 환경을 구축하며 이용자 편의성을 대폭 끌어올린다.펄어비스는 오픈월드 액션 어드벤처 '붉은사막'에 플랫폼 제약 없이 게임플레이를 이어갈 수 있는 '크로스 세이브' 기능을 추가했다고 20일 밝혔다.크로스 세이브는 여러 플랫폼에서 세이브 데이터를 공유해 동일한 캐릭터로 파이웰의 여정을 이어갈 수 있는 기능이다.해당 기능은 게임 내 메뉴를 통해 직관적으로 활성화할 수 있도록 설계됐다. 인게임 '저장하기' 메뉴 진입 후 '크로스 세이브 설정'을 선택하면 화면에 전용 링크 및 QR 코드가 생성된다. 모바일이나 PC를 통해 해당 코드를 스캔하면 전용 계정 연동 페이지로 이동한다.연동 지원 대상 플랫폼은 플레이스테이션 5(PS5), 엑스박스 시리즈 X S(Xbox Series X S) 등 차세대 콘솔을 포함해 PC 기반의 스팀, 에픽게임즈 스토어까지 아우른다.이용자는 안내 절차에 따라 평소 사용하던 플랫폼 계정에 로그인해 최초 1회 연동하면 된다. 필요에 따라 지원되는 모든 멀티 플랫폼 계정을 모두 연동할 수도 있다.펄어비스는 지난달 붉은사막의 신규 콘텐츠 추가 및 기존 콘텐츠 확장, 게임플레이 경험 강화에 중점을 둔 3분기 업데이트 계획을 공개했다. 업데이트는 9월까지 순차적으로 진행한다.",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "펄어비스가 '붉은사막'에 PS5·Xbox·스팀·에픽게임즈 스토어 간 세이브 데이터를 공유하는 크로스 세이브 기능을 추가해 플랫폼 간 게임플레이를 자유롭게 이어갈 수 있게 했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/07/20/f54726fd84c829f1b4a72aaba7d5f40e.jpg",
+    "score": 4.644,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "위로보틱스, 한·중·일 여자배구 슈퍼매치 스폰서 참여",
+    "url": "https://zdnet.co.kr/view/?no=20260720091849",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-20T01:34:57+00:00",
+    "raw_excerpt": "[지디넷코리아]위로보틱스는 다음달 제주도에서 열리는 '2026 한·중·일 여자배구 탑 클럽 슈퍼매치 제주대회'에 공식 스폰서로 참여한다고 20일 밝혔다. 이번 대회는 다음달 1일부터 2일까지 양일 간 진행된다.KBS N이 주최·주관하는 2026 한·중·일 여자배구 탑 클럽 슈퍼매치 제주대회는 한국, 중국, 일본의 여자배구팀이 경기를 펼치는 스포츠 행사이다. 대회 참가국인 한국·중국·일본은 모두 위로보틱스의 보행보조 웨어러블 로봇 윔(WIM)이 판매되고 있다.윔은 사용자의 보행 의도를 감지해 걷는 힘을 보조하는 1.6kg의 경량 보행보조 웨어러블 로봇이다.위로보틱스는 윔이 실제 판매되고 있는 한·중·일 3개국의 선수들이 한자리에 모이는 이번 대회를 계기로 새로운 소비자들과 접점을 만들고 대한민국에서 개발된 웨어러블 로봇 기술과 브랜드를 알릴 계획이다.이번 대회의 전 경기는 국내에서 KBS N스포츠와 다음 카카오TV를 통해 생중계될 예정이다. 위로보틱스는 \"이번 대회를 통해 제주 현장을 찾은 관람객뿐 아니라 중계를 시청하는 한국과 일본의 스포츠 팬들에게도 위로보틱스 브랜드와 윔을 알릴 수 있을 것으로 기대한다\"고 설명했다.위로보틱스는 대회 기간 제주 한라체육관 내부에 윔을 직접 체험할 수 있는 공간을 운영한다. 경기장을 찾은 배구 팬들은 윔을 직접 착용하고 걸어보며 사람의 보행을 돕는 웨어러블 로봇 기술을 쉽고 친숙하게 경험할 수 있다.",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "위로보틱스가 내달 제주도에서 열리는 한·중·일 여자배구 슈퍼매치의 공식 스폰서로 참여해 보행보조 웨어러블 로봇 윔을 3개국 소비자들에게 홍보한다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/07/20/73d2f5632fbbfc059f43601a38fa5deb.jpg",
+    "score": 4.644,
+    "engagement": 0,
+    "matched_keywords": [
+      "로보틱스"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "바이오젠코리아, 김철웅 신임 대표이사 선임",
+    "url": "https://zdnet.co.kr/view/?no=20260720102456",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-20T01:24:56+00:00",
+    "raw_excerpt": "[지디넷코리아]바이오젠코리아 신임 대표이사(General Manager)에 국내 희귀질환 시장 전문가인 김철웅씨를 선임했다.김 대표는 한국아스트라제네카 희귀질환사업부 총괄 전무를 역임하며 미충족 수요가 높은 극희귀질환 치료제 분야에서 환자 중심의 다양한 프로그램을 전개하는 등 국내외 제약·바이오 업계에서 희귀·난치성 질환 포트폴리오를 이끌어 온 전문가이다.특히 ‘One Patient Counts(한 명의 환자도 소중하다)’라는 철학을 바탕으로, 진단과 치료 과정에서 어려움을 겪는 희귀질환 환자들을 위한 국내 임상 연구 유치와 환자 지원 프로그램을 연계하며 치료 환경 개선에 기여해 왔다.또 화이자 이머징 아시아에서는 희귀질환 분야 Regional Therapeutic Area Lead(Senior Director)를 맡아 국내외 희귀질환 치료제 출시와 치료 접근성 확대를 이끈 바 있다.바이오젠코리아는 환자 수가 적고 진단까지 오랜 시간이 걸려 미충족 수요가 높은 희귀질환 시장의 특수성을 깊이 이해하고 현장에서 실질적인 변화를 이끌어 온 김 대표의 독보적인 전문성을 바탕으로 바이오젠이 보유한 차세대 혁신 치료제의 국내 도입을 가속화하고 환자들의 치료 접근성을 높이겠다는 계획이다.김철웅 신임 대표는 “신경과학 및 희귀질환 분야에서 혁신을 주도해 온 바이오젠코리아를 이끌게 되어 매우 뜻깊게 생각한다”며 “희귀질환 분야에서 쌓아온 독보적인 전",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "바이오젠코리아가 희귀질환 분야 전문가인 김철웅을 신임 대표이사로 선임하고 혁신 치료제 국내 도입 가속화와 환자 접근성 확대를 추진한다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/07/20/e3c497d10a8e5816f3407f02e75020c8.jpg",
+    "score": 4.635,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "혈압 측정 스마트링에 전문가들 \"정확성 검증해야”",
+    "url": "https://zdnet.co.kr/view/?no=20260720101700",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-20T01:17:00+00:00",
+    "raw_excerpt": "[지디넷코리아]혈압을 지속적으로 측정할 수 있다는 점을 내세운 스마트링이 예약판매를 시작한 가운데 의료계에서는 실제 정확성을 입증하기 위한 추가 검증이 필요하다는 지적이 나오고 있다.씨넷재팬에 따르면 미국 스타트업 바이털시그널스는 혈압 측정 기능을 탑재한 스마트링 '시그널링(Signal Ring)'을 공개하면서 기존 혈압계보다 4~5배 빠르게 혈압을 측정할 수 있도록 설계했다고 밝혔다.미국에서 399달러에 예약판매가 시작된 시그널링은 오는 10월부터 출하될 예정이다.회사 측은 451명을 대상으로 한 임상시험을 완료하고 추가 연구를 진행 중이라고 밝혔으나 오우라링과 같이 미국 식품의약국(FDA) 심사나 승인은 받지 않았다.시그널 링은 전용 앱과 연동돼 혈압을 측정한다. 국제 혈압계 정확도 기준을 충족한다는 게 회사의 설명인데 현재까지 출시된 주요 스마트링 가운데 커프나 사전 보정 없이 혈압을 지속적으로 측정한다고 공식적으로 내세운 제품은 없었다.이를 두고 의료 전문가들은 신중한 접근이 필요하다고 강조했다.미국 노스캐롤라이나대 의과대학 심장내과의 린지 로스먼 교수는 스마트링에 적용된 광전용적맥파(PPG) 센서가 혈압을 정확하게 측정하는 데는 한계가 있다고 지적했다.그는 “사용자의 움직임은 물론 피부색, 손가락 온도와 혈액순환 상태, 부정맥 등이 모두 측정 결과에 영향을 줄 수 있다”며 “반지의 착용 상태나 손가락 위치에 따라서도 오차가 ",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "혈압 측정 스마트링 '시그널링'이 예약판매를 시작했으나 의료계는 FDA 승인 없이 PPG 센서 기반 정확성 검증이 필수라고 지적했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/07/20/83bb43fc3527f2f496e2dd2aa6cd0a95.png",
+    "score": 4.627,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "[인사] 한국인터넷진흥원",
+    "url": "https://zdnet.co.kr/view/?no=20260720100651",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-20T01:06:51+00:00",
+    "raw_excerpt": "[지디넷코리아]◆단장급 보임△개인정보조사단장 임진수",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "한국인터넷진흥원 개인정보조사단에 임진수 단장이 보임되었다.",
+    "thumbnail": "https://zdnet.co.kr/images/default_img.jpg",
+    "score": 4.618,
+    "engagement": 0,
+    "matched_keywords": [
+      "개인정보"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "국가유산청, 부산 벡스코서 세계유산위 기념 '대한민국관' 개관",
+    "url": "https://zdnet.co.kr/view/?no=20260720100641",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-20T01:06:41+00:00",
+    "raw_excerpt": "[지디넷코리아]국가유산청이 제48차 유네스코 세계유산위원회 개최를 맞아 한국의 국가유산과 국제협력 성과를 전 세계에 알리는 공식 전시 공간을 선보인다.국가유산청은 20일 부산 벡스코에서 유네스코 세계유산위원회를 기념하는 '대한민국관(K-Heritage House)'을 공식 개관한다고 밝혔다.대한민국관은 세계유산위원회 기간 동안 국내외 관람객에게 개최국 대한민국의 다채로운 유산과 정책을 소개하는 공간이다. 정부기관과 지방자치단체 등 총 35개 기관이 참여해 특별 전시와 다채로운 체험 프로그램을 함께 운영한다.개관 행사는 이날 오전 벡스코 야외광장에서 대규모 수문장 교대의식과 함께 치러진다. 특히 경복궁 밖에서 최초로 재현되는 수문장 교대식과 전통 개문 퍼포먼스를 통해 현장을 찾은 관람객들에게 개최국의 품격을 전달할 예정이다.해당 전시관은 오는 29일까지 벡스코 제1전시장에서 누구나 무료로 관람할 수 있다. 주요 전시 공간을 순회하는 전문 해설 프로그램이 매일 두 차례 운영되며, 주무대인 'K-헤리티지 스테이지'에서는 38건의 전통 공연이 펼쳐진다.허민 국가유산청장은 \"대한민국관은 세계유산위원회 참가자와 국민, 세계인이 함께 대한민국 국가유산의 가치와 미래를 만나는 공간\"이라며 \"국가유산의 우수성과 세계적 가치를 널리 알리고 국제협력이 더욱 확대되는 계기가 되기를 기대한다\"고 강조했다.",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "국가유산청이 부산 벡스코에서 제48차 유네스코 세계유산위원회를 기념하는 '대한민국관'을 개관해 한국의 국가유산과 정책을 세계에 소개한다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/07/20/ce8ed65fda8ad15eba97026128e1388d.jpg",
+    "score": 4.618,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "HSBC Becomes First Firm Approved for UK Digital Securities Sandbox",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47383",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-19T14:57:44+00:00",
+    "raw_excerpt": "HSBC has become the first company authorized by the Bank of England to operate within the United Kingdom's Digital Securities Sandbox, allowing its HSBC Orion platform to support the issuance, servicing and settlement of digital securities in a live regulatory environment.The bank said HSBC Orion wi",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "HSBC가 영국 중앙은행의 승인을 받아 디지털증권 샌드박스에 처음 진입하며 HSBC Orion 플랫폼으로 실시간 규제 환경에서 디지털증권 발행·관리·결제를 지원할 수 있게 되었다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202607/47383_45936_5739_v150.jpg",
+    "score": 4.047,
+    "engagement": 0,
+    "matched_keywords": [
+      "regulatory"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Crypto.com Lands $400M from Citadel Securities at $20B Valuation",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47379",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-19T14:51:58+00:00",
+    "raw_excerpt": "Crypto.com has secured a US$400 million strategic investment from market maker Citadel Securities in a transaction that values the Singapore-based cryptocurrency exchange at $20 billion.Announced Thursday, the deal marks the company's first institutional funding round since its launch in 2016 and un",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Crypto.com이 Citadel Securities로부터 4억 달러를 투자받아 200억 달러 기업가치를 평가받았으며, 이는 2016년 출범 이후 첫 기관 투자 라운드입니다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202607/47379_45930_505_v150.jpg",
+    "score": 4.041,
+    "engagement": 0,
+    "matched_keywords": [
+      "funding"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "만들면 사람들이 찾아온다",
+    "url": "https://news.hada.io/topic?id=31577",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-07-19T05:33:30+00:00",
+    "raw_excerpt": "새로운 공동체에 빠르게 합류하려면 그 집단의 핵심 활동을 직접 기획 하고 가까워지고 싶은 사람들을 초대하는 편이 효과적임 모임과 활동은 대체로 수요가 공급보다 많아, 다른 사람의 행사에 꾸준히 참석하는 것보다 직접 조직하거나 운영을 돕는 일 이 관계 형성...",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "새로운 공동체에 빠르게 통합되려면 행사를 직접 기획하고 운영하는 것이 다른 사람의 모임에 참석하는 것보다 더 효과적인 관계 형성 방법이다.",
+    "thumbnail": "https://social.news.hada.io/topic/31577",
+    "score": 3.909,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Mindwalk - 코딩 에이전트 세션을 코드베이스의 3D 지도 위에서 재생하는 시각화 도구",
+    "url": "https://news.hada.io/topic?id=31569",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-07-19T00:31:02+00:00",
+    "raw_excerpt": "세션 로그는 에이전트가 무엇을 했는지 기록하지만, 작업을 어떻게 이해했는지 (관련 영역 판단, 탐색 위치, 작업 범위 일치 여부)는 담지 못하며, 원본 JSONL을 읽어서는 알 수 없음 저장소를 야간 지도 로 그려, 에이전트가 검색/읽기/수정한 위치는 빛나고 나머지...",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Mindwalk은 코딩 에이전트의 세션을 코드베이스의 3D 지도 위에 시각화하여 에이전트의 작업 흐름과 코드 탐색 패턴을 직관적으로 이해할 수 있게 하는 도구입니다.",
+    "thumbnail": "https://social.news.hada.io/topic/31569",
+    "score": 3.594,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  }
+]
