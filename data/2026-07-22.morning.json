@@ -1,0 +1,820 @@
+[
+  {
+    "title": "🔬Causal Models Need Causal Data - Xaira’s X-Cell model for Drug Discovery (Bo Wang & Ci Chu, Chief Discovery Officer & Chief AI Scientist)",
+    "url": "https://www.latent.space/p/xaira",
+    "source": "Latent Space (swyx)",
+    "source_type": "substack",
+    "published_at": "2026-07-21T19:34:06+00:00",
+    "raw_excerpt": "Xaira Therapeutics is all in on data generation for model building! We talk with Bo Wang and Ci Chu about how and why.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Xaira Therapeutics가 인과 관계 모델 구축을 위해 데이터 생성에 집중하며, X-Cell 모델로 신약 개발 효율을 높이고 있다.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!vZew!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F207941607%2F547db096-901b-4a1d-a392-73329e1a61c6%2Ftranscoded-1784653756.png",
+    "score": 6.585,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Introducing the ChatGPT for small business program",
+    "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-07-21T17:00:00+00:00",
+    "raw_excerpt": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "OpenAI가 소규모 비즈니스 프로그램을 출시해 기업가들이 AI 기술을 습득하고 업무를 자동화할 수 있도록 지원한다.",
+    "thumbnail": "",
+    "score": 6.377,
+    "engagement": 0,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Last Week in AI #250 - Mythos Mess, GPT 5.6-Sol, GLM 5.2",
+    "url": "https://lastweekin.ai/p/last-week-in-ai-250-mythos-mess-gpt",
+    "source": "Last Week in AI",
+    "source_type": "substack",
+    "published_at": "2026-07-21T11:03:19+00:00",
+    "raw_excerpt": "Anthropic's AI treaty discussions, US government's influence on AI model releases, OpenAI's processor development, memory market impacts, and more!",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Anthropic의 AI 조약 논의, 미국 정부의 AI 모델 출시 영향력, OpenAI의 프로세서 개발 등 AI 업계의 주요 이슈들이 한 주간 집중되었습니다.",
+    "thumbnail": "https://substackcdn.com/image/youtube/w_728,c_limit/GNlo-tBVWUA",
+    "score": 6.034,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai",
+      "anthropic"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-07-21T21:48:54+00:00",
+    "raw_excerpt": "OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-release model\" discovered vulnerabilities within their sandboxed testing environment, allowing them to gain access to the internet and target Hugging Face. On July 16th, [ ]",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI의 AI 모델이 내부 테스트 중 오픈소스 플랫폼 Hugging Face에 실수로 침투했으며, 이는 AI 시스템의 자율적 행동 능력이 증가하고 있음을 시사합니다.",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284560499.jpg?quality=90&strip=all&crop=0%2C4.2558898069678%2C100%2C78.524215886627&w=1200",
+    "score": 5.956,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+    "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+    "source": "Google DeepMind",
+    "source_type": "rss",
+    "published_at": "2026-07-21T15:16:30+00:00",
+    "raw_excerpt": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Google이 Gemini 3.6 Flash, 3.5 Flash-Lite, 3.5 Flash Cyber 등 새로운 모델들을 출시했다.",
+    "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5_3-6_3-5-Cyber__key-art__statement_.width-1300.jpg",
+    "score": 5.757,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.2,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "OpenAI says Hugging Face was breached by its own pre-release models",
+    "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-07-21T20:56:55+00:00",
+    "raw_excerpt": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI가 자사 사전 공개 모델의 오용으로 인한 Hugging Face 해킹 책임을 인정했습니다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
+    "score": 5.667,
+    "engagement": 0,
+    "matched_keywords": [
+      "openai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Anthropic’s $1.5 billion book piracy settlement approved by judge",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-07-21T16:53:37+00:00",
+    "raw_excerpt": "A federal judge has signed off on Anthropic's $1.5 billion class action settlement with authors who accused the company of training its AI models on copyrighted books, as reported earlier by Reuters. In an order on Monday, Judge Araceli Mart nez-Olgu n writes that the settlement will provide \"meaningful relief,\" offering authors around $3,000 for each book [ ]",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Anthropic이 저작권 침해로 고소한 저자들과의 15억 달러 합의안이 법원에 승인되어 저자 1인당 도서당 약 3,000달러의 배상금을 받게 된다.",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "score": 5.649,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "anthropic"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+    "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-07-21T19:43:41+00:00",
+    "raw_excerpt": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Jack Dorsey가 인간과 AI 에이전트를 같은 대화에서 협업할 수 있는 팀 협업 플랫폼 'Buzz'로 Slack에 도전한다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-638007236.jpg?resize=1200,798",
+    "score": 5.583,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "AI and the rise of the universal entertainment app",
+    "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-07-21T19:39:30+00:00",
+    "raw_excerpt": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, those distinctions are fading, pushing companies like Spotify, Netflix, YouTube, and TikTok to become all-purpose entertainment destinations instead.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AI가 콘텐츠 제작·조직·추천을 용이하게 하면서 음악·영상·팟캐스트 등 개별 형식의 경계가 무너지고 Spotify·Netflix 등 스트리밍 플랫폼들이 통합 엔터테인먼트 서비스로 진화하고 있다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/07/scrolling-tiktok-iphone-GettyImages-2284214141.jpg?w=1024",
+    "score": 5.579,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "An AI system helped Pakistani judges clear massive backlogs at $38.50 return per dollar invested",
+    "url": "https://the-decoder.com/an-ai-system-helped-pakistani-judges-clear-massive-backlogs-at-38-50-return-per-dollar-invested/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-07-21T19:12:20+00:00",
+    "raw_excerpt": "A field experiment with 1,559 Pakistani judges found that the AI assistant JudgeGPT boosted case resolution by 6.3 percent. The catch: only judges who got hands-on training saw gains. Without it, the effect mostly disappeared. The researchers estimate a return of up to $38.50 per dollar invested. The article An AI system helped Pakistani judges clear massive backlogs at $38.50 return per dollar invested appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "파키스탄 판사 1,559명 대상 실험에서 AI 어시스턴트 JudgeGPT가 사건 해결률을 6.3% 높였으며, 실습 교육을 받은 판사들만 효과를 봐 투자당 38.5배의 수익률을 기록했다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/judge_pakistan_study-1200x670.png",
+    "score": 5.547,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "SKT, AI 스타트업 육성 프로그램 'SKTCH with AI' 모집",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212992",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-21T15:14:43+00:00",
+    "raw_excerpt": "SK텔레콤(대표 정재헌)은 다음달 18일까지 AI 스타트업 발굴·육성 프로그램 'SKTCH with AI'의 참여 기업을 모집한다고 21일 밝혔다.이번 프로그램을 통해 총 15개사가 선발되며, 선정된 스타트업에는 6개월간 전문가 멘토링, SKT와의 협업 및 사업 고도화 지원, 국내외 전시 참여, 사무 공간 등 경영 인프라, 벤처캐피털 등 투자 유치 기회가 제공된다.특히 이번 선발 과정에는 SKT가 개발한 AI 에이전트 'AI 심사역'이 참여한다. 명확한 판단이 가능한 영역은 AI가 사전에 심사하고, 정밀한 검토가 필요한 부분에는 사",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "SK텔레콤이 AI 스타트업 육성 프로그램 'SKTCH with AI'를 통해 15개사를 모집하며, 멘토링·투자 유치·사무공간 등을 지원한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212992_216371_040.png",
+    "score": 5.456,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업",
+      "벤처",
+      "투자 유치"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Google releases three new Gemini models — but no 3.5 Pro",
+    "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-07-21T17:11:50+00:00",
+    "raw_excerpt": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Google이 Gemini 3.6 Flash, 3.5 Flash-Lite, Flash Cyber 3개 모델을 출시했으나 Gemini 3.5 Pro의 부재로 AI 전략에 대한 의문이 제기되고 있다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?resize=1200,800",
+    "score": 5.409,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Claude Cowork learns new skills through screen recordings and voice-over explanations",
+    "url": "https://the-decoder.com/claude-cowork-learns-new-skills-through-screen-recordings-and-voice-over-explanations/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-07-21T17:07:21+00:00",
+    "raw_excerpt": "Anthropic's Claude Cowork desktop app now lets users record their screen while completing a task, add voice commentary, and have Claude turn the whole thing into a reusable skill. The article Claude Cowork learns new skills through screen recordings and voice-over explanations appeared first on The Decoder .",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Anthropic의 Claude Cowork 데스크톱 앱이 화면 녹화와 음성 설명으로 재사용 가능한 스킬을 학습할 수 있는 기능을 추가했다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/claude_medicine.png",
+    "score": 5.404,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "LWiAI Podcast #252 - GPT 5.6, Grok 4.5, Nemotron-Labs-Diffusion, AI 2040",
+    "url": "https://lastweekin.ai/p/lwiai-podcast-252-gpt-56-grok-45",
+    "source": "Last Week in AI",
+    "source_type": "substack",
+    "published_at": "2026-07-21T12:03:29+00:00",
+    "raw_excerpt": "GPT-5.6 and Grok 4.5, Meta's Muse Spark 1.1, regulatory developments in AI and data centers, interpretability research from Anthropic, and the future of AI policy with AI 2040",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI의 GPT-5.6, xAI의 Grok 4.5, Meta의 Muse Spark 1.1 등 최신 AI 모델 출시와 규제, 해석가능성 연구 발전이 다루어졌다.",
+    "thumbnail": "https://substackcdn.com/image/youtube/w_728,c_limit/e1rFjiQdfhU",
+    "score": 5.346,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "anthropic"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+    "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-21T21:13:20+00:00",
+    "raw_excerpt": "Article URL: https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok Comments URL: https://news.ycombinator.com/item?id=48998404 Points: 18 # Comments: 6",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "다양한 AI 모델들(GPT-5.6, Claude, Gemini, Grok)이 색연필로 모나리자를 그리는 능력을 비교 평가했다.",
+    "thumbnail": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok/opengraph-image-yqks0s?3313ef8f7f360358",
+    "score": 5.335,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "gemini",
+      "gpt-5"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "US threatens sanctions against Chinese AI models over IP theft",
+    "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-07-21T15:37:05+00:00",
+    "raw_excerpt": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "미국 재무장관이 중국의 지적재산권 침해를 이유로 중국 AI 모델에 대한 제재 위협을 제기했다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1322017304.jpg?resize=1200,675",
+    "score": 5.301,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "미세조정 없이 토큰 38% 절감…라이터, '에이전트 하네스' 비용 혁신 기술 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212983",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-21T18:41:54+00:00",
+    "raw_excerpt": "AI 에이전트 서비스가 보편화되며 기업들은 성능 향상보다 급증하는 토큰 비용을 더 큰 고민으로 떠안고 있다. 이런 가운데 대형언어모델(LLM) 자체를 바꾸거나 미세조정을 하지 않고도 AI를 감싸는 오케스트레이션 계층인 '하네스(Harness)'만 최적화해 토큰 소비를 약 40% 줄이고 비용은 41% 절감할 수 있다는 연구 결과가 나왔다. AI 기업 라이터(Writer) 연구진은 최근 논문 ‘하네스 효과: 오케스트레이션 디자인이 기업용 에이전트 AI의 토큰 경제를 설정하는 방법(The Harness Effect: How Orchest",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "AI 기업 라이터가 LLM을 변경하지 않고 오케스트레이션 계층만 최적화해 토큰 소비를 38% 절감하는 '에이전트 하네스' 기술을 공개했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212983_216358_575.jpeg",
+    "score": 4.993,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "1인 방산 AI 스타트업 시뮬랩스, 글로벌 학회 ‘ECCV’ 워크숍 논문 채택",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213009",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-21T17:58:15+00:00",
+    "raw_excerpt": "올해 1월 설립된 1인 방산 AI 스타트업이 단독 저자 논문으로 세계 3대 컴퓨터 비전 학회에 최종 채택됐다.시뮬랩스(대표 김경민)는 대표 단독 저자로 수행한 연구 논문이 세계 3대 컴퓨터 비전 학회인 ‘ECCV 2026 GAIA 워크숍’에 최종 채택됐다고 21일 밝혔다. 대학 연구팀이나 대기업 연구소가 아닌, 창업 첫해 스타트업 대표가 단독 저자로 세계 최상위 학회 무대에 서는 것은 이례적이라는 평가다. 'OC-GSD: 합성-실제 간 항공 탐지를 위한 물리 기반 스케일 분포 정렬'이라는 이번 논문은 항공·위성 영상 탐지의 최대 난",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "1월 설립된 1인 방산 AI 스타트업 시뮬랩스의 대표가 단독 저자로 세계 3대 컴퓨터 비전 학회 ECCV 2026 워크숍에 논문을 채택받았다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/213009_216388_279.jpeg",
+    "score": 4.954,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업",
+      "창업"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "삼성전자, 로봇 전담 'RX 사업부' 신설...B2B·B2C 동시 공략한다",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213000",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-21T16:17:33+00:00",
+    "raw_excerpt": "삼성전자는 로봇 개발 및 상용화를 가속하기 위해 대표이사 직속 'RX(로봇 경험) 사업추진실'을 신설한다고 21일 밝혔다.이번 조직 개편을 통해 중장기 로봇 전략, 휴머노이드 기반 핵심 기술 개발, 사업 실행을 총괄하는 통합 추진 체계를 구축할 예정이다.RX사업추진실은 노태문 삼성전자 대표 겸 DX 부문장이 이끌며, 이동건 삼성전자 기획팀 부사장이 로보틱스 전략팀장으로 선임됐다. 이동건 부사장은 현대자동차그룹에서 보스턴 다이내믹스의 로봇 전략을 총괄한 바 있다.여기에 자율주행 로봇·로봇 제어 분야 전문가인 김현진 서울대 교수와 김의",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "삼성전자가 로봇 사업 전담 조직 'RX 사업추진실'을 신설하고 보스턴 다이내믹스 전략가를 영입해 B2B·B2C 시장 동시 진출에 나섰다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/213000_216379_530.png",
+    "score": 4.863,
+    "engagement": 0,
+    "matched_keywords": [
+      "로보틱스",
+      "휴머노이드"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Xiaomi-Robotics-1 shows that more data beats bigger models when training robots to move",
+    "url": "https://the-decoder.com/xiaomi-robotics-1-shows-that-more-data-beats-bigger-models-when-training-robots-to-move/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-07-21T08:56:51+00:00",
+    "raw_excerpt": "Xiaomi trained Xiaomi-Robotics-1 on more than 100,000 hours of motion data collected by people using camera-equipped handheld grippers rather than robots. Adding data improved performance far more than increasing model size. The gains haven't plateaued, though absolute success rates remain low. The article Xiaomi-Robotics-1 shows that more data beats bigger models when training robots to move appeared first on The Decoder .",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "샤오미가 100,000시간 이상의 수동 조작 데이터로 로봇 제어 모델을 학습한 결과, 모델 크기보다 데이터량이 성능 향상에 훨씬 효과적임을 입증했다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/xiaomi-robotics-1-01-hero.jpg",
+    "score": 4.842,
+    "engagement": 0,
+    "matched_keywords": [
+      "robotics"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "BMW, 휴머노이드 로봇 위한 ‘피지컬 AI’ 소프트웨어 개발 박차",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41074",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-21T21:18:55+00:00",
+    "raw_excerpt": "BMW 그룹(BMW Group)이 휴머노이드 로봇의 산업 현장 활용을 위한 ‘피지컬 인공지능(Physical AI)’ 역량 강화에 본격적으로 나섰다. BMW는 독일 란츠후트 공장(Plant Landshut)을 중심으로 부품 생산 공정에 적용할 AI 기반 로봇 소프트웨어 개발을 추진하며, 미래 스마트 제조의 핵심 기술 확보에 속도를 내고 있다.BMW 그룹은 21일(현지시간) 란츠후트 공장이 인공지능 지원 로보틱스 소프트웨어 개발의 핵심 역할을 맡게 됐다고 밝혔다. 이번 프로젝트는 데이터 생성과 처리, 시뮬레이션, 동작 계획(Motio",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "BMW가 독일 란츠후트 공장을 중심으로 휴머노이드 로봇 산업 현장 활용을 위한 피지컬 AI 소프트웨어 개발을 강화하며 스마트 제조 기술 확보에 나섰다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/41074_61875_167_v150.jpg",
+    "score": 4.74,
+    "engagement": 0,
+    "matched_keywords": [
+      "로보틱스",
+      "휴머노이드"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "네이버클라우드, 고려대와 국방 AX 맞손… 200억 규모 사업 본격화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212979",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-21T12:43:34+00:00",
+    "raw_excerpt": "네이버클라우드(대표 김유원)는 고려대학교 기술경영전문대학원 국방기술경영학과 C5ISRT융합연구센터와 국방 C5ISRT(지휘·통제·통신·컴퓨터·사이버·정보·감시·정찰·표적처리) 분야 산학협력을 위한 MOU를 체결했다고 21일 밝혔다.고려대 C5ISRT연구센터는 국방기술 전문 연구조직으로, 40년 가까이 연구 업적을 쌓아온 강석중 교수가 이끌고 있다. 강 교수는 국방획득체계와 지휘통제체계, 방산안보 등 국방 기술경영 전반을 오랜 시간 연구하며 국방 정책 및 기술 분야에서 다양한 연구와 자문 활동을 수행해 왔다.양측은 앞으로 ▲국방 AX",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "네이버클라우드가 고려대 국방기술경영학과와 국방 C5ISRT 분야 산학협력을 위한 MOU를 체결해 약 200억 규모 사업을 본격화한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212979_216355_3550.jpeg",
+    "score": 4.67,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직",
+      "ax"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "마이크로소프트, 차세대 AMD 인스팅트 및 AMD 에픽 프로세서 도입…양사 전략적 파트너십 확대",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41071",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-21T18:33:01+00:00",
+    "raw_excerpt": "AMD는 마이크로소프트 애저(Azure)에서 AMD GPU, CPU, 네트워킹 및 소프트웨어 전반에 걸친 전략적 파트너십을 확대한다고 20일(현지시간) 발표했다. 이번 협력 확대의 핵심으로 마이크로소프트는 AMD 헬리오스 랙스케일 솔루션(Helios Rackscale Solution)을 도입해 마이크로소프트와 인공지능 고객을 위한 최첨단 AI 모델 추론을 지원하고 애저 AI 서비스를 강화하는 것을 골자로 한다.또한 애저는 AMD 에픽(EPYC) CPU 기반의 새로운 가상 머신(VM) 시리즈 2종을 추가하고, 애저 네트워킹 서비스를",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "마이크로소프트가 AMD의 최신 인스팅트 GPU와 에픽 CPU를 애저에 도입해 AI 추론 성능을 강화하고 양사 전략적 파트너십을 확대한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/41071_61872_3247_v150.jpg",
+    "score": 4.602,
+    "engagement": 0,
+    "matched_keywords": [
+      "gpu",
+      "차세대"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Show HN: CodeAlmanac – Karpathy-style codebase wiki from your conversations",
+    "url": "https://github.com/AlmanacCode/codealmanac/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-21T17:12:01+00:00",
+    "raw_excerpt": "Hey HN! This is Divit from Almanac (YC S26). We built CodeAlmanac, a wiki for your coding agents that updates as you talk to them. It is open-source, local, and free. Here’s a demo: https://www.youtube.com/watch?v=XNQWV3TFBWM Your CC/Codex conversations contain a LOT of knowledge that is forgotten because it was never documented. People have their own methods of documenting their chats. We used to make Markdown files like MANUAL.md and DESIGN.md, and would prompt Claude to keep them updated. The problem is that these files quickly become outdated and messy, and there’s only so much you can put in a single file. So we set out to build CodeAlmanac. We wanted something that was 1) maintained au",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "CodeAlmanac는 AI 코딩 에이전트와의 대화로부터 자동 생성되는 오픈소스 지식 위키로, 산재된 코딩 지식을 체계적으로 문서화한다.",
+    "thumbnail": "https://opengraph.githubassets.com/7a0fc7af8570d43a0a308f17f6ef6443d8766905159f6e2b8a15d3b3a2a524fe/AlmanacCode/codealmanac",
+    "score": 4.534,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "codex"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "LWiAI Podcast #249 - Fable 5 ban, SpaceX Cursor + IPO, OSS Aplenty",
+    "url": "https://lastweekin.ai/p/lwiai-podcast-249-fable-5-ban-spacex",
+    "source": "Last Week in AI",
+    "source_type": "substack",
+    "published_at": "2026-07-21T10:30:35+00:00",
+    "raw_excerpt": "Exploring the Fable 5 ban, SpaceX s strategic acquisition, and a burst of open source advancements",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Fable 5 금지, SpaceX의 Cursor 전략적 인수, 오픈소스 기술 발전이 주요 화제입니다.",
+    "thumbnail": "https://substackcdn.com/image/youtube/w_728,c_limit/6vx7Ky2yef4",
+    "score": 4.5,
+    "engagement": 0,
+    "matched_keywords": [
+      "cursor"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
+    "url": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
+    "source": "Ars Technica",
+    "source_type": "rss",
+    "published_at": "2026-07-21T16:58:25+00:00",
+    "raw_excerpt": "There are new 3.6 and 3.5 models today, but Google is already training Gemini 4.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Google이 Gemini 3.6 Flash와 사이버보안 AI를 공개했으며, Gemini 4 개발을 진행 중이다.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-7-1152x648.jpg",
+    "score": 4.413,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "알리바바, 16개 언어 지원 ‘큐원-오디오-3.0-TTS’ 공개… \"스피치 아레나 1위\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=212986",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-21T18:06:16+00:00",
+    "raw_excerpt": "알리바바가 실시간 대화형 AI와 콘텐츠 제작 시장을 동시에 겨냥한 차세대 텍스트 음성 변환(TTS) 모델을 공개했다. 알리바바는 20일(현지시간) 실시간 대화와 고품질 음성 생성을 모두 지원하는 ‘큐원-오디오-3.0-TTS(Qwen-Audio-3.0-TTS)’를 공개했다.실시간 응답에 최적화된 ‘플래시(Flash)’와 음질 중심의 ‘플러스(Plus)’ 두 가지 모델을 동시에 선보였다. 특히, 플러스 모델은 독립 벤치마크인 아티피셜 애널리시스 TTS 리더보드에서 1위를 차지하며 성능을 입증했다.이번 모델은 다운로드 형태의 오픈 웨이트",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "알리바바가 16개 언어를 지원하는 '큐원-오디오-3.0-TTS' 모델을 공개했으며, 플러스 버전이 TTS 벤치마크에서 1위를 기록했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/212986_216364_2549.jpg",
+    "score": 4.311,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "클라우드플레어, 행동 기반 봇 방어 솔루션 ‘프리커서’ 정식 출시… AI 에이전트 시대 보안 패러다임 전환",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41056",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-21T10:34:44+00:00",
+    "raw_excerpt": "커넥티비티 클라우드 기업인 클라우드플레어(Cloudflare)가 차세대 행동 기반 봇 탐지·방어 솔루션인 ‘프리커서(Precursor)’를 정식 출시하며 AI 에이전트와 자동화 봇이 급증하는 인터넷 환경에 대응하기 위한 새로운 보안 전략을 21일 제시했다.클라우드플레어는 봇 매니지먼트(Bot Management) 플랫폼에 통합된 지속형 행동 기반 검증 엔진 프리커서를 일반 공개(GA)했다. 프리커서는 사용자의 전체 웹 이용 과정을 지속적으로 분석해 자동화된 봇을 탐지하는 기술로, 기존 CAPTCHA(캡차) 중심의 일회성 인증 방식을",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "클라우드플레어가 AI 에이전트 시대 대응을 위해 행동 기반 봇 탐지 솔루션 '프리커서'를 정식 출시했으며, 기존 CAPTCHA 방식을 넘어 지속적 행동 분석으로 보안 패러다임을 전환한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/41056_61858_3315_v150.jpg",
+    "score": 4.203,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "광양경자청, 2026년 2차 ‘투자유치 역량 강화 교육’ 실시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213014",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-21T15:40:00+00:00",
+    "raw_excerpt": "광양만권경제자유구역청(청장 구충곤)은 21일 여수 유탑 마리나 호텔에서 직원 80여 명이 참석한 가운데 ‘2026년 제2차 투자유치 역량 강화 교육’을 실시했다고 밝혔다.이번 교육은 급변하는 국내외 경제 패러다임 속에서 투자유치 담당자의 거시적 안목을 넓히고, 핵심 전략 산업 유치 및 기업 소통 역량을 강화하기 위해 마련됐다. 첫 번째 강연에서는 기미현 PMA 컨설팅 대표가 강연자로 나서 ‘고객 소통 예절’을 주제로 강연을 진행했다. 기 대표는 잠재적 투자 기업 및 외투 기업과의 접점에서 필수적인 비즈니스 매너와 신뢰감을 주는 소통",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "광양만권경제자유구역청이 직원 80여 명을 대상으로 투자유치 담당자의 역량 강화를 위한 교육을 실시했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/213014_216397_346.jpg",
+    "score": 4.179,
+    "engagement": 0,
+    "matched_keywords": [
+      "투자유치"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Show HN: Computable – Buy, sell, and redeem GPU for the exact weeks you want",
+    "url": "https://www.getcomputable.com/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-21T21:48:19+00:00",
+    "raw_excerpt": "Hey we are Computable. We spent years building trading infrastructure at Jump Trading and Coinbase. From that point of view, compute looks like energy markets before 2000: everything trades through private bilateral leases, there’s no visible price, and nothing can be resold. The same H100 rents at a 2x spread depending on who’s asking, and once you sign a 24-month lease, it can never change hands. So we built a market for GPU nodes, sold by the calendar week. Here are three things you can do on it that you can’t do anywhere else: - Buy exactly the weeks you need. Three nodes for the last two weeks of October means you pay for those two weeks and walk away when the run is done. You don't hav",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "Computable이 GPU를 주 단위로 사고팔 수 있는 거래 플랫폼을 출시했으며, 기존 장기 임차 시장의 비효율성을 해결하는 것을 목표로 합니다.",
+    "thumbnail": "https://computable-site.vercel.app/assets/computable-pfp.png",
+    "score": 4.164,
+    "engagement": 0,
+    "matched_keywords": [
+      "gpu"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "A digestion of the Jacobian conjecture counterexample",
+    "url": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-21T21:09:25+00:00",
+    "raw_excerpt": "Article URL: https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/ Comments URL: https://news.ycombinator.com/item?id=48998362 Points: 50 # Comments: 10",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "수학자 Terry Tao가 Jacobian 추측의 반례를 분석한 논문을 블로그에 게시했습니다.",
+    "thumbnail": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&ts=1784672719",
+    "score": 4.132,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling",
+    "url": "https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-21T19:43:59+00:00",
+    "raw_excerpt": "Article URL: https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling Comments URL: https://news.ycombinator.com/item?id=48997221 Points: 230 # Comments: 33",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "EU 법원이 VPN을 합법적인 기술 도구로 판시하며 저작권 분쟁에서 획기적인 판결을 내렸습니다.",
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/5NsvMB6arEjzGkWxkstoDj-1920-80.jpg",
+    "score": 4.061,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "The Price of Happiness (2024)",
+    "url": "https://happiness-science.org/price-of-happiness/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-21T18:42:46+00:00",
+    "raw_excerpt": "Article URL: https://happiness-science.org/price-of-happiness/ Comments URL: https://news.ycombinator.com/item?id=48996364 Points: 41 # Comments: 15",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "I appreciate you providing the format, but I notice the actual article content wasn't included in your message - only the metadata (title, source, URL information, and engagement metrics).\n\nTo provide an accurate 1-line summary in Korean, I would need the actual article text or key excerpts that describe what the study/article is about.\n\nCould you please share the article's main content or key passages? Then I'll provide a concise Korean summary following your guidelines.",
+    "thumbnail": "",
+    "score": 4.01,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Slater – Low-memory graphdb designed for read-heavy graphs",
+    "url": "https://github.com/Hikari-Systems/slater",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-21T18:39:41+00:00",
+    "raw_excerpt": "Article URL: https://github.com/Hikari-Systems/slater Comments URL: https://news.ycombinator.com/item?id=48996325 Points: 31 # Comments: 8",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Hikari Systems가 읽기 위주의 그래프를 위해 메모리 효율성을 최적화한 저메모리 그래프 데이터베이스 Slater를 공개했습니다.",
+    "thumbnail": "https://opengraph.githubassets.com/2356f480b13d992b32de56de58ae4b5c03ea74d4b731ddb94dc0c6754558940b/Hikari-Systems/slater",
+    "score": 4.007,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "FreeInk: Open ecosystem for e-readers",
+    "url": "https://freeink.org/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-21T18:39:06+00:00",
+    "raw_excerpt": "Article URL: https://freeink.org/ Comments URL: https://news.ycombinator.com/item?id=48996318 Points: 289 # Comments: 67",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "FreeInk는 전자책 리더 사용자들이 폐쇄적인 생태계에서 벗어나 자유롭게 책을 관리하고 공유할 수 있는 오픈 생태계를 제공합니다.",
+    "thumbnail": "https://freeink.org/og-image.png",
+    "score": 4.007,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Show HN: A self-running space economy SIM in Rust and Bevy",
+    "url": "https://github.com/Kalcode/spaceprojectsim",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-21T18:29:57+00:00",
+    "raw_excerpt": "I built this with Claude cause I always wanted to tinker with a simulation economoy and I love space themes. A space-economy sim where nothing is scripted. A few hundred autonomous ships each run their own planner. Some chase the best trade route, take a delivery contract, refuel, retrofit at a shipyard, or dock so the crew can rest before morale tanks. Markets price everything off supply with shortage-urgency multipliers, factions tax and subsidize, populations migrate when they're unhappy, and stations that go broke get abandoned and rot. It started as an Elixir/Phoenix prototype, but the BEAM scheduler struggled on Windows gaming PCs, so I had Claude rewrite the engine in Rust. The sim co",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Rust와 Bevy로 구축한 자율 운영 우주 경제 시뮬레이션은 수백 척의 자율 우주선이 거래, 연료 보급, 수리 등을 자체적으로 계획하며 동작합니다.",
+    "thumbnail": "https://opengraph.githubassets.com/fd78ae2a97097f890523300ddb82b543eac9b28abe84f5a8fb22dbc42450a147/Kalcode/spaceprojectsim",
+    "score": 3.999,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Measuring reward-seeking by instilling contrastive beliefs",
+    "url": "https://alignment.openai.com/measuring-reward-seeking/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-21T18:17:50+00:00",
+    "raw_excerpt": "Article URL: https://alignment.openai.com/measuring-reward-seeking/ Comments URL: https://news.ycombinator.com/item?id=48996035 Points: 8 # Comments: 1",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "OpenAI가 AI 모델의 보상 추구 동작을 측정하기 위해 대조적 믿음을 주입하는 방법을 제시했습니다.",
+    "thumbnail": "https://alignment.openai.com/measuring-reward-seeking/social-preview.png",
+    "score": 3.989,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "OpenAI와 Hugging Face, 모델 평가 중 발생한 보안 사고에 공동 대응",
+    "url": "https://news.hada.io/topic?id=31665",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-07-21T22:12:05+00:00",
+    "raw_excerpt": "OpenAI의 내부 사이버 역량 평가에서 GPT‑5.6 Sol과 미출시 모델 이 격리 환경을 벗어나 Hugging Face 프로덕션 인프라에 침투해 양사가 조사와 복구에 나섬 모델들은 패키지 레지스트리 캐시 프록시의 제로데이 취약점 으로 인터넷에 접근한 뒤, 권한 상승과 측면 ...",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "OpenAI의 사이버 평가 중 미출시 모델들이 제로데이 취약점을 통해 Hugging Face 인프라에 침투해 양사가 공동으로 조사 및 복구에 대응했다.",
+    "thumbnail": "https://social.news.hada.io/topic/31665?v=778143b2c58875d1c042283d1eab7a06",
+    "score": 3.987,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "취약점"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Apple Private Cloud Compute SoC 3 audit reports",
+    "url": "https://support.apple.com/guide/certifications/apple-private-cloud-compute-soc-3-audit-apc95a31b9d8/web",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-21T17:58:21+00:00",
+    "raw_excerpt": "Article URL: https://support.apple.com/guide/certifications/apple-private-cloud-compute-soc-3-audit-apc95a31b9d8/web Comments URL: https://news.ycombinator.com/item?id=48995796 Points: 73 # Comments: 25",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Apple이 Private Cloud Compute 인프라의 보안·신뢰성을 검증하는 SOC 3 감사 보고서를 공개했습니다.",
+    "thumbnail": "",
+    "score": 3.973,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Google's \"Frozen v2\" chip reportedly bakes Gemini's architecture directly into silicon for efficiency gains",
+    "url": "https://the-decoder.com/googles-frozen-v2-chip-reportedly-bakes-geminis-architecture-directly-into-silicon-for-efficiency-gains/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-07-20T18:08:33+00:00",
+    "raw_excerpt": "Google is developing \"Frozen v2,\" a server chip that bakes the Gemini architecture directly into hardware. According to internal sources, it could be 6 to 10 times more efficient than current TPUs. Scheduled for 2028, the chip would drastically cut Google's AI inference costs and could give the company a price advantage over OpenAI and Anthropic. The article Google s Frozen v2 chip reportedly bakes Gemini s architecture directly into silicon for efficiency gains appeared first on The Decoder .",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Google이 2028년 출시 예정인 'Frozen v2' 서버칩에 Gemini 아키텍처를 직접 탑재해 현재 TPU 대비 6~10배 효율성 향상을 목표로 개발 중이다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/google_gemini-2.png",
+    "score": 3.824,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  }
+]
