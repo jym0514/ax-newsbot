@@ -1230,7 +1230,7 @@
     "73eea8e62ae5c537": "https://social.news.hada.io/topic/31665?v=778143b2c58875d1c042283d1eab7a06",
     "9aae77148b42ef7a": "https://the-decoder.com/wp-content/uploads/2026/07/google_gemini-2.png"
   },
-  "last_sent_date": "2026-07-21",
+  "last_sent_date": "2026-07-22",
   "sent": {
     "2026-07-14": [
       "morning",
@@ -1256,6 +1256,9 @@
       "morning",
       "noon",
       "evening"
+    ],
+    "2026-07-22": [
+      "morning"
     ]
   }
 }
