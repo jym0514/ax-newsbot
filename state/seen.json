@@ -1218,7 +1218,7 @@
     "84537966789f5300": "https://image.zdnet.co.kr/2026/05/27/c92314e7b572cd83b19d6e5428d91df4.jpg",
     "ce50f10cabecea7c": "https://cdn.smarttimes.co.kr/news/thumbnail/202607/47462_46051_274_v150.jpg"
   },
-  "last_sent_date": "2026-07-22",
+  "last_sent_date": "2026-07-23",
   "sent": {
     "2026-07-15": [
       "morning",
@@ -1244,6 +1244,9 @@
       "morning",
       "noon",
       "evening"
+    ],
+    "2026-07-23": [
+      "morning"
     ]
   }
 }
