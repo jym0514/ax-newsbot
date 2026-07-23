@@ -1214,7 +1214,7 @@
     "8399904c80d952fa": "https://social.news.hada.io/topic/31719?v=bbda9558dc5eedb81ff25f2cc036d05e",
     "d3871fbd6961c5a9": "https://social.news.hada.io/topic/31733?v=86b99c8adee033b9c01b4746cf9fbca1"
   },
-  "last_sent_date": "2026-07-23",
+  "last_sent_date": "2026-07-24",
   "sent": {
     "2026-07-16": [
       "morning",
@@ -1240,6 +1240,9 @@
       "morning",
       "noon",
       "evening"
+    ],
+    "2026-07-24": [
+      "morning"
     ]
   }
 }
