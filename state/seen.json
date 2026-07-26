@@ -1220,7 +1220,7 @@
     "5903829f11d25750": "https://img.etnews.com/news/article/2026/07/26/news-p.v1.20260726.9cfb28c70e484a1bba0115fe58ecc092_P2.png",
     "42a03148598afd96": "https://img.etnews.com/news/article/2026/07/25/rcv.YNA.20260725.PYH2026072502370001300_P1.jpg"
   },
-  "last_sent_date": "2026-07-24",
+  "last_sent_date": "2026-07-27",
   "sent": {
     "2026-07-20": [
       "morning",
@@ -1246,6 +1246,9 @@
       "morning",
       "noon",
       "evening"
+    ],
+    "2026-07-27": [
+      "morning"
     ]
   }
 }
