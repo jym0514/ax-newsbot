@@ -1,0 +1,822 @@
+[
+  {
+    "title": "SKT, 독파모 2차 모델 공개…688B 규모 초거대 모델 A.X K2와 멀티모달 위한 경량 모델 3종",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41213",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-29T10:20:03+00:00",
+    "raw_excerpt": "SK텔레콤(대표이사 CEO 정재헌)은 독자 인공지능(AI) 파운데이션 모델 ‘에이닷엑스 케이투(A.X K2)’를 공개하고 국민의 일상과 산업 현장의 AI 전환을 본격 지원한다고 29일 밝혔다.SKT는 이날 오픈소스 커뮤니티 허깅 페이스에 매개변수 6,880억 개(688B) 규모의 A.X K2(다운)를 공개했다. 직전 모델인 519B 규모의 A.X K1 대비 모델 규모를 키워 수학 및 과학 추론 능력, 한국 지식 및 장문 추론 능력을 강화했다.A.X K2는 A.X K1 대비 국내외 14개 벤치마크 평균 성능이 32.2%p 향상됐다.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "SKT가 688B 규모의 초거대 AI 모델 'A.X K2'와 멀티모달 경량 모델 3종을 공개했으며, 이는 수학·과학 추론 능력과 한국 지식 활용 성능을 대폭 강화했습니다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/41213_62066_2448_v150.jpg",
+    "score": 8.648,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "파운데이션 모델"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "교과서에서 만난 이태석 신부를 AI 아바타로...한국 NGO의 AI 교과서, UN 무대에 서다",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41217",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-29T12:00:46+00:00",
+    "raw_excerpt": "교사와 교과서가 부족한 남수단에서 시작된 한국의 인공지능(AI) 교과서 프로젝트가 유엔(UN) 공식 무대에서 소개되며 국제사회의 주목을 받았다. 이태석재단은 지난 15일 미국 뉴욕 유엔본부에서 열린 유엔 경제사회이사회(ECOSOC) 고위급 정치포럼(HLPF)에서 남수단 AI 교과서 프로젝트를 공식 발표했다고 29일 밝혔다.이번 발표는 전 세계 100개 이상의 NGO가 신청한 가운데 최종 19개 단체만 발표 기회를 얻은 공식 세션으로, 한국 NGO 중에서는 이태석재단이 유일하게 선정됐다. 특히 이태석재단은 공식 세션의 첫 번째 발표자",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "교사 부족 남수단을 위해 한국 NGO가 개발한 AI 교과서 프로젝트가 유엔 공식 무대에서 소개되며 국제적 관심을 받았다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/41217_62071_5841_v150.jpg",
+    "score": 7.874,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "BC카드, 몽고DB와 AI 데이터 플랫폼 고도화... AI Native 기업 전환 가속화 계기 마련",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41215",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-29T11:42:09+00:00",
+    "raw_excerpt": "BC카드(대표이사 사장 김영우)가 글로벌 데이터 플랫폼 기업 몽고DB와 협력해 인공지능(AI) 서비스 경쟁력 강화를 위한 데이터 플랫폼 고도화에 나선다고 29일 밝혔다.몽고DB는 실시간 데이터베이스, 풀텍스트 및 벡터 검색, 메모리, 임베딩, 리랭커(reranker) 모델 등 기업과 개발자가 프로덕션 환경에서 AI 에이전트를 구동하는 데 필요한 모든 요소를 하나의 플랫폼에서 제공하는 통합 AI 데이터 플랫폼이다.BC카드는 28일 오후 서울 중구 소재 본사 사옥에서 몽고DB와 ‘AI 서비스 경쟁력 강화를 위한 데이터 플랫폼 고도화’",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "BC카드가 몽고DB와 협력해 실시간 데이터베이스와 AI 에이전트 기술을 통합한 데이터 플랫폼을 고도화하며 AI Native 기업 전환을 가속화한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/41215_62069_423_v150.jpg",
+    "score": 7.851,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "“포털 말고 챗GPT에 물어봐”… 내 브랜드의 AI 경쟁력은 몇 점?",
+    "url": "https://byline.network/2026/07/0728-11/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-07-29T01:30:32+00:00",
+    "raw_excerpt": "소비자가 검색창 대신 대화형 인공지능(AI)에게 제품 추천을 요구하는 시대로 접어들었다. 포털 사이트가 쥐고 있던 검색 주도권이 생성형 AI로 이동하면서 AI 응답 속 브랜드 노출 빈도가 시장을 주도할 새로운 경쟁력으로 떠올랐다.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "소비자들이 포털 검색 대신 ChatGPT 같은 생성형 AI에 제품 추천을 묻는 추세 속에서 AI 응답에서의 브랜드 노출 빈도가 새로운 경쟁력으로 부상했다.",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/07/AIBIX-3.jpg",
+    "score": 7.321,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "생성형 ai"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "'오픈소스 지지' 홀로 불참한 앤트로픽…“개방형 반대한 적 없다” 반박",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213257",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-28T18:16:55+00:00",
+    "raw_excerpt": "앤트로픽이 미국 주요 AI 기업들이 참여한 개방형 AI(오픈 웨이트) 지지 선언에 유일하게 이름을 올리지 않으면서 업계의 비판을 받고 있다. 그러나 다리오 아모데이 CEO는 곧바로 입장문을 발표하고 \"개방형 모델을 금지하자고 주장한 적이 없다\"라며, 오히려 국가 안보와 대규모 모델 증류(distillation) 문제가 문제라고 반박했다.엔비디아와 메타, 마이크로소프트(MS) 등 20여개 기업은 지난 24일(현지시간) '오픈 웨이트와 미국의 AI 리더십(Open Weights and American AI Leadership)' 공동",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "앤트로픽이 오픈소스 AI 지지 선언에 불참하자 비판을 받았으나, CEO가 \"개방형 모델 금지를 주장한 적 없고 국가 안보와 모델 증류 문제가 핵심\"이라 반박했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/213257_216687_2024.jpg",
+    "score": 7.09,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "엔비디아"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "의료 AI 시대 연다...ETRI, 생체신호 압축기술 국제표준 채택",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41214",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-29T11:37:20+00:00",
+    "raw_excerpt": "한국전자통신연구원(ETRI)은 연구진이 개발한 생체신호 압축 기술이 국제전기통신연합 전기통신표준화부문(ITU-T)과 국제표준화기구 엠펙(MPEG)이 공동으로 추진하는 생체·일반 파형 압축 국제표준에 공식 반영됐다고 29일 밝혔다.이번 표준은 지난 7월 표준화 회의를 통해서 ITU-T 권고안(T.261)과 MPEG-D 파트 8로 동시에 승인된 바 있다. ETRI는 이번 성과에서 핵심 압축기술 두 건을 국제표준에 반영했을 뿐 아니라, 표준문서 에디터(Editor) 역할까지 맡으며 국제표준화를 주도했다. 이는 우리나라가 생체신호 압축 분",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "ETRI가 개발한 생체신호 압축 기술이 ITU-T와 MPEG 국제표준으로 공식 채택돼 의료 AI 시대를 주도할 것으로 기대된다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/41214_62068_3640_v150.jpg",
+    "score": 6.945,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "애플, 시가총액 1위 복귀…엔비디아는 'AI 순환 투자' 우려로 5% 하락",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213265",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-28T14:53:16+00:00",
+    "raw_excerpt": "애플이 엔비디아를 제치고 세계에서 가장 가치 있는 기업 자리를 다시 차지했다. 27일(현지시간) 미국 뉴욕증시에서 애플 주가는 1% 상승하며 시가총액 4조9500억달러(약 7242조8400억원)를 기록했지만, 엔비디아 주가는 5% 급락하며 시가총액이 4조7700억달러로 줄어들었다. 이로써 애플은 2025년 4월 이후 처음으로 장 마감 기준 세계 시가총액 1위 자리에 복귀했다.이번 주가 향방은 최근 AI 인프라 구축에 들어가는 막대한 비용과 수익성에 대한 투자자들의 우려가 반영된 결과로 분석됐다. AI 붐을 이끌며 지난해 시가총액 5",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "애플이 엔비디아를 제치고 시가총액 1위에 복귀했으며, 엔비디아는 AI 인프라 투자 수익성 우려로 5% 급락했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/213265_216692_5057.jpg",
+    "score": 6.814,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "엔비디아"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "메타, 블랙록과 AI 데이터센터 합작법인 설립… 20조원 투자, 텍사스에 1GW급 '메타 컴퓨트' 캠퍼스 구축",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41211",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-28T21:40:35+00:00",
+    "raw_excerpt": "메타(Meta)가 글로벌 자산운용사 블랙록(BlackRock)과 28일(현지시간) 미국 텍사스주 엘패소(El Paso)에 초대형 인공지능 데이터센터(AIDC) 캠퍼스를 구축하고 이를 공동 개발·운영하기 위한 합작법인(JV)을 설립한다고 밝혔다.총 개발비만 약 140억 달러(약 20조 원)에 달하는 이번 프로젝트는 메타의 차세대 AI 인프라 전략인 '메타 컴퓨트'의 핵심 사업으로, 슈퍼인텔리전스(Superintelligence) 구현을 위한 대규모 컴퓨팅 인프라 확보에 속도를 내기 위한 행보다.이번 프로젝트에는 블랙록 산하 글로벌 인",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "메타가 블랙록과 합작으로 텍사스에 1GW급 AI 데이터센터 캠퍼스를 20조원 투자해 구축하며 슈퍼인텔리전스 실현을 위한 대규모 컴퓨팅 인프라 확보에 나선다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/41211_62062_3630_v150.jpg",
+    "score": 6.799,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "OpenWiki supports 12 LLM providers:",
+    "url": "https://x.com/BraceSproul/status/2082194053580615975",
+    "source": "X @BraceSproul",
+    "source_type": "x",
+    "published_at": "2026-07-28T19:58:42+00:00",
+    "raw_excerpt": "OpenWiki supports 12 LLM providers:\n- \n@OpenAI\n API & \n@ChatGPT\n sub login\n- \n@AnthropicAI\n \n- \n@GeminiApp\n AI Studio & Enterprise Vertex\n- \n@awscloud\n Bedrock\n- \n@OpenRouter\n \n- \n@FireworksAI_HQ\n \n- \n@baseten\n \n- \n@nebiusai\n \n- \n@nvidia\n NIM\n\nSo there's no excuse not to try it! (ChatGPT login makes",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenWiki가 OpenAI, Anthropic, Google Gemini, AWS Bedrock 등 12개 LLM 제공사를 지원하여 다양한 AI 모델 접근성을 제공한다.",
+    "thumbnail": "https://pbs.twimg.com/media/HOVvSHRaEAAu958.jpg:large",
+    "score": 6.706,
+    "engagement": 6172,
+    "matched_keywords": [
+      "ai",
+      "llm",
+      "openai",
+      "nvidia"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "MS, 보안 특화 'MAI-사이버-1-플래시' 공개...\"앤트로픽·오픈AI 능가\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213245",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-28T13:30:13+00:00",
+    "raw_excerpt": "마이크로소프트(MS)가 사이버 보안에 특화된 자체 AI 모델 'MAI-사이버-1-플래시(MAI-Cyber-1-Flash)'와 다중 에이전트 기반 보안 플랫폼 '프로젝트 퍼셉션(Project Perception)'을 공개하며 AI 기반 사이버 보안 경쟁에 뛰어들었다. 새로운 시스템이 보안 벤치마크에서 앤트로픽과 구글, 오픈AI의 최신 모델을 뛰어넘는 성능을 기록하면서도 운영 비용은 절반 수준으로 줄였다고 강조했다.MS는 28일(현지시간) MAI-사이버-1-플래시를 자사의 다중 에이전트 취약점 탐지·복구 프레임워크인 MDASH(Mult",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Microsoft가 보안 특화 AI 모델 'MAI-Cyber-1-Flash'를 공개하며 Anthropic·OpenAI 모델을 능가하면서도 운영 비용을 절감했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/213245_216674_4242.png",
+    "score": 6.701,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "인텔 파운드리, 美 방산 반도체 프로토타입 개발 ‘RAMP-C’ 완료",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21250",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-07-29T09:40:32+00:00",
+    "raw_excerpt": "인텔 파운드리가 미 방위산업용 첨단 반도체 프로토타입 개발 프로그램인 ‘RAMP-C’를 완료했다고 밝혔다. 2021년 9월 출범한 이 프로그램은 미국 내 첨단 CMOS 기술의 개발과 생산을 뒷받침해 왔으며, 자국 반도체 제조 역량을 확장하는 데 집중했다.에릭 마카라(Eric Makara) 전쟁부 연구·공학차관실 산하 마이크로일렉트로닉스 프로그램 매니저는 “전쟁부와 인텔이 RAMP-C에서 협력한 결과, 최첨단 국내 반도체 기술과 설계 지원 인프라가 갖춰졌다”고 평가했다. 그는 “민간 기업과 방위산업 기반(DIB)이 국내에서 신뢰하는",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "인텔 파운드리가 미 국방부와 함께 추진한 첨단 군용 반도체 프로토타입 개발 프로그램 'RAMP-C'를 완료해 미국의 국내 반도체 제조 역량 강화에 기여했다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202607/21250_21939_3020.jpg",
+    "score": 6.232,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "From Proprietary to Open-Source",
+    "url": "https://t.co/12pWS0MUPj",
+    "source": "X @_akhaliq",
+    "source_type": "x",
+    "published_at": "2026-07-28T20:44:48+00:00",
+    "raw_excerpt": "From Proprietary to Open-Source\n\nBridging the Distribution Gap via Multi-Agent Protocol Distillation in Agentic Search\n\npaper: \nhttps://\nhuggingface.co/papers/2607.24\n280\n…",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "OpenAI의 o1 같은 독점 AI 모델의 성능을 오픈소스 모델에 증류하는 멀티에이전트 프로토콜 기술이 제시되었습니다.",
+    "thumbnail": "",
+    "score": 5.738,
+    "engagement": 3832,
+    "matched_keywords": [
+      "agentic",
+      "multi-agent"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "엘앤에프, 美 배터리 스타트업에 LFP 양극재 공급",
+    "url": "https://zdnet.co.kr/view/?no=20260729091735",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-29T00:28:36+00:00",
+    "raw_excerpt": "[지디넷코리아]엘앤에프는 미국 배터리 기술 기업 코어셸테크놀로지와 리튬인산철(LFP) 양극재 중장기 공급계약을 체결했다고 29일 밝혔다.엘앤에프는 OBBBA를 포함한 미국 공급망·원산지 규제에 대응 가능한 LFP 양극재 공급 역량을 기반으로 이번 계약을 성사시켰다고 강조했다. 미국 국방수권법(NDAA) 등 국방 및 전략 산업에서 요구되는 기준을 충족할 수 있는 비중국 공급망을 확보했다는 설명이다.코어셸은 미국 캘리포니아에 본사를 둔 배터리 기술 기업으로, 미국산 금속 실리콘을 활용한 차세대 배터리 플랫폼을 개발하고 있다.코어셸은 이번 계약을 통해 음극부터 양극까지 중국산 광물과 부품을 배제하고, 미국 내 생산과 규제 준수 기준을 충족하는 배터리 공급 체계를 구축하게 됐다. 특히 국방, 전기차, 전력망용 에너지저장장치(ESS) 등 주요 수요처에서 공급망 기준에 대응할 수 있는 대규모 생산 기반을 확보했다.류승헌 엘앤에프 최고재무책임자(CFO)는 “이번 북미 고객 확보는 엘앤에프의 LFP 사업이 안정적이고 지속적으로 확장 가능한 사업 기반을 갖추고 있음을 다시 한 번 보여주는 성과”라며, “울트라 하이니켈 NCM과 LFP를 아우르는 투트랙 전략을 바탕으로 프리미엄 전기차부터 보급형 시장까지 폭넓게 대응하고, 글로벌 고객이 요구하는 안정적이고 경쟁력 있는 비중국 공급망 구축에 기여해 나갈 것”이라고 밝혔다.",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "엘앤에프가 미국 배터리 기업 코어셸테크놀로지와 LFP 양극재 공급계약을 체결해 미국의 공급망 규제에 대응하는 비중국 배터리 공급망을 강화했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/07/21/a2c3d6a9da4ec0a9b48305b0b9633019.jpg",
+    "score": 5.257,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업",
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "홍콩 상장 앞둔 쉬인, 美 FTC 조사 받는다",
+    "url": "https://zdnet.co.kr/view/?no=20260729085743",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-29T00:07:14+00:00",
+    "raw_excerpt": "[지디넷코리아]쉬인이 홍콩 증시 상장을 앞두고 미국 연방거래위원회(FTC)의 조사를 받고 있는 것으로 확인됐다.28일(현지시간) CNBC에 따르면 쉬인은 홍콩증권거래소 운영기관에 제출한 기업공개(IPO) 관련 서류를 통해 미국 사업이 FTC의 조사를 받고 있다고 공개했다. FTC가 어떤 사안을 조사하고 있는지는 밝히지 않았지만 해당 조사가 외부에 알려진 것은 이번이 처음이다.쉬인은 공시에서 “FTC와 적극적으로 협력하고 있다”며 “조사와 관련해 합의에 이를 가능성도 있지만 현재로서는 조사 결과와 시점을 예측할 수 없으며 가까운 시일 내 결과가 나올 가능성도 배제할 수 없다”고 밝혔다.이어 “합의 여부와 관계없이 조사 결과에 따라 상당한 금액을 지급해야 할 수 있으며 이는 회사의 재무 상태와 경영 실적에 중대한 부정적 영향을 미칠 수 있다”고 덧붙였다.FTC는 미국의 소비자 보호를 담당하는 규제기관으로 기만적이거나 불공정한 상거래 행위를 감독한다. 과거 부정적인 리뷰를 숨기는 행위, 허위·과장 가격 표시, 숨겨진 수수료, 배송·환불 정책, 개인정보 보호 문제 등을 이유로 기업들을 조사한 바 있다.FTC가 중점적으로 들여다보는 분야 가운데 하나는 ‘다크 패턴(Dark Patterns)’이다. 다크 패턴은 소비자가 원하지 않는 상품을 구매하게 만들거나 개인정보 제공에 동의하도록 유도하기 위해 사용자 인터페이스(UI)나 사용자 경험(UX)을",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "쉬인이 홍콩 상장을 앞두고 미국 FTC로부터 조사를 받고 있으며, 조사 결과에 따라 상당한 금액을 지급해야 할 수 있다고 공시했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2024/07/09/ec2e38754dbc4f2109238ca9e4569800.jpg",
+    "score": 5.237,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제",
+      "개인정보"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "The first autonomous agent cyberattack is an unprecedented event that deserves unprecedented transparency. Today we’re sharing everything we",
+    "url": "https://x.com/ClementDelangue/status/2082201245813514613",
+    "source": "X @ClementDelangue",
+    "source_type": "x",
+    "published_at": "2026-07-28T20:27:17+00:00",
+    "raw_excerpt": "The first autonomous agent cyberattack is an unprecedented event that deserves unprecedented transparency. Today we’re sharing everything we can: a full technical timeline, an interactive replay, and how we used an open model to defend ourselves, so defenders everywhere can learn",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "첫 자율 에이전트 사이버공격 사건에 대해 Hugging Face가 기술 타임라인과 재현 영상, 방어 기법을 공개하며 투명성을 강조했다.",
+    "thumbnail": "https://pbs.twimg.com/media/HOV2qy9W0AAkKpg.jpg:large",
+    "score": 5.226,
+    "engagement": 227271,
+    "matched_keywords": [
+      "autonomous agent"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "re: hiring right now",
+    "url": "https://x.com/swyx/status/2082199414656127010",
+    "source": "X @swyx",
+    "source_type": "x",
+    "published_at": "2026-07-28T20:20:00+00:00",
+    "raw_excerpt": "re: hiring right now\n\nit's a huge bull market for AI-native IC's/player-coaches\nit's a huge bear market for \"heads of X\" managers\n\nnever seen such furious bifurcation. to oversimplify: 1 year experience managing 10 agents > 10 years experience managing 10-100 people",
+    "topic": "ai_native",
+    "topic_label": "🧬 AI Native",
+    "summary": "AI 네이티브 개발자와 플레이어-코치 직군의 수요가 폭증하는 반면, 전통적 관리자 직책의 채용이 급감하며 1년의 에이전트 관리 경험이 10년의 인력 관리 경험보다 선호되는 추세다.",
+    "thumbnail": "https://pbs.twimg.com/profile_images/2073162797354217472/hNny55eF_200x200.jpg",
+    "score": 5.221,
+    "engagement": 21587,
+    "matched_keywords": [
+      "ai-native"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "한국인터넷신문협회, ‘2026 인터넷신문의 날’ 기념식 개최",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47726",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-29T11:48:31+00:00",
+    "raw_excerpt": "[스마트타임스]한국인터넷신문협회는 지난 28일 한국프레스센터에서 ‘2026 인터넷신문의 날’ 기념식을 개최했다고 29일 밝혔다.김기정 협회장은 이날 “미디어 환경이 급변하는 대전환의 한복판에서 언론에 주어진 과제는 어느 때보다 어렵고 무겁다”며 “신뢰할 수 있는 매체들이 함께 머리를 맞대고 더욱 엄격한 윤리실천을 위해 토론하고 점검하며 실천할 때”라고 강조했다.이어 “현재 회원사 중심으로 참여하고 있는 자율규제기구에 협회 회원사가 아니더라도 참여할 수 있도록 문호를 확대할 계획”이라고 말했다.이재명 대통령은 성기홍 홍보수석이 대독한",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "한국인터넷신문협회가 '2026 인터넷신문의 날' 기념식을 개최하고 미디어 신뢰성 강화와 윤리실천을 위한 자율규제기구 확대를 추진하겠다고 밝혔다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202607/47726_46295_479_v150.jpg",
+    "score": 5.219,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "사람인, AI 헤드헌터 '에이전트핏' 출시",
+    "url": "https://zdnet.co.kr/view/?no=20260729083404",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-28T23:39:32+00:00",
+    "raw_excerpt": "[지디넷코리아]사람인(대표 황현순)은 후불형 채용 상품 전용 AI 에이전트 서비스 ‘에이전트핏’을 출시했다고 29일 밝혔다.에이전트핏은 자동화된 인재 탐색과 입사 제안 발송으로 꼭 맞는 인재를 빠르게 찾고 채용 업무 효율을 극대화한다. 인사담당자가 언제든 믿고 맡길 수 있는 ‘AI 헤드헌터’인 셈이다.후불형 채용 상품을 이용하는 기업은 누구나 에이전트핏을 사용할 수 있다. 공고 등록을 완료하면 에이전트핏 AI가 자동으로 이를 감지하고 기업의 공고 요건과 구직자의 경력, 역량 등 커리어 데이터를 다각도로 분석한다. 이후 분석 결과상 매칭률 80% 이상의 인재만을 엄선해 입사 제안을 보낸다. 해당 인재에 대해서는 강점과 소프트 스킬, 동종 업계 이력 등 선호 요건에 대한 심층 분석 리포트를 제공하며, 향후 전형을 위한 맞춤형 면접 가이드와 평가 포인트까지 제시해준다.에이전트핏은 구직자들도 제안을 그냥 지나치지 않고 활발하게 지원할 수 있도록 ‘매칭 공고 추천 리포트’를 제공한다. 리포트에는 AI가 분석한 공고 매칭 사유와 지원자 본인의 경쟁력, 면접 준비 가이드까지 담겨 있어 망설임 없이 공고에 지원하게 해준다. 기업들은 입사지원이 늘어나는 효과를 기대할 수 있다. 이외에도 에이전트핏은 중복 추천을 방지하는 등 품질 제고를 위한 다양한 필터링 알고리즘을 적용해 신뢰도를 높였다.사람인은 후불형 채용 상품에 에이전트핏을 적용하며 채용 담당자",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "사람인이 AI 기술로 자동으로 적합한 인재를 탐색하고 제안하는 'AI 헤드헌터' 서비스 '에이전트핏'을 출시했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/07/29/7cf302fd9b0e10f5b8cccfaf6795420e.jpg",
+    "score": 5.211,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "거창군, 경남 지방정부 최초 ‘ISO 45001’ 인증 획득",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47723",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-29T10:55:31+00:00",
+    "raw_excerpt": "[스마트타임스]중소벤처기업인증원(원장 엄진엽, KOSRE)은 지난 28일 거창군이 경남 지방정부 최초로 ISO 45001(안전보건경영시스템) 인증을 획득했다고 29일 밝혔다.도내 지방정부 중 시설 단위로 한정해 인증을 획득한 일부 사례는 있었으나 본청과 직속 사업소 등 전체 범위로 인증을 받은 경우는 거창군이 처음이다.거창군은 이번 인증으로 국제표준에 부합하는 행정서비스를 제공하는 선도적 모범 지방정부로서 대외적인 공식 인정을 받게 됐다.거창군은 이번 인증을 위해 군청의 전반적인 안전·보건 활동을 진단하고 안전·보건체제를 재정비했다",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "거창군이 경남 지방정부 최초로 본청과 직속 사업소 전체에 대해 ISO 45001 안전보건경영시스템 인증을 획득했다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202607/47723_46287_5454_v150.jpg",
+    "score": 5.169,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "We are releasing WorldDiT, a unified architecture for robotics world modeling and control.",
+    "url": "https://x.com/bageldotcom/status/2082179134336512366",
+    "source": "X @bageldotcom",
+    "source_type": "x",
+    "published_at": "2026-07-28T18:59:25+00:00",
+    "raw_excerpt": "We are releasing WorldDiT, a unified architecture for robotics world modeling and control.\n\nOn the LIBERO benchmark, it performs the best among all publicly released methods that do not need a VLM to generate actions. Its size and performance sit on the reported Pareto frontier.",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "로봇 제어와 월드 모델링을 통합하는 WorldDiT 아키텍처가 공개되었으며, LIBERO 벤치마크에서 VLM 없이도 최고 성능을 달성했다.",
+    "thumbnail": "https://pbs.twimg.com/media/HOVf2xvbAAAK9P9.jpg:large",
+    "score": 5.165,
+    "engagement": 21984,
+    "matched_keywords": [
+      "robotics"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "세종사이버대 한국어학과, 베트남 호치민 한국어교육기관과 현장실습 협약",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47722",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-29T10:49:54+00:00",
+    "raw_excerpt": "[스마트타임스]세종사이버대학교 한국어학과는 지난 23~24일 베트남 호치민 현지 한국어교육기관을 방문해 국어 교육 실습 협약(MOU)을 체결했다고 29일 밝혔다.이번 방문은 내년부터 강화되는 국립국어원의 한국어교육실습 운영 방침에 맞춰 해외에 거주하는 예비 한국어 교원들에게 현장 강의 참관의 기회를 제공하고 현지 네트워크를 마련하기 위해 추진됐다.협약식에서 세종사이버대 한국어학과 이은경 교수는 양 기관의 상호 협력 방안을 논의했다.23일에는 호치민시 10군에 위치한 ‘나눔어학원’과 협약을 체결했다. 나눔어학원은 세종사이버대 한국어학",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "세종사이버대 한국어학과가 베트남 호치민의 한국어교육기관과 현장실습 협약을 체결해 예비 교원들에게 해외 강의 참관 기회를 제공하기로 했다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202607/47722_46286_4855_v150.jpg",
+    "score": 5.164,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Great updates to MCP. It's maturing fast!",
+    "url": "https://x.com/omarsar0/status/2082173006814568516",
+    "source": "X @omarsar0",
+    "source_type": "x",
+    "published_at": "2026-07-28T18:35:04+00:00",
+    "raw_excerpt": "Great updates to MCP. It's maturing fast!\n\nWith MCP now being stateless, it's going to make it even easier to adopt across applications. It should also be easier to manage and deploy MCP servers. Cool stuff!",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "MCP가 상태 비저장 방식으로 전환되어 애플리케이션 도입과 서버 관리·배포가 더욱 용이해졌다.",
+    "thumbnail": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_200x200.jpg",
+    "score": 5.148,
+    "engagement": 7835,
+    "matched_keywords": [
+      "mcp"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "really grateful to ",
+    "url": "https://x.com/swyx/status/2082165420237492346",
+    "source": "X @swyx",
+    "source_type": "x",
+    "published_at": "2026-07-28T18:04:55+00:00",
+    "raw_excerpt": "really grateful to \n@realbasilchatha\n for helping me curate a survey of the entire field of Forward Deployed Engineering in one track!\n\nFrom FDE 101 by \n@zkevinbai\n (Anthropic, Palantir, Rippling Founding FDE) to head of FDE practices at:\n\n- Decagon\n- Cursor\n- Sierra\n- Ramp\n-",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Forward Deployed Engineering(FDE) 분야 전체를 다룬 컨퍼런스 트랙을 Basilchatha와 함께 큐레이션했으며, Anthropic, Palantir, Rippling 등 주요 기업의 FDE 리더들이 참여한다.",
+    "thumbnail": "https://pbs.twimg.com/media/HOVVdVkawAEq1fy.jpg:large",
+    "score": 5.127,
+    "engagement": 6751,
+    "matched_keywords": [
+      "cursor"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "LG전자, 임직원 참여 AX 해커톤 개최…업무혁신 과제 5건 선정",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47715",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-29T10:08:48+00:00",
+    "raw_excerpt": "[스마트타임스] LG전자는 전 구성원이 참여하는 ‘모두의 AX’를 기조로 상반기 AX(인공지능 전환) 해커톤을 열고 업무혁신 과제 5건을 선정했다고 29일 밝혔다.이번 행사에는 임직원 2100여명이 참여해 700건이 넘는 아이디어를 제출했다. LG전자는 두 달간 심사와 검증을 거쳐 우수 과제를 선정했다.24시간 완전 자율업무 수행 시스템은 업무 분류부터 요구사항 분석, 코드 구현, 테스트, 문서화까지 소프트웨어 개발 과정을 인공지능(AI) 에이전트가 수행하는 솔루션이다. LG전자는 자체 검증 결과 업무의 약 80%를 자동화해 1인당",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "LG전자가 임직원 2,100명이 참여한 AI 해커톤에서 700건 이상의 아이디어 중 업무혁신 과제 5건을 선정하고, AI 에이전트가 소프트웨어 개발 과정 80%를 자동화하는 솔루션을 개발했다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202607/47715_46282_580_v150.jpg",
+    "score": 5.126,
+    "engagement": 0,
+    "matched_keywords": [
+      "ax"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "프론티어 AI가 반도체 산업을 닮아가는 이유",
+    "url": "https://news.hada.io/topic?id=31931",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-07-29T00:34:02+00:00",
+    "raw_excerpt": "막대한 선행 자본과 짧은 기술 주기가 결합하면서, 프론티어 AI 연구소는 신제품을 내놓는 즉시 다음 세대를 준비해야 하는 반도체식 트레드밀 에 진입함 프론티어 모델 훈련비는 8년 동안 매년 약 2.4배 증가했으며, 최대 훈련 작업은 2027년 10억 달러를 넘어 202...",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "프론티어 AI 개발에 필요한 막대한 자본과 빠른 기술 혁신 주기로 인해 반도체 산업처럼 끊임없는 다음 세대 개발의 악순환에 빠지고 있다.",
+    "thumbnail": "https://social.news.hada.io/topic/31931?v=7f83aa60a57a39a42691f68ff534e50e",
+    "score": 5.096,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Firefox Nightly에서 차세대 디자인 시험하기",
+    "url": "https://news.hada.io/topic?id=31929",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-07-29T00:23:35+00:00",
+    "raw_excerpt": "Mozilla가 Firefox의 차세대 디자인 을 Nightly에 통합해 정식 확대 전 직접 시험할 수 있도록 함 탭·메뉴·패널 전반의 일관성을 높이고 부드러운 탭 모양 , 따뜻한 색상과 새 아이콘을 적용함 사용자 피드백에 따라 Compact Mode 를 되살리...",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "Mozilla가 Firefox Nightly에서 탭·메뉴·아이콘 등을 개선한 차세대 디자인을 시험 중이며 사용자 피드백을 통해 Compact Mode 복귀를 검토하고 있다.",
+    "thumbnail": "https://social.news.hada.io/topic/31929?v=6b2475510dbbb30c886821c6c6c1fbc5",
+    "score": 5.085,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "New research from Meta and CMU.",
+    "url": "https://x.com/omarsar0/status/2082105300392542246",
+    "source": "X @omarsar0",
+    "source_type": "x",
+    "published_at": "2026-07-28T14:06:01+00:00",
+    "raw_excerpt": "New research from Meta and CMU.\n\nThis one is on agentic context management for long horizon tasks.\n\n(bookmark it)\n\nProduction agents accumulate context every turn. The usual fix compresses on a token threshold and throws the remainder away, so the trigger sometimes fires for",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Meta와 CMU가 장시간 작업을 위한 에이전트 맥락 관리 기술을 연구했으며, 기존의 토큰 임계값 기반 압축 방식의 한계를 개선하는 방법을 제시했다.",
+    "thumbnail": "https://pbs.twimg.com/media/HOUfvGibUAAr536.jpg:large",
+    "score": 4.961,
+    "engagement": 7134,
+    "matched_keywords": [
+      "agentic"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Paged Out! 제9호",
+    "url": "https://news.hada.io/topic?id=31919",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-07-28T22:00:32+00:00",
+    "raw_excerpt": "프로그래밍, 시스템, 보안, AI, 리버스 엔지니어링, 하드웨어 등을 다루는 무료 실험적 기술 잡지 각 기사는 '한 기사 = 한 페이지' 형식으로 작성되며, 개발자와 연구자가 직접 작성한 실전 기술 노트와 아이디어를 수록 이번 호에는 Semantic K...",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "개발자와 연구자가 직접 기술 노트를 작성한 무료 실험적 기술 잡지 'Paged Out!' 제9호가 발행되어 프로그래밍부터 AI, 보안, 하드웨어까지 다양한 실전 기술 정보를 제공합니다.",
+    "thumbnail": "https://social.news.hada.io/topic/31919?v=6fa9eda3b3e12a11438a5429c3a3d974",
+    "score": 4.936,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "as the progenitor of the agent lab thesis which got the evals/routing/interactivity/ROI focus right",
+    "url": "https://x.com/swyx/status/2081890955070980416",
+    "source": "X @swyx",
+    "source_type": "x",
+    "published_at": "2026-07-27T23:54:18+00:00",
+    "raw_excerpt": "as the progenitor of the agent lab thesis which got the evals/routing/interactivity/ROI focus right\n\n i gotta say the biggest argument against myself is that Claude Code got accidentally \"open sourced\" this year and approximately ~nothing happened to either it or its competitors'",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Claude Code의 실수적 공개에도 불구하고 시장에 실질적 영향이 없었던 것이 에이전트 랩 테제의 주요 과제임을 지적합니다.",
+    "thumbnail": "https://pbs.twimg.com/media/HORcmDpagAAVsLV.png:large",
+    "score": 4.87,
+    "engagement": 12175,
+    "matched_keywords": [
+      "claude",
+      "claude code"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "인터넷을 죽이지 말라: 디지털 ID와 연령 확인 반대",
+    "url": "https://news.hada.io/topic?id=31918",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-07-28T20:31:22+00:00",
+    "raw_excerpt": "온라인 서비스 접근에 쓰이는 디지털 신원·연령 보증 시스템 이 자발적이고 개인정보 보호적이며 비차별적으로 운영되도록 EU 법률 제정을 요구함 합법적인 콘텐츠나 서비스를 이용할 때는 법률상 엄격한 필요성과 비례성이 인정되지 않는 한 신원 공개를 강요할 수 없어야 함...",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "EU의 디지털 ID·연령 확인 의무화 추진에 대해 개인정보 보호와 비차별성을 보장하는 법적 장치를 요구하는 목소리가 커지고 있다.",
+    "thumbnail": "https://social.news.hada.io/topic/31918?v=d5392b2f224c0278683b246b0e1ae527",
+    "score": 4.844,
+    "engagement": 0,
+    "matched_keywords": [
+      "개인정보"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "마이크로소프트, 미토스 이상의 AI 보안 ‘프로젝트 퍼셉션’ 공개",
+    "url": "https://byline.network/2026/07/28-622/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-07-28T00:52:06+00:00",
+    "raw_excerpt": "마이크로소프트는 AI 시대의 보안 변화에 대응하기 위한 에이전틱 보안 시스템 ‘프로젝트 퍼셉션(Project Perception)’을 28일 공개했다. 마이크로소프트는 멀티 모델 전략을 바탕으로 보안 작업별로 적합한 모델을 제공하고, 자체 특화 모델 개발도 추진하고 있다. 멀티 모델 에이전틱 스캐닝 하네스(MDASH)에 새로운 보안 특화 AI 모델인 MAI-사이버-1-플래시를 적용한다. MAI-사이버-1-플래시를 적용한 MDASH는 사이버짐 벤치마크에서 96%의 성능을 기록했으며, 미토스를 12점 앞섰다. 앤트로픽 미토스와 오픈AI GPT-5.5-사이버를 포함한 경쟁 모델은 약 83%의 점수를 기록했다.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Microsoft가 AI 시대 보안 위협에 대응하기 위해 멀티 모델 기반의 에이전틱 보안 시스템 '프로젝트 퍼셉션'을 공개하며, 자체 개발한 MAI-사이버-1-플래시 모델이 기존 경쟁 모델 대비 우수한 성능을 입증했다.",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/07/ms-perception.jpg",
+    "score": 4.802,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai 보안",
+      "보안"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "\"기술과 디자인으로 장애 장벽 허문다\"…'D테크 공모전' 참가팀 모집",
+    "url": "https://zdnet.co.kr/view/?no=20260729092304",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-29T00:23:04+00:00",
+    "raw_excerpt": "[지디넷코리아]창의적인 아이디어로 장애 없는 일상을 설계하는 무대가 열린다.법무법인 디엘지(대표변호사 조원희·안희철)는 장애인을 위한 기술·디자인 공모전인 ‘제9회 디테크(D-Tech) 공모전’ 참가팀을 오는 9월 11일까지 모집한다고 밝혔다.올해로 9회째를 맞이한 '디테크(D-Tech)' 공모전은 장애인을 위한 기술·디자인 아이디어 공모전이다. 장애 유무와 관계없이 누구나 편리하게 이용할 수 있는 기술 및 디자인 개발을 장려하고, 이 분야의 혁신적인 창업자를 발굴·육성하기 위해 매년 개최하고 있다.공모전은 참가 팀의 성장 단계에 맞춰 두 트랙으로 진행한다. ▲아이디어와 구체적인 사업화 계획을 평가하는 '인큐베이팅 트랙(트랙1)'과 ▲이미 시제품을 보유했거나 실제 매출이 발생하고 있는 제품·서비스를 대상으로 하는 '엑셀러레이팅 트랙(트랙2)'이다. 나이나 소속 등 참가 자격에 별도 제한이 없다. 개인과 팀은 물론 외국인도 지원할 수 있다.각 트랙별로 대상, 최우수상, 우수상, 장애인기업을 격려하기 위한 특별상을 선정해 총 3300만 원의 상금을 수여한다. 수상팀에게는 일회성 상금 지급에 그치지 않고 실질적인 성장 기회가 주어진다. ▲MYSC·탭엔젤파트너스의 엑셀러레이팅 프로그램 연계 ▲법률·특허 자문 제공 ▲수상팀 워크숍 개최 ▲장애인기업종합지원센터 장애인기업 경영지도사 자문 제공 등 다방면의 후속 지원 혜택을 제공한다.공모전은 서류",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "법무법인 디엘지가 장애인을 위한 기술·디자인 아이디어를 발굴하는 '제9회 디테크 공모전'을 9월 11일까지 모집하며, 성장 단계별 2개 트랙과 총 3300만 원 상금, 사업화 지원 혜택을 제공한다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/07/29/526b7d56c5d3294db82a8d22d6fa3625.jpg",
+    "score": 4.576,
+    "engagement": 0,
+    "matched_keywords": [
+      "창업"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "SK하이닉스, 올해 설비투자 40조원 후반 예상…생산능력 확대 '고삐'",
+    "url": "https://zdnet.co.kr/view/?no=20260729083227",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-28T23:51:06+00:00",
+    "raw_excerpt": "[지디넷코리아]SK하이닉스가 올해 40조원 후반 수준의 시설투자를 단행한다. 전년 대비 10조원 이상 확대된 규모다. AI용 고부가 메모리 수요에 적기 대응하기 위한 전략으로, 올 하반기 용인 신규 팹에 투자가 집중될 전망이다.SK하이닉스는 29일 실적발표 자료를 통해 회사의 설비투자 및 고부가 메모리 사업 전략에 대해 밝혔다.SK하이닉스는 고부가 메모리 수요 확대에 따라 적극적인 설비투자를 진행할 계획이다. 회사가 예상하는 올해 연간 투자규모는 40조원 후반 수준이다. 전년(30조 1730억원) 투자규모를 고려하면 최소 15조원 이상 증가하는 셈이다.SK하이닉스는 M15X 양산 일정을 앞당기는 한편, 내년 초 용인 1기 팹 클린룸 오픈 이후 생산능력을 신속하게 확대할 수 있는 투자도 진행하고 있다. 최근 발표한 첨단 패키징 공장 P T7과 낸드 생산기지 M17, 신규 반도체 클러스터 조성 등 중장기 투자 계획도 고객 수요와 투자 효율성 등을 고려해 단계적으로 추진할 방침이다.SK하이닉스는 \"중장기 성장 기회를 차질 없이 준비하는 동시에 설비투자 원칙을 유지함으로써, 생산능력과 재무 건전성을 함께 강화해 나갈 계획\"이라고 설명했다.고부가 메모리 제품의 경우, 올 2분기 HBM4의 양산 출하를 시작했다. 하반기 생산을 본격 확대할 계획이다. 또한 상반기 샘플 공급을 마친 HBM4E는 기술 성숙도와 양산 안정성을 갖춘 최적의 공정을 적용",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "SK하이닉스가 AI용 고부가 메모리 수요에 대응하기 위해 올해 설비투자를 전년 대비 10조원 이상 늘린 40조원 후반 규모로 확대하기로 했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2025/03/19/6c50a8eb45663ee5cf93f58b72c26a1c.png",
+    "score": 4.546,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "SKB, 지역 어린이 대상 방송제작 체험 기회 제공",
+    "url": "https://zdnet.co.kr/view/?no=20260729084853",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-28T23:48:53+00:00",
+    "raw_excerpt": "[지디넷코리아]SK브로드밴드는 Btv 인천방송에서 지역 어린이 대상 방송국 견학과 방송 제작 실습 교육을 진행했다고 29일 밝혔다.사회공헌 네트워크 행복얼라이언스가 주관하는 사회공헌 프로그램 ‘행복얼라이언스 스쿨’ 활동 일환으로 ‘방송 뉴스 이렇게 만들어요’를 주제로 어린이들이 지역방송국에서 뉴스와 프로그램이 만들어지는 과정을 직접 살펴보고 방송 관련 다양한 직업들을 체험할 수 있도록 마련된 자리다.SK브로드밴드는 Btv 케이블 지역채널 1번을 통해 지역의 생활정보와 뉴스, 프로그램을 제작 방송하는 지역 미디어 플랫폼으로서 보유한 방송 제작 인프라와 전문 인력을 활용해 실습 중심의 교육을 진행했다.교육은 지역방송 내 다양한 직업군을 이해하는 시간과 실제 방송 시설을 활용한 모의 뉴스 녹화 체험 등으로 구성했다. 어린이들은 취재기자, 촬영기자, 뉴스 PD, 기술감독, 아나운서 등 방송 제작에 필요한 주요 직무에 대해 배우고, 각 직무가 뉴스 제작 과정에서 어떤 역할을 수행하는지 경험했다.특히 이번 교육은 단순한 견학을 넘어 어린이들이 직접 역할을 맡아 방송 제작 과정에 참여하는 실습형 프로그램으로 진행됐다. 어린이들은 카메라 앞에서 직접 뉴스를 전달하거나 취재 내용을 구성하고, 촬영 장비와 스튜디오 시스템을 살펴보는 등 평소 접하기 어려운 방송국 현장을 생생하게 경험하고 신기해했다는 후문이다.SK브로드밴드는 매년 ‘행복얼라이언스 스쿨’",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "SK브로드밴드가 Btv 인천방송을 통해 지역 어린이들에게 방송국 견학과 뉴스 제작 실습 기회를 제공했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/07/29/c49de594f7567476711c8ac4d3277e13.jpg",
+    "score": 4.544,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "동화일렉트로라이트, 美 테네시 공장 출하 개시",
+    "url": "https://zdnet.co.kr/view/?no=20260729083235",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-28T23:45:54+00:00",
+    "raw_excerpt": "[지디넷코리아]동화기업의 계열사 동화일렉트로라이트(대표 승지용, 김종훈)는 미국 테네시 공장이 본격적인 양산에 돌입해 첫 제품 출하를 마무리했다고 29일 밝혔다.해당 제품은 글로벌 배터리 제조사의 에너지저장장치(ESS)에 탑재되는 것으로, 현지에 위치한 고객사 공장으로 공급됐다. 양산 규모 등 구체적인 내용은 공개하지 않았다.이로써 동화일렉트로라이트는 북미 공급망 현지화를 실현하게 됐다. 액체 상태인 전해액은 고체 소재와 비교해 유통기한이 짧아 현지 조달이 매우 중요하다. 동화일렉트로라이트는 첫 출하를 계기로 고객사가 원하는 시점에 제품을 적시 공급할 수 있음을 입증하게 됐다고 강조했다.제조 이력 및 이물질 관리 등 글로벌 고객사의 엄격한 생산 기준을 충족하며 품질 경쟁력도 인정을 받았다. 자동화 생산 시스템을 도입해 고품질의 전해액을 안정적이며 효율적으로 양산할 수 있는 제조 역량까지 확보했다.미국 현지생산 세액공제(AMPC) 수령 요건도 갖출 전망이다. 현재 동화일렉트로라이트는 글로벌 규제 대응을 위해 핵심 원재료의 공급망 다변화 등 속도를 내고 있다.지난해 완공된 테네시 생산기지는 연간 8만6000톤의 생산 능력을 갖추고 있다.김형남 동화일렉트로라이트 영업본부장은 “이번 테네시 공장의 첫 제품 출하는 당사만의 철저한 품질 관리 시스템과 안정적인 현지 공급 역량이 바탕이 돼 이뤄낸 매우 뜻깊은 결실”이라며, “현지 고객사와의 전략",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "동화일렉트로라이트가 美 테네시 공장에서 ESS용 전해액 첫 출하를 완료하며 북미 공급망 현지화를 실현했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/07/29/0ef1d6d167760032b66b0e011145727f.jpg",
+    "score": 4.542,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "KB금융, 구글 클라우드와 전략적 협업…\"AX 가속화 추진\"",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47677",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-28T11:30:49+00:00",
+    "raw_excerpt": "[스마트타임스]KB금융그룹이 구글 클라우드와 전략적 협업을 추진한다.28일 KB금융에 따르면 양사는 ▲AI 기반 업무 혁신 ▲고객 금융경험 개선 ▲데이터 기반 의사결정 ▲AI 금융 플랫폼 구축 등 AI·데이터 분야의 협력을 확대하고 전문인력 간 지식·노하우 공유 등 인적 역량 강화에도 협력한다.KB금융은 구글 클라우드의 생성형 AI 모델 '제미나이(Gemini)'를 활용해 데이터 분석 AI 에이전트 'KB DAVIS(다비스)'를 개발했다. 'KB DAVIS'는 사용자의 업무 맥락과 요청 의도까지 이해하는 '개인화된 AI 업무 비서'",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "KB금융이 구글 클라우드와 AI·데이터 협업을 확대하며 생성형 AI 모델 '제미나이'를 활용한 업무 비서 'KB DAVIS' 개발을 추진 중이다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202607/47677_46246_2913_v150.jpg",
+    "score": 4.527,
+    "engagement": 0,
+    "matched_keywords": [
+      "업무 혁신",
+      "ax"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "HashKey Unifies Regional Crypto Exchanges Under Single Global Platform",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47702",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-28T21:49:43+00:00",
+    "raw_excerpt": "HashKey Holdings has joined its regional cryptocurrency exchanges into a unified trading platform, combining HashKey Exchange and HashKey Global into a single application designed to simplify access while maintaining compliance across multiple jurisdictions.The integration brings together the compan",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "HashKey Holdings가 지역별 암호화폐 거래소들을 통합 플랫폼으로 단일화하여 규제 준수를 유지하면서 이용 접근성을 간소화했다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202607/47702_46274_4940_v150.jpg",
+    "score": 4.433,
+    "engagement": 0,
+    "matched_keywords": [
+      "compliance"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Netflix 직원, 리트릿 신뢰 훈련에서 개인사 공유 후 해고됐다며 소송",
+    "url": "https://news.hada.io/topic?id=31909",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-07-28T09:33:32+00:00",
+    "raw_excerpt": "Netflix 계열 Eyeline Studios의 전 부사장 Kevin Baillie는 사내 리트릿의 신뢰 훈련에서 의료용 케타민 치료 경험을 공개한 뒤 , 연봉 110만 달러의 직장에서 해고됐다며 소송을 제기함 Baillie는 어머니 사망 후 겪은 임상 우울증 을 치료하려고 2022년 10~11월 의...",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "Netflix 계열사 임원이 사내 리트릿의 신뢰 훈련에서 케타민 치료 경험을 공유한 후 해고됐다며 소송을 제기했다.",
+    "thumbnail": "https://social.news.hada.io/topic/31909?v=5b4385db50a382662ebbce06dd5d440f",
+    "score": 4.158,
+    "engagement": 0,
+    "matched_keywords": [
+      "사내"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "The US is banning foreign robots",
+    "url": "https://www.theverge.com/tech/972259/us-foreign-robots-power-inverter-ban",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-07-28T22:37:53+00:00",
+    "raw_excerpt": "The US government is targeting China with a new import ban on \"advanced robotic devices\" and power inverters made in foreign countries, as reported earlier by Reuters. In an announcement on Tuesday, the Federal Communications Commission says the ban will include \"mobile\" robots, such as humanoid and quadruped models - but it is not limited [ ]",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "미국이 중국을 겨냥해 첨단 로봇과 전력 변환기 수입을 금지하는 조치를 시행한다.",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2281892623.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
+    "score": 3.317,
+    "engagement": 0,
+    "matched_keywords": [
+      "humanoid"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Does every question mark deserve a Betteridge?",
+    "url": "https://dynomight.net/betteridge/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-29T02:29:12+00:00",
+    "raw_excerpt": "Article URL: https://dynomight.net/betteridge/ Comments URL: https://news.ycombinator.com/item?id=49092781 Points: 3 # Comments: 1",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Betteridge의 법칙(제목이 질문형이면 답은 '아니오')이 모든 물음표에 적용되는지를 다루는 메타 저널리즘 논의.",
+    "thumbnail": "https://dynomight.net/img/betteridge/a_naval_encounter_between_dutch_and_spanish_warships.jpg",
+    "score": 2.782,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  }
+]
