@@ -1458,7 +1458,7 @@
     "7a6592c940a76484": "https://github.blog/wp-content/uploads/2026/07/Changelog-Stacks-NewRelease-Unfurl.png",
     "485fa705d5625217": "https://social.news.hada.io/topic/31997?v=358f599f4392cad37fa875e9d62ed762"
   },
-  "last_sent_date": "2026-07-30",
+  "last_sent_date": "2026-07-31",
   "sent": {
     "2026-07-23": [
       "morning",
@@ -1489,6 +1489,9 @@
       "morning",
       "noon",
       "evening"
+    ],
+    "2026-07-31": [
+      "morning"
     ]
   }
 }
