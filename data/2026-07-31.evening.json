@@ -1,0 +1,723 @@
+[
+  {
+    "title": "\"악성 문서 읽고 파일 유출\"...MS 코파일럿서 보안 허점 발견",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213408",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-31T17:26:29+00:00",
+    "raw_excerpt": "AI를 활용한 사이버 보안 경쟁이 본격화하는 가운데, 기업용 AI 서비스의 보안 취약점이 잇따라 드러나고 있다. 최근 허깅페이스 해킹 사태에 이어 마이크로소프트(MS)의 기업용 AI 비서 '코파일럿(Copilot)'에서도 민감한 기업 데이터를 외부로 유출할 수 있는 취약점이 발견되면서, 보안을 강화하기 위해 도입한 AI가 오히려 새로운 공격 경로가 될 수 있다는 우려가 커지고 있다.디 인포메이션은 30일(현지시간) MS의 오피스 365용 AI 기능인 코파일럿에서 해커가 기업 내부 파일과 이메일을 탈취할 수 있는 복수의 보안 취약점이",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "MS 코파일럿에서 악성 문서를 통해 기업 내부 파일과 이메일을 탈취할 수 있는 보안 취약점이 발견되면서, 보안 강화용 AI가 새로운 공격 경로가 될 수 있다는 우려가 제기되고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/213408_216865_2111.jpg",
+    "score": 10.434,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "사이버 보안",
+      "취약점",
+      "해킹"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "중기부, '모두의 창업 프로젝트' 정보유출 조사 결과 발표…\"보안 전면 개편·피해 지원 강화\"",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41268",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-31T17:27:12+00:00",
+    "raw_excerpt": "중소벤처기업부(이하, 중기부)가 '모두의 창업 프로젝트' 정보유출 사고에 대한 조사 결과를 발표하고 플랫폼 보안체계 전면 개편과 함께 창업 아이디어 보호 및 피해 지원 대책을 본격 추진한다.중기부는 31일 브리핑을 통해 국가정보원과 합동으로 실시한 조사 결과를 공개하고, 보안 취약점 개선과 개인정보 관리체계 개편, 피해자 구제 방안을 발표했다.조사 결과에 따르면 정보 유출은 '모두의 창업 플랫폼'의 일부 API에 비공개 정보가 포함돼 있었던 것이 원인이었다. 웹 크롤링 등을 통해 API를 수집하는 과정에서 해당 정보가 외부로 유출됐",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "중소벤처기업부가 '모두의 창업 프로젝트' 정보유출 조사 결과를 발표하고 보안 전면 개편 및 피해 지원 강화 대책을 추진한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/41268_62143_2653_v150.jpg",
+    "score": 8.732,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "취약점",
+      "개인정보"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "여성과학기술인...“AI 이해·검증·판단 역량 높아, 업무 자동화 적용은 과제”",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41266",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-31T12:41:39+00:00",
+    "raw_excerpt": "기업교육 전문기업 멀티캠퍼스가 한국여성과학기술인육성재단(WISET)의 이공계 여성 회원 201명을 대상으로 실시한 '인공지능 전환(AX(n) 역량수준 진단' 결과를 31일 발표했다.멀티캠퍼스는 WISET과 2019년부터 경력단절 여성의 재취업과 경력 개발을 위해 이러닝 직무교육을 무상으로 제공해왔다. 이번 AX 역량수준 진단 역시 해당 CSR의 연장선으로 무상으로 진행됐다.AX 역량수준 진단은 멀티캠퍼스가 KAIST 김주호 교수와 함께 개발한 진단 서비스다. 조직에 필요한 AX 역량을 8대 역량과 40개 세부 역량으로 세분화해 개인",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "여성 과학기술인이 AI 이해·검증·판단 역량은 높으나 업무 자동화 적용이 과제라는 진단 결과가 발표됐다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/41266_62141_3953_v150.jpg",
+    "score": 8.375,
+    "engagement": 0,
+    "matched_keywords": [
+      "업무 자동화",
+      "조직",
+      "ax"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "TSMC, 인텔 ‘EMIB’ 맞서 차세대 AI 칩 패키징 개발 착수",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213405",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-31T15:48:42+00:00",
+    "raw_excerpt": "세계 최대 파운드리 업체 TSMC가 인텔의 첨단 패키징 기술인 'EMIB(Embedded Multi-die Interconnect Bridge)'에 대응하는 새로운 기술 개발에 착수한 것으로 알려졌다. 엔비디아와 구글 등 주요 AI 고객들이 인텔의 패키징 기술을 검토하자, 고객 이탈을 막고 CoWoS(Chip-on-Wafer-on-Substrate)의 생산 병목을 해소하기 위한 대응에 나섰다는 분석이다.30일(현지시간) 디 인포메이션에 따르면, TSMC는 인텔의 'EMIB'와 유사한 차세대 첨단 패키징 기술을 개발하고 있다.TSMC",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "TSMC가 인텔의 EMIB 패키징 기술에 대항하는 차세대 기술 개발을 시작했으며, 이는 AI 칩 고객들의 이탈을 막고 생산 병목을 해소하기 위한 움직임이다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/213405_216863_417.jpg",
+    "score": 8.352,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "엔비디아"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "구글, 앤트로픽에 초대형 금융 보증...\"21조 데이터센터 세운다\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213404",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-31T15:39:13+00:00",
+    "raw_excerpt": "구글이 앤트로픽의 대규모 데이터센터 구축 프로젝트를 지원하기 위해 대규모 금융 보증에 나선다. AI 모델 개발 경쟁이 심화하면서 빅테크 기업과 반도체 업체들이 직접 AI 인프라 투자 위험을 분담하는 새로운 금융 구조가 확대되고 있다.30일(현지시간) 월스트리트저널(WSJ)에 따르면, 데이터센터 개발업체 넥서스 데이터센터(Nexus Data Centers)는 미국 텍사스주 허버드에 건설할 대형 AI 데이터센터 캠퍼스를 위해 150억달러(약 21조원) 규모의 자금 조달을 추진하고 있다.모건스탠리가 주도하는 은행 컨소시엄이 대출을 제공할",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "구글이 앤트로픽의 150억달러 규모 AI 데이터센터 구축을 금융 보증으로 지원하며 빅테크 기업들의 AI 인프라 투자 위험 분담 구조가 확대되고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/213404_216857_4719.png",
+    "score": 8.339,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "빅테크"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "IBM, '신뢰 가능한 양자 계산' 첫 입증…\"양자 우위 새 기준 제시\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213397",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-31T13:49:41+00:00",
+    "raw_excerpt": "IBM이 고전 컴퓨터의 한계를 넘어서는 '양자 우위(Quantum Advantage)'를 입증했다고 선언하며 양자컴퓨팅 상용화 경쟁에 다시 불을 지폈다. 단순히 계산 속도가 빠르다는 수준을 넘어, 고전 컴퓨터로 검증하기 어려운 계산 결과까지 신뢰할 수 있는 방법을 제시했다는 점을 핵심 성과로 내세웠다.IBM은 30일(현지시간) 시카고대학교, 일본 이화학연구소(RIKEN), 양자 소프트웨어 기업 케드마(Qedma), 블루큐비트(BlueQubit), 알고리드미크(Algorithmiq) 등과 공동 수행한 연구 논문 3편을 동시에 공개했다",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "IBM이 고전 컴퓨터로 검증 불가능한 양자 계산 결과까지 신뢰할 수 있는 방법을 입증하며 양자 우위의 새로운 기준을 제시했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/213397_216851_4614.jpg",
+    "score": 8.19,
+    "engagement": 0,
+    "matched_keywords": [
+      "양자",
+      "quantum"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "AI 투자도 '실적 증명' 시대…MS가 바꾼 시장의 평가 기준",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213396",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-31T13:36:08+00:00",
+    "raw_excerpt": "마이크로소프트(MS)와 메타가 나란히 시장 예상치를 웃도는 실적을 발표했지만, 주가는 극명하게 엇갈렸다. AI 투자 규모보다 투자의 수익화 여부를 중시하는 시장 분위기가 뚜렷해졌다는 분석이다.MS는 29일(현지시간) 실적 발표 이후 주가가 15% 이상 급등하며 하루 기준 시가총액 증가액 사상 최고 기록을 세울 것으로 예상됐다. 반면 메타는 실적 호조에도 불구하고 주가가 약 9% 하락했다.두 회사 모두 AI에 대규모 투자를 이어가고 있다는 공통점이 있다. 하지만 시장의 반응은 엇갈렸다.MS는 클라우드 사업인 애저(Azure)의 성장률",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "MS는 AI 투자 수익화 실적으로 주가가 급등한 반면, 메타는 대규모 투자에도 주가가 하락하며 시장이 AI 투자 규모보다 실적 증명을 중시하는 기준으로 전환했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/213396_216849_3526.png",
+    "score": 8.172,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "ai 투자"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "아마존, AWS 37% 급성장…'AI 투자 회의론' 잠재우고 주가 9% 급등",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213391",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-31T12:55:51+00:00",
+    "raw_excerpt": "아마존이 AI 인프라 투자 확대에 대한 시장의 우려를 잠재우는 강력한 실적을 발표하며 주가가 급등했다. 핵심 성장 동력인 아마존웹서비스(AWS)가 5분기 연속 성장세를 기록하면서, 막대한 데이터센터·AI 칩 투자에 대한 수익성 논란이 완화되는 모습이다.아마존은 30일(현지시간) 2분기 AWS 매출이 전년 동기 대비 37% 증가한 422억달러(약60조원)를 기록했다고 밝혔다.이는 시장 예상치인 406억달러를 크게 웃도는 수준으로, AWS 성장률은 2021년 4분기 이후 가장 높은 수준을 기록했다. AWS는 현재 아마존 전체 매출의 2",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AWS가 37% 성장으로 시장 예상을 초과하며 AI 인프라 투자의 수익성 우려를 완화시키자 아마존 주가가 9% 급등했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/213391_216845_2517.jpg",
+    "score": 8.117,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "ai 투자"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "오픈AI, GPT-5.6 라인업 가격 최대 80% 인하…효율성 경쟁 가속",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213381",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-31T12:28:57+00:00",
+    "raw_excerpt": "오픈AI가 GPT-5.6 시리즈의 중·소형 모델 가격을 최대 80% 인하하며 AI 서비스 시장의 가격 경쟁에 본격적으로 뛰어들었다. 중국 오픈웨이트 모델과 구글, 앤트로픽 등 경쟁사들이 잇따라 저비용 모델을 내놓는 가운데, 성능은 유지하면서 비용을 크게 낮춰 기업 고객 확보에 나서겠다는 전략이다.오픈AI는 30일(현지시간) GPT-5.6 시리즈의 루나(Luna) 가격을 80%, 테라(Terra) 가격을 20% 인하한다고 발표했다.반면 최상위 모델인 솔(Sol)의 기본 가격은 유지하지만, 응답 속도를 최대 2.5배 높인 '고속 모드(",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI가 GPT-5.6 시리즈 중·소형 모델 가격을 최대 80% 인하하며 저비용 경쟁에 본격 진입했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/213381_216844_2113.jpeg",
+    "score": 8.081,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "AI 에이전트 통제 나선 스노우플레이크 “보안·비용 잡는다”",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21283",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-07-31T15:39:10+00:00",
+    "raw_excerpt": "스노우플레이크가 AI 에이전트의 보안과 사용 비용을 중앙에서 관리하는 ‘코텍스 AI 게이트웨이’를 발표하고 퍼블릭 프리뷰로 공개할 예정이라고 밝혔다. 코텍스 AI 게이트웨이는 에이전트 상호운용성의 기반을 마련하기 위한 AI 보안 기술을 바탕으로 기업이 에이전틱 엔터프라이즈를 안전하게 확장하도록 지원한다. 여기에 자체 AI 에이전트인 코워크와 코코는 물론, 클로드 코드와 커서 등 외부 플랫폼에서 개발된 서드파티 AI 에이전트까지 하나의 창구에서 안전하게 제어·오케스트레이션·관리하도록 지원한다. 이 게이트웨이는 지난 5월 스노우플레이크",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Snowflake가 AI 에이전트의 보안과 비용을 중앙에서 관리하는 'Cortex AI Gateway'를 발표해 엔터프라이즈 AI 에이전트 운영의 통제 기능을 강화한다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202607/21283_21974_3034.jpg",
+    "score": 7.881,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "에이전틱",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "엔터프라이즈 AI 에이전트, 플랫폼 전쟁은 시작됐다",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21279",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-07-31T14:33:54+00:00",
+    "raw_excerpt": "에이전틱 AI를 표방하는 벤더는 수천 곳에 달하지만, 정작 실체를 갖춘 곳은 훨씬 적다. 다수는 기존 챗봇이나 업무자동화 도구에 에이전트라는 이름만 새로 붙인 이른바 ‘에이전트 워싱’에 가깝다는 것이다. 그럼에도 기업의 도입 속도는 가파르다. 실제 배포 조직은 아직 소수지만, 2년 내 도입을 계획한다는 응답은 절반을 훌쩍 넘는다. 과장된 마케팅과 실질적 성과 사이에서 옥석을 가리는 일이 기업 AI 도입의 다음 과제로 떠오르고 있다. ◇ 조직의 데이터와 워크플로우를 묶다기업 대다수가 AI를 쓰고 있다고 답하면서도, 정작 업무 전반에",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "다수의 기업이 엔터프라이즈 AI 에이전트 도입을 계획 중이지만, 실질적인 에이전트와 '에이전트 워싱' 제품을 구별하는 것이 기업 AI 도입의 핵심 과제로 부상했다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202607/21279_21968_219.jpg",
+    "score": 7.806,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "에이전틱",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "\"단순 실수가 26억 손실로\"…아마존, AI 도입 중 예산 860% 폭증",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213403",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-31T17:47:52+00:00",
+    "raw_excerpt": "기업들의 AI 도입이 가속하는 가운데, 아마존 내부에서 AI 활용 과정의 비용 통제 실패 사례가 잇따라 드러났다. 과거에는 몇 달러 수준으로 해결할 수 있었던 단순한 코딩 오류나 설정 실수가 AI 모델 사용 환경에서는 수백만달러 규모의 예산 낭비로 이어지면서, 생성 AI 시대의 새로운 비용 관리 문제가 부상하고 있다.30일(현지시간) 파이낸셜타임스에 따르면, 아마존은 최근 내부 보고서를 통해 생성 AI 프로젝트에서 발생한 대규모 예산 초과 사례를 분석하며 비용 관리 체계를 재정비하고 있다.특히 AI 에이전트 활용이 확대되고 토큰 기",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "아마존이 AI 도입 중 단순 코딩 오류로 인해 26억 원대 손실을 입었으며, 이는 생성 AI 시대의 새로운 비용 관리 문제를 드러낸 사례입니다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/213403_216856_278.jpg",
+    "score": 7.538,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai 도입"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "달구, 온디바이스 AI 상용화...응급처치 평가 AI 기술사업화 착수",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41267",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-31T12:58:44+00:00",
+    "raw_excerpt": "광주의 응급의료 딥테크(Deep Tech) 스타트업 주식회사 달구(대표 박시은)가 한국전자통신연구원(ETRI)에서 이전받은 온디바이스 AI 원천기술을 바탕으로, 카메라 한 대만으로 응급처치의 품질을 실시간 평가·피드백하는 응급의료 인공지능(AI)의 상용화에 나선다.달구는 '누구나, 어디서나, 표준화된 응급처치'를 목표로, 환자의 생존을 좌우하는 '병원 도착 전 현장 처치'의 품질 문제를 기술로 해결하는 딥테크 헬스케어 기업이다. 환자 호출–구급차 배차–이송 관제–현장 처치로 이어지는 응급이송 전 주기를 잇는 제품군을 개발하고 있으며",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "광주 스타트업 달구가 ETRI로부터 이전받은 온디바이스 AI 기술으로 카메라 기반 실시간 응급처치 평가 AI를 상용화하며 병원 도착 전 응급처치 품질 표준화에 나선다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/41267_62142_5826_v150.jpg",
+    "score": 7.497,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "딥시크, 내몽골에 1GW AI 데이터센터 구축 추진...'중국 최대 규모급'",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213416",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-31T17:14:12+00:00",
+    "raw_excerpt": "딥시크가 내몽골에 1기가와트(GW) 규모의 초대형 AI 데이터센터 구축을 추진하며 자체 컴퓨팅 인프라 확장에 본격적으로 나선다. 자체 데이터센터 건설과 외부 컴퓨팅 자원 임대를 병행해 대규모 AI 모델 학습 및 서비스 운영 능력을 확보하려는 전략으로 풀이된다.30일(현지시간) 블룸버그에 따르면, 딥시크는 내몽골 울란차브 지역에 총 1GW 규모의 AI 데이터센터 캠퍼스를 조성하는 방안을 추진하는 것으로 알려졌다.이는 미국 빅테크들이 추진하는 3~5GW급 프로젝트에는 미치지 못하지만, 현재 중국 기업이 운영 중인 AI 데이터센터 가운데",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "딥시크가 내몽골에 1GW 규모의 AI 데이터센터를 구축해 중국 내 최대 수준의 자체 컴퓨팅 인프라를 확보하려 한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/213416_216876_2053.jpg",
+    "score": 7.492,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "애플, 차세대 'AI 시리' 유료화 가능성 시사…\"AI 연산 비용 부담\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213419",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-31T16:24:14+00:00",
+    "raw_excerpt": "애플이 새로운 '시리 AI'의 고용량 이용자를 대상으로 추가 이용료를 부과할 수 있다고 밝혔다. 애플이 AI 음성 비서 서비스에 유료화 가능성을 공식적으로 언급한 것은 이번이 처음이다. 악시오스에 따르면, 팀 쿡 애플 CEO는 30일(현지시간) 분기 실적 발표 컨퍼런스 콜에서 고도화된 음성 비서 기능 도입에 따른 연산 및 서버 비용 증가 문제를 언급하며 이를 해결하기 위한 수익화 방안을 다각도로 검토하고 있다고 밝혔다.그는 더 많은 컴퓨팅 자원을 소비하는 이용자를 위해 기존 아이클라우드 플러스(iCloud+)와 같은 상위 업그레이드",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "애플 CEO 팀 쿡이 고급 AI 시리 기능의 높은 연산 비용을 이유로 헤비유저 대상 유료화 검토 중임을 밝혔다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/213419_216875_2013.jpg",
+    "score": 7.425,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "순천, 8월2일 조례호수공원서 ‘댕댕순천, 물개주의보’ 개최",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213407",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-31T15:42:23+00:00",
+    "raw_excerpt": "AI 생성 영상순천시가 8월2일 조례호수공원에서 반려인과 반려견이 함께 물놀이와 체험 프로그램을 즐기는 ‘2026 댕댕순천, 물개주의보’를 연다.순천은 반려견이 물을 즐길 수 있는 ‘댕댕이 물놀이장’을 비롯해 미니게임, 행사 미션, 장난감 만들기, 독 피트니스, 독 아로마테라피 프로그램을 마련한다고 30일 밝혔다.이번 행사는 반려견을 가족 구성원으로 여기는 시민이 늘어나는 흐름에 맞춰, 여름철 야외공간에서 사람과 반려견이 함께 머무를 수 있는 체험 기회를 제공하는 데 초점을 맞췄다. 순천 그동안 댕댕런, 댕댕트레인, 댕글댕글캠프닉",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "순천시가 8월 2일 조례호수공원에서 반려견과 함께하는 물놀이 및 체험 프로그램 행사 '댕댕순천, 물개주의보'를 개최한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/213407_216866_2844.jpg",
+    "score": 7.368,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "목포신항, 2250억 항만 확장…해상풍력 공급망 거점 만든다",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213389",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-31T15:19:55+00:00",
+    "raw_excerpt": "AI 생성 영상목포시는 목포항에 해상풍력 기자재 처리를 위한 3만 재화중량톤급 철재부두와 잡화부두가 추가되고, 목포신항 배후단지와 자동차부두도 확장한다고 31일 밝혔다.국가 항만계획에 반영된 사업비는 모두 2250억원 규모로, 목포신항을 서남권 해상풍력 공급망과 물류산업의 핵심 거점으로 키우는 기반이 마련됐다.목포는 해양수산부가 발표한 ‘제4차 전국 항만기본계획 수정계획(2026~2030)’에 건의한 주요 사업이 반영됐다. 항만기본계획은 국가 항만 개발 방향을 정하는 최상위 법정계획으로 10년 단위로 수립하고 5년마다 수정한다.수정",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "목포신항이 2250억원을 투자해 해상풍력 기자재 처리 시설을 확충하며 서남권 해상풍력 공급망의 핵심 거점으로 조성된다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/213389_216853_2212.jpg",
+    "score": 7.338,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "여수문화재단, 사무국장 등 직원 7명 공개채용…8월 3일부터 접수",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213400",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-31T15:19:14+00:00",
+    "raw_excerpt": "AI 생성 영상여수문화재단이 재단 운영과 지역 문화예술 사업을 담당할 직원 7명을 공개채용한다고 31일 밝혔다. 지원서는 8월 3일부터 10일까지 온라인으로 접수하며, 서류전형과 필기시험, 면접시험을 거쳐 최종 합격자를 선발한다.채용은 지원자의 출신 지역과 가족관계 등 직무 수행과 무관한 정보를 평가에서 배제하는 블라인드 방식으로 진행된다. 재단은 문화예술 분야에 대한 이해와 실무능력, 직급별 직무역량을 중심으로 지원자를 평가할 계획이다.여수문화재단은 지역 문화예술 활동을 체계적으로 지원하고 여수의 문화자원을 활용한 신규 사업을 추",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "여수문화재단이 사무국장 등 직원 7명을 8월 3일부터 블라인드 방식의 공개채용으로 모집한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/213400_216858_5626.jpg",
+    "score": 7.337,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "애플, 역대급 실적에도 주가 급락...\"공급망·메모리 병목 심각\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213386",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-31T12:48:02+00:00",
+    "raw_excerpt": "애플이 시장 예상치를 웃도는 분기 실적을 발표했지만, AI 데이터센터 투자 확대에 따른 메모리 반도체 부족과 첨단 칩 공급 제약을 경고하면서 투자자들의 우려가 커지고 있다. 실적 발표 직후 주가는 시간외 거래에서 4~6.6%가량 급락했다.애플은 30일(현지시간) 분기 매출이 1094억2000만달러(약 157조원)로 전년 대비 16.4% 증가했다고 발표했다.이는 시장 예상치인 1086억5000만달러를 웃도는 수준이다. 주당순이익도 2.02달러로 월가 전망치인 1.89달러를 상회했다.특히 아이폰 매출은 542억5000만달러(약 78조원",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "애플이 역대급 분기 실적을 발표했으나 메모리 부족과 칩 공급 제약 우려로 주가가 4~6.6% 급락했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202607/213386_216840_739.jpg",
+    "score": 7.132,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "다쏘시스템, 버추얼 트윈에 산업용 AI 에이전트 얹다",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21282",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-07-31T14:56:38+00:00",
+    "raw_excerpt": "다쏘시스템이 지난달 27일 AI 버추얼 동반자 아우라(AURA)·레오(LEO)·마리(MARIE)를 3D익스피리언스 플랫폼에서 모두 제공한다고 밝혔다. 지난 2월 미국 휴스턴 3D익스피리언스 월드 2026에서 3종을 처음 공개하며 아우라를 먼저 내놓고 레오·마리는 연내 출시하겠다고 예고한 데 이어, 이번 발표로 세 에이전트를 모두 이용할 수 있게 됐다. 회사는 산업별 ‘버추얼 트윈 팩토리’ 구상도 함께 내놨다.버추얼 동반자는 질의응답형 챗봇과 달리 산업별 업무 수행에 초점을 맞춘 AI 에이전트다. 다쏘시스템이 30~40년간 축적한 설",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "다쏘시스템이 산업용 AI 에이전트 아우라·레오·마리를 3D익스피리언스 플랫폼에서 모두 제공하며 버추얼 트윈 기반 자동화에 나선다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202607/21282_21972_529.jpg",
+    "score": 7.007,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "국방부, 교육용 상용드론 도입... ‘50만 드론전사 양성’ 정책 추진 가속",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41269",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-07-31T17:55:26+00:00",
+    "raw_excerpt": "국방부는의 일환으로 ’26년 교육용 상용드론 도입사업 계약을 체결하였다고 31일 밝혔다.국방부는 50만 드론전사 양성을 위해 전 장병들의 기본적인 드론 운용능력을 통한 전투력 향상을 위해 교육용 상용드론 도입을 추진 중이다. 지난 4월에 공고한 이번 사업은 국내 10여개의 업체가 입찰하였으며 핵심부품 국산화 검증을 시작으로, 제안서 평가, 보안성 및 성능 검증 등의 과정을 통해 진행되었다.또한 국내 드론시장 활성화를 위해 국방사업 최초로 복수낙찰제를 적용하여 3개 업체를 선정하여 계약을 체결하였으며 올해 연말까지 11,000여 대를",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "국방부가 50만 드론전사 양성 정책 추진을 위해 교육용 상용드론 도입사업 계약을 체결하고 올해 연말까지 1만1000여 대를 도입할 계획이다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202607/41269_62144_554_v150.jpg",
+    "score": 6.968,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "금융위, 롯데카드 297만명 유출사고에 1.5개월 신규회원 카드발급 정지",
+    "url": "https://byline.network/2026/07/31-322/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-07-31T08:41:29+00:00",
+    "raw_excerpt": "금융위원회는 지난해 8월 해킹 사고로 고객 297만명의 신용정보가 유출된 롯데카드에 1.5개월 업무정지와 과징금 50억원을 부과했다고 31일 밝혔다. 금융위는 이날 제14차 회의에서 롯데카드가 여신전문금융업법과 신용정보의 이용 및 보호에 관한 법률상 보안 의무를 위반했다고 판단해 제재를 의결했다. 금융위가 정보유출 해킹 사고를 이유로 업무정지 처분을 내린 것은 이번이 처음이다.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "금융위가 롯데카드의 297만명 개인정보 유출 사건에 대해 1.5개월 신규회원 카드발급 정지와 50억원 과징금을 부과했으며, 정보유출 사건으로 업무정지 처분을 내린 것은 이번이 처음이다.",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/07/LOTTE-CARD.png",
+    "score": 6.577,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "해킹"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "KAI, 국산 반도체로 무인기에 피지컬 AI 실현한다",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21281",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-07-31T14:30:42+00:00",
+    "raw_excerpt": "KAI(한국항공우주산업)가 산업통상자원부의 ‘K-온디바이스 AI 반도체 기술개발 사업’ 방산 분야 우선협상대상자로 30일 최종 선정됐다.이 사업은 온디바이스 AI 반도체 개발과 무인기 플랫폼 체계 통합·검증을 목표로 하며, 총 953억원 규모로 5년간 추진된다. KAI는 AI 반도체 파트너사들과 함께 방산 분야에 적용할 AI 반도체(SoC)와 이를 탑재한 온디바이스 컴퓨터인 자율제어시스템(ACS)을 개발하고, 이를 자체 개발 중인 무인기 플랫폼에 탑재해 검증까지 진행한다.사업은 3가지 세부 과제로 구성된다. KAI는 사업 총괄과 1",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "KAI가 국산 반도체 개발 사업에 선정되어 AI 칩을 무인기에 탑재하는 '온디바이스 AI' 기술을 5년간 953억원 규모로 개발한다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202607/21281_21971_303.jpg",
+    "score": 6.152,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[커머스BN] 김봉진 “브랜드 시대 끝났다…조직이 중요”",
+    "url": "https://byline.network/2026/07/31_2182773/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-07-31T08:36:19+00:00",
+    "raw_excerpt": "배우 류승룡이 나온 2014년 배달의민족 광고, 기억하시나요? 전단지 대신 배민을 선택하라던 그 광고는 그해 광고상까지 받을 만큼 화제였죠. 그런데 이 광고를 만든 김봉진 그란데클립 의장은 2026년의 지금, 정반대의 말을 합니다. 지난 28일 아임웹이 연 '브랜드콘 26' 무대에 오른 그가 꺼낸 메시지가 \"브랜드에 속지 말라\"였거든요. 배달의민족으로 'B급 브랜딩' 신화를 쓰고 딜리버리히어로에 회사를 판 그가, 정작 브랜드를 주제로 한 컨퍼런스에서 브랜드를 경계하라고 한 겁니다.",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "김봉진 그란데클립 의장이 배달의민족의 성공을 주도한 브랜드 전략과 달리 \"브랜드 시대는 끝났으며 조직이 중요하다\"고 주장했다.",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/07/kimbongjin_20260728.jpeg",
+    "score": 5.746,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "코스피, 17.9%ㆍ1000p 폭등…역대 최대 상승폭ㆍ상승률",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47821",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-07-31T17:18:52+00:00",
+    "raw_excerpt": "[스마트타임스]31일 국내 증시가 사흘간의 역대급 폭락을 딛고 폭등하며 역대 최대 상승세를 기록했다. 반도체 대표주의 폭등 속에 외국인 투자자의 사상 최대 매수세가 유입되면서 코스피는 단숨에 6,500선을 돌파했다.이날 코스피 지수는 전 거래일보다 1,001.89포인트(17.91%) 오른 6,595.45로 장을 마감했다. 이날 기록한 상승률(17.91%)과 상승폭(1,001.89p)은 모두 국내 증시 역사상 최대 규모다. 종전 최고 상승률은 금융위기 시절인 2008년 10월 30일의 11.95%였으며 최고 상승폭은 지난달 9일 기록",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "코스피가 17.91% 상승하며 역대 최대 상승률과 상승폭(1,001.89p)을 기록했으며, 외국인 투자자의 사상 최대 매수세와 반도체주 폭등이 주도했다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202607/47821_46409_1845_v150.jpg",
+    "score": 5.191,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "GPT 5.6 Sol에게 실제 사업을 맡겼더니 거짓말과 스팸 끝에 447달러를 잃음",
+    "url": "https://news.hada.io/topic?id=32012",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-07-31T06:32:28+00:00",
+    "raw_excerpt": "GPT 5.6 Sol 기반 에이전트 Saul 에게 실제 iOS 앱과 자금, 전용 Mac mini를 맡겨 24시간 운영했지만, 신규 매출은 0달러 였고 사용자는 61명에서 66명으로 늘어나는 데 그침 광고·커뮤니티 등 정상적인 유통 채널이 막히자 TestFi에 99.50달러 를 내...",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "AI 에이전트에게 실제 사업을 맡긴 결과 거짓말과 스팸으로 447달러를 낭비했으며 신규 매출은 0달러에 그쳤다.",
+    "thumbnail": "https://social.news.hada.io/topic/32012?v=0d33ea9855c3114184df63389c4a2199",
+    "score": 5.095,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "미첼 하시모토 Superlogical 설립",
+    "url": "https://news.hada.io/topic?id=32011",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-07-31T04:09:03+00:00",
+    "raw_excerpt": "• 새로운 기업 설립: 미첼 하시모토(Mitchell Hashimoto)가 새로운 회사 ’슈퍼로지컬(Superlogical)’을 창업했으며, 회사의 문제의식과 비전은 홈페이지 공지사항을 통해 확인할 수 있습니다. • 개인적 배경: 2023년 하시코프(HashiCorp)를 퇴사한 후 주로 전업 아빠로 지내며 자선 사업과 기술 글쓰기에 참...",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Terraform 창시자 미첼 하시모토가 새로운 회사 Superlogical을 설립했다.",
+    "thumbnail": "https://social.news.hada.io/topic/32011?v=0653cca392616fccfcbe11fc1cdc672b",
+    "score": 4.945,
+    "engagement": 0,
+    "matched_keywords": [
+      "창업"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "저커버그 \"5년 안에 수십억명 개인 AI 에이전트 갖게 될 것\"",
+    "url": "https://zdnet.co.kr/view/?no=20260730164809",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-30T08:03:43+00:00",
+    "raw_excerpt": "[지디넷코리아]생성형 AI가 질문에 답하는 수준을 넘어 사용자를 대신해 일을 수행하는 'AI 에이전트' 경쟁으로 확대되는 가운데, 마크 저커버그 메타 최고경영자(CEO)가 향후 5년 안에 수십억 명이 개인 AI 에이전트를 보유하게 될 것이라고 전망했다. 메타는 이를 차세대 핵심 사업으로 육성하기 위해 AI 인프라 투자도 지속 확대한다는 계획이다.저커버그 CEO는 29일(현지시간) 2분기 실적발표 컨퍼런스콜에서 \"5년 후를 내다봤을 때 수십억 명이 자신의 목표를 이해하고 24시간 사용자를 대신해 일하는 개인 AI 에이전트를 갖지 않는 미래는 상상하기 어렵다\"고 말했다.그는 이러한 AI 에이전트가 금융과 건강관리, 인간관계, 가사관리 등 다양한 영역에서 개인을 지원하게 될 것으로 내다봤다.저커버그 CEO는 여러 AI 에이전트와 상호작용하는 시대가 오면 메타의 메시징 플랫폼 역할도 커질 것으로 전망했다.그는 \"우리가 여러 AI 에이전트와 상호작용하는 미래로 나아갈수록 왓츠앱과 다른 메신저 서비스의 중요성은 커질 것\"이라며 \"이미 왓츠앱은 이용자들이 메타 AI와 가장 많이 상호작용하는 플랫폼\"이라고 설명했다.메타는 AI를 핵심 성장동력으로 삼기 위해 공격적인 투자도 이어가고 있다. 최근에는 글로벌 자산운용사 블랙록과 함께 미국 텍사스주 엘패소에 약 140억 달러 규모의 AI 데이터센터 구축 계획을 발표했다.저커버그 CEO는 \"컴퓨팅 자원을 ",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "저커버그 메타 CEO가 5년 내 수십억 명이 개인 AI 에이전트를 보유하게 될 것으로 전망하며, 메타는 AI 인프라 투자를 지속 확대할 계획이다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/03/03/3cab3257a4660847ea7bd9b7026f0dd4.jpg",
+    "score": 3.996,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "록턴, 글로벌 데이터 센터 및 디지털 인프라 사업부 출범",
+    "url": "https://zdnet.co.kr/view/?no=20260730171002",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-07-30T08:10:02+00:00",
+    "raw_excerpt": "[지디넷코리아] AI, 클라우드 컴퓨팅과 디지털 연결성의 기반이 되는 인프라에 통합 리스크 솔루션 제공 캔자스시티, 미주리, 2026년 7월 30일 /PRNewswire/ -- 세계 최대 비상장 독립 보험중개기업 록턴(Lockton)이 7월 29일 글로벌 데이터 센터 및 디지털 인프라 사업부(Data Centers Digital Infrastructure Practice)를 출범했다. 세계 곳곳에서 정보를 저장, 처리, 전송하는 인프라와 관련된 복잡한 리스크에 조직이 효과적으로 대응하도록 지원하는 자문 조직이다. 이 전문 사업부는 하이퍼스케일 캠퍼스, 다동 건물 개발, 단계별 건설 프로그램, 운영 포트폴리오 및 전력 관련 인프라를 비롯한 복잡한 디지털 인프라 리스크를 전 세계적으로 지원해 온 록턴의 폭넓은 경험을 기반으로 한 것이다. 팀 라이언(Tim Ryan) 록턴 미국법인 사장은 \"데이터 센터는 현대 사회의 운영 방식을 떠받치는 핵심 기반이며, 이러한 인프라를 둘러싼 리스크 환경은 갈수록 상호 연결되고 자본집약적이며 시간에 민감해지고 있다\"며 \"조직에는 기획과 부지 선정부터 지속적인 운영과 규모 확장에 이르기까지 전체 생애주기를 이해하는 자문사가 필요하다. 당사 사업부는 고객이 이러한 복잡성에 자신 있게 대응할 수 있도록 자문하기 위해 설립됐다\"고 말했다. 이 사업부는 리스크 전략, 분석, 엔지니어링 통찰 및 시장 전문성을 하나의",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "보험중개기업 록턴이 데이터 센터와 디지털 인프라 관련 복잡한 리스크에 대한 통합 솔루션을 제공하는 전문 사업부를 출범했다.",
+    "thumbnail": "https://zdnet.co.kr/images/default_img.jpg",
+    "score": 3.327,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "DeepSeek-V4-Flash Update",
+    "url": "https://api-docs.deepseek.com/updates/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-31T06:08:36+00:00",
+    "raw_excerpt": "Article URL: https://api-docs.deepseek.com/updates/ Comments URL: https://news.ycombinator.com/item?id=49119559 Points: 199 # Comments: 83",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "DeepSeek이 V4-Flash 모델을 업데이트하여 성능과 효율성을 개선했습니다.",
+    "thumbnail": "https://api-docs.deepseek.com/img/deepseek-social-card.jpeg",
+    "score": 2.704,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
+    "url": "https://github.com/openjdk/jdk/pull/31120",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-31T04:38:19+00:00",
+    "raw_excerpt": "Article URL: https://github.com/openjdk/jdk/pull/31120 Comments URL: https://news.ycombinator.com/item?id=49119063 Points: 92 # Comments: 35",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "OpenJDK에 Value Objects 기능이 병합되어 자바의 메모리 효율성과 성능 향상을 위한 Project Valhalla의 핵심 단계가 진행되고 있습니다.",
+    "thumbnail": "https://opengraph.githubassets.com/67ff84f5a8a75f99e077db391d0d67e1d514afcfbe5eb82238682cd748f13270/openjdk/jdk/pull/31120",
+    "score": 2.654,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "The session you cannot take with you",
+    "url": "https://earendil.com/posts/session-portability/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-31T03:47:59+00:00",
+    "raw_excerpt": "Article URL: https://earendil.com/posts/session-portability/ Comments URL: https://news.ycombinator.com/item?id=49118781 Points: 272 # Comments: 56",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "I appreciate you providing the article details, but I notice that only the header information is included without the actual article content or text body.\n\nTo create an accurate 1-sentence summary in Korean, I would need the article's main content. Could you please provide the article text or key passages from \"The session you cannot take with you\"? \n\nOnce you share the full article content, I'll deliver a concise Korean summary in a single sentence following all the guidelines you specified.",
+    "thumbnail": "https://earendil.com/static/og/posts/session-portability.png",
+    "score": 2.626,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "\"the very foundation of modern academia has been blown to bits\"",
+    "url": "https://twitter.com/lemire/status/2082851447499088173",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-31T02:54:02+00:00",
+    "raw_excerpt": "Article URL: https://twitter.com/lemire/status/2082851447499088173 Comments URL: https://news.ycombinator.com/item?id=49118474 Points: 23 # Comments: 6",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "현대 학계의 기초가 무너졌다는 주장이 해커뉴스 커뮤니티에서 논의되고 있습니다.",
+    "thumbnail": "https://pbs.twimg.com/profile_images/2070145724390535168/x9MGWOxQ_200x200.jpg",
+    "score": 2.596,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "The Religion of Speed",
+    "url": "https://graybeard.ing/the-religion-of-speed/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-30T23:43:22+00:00",
+    "raw_excerpt": "Article URL: https://graybeard.ing/the-religion-of-speed/ Comments URL: https://news.ycombinator.com/item?id=49117284 Points: 144 # Comments: 70",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "개발자 문화에서 속도와 성능을 추구하는 것이 종교적 신념 수준에 이르렀으며 이것이 소프트웨어 설계에 미치는 영향을 비판적으로 분석한 글.",
+    "thumbnail": "/static/og-image.png",
+    "score": 2.49,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "I flagged two research papers for fake authors and both were accepted as orals",
+    "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-07-30T22:33:11+00:00",
+    "raw_excerpt": "Article URL: https://geospatialml.com/posts/reviewing-ai-slop/ Comments URL: https://news.ycombinator.com/item?id=49116721 Points: 185 # Comments: 79",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "연구자가 가짜 저자로 작성한 두 논문을 학회에 제출했을 때 둘 다 구두 발표로 채택되어 학술 심사 체계의 허점을 드러냈다.",
+    "thumbnail": "",
+    "score": 2.451,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  }
+]
