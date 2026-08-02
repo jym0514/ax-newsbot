@@ -1231,7 +1231,7 @@
     "3c5727f1f0e8bb10": "https://img.etnews.com/news/article/2026/07/29/news-p.v1.20260729.dd81998ee59445deb51d3cd7b9b711b8_P1.png",
     "d513d533c4870608": "https://social.news.hada.io/topic/32054?v=b3ca7b2b3c9d86f41297b3c5dc3abed7"
   },
-  "last_sent_date": "2026-07-31",
+  "last_sent_date": "2026-08-03",
   "sent": {
     "2026-07-27": [
       "morning",
@@ -1257,6 +1257,9 @@
       "morning",
       "noon",
       "evening"
+    ],
+    "2026-08-03": [
+      "morning"
     ]
   }
 }
