@@ -1464,7 +1464,7 @@
     "4c6a7dd12d724e42": "https://cdn.smarttimes.co.kr/news/thumbnail/202608/47854_46458_4630_v150.jpg",
     "7b41d35bb0b8af5e": "https://img.etnews.com/news/article/2026/08/03/rcv.YNA.20260803.PYH2026080302370001300_P1.jpg"
   },
-  "last_sent_date": "2026-08-03",
+  "last_sent_date": "2026-08-04",
   "sent": {
     "2026-07-27": [
       "morning",
@@ -1495,6 +1495,9 @@
       "morning",
       "noon",
       "evening"
+    ],
+    "2026-08-04": [
+      "morning"
     ]
   }
 }
