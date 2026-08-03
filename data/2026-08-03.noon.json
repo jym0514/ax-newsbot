@@ -1,0 +1,823 @@
+[
+  {
+    "title": "대동, 정부·지자체 미래농업 현장서 농업 AX 제시…기술력 ‘확인’",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41284",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-03T10:58:54+00:00",
+    "raw_excerpt": "미래농업 리딩 기업 대동(공동대표 김준식, 원유현)은 지난 7월 전북 김제, 경북 영천, 충남 당진 정부기관과 지자체가 주관한 농업 관련 행사에 참여해 인공지능(AI) 자율주행 농기계와 농업로봇, 정밀농업 등 미래농업 기술을 선보였다고 3일 밝혔다.대동은 여러 행사에서 제품의 개별 기능을 보여주는 데 그치지 않고, 각 농업 현장이 안고 있는 과제에 맞춰 기술의 역할과 기대 효과를 구체적으로 제시했다. 간척지에서는 데이터 기반의 미래 영농 모델을, 과수원에서는 실제 농가에 보급된 농업로봇의 활용 사례를, 논에서는 조기 수확 품종과 자",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "대동이 정부·지자체 주관 농업 행사에서 AI 자율주행 농기계와 로봇 등 미래농업 기술을 선보이며 현장 과제별 맞춤형 솔루션을 제시했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41284_62168_4936_v150.jpg",
+    "score": 8.697,
+    "engagement": 0,
+    "matched_keywords": [
+      "활용 사례",
+      "현장",
+      "ax"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "비드래프트, 구글의 추론 최적화 경연 '패스트 젬마 챌린지' 세계 1위 올라",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213466",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-03T11:40:24+00:00",
+    "raw_excerpt": "AI 전문 비드래프트(대표 김민식)는 구글 젬마(Gemma)팀과 허깅페이스가 공동 운영한 글로벌 추론 최적화 경연 '패스트 젬마 챌린지(The Fast Gemma Challenge)'에서 검증 기록 기준 세계 1위에 올랐다고 2일 밝혔다. 전 세계 개발자들이 겨루는 이 대회는 같은 모델을 같은 조건에서 누가 가장 구동하게 만드는가를 겨루는 AI 미세조정 경연이다.참가자 전원이 구글의 공개 멀티모달 모델 '젬마-4-E4B-it'와 엔비디아 'A10G' GPU를 받아, 소프트웨어 최적화 실력만으로 속도를 끌어올려야 한다. 모델을 바꾸거",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "비드래프트가 구글과 허깅페이스가 주최한 '패스트 젬마 챌린지'에서 AI 추론 속도 최적화 부문 세계 1위를 차지했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213466_216945_3820.jpg",
+    "score": 8.503,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "엔비디아"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "양현상 노바엑스 대표, 한국인공지능기술산업협회 이사 위촉",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213456",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-03T10:55:00+00:00",
+    "raw_excerpt": "한국인공지능기술산업협회는 양현상 노바엑스 대표를 이사로 위촉했다고 8일 밝혔다.한국인공지능기술산업협회는 AI 기술의 산업화와 기업 경쟁력 강화를 지원하고 산·학·연·관 협력과 정책 제안, 전문인력 양성 등을 추진하는 단체다.양 대표는 홍익대학교 국방AI학과 초빙교수로도 활동하고 있다. 또 로봇과 자율시스템, 우주항공·방위산업, 첨단소재와 제조 분야를 AI 기술과 연계하는 사업에 참여했다. 양 대표는 “협회와 함께 기업의 AI 도입을 지원하고 산업 경쟁력을 높일 수 있도록 산학연 협력과 정책 발굴에 기여하겠다”고 말했다.주영효 기자",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "양현상 노바엑스 대표가 한국인공지능기술산업협회 이사로 위촉돼 AI 산업화와 산학연 협력을 주도하게 됐다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213456_216947_417.jpg",
+    "score": 8.442,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "코난테크놀로지, 서연이화 AX 추진 “50년 제조 노하우, AI 지식으로”",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21287",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-08-03T10:49:20+00:00",
+    "raw_excerpt": "코난테크놀로지가 서연이화의 인공지능 전환(AX) 구축사업에 본격 착수했다. 로우코드 개발 전문기업 지산소프트와 손잡고, 서연이화가 반세기 가까이 쌓아온 제조 현장 노하우를 생성형 AI 기반 지식체계로 전환하는 프로젝트다. 이번 사업은 지산소프트가 로우코드 개발 플랫폼 ‘LAMP7’을 기반으로 AX 구축과 사업 전반을 총괄하고, 코난테크놀로지가 AI 솔루션 공급과 시스템 구축을 맡는 구조로 진행된다. 지산소프트는 그동안 서연이화의 디지털 전환(DX) 시스템을 LAMP7 기반 단일 플랫폼으로 통합해온 회사로, 두 회사는 각자의 전문 역",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "코난테크놀로지와 지산소프트가 서연이화의 50년 제조 노하우를 생성형 AI 기반 지식체계로 전환하는 인공지능 전환(AX) 사업에 착수했다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202608/21287_21979_3626.jpg",
+    "score": 7.962,
+    "engagement": 0,
+    "matched_keywords": [
+      "디지털 전환",
+      "현장",
+      "ax"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "\"AI가 택배 배송·인력 배치까지 스스로 짠다\"...KAIST 김민수 교수팀, ‘실행 가능한 계획’ 만드는 AI 개발",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41285",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-03T11:24:34+00:00",
+    "raw_excerpt": "택배 배송과 공장 생산계획, 병원 근무표까지. 앞으로는 인공지능(AI)이 현실의 모든 조건을 고려해‘실제로 실행 가능한 계획'을 스스로 만드는 시대가 열린다. KAIST 연구진이 외부 전문 최적화 프로그램의 도움 없이 AI가 스스로 실행 가능한 계획을 만드는 기술을 개발했다.KAIST 전산학부 김민수 교수 연구팀이 외부의 전문 최적화 프로그램(솔버, Solver·복잡한 최적화 문제의 정답을 자동으로 계산하는 프로그램) 없이도 AI가 스스로 실행 가능한 계획을 만들도록 학습하는 강화학습(RL) 기술‘RL-SPH(Reinforcemen",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "KAIST 김민수 교수팀이 외부 최적화 프로그램 없이 AI가 택배·인력 배치 등 현실적 제약을 고려해 실행 가능한 계획을 스스로 수립하는 강화학습 기술을 개발했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41285_62172_2130_v150.jpg",
+    "score": 7.829,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "폐 딱딱하게 굳는 특발성 폐섬유증... AI로 경과 확인하고 예후 예측",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41280",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-03T09:00:59+00:00",
+    "raw_excerpt": "특발성 폐섬유증은 폐가 딱딱하게 굳어가며 호흡 기능이 저하되는 원인 불명의 만성 진행성 폐질환이다. 한 번 생기면 폐 기능이 회복되기 어렵고, 진단 후 5년 생존율이 주요 암보다 낮을 정도로 예후가 좋지 않다.질병 진행 속도가 환자마다 크게 달라 환자 상태를 정확히 파악하고 추적 관찰하는 것이 중요한데 국내 연구진이 인공지능(AI)을 활용해 폐 섬유화 진행 정도를 수치화하고 예후를 예측할 수 있는 새로운 기준을 제시했다.서울아산병원 영상의학과 최주애·호흡기내과 김호철 교수, 삼성서울병원 영상의학과 이호연 교수팀은 컴퓨터단층촬영(CT",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "국내 연구진이 AI를 활용해 특발성 폐섬유증의 진행 정도를 수치화하고 예후를 예측할 수 있는 새로운 기준을 제시했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41280_62162_5859_v150.jpg",
+    "score": 7.65,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "셀렉트스타, AI 신뢰성 기업 최초 코스닥 기술성 평가 통과",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213457",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-03T11:48:35+00:00",
+    "raw_excerpt": "셀렉트스타(대표 김세엽)는 코스닥 기술특례상장을 위한 기술성 평가를 통과했다고 3일 밝혔다.AI 신뢰성 평가 기술로 국내 기업이 기술특례상장 기술성 평가를 통과한 것은 이번이 처음이다. 셀렉트스타는 주관사인 대신증권과 올해 안에 코스닥 상장예비심사를 진행할 예정이다.셀렉트스타는 기업의 AI 개발·도입 목적에 맞춰 학습·평가 데이터를 설계하고 구축하는 '다투모 서비스'와 평가 데이터 생성부터 성능·안전성 평가까지 하나의 환경에서 수행할 수 있는 '다투모 플랫폼'을 제공하고 있다.이를 통해 AI 학습 데이터 구축부터 평가 기준 수립,",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AI 신뢰성 평가 기술 기업 셀렉트스타가 국내 최초로 코스닥 기술특례상장 기술성 평가를 통과했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213457_216934_4036.png",
+    "score": 7.539,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "\"읽어도 무슨 뜻인지 몰라요\"...SKT, AI로 문해력 교육 나선다",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213461",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-03T11:48:02+00:00",
+    "raw_excerpt": "SK텔레콤(대표 정재헌)은 교육부가 추진하는 '디지털새싹 사업'에 자체 AI 에듀테크 솔루션 'AI 그림일기'를 제공해 교육 현장의 AX를 돕는다고 3일 밝혔다.SKT는 주관기관인 순천향대학교와 지난 5월부터 강원·충청권 초·중·고교생 4200여명을 대상으로 AI·소프트웨어(SW) 교육 프로그램을 운영하고 있다.AI 그림일기는 읽기·쓰기 등 문해력과 표현력 향상을 돕는 교육 솔루션으로 ▲글쓰기와 창작 ▲결과물 공유 ▲교사의 수업 운영 등의 기능을 제공한다.학생이 자신의 생각과 감정을 글로 입력하면 AI가 내용을 분석해 4개의 장면으",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "SKT가 자체 AI 에듀테크 솔루션 'AI 그림일기'로 초·중·고생의 문해력과 표현력 향상을 돕는 디지털새싹 사업에 참여한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213461_216937_1026.jpg",
+    "score": 7.539,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "독일, 신규 소형 태양광 고정가격 지원 종료 추진…2027년 시장판매 전환",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213455",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-03T11:15:00+00:00",
+    "raw_excerpt": "독일 정부가 2027년부터 신규 소형 태양광 설비에 제공하던 장기 고정가격 매입 지원을 종료하고 시장 직접판매 방식으로 전환하는 방안을 추진한다. 기존 설비의 지원은 유지하되 신규 설비가 전력가격과 계통 상황에 맞춰 전력을 생산·판매하도록 유도한다는 평가다.독일 연방 내각은 지난 29일(현지시간) 재생에너지법 개정안인 ‘EEG 2027’과 전력망 접속 개선 법안을 승인했다. 개정안은 정부 법안 단계로 연방의회 심의 과정에서 내용이 달라질 수 있다.개정안에 따르면, 2027년부터 가동하는 설비용량 25킬로와트(kW) 미만 태양광에는",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "독일이 2027년부터 신규 소형 태양광(25kW 미만)에 대한 고정가격 지원을 종료하고 시장 직접판매로 전환하는 'EEG 2027' 개정안을 승인했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213455_216930_5856.jpg",
+    "score": 7.494,
+    "engagement": 0,
+    "matched_keywords": [
+      "법안"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "와이즈넛, AI 에이전트 제작 도구로 GS 인증 1등급 획득",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21288",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-08-03T11:24:28+00:00",
+    "raw_excerpt": "와이즈넛이 AI 에이전트 제작을 위한 올인원 도구 ‘와이즈 에이전트 랩스’가 한국산업기술시험원(KTL)으로부터 GS 인증 1등급을 획득했다고 3일 밝혔다. 이번 인증을 통해 와이즈넛 측은 AI 에이전트 기술 경쟁력과 높은 안정성을 입증했다고 밝혔다. GS 인증은 국가 공인 소프트웨어 품질 인증제도로, 기능성·신뢰성·사용성·성능효율성 등 전 평가 항목에 걸쳐 최고 수준의 요건을 충족한 제품에 부여된다.와이즈 에이전트 랩스는 AI 에이전트 제작을 위한 올인원 통합 도구다. 파편화하고 복잡한 AI 개발 프로세스를 하나로 통합해 설계부터",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "와이즈넛의 AI 에이전트 제작 도구 '와이즈 에이전트 랩스'가 국가 공인 GS 인증 1등급을 획득해 AI 기술 경쟁력과 안정성을 입증했다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202608/21288_21980_1742.jpg",
+    "score": 7.177,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "242억원 '국방 특화 LLM' 사업, 한화·네이버클라우드 컨소시엄 우협 선정",
+    "url": "https://www.etnews.com/20260803000103",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-08-03T00:58:40+00:00",
+    "raw_excerpt": "군 지휘통제 현장에 투입될 인공지능(AI) 플랫폼을 구축하는 국방 거대언어모델(LLM) 사업을 한화시스템 컨소시엄이 따냈다. 3일 업계에 따르면 국방부가 발주한 '초거대 인공지능 기반 지휘통제체계 기술 개발 사업'에 한화시스템·네이버클라우드 컨소시엄이 우선협상대상자로 선정됐다. 이 사업은 오는 9월부터 2030년 2월까지 42개월간 총 242억원을 들여 국방 특화 초거대 AI 플랫폼을 구축하는 것이 목표다. 합동 전영역 지휘통제(JADC2) 구",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "한화시스템·네이버클라우드 컨소시엄이 242억원 규모의 국방 특화 LLM 개발 사업을 수주해 군 지휘통제 현장에 투입될 AI 플랫폼을 2030년 2월까지 구축할 예정이다.",
+    "thumbnail": "",
+    "score": 6.623,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "llm"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "이름·연락처 없어도 건강 상태 안다…AI 개인정보 침해 '비상'",
+    "url": "https://zdnet.co.kr/view/?no=20260803093811",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-03T00:39:12+00:00",
+    "raw_excerpt": "[지디넷코리아]AI가 익명·집계 데이터에서도 개인의 건강 상태와 행동 패턴을 추론하면서 개인정보 침해 위험이 단순한 데이터 유출을 넘어 AI의 판단 결과로 확산되고 있다. 개인정보가 직접 빠져나가지 않아도 민감 정보가 드러날 수 있어 기존 보안 체계만으로는 대응이 어렵다는 지적이 나온다.3일 시장조사기관 가트너에 따르면 대부분의 개인정보 침해 사고는 오는 2029년까지 개인식별정보(PII)의 직접적인 유출보다 AI가 개인에 대해 생성한 추론에서 비롯될 것으로 전망됐다.가트너는 기업들이 규제 준수와 관리 비용 절감을 위해 개인 데이터 보유량을 줄이고 있지만, 생성형 AI와 머신러닝 기술이 발전하면서 데이터 최소화만으로 개인정보 위험을 낮추기 어려워졌다고 판단했다. AI는 익명화되거나 여러 사람의 정보가 합쳐진 데이터에서도 개인의 건강 상태와 선호, 행동 패턴 등 민감한 정보를 유추할 수 있다.개인정보 침해 방식도 달라지고 있다. 기존 공격은 고객 정보나 의료 기록, 금융정보 등 저장된 데이터를 탈취하는 형태가 중심이었다. 반면 추론 기반 공격은 실제 기록을 빼내지 않고도 공개 정보와 비식별 데이터, AI 분석 결과를 결합해 특정 개인의 특성이나 상태를 알아내는 방식으로 진행된다.이 과정에서 만들어진 정보는 원본 데이터가 아니기 때문에 기존 개인정보 유출 탐지 체계에 포착되지 않을 가능성이 크다. AI가 잘못된 데이터를 바탕으로 부정확하",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "AI가 익명·집계 데이터에서도 개인의 건강 상태 등 민감 정보를 추론하면서, 2029년까지 개인정보 침해의 대부분이 직접 유출보다 AI 추론 결과에서 비롯될 것으로 전망됐다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/03/7a25ce1d7e0810f4cb4583b1c2cb8e32.png",
+    "score": 6.617,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "데이터 유출",
+      "규제",
+      "개인정보"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "\"오픈AI·앤트로픽 모델로 학습\"…중국, '증류'로 군사용 AI 개발",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213441",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-02T11:03:17+00:00",
+    "raw_excerpt": "중국 군사 연구 기관들이 오픈AI와 앤트로픽의 최첨단 AI 모델 출력을 활용해 자국 군사용 AI 시스템을 개발하고 있는 것으로 나타났다. 미국의 첨단 반도체 및 AI 기술 수출 통제에도 불구하고 중국이 '증류(Distillation)' 기법을 통해 미국 선도 AI 기술을 흡수하며 국방 AI 역량을 강화하고 있다는 분석이 제기된다.로이터는 31일(현지시간) 중국 인민해방군(PLA)과 군 관련 연구 기관들이 오픈AI와 앤트로픽의 AI 모델을 활용해 자체 AI 시스템을 개발한 사례가 광범위하게 확인됐다고 보도했다. 이는 워싱턴의 싱크탱크",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "중국 군사 연구 기관들이 오픈AI·앤트로픽의 AI 모델을 증류 기법으로 활용해 군사용 AI 시스템을 개발 중이며, 미국의 기술 수출 통제를 우회하고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213441_216913_5051.jpg",
+    "score": 6.503,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "리벨리온, 경남·울산 AI CCTV에 서버형 NPU 공급",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21286",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-08-03T10:29:36+00:00",
+    "raw_excerpt": "리벨리온이 과학기술정보통신부와 한국지능정보사회진흥원(NIA)이 추진하는 ‘국산 NPU 기반 공공 AI CCTV 전환’ 사업에서 경상남도청과 울산광역시의 CCTV 관제센터에 대형 AI 모델을 구동할 서버형 NPU를 공급할 예정이라고 3일 밝혔다.이번 사업은 공공 CCTV AI 전환의 첫 사례로, 리벨리온은 경상남도청과 울산광역시 2개 기관의 서버 인프라 사업을 수주했다. 오는 8월을 시작으로 자사의 고성능 서버형 NPU ‘아톰맥스’를 해당 기관에 납품할 예정이다. 이번 사업의 AI CCTV 관제 체계는 2단계로 설계된다. 카메라 또는",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "리벨리온이 경남·울산 공공 CCTV 관제센터에 국산 서버형 NPU '아톰맥스'를 공급하는 AI CCTV 전환 사업을 수주했다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202608/21286_21978_2241.jpg",
+    "score": 6.289,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "[기자수첩] AI가 정말 필요한 사람은 휠체어 위에 있다",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21285",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-08-03T10:13:59+00:00",
+    "raw_excerpt": "3일 아침 전국장애인차별철폐연대(전장연)의 이동권 보장 시위로 서울 지하철 일부 노선이 지연됐다. 출근길 시민의 불만이 쏟아졌고, 시위를 향한 비난도 어김없이 반복됐다. 그러나 매번 되풀이되는 이 장면에서 정작 물어야 할 것은 따로 있다. 왜 장애인은 지하철을 세우는 방식 말고는 이동권을 말할 방법을 찾지 못하는가. 그리고 세계 최고 수준의 AI 강국을 자처하는 한국은, 그 기술을 어디에 쓰고 있는가.AI는 비장애인보다 사회적 약자에게 더 필요한 기술이다. 익숙한 사례가 음성인식이다. 우리가 “하이 빅스비”, “시리야”, 혹은 “아",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AI 강국 한국이 사회적 약자인 장애인의 실질적 삶 개선보다는 다른 분야에 기술을 집중하고 있는 현실을 비판하는 기사입니다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202608/21285_21976_855.jpg",
+    "score": 6.271,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "안전지대 콜드월렛도 뚫렸다…시드 취약점 노려 비트코인 1367개 탈취",
+    "url": "https://zdnet.co.kr/view/?no=20260803091400",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-03T00:37:59+00:00",
+    "raw_excerpt": "[지디넷코리아]개인키를 인터넷과 분리해 보관하는 콜드월렛에서 대규모 비트코인 탈취 사건이 발생했다. 주목할 점은 콜드월렛 자체를 해킹한 것이 아니라 지갑의 원본 키인 '시드(seed)'를 재현해 자산을 탈취했다는 점이다.2일(현지시간) 갤럭시리서치에 따르면, 지난달 30일부터 이번달 2일까지 세 차례에 걸친 공격으로 총 4585개의 콜드카드 지갑 주소에서 비트코인 1367개가 탈취됐다. 피해 규모는 약 8900만 달러에 달한다.콜드카드는 캐나다 보안기업 코인카이트가 개발한 비트코인 전용 하드웨어 콜드월렛이다.이번 공격의 원인은 지난 2021년 3월 배포된 콜드카드 펌웨어에 있다. 해당 버전은 지갑 원본 키인 시드를 생성할 때 하드웨어 난수 생성기 대신 상대적으로 결과 예측이 가능한 소프트웨어 난수 생성기를 사용했다.갤럭시리서치는 이로 인해 공격자가 생성할 수 있는 개인키 범위가 좁아졌다고 분석했다. 따라서 공격자는 시드와 개인키를 오프라인에서 재현한 뒤 공개된 비트코인 블록체인에서 일치하는 주소를 찾아 자산을 탈취한 것으로 보인다.공격 방식도 점차 진화했다. 1·2차 공격에서는 탈취한 자산을 하나의 지갑 주소로 모아 추적이 비교적 쉬웠지만, 3차 공격부터는 피해자별 다른 주소로 분산 전송해 자금 흐름을 추적하기 어렵게 만들었다.현재도 공격이 이어지고 있다. 갤럭시리서치는 “취약한 시드로 생성된 지갑을 계속 탐색하고 있으며, 고액 지갑",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "2021년 콜드카드 펌웨어의 약한 난수생성기 취약점을 이용해 공격자들이 시드를 재현, 비트코인 1367개(약 8900만 달러)를 탈취했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2025/07/20/3cb89272bb19d60c4107d7464dce980f.png",
+    "score": 5.941,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "취약점",
+      "해킹"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "agent-device - AI 에이전트가 iOS/Android 기기를 제어하도록 돕는 CLI",
+    "url": "https://news.hada.io/topic?id=32078",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-08-03T00:31:01+00:00",
+    "raw_excerpt": "코딩 에이전트 가 실행 중인 앱을 직접 검사/조작/검증하고 결과를 근거로 저장하도록 지원 iOS, Android, tvOS, Android TV, Amazon Vega OS TV, web, macOS, Linux 등 지원 토큰 효율적인 접근성 스냅샷 을 읽고 ref 또는 selector로 요소를 찾아 기기 동...",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "AI 에이전트가 iOS/Android 등 다양한 기기를 직접 제어하고 조작할 수 있도록 지원하는 CLI 도구가 출시되었다.",
+    "thumbnail": "https://social.news.hada.io/topic/32078?v=bdab508a89e87ee5c0ae039a3cc86fd9",
+    "score": 5.844,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "신한투자증권, 국내 금융사 최초 'AI 에이전트부' 신설",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47834",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-03T10:29:54+00:00",
+    "raw_excerpt": "[스마트타임스]신한투자증권은 국내 금융사 최초로 AI 에이전트만으로 구성된 'AI 에이전트부'를 신설했다고 3일 밝혔다.AX본부 산하의 'AI 에이전트부'는 정보 조사, 자료 작성 등을 수행하는 독립부서로 팀장과 3개 담당 등 총 4개의 에이전트로 구성됐다. 업무를 AI 에이전트가 수행하더라도 최종 결과에 대한 검토는 인간이 담당하며 AI 거버넌스와 보안, 품질관리를 위해 AI 전문가 1인이 겸직한다.AI 에이전트부의 첫 파일럿 업무는 홀세일 비즈니스 협업이다. 미팅 자료 및 제안서 작성, 시장정보 조사, 이슈 분석 등을 맡아 직원",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "신한투자증권이 국내 금융사 최초로 AI 에이전트로만 구성한 전담부서를 신설하여 정보 조사 및 자료 작성 업무를 수행하기 시작했다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202608/47834_46420_2927_v150.jpg",
+    "score": 5.821,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "실리콘밸리의 창업자 고기 분쇄기",
+    "url": "https://news.hada.io/topic?id=32069",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-08-02T19:32:13+00:00",
+    "raw_excerpt": "개발 부트캠프에서 출발한 ‘Jim’은 인맥을 발판으로 스타트업 취업과 인수, YC 합격 , 연쇄 창업까지 빠르게 올라섰지만 몇 년 만에 돈과 관계를 잃고 자취를 감춤 야심과 근면함, 카리스마로 기회를 얻었으나 첫 고액 연봉 이후 생활 수준을 무리하게 높인 탓에 ...",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "실리콘밸리 부트캠프 출신의 창업자 Jim이 YC 합격과 연쇄 창업으로 빠르게 성장했으나 과도한 생활 수준으로 인해 결국 파산과 함께 사라졌다.",
+    "thumbnail": "https://social.news.hada.io/topic/32069?v=395e8007a4bfb79ed27de783f1abb2b4",
+    "score": 5.532,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업",
+      "창업"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "메타·구글 이어 링크드인까지…호주, 뉴스 사용료 규제 확대",
+    "url": "https://zdnet.co.kr/view/?no=20260803084307",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-03T00:30:05+00:00",
+    "raw_excerpt": "[지디넷코리아]호주 정부가 빅테크 기업의 뉴스 콘텐츠 사용료 제도를 강화한다. 메타와 구글, 틱톡에 이어 마이크로소프트(MS)의 링크드인 등 전문 네트워크 플랫폼까지 규제 대상을 확대하기로 했다.2일(현지시간) 블룸버그통신에 따르면 호주 정부는 올해 안에 이 같은 내용을 담은 ‘뉴스 협상 이니셔티브(News Bargaining Initiative)’ 법안을 의회에 제출할 예정이다. 기존에는 메타플랫폼스, 알파벳의 구글, 틱톡 등이 주요 적용 대상으로 거론됐지만, 이번 법안에서는 링크드인과 같은 전문 네트워크 플랫폼까지 적용 범위를 넓혔다.이번 제도는 호주 언론사의 콘텐츠 이용과 관련해 상업적 계약을 체결하지 않는 디지털 플랫폼에 부담금을 부과하는 것이 핵심이다. 언론사와 콘텐츠 사용 계약을 맺으면 부담금을 일부 또는 전액 감면받을 수 있다. 플랫폼이 언론사와 상업적 계약을 자율적으로 체결하도록 유도하기 위한 장치다.법안에 따르면 호주에서 검색 서비스나 소셜미디어를 통해 연간 2억 5000만 호주달러(약 2532억원) 이상의 디지털 광고 매출을 올리는 플랫폼은 해당 매출의 2.5%를 부담금으로 납부해야 한다. 이렇게 걷힌 재원은 언론사에 지급돼 뉴스 제작과 저널리즘 활동을 지원하는 데 활용된다.대니얼 멀리노 호주 차관보는 성명을 통해 “호주의 저널리즘은 민주주의가 제대로 기능하기 위해 필수적이며 앞으로도 지속 가능한 환경이 마련돼야 한",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "호주가 메타·구글에 이어 링크드인 등 전문 네트워크 플랫폼까지 뉴스 사용료 규제 대상으로 확대하는 법안을 올해 안에 의회에 제출할 예정이다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/05/19/107ea0fdda07e28993f6e36a5cc4c116.png",
+    "score": 5.258,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제",
+      "법안"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "국힘·개혁신당, 李 대통령에 형소법 거부권 촉구…“보완수사권 폐지 막아야”",
+    "url": "https://www.etnews.com/20260803000182",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-08-03T02:05:23+00:00",
+    "raw_excerpt": "검찰 보완수사권 폐지를 골자로 한 형사소송법 개정안이 지난달 31일 국민의힘의 필리버스터(무제한 토론)에도 불구하고 국회 본회의를 통과한 가운데, 국민의힘이 이재명 대통령을 향해 재의요구권(거부권) 행사 압박에 나섰다. 국민의힘 지도부는 3일 청와대 앞에서 '보완수사권 폐지 악법 거부권 촉구' 현장 최고위원회의를 열고 형사소송법 개정안의 거부권 행사를 촉구했다. 장동혁 대표는 “보완수사권 폐지를 담은 형사소송법 개정안이 통과됐다고 선언한 순간",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "국민의힘과 개혁신당이 이재명 대통령에게 검찰 보완수사권 폐지를 담은 형사소송법 개정안에 대한 거부권 행사를 촉구했다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/08/03/rcv.YNA.20260803.PYH2026080302140001301_P1.jpg",
+    "score": 5.192,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "KGM, 中 체리차 7500만달러 투자 유치…글로벌 전동화·현지화 '동맹'",
+    "url": "https://www.etnews.com/20260803000154",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-08-03T01:47:46+00:00",
+    "raw_excerpt": "KG모빌리티(KGM)가 중국 체리자동차로부터 7500만달러 규모 투자를 유치했다. 양사는 기존 플랫폼·스포츠유틸리티차량(SUV) 공동개발 협력에서 나아가 자율주행, 소프트웨어 중심 자동차(SDV), 로봇, 반도체 등 미래 신사업 분야로 협력 범위를 넓힌다. KGM은 체리차와 '글로벌 동반성장을 위한 전략적 투자계약'을 체결했다고 3일 밝혔다. 2024년 플랫폼 라이선스 계약, 2025년 중·대형 SUV 공동 개발에 이은 후속 조치다. 양 사는",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "KGM이 중국 체리자동차로부터 7500만달러를 투자받아 자율주행·SDV·로봇 등 미래 사업으로 협력을 확대한다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/08/03/news-p.v1.20260803.3086d78627fa424798d9cc5485cd7fef_P1.jpg",
+    "score": 5.174,
+    "engagement": 0,
+    "matched_keywords": [
+      "투자 유치"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "one way i'm developing Forge (",
+    "url": "https://x.com/swyx/status/2083993378258288976",
+    "source": "X @swyx",
+    "source_type": "x",
+    "published_at": "2026-08-02T19:08:34+00:00",
+    "raw_excerpt": "one way i'm developing Forge (\nhttps://\nx.com/swyx/status/20\n83654369095156219\n…) is to use it to host all my projects going forward. so I often find myself having to bounce back and forth between platform and product.\n\nsharing neat trick - in \n@openai\n codex you can @ a thread + queue up the @, so if your",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "OpenAI Codex에서 스레드를 참조하며 큐에 올려 작업 흐름을 개선하는 방법을 소개했습니다.",
+    "thumbnail": "https://pbs.twimg.com/media/HOvTPtkaMAApsTv.jpg:large",
+    "score": 5.172,
+    "engagement": 5396,
+    "matched_keywords": [
+      "codex"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "고동진 “호남 메가특구법 주 52시간 특례, 헌법 위반 소지 있어”",
+    "url": "https://www.etnews.com/20260803000151",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-08-03T01:45:20+00:00",
+    "raw_excerpt": "정부와 더불어민주당이 추진하는 '호남 반도체 산단 한정 주 52시간 특례'가 헌법에 위배될 소지가 있다는 주장이 제기됐다. 삼성전자 대표를 지낸 고동진 국민의힘 의원(서울 강남구병)은 3일 “반도체 연구개발 업무의 특성은 지역에 따라 달라지는 것이 아닌 만큼, '호남'이라는 이유만으로 근로시간 규제를 달리 적용하는 것은 자의적인 차별에 해당한다”며 “헌법상 평등의 원칙에 위배될 가능성이 크다”고 밝혔다. 고 의원은 헌법 제11조 제1항이 '모든",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "고동진 의원이 호남 반도체 산단 주 52시간 특례가 지역 차별로 헌법상 평등의 원칙에 위배될 소지가 있다고 지적했다.",
+    "thumbnail": "https://img.etnews.com/news/article/2025/12/25/news-p.v1.20251225.ffc65dab3bb242aab3da62231574cb71_P3.jpg",
+    "score": 5.171,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "코스피, 장 초반 4%대 하락…6300선 아래로",
+    "url": "https://www.etnews.com/20260803000081",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-08-03T00:44:26+00:00",
+    "raw_excerpt": "코스피가 장 초반 4% 넘게 밀리며 출발했다. 지난 거래일 역대 최대 폭으로 뛴 지 하루 만에 상승분의 일부를 되돌렸다. 코스닥은 강보합권에서 움직이고 있다. 3일 한국거래소에 따르면 오전 9시 36분 코스피는 전 거래일보다 321.46포인트(4.87%) 빠진 6273.99를 기록 중이다. 코스피 지수는 전장보다 237.18포인트(3.60%) 하락한 6358.27로 출발한 뒤 장중 한때 6247.64까지 밀렸다. 지난달 31일 급등했던 반도체",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "코스피가 전날 급등분을 되돌리며 장 초반 4% 이상 하락해 6300선 아래로 내려앉았다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/08/03/rcv.YNA.20260803.PYH2026080302410001300_P1.jpg",
+    "score": 5.108,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "자동화하지 말고, 완전히 없애버려라",
+    "url": "https://news.hada.io/topic?id=32076",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-08-02T23:52:33+00:00",
+    "raw_excerpt": "기존 시장의 효율을 높이는 소프트웨어보다 시장 구조 자체를 무너뜨리고 재편하는 스타트업 을 더 큰 투자 기회로 평가해 왔으며, AI가 이런 변화의 가능성을 한층 키우고 있다고 봄 인터넷이 유통 비용을 낮춰 미디어 기업의 통제력을 약화시켰듯, AI는 전문 지식의 공급 비...",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "기존 시장의 효율성을 높이는 자동화보다 시장 구조 자체를 재편하는 혁신이 더 큰 투자 기회이며, AI가 이를 가능하게 하고 있다.",
+    "thumbnail": "https://social.news.hada.io/topic/32076?v=8980a67903a88eecefb7d23f306f46b1",
+    "score": 5.054,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "가장 빠른 AI-First 기업은 실제로 어떻게 일하는가",
+    "url": "https://news.hada.io/topic?id=32075",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-08-02T23:51:50+00:00",
+    "raw_excerpt": "빠른 AI-First 기업은 단순히 인원을 줄이고 도구를 도입하는 데 그치지 않고, AI를 동료로 취급 하며 훌륭한 제품이라는 공동 목표에 맞춰 사람과 시스템을 구성함 AI로 초안을 만드는 0→1 보다 프로토타입을 출시하고 검증·학습·반복하는 1→2 가...",
+    "topic": "ai_native",
+    "topic_label": "🧬 AI Native",
+    "summary": "선도적인 AI-First 기업들은 AI를 단순 도구 아닌 동료로 취급하며 빠른 프로토타입 출시와 반복 학습으로 제품을 발전시킨다.",
+    "thumbnail": "https://social.news.hada.io/topic/32075?v=0876324f1af4d4003154407aa4fef1a6",
+    "score": 5.053,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai-first"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "美 상수도망 해킹…당국, 배후로 이란 의심",
+    "url": "https://www.etnews.com/20260803000009",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-08-02T22:22:10+00:00",
+    "raw_excerpt": "미국 전역의 상수도 시스템을 겨냥한 연쇄 사이버 공격이 발생한 가운데, 미 수사당국이 이란의 소행일 가능성에 무게를 싣고 수사를 확대하고 있다. 2일(현지시간) 뉴욕타임스(NYT) 등 외신에 따르면, 미 연방수사국(FBI)과 환경보호청(EPA)은 현재까지 최소 7개 주에서 상수도 시설을 노린 해킹 시도가 포착됐다고 밝혔다. 이와 관련해 미시간주는 주내 9개 시설에서 해킹 흔적을 확인했다고 발표했으며, 미네소타주 역시 약 30여 개 시설이 공격",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "미국 전역 7개 주 이상의 상수도 시설이 해킹당했으며, FBI·EPA가 배후로 이란을 의심하고 수사를 확대하고 있다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/06/26/news-p.v1.20260626.4816e64bfd934bd6bbbc35bf1b8178dd_P3.jpg",
+    "score": 4.959,
+    "engagement": 0,
+    "matched_keywords": [
+      "해킹"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "SK AX, 美 제조 AX 공략 속도…현지 OT 솔루션 확보 잰걸음",
+    "url": "https://zdnet.co.kr/view/?no=20260730180144",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-03T01:40:40+00:00",
+    "raw_excerpt": "[지디넷코리아]SK AX가 미국 제조기업을 대상으로 한 시스템 구축 역량을 넓히기 위해 산업 자동화·운영기술(OT) 관리 기업 AMDT의 솔루션을 확보했다. 미국 현지 고객이 사용하는 OT 제품에 대한 구축·통합 역량을 갖춰 제조 AX 사업의 대응 범위를 넓히려는 움직임이다.3일 업계에 따르면 SK AX 미국법인 SK AX USA는 올해 초 AMDT와 파트너십을 체결하고 이 회사의 OT 관리 솔루션 '옥토플랜트'를 고객 프로젝트에 활용할 수 있는 체계를 마련했다.옥토플랜트는 공장에서 사용하는 자동화 장비와 제어 시스템의 프로그램·설정값을 백업하고 변경 이력을 관리하는 제품이다. 설비 오류나 사이버 공격, 프로그램 변경으로 장애가 발생하면 이전 상태와 비교해 원인을 확인하고 정상 버전으로 복구할 수 있다.이번 협력은 양사가 솔루션을 공동 개발하거나 별도의 시장을 함께 개척하는 형태는 아니다. SK AX USA가 미국 제조 고객의 요구에 대응하기 위해 현지에서 활용도가 높은 솔루션을 확보하고 향후 시스템 구축 과정에서 이를 적용할 수 있도록 한 것이다.미국 제조기업을 공략하려면 현지 공장에서 이미 사용 중인 설비와 소프트웨어를 이해하고 연계할 수 있는 역량이 필요하다. 고객이 특정 OT 솔루션을 사용하고 있을 경우 이를 기반으로 생산·물류·운영 시스템을 연결할 수 있어야 후속 사업으로 이어질 수 있어서다.이에 SK AX는 미국 제조사업 ",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "SK AX가 미국 제조기업 공략을 위해 산업 자동화 솔루션 업체 AMDT와 파트너십을 체결하고 OT 관리 솔루션 '옥토플랜트'를 확보하여 현지 시스템 구축 역량을 강화하고 있다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/07/30/9be0d2b7e7cf2699471aed69c3796aa8.png",
+    "score": 4.65,
+    "engagement": 0,
+    "matched_keywords": [
+      "ax"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "[이창근의 헤디트] 성남물빛정원, 미디어아트 특화거리로 완성될까",
+    "url": "https://zdnet.co.kr/view/?no=20260803094108",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-03T01:39:05+00:00",
+    "raw_excerpt": "[지디넷코리아]세계가 K-컬처에 열광하는 이유는 단순한 유행이 아니라 우리의 삶과 이야기, 오래된 시간의 결이 담긴 헤리티지에 있습니다. 전통을 오늘의 감각으로 다시 읽고 디지털 기술과 예술적 상상력을 더할 때 문화자원은 공연과 전시, 도시와 공간, 콘텐츠와 산업의 언어로 확장됩니다. 정책과 현장, 기술과 예술이 만나는 접점에서 한국다움이 오늘의 콘텐츠와 경험으로 어떻게 살아나는지를 이창근 칼럼니스트와 함께 짚어봅니다. [편집자주]성남물빛정원에 새로운 밤이 열린다. 성남시 시정소식지 「비전성남」 7월호는 8월 중 뮤직홀 외벽에 프로젝션 매핑 기반의 미디어파사드를 선보이고, 옛 하수처리장 구조물 일원에는 미디어터널과 포토존을 조성한다고 알렸다. 외벽 콘텐츠의 주제는 ‘고요한 탄천의 밤, 동물들의 음악회가 시작된다’이다.성남시 문화관광과 관광팀에 확인한 내용에 따르면 스토리의 중심에는 탄천의 수달이 있고, 여러 동물이 함께 등장한다. 공개를 앞둔 현장을 찾았을 때 눈에 먼저 들어온 것은 아직 공개되지 않은 영상보다 그 영상이 펼쳐질 장소였다. 높이가 다른 뮤직홀의 백색 매스와 돌출·후퇴한 입면, 반복되는 수직선, 잔디광장의 관람축, 침전지의 거친 골조와 깊은 어둠이었다.지난 2019년부터 분당에 살고 있는 성남시민으로서 물빛정원의 변화는 야간 콘텐츠 하나를 더하는 일 이상으로 다가온다. 장기간 닫혀 있던 옛 하수처리장을 시민의 산책과 음",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "성남물빛정원이 8월 프로젝션 매핑 미디어파사드와 미디어터널 조성으로 미디어아트 특화거리로 거듭나고 있다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/03/7be63cc7fbc726a6a09ab6e44553b198.jpg",
+    "score": 4.648,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "엔젤로보틱스 '엔젤렉스 M20', 보행재활 로봇, 건보 적용 대상 확대",
+    "url": "https://zdnet.co.kr/view/?no=20260803083607",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-03T01:20:43+00:00",
+    "raw_excerpt": "[지디넷코리아]엔젤로보틱스 웨어러블 로봇 '엔젤렉스 M20'가 로봇보조정형용운동장치 품목의 건강보험 선별급여 적용 대상이 확대되면서 관련 환자들의 접근성 확대가 기대된다.2일 엔젤로보틱스에 따르면 지난달 30일 보건복지부의 개정에 따라 로봇을 사용한 보행훈련의 급여기준이 발병 후 6개월 이내의 뇌졸중 환자에서 18세 이하 뇌성마비 및 중추신경계 질환 소아·청소년 환자까지 확대됐다.이번 개정으로 보행 기능 개선이 필요한 대운동기능 분류단계 2~4단계 수준의 소아·청소년 환자들도 선별급여(본인부담률 50%)를 통해 보행 재활 치료를 받을 수 있다. 2022년 해당 항목이 신설된 이후 급여 대상이 확장된 것은 이번이 처음이다. 그동안 치료 접근성에 한계가 있었던 장애 아동들의 재활 기회가 늘어날 것으로 예상된다.엔젤렉스 M20은 착용자의 보행 의도를 파악해 부족한 힘만큼 보조하는 힘 제어 기반의 착용형 로봇이다. 지난 2024년 미국 SCI급 저널 '자마 네트워크 오픈(JAMA Network Open)'에 게재된 임상시험 결과에 따르면, 엔젤렉스 M20을 활용해 훈련을 진행한 소아 뇌성마비 아동 그룹이 일반 물리치료 그룹 대비 대운동 기능과 균형 조절 능력 등에서 유의미한 향상을 보였다.조남민 엔젤로보틱스 대표는 \"이번 급여 확대로 그동안 치료 기회가 제한적이었던 소아·청소년 뇌성마비 환자들이 첨단 재활 치료에 쉽게 접근할 수 있게 됐다\"",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "엔젤로보틱스의 보행재활 로봇 '엔젤렉스 M20'이 건강보험 적용 대상을 18세 이하 뇌성마비·중추신경계 질환 환자까지 확대해 소아·청소년 환자들의 재활 치료 접근성이 높아졌다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/03/ea495558d96c0ff5a812838d746cfbb4.jpg",
+    "score": 4.631,
+    "engagement": 0,
+    "matched_keywords": [
+      "로보틱스"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "한국엡손, 넥스팟솔루션과 보안 라벨 분야 협업 확대",
+    "url": "https://zdnet.co.kr/view/?no=20260803093256",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-03T00:34:41+00:00",
+    "raw_excerpt": "[지디넷코리아]한국엡손은 3일 보안 솔루션 전문기업 넥스팟솔루션과 위조 방지 보안 라벨 시장 확대와 고부가가치 솔루션 개발을 위한 업무협약을 맺었다고 밝혔다.넥스팟솔루션은 의류, 화장품, 자동차 부품 등 다양한 분야에서 봉인형 라벨, QR코드 기반 정품 인증 라벨 등 위조방지 솔루션을 개발·공급하고 있다.사진 촬영이나 스캔 등으로 복제할 수 없는 라벨 구현에는 디지털 라벨 전문 장비인 엡손 슈어프레스 L-6534VW를 활용했다.슈어프레스 L-6534VW는 엡손 독자 개발 '디지털 바니시' 잉크로 보는 각도에 따라 색상이 달라지는 광학 효과 구현, 차폐성을 강화한 화이트 잉크 출력 등을 지원한다.지난 7월 29일 한국엡손 본사에서 열린 협약식에는 세이코 엡손과 한국엡손, 넥스팟솔루션 관계자들이 참석해 디지털 라벨 시장에서의 기술 협력과 신규 비즈니스 확대 방안을 논의했다.양사는 향후 엡손 슈어프레스 L-6534VW와 넥스팟솔루션 보안 기술을 결합해 차별화된 보안 라벨 솔루션을 공동으로 확대해 나갈 계획이다.또 기존 QR 기반 인증 기술과 디지털 바니시 등 특수 인쇄 기술을 결합한 새로운 보안 라벨 솔루션을 시장에 확대하고, 기존 고객에게도 차별화된 고부가가치 라벨 솔루션을 제공할 예정이다.한국엡손 관계자는 \"최근 한국산 제품 글로벌 경쟁력이 높아지며 화장품, 식품, 건강기능식품, 산업재 등 다양한 분야에서 위조상품 유통이 늘고 있다\"고",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "한국엡손이 넥스팟솔루션과 손잡고 디지털 바니시 기술을 결합한 위조 방지 보안 라벨을 공동 개발하여 글로벌 시장에서 증가하는 위조품 문제에 대응한다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/03/903936cd6d624b536814c1d75237bb72.jpg",
+    "score": 4.588,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "에탄올 휘발유 더 팔자는데…美 정유업계가 반발한 이유",
+    "url": "https://zdnet.co.kr/view/?no=20260803092517",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-03T00:25:17+00:00",
+    "raw_excerpt": "[지디넷코리아]소형 정유사에는 바이오연료 사용 의무를 면제하고, 그 부담을 다른 정유사에 넘길 수 있는 미국 상원 법안을 놓고 석유업계가 반발하고 있다. 에탄올 휘발유 판매를 늘리는 데에는 찬성하지만 비용을 나누는 방식이 불공정하다는 주장이다.2일(현지시간) 블룸버그통신에 따르면 미국석유협회(API)는 E15의 연중 판매를 허용하고 일부 소형 정유공장에 바이오연료 혼합 의무 면제를 제공하는 상원 농업법안에 반대한다는 입장을 밝혔다.미국은 정유사들이 매년 일정량의 바이오연료를 휘발유나 경유에 섞도록 하고 있다. 석유 사용과 온실가스 배출을 줄이고 옥수수 등 농산물의 새로운 수요를 만들기 위해서다. 에탄올은 주로 옥수수로 만드는 바이오연료다.이번 법안이 다루는 연료는 에탄올을 15% 섞은 휘발유다. 미국에서는 이를 ‘E15’라고 부른다. 지금까지는 기온이 높은 여름철 대기오염 우려 때문에 일부 지역에서 E15 판매가 제한됐다. 새 법안은 계절과 관계없이 미국 전역에서 E15를 판매할 수 있도록 하는 내용을 담았다.API도 E15의 연중 판매에는 찬성해 왔다. 에탄올 휘발유 판매가 늘어나면 소비자가 선택할 수 있는 연료의 종류가 많아지고 가격을 낮추는 데 도움이 될 수 있다는 이유에서다.문제는 법안에 함께 포함된 소형 정유사 면제 조항이다. 규모가 작은 정유사는 바이오연료를 의무적으로 섞는 데 드는 비용을 감당하기 어렵다고 인정되면 정부로",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "미 석유업계가 에탄올 휘발유 연중 판매는 지지하지만 소형 정유사 의무 면제로 인한 비용 부담 불공정 문제로 상원 법안에 반발하고 있다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/03/087c4ee814357ede041f947eb7348f11.jpg",
+    "score": 4.579,
+    "engagement": 0,
+    "matched_keywords": [
+      "법안"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "국가유산 '미디어아트 2.0' 막 오른다…전국 12곳 수놓을 '빛의 향연'",
+    "url": "https://zdnet.co.kr/view/?no=20260803090015",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-03T00:20:17+00:00",
+    "raw_excerpt": "[지디넷코리아]국가유산을 새로운 감각으로 경험하는 '국가유산 미디어아트' 행사가 본격적으로 막을 올린다. 오는 14일 진주성에서 열리는 ‘가온누리 진주성도’를 시작으로 전국 12개 지역에서 순차적으로 진행된다.해당 행사는 단순한 야간 영상 투사를 넘어, 국가유산의 역사와 장소성을 예술적으로 해석한 복합문화 콘텐츠다. 영상, 음악, 프로젝션 매핑, 증강현실(AR), 인터랙티브 기술 등을 융합해 관람객에게 유산의 새로운 가치를 전달한다.이달 말 군산을 거쳐 9월에는 익산 미륵사지, 경주 대릉원, 부여 정림사지, 강화 고려궁지, 철원 노동당사, 아산 이충무공 유허, 통영 삼도수군통제영으로 무대가 확장된다. 이후 양산 통도사와 청주 용두사지 철당간을 지나 11월 여수 진남관에서 올해 일정을 마무리한다.각 지역은 왕도, 전쟁, 평화, 불교문화 등 고유의 역사와 기억을 콘텐츠로 풀어낼 예정이다. 시각적 화려함을 넘어 국가유산의 이야기를 지역만의 경험으로 설득력 있게 구현하는 것이 올해 사업의 핵심 과제로 꼽힌다.국가유산청은 2026년 주요업무계획을 통해 지역 대표유산과 디지털 기술을 융합한 야간 특화 콘텐츠 방향성을 ‘미디어아트 2.0’으로 제시했다. 내·외국인의 지역 체류를 유도하는 것이 주된 목표다.다만 세부 목표와 추진체계, 콘텐츠 자산화 및 사후 활용 등을 구체화한 가이드라인은 아직 마련되지 않은 상태다. 올해는 완성된 정책 집행보다는 ",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "국가유산청이 14일 진주성을 시작으로 전국 12곳에서 영상·음악·AR 등을 융합한 '국가유산 미디어아트 2.0' 행사를 진행해 역사유산의 새로운 가치를 전달할 예정이다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/03/d697bc1b4689f226743f8ddd4f38a08f.jpg",
+    "score": 4.574,
+    "engagement": 0,
+    "matched_keywords": [
+      "가이드라인"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Cursor, 사용량 페이지와 CSV에서 비용 정보 제거",
+    "url": "https://news.hada.io/topic?id=32045",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-08-01T21:32:38+00:00",
+    "raw_excerpt": "2026년 7월 31일부터 Individual·Teams 등 셀프서비스 요금제 의 Usage 페이지가 토큰 전용으로 바뀌고, Spend 지표·Cost 열·CSV의 달러 비용이 사라짐 포함 사용량의 환산 비용이 실제 요금제 가격보다 크게 보여 혼란을 준다는 이유이며, 사용량 통합 구조가 다른 Enterpri...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Cursor가 2026년 7월 31일부터 사용량 페이지와 CSV에서 비용 정보를 제거하며, 토큰 기반 표시로 전환해 사용량 환산 비용과 실제 요금의 혼동을 줄인다.",
+    "thumbnail": "https://social.news.hada.io/topic/32045?v=ee9a35e9966810b8d397321b195cc7a5",
+    "score": 3.408,
+    "engagement": 0,
+    "matched_keywords": [
+      "cursor"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "RFC 9851: TLS 1.2 is in Feature Freeze",
+    "url": "https://www.rfc-editor.org/rfc/rfc9851.html",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-03T01:23:26+00:00",
+    "raw_excerpt": "Article URL: https://www.rfc-editor.org/rfc/rfc9851.html Comments URL: https://news.ycombinator.com/item?id=49150181 Points: 14 # Comments: 3",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "TLS 1.2가 기능 동결 상태에 진입하며 보안 패치만 제공될 예정이다.",
+    "thumbnail": "",
+    "score": 2.746,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Show HN: Isopolis – isometric pixel map of SF",
+    "url": "https://sf.isopolis.city/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-03T00:46:38+00:00",
+    "raw_excerpt": "Article URL: https://sf.isopolis.city/ Comments URL: https://news.ycombinator.com/item?id=49149966 Points: 39 # Comments: 12",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "샌프란시스코를 등각 픽셀 맵으로 표현한 Isopolis 프로젝트가 공개되었습니다.",
+    "thumbnail": "https://sf.isopolis.city/og.jpg",
+    "score": 2.725,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
+    "url": "https://github.com/johnsonjh/cpm386",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-03T00:38:10+00:00",
+    "raw_excerpt": "Article URL: https://github.com/johnsonjh/cpm386 Comments URL: https://news.ycombinator.com/item?id=49149898 Points: 33 # Comments: 9",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "CP/M-68K에서 파생된 386 보호 모드용 운영체제 CP/M-386이 GitHub에 공개되었습니다.",
+    "thumbnail": "https://opengraph.githubassets.com/4296c1e4f88a8524fd4a0f8f65a23e6930dafafa92848b634c5bef2c0848991a/johnsonjh/cpm386",
+    "score": 2.721,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Show HN: ssh ssh.place",
+    "url": "https://ssh.place",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-03T00:23:21+00:00",
+    "raw_excerpt": "Article URL: https://ssh.place Comments URL: https://news.ycombinator.com/item?id=49149805 Points: 30 # Comments: 14",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "ssh.place에서 SSH를 통해 대화형 데모를 체험할 수 있는 서비스가 공개되었습니다.",
+    "thumbnail": "",
+    "score": 2.712,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
+    "url": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-03T00:12:16+00:00",
+    "raw_excerpt": "Article URL: https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/ Comments URL: https://news.ycombinator.com/item?id=49149746 Points: 47 # Comments: 27",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Book Corners 앱이 오픈스트리트맵에 기여를 다시 동기화하지 않는 이유로 라이선스 및 기술적 제약이 있다.",
+    "thumbnail": "",
+    "score": 2.706,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  }
+]
