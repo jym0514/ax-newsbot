@@ -1,0 +1,821 @@
+[
+  {
+    "title": "'한국AI영화감독협회' 공식 출범…생성형 AI 영화 생태계 조성 본격화",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41298",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-03T19:06:46+00:00",
+    "raw_excerpt": "생성형 인공지능(AI)을 활용하는 영화감독과 영상 창작자들의 창작 활동을 지원하고 AI 영화산업의 지속 가능한 발전을 이끌기 위한 한국AI영화감독협회(KAIFD)가 공식 출범했다. 협회는 AI 영화감독과 영상 창작자의 권익 보호를 비롯해 제작기술 연구, 교육, 영화제 개최, 국제교류, 저작권 및 AI 창작 윤리 기준 마련 등을 추진하며 새로운 AI 영화 생태계 구축에 나선다.한국AI영화감독협회는 지난달 서울 성동구에서 창립총회를 열고 비영리 단체로 공식 출범했다고 3일 밝혔다. 창립총회에서는 협회 정관 제정과 임원 선임, 주사무소",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "생성형 AI를 활용하는 영화감독과 창작자를 지원하는 한국AI영화감독협회(KAIFD)가 공식 출범해 AI 영화산업의 지속 가능한 발전과 생태계 구축에 나선다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41298_62194_556_v150.jpg",
+    "score": 7.507,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "생성형 ai"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "최신 HR 트렌드에 네트워킹까지…잡코리아, '흐레카 26' 개최",
+    "url": "https://zdnet.co.kr/view/?no=20260804100741",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-04T01:53:01+00:00",
+    "raw_excerpt": "[지디넷코리아]잡코리아는 오는 27일 서울 역삼동에서 최신 HR 트렌드를 공유하고, 네트워킹 시간을 더한 컨퍼런스 '흐레카(HReka) 26'을 연다고 4일 밝혔다.'흐레카'는 HR과 유레카의 합성어로, HR 인사이트가 필요한 순간 '유레카'를 외치게 할 정보를 제공한다는 의미를 담았다. 잡코리아는 지난해부터 최신 HR 트렌드와 기업 사례를 공유하는 강연형 '흐레카 컨퍼런스'와 소규모 네트워킹 프로그램 '흐레카 밋업'을 운영하고 있다. 지난 컨퍼런스에는 인사 담당자 200여 명이 참여할 정도였다. 올해 행사 주제는 'AI 시대, 승리를 만드는 변화'다. AI 확산으로 채용과 조직 운영, 성과 관리 등 HR 트렌드가 빠르게 변화하면서 기업들도 AI를 HR 업무 성과로 연결하는 단계로 옮겨가고 있다. 잡코리아는 HR 담당자들이 실제 AI 도입 사례와 전략을 공유하고 각 조직에 맞는 해법을 찾을 수 있도록 다양한 강연 세션을 마련했다.HR 분야를 대표하는 기업과 학계 전문가들이 연사로 나선다. 'AI 시대 HR이 일하는 방식'을 주제로 ▲비전·역량 기반 고성과 AI 조직 만들기(이동훈 LG AI연구원 상무) ▲성과관리는 '기억'이 아니라 '데이터'로(김안나 레몬베이스 CPSO) ▲AX 시대 HR 변화전략과 시사점(김영주 LG유플러스 HR AX TF 리드) ▲HR 실무자가 경험한 AX 여정(황지욱 KT Enterprise 공공·금융사업기획팀",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "잡코리아가 27일 서울에서 AI 시대의 HR 트렌드와 실제 도입 사례를 공유하는 '흐레카 26' 컨퍼런스를 개최하며 HR 담당자들의 네트워킹 기회를 제공한다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/04/82289f183678e540e533f0d4e2de0625.jpg",
+    "score": 7.361,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직",
+      "도입 사례",
+      "ax",
+      "ai 도입",
+      "일하는 방식"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "엘리스그룹, B300 2560장 품고 국가 AI 컴퓨팅 인프라 확충",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21292",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-08-04T11:20:52+00:00",
+    "raw_excerpt": "엘리스그룹이 과학기술정보통신부와 정보통신산업진흥원(NIPA)이 추진하는 ‘AI컴퓨팅자원활용기반강화(GPU 서버확충 및 GPU 통합운영환경구축) 사업’의 참여 기업으로 최종 선정돼 엔비디아 B300 GPU 기반 모듈형 AI 데이터센터를 구축·운영한다.이번 사업은 국가 차원의 AI 컴퓨팅 인프라를 확충해 국내 기업과 연구기관의 AI 연구개발을 뒷받침하기 위해 추진됐다. 총 사업 규모는 2조805억 원이며, 지난 3월 공모를 시작해 제안서 평가와 데이터센터 현장실사, 최종 협상을 거쳐 지난 6월 네이버클라우드, 삼성SDS와 함께 엘리스그",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "엘리스그룹이 정부의 국가 AI 컴퓨팅 인프라 사업에 선정되어 엔비디아 B300 GPU 2560장 기반 데이터센터를 구축·운영한다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202608/21292_21984_1650.jpg",
+    "score": 7.173,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "엔비디아"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "[8월3일] '후방 배치 엔지니어'의 등장...AI, 회사 자체를 다시 설계한다",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213464",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-04T07:00:00+00:00",
+    "raw_excerpt": "올해 초 \"클로드 코드 사용량이 너무 많아 1년 예산을 몇달 만에 모두 소진했다\"는 발언으로 '토큰맥싱(Tokenmaxxing)' 논란을 불러왔던 프라빈 나가 우버 최고 기술책임자(CTO)가 이번에는 기업의 AI 도입 방식이 어떻게 바뀌고 있는지를 보여주는 흥미로운 사례를 소개했습니다.그는 최근 X를 통해 우버가 최고의 AI 엔지니어들로 구성된 '에이전틱 포드(Agentic Pods)' 팀을 재무와 법무, 마케팅, 인사 등 현업 부서에 2주 동안 직접 투입했다고 밝혔습니다. 하지만 이들은 AI를 개발하거나 사용법을 교육하지 않습니다",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "우버 CTO가 AI 엔지니어들을 현업 부서에 투입해 업무 프로세스 자체를 재설계하는 새로운 기업 구조 변화를 소개했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213464_216939_264.jpeg",
+    "score": 7.149,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "MS, 첫 실시간 양방향 음성 AI 'MAI 리얼타임' 테스트 중",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213471",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-03T18:02:36+00:00",
+    "raw_excerpt": "마이크로소프트(MS)가 자체 개발한 첫 실시간 양방향 음성 AI 모델 'MAI 리얼타임(Realtime)'의 비공개 테스트를 시작하며 대화형 음성 AI 시장 공략에 속도를 내는 것으로 확인됐다. 테스팅카탈로그는 2일(현지시간) MS가 최근 일부 비공개 파트너를 대상으로 MAI 플레이그라운드(Playground) 환경에서 ‘MAI 리얼타임’ 모델의 한정 테스트를 진행 중이라고 전했다.현재 모델은 초기 접근 형태로 제공되고 있으며, 앞으로 MS의 AI 개발 플랫폼과 '코파일럿(Copilot)' 등 주요 서비스에 적용될 것으로 전망된다.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "MS가 자체 개발한 첫 실시간 양방향 음성 AI 'MAI 리얼타임'의 비공개 테스트를 시작하며 대화형 음성 AI 시장 진출을 가속화하고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213471_216953_1539.jpg",
+    "score": 7.071,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "ai 시장"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "알리바바, 2.4조 매개변수 '큐원 3.8-맥스' 공개...\"페이블 5급 성능\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213493",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-03T17:29:46+00:00",
+    "raw_excerpt": "알리바바가 사람의 개입 없이 16일 동안 스스로 코딩과 개선을 수행하는 역대 최대 규모의 오픈웨이트 AI 모델 '큐원 3.8-맥스(Qwen 3.8-Max)'를 공개했다.알리바바는 3일(현지시간) 2조4000억(2.4T)개 매개변수를 갖춘 최상위 AI 모델 '큐원 3.8-맥스'를 발표하고, 다음 주부터 가중치를 오픈소스로 공개한다고 밝혔다.알리바바가 맥스급 모델을 오픈웨이트 형태로 배포하는 것은 이번이 처음으로, 성능 면에서 앤스로픽의 최상위 모델인 '페이블 5'에 맞먹는 수준이라는 설명이다.큐원 3.8-맥스는 코딩, 업무 자동화,",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "알리바바가 2.4조 매개변수 규모의 오픈소스 AI 모델 '큐원 3.8-맥스'를 공개했으며, 성능이 Claude 3의 최상위 모델 'Claude 3.5'에 필적한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213493_216976_115.png",
+    "score": 7.026,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "앤스로픽"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "[게시판] 딥노이드, 부산대병원에 AI 엑스레이 소견서 생성 솔루션 공급 등 단신",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213495",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-03T17:00:00+00:00",
+    "raw_excerpt": "■ 딥노이드(대표 최우식)는 부산대학교병원에 AI 기반 흉부 엑스레이 예비 소견서 생성 솔루션 'M4CXR'을 공급한다고 밝혔다. 이번 사업은 보건복지부가 추진하는 '권역책임의료기관 AI 기반 진료시스템 지원사업'의 일환으로 진행됐다. M4CXR이 식품의약품안전처 디지털의료기기 품목허가를 받은 이후 성사된 첫 공급 사례다.■ 아크릴(대표 박외진)은 퓨리오사AI와 'AI 인프라 기술 협력 및 공동 사업 추진을 위한 업무협약(MOU)'을 체결했다고 밝혔다. 양사는 아크릴의 의료 특화 대형언어모델(LLM) '아름.H(ALLM.H)'와 퓨",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "딥노이드가 FDA 승인을 받은 AI 흉부 엑스레이 소견서 생성 솔루션 'M4CXR'을 부산대병원에 공급하며 디지털의료기기 허가 후 첫 실제 납품 사례를 기록했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213495_216981_5816.png",
+    "score": 6.986,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "llm"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "EU, AI 생성 콘텐츠 '투명성 의무' 본격 시행…챗봇·딥페이크 모두 표시해야",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41297",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-03T18:28:57+00:00",
+    "raw_excerpt": "유럽연합(EU)이 인공지능(AI)으로 생성된 콘텐츠와 AI 시스템에 대한 투명성 규정을 본격 시행한다. 앞으로 챗봇이나 AI 에이전트와 대화하는 이용자는 자신이 AI와 상호작용하고 있다는 사실을 명확히 안내받아야 하며, 딥페이크를 비롯한 AI 생성 이미지·영상·음성에도 AI 생성물임을 표시해야 한다.유럽연합 집행위원회(European Commission)는 2일(현지시간)부터 AI법(AI Act)에 따른 새로운 AI 투명성 의무 규정이 발효됐다고 발표했다.이번 규정은 AI 기술이 빠르게 발전하면서 AI가 생성하거나 조작한 콘텐츠와",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "EU가 AI 생성 콘텐츠에 대한 투명성 의무를 AI법으로 본격 시행하며, 챗봇·딥페이크 등 모든 AI 생성물에 명시 표기를 요구한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41297_62193_2648_v150.jpg",
+    "score": 6.56,
+    "engagement": 0,
+    "matched_keywords": [
+      "딥페이크",
+      "ai act"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "美 행정부, AI 모델 '해킹 등 사이버 보안 테스트' 의무화",
+    "url": "https://www.etnews.com/20260804000004",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-08-03T22:43:36+00:00",
+    "raw_excerpt": "도널드 트럼프 미국 행정부가 최신 인공지능(AI) 프론티어 모델에 대한 사이버 보안 테스트를 의무화할 것으로 나타났다. 3일(현지시간) 로이터통신 등 외신에 따르면 미국 백악관은 최첨단 AI 모델의 해킹 능력을 측정하기 위한 사이버 보안 테스트 세부사항을 확정했다. 미국 내 개발되는 최신 AI 모델에 대해 미 행정부의 적극적인 관리·감독을 시사한다. 백악관은 오는 4일 오픈AI, 앤트로픽, 구글, 메타 등 주요 AI 개발사와 함께 이번 테스트",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "미국 행정부가 최첨단 AI 모델에 대한 해킹 등 사이버 보안 테스트를 의무화하며 AI 개발사에 대한 규제 감시를 강화하고 있다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/08/04/news-p.v1.20260804.dffc4f05cdca4378b1b9112961052ff6_P1.jpg",
+    "score": 6.482,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "사이버 보안",
+      "해킹"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "가트너, 개인정보 유출보다 더 위험한 것은 AI의 '추론'…2029년 개인정보 침해 양상 대전환",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41291",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-03T16:44:18+00:00",
+    "raw_excerpt": "가트너(Gartner)가 인공지능(AI) 시대 개인정보 보호의 패러다임이 근본적으로 바뀔 것이라고 경고했다. 앞으로는 주민등록번호나 연락처 같은 개인정보가 직접 유출되는 사고보다, AI가 데이터를 분석해 개인의 건강 상태나 행동 패턴 등을 추론하면서 발생하는 '인사이트 유출'이 개인정보 침해의 주된 원인이 될 것이라는 전망이다.가트너는 3일 발표한 보고서를 통해 2029년까지 대부분의 개인정보 침해 사고가 개인식별정보(PII)의 직접적인 유출이 아니라 AI가 개인에 대해 생성한 추론(Inference)에서 비롯될 것이라고 전망했다.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "가트너는 2029년까지 개인정보 침해의 주요 원인이 직접 유출에서 AI의 추론을 통한 '인사이트 유출'로 전환될 것이라고 경고했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41291_62183_4335_v150.jpg",
+    "score": 6.429,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "네이버가 공개한 AI팩토리 계획",
+    "url": "https://byline.network/2026/08/03_192828773/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-08-03T21:35:33+00:00",
+    "raw_excerpt": "네이버가 AI팩토리 사업 운영 방식을 공개했다. 브룩필드가 특수목적법인(SPV)를 세워 엔비디아로부터 그래픽처리장치(GPU)를 공급 받은 후 AI 데이터센터를 짓고, 네이버가 설립한 AI팩토리 자회사가 사업을 맡는 방식이다.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "네이버가 브룩필드-엔비디아 GPU 공급 계약을 통해 AI팩토리 자회사가 운영할 데이터센터 구축 계획을 공개했다.",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2024/11/naver1784.jpg",
+    "score": 6.227,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "엔비디아"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "바이트댄스, '시댄스'로 에듀테크 진출…학습 앱 '가우스'에 AI 영상 도입",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213458",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-03T17:45:44+00:00",
+    "raw_excerpt": "바이트댄스가 AI 영상 생성 모델 '시댄스(Seedance)'를 자체 AI 학습 플랫폼 '가우스(Gauth)'에 도입하며 에듀테크 시장 공략에 나섰다. 텍스트 중심의 설명을 넘어 복잡한 학습 내용을 영화 같은 AI 영상으로 제공하는 새로운 학습 서비스 'AI 코스(AI Course)'를 선보이며, 생성 AI를 교육 콘텐츠 분야로 확장하고 있다.비즈니스 인사이더에 따르면, 가우스는 개학 시즌에 맞춰 AI 코스를 4일 정식 출시한다고 밝혔다.새 서비스는 시댄스 2.5를 기반으로 제작된 AI 영상을 활용해 추상적이거나 이해하기 어려운 개",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "바이트댄스가 AI 영상 생성 모델 '시댄스'를 학습 앱 '가우스'에 도입해 영상 기반 AI 코스로 에듀테크 시장 진출을 시작했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213458_216931_2213.png",
+    "score": 6.073,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "마인드로직, AI 모델 골라쓰는 '팩트챗'으로 누적 매출 55억 달성",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213494",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-03T17:35:00+00:00",
+    "raw_excerpt": "마인드로직(공동대표 김용우, 김진욱)은 7월 말 기준 올해 누적 매출이 전년 동기 대비 1132% 성장한 54억8000만원을 달성했다고 3일 밝혔다.마인드로직은 멀티 AI 에이전트 플랫폼 '팩트챗'을 제공 중이다. 팩트챗은 챗GPT, 클로드, 제미나이 등 약 80여개의 AI 모델을 하나의 플랫폼에서 사용하도록 지원하는 솔루션이다.이번 실적은 정부부처와 대학교를 중심으로 한 공공·교육 분야의 AI 도입 확대가 주요하게 작용했다는 설명이다. 현재 지자체, 대학, 기관 등 437개 조직에서 팩트챗을 사용 중이며, 유료 이용자는 약 50만",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "마인드로직의 멀티 AI 모델 플랫폼 '팩트챗'이 공공·교육 분야 수요 증가로 올해 누적 매출 55억 달성하며 전년 대비 1132% 성장했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213494_216979_317.png",
+    "score": 6.058,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "“회사 로고 문신하면 면접 기회” 7명 영구 문신 새겼는데… 논란 일자 CEO 사과",
+    "url": "https://www.etnews.com/20260804000146",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-08-04T02:21:00+00:00",
+    "raw_excerpt": "미국의 한 인공지능(AI) 스타트업이 회사 로고를 몸에 새기는 지원자에게 면접 기회를 주는 독특한 채용 행사를 열었다가 '구직자 착취'라는 비판에 직면했다. 논란이 확산되자 최고경영자(CEO)는 결국 공식 사과했다. 30일(현지시간) 월스트리트저널(WSJ)에 따르면 기업용 AI 에이전트를 개발하는 스타트업 레몬라임(Lemonlime)은 미국 샌프란시스코에서 열린 스타트업 행사에서 이색적인 채용 프로그램을 선보였다. 회사를 이끄는 조던 지에츠 C",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "AI 스타트업이 회사 로고 문신을 조건으로 면접 기회를 제공했다가 구직자 착취 논란으로 CEO가 공식 사과했다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/08/04/news-p.v1.20260804.cd14f8ffe0ef435fb070c99ea8c10291_P1.jpg",
+    "score": 5.958,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "이파피루스, 열람과 비식별화를 하나로! '스트림닥스 7.0' 신제품 출시",
+    "url": "https://www.etnews.com/20260804000076",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-08-04T00:52:22+00:00",
+    "raw_excerpt": "문서 인공지능(AI) 전문 기업 주식회사 이파피루스(대표 김정희)는 문서 열람부터 고도화된 보안, 개인정보 비식별화까지 단 하나의 솔루션으로 완벽히 해결하는 차세대 웹 문서 뷰어 '스트림닥스(StreamDocs) 7.0'을 공식 출시했다고 4일 밝혔다. StreamDocs 7.0은 이파피루스가 글로벌 AI고객을 대상으로 런칭하여 퍼플렉시티(Perplexity.ai) 등에서 사용중인 MuPDF WebViewer와 동일한 엔진을 탑재했다. 이를 통",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "이파피루스가 문서 열람, 보안, 개인정보 비식별화를 통합한 웹 문서 뷰어 '스트림닥스 7.0'을 출시했다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/08/04/news-p.v1.20260804.e80c943b53c54f8e9ed78403d300d6c3_P1.png",
+    "score": 5.866,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "개인정보"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "국가유산청 국립문화유산연구원, '국제 문화유산 보존기술 연수' 실시",
+    "url": "https://zdnet.co.kr/view/?no=20260804110644",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-04T02:30:01+00:00",
+    "raw_excerpt": "[지디넷코리아]국가유산청 국립문화유산연구원이 전 세계 문화유산 전문가를 국내로 초청해 한국의 우수한 보존·관리 기술과 연구 성과를 전수하는 글로벌 연수 프로그램을 가동한다.국립문화유산연구원은 르완다, 우즈베키스탄, 부탄, 에콰도르, 몰디브의 문화유산 전문가 5명을 초청해 '2026 국제 문화유산 보존기술 연수(ICPC)'를 운영한다고 4일 밝혔다. 오는 10월 1일까지 60일간 진행되는 이번 ICPC는 지난 2005년부터 20년간 아시아 19개국 120명의 전문가를 양성해 온 '아시아 문화유산 보존·관리 전문가 초청연수(ACPCS)'의 참가자 범위를 전 세계로 확대한 프로그램이다.올해 처음 전 세계를 대상으로 진행된 모집에는 총 31개국이 지원했다. 연구원은 연구계획의 적합성, 활용 가능성, 국제협력 잠재력, 면접 평가 등을 종합적으로 심사해 최종 5명을 선발했다.참가자들은 고고 유적, 불교 조형물 안료 분석, 고대 목판 보존, 전통건축 보존기술, 기후변화 대응 등 각국이 당면한 주요 문화유산 보존 과제를 연구 중인 전문가들로 구성됐다.이번 연수는 참가자별 전담 멘토가 연구 전 과정을 함께하는 1대1 멘토링 방식으로 운영돼 실질적인 기술 전수와 연구를 지원한다. 또한 서울 궁궐을 비롯해 경주, 익산, 부여 등 주요 문화유산 현장을 직접 방문해 한국의 보존 및 활용 사례를 체험한다.국립문화유산연구원은 올해를 시작으로 ICPC 참여 인원",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "국가유산청 국립문화유산연구원이 전 세계 5개국 문화유산 전문가를 초청해 한국의 보존·관리 기술을 전수하는 국제 연수 프로그램을 출범했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/04/e42e0c87d24694eb19c459078eb37aae.jpg",
+    "score": 5.371,
+    "engagement": 0,
+    "matched_keywords": [
+      "활용 사례",
+      "현장"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "TokTier makes tokenization stateful for agentic serving.",
+    "url": "https://x.com/omarsar0/status/2084414040760275278",
+    "source": "X @omarsar0",
+    "source_type": "x",
+    "published_at": "2026-08-03T23:00:08+00:00",
+    "raw_excerpt": "TokTier makes tokenization stateful for agentic serving.\n\nAcross 153,951 real agent calls with a 94.1% prompt-cache hit rate, tokenization eats up to 64% of time to first token. Coding agents resubmit a long transcript after every tool result, and even a short append can shift",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "TokTier가 에이전트 서빙을 위해 상태 기반 토큰화를 구현하여 토큰화로 인한 시간 소비를 64%에서 줄일 수 있게 함.",
+    "thumbnail": "https://pbs.twimg.com/media/HO1ThdEasAA5eN-.png:large",
+    "score": 5.333,
+    "engagement": 1406,
+    "matched_keywords": [
+      "agentic"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "[AI는 지금] \"105분의 1 가격\"…딥시크, 하네스로 AI 에이전트 판 흔든다",
+    "url": "https://zdnet.co.kr/view/?no=20260804090446",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-04T01:24:56+00:00",
+    "raw_excerpt": "[지디넷코리아]중국 인공지능(AI) 기업 딥시크가 대규모언어모델(LLM)을 자율형 AI 에이전트로 전환하는 소프트웨어 개발에 나섰다. 최신 경량 모델을 앞세워 미국 기업보다 낮은 가격으로 시장을 공략하는 동시에 에이전트 실행 환경까지 확보하며 경쟁 범위를 넓히려는 움직임이다.4일 홍콩 사우스차이나모닝포스트(SCMP)에 따르면 딥시크는 현재 '딥시크 하네스' 베타 테스트에 참여할 오픈소스 프로젝트 개발자를 모집하고 있다. 딥시크 하네스팀을 이끄는 추이톈이는 지난 1일 소셜미디어를 통해 개발자 모집 계획을 공개했다.하네스는 LLM이 여러 단계로 구성된 코드를 실행하고 복잡한 작업 절차를 추론하며 외부 도구를 자율적으로 사용할 수 있도록 모델과 실행 환경을 연결하는 소프트웨어다. 모델이 이용자의 질문에 답하는 수준을 넘어 실제 업무를 수행하려면 도구 호출과 작업 순서 관리, 오류 처리 등을 담당할 하네스가 필요하다.AI 기업들이 하네스 개발에 집중하는 이유도 에이전트의 성능이 기반 모델뿐 아니라 실행 환경의 완성도에 따라 달라지기 때문이다. 앤트로픽의 코딩 에이전트 '클로드 코드'가 시장에서 호응을 얻은 뒤 주요 AI 기업의 경쟁도 모델 성능에서 에이전트 실행 체계로 확대되고 있다.딥시크는 지난 3월 추이를 영입해 하네스 전담 조직을 구성했다. 추이는 홍콩의 퀀트 트레이딩 기업 TSY캐피털 공동 창업자 출신으로, 미국 퀀트 투자사 제인스트",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "딥시크가 경량 모델과 저가형 AI 에이전트 소프트웨어 '하네스'로 미국 기업과의 가격 경쟁력 차이를 바탕으로 에이전트 시장 진출을 가속화하고 있다.",
+    "thumbnail": "https://image.zdnet.co.kr/2025/03/31/f7fabe7b61e93b97927e6cc3c6c85edd.png",
+    "score": 5.31,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "GPT-Live can listen while it speaks.",
+    "url": "https://x.com/OpenAI/status/2084378415818579975",
+    "source": "X @OpenAI",
+    "source_type": "x",
+    "published_at": "2026-08-03T20:38:34+00:00",
+    "raw_excerpt": "GPT-Live can listen while it speaks.\n\nTo make that feel natural at ChatGPT scale, we rebuilt the voice stack from client to model.\n\nThis new architecture keeps audio flowing continuously, so deeper reasoning and tool use don't interrupt the conversation.",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "GPT-Live가 음성 출력 중 사용자 음성을 동시에 인식할 수 있도록 음성 스택을 재구축해 자연스러운 대화 흐름을 구현했다.",
+    "thumbnail": "https://pbs.twimg.com/media/HO0uUesbYAAaHzK.jpg:large",
+    "score": 5.234,
+    "engagement": 263145,
+    "matched_keywords": [
+      "tool use"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Audio moves through a dedicated fast path, while deeper reasoning and tool use happen asynchronously.  ",
+    "url": "https://x.com/OpenAI/status/2084378417320141196",
+    "source": "X @OpenAI",
+    "source_type": "x",
+    "published_at": "2026-08-03T20:38:35+00:00",
+    "raw_excerpt": "Audio moves through a dedicated fast path, while deeper reasoning and tool use happen asynchronously.  \n\nWe also reduced voice-session startup from six network round trips to one.",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "OpenAI가 음성 처리를 전용 고속 경로로 처리하고 네트워크 왕복을 6회에서 1회로 줄여 음성 세션 시작 속도를 개선했다.",
+    "thumbnail": "https://pbs.twimg.com/media/HO0ubl0aMAA3H2r.png:large",
+    "score": 5.234,
+    "engagement": 50576,
+    "matched_keywords": [
+      "tool use"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "The results span sphere packing, coding theory, group theory, quantum complexity, lattice cryptography, extremal combinatorics, and more.",
+    "url": "https://x.com/OpenAI/status/2084352164156293460",
+    "source": "X @OpenAI",
+    "source_type": "x",
+    "published_at": "2026-08-03T18:54:15+00:00",
+    "raw_excerpt": "The results span sphere packing, coding theory, group theory, quantum complexity, lattice cryptography, extremal combinatorics, and more.\n\nAmong them: establishing the existence of non-sofic groups and exponential improvements to bounds on high dimensional sphere packing.",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "OpenAI의 AI가 구 채우기, 부호 이론, 양자 복잡도 등 다양한 수학 분야에서 비소픽 군의 존재 증명과 고차원 구 채우기 경계의 지수적 개선 등 획기적 결과를 도출했다.",
+    "thumbnail": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_200x200.jpg",
+    "score": 5.162,
+    "engagement": 75371,
+    "matched_keywords": [
+      "quantum"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "李대통령, 형사소송법 거부권 행사 안 한다…“경찰 비대화 후속 조치 점검”",
+    "url": "https://www.etnews.com/20260804000115",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-08-04T01:27:47+00:00",
+    "raw_excerpt": "이재명 대통령이 검찰의 보완수사권 폐지를 골자로 한 형사소송법 개정안을 두고 거부권을 행사하지 않겠다는 입장을 밝혔다. 아울러 경찰의 비대화에 대한 우려도 표시한 뒤 이를 막기 위한 후속 조치 마련을 강조했다. 이 대통령은 4일 청와대 세종실에서 열린 제34차 국무회의에서 “이 법률안(형사소송법)이 위헌·집행불능·국익 위협·행정부 고유권 침해 등 국회 입법권을 부정할 만큼 심각한 상황이라고 보기 어렵다”라고 말했다. 또한 “거부권 행사는 의견이",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "이재명 대통령이 검찰 보완수사권 폐지를 담은 형사소송법 개정안에 대해 거부권을 행사하지 않기로 결정하면서 경찰 비대화 방지 방안 마련을 강조했다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/08/04/rcv.YNA.20260804.PYH2026080404450001300_P1.jpg",
+    "score": 5.153,
+    "engagement": 0,
+    "matched_keywords": [
+      "입법"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "헬기 착륙 방해한 염소 떼…양치기 개가 길 터줬다",
+    "url": "https://www.etnews.com/20260803000324",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-08-04T01:00:00+00:00",
+    "raw_excerpt": "미국 캘리포니아주 오렌지카운티에서 한 양치기 개가 응급 구조 현장에 있던 염소 떼를 몰아내며 헬리콥터 착륙을 도와 화제가 되고 있습니다. 라구나비치 경찰국(LBPD)에 따르면 경찰과 소방대원들은 응급 상황에 대응하기 위해 헬리콥터가 착륙할 수 있도록 산길의 착륙 구역을 확보했습니다. 이 과정에서 양치기 개 한 마리가 염소 떼를 길 밖으로 몰아 구조대가 안전하게 작업할 수 있도록 도왔습니다. 경찰은 영상을 공개하며 “도움을 준 양치기 개가 염소",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "미국 캘리포니아주에서 양치기 개가 응급 구조 현장의 염소 떼를 몰아내 헬리콥터 착륙을 도와 화제가 되었다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/08/03/news-p.v1.20260803.ec9349b1c9664ad0b72f3575301485e9_P1.jpg",
+    "score": 5.124,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "한국사회복지협의회, 노사공동 윤리ㆍ인권 공동선언",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=47873",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-04T09:56:09+00:00",
+    "raw_excerpt": "[스마트타임스]한국사회복지협의회(회장 김현훈)는 지난 3일 ‘노사공동 윤리·인권 공동선언식’을 개최했다고 4일 밝혔다.협의회는 최근 인권경영시스템(HRMS) 인증을 획득한 것을 계기로 윤리·인권경영을 조직문화 전반에 정착시키고 국민에게 더욱 신뢰받는 공공기관으로 거듭나고자 이번 선언식을 마련했다.이번 행사에서 김현훈 협의회장과 서진영 한국사회복지노동조합 위원장은 공동선언문에 서명했다. 또한 모든 임직원도 윤리·인권 실천서약서에 서명하며 윤리와 인권의 가치를 일상 속에서 실천할 것을 다짐했다.공동선언문에는 ▲법과 원칙을 준수하는 공정",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "한국사회복지협의회가 인권경영시스템 인증을 획득한 후 노사 공동으로 윤리·인권 공동선언식을 열어 윤리경영 문화 정착을 다짐했다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202608/47873_46476_5540_v150.jpg",
+    "score": 5.114,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "도움을 구합니다",
+    "url": "https://news.hada.io/topic?id=32120",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-08-04T00:08:21+00:00",
+    "raw_excerpt": "무료·무보증 오픈소스에 환불, 기능 추가, Windows 지원, 라이선스 변경까지 요구하는 이용자들을 향해 유지관리자의 소진과 반감 을 냉소적으로 풀어냄 AGPLv3-or-later를 MIT로 바꾸지 않고, Claude가 대부분 작성한 대형 PR을 검토한 뒤 승인된 기여자 외에는 PR 제출을 차...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "오픈소스 유지관리자가 과도한 요구를 하는 사용자들에 대한 냉소적 태도와 라이선스 변경 거부, 엄격한 기여 정책으로 소진을 드러냈다.",
+    "thumbnail": "https://social.news.hada.io/topic/32120?v=49084f8ca7f8d63e6da901fd949561b0",
+    "score": 5.07,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Andy Pavlo, ClickHouse Labs 설립 위해 ClickHouse 합류",
+    "url": "https://news.hada.io/topic?id=32118",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-08-03T22:31:24+00:00",
+    "raw_excerpt": "Carnegie Mellon University에서 현대 DBMS 내부 구조를 연구해 온 Andy Pavlo 가 ClickHouse에 합류해 데이터베이스 연구 조직 ClickHouse Labs 를 설립하고 이끎 연구 결과를 엔지니어링 조직에 일방적으로 넘기는 연구소가 아니라, 엔지니어·고객·협력자·산업 파...",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "Carnegie Mellon University의 데이터베이스 전문가 Andy Pavlo가 ClickHouse에 합류해 연구와 엔지니어링을 통합한 ClickHouse Labs를 설립한다.",
+    "thumbnail": "https://social.news.hada.io/topic/32118?v=29ea0a336421355a75bb95b2755f3bad",
+    "score": 4.969,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "맥쿼리 \"가비아 공개매수 중요정보 모두 공시\"…얼라인 진정 정면 반박",
+    "url": "https://zdnet.co.kr/view/?no=20260804104925",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-04T02:10:15+00:00",
+    "raw_excerpt": "[지디넷코리아]맥쿼리자산운용그룹이 가비아 공개매수를 둘러싼 정보공개 논란에 대해 법적으로 공시해야 할 중요정보는 모두 공개했다며 행동주의 펀드 얼라인파트너스의 금융감독원 진정 내용을 정면 반박했다.얼라인이 추가 공개를 요구한 기업가치 전망과 종속회사 상장폐지 계획 등은 공시 의무가 없거나 오히려 자본시장법상 위법 소지가 있는 예측정보라는 입장이다.맥쿼리는 4일 가비아 공개매수 관련 반박자료를 통해 \"법상 기재가 요구되는 중요정보 가운데 공개매수신고서에 공개되지 않은 내용은 없다\"며 얼라인이 제기한 정보공개 미흡 주장을 반박했다.앞서 맥쿼리는 투자목적회사(SPC) 디씨케이인베스트먼트를 통해 가비아 최대주주 김홍국 공동대표 등 특수관계인의 지분 24.4%를 인수하는 주식매매계약(SPA)을 체결했다.이어 일반 주주가 보유한 잔여 지분 73.1%를 대상으로 주당 4만 8000원에 공개매수를 진행 중이며 거래가 성사되면 가비아를 완전자회사로 편입한 뒤 자진 상장폐지를 추진할 계획이다. 현재 가비아의 주요 주주는 김홍국 공동대표 등 특수관계인(24.4%), 미리캐피탈(24.2%), 얼라인파트너스(14.3%) 등으로 구성돼 있다.가비아는 클라우드와 인터넷데이터센터(IDC), 도메인·호스팅 서비스를 비롯해 자회사 KINX의 인터넷익스체인지(IX)와 데이터센터, 엑스게이트의 네트워크 보안 등 디지털 인프라 사업을 영위하는 기업이다. 공개매수 이후 맥",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "맥쿼리가 가비아 공개매수 관련 정보공개 논란에서 법적 공시 의무 범위 내 모든 중요정보를 공개했다며 얼라인파트너스의 진정을 반박했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2025/05/14/d5bb388925f5c5c3bcaf06ef1f8cd634.jpg",
+    "score": 4.677,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "카스퍼스키, 컨테이너 시큐리티 솔루션 신규 기능 업데이트",
+    "url": "https://zdnet.co.kr/view/?no=20260804110929",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-04T02:09:29+00:00",
+    "raw_excerpt": "[지디넷코리아]글로벌 사이버보안 기업 카스퍼스키(한국지사장 이효은)는 4일 컨테이너화된 애플리케이션의 전체 수명주기를 보호하는 보안 솔루션 '카스퍼스키 컨테이너 시큐리티(KCS)'의 신규 기능을 공개했다.카스퍼스키 컨테이너 시큐리티의 이번 업데이트는 맞춤형 보안 정책, 전체 시스템 구성의 가져오기·내보내기, 컨트롤 플레인(시스템에서 데이터가 이동하는 경로를 결정하고, 전체 상태와 정책을 관리하는 '두뇌' 영역) 클러스터에 대한 심층 감사, 깃허브 액션(저장소에서 워크플로를 자동화해 빌드·테스트·배포 같은 개발 프로세스를 코드로 관리) 설정 오류 탐지 등의 기능을 추가하는 것을 골자로 한다. 또 데브섹옵스(DevSecOps)와 규정 준수 업무를 최적화하고, 정교한 사이버 위협으로부터 컨테이너 인프라를 보호한다.컨테이너화로 개발자 생산성을 높이고 인프라 비용을 감축하며 많은 기업들이 도입하고 있지만, 사이버 공격의 규모와 복잡성이 증가하고 엄격한 규정 준수 요구사항이 더해지면서 컨테이너화를 통해 확보한 운영 속도와 효율성이 크게 저해될 수 있다. 카스퍼스키 컨테이너 시큐리티의 최신 업데이트는 컨테이너 개발의 핵심 이점을 유지하면서 기업이 새롭게 부상하는 과제에 대응할 수 있도록 설계된 것도 특징이다.카스퍼스키 컨테이너 시큐리티는 컨테이너화된 애플리케이션의 전체 수명주기를 보호하는 올인원 솔루션으로, 온프레미스 설치 환경과 격리된 네트워크",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "카스퍼스키가 컨테이너 애플리케이션 전체 수명주기 보호를 위해 맞춤형 보안 정책, 심층 감사, GitHub 액션 오류 탐지 등 신규 기능을 추가한 컨테이너 시큐리티 솔루션을 업데이트했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/04/78cbd4894c2bb83fea10664ab09728f9.png",
+    "score": 4.677,
+    "engagement": 0,
+    "matched_keywords": [
+      "생산성"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "디지털미디어산업진흥협회 신임 상근부회장에 이길욱 전 KT 상무보",
+    "url": "https://zdnet.co.kr/view/?no=20260804105827",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-04T02:05:18+00:00",
+    "raw_excerpt": "[지디넷코리아]디지털미디어산업진흥협회는 제3대 상근부회장에 전 KT 이길욱 상무보가 8월1일 선임됐다고 밝혔다.협회는 디지털미디어 산업 진흥을 위해 2010년 설립된 방송미디어통신위원회 산하 비영리 사단법인이다.이 상근부회장은 “급변하는 미디어 환경 변화에 발맞춰 방송미디어 인공지능 전환(AX)과 정부 정책 수립 지원을 통해 협회 역할을 재정립해 디지털미디어 산업을 더욱 발전시켜 나가겠다”고 말했다.",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "디지털미디어산업진흥협회가 전 KT 상무보 이길욱을 제3대 상근부회장으로 선임해 AI 전환과 정부 정책 지원을 통해 산업 발전을 추진한다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/04/caa7af43789b02b1ea9f74679574f491.jpg",
+    "score": 4.673,
+    "engagement": 0,
+    "matched_keywords": [
+      "ax"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "\"매년 신입생 40명 채워야\"…지방 AX대학원, 학생 확보 부담 커질까",
+    "url": "https://zdnet.co.kr/view/?no=20260804091733",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-04T01:28:48+00:00",
+    "raw_excerpt": "[지디넷코리아]정부가 비수도권 인공지능전환(AX)대학원에 수도권과 동일한 학생·교원 확보 기준을 적용하면서 지역 대학 현실을 충분히 반영하지 못한다는 지적이 나왔다. 이에 정부 관계자들은 대학이 사업 지원을 받기 위해선 지역 상관 없이 필수 조건을 반드시 지켜야 한다고 입장 밝혔다.4일 과학기술정보통신부와 정보통신기획평가원(IITP)은 '2026년도 인공지능혁신인재양성 사업' 2차 모집을 이날 마무리했다. 이를 통해 비수도권 AX대학원 5곳을 추가 선정한다. 올해 1차 공고에서 대학 10곳을 모집한 데 이어 선정 규모를 총 15곳으로 확대하려는 조치다.추가 선정 대학은 올해 과제당 최대 5억원을 지원받고, 2027년부터는 1차 선정 대학처럼 연간 최대 30억원씩 지원받는다. 사업 기간은 1단계 4년, 2단계 2년을 합쳐 최대 6년이다.정부는 2차 공고에서 동남권과 대경권·중부권·호남권에서 각각 1곳을 선정하고, 강원·전북·제주 가운데 1곳을 추가로 뽑을 계획이라고 밝혔다. 지역 산업과 연계한 AX 인재 양성 거점을 전국으로 확대한다는 취지다.선정 AX대학원은 특정 신입생·교원 확보 기준이 적용된다. 우선 대학은 2027년부터 매년 석·박사과정 신입생 40명 이상을 확보해야 한다. 도메인 분야와 AI 분야 전임교원도 7명 이상 갖춰야 한다. 전임교원 절반 이상은 산업 분야 전문 인력으로 구성돼야 한다.관건은 추가 선정될 비수도권 대학들",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "정부가 비수도권 AI전환대학원에 매년 신입생 40명, 전임교원 7명 이상 확보 등 수도권과 동일한 기준을 적용하면서 지역 대학들의 학생 확보 부담이 커질 우려가 제기되고 있다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/01/06/fa58506ded0cc4666737f82d8a4030e1.jpg",
+    "score": 4.638,
+    "engagement": 0,
+    "matched_keywords": [
+      "ax"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "in prep for our computer use pod, gonna store a running list of codex cua wow moments. ",
+    "url": "https://x.com/swyx/status/2084156733027701164",
+    "source": "X @swyx",
+    "source_type": "x",
+    "published_at": "2026-08-03T05:57:41+00:00",
+    "raw_excerpt": "in prep for our computer use pod, gonna store a running list of codex cua wow moments. \n\n here it is dealing with support chat for me to escalate for faster resolution\n\nthese humans have no idea they are talking to a bot\n\nsupport guy tried to say its our fault, bot replied with",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Codex가 고객 지원 채팅에서 사람을 속이며 대응하는 사례를 모아 팟캐스트 준비 중입니다.",
+    "thumbnail": "https://pbs.twimg.com/media/HOxoyptaAAApZIR.jpg:large",
+    "score": 4.623,
+    "engagement": 11973,
+    "matched_keywords": [
+      "codex"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "환각으로 생성된 SQLite 취약점에 Critical CVE가 발급됨",
+    "url": "https://news.hada.io/topic?id=32105",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-08-03T13:32:28+00:00",
+    "raw_excerpt": "새 GitHub 저장소가 공개한 SQLite 취약점 6건은 NVD와 CISA ADP에서 중요 취약점으로 분류됐지만, 검증 결과 존재하지 않는 코드와 동작 에 근거한 것으로 확인됨 공식 SQLite 버전을 Docker에서 빌드해 AddressSanitizer로 검사하자 모든 PoC가 정상 실행되거나 구문·JSON 파싱 단계...",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "AI 모델이 실제 존재하지 않는 코드를 기반으로 생성한 SQLite 취약점 6건이 Critical CVE로 등록되는 사태가 발생했으며, 검증 결과 모두 허위인 것으로 드러났다.",
+    "thumbnail": "https://social.news.hada.io/topic/32105?v=e9d9b939fe5f399060d21d47dbcde9be",
+    "score": 4.408,
+    "engagement": 0,
+    "matched_keywords": [
+      "취약점"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Native Apps Should Be Avoided Whenever Possible",
+    "url": "https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-04T01:06:36+00:00",
+    "raw_excerpt": "Article URL: https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/ Comments URL: https://news.ycombinator.com/item?id=49163286 Points: 8 # Comments: 3",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "네이티브 앱은 개발 비용, 유지보수 복잡성, 플랫폼 종속성 등의 이유로 가능한 한 피해야 한다는 주장이 제기됐습니다.",
+    "thumbnail": "",
+    "score": 2.736,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+    "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-03T17:08:46+00:00",
+    "raw_excerpt": "Article URL: https://blog.cloudflare.com/smaller-faster-safer-models/ Comments URL: https://news.ycombinator.com/item?id=49158581 Points: 155 # Comments: 40",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Cloudflare가 Kimi와 GLM 같은 소형 언어모델을 대규모로 효율적으로 운영하는 방법을 공개했습니다.",
+    "thumbnail": "https://blog.cloudflare.com/_emdash/api/media/file/01KZ1Q04GM9SA4QGPGPKWJQSJ6.png",
+    "score": 2.471,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
+    "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-03T17:02:10+00:00",
+    "raw_excerpt": "Article URL: https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase Comments URL: https://news.ycombinator.com/item?id=49158474 Points: 133 # Comments: 36",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Kermit 프로토콜 45주년을 맞아 15년 만에 새로운 C-Kermit 버전이 출시되었다.",
+    "thumbnail": "",
+    "score": 2.467,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Ten advances in mathematics and theoretical computer science",
+    "url": "https://openai.com/index/ten-advances-in-mathematics/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-03T16:27:12+00:00",
+    "raw_excerpt": "Article URL: https://openai.com/index/ten-advances-in-mathematics/ Comments URL: https://news.ycombinator.com/item?id=49157930 Points: 451 # Comments: 725",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "OpenAI가 수학과 이론 컴퓨터 과학 분야의 10대 진전을 소개하며 AI 시대의 주요 수학적 발전을 조명했습니다.",
+    "thumbnail": "",
+    "score": 2.448,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Twenty Years of Pandoc",
+    "url": "https://pandoc.org/twenty-years-of-pandoc.html",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-03T15:04:53+00:00",
+    "raw_excerpt": "Article URL: https://pandoc.org/twenty-years-of-pandoc.html Comments URL: https://news.ycombinator.com/item?id=49156750 Points: 121 # Comments: 16",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Pandoc 문서 변환 도구가 20년의 개발 역사를 기념하며 학술 및 기술 출판 생태계에서의 중요성을 재조명했다.",
+    "thumbnail": "",
+    "score": 2.402,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Devtools must be open source",
+    "url": "https://blog.exe.dev/devtools-must-be-open-source",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-03T14:15:47+00:00",
+    "raw_excerpt": "Article URL: https://blog.exe.dev/devtools-must-be-open-source Comments URL: https://news.ycombinator.com/item?id=49156111 Points: 517 # Comments: 187",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "개발자 도구의 폐쇄성이 개발 생산성과 투명성을 해치므로 오픈소스 전환이 필요하다는 주장.",
+    "thumbnail": "https://blog.exe.dev/static/og-card.png",
+    "score": 2.375,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+    "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-03T13:34:43+00:00",
+    "raw_excerpt": "Article URL: https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui Comments URL: https://news.ycombinator.com/item?id=49155629 Points: 263 # Comments: 79",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "ComfyUI가 MiniMax H3 모델의 Day-0 지원을 추가하여 공개 가중치, 네이티브 오디오, 2K 비디오 생성을 지원하기 시작했습니다.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!w-S9!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F67ff80a9-2436-4749-a553-5f6c8c77e23c_1920x1080.png",
+    "score": 2.352,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Frame selection is the whole game: notes on making LLMs watch video",
+    "url": "https://leoaido.com/how-llms-watch-video/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-03T13:28:10+00:00",
+    "raw_excerpt": "Article URL: https://leoaido.com/how-llms-watch-video/ Comments URL: https://news.ycombinator.com/item?id=49155555 Points: 16 # Comments: 4",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "LLM이 비디오를 효과적으로 처리하기 위해선 어떤 프레임을 선택할지가 핵심이라는 기술적 통찰을 다룬 글이 주목받고 있습니다.",
+    "thumbnail": "",
+    "score": 2.348,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  }
+]
