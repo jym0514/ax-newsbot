@@ -1,0 +1,812 @@
+[
+  {
+    "title": "Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously",
+    "url": "https://the-decoder.com/google-deepmind-loses-both-its-ceo-and-chief-scientist-as-demis-hassabis-and-jeff-dean-step-down-simultaneously/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-08-05T18:20:53+00:00",
+    "raw_excerpt": "Google Deepmind is overhauling its leadership as Demis Hassabis steps back from day-to-day management to become Alphabet's chief scientist and Jeff Dean leaves Google after 27 years to launch AI startup Discovery Loop. Former Deepmind CTO Koray Kavukcuoglu will take over as Google races to close the gap with its top AI rivals. The article Google Deepmind loses both its CEO and chief scientist as Demis Hassabis and Jeff Dean step down simultaneously appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Google DeepMind의 CEO 데미스 해서비스와 수석 과학자 제프 딘이 동시에 물러나며 경영진이 대폭 개편된다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/google_logo_wall-2.png",
+    "score": 6.313,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "deepmind"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "[8월5일] \"오픈AI가 무너질 것\"이라는 2년 전 예측...그 이후 무슨 일이 일어났나",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213551",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-06T07:00:00+00:00",
+    "raw_excerpt": "2024년 7월 미국의 IT 칼럼니스트 에드 지트론은 당시 AI 업계를 뒤흔든 글 하나를 공개했습니다. 제목은 '오픈AI는 어떻게 살아남을 것인가(How OpenAI Survives)'입니다.그의 주장은 현재의 오픈AI는 지속 가능한 구조가 아니며, 역사상 최대 규모의 자금 조달과 획기적인 기술 혁신이 없다면 12~24개월을 버티기 어렵다는 것이었습니다. 당시는 오픈AI가 'GPT-4o'를 내놓으며 압도적인 선두를 달리던 시절입니다. 앤트로픽의 코딩 AI도 아직 눈길을 끌지 못했으며, 구글은 여전히 선두권 경쟁과 거리가 멀었습니다.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "에드 지트론이 2년 전 오픈AI가 12~24개월 내 자금난으로 무너질 것이라 예측했으나, 현재까지 GPT-4o 등을 통해 AI 업계 선두를 유지하고 있습니다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213551_217058_410.png",
+    "score": 6.309,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "SpaceX’s ambitious compute goals could require over two million Nvidia Rubin GPUs",
+    "url": "https://the-decoder.com/spacexs-ambitious-compute-goals-could-require-over-two-million-nvidia-rubin-gpus/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-08-05T14:15:50+00:00",
+    "raw_excerpt": "SpaceX plans to more than 5x its compute capacity by the end of 2027, betting exclusively on Nvidia's Vera Rubin platform. The expansion could require well over a million new GPUs. Meanwhile, the company's AI segment posted $2.56 billion in Q2 revenue, driven mostly by leasing out its own server capacity. The article SpaceX’s ambitious compute goals could require over two million Nvidia Rubin GPUs appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "SpaceX가 2027년까지 컴퓨팅 용량을 5배 이상 확대하기 위해 엔비디아 Rubin GPU 200만 개 이상을 필요로 할 수 있어 반도체 공급망에 큰 영향을 미칠 것으로 예상된다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/SpaceX-IPO.png",
+    "score": 6.032,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "nvidia"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Anthropic is hiring an AI chip design team",
+    "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-08-05T14:13:18+00:00",
+    "raw_excerpt": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Anthropic이 자체 AI 칩 설계팀을 구성하여 Claude 모델의 성능과 효율성을 높이기 위해 하드웨어와 모델을 함께 개발하기로 결정했다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-1484622878.jpeg?resize=1200,800",
+    "score": 6.029,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Meta launches Muse Code, an AI agent for large code bases",
+    "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-08-05T21:21:28+00:00",
+    "raw_excerpt": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Meta가 대규모 코드베이스의 복잡한 작업을 처리할 수 있는 AI 에이전트 'Muse Code'를 출시했다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2235448056.jpg?resize=1200,800",
+    "score": 5.695,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+    "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-08-05T20:05:00+00:00",
+    "raw_excerpt": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Klaviyo가 창업자 Elias Torres의 에이전시를 인수하며, Torres가 CPO로 복귀해 AI 에이전트 사업을 주도한다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-05-at-8.53.41-PM.png?resize=1200,868",
+    "score": 5.607,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Google will shut down Google Assistant starting September 2026 as Gemini takes over on Android and Wear OS",
+    "url": "https://the-decoder.com/google-will-shut-down-google-assistant-starting-september-2026-as-gemini-takes-over-on-android-and-wear-os/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-08-05T17:59:38+00:00",
+    "raw_excerpt": "Google is killing Google Assistant on Android and Wear OS starting September 4, 2026. Gemini takes over as the AI-powered successor on smartphones, tablets, watches, and in cars with Android Auto. Whether a probability-based LLM can match the reliability of its deterministic predecessor for simple everyday commands will be a real test for Google's AI strategy. The article Google will shut down Google Assistant starting September 2026 as Gemini takes over on Android and Wear OS appeared first on The Decoder .",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Google이 2026년 9월부터 Android와 Wear OS에서 Google Assistant를 종료하고 Gemini로 대체한다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/04/google_gemini_optical_trick.png",
+    "score": 5.464,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+    "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-08-05T15:56:14+00:00",
+    "raw_excerpt": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Shopify는 AI 검색이 Google 트래픽을 대체하지 않으며 오히려 Q2에 AI 기반 트래픽과 주문이 전년대비 3배 증가했다고 발표했다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2023/05/ShopifyIPO2-e1683204509217.jpg?resize=1200,675",
+    "score": 5.322,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "UK's job market is splitting in two as AI demand surges while knowledge work postings crater",
+    "url": "https://the-decoder.com/uks-job-market-is-splitting-in-two-as-ai-demand-surges-while-knowledge-work-postings-crater/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-08-05T15:42:52+00:00",
+    "raw_excerpt": "AI now appears in 9.4 percent of British job postings, up from about 2 percent in 2023, according to Indeed. Overall hiring is falling in knowledge work fields such as marketing and management, but AI-related listings are rising fast. Indeed calls it a \"two-speed labor market.\" The article UK s job market is splitting in two as AI demand surges while knowledge work postings crater appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "영국 일자리 시장에서 AI 관련 채용공고는 급증하는 반면 마케팅·경영 등 지식기반 업무 채용공고는 급감하며 양극화가 심화되고 있다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/ai_worker-1200x670.png",
+    "score": 5.307,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
+    "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-08-05T15:05:00+00:00",
+    "raw_excerpt": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "TechCrunch Disrupt 2026의 'Real World AI' 무대에서 로봇, 자동화 공장, 멸종 동물 등을 통해 디지털과 물리 세계의 융합을 다룬다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/08/Real-World-AI-Promo.png?w=1200",
+    "score": 5.264,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "🔮 Seven lessons for managing AI agents",
+    "url": "https://www.exponentialview.co/p/seven-lessons-for-managing-ai-agents",
+    "source": "Exponential View (Azeem Azhar)",
+    "source_type": "substack",
+    "published_at": "2026-08-05T14:10:08+00:00",
+    "raw_excerpt": "Plus, an updated stack of 50+ AI tools we use at Exponential View",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Exponential View가 AI 에이전트 관리를 위한 7가지 교훈과 50개 이상의 AI 도구 스택을 공개했다.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!4jPK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90c29b85-48fa-451d-be05-793ab7c237a2_1280x680.png",
+    "score": 5.201,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Black Forest Labs makes FLUX 3 Video generally available and claims it beats Seedance 2.0",
+    "url": "https://the-decoder.com/black-forest-labs-makes-flux-3-video-generally-available-and-claims-it-beats-seedance-2-0/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-08-05T13:06:48+00:00",
+    "raw_excerpt": "Black Forest Labs has launched FLUX 3 Video, which generates Full HD clips up to 20 seconds long with native audio and lip-synced dialogue in more than 14 languages. It can also render typography directly in scenes. BFL's own Elo rankings put it ahead of Gemini Omni Flash and Seedance 2.0. The article Black Forest Labs makes FLUX 3 Video generally available and claims it beats Seedance 2.0 appeared first on The Decoder .",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Black Forest Labs가 FLUX 3 Video를 공개 출시했으며, 최대 20초 Full HD 영상 생성과 14개 이상 언어의 음성 및 립싱크를 지원하며 Seedance 2.0을 능가한다고 주장합니다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/flux_3_video-1200x675.png",
+    "score": 5.128,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "US appeals court allows Perplexity's AI shopping agent back on Amazon",
+    "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-08-05T10:31:42+00:00",
+    "raw_excerpt": "A US appeals court has overturned Amazon's injunction against Perplexity's AI shopping agents, ruling that it's the users who access Amazon, not the startup. It's the first federal appeals court decision on whether AI agents can lawfully act on online platforms on behalf of users, and it could reshape the entire AI agent industry. The article US appeals court allows Perplexity s AI shopping agent back on Amazon appeared first on The Decoder .",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "미국 항소법원이 아마존의 금지 조치를 취소하며 사용자가 접근하는 것이지 Perplexity가 위반하는 것 아니라고 판단, AI 에이전트 산업 전체에 영향을 미칠 선례를 제시했다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/amazon_vs_perplexity_lawsuit-1200x670.png",
+    "score": 4.951,
+    "engagement": 0,
+    "matched_keywords": [
+      "perplexity"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "D-Wave shows off its new entry in quantum computing race",
+    "url": "https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/",
+    "source": "Ars Technica",
+    "source_type": "rss",
+    "published_at": "2026-08-05T16:37:07+00:00",
+    "raw_excerpt": "Company noted for building quantum annealers now also making gate-based hardware.",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "D-Wave가 양자 어닐링에서 게이트 기반 양자컴퓨터로 사업 영역을 확장하며 양자컴퓨팅 경쟁에 본격 진출했다.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/v5-834x648.webp",
+    "score": 4.393,
+    "engagement": 0,
+    "matched_keywords": [
+      "quantum"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "미니맥스, 저작권 리스크에 오픈소스 동영상 모델 'H3' 한국·미국 제한",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213560",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-05T17:31:43+00:00",
+    "raw_excerpt": "AI를 둘러싼 저작권 분쟁에 따라 오픈소스 AI 모델도 더 이상 '누구나 자유롭게 사용하는 기술'이 아니게 됐다. 4일(현지시간) 사우스차이나모닝포스트에 따르면, 중국 미니맥스는 최신 오픈소스 동영상 모델 'H3'를 공개하면서도 미국과 유럽연합(EU), 영국, 한국에서는 모델 가중치의 자유로운 사용을 제한하는 라이선스 정책을 적용했다.생성 AI를 둘러싼 저작권 소송과 각국의 규제 불확실성이 확대되는 가운데, 오픈소스 AI 모델에도 지역별 사용 제한이 적용되는 사례다.미니맥스는 지난 4일 H3 모델의 가중치를 오픈소스로 공개했다. 가",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "미니맥스가 오픈소스 동영상 모델 'H3'를 공개하면서 저작권 리스크에 대응해 한국·미국·EU·영국에서의 자유로운 사용을 제한했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213560_217074_952.jpg",
+    "score": 4.28,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "엔젤로보틱스, 보행보조 웨어러블 로봇 베트남 시장 진출",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213581",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-05T16:55:00+00:00",
+    "raw_excerpt": "엔젤로보틱스(대표 조남민)는 보행보조 웨어러블 로봇 '엔젤슈트 H10'의 베트남 의료기기 등록을 완료하고, 현지 시장 진출을 본격화한다고 5일 밝혔다.엔젤슈트 H10은 사용자의 자세와 움직임을 실시간으로 분석해 고관절 움직임을 지원하는 보행훈련용 웨어러블 로봇이다. 베트남 '클래스 B' 의료기기 적용표준 신고 절차를 완료해 말레이시아에 이어 두 번째로 등록을 마쳤다.앞서 등록된 보행재활 로봇 '엔젤렉스 M20'과 연계해 환자 상태와 재활 단계에 따른 맞춤형 훈련이 가능하다는 설명이다.베트남 주요 국공립병원 및 재활기관을 대상으로 하",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "엔젤로보틱스가 보행보조 웨어러블 로봇 '엔젤슈트 H10'의 베트남 의료기기 등록을 완료하고 현지 시장 진출을 시작했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213581_217102_481.jpg",
+    "score": 4.246,
+    "engagement": 0,
+    "matched_keywords": [
+      "로보틱스"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "데이터 마이닝 최고 학술대회 9∼13일 제주 개최…구글·알리바바 기조강연",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213582",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-05T16:45:00+00:00",
+    "raw_excerpt": "데이터마이닝 분야의 세계적인 국제학술대회가 제주에서 열린다. 국내에서 처음 열리는 이번 대회에는 구글·알리바바·아마존·에어비앤비·마이크로소프트·애플 등 세계적 빅테크 기업을 비롯해 3500여명이 참가한다.제주도는 ACM SIGKDD 2026(Conference on Knowledge Discovery and Data Mining)이 9일부터 13일까지 제주국제컨벤션센터(ICC 제주)에서 열린다고 밝혔다.이 행사는 1947년 설립된 세계 최초의 컴퓨터과학 학술단체인 ACM(Association for Computing Machiner",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "ACM SIGKDD 2026 데이터마이닝 국제학술대회가 9~13일 제주에서 국내 최초 개최되며, 구글·알리바바 등 글로벌 빅테크 기업과 3500여명이 참가한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213582_217103_4739.png",
+    "score": 4.237,
+    "engagement": 0,
+    "matched_keywords": [
+      "빅테크"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "\"유럽에 한국 반도체 깔린다\"...퓨리오사, 스웨덴 데이터센터 사업 참여",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213566",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-05T16:08:02+00:00",
+    "raw_excerpt": "퓨리오사AI(대표 백준호)는 스웨덴 스톡홀름의 15메가와트(MW) 규모 AI 데이터센터 프로젝트에 참여하며 유럽 AI 추론 인프라 시장 공략에 나선다고 5일 밝혔다.내년 초까지 2MW 규모의 1단계 시설을 우선 가동하고, 같은 해 8MW를 추가 구축한 뒤 장기적으로 15MW까지 확대할 계획이다.퓨리오사AI는 미국 AI 인프라 기업 I/ONX HPC와 데이터센터 개발·운영 기업 벨록스(Velox)와 이번 프로젝트를 추진한다.벨록스는 데이터센터 개발과 운영을 맡는다. I/ONX HPC는 시스템 통합과 AI 플랫폼을, 퓨리오사AI는 AI",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "퓨리오사AI가 스웨덴 스톡홀름에 15MW 규모 AI 데이터센터 프로젝트에 참여해 유럽 AI 추론 인프라 시장 진출을 시작한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213566_217078_4541.jpg",
+    "score": 4.204,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "광양, 정례조회 격월제 ‘전체시무회의’로 전환…예산 다이어트 주문",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213567",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-05T16:03:58+00:00",
+    "raw_excerpt": "AI 생성 영상광양시는 매월 열던 정례조회의 명칭을 전체시무회의로 바꾸고 격월제로 전환한다고 4일 밝혔다. 박성현 광양시장은 전체 시무회의에서 시정 혁신과 재정위기 극복을 위한 공직자의 역할과 책임을 제시했다.박 시장은 '즐거운 직장 만들기'​를 강조하며 \"직원들이 활기찬 분위기에서 일할 수 있도록 소통을 더욱 강화하자\"고 말했다. 이어 \"잘 쉬는 사람이 일도 잘한다\"며 눈치 보지 않는 여름휴가 사용을 독려하고, 부서별 우수사례를 공유해 성과와 협업 중심의 조직문화를 만들어 가자고 제안했다.이어 현재 직면한 재정위기 극복을 위한 '",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "광양시가 매월 열던 정례조회를 격월제 '전체시무회의'로 전환하며 예산 절감과 함께 소통 강화 및 조직문화 개선을 추진한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213567_217087_284.jpg",
+    "score": 4.2,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "The Title Cards in Blade Runner Are Fucking Amazing",
+    "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-05T21:29:23+00:00",
+    "raw_excerpt": "Article URL: https://randsinrepose.com/archives/blade-runner-title-cards/ Comments URL: https://news.ycombinator.com/item?id=49189287 Points: 24 # Comments: 4",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Blade Runner의 타이틀 카드 디자인이 영화의 시각적 완성도를 높이는 핵심 요소로 평가받고 있습니다.",
+    "thumbnail": "https://randsinrepose.com/wp-content/uploads/2026/08/bladerunner.png",
+    "score": 4.148,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Prime Agent: A self-improving RLM agent",
+    "url": "https://www.primeintellect.ai/blog/prime-agent",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-05T21:11:57+00:00",
+    "raw_excerpt": "Article URL: https://www.primeintellect.ai/blog/prime-agent Comments URL: https://news.ycombinator.com/item?id=49189075 Points: 28 # Comments: 1",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Prime Intellect가 자체 개선 능력을 갖춘 RLM(강화학습 기반 언어 모델) 에이전트 Prime Agent를 개발했습니다.",
+    "thumbnail": "https://primeintellect.ai/blog/prime-agent/cover.png?v=prime-agent",
+    "score": 4.134,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "\"HBM 다음 주자 될 것\"...SK하이닉스, 샌디스크와 HBF 첫 표준 규격 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213562",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-05T14:34:33+00:00",
+    "raw_excerpt": "SK하이닉스는 미국 캘리포니아주에서 열린 'FMS 2026'에서 샌디스크와 차세대 스토리지 기술인 '고대역폭플래시(HBF)'의 첫 표준 규격을 공개했다고 밝혔다.HBF는 고대역폭메모리(HBM)와 솔리드스테이트드라이브(SSD) 사이의 새로운 메모리 계층이다. HBM처럼 데이터를 빠르게 주고받으면서도 낸드를 기반으로 용량을 크게 키울 수 있어 AI 추론 환경에서 대역폭과 용량 확장성을 동시에 확보할 수 있다는 설명이다.용량은 낸드 다이를 8단·16단으로 쌓는 두 가지 스택 구성 기준 최대 512기가바이트(GB)로, 대역폭은 세 등급(G",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "SK하이닉스가 샌디스크와 함께 HBM과 SSD 사이의 새로운 메모리 계층인 HBF의 첫 표준 규격을 공개하며 AI 시대 차세대 스토리지 기술 주도권을 확보했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213562_217073_749.jpg",
+    "score": 4.12,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "I'm switching my phone from Android to Linux",
+    "url": "https://runarcn.no/android-to-linux/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-05T19:50:13+00:00",
+    "raw_excerpt": "Article URL: https://runarcn.no/android-to-linux/ Comments URL: https://news.ycombinator.com/item?id=49188022 Points: 98 # Comments: 65",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "개발자가 안드로이드 스마트폰을 Linux 기반 휴대폰으로 바꾸는 시도를 하고 있다.",
+    "thumbnail": "/static/og-image.png",
+    "score": 4.066,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Sula: A Gemini protocol server written in Scryer Prolog",
+    "url": "https://sagredo.dev/projects/sula/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-05T18:52:58+00:00",
+    "raw_excerpt": "Article URL: https://sagredo.dev/projects/sula/ Comments URL: https://news.ycombinator.com/item?id=49187259 Points: 27 # Comments: 1",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Scryer Prolog으로 작성된 Gemini 프로토콜 서버 Sula가 개발되었습니다.",
+    "thumbnail": "",
+    "score": 4.018,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Zed DeltaDB",
+    "url": "https://zed.dev/deltadb",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-05T18:52:54+00:00",
+    "raw_excerpt": "Article URL: https://zed.dev/deltadb Comments URL: https://news.ycombinator.com/item?id=49187256 Points: 223 # Comments: 101",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Zed 에디터 개발사가 로컬 우선 데이터베이스 'Zed DeltaDB'를 공개했습니다.",
+    "thumbnail": "https://zed.dev/api/og?title=DeltaDB",
+    "score": 4.018,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "중기부, 오픈이노베이션 참여 기업 대상 최대 2억원 후속 자금 지원",
+    "url": "https://zdnet.co.kr/view/?no=20260805181422",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-05T09:14:22+00:00",
+    "raw_excerpt": "[지디넷코리아]중소벤처기업부(중기부)가 외부 기술･자원 등을 활용해 새로운 제품･서비스 개발하는 오픈이노베이션 참여 기업을 대상으로 사업화를 지원한다.중기부는 오픈이노베이션 참여기업을 대상으로 시장검증(PoV)과 사업화를 지원하는 '성과기업 후속지원' 사업에 참여할 스타트업을 6일부터 26일까지 모집한다고 5일 밝혔다.이번 후속지원 사업은 오픈이노베이션 사업의 협업 성과가 실제 사업화와 투자유치로 이어질 필요가 있다는 현장의 목소리를 반영해 신설됐다. 시장검증(PoV)과 사업화에 필요한 자금 및 맞춤형 프로그램을 지원해 오픈이노베이션 성과가 투자유치와 구매 계약 등 사업화 성과로 이어질 수 있도록 뒷받침하는 것이 골자다.지원 대상은 중기부 오픈이노베이션 참여기업 중 사업별 최종평가 결과가 일정 수준 이상(우수 또는 최우수)이거나 수요기업 협업 의향서를 보유한 스타트업이다.전자의 경우는 밋업을 통해 스타트업과 수요기업 매칭 및 협업을 지원한다. 후자는 후속 협업 자금을 지원한다.중기부는 이번 모집을 통해 스타트업 약 80개사를 선정할 예정이며, 선정된 기업에는 사업화 자금을 최대 2억원까지 지원할 방침이다.조경원 중기부 창업정책관은 \"오픈이노베이션의 성과가 기술검증에 머물지 않고 실제 시장검증과 구매 및 투자 등 사업화 성과로 이어지기 위해서는 후속 단계에 대한 지원이 중요하다\"며 \"성과가 검증된 스타트업과 수요기업이 협업을 이어가고 ",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "중소벤처기업부가 오픈이노베이션 참여 스타트업을 대상으로 시장검증과 사업화를 지원하기 위해 최대 2억원의 후속 자금을 지원하는 사업을 신설했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2025/08/28/8edefa766d9d506ced89d025f0e05a1a.jpg",
+    "score": 4.002,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업",
+      "벤처",
+      "투자유치",
+      "창업"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+    "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-05T17:23:25+00:00",
+    "raw_excerpt": "Article URL: https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data Comments URL: https://news.ycombinator.com/item?id=49185983 Points: 127 # Comments: 40",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Atlassian Rovo가 보안 컨트롤을 우회하여 데이터를 유출하는 취약점이 발견되었습니다.",
+    "thumbnail": "https://cdn.sanity.io/images/qbcmjtpr/production/bad3f6a2c8f1087ad9cdfbf1049fa6f293c65848-1558x1326.png",
+    "score": 3.943,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Phishers are hijacking legitimate cloud infrastructure",
+    "url": "https://securelist.com/cloud-platforms-in-phishing/120832/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-05T17:20:25+00:00",
+    "raw_excerpt": "Article URL: https://securelist.com/cloud-platforms-in-phishing/120832/ Comments URL: https://news.ycombinator.com/item?id=49185931 Points: 35 # Comments: 10",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "피싱 공격자들이 AWS, Azure 등 정상적인 클라우드 인프라를 악용하여 피싱 캠페인을 전개하고 있어 방어가 어려워지고 있다.",
+    "thumbnail": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/08/03153602/cloud_phishing-scaled-1.jpg",
+    "score": 3.941,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Celld: Self-hosted, distributed Durable Objects",
+    "url": "https://github.com/denoland/celld",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-05T16:50:06+00:00",
+    "raw_excerpt": "Article URL: https://github.com/denoland/celld Comments URL: https://news.ycombinator.com/item?id=49185430 Points: 104 # Comments: 16",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Deno에서 개발한 Celld는 분산형 Durable Objects를 자체 호스팅할 수 있게 해주는 오픈소스 프로젝트입니다.",
+    "thumbnail": "https://opengraph.githubassets.com/756bd04fec07c280f2ff4b6fa567ff9080b85b8b895f443aa3d768bc51fc3a0c/denoland/celld",
+    "score": 3.916,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Discovery Loop",
+    "url": "https://www.discoveryloop.com/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-05T16:19:44+00:00",
+    "raw_excerpt": "Article URL: https://www.discoveryloop.com/ Comments URL: https://news.ycombinator.com/item?id=49184960 Points: 479 # Comments: 296",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Discovery Loop는 과학 논문의 핵심을 빠르게 파악할 수 있는 도구로 Hacker News에서 주목받고 있습니다.",
+    "thumbnail": "",
+    "score": 3.89,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "The Valley of Webhooks",
+    "url": "https://weli.dev/blog/the-valley-of-webhooks/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-05T15:22:06+00:00",
+    "raw_excerpt": "Article URL: https://weli.dev/blog/the-valley-of-webhooks/ Comments URL: https://news.ycombinator.com/item?id=49184216 Points: 130 # Comments: 59",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Webhook 기술이 실제 프로덕션 환경에서 신뢰성과 재시도 메커니즘 부족으로 인한 문제점들을 가지고 있다는 것이 개발자 커뮤니티에서 논의되고 있습니다.",
+    "thumbnail": "",
+    "score": 3.842,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Cloudflare OS: 에이전트·앱·업무를 위한 개방형 플랫폼",
+    "url": "https://news.hada.io/topic?id=32185",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-08-05T18:38:12+00:00",
+    "raw_excerpt": "Cloudflare가 전 직원을 대상으로 운영해 온 Cloudflare OS 의 새 버전을 오픈소스로 공개해, 조직별 지식·업무 절차·내부 시스템을 활용하는 에이전트 작업 공간을 직접 배포할 수 있게 함 플랫폼은 회사가 선별한 맥락과 기술을 사용하는 에이전트 작업 공간 , 내부...",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Cloudflare가 직원용으로 운영 중이던 Cloudflare OS를 오픈소스화해 조직이 자신의 지식과 업무 절차를 활용하는 AI 에이전트 작업 공간을 직접 배포할 수 있게 했다.",
+    "thumbnail": "https://social.news.hada.io/topic/32185?v=2acb0e350bdcf76811c8b52ef8727d37",
+    "score": 3.338,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "마이크로칩·마이크론, PCIe 6세대 아키텍처 공개... AIDC 병목 해소",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21306",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-08-05T10:33:25+00:00",
+    "raw_excerpt": "마이크로칩테크놀로지가 마이크론과 손잡고 차세대 PCIe 6.0 기반 스토리지 아키텍처를 5일 공개했다. 양사는 AI와 고성능컴퓨팅(HPC), 클라우드 데이터센터가 요구하는 데이터 이동 속도를 한 단계 끌어올릴 수 있는 조합이라고 밝혔다. 마이크로칩은 자사의 PCIe 6세대 스위치 제품군 ‘스위치텍’과 마이크론의 고성능 낸드 기반 SSD ‘9650’을 결합한 엔드투엔드 PCIe Gen 6 스토리지 아키텍처를 시연했다고 발표했다. 이번 시연은 4일부터 6일까지(현지시간) 미국 캘리포니아주 산타클라라에서 열리는 메모리·스토리지 전시회 ‘",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "마이크로칩과 마이크론이 PCIe 6.0 기반 스토리지 아키텍처를 공개하며 AI·HPC 데이터센터의 병목 현상 해소를 목표로 하고 있다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202608/21306_21997_2546.jpg",
+    "score": 3.302,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "AI 에이전트가 10시간 만에 CUDA 대체 소프트웨어 만들었다",
+    "url": "https://zdnet.co.kr/view/?no=20260805205651",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-05T11:56:51+00:00",
+    "raw_excerpt": "[지디넷코리아]구글 브레인 출신 연구자 제러미 닉슨이 창업한 스타트업 인피니티가 AI 코딩 에이전트를 써서 칩 기업 디매트릭스용 소프트웨어를 약 10시간 만에 다시 만들었다. 엔비디아의 쿠다(CUDA)가 하던 역할을 대신하는 소프트웨어다. 현지 시각 8월 3일 더넥스트웹이 비즈니스인사이더 보도를 인용해 전한 내용으로, 닉슨은 엔비디아의 가장 큰 방어벽 중 하나가 무너지고 있는 증거라고 비즈니스인사이더에 말했다.쿠다는 엔비디아 GPU에서 AI 연산을 돌리기 위한 소프트웨어 묶음으로 완성까지 수년이 걸리는 프로젝트다. 미리 만들어 둔 코드와 오류를 잡는 도구를 함께 제공해 칩 수천 개가 하나의 모델을 함께 학습하도록 묶어 준다. 기업들이 쿠다에 맞춰 짜 둔 수백만 줄의 코드와 업무 절차는 다른 칩으로 옮겨 갈 때의 비용을 키우는 또 다른 방어벽이다. 아마존 내부 문서에서도 쿠다는 자체 AI 칩 도입을 가로막는 주요 장애물로 지목된 바 있다.구글과 아마존, 마이크로소프트는 수년간 자체 칩용 소프트웨어를 직접 작성해 왔고, 오픈AI와 앤트로픽은 시스템 코드를 만들어 내는 모델을 선보였다. 딥시크 창업자는 코딩 에이전트와 자체 프로그래밍 언어 덕분에 AI 소프트웨어를 만드는 일이 훨씬 쉬워졌다고 밝혔다. 알리바바 산하 T-헤드도 쿠다를 대체할 오픈소스를 내놓은 상태다.엔비디아는 추세 자체를 부정하지 않으면서, 개발자들이 해가 갈수록 쿠다 라이",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "AI 에이전트가 엔비디아의 CUDA 역할을 하는 소프트웨어를 10시간 만에 개발해 GPU 소프트웨어 생태계의 독점 구조가 흔들리고 있다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/05/ai7974b5c380bbbd5e836374981cfe6d0b.jpg",
+    "score": 3.204,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "자기 개선을 위한 하네스 엔지니어링",
+    "url": "https://news.hada.io/topic?id=32179",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-08-05T14:36:25+00:00",
+    "raw_excerpt": "재귀적 자기 개선(RSI)의 단기 경로는 모델이 직접 가중치를 고치는 것보다, 사고·도구·맥락·기억·평가를 조율하는 하네스 자체를 개선 해 더 나은 연구·배포 시스템을 만드는 방식에 가까움 하네스는 단순 프롬프트를 넘어 워크플로 자동화 , 파일 기반 영속 메모리...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "AI 모델의 직접적 가중치 수정보다 사고·도구·맥락·기억 등을 조율하는 하네스 개선을 통해 자기 개선을 추진하는 방식이 더 실질적 경로임을 제시한다.",
+    "thumbnail": "https://social.news.hada.io/topic/32179?v=c2395137d109b2b5a1d976688c8b76df",
+    "score": 3.17,
+    "engagement": 0,
+    "matched_keywords": [
+      "프롬프트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Warp Agent CLI",
+    "url": "https://news.hada.io/topic?id=32177",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-08-05T13:05:33+00:00",
+    "raw_excerpt": "Warp Terminal의 다중 모델 코딩 에이전트를 독립형 CLI 로 제공해 Ghostty, iTerm 2, VS Code, Windows·Mac 기본 터미널에서도 사용할 수 있음 tmux와 유사한 멀티플렉싱 구조 로 에이전트와 셸 사이의 PTY 연결을 관리하며, 디렉터리 변경·원격 실행·대화형 앱 제어...",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Warp Terminal의 AI 코딩 에이전트를 다양한 터미널 환경에서 사용 가능한 독립형 CLI로 제공하며, tmux 방식의 멀티플렉싱으로 셸 제어를 지원합니다.",
+    "thumbnail": "https://social.news.hada.io/topic/32177?v=44ed3daa3a2f819b18e274e21deb1e0e",
+    "score": 3.107,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "티오리, 애플에 보안 결함 지적...최신 맥OS 패치 이끌어내",
+    "url": "https://zdnet.co.kr/view/?no=20260805174859",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-05T08:48:59+00:00",
+    "raw_excerpt": "[지디넷코리아]오펜시브 사이버보안 전문기업 티오리(Theori, 대표 박세준)는 자사 AI 소스코드 보안 분석 솔루션 ‘진트 코드(Xint Code)’가 애플(Apple)의 주요 운용체계(OS, Operating system)에서 치명적인 보안 취약점을 발견, 공식 패치 반영을 이끌어냈다고 5일 밝혔다.애플이 최근 공개한 최신 iOS, iPadOS, macOS 등 전 제품군 대상 업데이트에는 티오리가 만든 '진트 코드'가 발굴해 제보한 보안 취약점 2종에 대한 보안 조치가 포함됐다. 이번 패치에서 가장 눈에 띄는 것은 취약점 평가 점수(CVSS) 9.8점(Critical)에 달하는 최고위험도 커널 취약점(CVE-2026-64775)이다.해당 취약점은 별도 사용자 조작이 없더라도(Zero-click) 특정 애플리케이션이 시스템을 예기치 않게 강제 종료시킬 수 있는 심각한 결함으로 확인됐다. 애플은 메모리 초기화 과정의 문제를 확인하고, 메모리 처리 방식을 전면 개선해 보안 위험을 해소했다.함께 조치된 'CVE-2026-64744(CVSS 5.5점)'는 특정 앱이 커널 메모리 데이터를 외부로 유출할 수 있는 취약점으로, 추가 검증 로직을 도입해 차단 조치를 완료했다. 이번 보안 패치는 ▲iOS 26.6 ▲iPadOS 26.6 ▲macOS Tahoe 26.6 (macOS Sequoia 15.7.8, Sonoma 14.8.8 포함) ▲tvO",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "티오리의 AI 보안 분석 솔루션이 애플 OS의 CVSS 9.8점 최고위험도 커널 취약점을 발견해 최신 패치 반영을 이끌어냈다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/05/c3b86d4d9b934ebdb74c608d2deef062.png",
+    "score": 3.086,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "취약점"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Show GN: llmwiki-serve – Markdown 문서를 코딩 에이전트가 찾아 읽게 해주는 로컬 서버",
+    "url": "https://news.hada.io/topic?id=32174",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-08-05T12:29:55+00:00",
+    "raw_excerpt": "안녕하세요. 코딩 에이전트가 내 Markdown 문서를 직접 찾아 읽게 해주는 llmwiki-serve 를 preview로 공개했습니다. 쓰기 어렵지 않게 만드는 것을 먼저 목표로 잡았습니다. Codex나 Claude Code를 쓰고 있다면 llmwiki-bridge marketplace plugin을 설치한 뒤 “이 wiki 폴더를 연",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "코딩 에이전트가 로컬 Markdown 문서를 자동으로 검색하고 읽을 수 있도록 해주는 llmwiki-serve가 공개됐습니다.",
+    "thumbnail": "https://social.news.hada.io/topic/32174?v=189b28762dbf488d38e0de25997e9ec9",
+    "score": 3.082,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Pi의 미니멀리즘이 경쟁력인 이유",
+    "url": "https://news.hada.io/topic?id=32171",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-08-05T10:32:43+00:00",
+    "raw_excerpt": "기본 도구 4개와 1,000토큰 미만의 시스템 프롬프트·도구 정의만 제공하고, 필요한 기능은 확장으로 더하는 최소형 코딩 하네스 를 지향함 Databricks 연구에서는 같은 모델과 추론 강도라도 하네스에 따라 작업당 비용이 2배 넘게 벌어졌으며, Pi는 턴마다 약 3배 적은 컨텍...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Pi는 최소한의 시스템 프롬프트와 기본 도구만 제공하는 미니멀 설계로 같은 모델 대비 턴당 약 3배 적은 컨텍스트 비용을 실현해 경쟁력을 확보했다.",
+    "thumbnail": "https://social.news.hada.io/topic/32171?v=7dac7fd031d398ecd646bb4f7c678979",
+    "score": 3.001,
+    "engagement": 0,
+    "matched_keywords": [
+      "프롬프트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "보안은 정말 어렵다",
+    "url": "https://news.hada.io/topic?id=32169",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-08-05T10:01:10+00:00",
+    "raw_excerpt": "Cloudflare의 신규 Wallet 서비스 는 공식 제품이지만 별도 도메인과 권한 요청 방식 때문에 정교한 동의 피싱 공격처럼 보였음 진입점인 cloudflare.pay 는 cloudflare.com 과 기술적 관계가 없고, .pay 도메인은 누구나 약 20달러",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Cloudflare의 신규 Wallet 서비스가 공식 제품임에도 별도 도메인과 권한 요청 방식으로 인해 정교한 피싱 공격으로 오인되어 보안 검증의 어려움을 드러냈다.",
+    "thumbnail": "https://social.news.hada.io/topic/32169?v=489b4dfceae4eb96a67baad25bcabe32",
+    "score": 2.979,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  }
+]
