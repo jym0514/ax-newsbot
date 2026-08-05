@@ -1508,7 +1508,10 @@
       "morning",
       "noon",
       "evening"
+    ],
+    "2026-08-06": [
+      "morning"
     ]
   },
-  "last_sent_date": "2026-08-05"
+  "last_sent_date": "2026-08-06"
 }
