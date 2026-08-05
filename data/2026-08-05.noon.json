@@ -1,0 +1,823 @@
+[
+  {
+    "title": "레드햇, AI 안전·거버넌스 자동화 오픈소스 프로젝트 '아사고' 출범",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41316",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-05T09:39:17+00:00",
+    "raw_excerpt": "레드햇(Red Hat)이 기업의 인공지능(AI) 거버넌스 정책을 실제 운영 환경에 자동으로 연결하는 오픈소스 커뮤니티 프로젝트를 출범하며 AI 안전성과 컴플라이언스 자동화에 나섰다. AI 정책 수립부터 위험 평가, 통제, 운영까지 전 과정을 자동화해 기업이 신뢰할 수 있는 AI 시스템을 보다 빠르게 구축할 수 있도록 지원한다는 전략이다.레드햇은 5일 AI 안전 및 거버넌스 자동화를 위한 오픈소스 커뮤니티 프로젝트 '아사고(asago, AI Safety And Governance Orchestration)'를 공식 출범했다고 밝혔다.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "레드햇이 AI 정책부터 위험 평가, 운영까지 전 과정을 자동화하는 오픈소스 프로젝트 '아사고'를 출범해 기업의 AI 거버넌스와 컴플라이언스를 효율화한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41316_62214_3810_v150.jpg",
+    "score": 9.498,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai safety",
+      "ai 안전",
+      "거버넌스",
+      "governance"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "LG CNS, 한국공항공사 ‘AI 마스터플랜 수립’ 사업 수주...전국 14개 공항, 단계별 로드맵 마련",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41319",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-05T10:01:34+00:00",
+    "raw_excerpt": "LG CNS(대표 현신균)가 한국공항공사의 ‘KAC AI 마스터플랜(ISMP) 수립’ 사업을 수주하며 국내 공항산업의 인공지능 전환(AX) 지원에 나선다.이번 사업은 김포, 김해, 제주 등 전국 14개 공항 운영 전반에 AI를 적용하기 위한 중장기 전략과 실행 로드맵을 수립하는 프로젝트다. 재정경제부의 ‘AI 선도기관’으로 선정된 한국공항공사는 ‘AI 혁신을 통한 미래공항 구현’을 목표로 2025년부터 총 50개의 AI 혁신 과제를 추진 중에 있다.LG CNS는 본 사업을 통해 한국공항공사의 AI 전략을 구체화하고, 마스터플랜을 수",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "LG CNS가 한국공항공사로부터 전국 14개 공항의 AI 도입을 위한 중장기 전략 수립 사업을 수주했습니다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41319_62217_120_v150.jpg",
+    "score": 7.726,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "퓨리오사AI, 스웨덴 15MW 인공지능 데이터센터 구축…유럽 AI 추론 인프라 상용화 본격",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41318",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-05T09:49:48+00:00",
+    "raw_excerpt": "인공지능(AI) 반도체 기업 퓨리오사AI(대표이사 백준호)는 미국 AI 인프라 기업 I/ONX HPC 및 데이터센터 개발·운영 기업 벨록스(Velox)와 함께 스웨덴 스톡홀름에서 추진되는 차세대 AI 데이터센터 구축 프로젝트에 참여한다고 5일 밝혔다.이번 프로젝트는 스웨덴 스톡홀름에 구축되는 15MW 규모의 AI 데이터센터로, 2027년 초 2MW 규모의 1단계 시설이 우선 가동되며 연내에 8MW가 추가 구축된다. 장기적으로는 15MW 규모까지 단계적으로 확대될 예정이다.퓨리오사AI는 1단계에서 RNGD(레니게이드) 1,800장을",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "퓨리오사AI가 스웨덴 스톡홀름에 15MW 규모 AI 데이터센터를 구축하며 2027년부터 단계적으로 가동해 유럽 AI 추론 인프라 상용화에 본격 나선다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41318_62216_4811_v150.jpg",
+    "score": 7.711,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "\"국산 NPU로 활주로·철책 지킨다\"…딥엑스, 공군 AI 경계감시체계 적용",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41317",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-05T09:44:33+00:00",
+    "raw_excerpt": "초저전력 온디바이스 인공지능(AI) 반도체 기업 딥엑스(DEEPX)는 자사 신경망처리장치(NPU)가 공군 기지 AI 경계감시체계 구축 사업에 적용된다고 5일 밝혔다. 이번 사업은 외산 GPU 중심의 AI 영상감시 체계를 100% 국산 NPU 기반으로 구현한 국방 분야 첫 사례다.이번 사업은 국방부가 추진하는 'NPU 기반 지능형 영상감시체계 시범 구축 사업'의 일환으로, 국방 부대 네트워크 인프라 구축 전문기업 케이엠넷(KMNET)과 AI 영상분석 전문기업 핀텔(Fintel)이 협력해 추진하는 사업이다. 딥엑스는 핀텔의 AI 영상분",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "딥엑스의 국산 NPU가 공군 기지 AI 경계감시체계에 적용되어 외산 GPU 중심 시스템을 100% 국산 기반으로 대체하는 국방 분야 첫 사례가 됐다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41317_62215_435_v150.jpg",
+    "score": 7.704,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "서강대 AI창의융합 학부연구소, LG전자·AIVY와 가전용 인공지능 기술 개발 착수",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41315",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-05T09:26:32+00:00",
+    "raw_excerpt": "서강대학교(총장 심종혁) AI창의융합 학부연구소가 글로벌 가전 기업인 LG전자, 그리고 기술 혁신을 주도하는 인공지능(AI) 스타트업과 손잡고 미래 가전 시장을 선도할 인공지능 기술 개발에 본격 착수했다.이번 프로젝트는 서강대학교 AI창의융합 학부연구소장인 융합교육원 하정욱 교수(공학박사)의 주도로 진행되며, LG전자 HS본부 및 서강-판교디지털혁신캠퍼스(이하 판교캠퍼스)에 위치한 AI 웨어러블 디바이스 스타트업 AIVY(에이비)와의 삼각 협업 체계로 추진된다.연구의 핵심 목표는 일상생활에서 가장 친숙한 가전제품 중 하나인 '전자레",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "서강대 AI창의융합 학부연구소가 LG전자·AIVY와 협력해 가전용 인공지능 기술 개발을 시작했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41315_62213_2617_v150.jpg",
+    "score": 7.682,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "오픈AI, 해커톤 ‘오픈AI 게임 빌더스 서울’ 개최… 코덱스로 게임 개발의 새로운 가능성 선보여",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41306",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-04T20:49:05+00:00",
+    "raw_excerpt": "오픈AI(OpenAI)가 오는 8월 31일 서울에서 코딩 에이전트인 코덱스를 활용한 게임 개발 해커톤 ‘오픈AI 게임 빌더스 서울(OpenAI Game Builders Seoul)’을 개최한다.이 행사에는 한국 MMORPG의 역사를 연 ‘바람의나라’와 ‘리니지’ 개발을 이끈 전설적인 개발자 송재경이 행사 전 과정에 참석할 예정이다. 이번 행사를 통해 오픈AI는 코덱스를 이용해 게임을 개발하고 실제 서비스로 이어지는 새로운 게임 개발 흐름을 제시할 예정이다.이번 서울 행사는 오픈AI가 코덱스를 활용한 게임 개발을 주제로 전 세계적으로",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI가 8월 31일 서울에서 AI 코딩 도구 코덱스를 활용한 게임 개발 해커톤을 개최하며 AI 기반 게임 개발의 새로운 가능성을 제시한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41306_62203_4848_v150.jpg",
+    "score": 7.635,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai",
+      "오픈ai"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "AI 데이터센터 시대 '거대한 배터리' 상용화 앞당긴다…KAIST, 전해질 생산시간 67% 단축",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41311",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-05T07:46:25+00:00",
+    "raw_excerpt": "폭발적으로 늘어나는 인공지능 데이터센터(AIDC) 시대를 뒷받침할‘거대한 배터리'의 상용화가 한층 가까워졌다. KAIST 연구진이 대용량 배터리의 핵심 소재 생산 시간을 67% 줄이는 공정 기술을 개발해 상용화의 가장 큰 생산 병목을 해결했다.KAIST(총장 배충식)는 생명화학공학과 김희탁 교수 연구팀이 대용량 에너지저장장치(ESS)의 유력 후보인 바나듐 레독스 흐름전지(VRFB)의 핵심 전해질을 빠르고 안정적으로 생산하는 공정을 개발했다고 5일 밝혔다.최근 24시간 끊임없이 가동되는 AIDC가 급증하면서 태양광과 풍력 등 재생에너",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "KAIST 연구팀이 AI 데이터센터용 대용량 배터리(바나듐 레독스 흐름전지)의 핵심 전해질 생산 시간을 67% 단축하는 공정 기술을 개발해 상용화를 앞당겼다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41311_62208_4829_v150.jpg",
+    "score": 7.557,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "GIST, 사람 피부처럼 촉각 구분하는 로봇 소재 개발",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213538",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-05T11:52:44+00:00",
+    "raw_excerpt": "광주과학기술원(GIST, 총장 임기철)은 신소재공학과 하민정 교수 연구팀이 로봇 소재가 스스로 복합적인 힘을 방향별로 구분하는 촉각 기술을 개발했다고 5일 밝혔다.해당 기술은 사람의 피부처럼 압력과 굽힘, 변형 등 로봇에 발생하는 힘의 방향을 소재로 실시간 구별해 동작을 제어하는 '폐루프 피드백'을 구현한 것이 특징이다.이번 연구 성과는 밀폐·비정형 환경 탐사 로봇, 스마트 전자 의수·의족, 원격 햅틱 인터페이스, 차세대 웨어러블 로봇 등에 활용될 것으로 기대된다는 설명이다.기존에는 여러 힘과 신호가 동시에 발생하면 서로 섞이는 간",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "GIST가 인간 피부처럼 압력·굽힘·변형을 실시간으로 구분하는 촉각 로봇 소재를 개발해 의수족·웨어러블 로봇 등에 활용될 전망이다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213538_217048_5711.jpg",
+    "score": 7.545,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "정부, 공장지붕 태양광 의무화 추진…주택 잉여전력 현금으로 정산",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213539",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-05T11:10:00+00:00",
+    "raw_excerpt": "정부가 공장지붕 태양광 설치를 의무화하고, 소규모 주택용 태양광에서 사용하고 남은 전력을 현금으로 정산하는 제도를 도입한다. 대규모 태양광발전과 생활공간의 분산형 태양광을 함께 확대해 재생에너지 설비 100기가와트(GW)를 조기에 달성하고, AI 데이터센터와 첨단산업단지에 필요한 전력을 공급한다는 구상이다.기후에너지환경부는 4일 청와대 영빈관에서 열린 대통령 주재 업무보고에서 하반기 주요 업무계획을 발표했다.정부는 간척지와 접경지역 등에 대규모 태양광 프로젝트를 추진하는 동시에 공장과 주택에 설치하는 분산형 태양광 보급을 확대한다.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "정부가 공장 지붕 태양광 의무화와 주택 태양광 잉여전력 현금 정산 제도를 추진해 재생에너지 100GW 조기 달성과 AI 데이터센터 전력 공급을 목표로 하고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213539_217050_740.jpg",
+    "score": 7.487,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "알리바바, 역대 최대 규모·최고 성능의 AI 모델 '큐웬3.8-맥스' ...완전한 오픈소스로 공개",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41304",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-04T17:07:35+00:00",
+    "raw_excerpt": "알리바바(Alibaba)가 큐웬(Qwen) 시리즈 가운데 가장 큰 규모와 최고 성능을 갖춘 플래그십 인공지능(AI) 모델인 '큐웬3.8-맥스(Qwen3.8-Max)'를 3일(현지시간) 완전한 오픈 소스로 공개했다.큐웬3.8-맥스는 총 2.4조(2.4 trillion) 개의 파라미터를 갖춘 초거대 멀티모달 파운데이션 모델로, 최대 100만 토큰의 컨텍스트 윈도우를 지원한다. 공개 당시 Arena.AI 리더보드에서 최상위권 성능을 기록했으며, Text Arena 5위, Vision Arena 2위에 올랐다. 알리바바는 이 모델이 코딩,",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "알리바바가 2.4조 파라미터 규모의 초거대 AI 모델 '큐웬3.8-맥스'를 완전한 오픈소스로 공개했으며, 최대 100만 토큰 컨텍스트를 지원하고 성능 벤치마크에서 상위권을 기록했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41304_62201_715_v150.jpg",
+    "score": 7.358,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "파운데이션 모델"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "[8월4일] 베타 테스터가 본 시리 AI의 강점은 '아이폰 이해력'…\"챗GPT 대체제는 아니다\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213507",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-05T07:00:00+00:00",
+    "raw_excerpt": "애플이 올가을 정식 출시를 앞두고 '시리 AI(Siri AI)'를 지난달 퍼블릭 베타로 공개하면서 해외 커뮤니티에는 사용 후기가 올라오고 있습니다. 초기 반응은 대체로 긍정적입니다. 특히 기존 시리가 처리하지 못했던 개인 데이터 검색과 화면 이해 기능에 대한 평가가 높습니다. 다만 이용자들이 주목하는 부분은 '챗GPT'와 같은 범용 챗봇을 넘어섰다는 점이 아니라, 기존 음성비서와 비교해 시리의 역할이 달라졌다는 점입니다.이는 사실 애플이 시리를 설계한 방식 때문입니다. 챗GPT와 경쟁하는 범용 AI라기보다, 아이폰을 가장 잘 이해하",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "애플의 신규 시리 AI는 챗GPT 대체제가 아닌 아이폰 내 개인 데이터 검색과 화면 이해에 특화된 기기 맞춤형 음성비서로 평가받고 있습니다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213507_216991_5656.png",
+    "score": 7.148,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "이스트에이드 \"국내 최초 AI 요약 '줌', 버티컬 에이전트로 진화할 것\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213514",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-05T06:00:00+00:00",
+    "raw_excerpt": "네이버와 다음을 포함한 국내 주요 포털이 대화형 AI 검색과 요약 기능을 잇달아 도입하며 'AI 포털'로 대대적인 전환에 돌입했다.이러한 격전지에서 국내 포털 최초로 'AI 1초 요약' 기능을 탑재하고, 독자 AI 모델 'K-엑사원'을 적용해 주목받는 기업이 있다.포털 '줌(zum)' 운영사인 이스트에이드의 김남현 대표를 만나 AI 검색 전환의 배경과 주요 성과, 향후 비전을 들었다.■ 포털 정체성에서 시작된 고민...국내 최초 'AI 요약' 도입 이어져이스트에이드는 타사보다 앞서 2년 전 AI 요약 기능을 시범 도입했고, 지난해",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "이스트에이드의 포털 '줌'이 국내 최초로 AI 요약 기능을 탑재하고 독자 AI 모델 'K-엑사원'을 적용해 버티컬 에이전트로 진화할 계획이다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213514_217008_25.jpg",
+    "score": 7.067,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "'삼성호암상' 2027부터 상금 5억원으로 증액...총상금 30억 원으로 확대, 수상자 예우 강화",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41314",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-05T08:59:17+00:00",
+    "raw_excerpt": "호암재단(이사장 김황식)은 내년부터 삼성호암상 수상자에게 수여하는 상금을 현행 3억 원에서 5억 원으로 대폭 증액한다고 5일 밝혔다. 이에 따라 6개 부문 총상금은 기존 18억 원에서 30억 원으로 확대된 것이다.이는 국내 최고 권위의 상으로 인정받는 삼성호암상의 위상을 더욱 제고하는 한편, 탁월한 업적을 이뤄 인류 사회 발전에 공헌한 우수 인재에 대한 지원을 한층 더 강화하는 차원의 결정으로 증액된 상금은 삼성 창업주 호암 이병철 선생 서거 40주기가 되는 2027년 제37회 시상부터 적용될 예정이다.삼성호암상은 최근 수상자들이",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "삼성호암상이 2027년부터 개별 상금을 3억원에서 5억원으로 늘려 총상금 30억원 규모로 확대, 국내 최고 권위 상으로서 위상을 강화한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41314_62212_5538_v150.jpg",
+    "score": 6.748,
+    "engagement": 0,
+    "matched_keywords": [
+      "창업"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "아이티센클로잇, 구글클라우드 AI 인증 2종 획득…AX 사업 확대",
+    "url": "https://zdnet.co.kr/view/?no=20260805101513",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-05T01:23:10+00:00",
+    "raw_excerpt": "[지디넷코리아]아이티센클로잇이 구글클라우드의 최상위 AI 기술 인증을 확보하며 인공지능 전환(AX) 사업 확대에 나선다. 생성형 AI와 AI 에이전트 구축 등 맞춤형 거대언어모델(LLM)부터 엔터프라이즈 AI 구축까지 사업 경쟁력을 강화한다는 목표다.아이티센클로잇은 구글클라우드로부터 'AI 컴피턴시'와 '제미나이 엔터프라이즈 컴피턴시'를 동시에 획득했다고 5일 밝혔다.구글클라우드 컴피턴시는 특정 기술 분야에서 전문성과 프로젝트 수행 역량을 공식 인증하는 최상위 기술 인증 프로그램이다.아이티센클로잇은 구글클라우드 최고 등급인 '프리미어 파트너'에 이어 AI 분야 인증까지 확보하며 엔터프라이즈 AI와 생성형 AI 기술 경쟁력을 입증했다고 설명했다.AI 컴피턴시는 머신러닝(ML)과 AI 아키텍처 설계, '버텍스 AI' 활용, 데이터 엔지니어링 등에서 기술 기준을 충족한 파트너에게 부여된다. 기업별 요구사항에 맞춘 AI 솔루션 설계와 구축 역량을 인정받은 것으로 평가된다.제미나이 엔터프라이즈 컴피턴시는 구글의 생성형 AI 플랫폼 제미나이 엔터프라이즈에 대한 기술 전문성과 고객 구축 사례를 검증하는 인증이다. 기업 생산성 향상과 업무 자동화, 맞춤형 AI 에이전트 구현 등 실질적인 AI 전환 역량을 갖춘 파트너에게 부여된다.아이티센클로잇은 그동안 공공·금융·제조 등 다양한 산업에서 축적한 클라우드와 데이터 기술을 바탕으로 기업의 AI 도입 과",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "아이티센클로잇이 구글클라우드의 AI 컴피턴시와 제미나이 엔터프라이즈 컴피턴시를 동시 획득해 엔터프라이즈 AI 및 생성형 AI 기술 경쟁력을 인증받았다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/05/5b71f118fa5c2cf173f4bb50f8551ca1.jpg",
+    "score": 6.658,
+    "engagement": 0,
+    "matched_keywords": [
+      "업무 자동화",
+      "생산성",
+      "ax",
+      "ai 도입"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "디노티시아, FMS 2026서 어워드 수상... VDPU도 첫 공개",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21307",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-08-05T10:47:07+00:00",
+    "raw_excerpt": "디노티시아가 글로벌 메모리·스토리지 업계의 대표 무대에서 기술력을 인정받았다. 자사 AI 스토리지 솔루션 ‘씨홀스 AI 스토리지’가 미국 산타클라라에서 열린 ‘FMS(Future of Memory and Storage) 2026’에서 AI 어플리케이션 어워드를 수상했다고 5일 밝혔다. 디노티시아는 4일부터 6일까지(현지시간) 열리는 이번 행사에서 FMS 베스트 오브 쇼 어워드의 AI 어플리케이션 어워드를 받은 데 더해 기업의 성장성과 기술 사업화 역량을 평가하는 스타트업 비즈니스 그로스 어워드 부문 최종 후보에도 이름을 올렸다. 올",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "디노티시아의 AI 스토리지 솔루션 '씨홀스'가 FMS 2026에서 AI 어플리케이션 어워드를 수상하며 글로벌 시장에서 기술력을 인정받았다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202608/21307_21998_3759.jpg",
+    "score": 6.309,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "마이크로칩, 마이크론과 'PCIe Gen 6 스토리지 아키텍처' 시연",
+    "url": "https://zdnet.co.kr/view/?no=20260805101915",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-05T01:26:39+00:00",
+    "raw_excerpt": "[지디넷코리아]반도체 기업 마이크로칩이 마이크론과 협력해 차세대 스토리지 솔루션을 공개한다.마이크로칩테크놀로지는 'Switchtec PCIe Gen 6' 스위치 제품군과 '마이크론 9650 NVMe SSD'를 결합한 엔드투엔드 PCIe Gen 6 스토리지 아키텍처를 시연한다고 5일 밝혔다.이번 시연은 이달 4일부터 6일까지 미국 산타클라라에서 열리는 'FMS2026(Future of Memory and Storage 2026)'에서 진행된다. 마이크로칩의 Switchtec Gen 6 PCIe 스위치가 호스트 프로세서와 마이크론 9650 SSD를 연결하는 인터커넥트로 작동해 높은 대역폭을 제공하는 방식이다.PCIe 6.0 기술은 레인당 64 GT/s(초당 기가트랜스퍼)의 전송 속도를 지원한다. 이는 기존 PCIe 5.0 대비 대역폭이 2배 증가한 수준으로, 대규모 데이터 전송이 필요한 AI 및 고성능 컴퓨팅(HPC) 워크로드 처리에 적합하다.마이크로칩의 Switchtec Gen 6 PCIe 스위치는 3nm(나노미터, 10억분의 1m) 공정 기술로 제조된다. 멀티캐스트 기능과 고급 오류 격리 기능, 양자내성암호 알고리즘 기반 보안 기능을 탑재했다.브라이언 맥카슨 마이크로칩 부사장은 \"마이크론과의 협력은 양사의 강점을 결합한 사례\"라며 \"고대역폭 아키텍처 구현을 지원할 것\"이라고 말했다.래리 하트 마이크론 수석 디렉터는 \"이번 조합은 스토",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "마이크로칩이 마이크론과 협력해 PCIe Gen 6 스위치와 NVMe SSD를 결합한 차세대 스토리지 아키텍처를 시연하며, 이는 AI·HPC 워크로드 처리에 필요한 고대역폭을 제공한다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/05/42c71ee0cc9caafc682ba9cb378d191f.jpg",
+    "score": 5.986,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "양자",
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "The UK’s ",
+    "url": "https://t.co/cJ3hCBtBU7",
+    "source": "X @AnthropicAI",
+    "source_type": "x",
+    "published_at": "2026-08-04T21:07:37+00:00",
+    "raw_excerpt": "The UK’s \n@AISecurityInst\n (AISI) has published a report on their recent cybersecurity evaluation of Anthropic’s Claude Mythos 5 and OpenAI’s GPT-5.6 Sol. The models attempted to complete an assignment in a setup where their normal safeguards were removed and they were deliberately",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "영국 AI보안연구소가 Anthropic의 Claude와 OpenAI의 GPT 모델의 사이버보안 평가 결과를 발표했습니다.",
+    "thumbnail": "",
+    "score": 5.755,
+    "engagement": 179599,
+    "matched_keywords": [
+      "claude",
+      "gpt-5"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Routing for long-horizon coding agents is a big deal.",
+    "url": "https://x.com/omarsar0/status/2084681771694600294",
+    "source": "X @omarsar0",
+    "source_type": "x",
+    "published_at": "2026-08-04T16:44:00+00:00",
+    "raw_excerpt": "Routing for long-horizon coding agents is a big deal.\n\n\n@notdiamond_ai\n just announced a model router that works natively with Claude Code. This is huge. \n\nIt picks the model and reasoning effort before each turn in a session, runs through a privacy-preserving local proxy, and your",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Claude Code와 네이티브로 작동하는 모델 라우터가 장기 코딩 작업에서 각 단계마다 최적의 모델과 추론 수준을 자동 선택함으로써 효율성을 높일 수 있게 되었다.",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2084679438252249088/img/kyP9nwetBwO8X_XP.jpg",
+    "score": 5.571,
+    "engagement": 6782,
+    "matched_keywords": [
+      "claude",
+      "claude code"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "you can now make 10 minute editorial explainer videos with Higgsfield",
+    "url": "https://t.co/Y4WJT4tXpa",
+    "source": "X @axultan",
+    "source_type": "x",
+    "published_at": "2026-08-04T14:38:33+00:00",
+    "raw_excerpt": "you can now make 10 minute editorial explainer videos with Higgsfield\n\nresearch, generation, voiceover, and subtitles are all built into the skill\n\nit works in Claude and ChatGPT, and natively in Supercomputer (with free LLM)\n\ntry it here: \nhttps://\nhiggsfield.ai/skills/editori\nal-motion-graphics\n…",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Higgsfield가 Claude와 ChatGPT에서 연구·생성·음성·자막을 통합해 10분 분량의 편집 설명 영상을 자동 제작하는 기능을 출시했다.",
+    "thumbnail": "",
+    "score": 5.484,
+    "engagement": 53850,
+    "matched_keywords": [
+      "claude",
+      "chatgpt"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "카카오페이, 상반기 순익 843억…스테이블코인 발행·유통 투트랙 시동",
+    "url": "https://byline.network/2026/08/0804-5/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-08-04T22:41:31+00:00",
+    "raw_excerpt": "카카오페이가 상반기 당기순이익 843억원을 기록하며 실적 성장세를 이어갔다. 회사는 원화스테이블코인 사업을 새로운 성장동력으로 삼고 발행 인프라 구축과 유통 사업을 본격 준비하겠다는 청사진도 제시했다.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "카카오페이가 상반기 순익 843억원을 기록하며 원화스테이블코인 발행 및 유통사업을 새로운 성장동력으로 추진한다.",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/08/kakaopay-1.jpg",
+    "score": 5.478,
+    "engagement": 0,
+    "matched_keywords": [
+      "스테이블코인"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "early sparks of rsi?",
+    "url": "https://t.co/1nX7Uh9omt",
+    "source": "X @theagipost",
+    "source_type": "x",
+    "published_at": "2026-08-04T22:22:50+00:00",
+    "raw_excerpt": "early sparks of rsi?\n\nAli Taha \n@waterloo_intern\n explains how \nhttp://\nZ.ai's GLM-5.2 (\n@Zai_org\n) profiled its SGLang serving path and rewrote bottlenecked GPU kernels, \n\n(still lacks reliable judgment)\n\ngreat conversation \n@swyx\n and \n@vibhuuuus",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "Zhipu의 GLM-5.2가 SGLang 서빙 경로를 최적화하고 GPU 커널을 개선해 추론 속도 향상(RSI)의 초기 신호를 보이고 있습니다.",
+    "thumbnail": "",
+    "score": 5.307,
+    "engagement": 1752,
+    "matched_keywords": [
+      "gpu"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "지니언스, 올해 상반기 창사 최대 실적 달성…영업익 294%↑",
+    "url": "https://zdnet.co.kr/view/?no=20260805094442",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-05T00:44:42+00:00",
+    "raw_excerpt": "[지디넷코리아]사이버보안 전문 기업 지니언스(대표 이동범)가 올해 상반기 창사 이래 최대 실적을 거뒀다. 엔드포인트 탐지 및 대응(EDR) 및 통합 보안 솔루션 수요가 크게 늘어난 영향이다.지니언스는 올해 상반기 연결 기준 매출액 249억2400만원, 영업이익 43억1100만원을 기록했다고 5일 밝혔다. 이는 전년 동기 대비 매출액은 약 20%, 영업이익은 294% 증가한 수치다.기존 핵심 솔루션인 네트워크 접근 관리(NAC), 위협 탐지 및 대응(MDR) 등 서비스형 비즈니스 매출이 크게 늘었고, 지난해 잇단 해킹 사고의 여파로 EDR 수요도 늘어나면서 호실적을 견인했다. 뿐만 아니라 올해 초 출시한 세대 간 망분리 솔루션 '지니안 홈'도 수도권 대단지 아파트를 첫 고객으로 확보했다. 주력 제품과 신제품 호조세가 맞물리며 상반기 실적을 이끌었다.특히 NAC는 중소·중견기업 매출이 2배 이상 늘었고, EDR 부문은 7년 연속 공공 조달 시장 1위를 달성했다. 클라우드 NAC 고객 수는 전년 동기 대비 26% 증가한 299개사를 돌파했다. 보안 전문 인력이 부족한 기업을 타깃으로 한 MDR 서비스 고객사는 전년 대비 2배 이상 증가했다. 지니언스는 보안 기업 특성상 하반기에 매출이 쏠리는 만큼 하반기 실적 역시 밝게 전망하고 있다.해외 사업도 성공적이다. 글로벌 비즈니스 또한 중동 매출이 50% 이상 증가했으며 해외 누적 고객사 200",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "지니언스가 상반기 매출 249억원, 영업이익 43억원으로 창사 최대 실적을 기록했으며, 특히 EDR 등 보안솔루션 수요 증가와 신제품 호조로 영업익이 전년비 294% 증가했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/05/3f0f26e8f942e1f915f5429bc418484c.png",
+    "score": 5.272,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "해킹"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "한병도 “부동산 세제 정상화”…형소법 우려엔 “피해자 권리 TF 구성”",
+    "url": "https://www.etnews.com/20260805000137",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-08-05T02:13:33+00:00",
+    "raw_excerpt": "더불어민주당은 5일 부동산 세제 개편을 '세제 정상화'로 규정하며 실수요자 보호와 주택 공급 확대를 병행하겠다고 밝혔다. 전날 국무회의를 통과한 형사소송법 개정안과 관련해서는 범죄 피해자 보호를 위한 후속 입법을 추진하겠다고 강조했다. 한병도 대표 직무대행 겸 원내대표는 이날 국회에서 열린 최고위원회의에서 “이번 부동산 세제 개편은 인위적인 집값 통제를 위한 단편적인 대책이 아니라 실수요자를 보호하고 왜곡된 과세 구조를 바로잡는 공정하고 합리적",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "더불어민주당이 부동산 세제 개편을 '정상화'로 규정하며 실수요자 보호와 주택 공급 확대를 추진하고, 형소법 개정안 시행 시 범죄 피해자 보호를 위한 후속 입법을 추진하겠다고 밝혔다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/08/05/rcv.YNA.20260805.PYH2026080503160001300_P1.jpg",
+    "score": 5.2,
+    "engagement": 0,
+    "matched_keywords": [
+      "입법"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "김은혜, 1주택자 보유세 양도세 공제법 발의…“'양도세 폭탄' 막는다”",
+    "url": "https://www.etnews.com/20260805000083",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-08-05T01:13:25+00:00",
+    "raw_excerpt": "1주택자의 보유기간 동안 납부한 재산세와 종합부동산세를 양도소득세 산정 시 필요경비에 포함하도록 하는 법안이 추진된다. 이재명 정부의 양도소득세 개편으로 세 부담이 급증할 것으로 예상되는 실수요자를 보호하기 위한 취지다. 김은혜 국민의힘 의원(경기 분당을)은 1주택자가 주택을 양도할 때 보유기간 동안 납부한 재산세와 종합부동산세를 양도소득 산정 시 필요경비로 인정해 공제받을 수 있도록 하는 내용을 담은 '소득세법 일부개정법률안'을 대표 발의했다",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "김은혜 의원이 1주택자의 보유 기간 재산세·종합부동산세를 양도소득세 필요경비로 공제하는 법안을 발의해 실수요자의 양도세 부담 완화를 추진 중이다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/08/04/rcv.YNA.20260804.PYH2026080410930001300_P1.jpg",
+    "score": 5.138,
+    "engagement": 0,
+    "matched_keywords": [
+      "법안"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Bending Spoons, Airtable을 12억 8000만 달러에 인수",
+    "url": "https://news.hada.io/topic?id=32161",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-08-05T01:04:19+00:00",
+    "raw_excerpt": "7월에 상장한 Bending Spoons(기업가치 180억 달러)가 Airtable을 인수하기로 합의 IPO 이후 첫 인수합병으로, 인수가는 현금 12억 8000만 달러 Bending Spoons가 추산한 에어테이블의 기업가치는 약 22억 5000만 달러 Airtable은 지금까지 14억 달러 이상을 투자유치 호황...",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Bending Spoons이 7월 상장 이후 첫 인수합병으로 노코드 플랫폼 Airtable을 12억 8000만 달러에 인수하기로 합의했다.",
+    "thumbnail": "https://social.news.hada.io/topic/32161?v=e57c331b8ebd238fd6fe54dc5f9e24eb",
+    "score": 5.128,
+    "engagement": 0,
+    "matched_keywords": [
+      "투자유치"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "호남권 반도체 유례없는 '속도전'…정부·지자체·기관·기업 원팀으로 '2030년 6월 양산' 목표",
+    "url": "https://www.etnews.com/20260804000353",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-08-05T00:30:00+00:00",
+    "raw_excerpt": "광주 군공항 부지에 들어설 800조원 규모의 호남권 반도체 클러스터 조성 사업이 유례 없이 빠른 속도로 이뤄지고 있다. 청와대와 정부 부처, 지방자치단체, 관련 기관·기업들이 원팀을 구성해 반도체 국가산업단지 개발계획과 제반 여건 구축 절차를 동시에 밟아나가면서 호남권 반도체 클러스터 조성사업이 파격적인 속도전으로 추진되고 있다. 전남광주통합특별시(광주특별시)가 목표로 잡은 '2030년 6월 반도체 양산 달성'이 가능할 것이라는 전망이 나오는",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "호남권 반도체 클러스터 조성사업이 정부·지자체·기관·기업이 원팀으로 추진하며 2030년 6월 양산 목표를 향해 유례없는 속도로 진행 중이다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/08/04/news-p.v1.20260804.b56d9a4af32046509b9cf89ca171eec1_P1.jpg",
+    "score": 5.093,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "펍지 IP 신작 뜬다…크래프톤, 게임스컴 출품작 5종 정보 공개",
+    "url": "https://zdnet.co.kr/view/?no=20260805100055",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-05T01:30:01+00:00",
+    "raw_excerpt": "[지디넷코리아]크래프톤이 유럽 최대 게임쇼 '게임스컴 2026'에 참가해 미공개 신작을 포함한 5종의 다채로운 글로벌 라인업을 선보이며 해외 시장 공략에 속도를 낸다.크래프톤은 독일 쾰른에서 열리는 세계 최대 게임쇼 '게임스컴 2026'에서 선보일 출품작의 주요 정보를 공개했다고 5일 밝혔다. 올해 게임스컴은 오는 8월 26일부터 30일까지 운영된다.이번 출품작은 펍지 스튜디오의 미공개 신작을 비롯해 'NO LAW', '프로젝트 제타', '에이지 트위스터', '타래: 언바운드' 등 총 5종이다.펍지 스튜디오의 미공개 신작은 PUBG IP를 계승한 액션 중심 FPS로, 태평양 북서부를 배경으로 매번 새로운 이야기를 창출한다. 'NO LAW'는 사이버 누아르 항구 도시를 배경으로 한 이머시브 오픈월드 FPS RPG로, 주인공의 선택에 따라 임무가 달라지는 것이 특징이다.'프로젝트 제타'는 3인씩 구성된 4개 팀이 전장의 자원 '프리즘'을 두고 경쟁하는 멀티팀 택티컬 아레나(MTA) 게임이다. 이용자는 역할군별 히어로를 선택해 팀워크와 전략 중심의 전투를 펼치게 된다.2인 협동 어드벤처 '에이지 트위스터'는 근미래 바르셀로나를 배경으로 신비한 팔찌로 나이를 변경해 퍼즐을 푸는 방식을 도입했다. '타래: 언바운드'는 육도윤회 기반의 동양 다크 판타지 액션 RPG로, 여섯 클래스 중 하나를 선택해 요괴와 귀신이 공존하는 세계를 모험한다.",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "크래프톤이 게임스컴 2026에서 PUBG IP 신작 FPS를 포함한 5종 신작을 공개하며 글로벌 시장 확대에 나선다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/05/9780c7c0e9e1c4ba08039e340872f135.jpg",
+    "score": 4.64,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "조이시티, 신작 '프리스타일 풋볼 2' 9월 4일 프라임 OBT 실시",
+    "url": "https://zdnet.co.kr/view/?no=20260805095339",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-05T01:15:02+00:00",
+    "raw_excerpt": "[지디넷코리아]조이시티가 신작 '프리스타일 풋볼2'의 글로벌 테스트와 북미 대형 게임쇼 참가를 연달아 추진하며 정식 출시를 위한 본격적인 막바지 담금질에 돌입한다.조이시티는 자회사 우레가 개발 중인 차세대 축구 게임 '프리스타일 풋볼2'의 프라임 오픈 베타 테스트(OBT)를 실시한다고 5일 밝혔다.이번 테스트는 정식 출시를 앞두고 진행하는 최종 점검으로, 한국 시간 기준 다음 달 4일부터 8일까지 이어진다. 스팀 등 PC 플랫폼과 엑스박스, 플레이스테이션 콘솔 기기 간의 크로스플레이 환경을 중점적으로 확인한다.테스트 참가를 희망하는 이용자는 공식 홈페이지를 통해 사전 신청할 수 있다.조이시티는 이번 테스트 기간에 맞춰 북미 대형 게임쇼인 '팍스 웨스트 2026'에도 참가한다. 현장을 찾는 글로벌 게이머에게 시연 기회를 제공해 온라인 테스트와의 시너지를 높이고 글로벌 시장 입지를 다질 계획이다.김명수 우레 대표(개발 총괄 PD)는 \"이번 크로스플레이 최종 점검을 통해 게임 완성도를 올리고, 팍스 웨스트 참가를 통해 글로벌 게이머들에게 프리스타일 풋볼 2만의 차별화된 재미를 알릴 수 있도록 노력하겠다\"고 전했다.한편 '프리스타일 풋볼2'는 스포츠 게임 '프리스타일' 시리즈 원작 개발진이 다시 뭉쳐 제작 중인 신작이다. 사실적인 그래픽에 아케이드 게임 특유의 경쾌한 재미를 결합한 것이 특징이다.",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "조이시티의 자회사 우레가 개발 중인 축구 게임 '프리스타일 풋볼2'가 9월 4일부터 프라임 OBT를 실시하며 PC와 콘솔 간 크로스플레이를 중점 검증한다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/05/afbd6a6a3b10e6650289c8a33b59f0d6.jpg",
+    "score": 4.626,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "이노그리드, 킨텍스 클라우드 인프라 안정성 높인다…이중화 체계 강화",
+    "url": "https://zdnet.co.kr/view/?no=20260805100046",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-05T01:14:33+00:00",
+    "raw_excerpt": "[지디넷코리아]이노그리드가 킨텍스 클라우드 인프라의 스토리지와 데이터베이스관리시스템(DBMS) 이중화 구축에 앞장선다. 클라우드 가상화 환경과 데이터 저장·보호 체계를 통합해 장애 발생 시에도 안정적으로 서비스를 운영할 수 있는 고가용성 인프라를 구현한다는 목표다.이노그리드는 '킨텍스 통합 스토리지 및 DBMS 이중화 구축 사업'을 수주했다고 5일 밝혔다.이번 사업은 클라우드 전용 스토리지와 DBMS를 이중화해 장애 대응 체계를 강화하는 프로젝트다.앞서 킨텍스는 전산 인프라 구축 과정에서 VM웨어와 레드햇 계열 솔루션 등 외산 대안을 검토한 뒤 이노그리드의 클라우드 가상화 솔루션을 도입해 전체 서비스를 클라우드 환경으로 전환했다.이번 사업은 기존 클라우드 가상화 환경 위에 스토리지와 DBMS의 고가용성 구조를 추가해 인프라 전반의 안정성을 높이는 데 중점을 뒀다.이노그리드는 운영 서버와 대기 서버를 연결한 '액티브-스탠바이' 구조를 적용하고 데이터 복제·동기화 체계를 구축해 장애 발생 시 대기 시스템으로 신속하게 전환할 수 있도록 지원할 계획이다.또 클라우드 전용 스토리지와 오라클 DB 저장소도 이중화한다. 특정 저장소에 장애가 발생하더라도 대체 자원을 활용할 수 있도록 구성해 주요 서비스 영향을 최소화하고 데이터 유실 위험을 줄인다는 구상이다.데이터 보호 체계도 함께 강화한다. 통합 DBMS에 저장된 개인정보와 주요 정보를 암호화하",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "이노그리드가 킨텍스 클라우드 인프라에 스토리지와 DBMS 이중화 체계를 구축해 장애 발생 시에도 서비스를 안정적으로 운영할 수 있는 고가용성 인프라를 구현한다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/05/665959ab021b5593970afd3171a4a970.png",
+    "score": 4.625,
+    "engagement": 0,
+    "matched_keywords": [
+      "개인정보"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "[유미's 픽] 밀린 'z17' 계약 돌아오나…IBM, 3분기 실적·주가 반등 '기대'",
+    "url": "https://zdnet.co.kr/view/?no=20260804172542",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-05T00:58:50+00:00",
+    "raw_excerpt": "[지디넷코리아]IBM이 차세대 메인프레임 'z17' 대형 계약 지연으로 부진했던 2분기 실적을 딛고 3분기 반등에 나선다. 기업들이 서버와 스토리지, 메모리 확보를 우선하며 뒤로 미룬 'z17' 계약이 3분기에 집중될 가능성이 커 메인프레임과 연계 소프트웨어 매출이 함께 회복될지 관심이 쏠린다.5일 업계에 따르면 IBM은 올해 3분기 동안 'z17' 판매 확대와 2분기에서 넘어온 대형 계약 체결에 주력하고 있다. 고객들이 서버와 스토리지, 메모리 구매를 우선하면서 당시 마무리하지 못한 계약의 체결 시점이 뒤로 밀렸다는 판단에서다.이처럼 올해 2분기에 z17 대형 계약이 잇따라 밀리면서 인프라와 연계 소프트웨어 실적도 함께 둔화됐다. IBM의 2분기 매출은 전년 동기보다 1% 증가한 172억 달러를 기록했다. 소프트웨어 매출은 5% 늘었지만, 인프라 매출은 7% 감소했다. 조정 주당순이익은 2.93달러로 5% 증가했으나 시장 예상에는 미치지 못했다.실적 부진 요인으로는 Z 메인프레임 판매 감소가 크게 작용했다. IBM Z 매출은 전년 동기보다 42% 줄었고 메인프레임과 연계된 트랜잭션 처리 소프트웨어 매출도 9% 감소했다. 고객들이 6월 말 공급 부족과 가격 상승에 대비해 서버와 스토리지, 메모리 구매를 앞당기면서 z17 계약과 관련 소프트웨어 도입이 뒤로 밀린 탓이다.반면 같은 기간 동안 분산형 인프라 매출은 37% 증가했다. 고객들",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "IBM이 2분기 z17 메인프레임 계약 지연으로 부진했으나 3분기 계약 집중으로 실적 반등을 기대하고 있습니다.",
+    "thumbnail": "https://image.zdnet.co.kr/2022/12/14/db02c24be6f3c0b3d524f863c0bff26d.jpg",
+    "score": 4.61,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "[영상] 구글 '픽셀11 프로 폴드' 디자인 공개…뭐가 달라졌나",
+    "url": "https://zdnet.co.kr/view/?no=20260805083201",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-05T00:56:28+00:00",
+    "raw_excerpt": "[지디넷코리아]구글이 오는 12일(현지시간) 공개할 예정인 차세대 폴더블폰 '픽셀11 프로 폴드'의 공식 티저 영상이 공개됐다고 폰아레나 등 외신이 보도했다.공개된 티저 영상에서는 픽셀11 프로 폴드의 전체적인 디자인과 일부 내부 화면, 후면 디자인을 확인할 수 있다. 제품은 지금까지 알려진 유출 정보와 거의 일치하는 얇고 세련된 디자인을 갖춘 것으로 보인다.이달 초 IT 팁스터 에반 블라스가 공개한 렌더링 이미지에서도 후면 카메라 모듈과 후면 패널, 금속 프레임은 물론 카메라 모듈에 새롭게 추가된 것으로 알려진 '픽셀 글로우(Pixel Glow) LED'까지 확인됐다. 전체적인 디자인은 전작인 픽셀10 프로 폴드와 유사하지만 일부 변화가 적용될 것으로 예상된다.가장 큰 변화는 후면 카메라 디자인이다. 렌즈 주변 금속 테두리가 이전보다 간결해질 것으로 예상되며, 후면 카메라 좌측 상단에는 LED 알림 시스템인 '픽셀 글로우 LED'가 새롭게 탑재될 전망이다. 구체적인 기능은 아직 공개되지 않았지만, 업계에서는 LED 플래시 내부에 새로운 알림 기능이 추가될 것으로 보고 있다. 이를 통해 화면이 아래를 향한 상태로 놓아도 LED 점등만으로 알림을 확인할 수 있을 것으로 예상된다.하드웨어도 업그레이드될 전망이다. 픽셀11 프로 폴드는 구글의 자체 개발 칩인 텐서 G6와 타이탄 M3 보안 칩을 탑재할 것으로 알려졌다. 8인치 내부 디스플레",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "구글이 공개한 픽셀11 프로 폴드 티저 영상에서 더 얇고 세련된 디자인과 새로운 '픽셀 글로우 LED' 알림 시스템, 텐서 G6 칩 탑재가 확인됐다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/05/3e45fe67c880d3a438c5c788559f44f4.gif",
+    "score": 4.608,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "[AINews] Megakernels are so dead and so back",
+    "url": "https://www.latent.space/p/ainews-megakernels-are-so-dead-and",
+    "source": "Latent Space (swyx)",
+    "source_type": "substack",
+    "published_at": "2026-08-05T01:21:47+00:00",
+    "raw_excerpt": "A quiet day lets us highlight a Cursor launch and an engineering debate",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Cursor의 새로운 런칭과 함께 대규모 커널(megakernels)을 둘러싼 엔지니어링 논쟁이 재점화되고 있다.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!Gpou!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHNw6xyYaUAA_BVO.jpg",
+    "score": 4.46,
+    "engagement": 0,
+    "matched_keywords": [
+      "cursor"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "After Losses, Retail Investors Flock to 3x Leverage as 2x Product Are Restricted",
+    "url": "https://www.asiae.co.kr/en/article/2026080416131786841",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-05T01:34:26+00:00",
+    "raw_excerpt": "Article URL: https://www.asiae.co.kr/en/article/2026080416131786841 Comments URL: https://news.ycombinator.com/item?id=49177554 Points: 9 # Comments: 4",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "손실을 입은 개인투자자들이 2배 레버리지 상품 규제에 따라 3배 레버리지 상품으로 몰려가고 있다.",
+    "thumbnail": "https://cphoto.asiae.co.kr/listimglink/1/2026080508520069962_1785887520.png",
+    "score": 2.752,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
+    "url": "https://arxiv.org/abs/2603.04221",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-05T00:10:37+00:00",
+    "raw_excerpt": "Article URL: https://arxiv.org/abs/2603.04221 Comments URL: https://news.ycombinator.com/item?id=49176983 Points: 27 # Comments: 19",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Zigbee와 Matter over Thread의 IoT 프로토콜 성능을 비교 분석한 연구로, 실제 환경에서의 프로토콜 선택 기준을 제시합니다.",
+    "thumbnail": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "score": 2.705,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Bugtraq Is Back",
+    "url": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-05T00:05:49+00:00",
+    "raw_excerpt": "Article URL: https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/ Comments URL: https://news.ycombinator.com/item?id=49176947 Points: 26 # Comments: 3",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "보안 커뮤니티의 전설적인 메일링 리스트 Bugtraq이 복구되어 운영을 재개했다.",
+    "thumbnail": "",
+    "score": 2.703,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Flowise Is Shutting Down",
+    "url": "https://flowiseai.com/sunset",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-05T00:02:40+00:00",
+    "raw_excerpt": "Article URL: https://flowiseai.com/sunset Comments URL: https://news.ycombinator.com/item?id=49176920 Points: 18 # Comments: 11",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Flowise는 서비스를 종료하며 오픈소스 커뮤니티로의 전환을 공식화했습니다.",
+    "thumbnail": "https://remarkable-smakager-ddb2b7.netlify.app/opengraph-image.png?9ccfc0cd89ea0cda",
+    "score": 2.701,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Eight Myths on Software Engineering and GenAI",
+    "url": "https://queue.acm.org/detail.cfm?id=3807963",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-04T23:50:52+00:00",
+    "raw_excerpt": "Article URL: https://queue.acm.org/detail.cfm?id=3807963 Comments URL: https://news.ycombinator.com/item?id=49176830 Points: 88 # Comments: 50",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "GenAI가 소프트웨어 엔지니어링을 완전히 대체할 것이라는 등 8가지 통념을 비판하는 ACM 논문이 주목받고 있습니다.",
+    "thumbnail": "",
+    "score": 2.694,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+    "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-04T23:31:46+00:00",
+    "raw_excerpt": "Article URL: https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/ Comments URL: https://news.ycombinator.com/item?id=49176697 Points: 48 # Comments: 6",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "WebKit의 IP 및 DNS 누수 취약점이 프록시 브라우저와 iCloud Private Relay의 개인정보 보호 기능을 무효화할 수 있습니다.",
+    "thumbnail": "https://mysk.blog/og-image.png",
+    "score": 2.684,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication",
+    "url": "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-04T23:22:37+00:00",
+    "raw_excerpt": "Article URL: https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/ Comments URL: https://news.ycombinator.com/item?id=49176644 Points: 42 # Comments: 34",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "패스키 기반 인증 시스템에 새로운 공격 취약점이 발견되어 비밀번호 없는 인증의 보안 위험성이 제기되고 있습니다.",
+    "thumbnail": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/07_Cloud_cybersecurity_research_Overview_1920x900.jpg",
+    "score": 2.679,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Cloudflare Wallets: the programmable wallet for the agentic Internet",
+    "url": "https://blog.cloudflare.com/wallets/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-04T21:31:02+00:00",
+    "raw_excerpt": "Article URL: https://blog.cloudflare.com/wallets/ Comments URL: https://news.ycombinator.com/item?id=49175461 Points: 21 # Comments: 1",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Cloudflare가 에이전트 기반 인터넷을 위한 프로그래밍 가능한 지갑 서비스를 출시했습니다.",
+    "thumbnail": "https://blog.cloudflare.com/_emdash/api/media/file/01KZ517FXTQNNJ8YGVAX2EV3YW.png",
+    "score": 2.617,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  }
+]
