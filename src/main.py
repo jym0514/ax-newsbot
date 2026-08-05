@@ -142,7 +142,7 @@ def run(
     # 3. 키워드 필터 + 주제 분류
     classified = filter_mod.classify(deduped, config)
 
-    # 4. 랭킹 + 선별 (회차 부스트 + 주제별/전체 상한 + 회차 간 중복 사건 제거)
+    # 4. 랭킹 + 선별 (회차 부스트 + 주제별/전체 상한 + 제목/내용(LLM) 기반 중복 사건 제거)
     prior_titles = _prior_titles(run_date, slot)
     selected = filter_mod.select(classified, config, slot_key=slot, prior_titles=prior_titles)
     log.info(
@@ -161,7 +161,7 @@ def run(
     archive_base = (config.get("archive_base_url") or "").rstrip("/")
     anchor = f"#slot-{slot}" if slot and slot != "all" else ""
     archive_url = f"{archive_base}/{run_date}.html{anchor}"
-    messages = telegram.build_messages(selected, run_date, archive_url, slot_label)
+    messages = telegram.build_messages(selected, run_date, archive_url, slot_label, config)
     sent, expected, send_failed = 0, len(messages), False
     if prepare_only:
         log.info("[prepare-only] 텔레그램은 사이트 배포 후 별도 단계에서 발송")
@@ -251,7 +251,7 @@ def run_send_only(config: Config, run_date: str, slot: str = "all") -> int:
     archive_base = (config.get("archive_base_url") or "").rstrip("/")
     anchor = f"#slot-{slot}" if slot and slot != "all" else ""
     archive_url = f"{archive_base}/{run_date}.html{anchor}"
-    messages = telegram.build_messages(articles, run_date, archive_url, slot_label)
+    messages = telegram.build_messages(articles, run_date, archive_url, slot_label, config)
 
     if not (TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID):
         log.error("TELEGRAM_BOT_TOKEN/CHAT_ID 미설정 — 발송 생략")

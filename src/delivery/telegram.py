@@ -59,11 +59,18 @@ def _article_block(article: Article, index: int) -> str:
 
 
 def build_messages(
-    articles: list[Article], date_str: str, archive_url: str, slot_label: str = ""
+    articles: list[Article],
+    date_str: str,
+    archive_url: str,
+    slot_label: str = "",
+    config=None,
 ) -> list[str]:
     """다이제스트를 카테고리별로 그룹핑한 '단일' 메시지로 빌드(리스트 길이 1).
 
     slot_label 이 주어지면(회차명, 예: '🌍 아침 브리핑 · 글로벌 중심') 헤더에 표기한다.
+    config 가 주어지면 카테고리 순서를 config.yaml topics 의 priority 오름차순으로 정렬한다
+    (아카이브 사이트와 동일한 규칙 — site_builder._group_by_topic 참고). config 없으면
+    기존처럼 랭크 순 첫 등장 순서로 정렬한다.
     """
     title = f"{_TITLE}\n{_esc(slot_label)}" if slot_label else _TITLE
     head_lines = [title, f"🗓️ {_esc(date_str)} · 총 {len(articles)}건"]
@@ -77,14 +84,17 @@ def build_messages(
     if not articles:
         return [f"{header}\n\n오늘은 조건에 맞는 기사를 찾지 못했습니다.\n\n{footer}"]
 
-    # 카테고리별 그룹화 — 랭크 순 첫 등장 순서로 카테고리 정렬
-    groups: list[tuple[str, list[Article]]] = []
+    # 카테고리별 그룹화 — config 가 있으면 topics priority 오름차순, 없으면 랭크 순 첫 등장 순서.
+    order = {t.get("key"): t.get("priority", 99) for t in config.topics} if config else {}
     bucket: dict[str, list[Article]] = {}
+    labels: dict[str, str] = {}
     for a in articles:
-        if a.topic not in bucket:
-            bucket[a.topic] = []
-            groups.append((a.topic_label or a.topic, bucket[a.topic]))
-        bucket[a.topic].append(a)
+        bucket.setdefault(a.topic, []).append(a)
+        labels.setdefault(a.topic, a.topic_label or a.topic)
+    keyed_groups = [(key, labels[key], items) for key, items in bucket.items()]
+    if config:
+        keyed_groups.sort(key=lambda g: order.get(g[0], 99))
+    groups: list[tuple[str, list[Article]]] = [(label, items) for _, label, items in keyed_groups]
 
     parts = [header]
     shown = 0

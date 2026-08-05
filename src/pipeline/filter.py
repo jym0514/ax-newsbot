@@ -49,8 +49,21 @@ def _score_topic(article: Article, keywords: list[str]) -> tuple[int, list[str]]
     return score, matched
 
 
+def _has_any(article: Article, keywords: list[str]) -> bool:
+    """keywords 중 하나라도 제목/본문에 있으면 True. keywords 가 비면 True(게이트 없음)."""
+    if not keywords:
+        return True
+    title = article.title.lower()
+    body = article.raw_excerpt.lower()
+    return any(_kw_in(k.lower(), title) or _kw_in(k.lower(), body) for k in keywords)
+
+
 def classify(articles: list[Article], config: Config) -> list[Article]:
-    """exclude 적용 + 주제 배정. 어느 주제에도 안 걸리는 기사는 버린다."""
+    """exclude 적용 + 주제 배정. 어느 주제에도 안 걸리는 기사는 버린다.
+
+    주제에 require_any 가 있으면, 그 키워드 중 하나라도 있어야 해당 주제로 인정한다.
+    (예: '기업의 AI 도입'은 AI 신호가 없으면 일반 업무변화 기사로 보고 배정하지 않음)
+    """
     topics = sorted(config.topics, key=lambda t: t.get("priority", 99))
     excludes = config.exclude_keywords
     kept: list[Article] = []
@@ -63,6 +76,11 @@ def classify(articles: list[Article], config: Config) -> list[Article]:
         best_matched: list[str] = []
         for t in topics:  # priority 오름차순 → 동점이면 먼저 만난(더 구체적인) 주제 유지
             score, matched = _score_topic(a, t.get("keywords", []))
+            if score <= 0:
+                continue
+            # AI 신호 게이트 — require_any 가 있으면 그 중 하나는 반드시 있어야 함.
+            if not _has_any(a, t.get("require_any", [])):
+                continue
             if score > best_score:
                 best_score, best_topic, best_matched = score, t, matched
         if not best_topic or best_score <= 0:
@@ -136,6 +154,9 @@ def _dedupe_stories(
     제목의 '희소 토큰'(후보군에서 3개 이하 제목에만 등장)을 2개 이상 공유하면 중복으로 본다.
     prior_titles 가 주어지면(같은 날 앞 회차에서 이미 발송된 제목들) 그 제목들과 겹치는
     기사도 중복으로 보고 제거한다 — 회차 간 같은 사건 중복 발송 방지.
+
+    제목만으로는 같은 사건을 다른 표현으로 보도한 기사를 못 잡으므로, 내용(맥락) 기반
+    중복은 select() 에서 LLM 의미 군집화(semantic_dedup)로 별도 처리한다.
     """
     token_lists = [_title_tokens(a.title) for a in ranked]
     df: Counter = Counter()
@@ -176,6 +197,11 @@ def select(
     ranked = _dedupe_stories(
         _rank(articles, config, boost_region, boost), prior_titles
     )
+    # 내용(맥락) 기반 중복제거 — 같은 사건을 다른 제목으로 보도한 기사를 LLM 으로 군집화해
+    # 상위 랭크만 남긴다. ranked 는 점수 내림차순이라 군집별 첫 기사가 최고 랭크다.
+    if config.get("dedup_semantic", True):
+        from .semantic_dedup import dedupe_semantic
+        ranked = dedupe_semantic(ranked, config)
     max_total = int(config.get("max_articles_total", 28))
     max_per = int(config.get("max_articles_per_topic", 6))
     min_score = float(config.get("min_score", 1.0))
