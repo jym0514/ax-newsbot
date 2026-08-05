@@ -754,7 +754,27 @@
     "a099605dd48edd94": "2026-08-05",
     "012e25082a2cd00b": "2026-08-05",
     "97a02ec5dd098b7c": "2026-08-05",
-    "801b066f8ff4add5": "2026-08-05"
+    "801b066f8ff4add5": "2026-08-05",
+    "961ef1841b625a53": "2026-08-04",
+    "0a08a8224dbfe992": "2026-08-04",
+    "ac694815e7fabe93": "2026-08-04",
+    "71fc67d4527d51d7": "2026-08-04",
+    "ac90a8e90292f651": "2026-08-04",
+    "1ea32875c7f2af3e": "2026-08-04",
+    "152d50d7069409a7": "2026-08-04",
+    "9ac730173ccb76e2": "2026-08-04",
+    "6bd8646a8888fb19": "2026-08-04",
+    "82fcc2223add615a": "2026-08-04",
+    "b6ad27154c16f828": "2026-08-04",
+    "179a341c051b0eb1": "2026-08-04",
+    "1ae7419488cae74b": "2026-08-04",
+    "e1b90361cad43fa7": "2026-08-04",
+    "f1fe3fd0e98c360a": "2026-08-04",
+    "cf14a102de980bbb": "2026-08-04",
+    "b003300130b6aa14": "2026-08-04",
+    "ac9a24a5393dca2f": "2026-08-04",
+    "c4a317f6d9bd2504": "2026-08-04",
+    "9275443bd3d742ea": "2026-08-04"
   },
   "thumbnails": {
     "d0e76c5c909c0929": "https://cdn.aitimes.com/news/photo/202607/213231_216661_2946.jpg",
@@ -1459,9 +1479,24 @@
     "a099605dd48edd94": "https://img.etnews.com/news/article/2026/08/04/news-p.v1.20260804.8de56c5587b5438190a59a0b61c4a3b0_P2.jpeg",
     "012e25082a2cd00b": "https://zdnet.co.kr/images/default_img.jpg",
     "97a02ec5dd098b7c": "https://image.zdnet.co.kr/2026/08/04/401c44ffe7b390ab7889d78fc3127ed9.png",
-    "801b066f8ff4add5": "https://image.zdnet.co.kr/2024/05/19/1e7668ba1a75f1c906301dd53ed77b45.jpg"
+    "801b066f8ff4add5": "https://image.zdnet.co.kr/2024/05/19/1e7668ba1a75f1c906301dd53ed77b45.jpg",
+    "961ef1841b625a53": "https://pbs.twimg.com/media/HO0vyRKWoAAYLIW.jpg",
+    "ac694815e7fabe93": "https://pbs.twimg.com/media/HO0sIZvaQAAg8NB.jpg:large",
+    "71fc67d4527d51d7": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_200x200.jpg",
+    "9ac730173ccb76e2": "https://image.zdnet.co.kr/2026/08/04/54dbcf176dbceac482fa17e9bb12cc63.jpg",
+    "6bd8646a8888fb19": "https://image.zdnet.co.kr/2026/08/04/372c87eef5a51a2ff9ffe985265236af.png",
+    "82fcc2223add615a": "https://image.zdnet.co.kr/2025/08/21/a5404f814b7146440f9898f1fe539b1c.png",
+    "b6ad27154c16f828": "https://image.zdnet.co.kr/2026/08/04/650b9f98b8a5df11eec129d2c96cc2a9.jpg",
+    "179a341c051b0eb1": "https://img.etnews.com/news/article/2026/08/04/news-p.v1.20260804.78ed0e74af3545fe95fa66c077d80228_P2.png",
+    "1ae7419488cae74b": "https://image.zdnet.co.kr/2026/08/04/d1d26842f40f5c1ea7a9bb1da1cb625d.png",
+    "e1b90361cad43fa7": "https://image.zdnet.co.kr/2026/08/04/f7b2819ea9138adb2121fc4bc0fe6995.png",
+    "6d58997b466ca59f": "https://images.ctfassets.net/kftzwdyauwt9/5RUlCTeEvzWYd2DDpdcNgh/f38e144bf6f5911074b1939c1528ed2b/Frame__4_.png?w=1600&h=900&fit=fill",
+    "f1fe3fd0e98c360a": "https://clickhouse.com/_next/image?url=%2Fuploads%2Fandy_pavlo_clickhouse_blog_7bf6b04415.png&w=1200&h=630&q=75",
+    "cf14a102de980bbb": "https://image.zdnet.co.kr/2024/08/03/c43b642429063380e027a9068c65d92f.png",
+    "ac9a24a5393dca2f": "https://cdn.aitimes.kr/news/thumbnail/202608/41288_62179_3155_v150.jpg",
+    "c4a317f6d9bd2504": "https://cdn.aitimes.com/news/photo/202608/213490_216974_4840.jpg",
+    "9275443bd3d742ea": "https://cdn.smarttimes.co.kr/news/thumbnail/202608/47865_46472_3919_v150.jpg"
   },
-  "last_sent_date": "2026-08-05",
   "sent": {
     "2026-07-28": [
       "morning",
@@ -1491,10 +1526,12 @@
     "2026-08-04": [
       "morning",
       "noon",
-      "evening"
+      "evening",
+      "all"
     ],
     "2026-08-05": [
       "morning"
     ]
-  }
+  },
+  "last_sent_date": "2026-08-05"
 }
