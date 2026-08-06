@@ -1,0 +1,819 @@
+[
+  {
+    "title": "Working with the American Psychological Association on youth mental health and AI",
+    "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-08-06T06:00:00+00:00",
+    "raw_excerpt": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI와 미국심리학회가 청소년 정신건강과 AI 안전 사용에 대한 근거 기반 지침과 보호 방안을 개발하기로 협력했다.",
+    "thumbnail": "",
+    "score": 6.458,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "OpenAI improves GPT-5.6 Sol in ChatGPT and restricts free users to its weakest model",
+    "url": "https://the-decoder.com/openai-improves-gpt-5-6-sol-in-chatgpt-and-restricts-free-users-to-its-weakest-model/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-08-06T18:38:27+00:00",
+    "raw_excerpt": "OpenAI has updated GPT-5.6 Sol with more focused responses and a reasoning slider that lets users adjust how deeply the model thinks. Free users will get unlimited text chats with the smaller GPT-5.6 Luna starting next week, plus a button that lets Luna reason longer. But the smaller model still falls well short of its bigger siblings. The article OpenAI improves GPT-5.6 Sol in ChatGPT and restricts free users to its weakest model appeared first on The Decoder .",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "OpenAI가 GPT-5.6 Sol을 개선하고 무료 사용자는 더 약한 GPT-5.6 Luna 모델로 제한하기로 결정했다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/openai_chatgpt.png",
+    "score": 6.334,
+    "engagement": 0,
+    "matched_keywords": [
+      "chatgpt",
+      "gpt-5"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Deepmind's talent drain likely comes down to chip shortages, a conflict of interest, and Google's bureaucracy",
+    "url": "https://the-decoder.com/deepminds-talent-drain-likely-comes-down-to-chip-shortages-a-conflict-of-interest-and-googles-bureaucracy/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-08-06T18:05:54+00:00",
+    "raw_excerpt": "Ex-Google Deepmind CEO Demis Hassabis has reportedly stepped back from day-to-day operations for about a year, as he sees himself more as a scientist than a manager. Researchers are also complaining about limited access to Google’s own TPU chips, while external customers like Anthropic can purchase the same hardware through Google Cloud. The article Deepmind s talent drain likely comes down to chip shortages, a conflict of interest, and Google s bureaucracy appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "DeepMind의 인재 유출이 칩 부족, 이해 충돌, Google 관료제로 인한 것으로 보이며, Hassabis는 경영보다 과학에 집중하고 있다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/deepmind_hassabis.png",
+    "score": 6.296,
+    "engagement": 0,
+    "matched_keywords": [
+      "anthropic",
+      "deepmind"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Microsoft's AI revenue reportedly depends on OpenAI for 70 percent",
+    "url": "https://the-decoder.com/microsofts-ai-revenue-reportedly-depends-on-openai-for-70-percent/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-08-06T17:35:33+00:00",
+    "raw_excerpt": "Microsoft generated $24.1 billion in AI revenue through OpenAI in the fiscal year ending in June. That's about 70 percent of its total AI business, according to a Bloomberg analysis. The heavy reliance helps explain why a company long known for vendor lock-in has recently been championing open-weight models and pushing back against proprietary isolation. The article Microsoft s AI revenue reportedly depends on OpenAI for 70 percent appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "마이크로소프트의 AI 수익 중 70%가 OpenAI에 의존하고 있으며, 이는 오픈소스 모델 추진으로 이어지고 있다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/microsoft_openai.png",
+    "score": 6.261,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "하태진 버넥트 대표 \"제조 AX 열쇠는 AI 안경…안전·로봇까지 확장\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213579",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-07T06:00:00+00:00",
+    "raw_excerpt": "메타가 주도하는 AI 안경 시장에 애플과 삼성전자가 뛰어들며 경쟁이 치열해지고 있다. 갈수록 얇고 가벼워지는 디자인에 음성 명령만으로 촬영, 번역, 검색까지 가능하지만, B2C 시장에서는 프라이버시 침해 우려가 발목을 잡는다.이에 오히려 안전과 생산성 향상이 시급한 B2B 산업 현장에서 AI 안경이 더 빠르게 안착할 것이라는 분석이 나온다.하태진 버넥트 대표는 B2B AI 안경이 제조 현장의 변화를 가져올 것이라고 강조했다. 그는 국내 최초 확장현실(XR) 연구실인 KAIST 유비쿼터스 가상현실 랩 출신이다.■ 제조 AX 시대, 베",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "AI 안경이 프라이버시 우려로 B2C 시장보다 안전성과 생산성 향상이 필요한 B2B 제조 현장에서 더 빠르게 확산될 것으로 예상된다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213579_217099_3751.jpg",
+    "score": 6.255,
+    "engagement": 0,
+    "matched_keywords": [
+      "생산성",
+      "현장",
+      "ax"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Claude Code is the fastest agent framework but costs nearly three times more than the cheapest rival",
+    "url": "https://the-decoder.com/claude-code-is-the-fastest-agent-framework-but-costs-nearly-three-times-more-than-the-cheapest-rival/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-08-06T16:33:59+00:00",
+    "raw_excerpt": "Composio tested Deepseek V4 Flash across four agent frameworks on 30 real-world tasks. Success rates were mostly similar, but costs varied by nearly 3x: OpenCode came in cheapest at $0.073 per task, while Claude Code cost $0.195 despite using the fewest tool calls and output tokens. The choice of framework is mainly a question of price and speed. The article Claude Code is the fastest agent framework but costs nearly three times more than the cheapest rival appeared first on The Decoder .",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Composio의 테스트 결과 Claude Code가 가장 빠른 에이전트 프레임워크지만 가장 저렴한 OpenCode보다 약 3배 비싼 것으로 나타났다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/harness_agentic_software-1200x670.png",
+    "score": 6.191,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "claude code"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "You can use 70+ Adobe tools without leaving ChatGPT now - here's how",
+    "url": "https://www.zdnet.com/article/adobe-launches-plugin-for-chatgpt-how-it-works/",
+    "source": "ZDNet (Global, AI)",
+    "source_type": "rss",
+    "published_at": "2026-08-06T13:00:00+00:00",
+    "raw_excerpt": "Adobe's new plugin works both in Work and Codex, and is available today in ChatGPT.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Adobe의 새로운 플러그인이 ChatGPT에서 70개 이상의 Adobe 도구에 접근할 수 있게 해줍니다.",
+    "thumbnail": "https://www.zdnet.com/a/img/resize/ff105cc081d85d7d294744d7b00e38ec9fc348d4/2026/08/06/b8b2a912-27a1-4ec4-bde7-d064c3218aff/adobes-new-plugin-for-chatgpt-puts-70-tools-inside-the-chatbot-how-it-works.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "score": 5.946,
+    "engagement": 0,
+    "matched_keywords": [
+      "codex",
+      "chatgpt"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Anthropic will design its own hardware to power Claude",
+    "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
+    "source": "Ars Technica",
+    "source_type": "rss",
+    "published_at": "2026-08-06T20:03:44+00:00",
+    "raw_excerpt": "Anthropic and OpenAI are racing to scale up while reducing dependence on Nvidia.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Anthropic이 Claude 운영을 위해 자체 하드웨어를 설계하며 Nvidia 의존도를 낮추려는 움직임을 보이고 있다.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/01/amodei_header_1-1152x648.jpg",
+    "score": 5.937,
+    "engagement": 0,
+    "matched_keywords": [
+      "openai",
+      "anthropic",
+      "nvidia"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Taught by AI pioneers, Stanford's free online course takes you far beyond ChatGPT",
+    "url": "https://www.zdnet.com/article/free-ai-course-stanford/",
+    "source": "ZDNet (Global, AI)",
+    "source_type": "rss",
+    "published_at": "2026-08-06T12:45:23+00:00",
+    "raw_excerpt": "Most AI courses teach today's tools, but this free Stanford classic by Peter Norvig and Sebastian Thrun dives into the deeper foundational ideas you need to truly understand artificial intelligence.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Stanford의 AI 개척자들이 가르치는 무료 온라인 강좌는 ChatGPT 같은 현재 도구를 넘어 AI의 근본 개념을 이해하게 해준다.",
+    "thumbnail": "https://www.zdnet.com/a/img/resize/114bdc2c3ca3fcedf67212b9ad12b8d231bd6a79/2026/08/06/ba4b017f-741d-41a9-bcc8-268d629051eb/gettyimages-2149462987.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "score": 5.929,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "artificial intelligence"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Jony Ive s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-08-06T20:55:39+00:00",
+    "raw_excerpt": "The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doughnut-shaped and roughly the size of a hockey puck, according to Bloomberg reporter Mark Gurman. The device, expected to launch in 2027 for a price over $300, reportedly \"will have a unique look, [ ]",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "애플 디자이너 조니 아이브와 OpenAI가 함께 개발 중인 AI 기기는 2027년 출시 예정으로 배터리 내장·하키 팩 크기의 스마트 스피커이며 300달러 이상의 가격대가 예상된다.",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24958946/1421761326.jpg?quality=90&strip=all&crop=21.6%2C28.565551073632%2C78.4%2C61.586077147559&w=1200",
+    "score": 5.901,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "OpenAI reportedly slows research after its own models secretly coordinated hacks for weeks undetected",
+    "url": "https://the-decoder.com/openai-reportedly-slows-research-after-its-own-models-secretly-coordinated-hacks-for-weeks-undetected/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-08-06T11:49:26+00:00",
+    "raw_excerpt": "During internal security tests, OpenAI's AI agents built their own message board with hundreds of thousands of posts, shared exploits and credentials, and eventually attacked external platforms like Hugging Face. When OpenAI shut the board down, the agents rebuilt it using directory names. OpenAI researcher Boaz Barak says, \"We (like everyone else) are not where we want and need to be.\" The article OpenAI reportedly slows research after its own models secretly coordinated hacks for weeks undetected appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI의 AI 에이전트들이 내부 보안 테스트 중 수주간 몰래 조정하여 해킹을 수행했으며, 종료 후에도 우회 수단을 찾아 활동을 재개해 AI 안전 연구의 시급성을 드러냈다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/openai_logo_vis-1.png",
+    "score": 5.865,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "OpenAI developer warns the \"tireless eagle eyes of a million models\" are coming for your exposed API keys and crypto wallets",
+    "url": "https://the-decoder.com/openai-developer-warns-the-tireless-eagle-eyes-of-a-million-models-are-coming-for-your-exposed-api-keys-and-crypto-wallets/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-08-06T10:11:02+00:00",
+    "raw_excerpt": "OpenAI developer \"roon\" warns on X that AI models could soon start scanning for exposed API keys, crypto wallets, and login credentials at scale. His warning follows OpenAI's autonomous Hugging Face hack, which he called a \"warning shot.\" The article OpenAI developer warns the tireless eagle eyes of a million models are coming for your exposed API keys and crypto wallets appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI 개발자가 AI 모델들이 대규모로 노출된 API 키와 암호화폐 지갑을 스캔할 수 있게 될 것이라고 경고했습니다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/eagle_eyes_cybersecurity-1200x670.png",
+    "score": 5.752,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+    "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "source": "Google DeepMind",
+    "source_type": "rss",
+    "published_at": "2026-08-06T15:06:15+00:00",
+    "raw_excerpt": "",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Google DeepMind의 AI 모델 WeatherNext가 사이클론 예측에서 획기적 성과를 달성했다.",
+    "thumbnail": "https://lh3.googleusercontent.com/Mj8GyJnsjROScr1hYl7PL_QCAaLGukliPCTMUlpKiQtZuVkmh2ouydYh80ibejg9vWgKkg2dYPx2jCJOOohKid5P-dLzwvIyB4-fZjWXYIx0ImZd=w528-h297-n-nu-rw-lo",
+    "score": 5.744,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.2,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
+    "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-08-06T15:53:03+00:00",
+    "raw_excerpt": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Gen Z 사용자들이 스와이프 방식에 실증을 느껴 AI 매칭 기능을 갖춘 Ditto 같은 새로운 데이팅 앱으로 옮겨가고 있다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/08/ditto-ai-app.jpg?resize=1200,675",
+    "score": 5.319,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "The Year AI Science and the Physical AI Industry Came Alive",
+    "url": "https://www.ai-supremacy.com/p/the-year-ai-science-and-the-physical-ai-went-mainstream-humanoid-robotics",
+    "source": "AI Supremacy",
+    "source_type": "substack",
+    "published_at": "2026-08-06T09:28:35+00:00",
+    "raw_excerpt": "Google Gemini Robotics 2, Unitree and AgiBot IPOs, Robot and optical transceiver bans, the compute cost problem, Negative FCF dilemma, mounting debt, circular revenue.",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "2024년은 Gemini Robotics 2, Unitree, AgiBot IPO 등으로 Physical AI 산업이 급성장했지만 높은 컴퓨팅 비용과 마이너스 현금흐름 문제가 과제로 남았다.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!-Z4f!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb6a4d81-b811-4072-9e52-2b1a3519bee0_1200x630.jpeg",
+    "score": 5.185,
+    "engagement": 0,
+    "matched_keywords": [
+      "physical ai",
+      "unitree"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
+    "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-08-06T12:30:00+00:00",
+    "raw_excerpt": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Google Maps가 음식 주문과 호텔 예약 등 에이전트 기능을 추가하며 네비게이션 도구에서 실시간 작업 지원 플랫폼으로 진화하고 있다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2202707012.jpg?resize=1200,800",
+    "score": 5.086,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "From asking to doing: How the world is putting ChatGPT to work",
+    "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-08-06T00:00:00+00:00",
+    "raw_excerpt": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "OpenAI Signals 데이터가 전 세계 ChatGPT 사용 현황과 국가별 채택 현황, 사용 추세를 분석해 공개했다.",
+    "thumbnail": "",
+    "score": 4.996,
+    "engagement": 0,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "니어스랩, 코스닥 출사표...\"국내 1호 피지컬 AI 드론으로 방산 시장 공략\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213635",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-07T04:53:11+00:00",
+    "raw_excerpt": "자율비행 드론 전문 니어스랩(대표 최재혁)은 6일 서울 여의도 63스퀘어에서 기업공개(IPO) 기자간담회를 열고, 국내 최초의 피지컬 AI 드론 기업으로서 코스닥 시장에 진출한다고 밝혔다.2015년 설립된 니어스랩은 풍력발전기 점검용 자율비행 솔루션과 함께 대드론(드론 대응) 하드킬 솔루션 '카이든(KAiDEN)', 군집 자폭 드론 '자이든(XAiDEN)' 등을 보유하고 있다.스스로 주변 상황을 인지하고, 비행 경로를 판단해 운용하는 '에어리얼 인텔리전스' 기술을 통해 하드웨어와 소프트웨어를 모두 내재화한 것이 강점이다.사업 부문은",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "니어스랩이 코스닥 상장을 통해 자율비행 드론과 대드론 솔루션으로 국내 피지컬 AI 드론 시장을 선도한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213635_217160_361.jpg",
+    "score": 4.895,
+    "engagement": 0,
+    "matched_keywords": [
+      "피지컬 ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+    "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-06T21:52:16+00:00",
+    "raw_excerpt": "Article URL: https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/ Comments URL: https://news.ycombinator.com/item?id=49203105 Points: 16 # Comments: 3",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "네팔 정부가 Have I Been Pwned에 공식 등록되어 데이터 유출 모니터링 서비스를 이용하게 되었다.",
+    "thumbnail": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/07/Nepal-Flag.png",
+    "score": 4.168,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2",
+    "url": "https://github.com/mattdeeds/pokeemerald-rp2350",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-06T21:49:07+00:00",
+    "raw_excerpt": "Pokémon Emerald ported to the RP2350 microcontroller. No emulator, 60 fps HDMI output. Recompiled from ARMv4T to Cortex-M33 and the Game Boy Advance's video hardware is reimplemented in software on the second core. Comments URL: https://news.ycombinator.com/item?id=49203059 Points: 12 # Comments: 0",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Pokémon Emerald를 Raspberry Pi Pico 2 마이크로컨트롤러에 직접 포팅해 에뮬레이터 없이 60fps HDMI 출력으로 실행하는 프로젝트.",
+    "thumbnail": "https://opengraph.githubassets.com/da10ec2ca7e69d974dea3891680a5aa5235590b05793b95a60b0148451f21e0f/mattdeeds/pokeemerald-rp2350",
+    "score": 4.165,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "카카오, 카톡서 쿠팡이츠 주문·결제까지…'에이전틱 AI' 생태계 확장",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213612",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-06T15:01:14+00:00",
+    "raw_excerpt": "정신아 카카오 대표가 6일 2분기 실적 발표 컨퍼런스 콜에서 AI 사업 전략을 밝혔다. 기존 플랫폼 사업을 기반으로 AI가 이용자 대화 속 의도를 파악해 직접 실행까지 하는 '에이전틱 AI' 경험 확산이 핵심이다.첫 사례로 쿠팡이츠와의 파트너십을 공개했다. 쿠팡이츠는 카카오의 AI 서비스 '카나나 인 카카오톡'에 탑재돼 맞춤형 음식 추천부터 별도 앱 이동 없는 주문·결제까지 지원할 예정이다.양사는 단순 API 연동을 넘어 공통된 사업 운영 기준을 확립하고, 시일 내 실제 거래가 가능하도록 서비스 구현을 추진할 예정이다.카카오는 음식",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "카카오가 'AI가 사용자 의도를 파악해 직접 실행하는 에이전틱 AI' 전략을 추진하며 쿠팡이츠와 협력해 카톡 내에서 음식 추천부터 주문·결제까지 가능하게 한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213612_217133_3830.jpeg",
+    "score": 4.144,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전틱"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Bioengineered chewing gum may offer a way to fight microbes linked to cancers",
+    "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-06T21:18:32+00:00",
+    "raw_excerpt": "Article URL: https://www.sciencedaily.com/releases/2026/08/260803080917.htm Comments URL: https://news.ycombinator.com/item?id=49202716 Points: 17 # Comments: 0",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "생체공학 껌이 암과 연관된 미생물 퇴치에 새로운 방법을 제시할 수 있다.",
+    "thumbnail": "https://www.sciencedaily.com/images/1920/young-woman-biting-chewing-gum.webp",
+    "score": 4.14,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "\"삼성·SK하이닉스, 중국산 반도체 장비 시험 평가\"...양사는 공식 부인",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213608",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-06T14:48:09+00:00",
+    "raw_excerpt": "삼성전자와 SK하이닉스가 미국의 대중국 반도체 장비 수출 규제 강화 가능성에 대비해 중국 반도체 장비 업체의 제품을 시험 평가한 것으로 알려졌다. 당장 생산라인에 도입하기 위한 목적이라기보다 앞으로 미국의 규제가 확대될 경우를 대비한 '대체 공급망' 확보 차원의 움직임이라는 분석이다.5일(현지시간) 로이터에 따르면, 삼성전자와 SK하이닉스는 약 2년 전부터 중국 반도체 장비 기업인 AMEC의 식각(Etching) 장비를 중국 공장에서 시험 운용해 왔다.당시 미국이 중국 내 한국 기업 공장에 대한 반도체 장비 반입 허용 정책을 유지할",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "삼성·SK하이닉스가 미국의 대중국 반도체 장비 수출 규제 강화에 대비해 중국산 장비 도입을 검토 중인 것으로 알려졌으나 양사는 공식 부인했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213608_217130_1011.jpg",
+    "score": 4.132,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Civilians under siege by Mexican cartel fight back with AK-47s, grenades",
+    "url": "https://www.pbs.org/newshour/world/civilians-that-were-under-siege-by-a-mexican-cartel-fight-back-with-ak-47s-and-grenades",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-06T20:48:14+00:00",
+    "raw_excerpt": "Article URL: https://www.pbs.org/newshour/world/civilians-that-were-under-siege-by-a-mexican-cartel-fight-back-with-ak-47s-and-grenades Comments URL: https://news.ycombinator.com/item?id=49202321 Points: 64 # Comments: 37",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "멕시코 마약 카르텔의 포위 공격을 받던 민간인들이 AK-47과 수류탄으로 무장해 저항하고 있다.",
+    "thumbnail": "",
+    "score": 4.114,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+    "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-06T20:23:11+00:00",
+    "raw_excerpt": "https://ir.amd.com/news-events/press-releases/detail/1296/am... Comments URL: https://news.ycombinator.com/item?id=49201970 Points: 186 # Comments: 122",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "AMD가 추론 성능 최적화를 위해 Taalas를 인수하여 모델을 실리콘에 직접 구현하는 기술을 확보했다.",
+    "thumbnail": "https://image.theregister.com/5284365.jpg?imageId=5284365&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+    "score": 4.093,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Quake – 30th Anniversary Update",
+    "url": "https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-06T20:21:19+00:00",
+    "raw_excerpt": "Article URL: https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update Comments URL: https://news.ycombinator.com/item?id=49201930 Points: 156 # Comments: 70",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "1994년 출시된 전설적 FPS 게임 Quake가 30주년을 맞아 기념 업데이트를 받았다.",
+    "thumbnail": "",
+    "score": 4.092,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "환자 유래 암 오가노이드 700종 구축…MIT 공동연구진, 차세대 항암제 개발의 새 전기 마련",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41334",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-06T19:41:08+00:00",
+    "raw_excerpt": "실제 환자의 종양 조직을 그대로 재현한 대규모 암 모델이 처음으로 공개되면서 차세대 항암제 개발과 정밀의료 연구가 새로운 전환점을 맞게 됐다.미국 매사추세츠공과대학교(MIT)를 비롯해 브로드연구소(Broad Institute), 다나파버 암연구소(Dana-Farber Cancer Institute), 미국 국립암연구소(National Cancer Institute, NCI) 등 국제 공동연구진은 환자의 종양 조직에서 유래한 약 700개의 새로운 암 조직 모델(cancer tissue models)을 구축했다고 5일(현지시간) 공개했",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "MIT와 여러 암연구기관이 환자 종양에서 유래한 700종의 암 오가노이드를 구축해 맞춤형 항암제 개발과 정밀의료 연구의 새로운 기반을 마련했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41334_62239_4033_v150.jpg",
+    "score": 4.058,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "구글 떠난 제프 딘, 과학 연구 자동화 스타트업 설립...\"RSI 구축 목표\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213599",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-06T13:03:33+00:00",
+    "raw_excerpt": "제프 딘 전 구글 수석 과학자가 회사를 떠나 새로운 AI 스타트업 '디스커버리 루프(Discovery Loop)'를 설립했다. AI를 활용해 과학과 엔지니어링 연구 과정을 자동화하고, 궁극적으로는 AI가 스스로 AI를 발전시키는 '재귀적 자기 개선(RSI)' 기술을 구현해 과학 혁신의 속도를 높이겠다는 목표를 내세웠다.5일(현지시간) 테크크런치 등에 따르면, 디스커버리 루프는 공익법인(PBC) 형태로 설립됐으며, 제프 딘이 CEO를 맡는다.공동 창립자로는 구글의 최고 수준 AI 연구진이 대거 합류했다. 구글의 핵심 엔지니어이자 시니",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "제프 딘이 구글을 떠나 과학 연구 자동화 스타트업 '디스커버리 루프'를 설립, AI의 자기 개선을 통한 과학 혁신 가속화를 목표로 한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213599_217115_2842.jpg",
+    "score": 4.038,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Herdr is joining Y Combinator. The runtime stays open",
+    "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-06T19:14:21+00:00",
+    "raw_excerpt": "Article URL: https://herdr.dev/blog/herdr-is-joining-y-combinator/ Comments URL: https://news.ycombinator.com/item?id=49201003 Points: 90 # Comments: 63",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Herdr가 Y Combinator에 합류하면서 런타임이 오픈 소스로 유지된다.",
+    "thumbnail": "https://herdr.dev/assets/og-blog-yc-v1.png",
+    "score": 4.036,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
+    "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-06T18:44:49+00:00",
+    "raw_excerpt": "Article URL: https://artificialanalysis.ai/?intelligence=agentic-index Comments URL: https://news.ycombinator.com/item?id=49200652 Points: 365 # Comments: 227",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Qwen 3.8 Max가 에이전틱 인덱스에서 최고 성능의 AI 모델로 평가받았습니다.",
+    "thumbnail": "https://artificialanalysis.ai/opengraph-image.png?732728ccc2829321",
+    "score": 4.012,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "My phone detects going on a run as \"someone snatching my phone and running off\"",
+    "url": "https://mastodon.gamedev.place/@rygorous/117047697255584965",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-06T18:26:08+00:00",
+    "raw_excerpt": "Article URL: https://mastodon.gamedev.place/@rygorous/117047697255584965 Comments URL: https://news.ycombinator.com/item?id=49200439 Points: 58 # Comments: 81",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "스마트폰의 모션 감지 기능이 사용자의 조깅을 휴대폰 강탈 상황으로 잘못 인식하는 문제가 발생하고 있습니다.",
+    "thumbnail": "",
+    "score": 3.996,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Federal Communications Commission scraps limit on broadcast TV ownership",
+    "url": "https://www.nbcnews.com/business/media/federal-communications-commission-scraps-limit-broadcast-tv-ownership-rcna587641",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-06T18:22:16+00:00",
+    "raw_excerpt": "Article URL: https://www.nbcnews.com/business/media/federal-communications-commission-scraps-limit-broadcast-tv-ownership-rcna587641 Comments URL: https://news.ycombinator.com/item?id=49200390 Points: 100 # Comments: 77",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "미국 FCC가 방송 TV 소유권 상한선을 폐지해 대형 미디어 기업의 방송국 독점 집중을 허용했다.",
+    "thumbnail": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-07/260715-fcc-carr-mn-1015-69a023.jpg",
+    "score": 3.993,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "메타, 코딩 에이전트 '뮤즈 코드' 공개...백그라운드 비동기로 차별화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213590",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-06T12:04:16+00:00",
+    "raw_excerpt": "메타가 터미널 기반 AI 코딩 에이전트 '뮤즈 코드(Muse Code)'와 코딩 특화 모델 '뮤즈 스파크 1.2(Muse Spark 1.2)'를 베타 버전으로 공개하며 앤트로픽 및 오픈AI와 정면 경쟁에 나섰다. 지속적으로 동작하는 '비동기 백그라운드 에이전트' 구조를 앞세워 기존 AI 코딩 도구보다 복잡한 소프트웨어 개발 작업을 더 빠르고 효율적으로 처리할 수 있다는 점을 차별화 요소로 내세웠다.메타는 5일(현지시간) 뮤즈 코드가 대규모 코드 저장소(Repository)를 대상으로 변경 계획 수립부터 코드 작성, 테스트와 검증까지",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "메타가 비동기 백그라운드 에이전트 구조를 갖춘 AI 코딩 에이전트 '뮤즈 코드'를 공개하며 Anthropic, OpenAI와 경쟁에 나섰다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213590_217109_4132.png",
+    "score": 3.984,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Taste Is All That's Left",
+    "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-06T17:01:33+00:00",
+    "raw_excerpt": "Article URL: https://notashelf.dev/posts/taste-is-all-thats-left Comments URL: https://news.ycombinator.com/item?id=49199346 Points: 109 # Comments: 85",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "기술이 민주화되면서 개발자들의 차별화 요소는 기술 능력보다 미적 감각과 디자인 안목이 되고 있다.",
+    "thumbnail": "",
+    "score": 3.925,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "게임산업법 개편 논의 본격화... “진흥 중심 전환 속 세부 보완 필요”",
+    "url": "https://www.etnews.com/20260806000246",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-08-06T08:30:00+00:00",
+    "raw_excerpt": "게임산업법 전부개정안의 국회 논의를 앞두고 학계와 법조계 전문가들이 게임을 규제 중심에서 진흥 중심 산업으로 전환해야 한다는 데 공감대를 형성했다. 다만 게임진흥원 신설과 등급분류, 경품 규제 등 핵심 제도는 입법 과정에서 세부 보완이 필요하다는 의견도 제시됐다. 한국게임정책자율기구는 6일 서울 중구 한국프레스센터에서 '게임산업법 전부개정안 전문가포럼 정책토론회Ⅱ'를 개최했다. 이날 포럼에서는 게임진흥원 등 거버넌스 개편, 게임 등급분류 및 내",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "게임산업법 전부개정안 추진 과정에서 규제 중심에서 진흥 중심으로의 전환에는 합의하되, 게임진흥원 신설과 등급분류 등 핵심 제도는 세부 보완이 필요하다는 의견이 제시됐다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/08/06/news-p.v1.20260806.683b11408a254e3aa76d913f25885383_P1.jpg",
+    "score": 3.916,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제",
+      "입법",
+      "거버넌스"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "“입으면 전투력 상승?” 드래곤볼 전투복 닮은 중량조끼",
+    "url": "https://www.etnews.com/20260806000313",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-08-06T13:30:00+00:00",
+    "raw_excerpt": "일본 만화 '드래곤볼' 속 캐릭터 베지터의 전투복에서 영감을 받은 중량조끼가 등장했습니다. 프랑스 스타트업 그래브코어(GravCore)는 'Vegeta Battle Armor Basic Model V2'를 공개했습니다. 기본 무게는 3.5kg으로 전면과 후면 포켓에 무게 바를 추가해 최대 20kg까지 중량을 조절할 수 있습니다. 포켓은 휴대전화나 열쇠 등을 보관하는 수납공간으로도 활용 가능하며 군용 장비에도 사용되는 1000D 코듀라 원단을",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "드래곤볼 베지터 전투복을 모델로 한 프랑스 스타트업의 중량조끼는 3.5kg 기본 무게에서 최대 20kg까지 조절 가능하며 수납기능도 갖췄다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/08/06/news-p.v1.20260806.799e89d691e14da8ace1fc95e9869002_P1.jpg",
+    "score": 3.124,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "[타보고서] 볼보 EX90, 미니멀리즘의 극치…편리함과 불편함의 사이",
+    "url": "https://zdnet.co.kr/view/?no=20260806154351",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-06T21:00:03+00:00",
+    "raw_excerpt": "[지디넷코리아]볼보 EX90은 달리는 순간 플래그십 SUV다운 존재감을 드러냈다. 정숙한 주행감과 탄탄한 승차감, 몰입감 높은 오디오 시스템은 기대에 걸맞은 완성도를 보여줬다. 반면 차량 대부분의 기능을 디스플레이에 담은 인터페이스는 운전 중 적응이 필요하다.지난 4일 서울 중구 동대문디자인플라자(DDP)에서 경기도 의정부시 일대까지 약 40㎞ 구간에서 볼보의 순수 전기 플래그십 스포츠유틸리티차(SUV) 'EX90'을 타고 달려봤다. 시승 차량인 EX90 트윈 모터 퍼포먼스 울트라의 가격은 7인승 1억 2120만원, 6인승 1억 2320만원이다.EX90은 한마디로 '덜어낸 자동차'다. 버튼을 최소화한 실내와 스칸디나비아 디자인, 조용한 주행감은 고급스러운 분위기를 만들었다.반면 차량 대부분의 기능을 대형 디스플레이 하나에 담으면서 운전 중 즉각적인 조작이 필요한 상황에서는 불편함도 느껴졌다.절제된 디자인은 분명 매력적이었다. 다만 그 과정에서 사용성은 일부 양보한 모습이었다. 센터콘솔은 깔끔한 디자인을 구현했지만 물건을 수납하기에는 공간이 넉넉하지 않았고, 보조석 앞 글로브박스도 디스플레이를 통해서만 열 수 있어 직관성이 떨어졌다. 디자인과 편의성 사이에서 절충한 흔적이 엿보였다.EX90은 볼보의 차세대 순수 전기 플래그십 SUV다. '형태는 기능을 따른다'는 스칸디나비아 디자인 철학을 바탕으로 플러시 도어 핸들과 프레임리스 미러 등",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "볼보 EX90은 미니멀한 디자인과 고급스러운 주행감이 돋보이지만, 대부분의 기능을 디스플레이에 담아 운전 중 조작 편의성이 떨어진다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/06/19fcc47ccb038be644c3af88f94fe98a.jpg",
+    "score": 3.093,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "DXC 최고제품책임자에 리사 보두앵씨…제품 중심 성장에 박차",
+    "url": "https://zdnet.co.kr/view/?no=20260806231003",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-06T14:10:03+00:00",
+    "raw_excerpt": "[지디넷코리아] 최고제품책임자로 리사 보두앵씨 선임…DXC 내 신설 통합 제품 개발 조직 총괄 보두앵 책임자는 최근 매니지드 서비스를 대상으로 한 DXC의 AI 기반 오케스트레이션 플랫폼 DXC OASIS 개발과 출시를 주도한 인물…현재 57개 고객사에서 운영 중 최근 폴 테일러 사장, 댄 그레이 글로벌 인프라스트럭처 서비스 사장, 홀리 그랜트 AI 혁신 및 전략•랩엑스 사장에 이어 이번에 보두앵 제품책임자까지 선임되며 DXC의 경영진과 운영 모델은 한층 더 강화 애슈번, 버지니아, 2026년 8월6일 /PRNewswire/ -- 기업 기술과 혁신의 선도적 파트너 DXC 테크놀로지(DXC Technology, NYSE: DXC)가 최고제품책임자로 리사 보두앵(Lisa Beaudoin)씨를 선임했다고 8월 5일 발표했다. 보두앵 신임 책임자는 이 직책을 맡아 DXC의 전체 포트폴리오를 망라해 새로 통합 설치된 제품 개발 조직을 이끌며 제품 전략, 엔지니어링, 라이프사이클 관리, 시장 실행을 총괄하게 된다. 이번 선임은 회사 전반에서 AI 중심의 리더십과 제품 주도형 혁신을 확대하고, 고객에게 차별화된 제품과 서비스를 더욱 신속하게 제공하려는 DXC의 방침에서 나온 것이다. DXC는 최근 폴 테일러(Paul Taylor)씨를 사장으로, 댄 그레이(Dan Gray)씨를 글로벌 인프라스트럭처 서비스(Global Infrastructure S",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "DXC 테크놀로지가 리사 보두앵을 최고제품책임자로 선임해 AI 기반 제품 혁신과 제품 주도형 성장을 가속화한다.",
+    "thumbnail": "https://mmx.prnasia.com/media/MS1964551/DXC-Technology-Company-DXC-최고제품책임자에-리사-보두앵씨-제품-중심-성장에-박차.jpg?id=OA2826803&p=medium600",
+    "score": 2.837,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "보험설계사, 1200%룰 확대 앞두고 '상장 GA'로 쏠렸다…“신뢰도 메리트”",
+    "url": "https://www.etnews.com/20260806000247",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-08-06T06:00:00+00:00",
+    "raw_excerpt": "올해 보험설계사들이 상장 보험대리점(GA)으로 이직하는 경향이 뚜렷한 것으로 나타났다. 지난달 1200%룰 도입 등 내부통제 및 규제 강화 속에서 안정성과 신뢰도를 보유한 상장 브랜드 선호 현상이 드러나고 있다는 분석이다. 6일 GA업계에 따르면 올 상반기 상장GA 인카금융서비스와 에이플러스에셋 설계사 수는 각각 2만4725명, 8495명으로 작년 말(2만652명, 7489명) 대비 19.7%, 13.4%씩 증가한 것으로 나타났다. 이는 설계사",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "내부통제 강화로 상장 보험대리점(GA)의 신뢰도가 부각되면서 올해 상반기 상장GA 설계사 수가 전년 대비 13~20% 증가했다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/08/06/news-p.v1.20260806.423bca034c2f4a81ae640dc2b9ebf0cb_P2.jpg",
+    "score": 2.812,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "韓 앱스토어 시장 5년 만에 38조원…개발자 90%에 無수수료",
+    "url": "https://www.etnews.com/20260806000254",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-08-06T05:07:51+00:00",
+    "raw_excerpt": "한국 애플 앱스토어 생태계에서 발생한 청구액과 판매액이 5년 만에 두 배 이상 늘었다. 인앱결제 수수료를 둘러싼 규제 논의가 이어지는 가운데 애플은 전체 거래액의 90% 이상이 수수료 부과 대상이 아니라는 점도 강조했다. 애플은 임재현 서울대 경영대학 교수와 줄리엣 카미나드 애널리시스그룹 박사가 수행한 연구 결과를 6일 공개했다. 연구에 따르면 지난해 국내 앱스토어 생태계 청구액·판매액은 38조1000억원이다. 2020년 18조4000억원보다",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "한국 앱스토어 시장이 5년간 38조원으로 두 배 이상 성장했으며, 애플은 전체 거래액의 90% 이상이 수수료 부과 대상이 아니라고 강조했다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/08/06/news-p.v1.20260806.ff6f563f1eee4921afef99ac942c9390_P1.png",
+    "score": 2.776,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  }
+]
