@@ -1,0 +1,559 @@
+[
+  {
+    "title": "순다 피차이, \"AGI 시대 대비 리더십 재편\"…허사비스, 알파벳 최고과학자 맡고 '코레이 카부크추오글루'가 딥마인드 총괄",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41323",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-06T07:44:29+00:00",
+    "raw_excerpt": "구글과 알파벳(Alphabet)이 인공지능(AI) 시대의 다음 도약을 위한 대규모 리더십 개편을 단행했다. 순다 피차이(Sundar Pichai) 구글 및 알파벳 최고경영자(CEO)와 데미스 허사비스(Demis Hassabis) 구글 딥마인드(Google DeepMind) CEO는 5일(현지시간) 직원들에게 보낸 메시지를 통해 구글 딥마인드 조직 개편과 주요 인사를 공식 발표했다.이번 개편에 따라 허사비스는 구글 딥마인드의 일상적인 경영에서 물러나 알파벳 최고과학자(Chief Scientist)와 구글 딥마인드 회장(Chair)을",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "순다 피차이 CEO가 AGI 시대 대비해 리더십을 재편하며 데미스 허사비스를 알파벳 최고과학자로, 코레이 카부크추오글루를 딥마인드 총괄자로 임명했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41323_62219_4246_v150.jpg",
+    "score": 9.354,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "deepmind",
+      "딥마인드"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "KT, AI 기반 실시간 스팸차단 서비스 전 고객 확대 적용...오차단율 0.003% · VOC 0건",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41327",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-06T09:02:14+00:00",
+    "raw_excerpt": "KT가 ‘인공지능 기반 실시간 스팸차단 서비스(이하, AI 스팸차단)’를 전 고객 대상으로 확대 적용했다고 6일 밝혔다.최근 스팸은 패턴의 주기가 점점 짧아지고, 키워드 차단을 피하기 위해 특수문자를 포함해 변형하는 등 수법 또한 갈수록 정교해지고 있다. KT는 이러한 신규 및 변형 스팸 차단의 사각지대를 해소하기 위해 새로운 유형의 스팸까지 실시간 탐지, 차단할 수 있는 AI 스팸차단을 자체 개발했다.지난 1월 개발된 AI 스팸차단은 ‘KT 스팸차단’ 앱에서 스마트 차단기능 ‘높음’을 설정한 고객 80만 명을 대상으로 시범 운영됐",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "KT가 AI 기반 실시간 스팸차단 서비스를 전 고객에게 확대 적용하며 오차단율 0.003%와 VOC 0건의 높은 정확도를 달성했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41327_62227_140_v150.jpg",
+    "score": 7.651,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "엔비디아·AI 업계 리더, 사이버보안 투명성 강화를 위한 SAFE 가이드라인 제안",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41326",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-06T08:57:15+00:00",
+    "raw_excerpt": "엔비디아가 미국 라스베이거스에서 개최된 블랙햇(Black Hat) 연례 컨퍼런스에서 120개가 넘는 조직이 참여하고 있는 '오픈 시큐어 AI 얼라이언스(Open Secure AI Alliance)' 회원사들이 에이전틱 AI 사이버보안을 강화하기 위한 새로운 가이드라인을 개발하고 있다고 지난 4일(현지시간) 밝혔다.리눅스 재단(Linux Foundation)은 SAFE(Shared AI Findings Exchange)에 대한 의견 수렴 요청서(Request for Comments, RFC)를 공개했다. SAFE는 에이전틱 AI 사이",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "엔비디아 주도 오픈 시큐어 AI 얼라이언스가 AI 사이버보안 투명성 강화를 위한 SAFE 가이드라인을 개발 중이다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41326_62226_5646_v150.jpg",
+    "score": 7.645,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "가이드라인"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "UNIST 이연창 교수팀, 내 안의 다양한 ‘쇼핑 자아 ’취향 저격하는 상품 추천 AI 기술 개발",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41325",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-06T08:40:46+00:00",
+    "raw_excerpt": "같은 전자제품군이라도 컴퓨터를 살 때와 홈 오디오를 살 때 소비 성향이 달라질 수 있는데, 이러한 세부 상품군별 취향 차이를 읽어 추천에 반영할 수 있는 인공지능(AI) 기술이 나왔다.UNIST 인공지능대학원 이연창 교수팀은 세부 상품군에 따라 달라지는 소비자의 구매 성향을 제대로 읽어낼 수 있는 ‘교차 도메인 추천 기술’인 ‘멀티탭(Multi-TAP)’을 개발했다고 6일 밝혔다.교차 도메인 추천 기술은 한 사용자가 자주 구매해 기록이 충분히 쌓인 상품 분야에서 얻은 정보를, 그 사용자에게 기록이 부족한 다른 상품 분야의 추천에 활",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "UNIST 이연창 교수팀이 상품 카테고리별로 달라지는 소비자 취향을 반영해 맞춤형 추천을 제공하는 '멀티탭' AI 기술을 개발했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41325_62224_3940_v150.jpg",
+    "score": 7.624,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "GIST 이현주 교수팀, 알파폴드3 '내부 표현 정보' 활용한 AI ‘알파 DTA’ 개발...신약 후보물질 예측 정확도 향상",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41324",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-06T08:28:46+00:00",
+    "raw_excerpt": "신약을 개발하려면 수많은 후보 약물 가운데 어떤 물질이 질병의 원인이 되는 단백질에 가장 잘 달라붙는지를 먼저 찾아야 한다. 하지만 이를 모두 실험으로 확인하려면 막대한 시간과 비용이 들기 때문에, 컴퓨터가 약물과 단백질의 결합 가능성을 미리 예측하는 인공지능(AI) 기술이 신약 개발의 핵심 도구로 주목받고 있다.GIST 연구팀은 이러한 예측의 정확도를 높이기 위해 세계 최고 수준의 AI 단백질 구조 예측 모델인 ‘알파폴드3(AlphaFold3)’의 내부 표현 정보를 활용하는 새로운 AI 모델을 개발했다.광주과학기술원(GIST) A",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "GIST 이현주 교수팀이 AlphaFold3의 내부 정보를 활용한 'Alpha DTA' AI 모델을 개발해 신약 후보물질의 단백질 결합 예측 정확도를 향상시켰다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41324_62220_2455_v150.jpg",
+    "score": 7.609,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "국내 최대 규모 400MW 태양광단지 착공…RE100 전력 연간 529GWh 공급",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213591",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-06T10:50:00+00:00",
+    "raw_excerpt": "전남 해남에 단일 부지 기준 국내 최대 규모인 400메가와트(MW) 태양광발전단지가 들어선다.염해간척지를 활용해 대규모 재생에너지 전원을 확보하고, 생산 전력을 RE100 기업과 AI 데이터센터 등에 공급하는 사업이다. 국산 기자재 사용과 주민 이익공유도 함께 추진된다.기후에너지환경부는 해남에서 ‘해남 재생복합단지 태양광 발전사업’ 착공식을 연다고 6일 밝혔다. 착공식은 7일 김성환 기후에너지환경부 장관과 지역 관계자, 주민 등 약 250명이 참석한 가운데 열릴 예정이다.사업 부지는 염해간척지 등 유휴부지 약 479만㎡다. 정부는",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "전남 해남에 국내 최대 규모 400MW 태양광발전단지가 착공되며, 연간 529GWh의 재생에너지를 RE100 기업과 AI 데이터센터 등에 공급할 예정이다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213591_217111_474.jpg",
+    "score": 7.46,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "AI시대 ‘승자’는?… 전기 혁명 당시 에디슨에 비유해보니",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213576",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-06T06:55:00+00:00",
+    "raw_excerpt": "AI타임스 조예주 기자 joyejuoffice@aitimes.com",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "전기 혁명 때 에디슨처럼 AI 시대의 승자는 기술 개발자보다 인프라를 구축하는 기업이 될 것으로 예측된다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213576_217093_1947.jpg",
+    "score": 7.141,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "법무법인 태평양, 국내 로펌 최초 '챗GPT 엔터프라이즈' 전사 도입",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213569",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-05T16:06:13+00:00",
+    "raw_excerpt": "오픈AI는 법무법인 태평양이 기업용 AI 서비스 '챗GPT 엔터프라이즈'를 전사 도입했다고 5일 밝혔다.국내 대형 로펌이 전사 조직에 기업용 AI를 도입한 것은 이번이 처음이다.태평양은 챗GPT 엔터프라이즈를 기반으로 업무 특화 기능인 '챗GPT 워크'를 전사 적용해 법률 리서치와 문서 작성, 해외 법령·규제 검토 등 다양한 업무에 활용할 계획이다. 변호사를 포함해 로펌 전 직군이 활용해 반복 업무 시간을 줄이고, 고객을 위한 고부가가치 업무에 집중할 수 있도록 한다는 방침이다.특히 챗GPT 엔터프라이즈와 글로벌 리걸 AI 플랫폼",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "법무법인 태평양이 국내 로펌 최초로 ChatGPT 엔터프라이즈를 전사 도입해 법률 리서치, 문서 작성 등 반복 업무를 효율화할 계획이다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213569_217085_109.jpg",
+    "score": 6.913,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "한림대강남성심병원, AI기반 감염관리 체계 구축…의료현장 스마트 감염관리 제시",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41313",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-05T08:36:35+00:00",
+    "raw_excerpt": "한림대학교강남성심병원(병원장 이동진)은 생성형 AI를 활용한 감염관리 업무 혁신과 인공지능 기반 항생제 처방지원 시스템 구축을 추진하며 스마트 감염관리 체계 고도화에 나서고 있다.감염내과 이재갑 교수(감염관리실장)는 지난달 29일 감염관리 서포터즈와 교직원을 대상으로 ‘AI와 감염관리: 생성형 AI 활용 스마트워킹’ 특별강연을 열고, 의료진의 업무 효율성과 환자 안전 향상을 위해 한림대학교강남성심병원이 휴버(Huver)와 공동 개발 중인 인공지능 기반 항생제 처방지원 시스템을 소개했다.강연에서는 감염병 분야가 전자의무기록(EMR),",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "한림대강남성심병원이 생성형 AI와 인공지능 기반 항생제 처방지원 시스템을 도입해 스마트 감염관리 체계를 구축하고 있다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41313_62211_3614_v150.jpg",
+    "score": 6.719,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "생성형 ai"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "텐센트, 2950억개 매개변수 갖춘 전문가 혼합 AI 모델 'Hy3' 글로벌 공개",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41321",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-05T20:28:25+00:00",
+    "raw_excerpt": "텐센트(Tencent)는 5일, 지난달 국내 출시한 인공지능(AI) 모델 '텐센트 Hy3(Tencent Hy3, 구 텐센트 훈위안)'의 글로벌 서비스 범위를 확대한다고 밝혔다. 이번 확대를 통해 개발자와 개인 이용자, 기업 고객은 다양한 방식으로 Hy3를 경험하고, 기존 서비스와 업무 환경에 손쉽게 연동해 활용할 수 있게 됐다.개인 이용자와 기업 고객은 워크버디(WorkBuddy-보기)를 통해 Hy3를 사용할 수 있으며, 오는 8월 31일까지 전 세계에서 무료로 이용할 수 있다. 또한 텐센트 디자인 미오라(Tencent Design",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "텐센트가 2950억 매개변수 규모의 전문가 혼합 AI 모델 'Hy3'를 글로벌에 공개하고 8월 31일까지 무료로 제공한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41321_62218_2723_v150.jpg",
+    "score": 6.709,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "코히어, 토큰 종량제 대신 정액제·소형 모델로 B2B 공략",
+    "url": "https://byline.network/2026/08/0805-7/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-08-05T08:15:59+00:00",
+    "raw_excerpt": "이번 기자간담회는 아시아태평양 지역 사업 확대 전략을 공유하고 소버린 인공지능(AI) 플랫폼의 비용 효율성을 알리기 위한 목적으로 주최됐다. 현재 대다수 거대언어모델(LLM) 공급사는 데이터 처리 단위인 토큰을 기준으로 요금을 매긴다. 사용자가 질문을 던지고 답변을 받을 때마다 실시간으로 비용이 발생하는 시스템이다. 전사적으로 기술을 도입할수록 사용량이 급증해 기업 입장에서는 정확한 정보기술(IT) 예산을 세우기 어렵다는 의견도 존재한다.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Cohere가 토큰 종량제 대신 정액제와 소형 모델로 기업 고객의 예산 예측성을 높이며 B2B 시장 공략을 강화하고 있다.",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/08/Cohere-2-720x465.jpg",
+    "score": 6.136,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "llm"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Here's the prompt I used against Fable 5 running in Claude Code for web, in combination with the screenshots from that four year old tweet",
+    "url": "https://x.com/simonw/status/2085090576240926780",
+    "source": "X @simonw",
+    "source_type": "x",
+    "published_at": "2026-08-05T19:48:27+00:00",
+    "raw_excerpt": "Here's the prompt I used against Fable 5 running in Claude Code for web, in combination with the screenshots from that four year old tweet",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Claude의 코드 실행 기능으로 4년 전 스크린샷을 기반으로 Fable 5에 대한 프롬프트 테스트를 수행했습니다.",
+    "thumbnail": "https://pbs.twimg.com/media/HO-6tStboAAako6.jpg:large",
+    "score": 5.699,
+    "engagement": 3183,
+    "matched_keywords": [
+      "claude",
+      "claude code"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "라온시큐어, 정부 추진 블록체인 특성화 대학 지원사업 수행",
+    "url": "https://zdnet.co.kr/view/?no=20260806102515",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-06T01:25:15+00:00",
+    "raw_excerpt": "[지디넷코리아]AI 보안·인증 플랫폼 기업 라온시큐어(대표 이순형·이정아)가' 2026년 블록체인 특성화 대학(원) 지원사업'에 수행기업으로 선정됐다. 과학기술정보통신부와 한국인터넷진흥원(KISA)이 추진하는 사업이다. 정부 주도 블록체인 인재 양성사업의 핵심 축을 맡는다.6일 회사에 따르면, 이번 사업은 대학과 산업계가 협력해 산업 현장에서 요구하는 블록체인 교육과정을 운영하고, 실무 역량을 갖춘 전문인력을 양성하기 위한 것이다. 블록체인 교과 과정과 실습, 문제 해결형 프로젝트, 멘토링, 기업 인턴십 등을 유기적으로 연결해 대학 교육과 산업 수요간 간극을 줄이는 것이 핵심이다.라온시큐어는 지난 5일 열린 현판식을 시작으로 본격적인 사업 수행에 나선다. 서울여자대학교·건양대학교·한세대학교의 공통 블록체인 기술 인프라를 제공하는 ‘유니버시티 허브(University Hub)’를 맡아 블록체인 기술과 산업 경험을 대학 교육 전반에 확산한다.회사는 우선 학생들이 실제 서비스 현장과 같은 환경에서 블록체인 기술을 익힐 수 있게 공동 실습 환경을 제공한다. 학생들은 단순히 시연이나 모의 체험을 넘어 블록체인 시스템을 직접 구축하고, 그 위에서 다양한 서비스를 개발 및 실행하는 전 과정을 경험한다.블록체인 실습이 확장현실(XR) 환경에서 이뤄지는 것도 특징이다. 라온시큐어의 자회사 라온메타가 AI·가상융합 실습 전문 플랫폼 ‘메타데미’의 대학",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "라온시큐어가 정부 주도 블록체인 특성화 대학 지원사업 수행기업으로 선정되어 3개 대학의 블록체인 교육 인프라 제공 및 실무 인재 양성을 주도한다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/06/97303a153e7b6c7a94f3aa7ed98c430d.jpg",
+    "score": 5.31,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai 보안",
+      "보안"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "이동형 데이터센터, 며칠 만에 뚝딱…런웨어 '소닉 추론 포드' 공개",
+    "url": "https://zdnet.co.kr/view/?no=20260806100424",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-06T01:04:24+00:00",
+    "raw_excerpt": "[지디넷코리아]AI 인프라 기업 런웨어가 모듈형 데이터센터 소닉 인퍼런스 포드를 공개했다. 현지 시각 8월 4일 발표로, 컨테이너처럼 떼었다 붙였다 할 수 있는 한 덩어리로 설계됐고, 대형 클라우드 기업이 짓는 초대형 데이터센터와 나란히 쓰는 방식이다.런웨어는 서버를 직접 빌리지 않고 쓰는 다른 추론 서비스나 GPU 대여 클라우드보다 높은 품질과 낮은 비용으로 추론을 제공할 수 있다고 주장한다. 추론은 이미 학습된 AI 모델이 실제 요청을 받아 결과를 내놓는 과정을 말한다. 플라비우 라둘레스쿠 공동창업자 겸 최고경영자는 고정형 데이터센터를 확장하는 대신 포드를 새로 만드는 방식으로 용량을 빠르게 늘릴 수 있다고 설명했다.포드는 냉각수를 밖으로 흘려보내지 않고 내부에서 돌려 쓰는 방식이라 물을 따로 소비하지 않으며, 며칠이면 구축할 수 있다. 일반적인 데이터센터는 수개월에서 수년까지 걸린다. 런웨어는 현재 미국과 유럽, 아시아태평양에 포드 10개를 배치 중이고, 포드를 가동할 수 있는 부지 160곳을 확보했다. 힉스필드 AI와 윅스에 추론을 제공하고 있으며, 지난해 12월 5,000만 달러(약 715억 원) 규모 시리즈 A를 발표했다.라둘레스쿠는 \"우리는 더 빠른 추론을 위해 최종 이용자 가까이에 배치된 분산 컴퓨트가 장기적으로 이길 것이라고 믿는다.\" 그는 이어 \"모든 포드가 하나의 네트워크 일부로 돌아가기 때문에 요청은 용량이 있는",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "런웨어가 컨테이너처럼 조립 가능한 모듈형 데이터센터 '소닉 추론 포드'를 공개했으며, 며칠 안에 구축 가능하고 물 소비 없이 빠른 AI 추론 서비스를 제공할 수 있다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/05/aib5307f8b0b3ba86f70adec789bbd3984.jpg",
+    "score": 5.29,
+    "engagement": 0,
+    "matched_keywords": [
+      "시리즈 a",
+      "창업"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "LS일렉트릭, ESS PCS 첫 출하…AIDC 수요 정조준",
+    "url": "https://zdnet.co.kr/view/?no=20260806090430",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-06T00:42:32+00:00",
+    "raw_excerpt": "[지디넷코리아]LS일렉트릭이 차세대 에너지저장장치(ESS) 전력변환장치(PCS) ‘G2’를 본격 양산, 인공지능(AI) 데이터센터향 수요를 공략할 전망이다.LS일렉트릭은 지난 5일 충남 천안사업장 DC팩토리에서 ‘차세대 ESS용 PCS G2 초도 출하식’을 개최했다고 6일 밝혔다.구자균 회장은 천안 DC팩토리를 찾아 G2 전용 생산라인을 직접 둘러보고 생산 계획 및 품질 관리 현황 등을 집중 점검했다.구 회장은 현장 임직원들에게 “본격화되는 직류(DC) 패러다임 전환 속에서 천안 DC팩토리는 LS일렉트릭의 DC 생태계 전반에 걸친 기술 경쟁력을 증명하는 핵심 전초기지”라며 “무결점 품질 기반의 완벽한 제품 생산을 통해 DC 시대의 주도권을 확실히 확보하고 글로벌 ESS 시장을 선도해 나가자”고 당부했다.이날 초도 출하된 G2는 LS일렉트릭의 글로벌 향(向) 차세대 ESS용 PCS다. G2는 LS일렉트릭의 PCS 설계 기술로 개발돼 운영 효율성과 공간 활용도를 극대화, 배터리 일체형 ESS의 핵심 솔루션이란 설명이다.회사는 특히 혁신적인 수냉식 냉각 기술을 적용해 기존 공랭식 대비 발열 제어 성능과 내구성을 강화하고, 제품 설치 면적을 줄여 제한된 공간 내에서도 최적의 전력 운용 환경을 제공한다고 강조했다.생산 거점인 천안 DC팩토리는 반도체 변압기(SST), 반도체 차단기(SSCB), ESS 등 LS일렉트릭의 직류 전용 핵심 기기가 ",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "LS일렉트릭이 AI 데이터센터 수요를 겨냥한 차세대 ESS용 전력변환장치 'G2'를 본격 양산하기 시작했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/06/00cb1b56de9a207a3ae54777cb03e803.jpg",
+    "score": 5.27,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "DuckDuckGo의 스마트 글래스: Normal F***ing Sunglasses",
+    "url": "https://news.hada.io/topic?id=32198",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-08-06T02:50:55+00:00",
+    "raw_excerpt": "이 스마트 안경은 AI도 카메라도 없습니다. 태양빛을 막기 위해 설계되었으며, 클라우드로 보내는 데이터는 없습니다. 프라이버시 중심 검색엔진 DDG가 Knockaround 와의 콜라보레이션으로 출시한 이 안경은 스마트글래스와 유",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "DuckDuckGo가 Knockaround와 협력해 AI와 카메라 없이 프라이버시를 보호하는 단순한 선글래스를 출시했습니다.",
+    "thumbnail": "https://social.news.hada.io/topic/32198?v=5448f889364366ac80006245520eb28b",
+    "score": 5.239,
+    "engagement": 0,
+    "matched_keywords": [
+      "프라이버시"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Cost is the right first target for agent infrastructure.",
+    "url": "https://help.x.com/rules-and-policies/paid-partnerships-policy",
+    "source": "X @omarsar0",
+    "source_type": "x",
+    "published_at": "2026-08-05T19:52:43+00:00",
+    "raw_excerpt": "Cost is the right first target for agent infrastructure.\n\nAn agent can pay for search, scraping, model access, or email mid-run through one interface.\n\nCongrats \n@sapiom\n on the $35M Series A.\n\nThey shipped three products: a cost-aware model Router, Agent Studio for building, and a",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "AI 에이전트 인프라의 첫 번째 과제는 비용 최적화이며, Sapiem이 $35M Series A 펀딩을 받으며 비용 인식형 라우터와 에이전트 빌딩 스튜디오 등 세 가지 제품을 출시했다.",
+    "thumbnail": "",
+    "score": 5.202,
+    "engagement": 3433,
+    "matched_keywords": [
+      "series a"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "ChatGPT Work is OpenAI's fighter in the highest stake product category in history: bringing the power of coding agents to the masses.",
+    "url": "https://t.co/jyDDc6izjA",
+    "source": "X @shloked",
+    "source_type": "x",
+    "published_at": "2026-08-05T19:40:08+00:00",
+    "raw_excerpt": "ChatGPT Work is OpenAI's fighter in the highest stake product category in history: bringing the power of coding agents to the masses.\n\nIt's also how a billion users will soon use ChatGPT by default.\n\nI spent the last few days unpacking:\n\n> how every user gets a persistent",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "OpenAI, ChatGPT Work을 출시하며 코딩 에이전트 기술을 대중화하고 수십억 사용자의 기본 인터페이스로 만들려는 전략을 펼친다.",
+    "thumbnail": "",
+    "score": 5.194,
+    "engagement": 1195,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "if you have been following his excellent work, ",
+    "url": "https://x.com/swyx/status/2085073764551962960",
+    "source": "X @swyx",
+    "source_type": "x",
+    "published_at": "2026-08-05T18:41:38+00:00",
+    "raw_excerpt": "if you have been following his excellent work, \n@shloked\n has been breaking down every frontier labs' harness engineering for the last few months.\n\nexcited to publish his deepest dive into ChatGPT yet as our newest guest on \n@Latentspacepod\n!",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Frontier Labs의 엔지니어링을 분석해온 Shloked이 ChatGPT에 대한 심층 분석을 Latent Space 팟캐스트에 게스트로 출연한다.",
+    "thumbnail": "https://pbs.twimg.com/media/HO-rZzmbwAAZDYo.jpg:large",
+    "score": 5.153,
+    "engagement": 10828,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Today, we're introducing ",
+    "url": "https://x.com/farhunky/status/2085046259543629947",
+    "source": "X @farhunky",
+    "source_type": "x",
+    "published_at": "2026-08-05T16:52:21+00:00",
+    "raw_excerpt": "Today, we're introducing \n@shotwellst\n.\n\nWe're solving the hardest problem in robotics: understanding your data\n\nThere’s no point collecting robotics data if you don't understand whats happening in it, but your options are limited. If you need dense, accurate labels with precise",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "Shotwell을 출시하여 로봇 데이터 분석의 어려움을 해결하는 솔루션을 제공한다.",
+    "thumbnail": "https://pbs.twimg.com/profile_images/2085046675207536640/H2pnA7qN_200x200.jpg",
+    "score": 5.077,
+    "engagement": 14519,
+    "matched_keywords": [
+      "robotics"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "현대차 신형 아반떼, 계약 첫날 1만1094대…역대 기록 경신",
+    "url": "https://zdnet.co.kr/view/?no=20260806101430",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-06T01:14:30+00:00",
+    "raw_excerpt": "[지디넷코리아]현대자동차의 준중형 세단 '디 올 뉴 아반떼'가 계약 개시 첫날 1만1094대의 계약을 기록하며 역대 아반떼 가운데 가장 높은 첫날 계약 실적을 달성했다.현대차는 6일 디 올 뉴 아반떼의 계약 첫날 실적이 1만1094대로 집계됐다고 밝혔다. 이는 2020년 출시된 7세대 아반떼의 첫날 계약 실적인 1만58대를 넘어선 수치다.특히 전기차 전환과 스포츠유틸리티차(SUV) 선호가 확대되는 시장 환경에서도 내연기관 기반 준중형 세단이 계약 첫날 1만 대를 넘어섰다는 점에서 의미가 있다는 평가다.현대차는 초기 흥행 배경으로 디자인과 함께 공간성, 안전성, 주행 성능, 편의·디지털 사양 등 전반적인 상품성을 강화한 점을 꼽았다.실제 계약에서는 최상위 트림인 '인스퍼레이션'의 선택 비중이 52%로 가장 높았고, 모던과 프리미엄 트림은 각각 24%를 차지했다. 현대차는 준중형 차급에서도 첨단 사양과 상품성을 중시하는 소비자 수요가 반영된 결과로 분석했다.기본 트림 선택 비중도 기존 아반떼의 4%에서 24%로 높아졌다. 현대차는 차세대 인포테인먼트 시스템 '플레오스 커넥트'와 안전·편의 사양을 기본 적용한 점이 영향을 미친 것으로 봤다.파워트레인별로는 가솔린 모델이 높은 인기를 유지한 가운데 하이브리드 모델의 선택 비율은 27.5%를 기록했다. 이는 기존 아반떼의 14.8%와 비교해 두 배 가까이 늘어난 수준이다.하이브리드 모델은 정부",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "현대차 신형 아반떼가 계약 첫날 1만1094대를 기록하며 역대 최고 첫날 판매 기록을 세웠고, 상위 트림과 하이브리드 선택 비중이 크게 증가했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/06/1635f54dd7ebde7afec8e1f0513abdb7.jpg",
+    "score": 4.625,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "에쓰오일, 2025 ESG 보고서 발간",
+    "url": "https://zdnet.co.kr/view/?no=20260806095939",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-06T01:04:08+00:00",
+    "raw_excerpt": "[지디넷코리아]에쓰오일(대표 안와르 알 히즈아지)은 2025 ESG 보고서를 발간했다고 6일 밝혔다. 회사는 2008년부터 19년 연속 ESG 보고서를 발간하고 있다.이번 보고서는 이중 중대성 평가를 통해 도출된 핵심 보고 이슈들을 중심으로 구성했다. 사내외 이해관계자의 의견과 외부 환경 변화를 종합적으로 반영해 ▲산업안전보건 관리 ▲기후변화 대응 ▲환경오염물질 관리 ▲준법 및 윤리경영 ▲재무건전성 및 투명성을 5가지의 핵심 보고 이슈로 선정했다. 이에 대한 회사의 영향 및 위험 및 기회와 주요 대응 전략, 성과를 공개했다.에쓰오일은 기후변화 대응과 환경경영 강화를 위해 다양한 감축 활동을 지속하고 있다. 공정 운영 개선, 저탄소 유틸리티 활용, 수소 도입, 탄소 포집 및 활용, 배출권 확보 등 다양한 탄소 감축 기회를 모색하고 있으며, 환경 설비 투자를 통해 대기오염물질 배출량을 지속적으로 감축하며 환경 영향 최소화를 위한 노력을 이어가고 있다.이와 함께 에너지 전환과 시장 변화에 대응해 사업 포트폴리오 경쟁력을 강화하고 있다. 특히 '샤힌 프로젝트'는 창사 이래 최대 규모의 투자 사업으로, 석유화학 사업 비중을 확대해 사업 구조의 안정성과 수익성을 높이고 미래 성장 기반을 강화할 것으로 기대했다.산업안전보건 분야에서는 사고 예방 중심의 선제적 안전관리 체계를 지속적으로 강화하고 있다. AI 기반 안전 프로그램 운영, 행동 기반 안",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "에쓰오일이 2008년부터 19년 연속 발간 중인 2025 ESG 보고서에서 산업안전, 기후변화 대응, 환경오염 관리 등 5대 핵심 이슈를 선정해 공개했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/06/c84250f94e61666d08fb78462df70fe5.png",
+    "score": 4.615,
+    "engagement": 0,
+    "matched_keywords": [
+      "사내"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "LGU+ 통합계정관리 알파키, CSAP 인증 획득",
+    "url": "https://zdnet.co.kr/view/?no=20260806094736",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-06T00:58:35+00:00",
+    "raw_excerpt": "[지디넷코리아]LG유플러스 통합 계정관리 서비스(IDaaS) '알파키'는 클라우드서비스 보안인증(CSAP) SaaS 표준 등급을 획득해 정부와 공공기관, 공기업 대상으로 서비스를 확장할 수 있는 기반을 갖추게 됐다고 6일 밝혔다.클라우드서비스 보안인증제는 클라우드컴퓨팅 발전과 이용자 보호에 관한 법률에 따라 클라우드 기업 서비스가 정보보호 기준을 준수하고 있는지 여부를 한국인터넷진흥원(KISA)이 인증하는 제도다. 공공 부문에 클라우드 서비스를 공급하기 위해 CSAP 인증이 필수 요건으로 꼽힌다.지난해 출시한 알파키는 LG유플러스가 기업 계정·접근권한 관리 강화를 위해 선보인 클라우드 기반 통합 계정관리 서비스다. 임직원 계정 정보와 업무 시스템, SaaS별 접근 권한을 통합 관리하고 하나의 계정으로 다양한 업무 서비스를 이용할 수 있도록 지원한다. 비정상 로그인이나 권한 오남용 등 이상 행위를 실시간으로 탐지해 보안 위협에 선제 대응할 수 있도록 돕는다.알파키는 단일 로그인(SSO)을 제공해 임직원이 업무 도구별 아이디와 비밀번호를 개별적으로 관리할 필요 없이 보다 편리하게 업무를 수행할 수 있도록 한다. '동형 암호(암호화된 상태에서 연산해 데이터를 처리하는 기술)'를 적용해 계정 정보 유출 위험을 막을 수 있도록 보안성을 높였다. 또한 양자내성암호(PQC) 기반 인증 기술을 활용해 양자컴퓨터 환경에서도 민감정보와 주요 업무 자산",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "LG유플러스의 통합계정관리 서비스 '알파키'가 CSAP 인증을 획득하며 정부·공공기관 대상 서비스 확장의 기반을 마련했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/06/ad314cc8eb1819d5989ed1aa843fb959.jpg",
+    "score": 4.61,
+    "engagement": 0,
+    "matched_keywords": [
+      "양자"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "앤앤에스피-알서포트, N2SF·제어망 시장 공략 협력",
+    "url": "https://zdnet.co.kr/view/?no=20260806095033",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-06T00:50:33+00:00",
+    "raw_excerpt": "[지디넷코리아]사이버물리시스템(CPS) 보안 전문기업 앤앤에스피(대표 김일용)와 원격지원 전문기업 알서포트(대표 서형수)가 협력한다. 두 회사는 국가망보안체계(N2SF) 및 산업제어망에 적용할 수 있는 안전한 원격지원 사업모델을 공동으로 발굴한다. 원격 유지보수 편의성과 제어망 보안의 안전성을 결합한다.6일 두 회사는 알서포트의 원격지원 기술을 앤앤에스피의 크로스도메인솔루션(물리적 일방향, 물리적 역일방향, 물리적 양방향 통신) 및 제어망 보안 모니터링, 장애 분석 솔루션과 연동, 국가와 공공기관, 산업현장에 적용, 안전한 환경을 구현한다고 밝혔다.최근 국가·공공기관과 발전·철도·수처리·제조시설에서는 외부 유지보수 인력이 시스템에 원격으로 접속해야 하는 상황이 늘었다. 장애에 신속히 대응할 수 있는 장점이 있지만, 접속 권한과 작업 과정이 제대로 통제되지 않으면 외부 침입이나 악성코드 유입 경로로 악용될 수 있다. 특히 산업제어망은 설비 중단이 생산 차질이나 안전사고로 이어질 수 있어 일반 업무망보다 엄격한 접근통제와 망 간 데이터 전송 정책이 필요하다.두 회사는 ‘누가, 언제, 어떤 승인을 받아, 어느 시스템에 접속했는지’를 관리하는 원격지원 기술과 망 간 연결 및 제어망 이상징후를 감시하는 보안 기술을 함께 적용할 방침이다. 알서포트는 온라인 용역통제시스템으로 활용할 수 있는 ‘리모트뷰 SE(RemoteView SE)’를 비롯해 ",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "앤앤에스피와 알서포트가 N2SF·산업제어망에 안전한 원격지원 솔루션을 적용하기 위해 협력하며, 원격 유지보수 편의성과 제어망 보안을 결합한다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/06/a911f3fe6391ac5eb59dd08f43eb27ff.png",
+    "score": 4.602,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "삼성전자, '갤Z8' 시리즈·'갤워치9' 공식 출시...'울트라' 257만 7300원",
+    "url": "https://zdnet.co.kr/view/?no=20260806085807",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-06T00:31:17+00:00",
+    "raw_excerpt": "[지디넷코리아]삼성전자가 차세대 폴더블 스마트폰과 스마트워치 신제품을 국내 시장에 정식 출시한다.삼성전자는 '갤럭시 Z 폴드8 울트라·폴드8·플립8'과 '갤럭시 워치 울트라2·워치9'을 7일부터 국내 시장에 선보인다고 6일 밝혔다.신형 폴더블 스마트폰은 지난달 28일부터 이달 3일까지 진행된 사전 판매에서 역대 최고 기록인 144만대 판매량을 달성했다. 사전 구매 고객 10명 중 7명이 '갤럭시 Z 폴드8'를 선택했다. 삼성닷컴 사전 구매 고객 중 1030세대의 비중은 50%를 기록했다. 특히 폴드 라인업의 1030 여성 구매 고객은 전작 대비 2배 이상 늘어났다.'갤럭시 Z 폴드8 울트라'는 203.1mm 화면을 탑재하고도 무게 215g, 펼쳤을 때 두께 4.1mm를 구현했다. 2억 화소 메인 카메라와 5000만 화소 초광각 카메라, 5000mAh 대용량 배터리를 적용했다. 국내 출고가는 256GB 저장 용량을 탑재한 기본 모델 기준 257만 7300원이다. '갤럭시 Z 폴드8'은 201g의 무게에 4:3 비율의 메인 화면을 갖췄다. '갤럭시 Z 플립8'은 무게 180g, 두께 6.1mm로 휴대성을 강화했으며, 미러뷰 기능을 추가했다. 출고가는 기본 모델 기준 168만 3000원이다.스마트워치 라인업도 사전 판매에서 두 자릿수 성장세를 기록했다. '갤럭시 워치 울트라2'는 800mAh 배터리와 최대 5,000니트 밝기의 디스플레이를",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "삼성전자가 갤럭시Z폴드8·플립8과 갤럭시워치9을 국내 정식 출시했으며, 사전판매에서 역대 최고 144만대를 기록했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/06/e77225fcb14249d4451d708fc0ec3235.jpg",
+    "score": 4.584,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "\"AX에 필요한 모든 정보를 한눈에\"...AX 원스톱 지원포털 'AX360°' 서비스 개시",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41307",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-04T21:38:04+00:00",
+    "raw_excerpt": "과학기술정보통신부(부총리 겸 과기정통부 장관 배경훈, 이하 과기정통부)와 한국인공지능·소프트웨어산업협회(회장 조준희, 이하 KOSA)는 4일 ,정부 AX 사업과 민·관의 AI 자원, 국내 AI 기업·솔루션 정보를 모은 “AX360°(AX360.kr)”의 서비스를 개시한다고 밝혔다.최근 정부 부처의 인공지능 전환(AX) 사업이 빠르게 확대되고, 민간에서도 GPU·AI모델·데이터 등 다양한 AI 자원이 공급되고 있다. 그러나 관련 정보가 부처별 사이트나 개별 기업 등에 분산되어 있어, 기업과 정부기관·연구자들이 필요한 사업과 자원을 일",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "과학기술정보통신부와 KOSA가 정부 AI 전환(AX) 사업과 민간 AI 자원 정보를 한곳에서 제공하는 'AX360°' 포털을 4일 오픈했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41307_62204_3741_v150.jpg",
+    "score": 4.096,
+    "engagement": 0,
+    "matched_keywords": [
+      "ax"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "DuckDuckGo's new iPhone feature is a privacy win - I recommend getting it now",
+    "url": "https://www.zdnet.com/article/duckduckgo-is-adding-a-feature-for-iphone-that-everyone-should-have/",
+    "source": "ZDNet (Global, AI)",
+    "source_type": "rss",
+    "published_at": "2026-08-06T02:00:43+00:00",
+    "raw_excerpt": "The iPhone version of the DuckDuckGo app has a new feature that makes sharing links easier and safer.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "DuckDuckGo의 새로운 iPhone 기능이 링크 공유를 더 안전하고 쉽게 만들어 사용자 프라이버시를 강화한다.",
+    "thumbnail": "https://www.zdnet.com/a/img/resize/7096064609ecfafd51f16fba090a266b6ad1367d/2026/08/05/3e6dcc64-b046-4460-b1e3-4e14fa83fa0d/copycleanlinkhero.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "score": 3.804,
+    "engagement": 0,
+    "matched_keywords": [
+      "privacy"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "noon"
+  }
+]
