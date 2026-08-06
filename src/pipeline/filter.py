@@ -5,6 +5,7 @@
 """
 from __future__ import annotations
 
+import logging
 import re
 from collections import Counter
 from datetime import timezone
@@ -15,6 +16,8 @@ from dateutil import parser as dateparser
 from ..config import Config
 from ..models import Article
 from ..util import now_utc
+
+log = logging.getLogger("axnewsbot")
 
 
 @lru_cache(maxsize=4096)
@@ -180,6 +183,67 @@ def _dedupe_stories(
     return kept
 
 
+def _apply_guarantees(
+    chosen: list[Article],
+    ranked: list[Article],
+    config: Config,
+    max_total: int,
+) -> list[Article]:
+    """topic 에 guarantee_min_per_slot 이 설정돼 있으면, 후보(ranked)에 그 주제 기사가
+    있는데도 회차 선별(chosen)에서 최소 건수 미만이면 강제로 채워 넣는다.
+
+    상한(max_total)에 걸리면, 자기 자신의 최소 보장은 깨지 않는 기사들 중 가장
+    점수가 낮은 것과 교체한다. 후보 자체가 없는 주제는 그대로 둔다(기사 조작 금지).
+    """
+    guarantees = {
+        t["key"]: int(t.get("guarantee_min_per_slot", 0))
+        for t in config.topics
+        if t.get("guarantee_min_per_slot")
+    }
+    if not guarantees:
+        return chosen
+
+    chosen_ids = {id(a) for a in chosen}
+
+    def _topic_count(key: str) -> int:
+        return sum(1 for a in chosen if a.topic == key)
+
+    for topic_key, min_count in guarantees.items():
+        missing = min_count - _topic_count(topic_key)
+        if missing <= 0:
+            continue
+        candidates = [
+            a for a in ranked if a.topic == topic_key and id(a) not in chosen_ids
+        ]
+        for cand in candidates[:missing]:
+            if len(chosen) < max_total:
+                chosen.append(cand)
+                chosen_ids.add(id(cand))
+                log.info("최소 보장 topic '%s' 기사 강제 포함: %s", topic_key, cand.title)
+                continue
+            victim_idx = None
+            for i in range(len(chosen) - 1, -1, -1):
+                v = chosen[i]
+                v_min = guarantees.get(v.topic, 0)
+                if v_min and _topic_count(v.topic) <= v_min:
+                    continue  # 이 기사를 빼면 v.topic 자신의 최소 보장이 깨짐
+                victim_idx = i
+                break
+            if victim_idx is None:
+                break  # 교체 가능한 자리 없음 — 포기
+            removed = chosen[victim_idx]
+            chosen_ids.discard(id(removed))
+            chosen[victim_idx] = cand
+            chosen_ids.add(id(cand))
+            log.info(
+                "최소 보장 topic '%s' 확보를 위해 '%s' 대신 포함: %s",
+                topic_key, removed.title, cand.title,
+            )
+
+    chosen.sort(key=lambda a: a.score, reverse=True)
+    return chosen
+
+
 def select(
     articles: list[Article],
     config: Config,
@@ -213,8 +277,10 @@ def select(
         if per_topic.get(a.topic, 0) >= max_per:
             continue
         per_topic[a.topic] = per_topic.get(a.topic, 0) + 1
-        a.slot = slot_key
         chosen.append(a)
         if len(chosen) >= max_total:
             break
+    chosen = _apply_guarantees(chosen, ranked, config, max_total)
+    for a in chosen:
+        a.slot = slot_key
     return chosen

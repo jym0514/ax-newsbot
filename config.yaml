@@ -58,6 +58,9 @@ topics:
     label: "🦾 피지컬 AI (Physical AI)"
     # priority 0 — 항상 다이제스트 최상단에 위치(텔레그램/아카이브 모두 priority 오름차순 정렬).
     priority: 0
+    # 이 주제로 분류된 후보가 있는데도 상한/최소점수에 밀려 회차에서 0건이 되지 않도록,
+    # 후보가 하나라도 있으면 회차마다 최소 이 건수만큼 강제 포함한다(filter.select 참고).
+    guarantee_min_per_slot: 1
     keywords:
       - "physical ai"
       - "physical-ai"
