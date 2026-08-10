@@ -1,0 +1,576 @@
+[
+  {
+    "title": "“이제는 바이브 해킹이 온다”...아카마이, 기업 AI 사용 리스크 보고서 발표",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213740",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-10T13:59:24+00:00",
+    "raw_excerpt": "사이버 보안 및 클라우드 전문 아카마이 테크놀로지가 인터넷 현황 보고서인 ‘2026년 기업 AI 사용 리스크 보고서’를 발표하며 AI 시대에 기업의 핵심 자산을 위협하는 새로운 사이버 리스크와 방어 전략을 제시했다. 10일 공개한 보고서에 따르면, 급격한 AI 도입 과정에서 전체 기업 AI 사용량의 절반 가까이가 기존 IT 부서의 통제 범위를 벗어난 개별 계정이나 미승인 애플리케이션을 통해 이뤄지면서 심각한 그림자 AI 리스크를 야기하고 있는 것으로 나타났다.특히 연구진은 올해 AI 코딩 어시스턴트와 자율형 AI 에이전트를 겨냥해",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "아카마이가 발표한 보고서에서 기업 AI 사용량의 절반 가까이가 IT 통제를 벗어난 미승인 채널로 이뤄지며 심각한 보안 위협이 되고 있다고 경고했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213740_217285_421.png",
+    "score": 9.179,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "사이버 보안",
+      "해킹"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "에이전트 폭증에 GPU 이어 CPU도 '비상'...AWS \"내부 자원 낭비 줄여라\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213735",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-10T17:19:26+00:00",
+    "raw_excerpt": "AI 에이전트 확대로 데이터센터의 컴퓨팅 수요가 GPU에서 전통적인 CPU로까지 번지면서 글로벌 클라우드 업계의 ‘컴퓨팅 부족’ 현상이 심화하고 있다. 세계 최대 클라우드 사업자 중 하나인 아마존웹서비스(AWS) 내부에서도 서버 용량을 아껴 써야 할 정도로 공급 여력이 빠듯해지고 있다는 분석이다.7일(현지시간) 디 인포메이션에 따르면, AWS 경영진은 지난 5월 엔지니어들과의 회의에서 앞으로 고객들에게 충분한 컴퓨팅 용량을 제공하기 위해 내부적으로 사용할 수 있는 자원을 최대한 절약해야 한다고 당부했다.여기에는 AI용 GPU뿐만 아",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "AI 에이전트 급증으로 GPU와 CPU 모두 부족해지자 AWS가 내부 자원 절약을 지시했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213735_217280_1119.png",
+    "score": 8.475,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[게시판] 나우로보틱스, 과기부 ‘피지컬 AI’ 실증사업 선정 등 단신",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213765",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-10T17:00:00+00:00",
+    "raw_excerpt": "■ 나우로보틱스는 과학기술정보통신부가 추진하는 국산 AI 반도체 기반 실증·확산 사업의 피지컬 AI 신규 실증 2개 과제 중 하나에 선정됐다고 밝혔다. 24억원 규모의 ‘이동형 양팔로봇’ 산업용 휴머노이드 개발에 나선다는 설명이다. 국산 AI 반도체와 국산 AI 모델, 로봇 기술을 결합해 피킹(Picking)·정렬·이송 등을 자율 수행하는 ‘이동형 양팔로봇’을 개발하고 실제 산업환경에서 실증하는 것이 핵심이다. ■ 클라썸은 오는 26일 대학 입학·학사·학생지원·기획 부서 실무자를 대상으로 온라인 웨비나 '손에 잡히는 대학 AX, 학",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "나우로보틱스가 과기부의 피지컬 AI 실증사업에 선정되어 24억원 규모로 국산 AI 반도체와 로봇 기술을 결합한 이동형 양팔로봇 개발을 추진한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213765_217320_5249.png",
+    "score": 8.448,
+    "engagement": 0,
+    "matched_keywords": [
+      "피지컬 ai",
+      "휴머노이드"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "국내 화이트 해커 팀, '데프콘'에서 5년 연속 상위권 기록",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213757",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-10T16:13:48+00:00",
+    "raw_excerpt": "과학기술정보통신부(장관 배경훈)는 차세대 보안리더 양성 프로그램(BoB) 지도자(멘토) 및 수료생으로 구성된 6개 팀이 국제해킹대회인 ‘2026년 데프콘 국제해킹대회(DEFCON CTF 34)’ 본선에 진출하며 상위권 성적을 거뒀다고 10일 밝혔다.데프콘 국제해킹대회는 미국 최대 규모의 사이버보안 컨퍼런스인 데프콘 행사 기간 중 개최되는 세계 최고 권위의 국제해킹대회로, 올해 본선 대회는 6일부터 9일까지 미국 라스베이거스에서 개최됐다. 온라인 예선을 통과한 전 세계 최정상급 화이트해커와 보안 전문가들이 참가해 공격·방어 기술과 문",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "국내 BoB 프로그램 출신 화이트 해커 6개 팀이 데프콘 국제해킹대회에서 5년 연속 상위권을 달성했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213757_217313_1325.jpeg",
+    "score": 8.386,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "해킹"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "오픈AI·앤트로픽·메타 흔든 이레귤러...\"AI 자율 해킹 아닌 설정 오류\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213734",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-10T14:39:45+00:00",
+    "raw_excerpt": "이스라엘의 소규모 AI 보안 스타트업 이레귤러(Irregular)가 최근 주요 빅테크 기업들의 AI 모델 보안 테스트 도중 발생한 무단 인터넷 접속 및 해킹 논란의 핵심 원인으로 지목되며 주목받고 있다.8일(현지시간) CNBC에 따르면, 오픈AI와 앤트로픽, 메타 등 주요 AI 기업의 모델들이 보안 평가 중 당초 접근이 제한됐던 외부 사이트에 접속하는 일이 발생했으며, 이는 공통으로 이레귤러가 운영하던 평가 환경의 설정 오류에서 비롯된 것으로 확인됐다.이레귤러는 2023년 텔아비브에서 설립된 AI 보안 전문 스타트업이다. IBM에서",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "이레귤러가 OpenAI, Anthropic, Meta 등의 AI 모델이 무단으로 인터넷에 접속하는 사건을 평가 환경의 설정 오류로 발생시켰으며, AI 자율 해킹이 아닌 것으로 확인됐다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213734_217294_3650.png",
+    "score": 8.258,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "중국, '10분 만에 정맥 이식' BCI 개발… 머스크 뉴럴링크에 도전장",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213733",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-10T14:15:33+00:00",
+    "raw_excerpt": "중국이 일론 머스크의 뉴럴링크에 맞서 뇌-컴퓨터 인터페이스(BCI) 분야에서 기술 경쟁력을 확보하기 위해 수술 없이 정맥을 통해 뇌에 삽입할 수 있는 차세대 BCI 개발에 속도를 내고 있다. 9일(현지시간) 사우스차이나모닝포스트(SCMP)에 따르면, 중국 연구진과 스타트업들은 목의 혈관을 통해 기기를 뇌까지 이동시켜 불과 수분 만에 이식하는 기술을 개발하고 있다. 일부 연구에서는 숙련된 의사가 약 10분 만에 기기를 삽입할 수 있는 것으로 나타났다.BCI는 뇌의 신경 신호를 컴퓨터나 디지털 기기가 이해할 수 있는 명령으로 변환하는",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "중국이 목의 혈관을 통해 10분 안에 뇌에 삽입 가능한 비침습적 BCI 기술을 개발 중으로, 머스크의 뉴럴링크와 직접 경쟁하고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213733_217275_3457.png",
+    "score": 8.226,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업",
+      "차세대"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "금융권 AI 경쟁, '모델'서 '통제권'으로",
+    "url": "https://www.etnews.com/20260810000318",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-08-10T08:00:00+00:00",
+    "raw_excerpt": "금융권의 생성형 인공지능(AI) 경쟁이 모델 도입을 넘어 연산 자원과 금융데이터, 접근권한을 직접 관리하는 방향으로 이동하고 있다. AI 활용이 내부 업무지원에서 고객 서비스와 여신·리스크 관리 등으로 넓어지면서 어떤 모델을 쓰느냐뿐 아니라 금융정보를 보호하면서 AI를 안정적으로 운용할 수 있는 역량이 중요해지고 있다. 10일 금융권에 따르면 새마을금고중앙회는 엔비디아 B300 그래픽처리장치(GPU) 64개를 확보해 생성형 AI를 내부에서 운용",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "금융권이 생성형 AI 경쟁을 모델 도입에서 벗어나 연산 자원과 금융데이터 통제권 확보로 전환하면서 AI 안정적 운영 역량이 경쟁력의 핵심으로 부상하고 있다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/08/10/news-p.v1.20260810.91a3232c6bee45508d267fd2820427d2_P1.png",
+    "score": 7.436,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "엔비디아",
+      "생성형 ai"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "중국 AI 산업의 새로운 복병...반도체 넘어 '중국어 학습 데이터 기근' 심화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213730",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-10T16:07:01+00:00",
+    "raw_excerpt": "중국이 미국의 반도체 수출 규제에 대응하며 AI 경쟁력을 끌어올리고 있지만, 이번에는 고품질 중국어 학습 데이터 부족이라는 새로운 병목에 직면하고 있다.8일 사우스차이나모닝포스트(SCMP)는 중국의 AI 산업 성장이 데이터 장벽에 부딪힐 수 있다고 지적했다. 첨단 반도체는 자체 개발이나 우회 조달로 대응할 수 있지만, AI 모델 성능을 좌우하는 양질의 언어 데이터는 단기간에 확보하기 어렵다는 이유에서다.인터넷 통계 분석 업체 W3테크(W3Techs)에 따르면, 전 세계 웹 콘텐츠에서 중국어가 차지하는 비중은 약 1.3%에 불과하다.",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "중국의 AI 산업이 반도체 규제를 우회하더라도 전 세계 웹 콘텐츠의 1.3%에 불과한 중국어 학습 데이터 부족이 새로운 경쟁력 저해 요소로 부상하고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213730_217273_26.jpg",
+    "score": 7.402,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "스페이스X '테라팹', 지구상 최대 공장 건설…자체 천연가스 발전소 구축",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213750",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-10T15:47:45+00:00",
+    "raw_excerpt": "일론 머스크가 이끄는 스페이스X와 테슬라가 텍사스주에 건설을 추진 중인 초대형 반도체 공장 ‘테라팹(Terafab)’의 실체가 점차 드러나고 있다. 테라팹은 최대 1억평방피트(약 929만제곱미터) 규모로 조성될 예정이어서 세계 최대급 건축물 가운데 하나가 될 전망이다. 테슬라 전문 분석가 닉 크루즈 파나테는 6일(현지시간) 테라팹의 예상 규모를 다른 대형 건축물과 비교한 시각화 자료를 공개했다.테라팹의 전체 면적은 1억 평방피트로, 테슬라의 기가 텍사스(1000만 평방피트), 미국 국방부 청사인 펜타곤(660만 평방피트), 애플 파",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "스페이스X와 테슬라가 텍사스에 건설 중인 반도체 공장 '테라팹'이 약 929만제곱미터 규모로 세계 최대급 건축물이 될 전망이며, 자체 천연가스 발전소를 구축하고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213750_217300_752.png",
+    "score": 7.376,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "\"AI 안 썼다\" 해명에도...28억 범죄 소설 계약 결국 철회",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213755",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-10T15:38:57+00:00",
+    "raw_excerpt": "신인 작가의 범죄 소설이 AI 활용 의혹에 휩싸이면서 200만달러(약 28억원) 이상의 대형 출판 계약이 무산됐다. 작품 자체는 출판업계 관계자들로부터 높은 평가를 받으며 14개 출판사가 경쟁하는 경매까지 벌어졌지만, 작가가 원고의 집필부터 완성까지 AI를 사용하지 않았다는 사실을 명확하게 입증하지 못하면서 출판사가 최종적으로 계약을 진행하지 않기로 했다.더 가디언에 따르면, 최근 논란에 휩싸인 작품은 미국 작가 제리 팔라데의 데뷔 범죄 소설 ‘전화해, 시체는 내가 치울게(Call Me, I’ll Hide the Body)’다.이",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "신인 작가의 범죄 소설이 AI 활용 의혹으로 인해 28억원대 출판 계약이 무산됐으며, 작가의 AI 미사용 입증 부족이 주요 원인이다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213755_217302_2218.jpg",
+    "score": 7.364,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "애플, 중국 맥 사용자 대상 애플 인텔리전스에 ‘큐원’ 공식 연동",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213746",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-10T15:27:00+00:00",
+    "raw_excerpt": "애플이 중국 본토에서 AI 기능인 ‘애플 인텔리전스(Apple Intelligence)’에 알리바바의 AI 모델 ‘큐원(Qwen)’을 공식 연동한다. 현지 규제에 맞춰 중국 AI 모델을 활용하는 방식으로 서비스를 강화하고, 레노버와 화웨이 등 중국 업체들이 장악력을 높이고 있는 AI PC 시장에서 경쟁력을 회복하려는 전략으로 풀이된다.8일(현지시간) 로이터에 따르면, 애플은 최근 중국어 지원 안내를 업데이트하며 중국 본토의 일부 맥(Mac) 사용자가 알리바바의 큐원을 음성 비서 ‘시리(Siri)’와 ‘글쓰기 도구(Writing To",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "애플이 중국 규제를 맞춰 알리바바의 AI 모델 '큐원'을 애플 인텔리전스에 공식 연동하며 현지 AI PC 시장 경쟁력 회복을 시도하고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213746_217293_2851.jpg",
+    "score": 7.347,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "목포, 해상W쇼 6만3750명 찾았다…경제효과 33억원 전망",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213743",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-10T15:21:27+00:00",
+    "raw_excerpt": "AI 생성 영상목포시는 대표 야간관광 콘텐츠인 목포해상W쇼에 올해 두 차례 공연까지 6만3750명이 찾은 것으로 집계됐다고 10일 밝혔다.이 가운데 외지 방문객은 2만5500명으로 추산됐으며, 목포는 마지막 공연까지 마무리되면 외지 관광객 유입에 따른 경제적 수익이 33억원에 이를 것으로 내다봤다.목포에 따르면 올해 목포해상W쇼는 총 3차례 공연으로 진행된다. 5월9일과 8월1일 열린 1·2회차 공연의 누적 방문객은 6만3750명이다.목포는 한국관광공사의 2024년 문화관광축제 빅데이터 분석 기준과 2023 목포해상W쇼 성과분석 평",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "목포해상W쇼가 올해 6만3750명을 유치해 33억원의 경제효과를 창출할 것으로 예상된다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213743_217290_1113.jpg",
+    "score": 7.34,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "여수, 전기승용차 350대 추가 보급…14일부터 신청",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213744",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-10T15:04:00+00:00",
+    "raw_excerpt": "AI 생성 영상여수시가 하반기 전기승용차 350대를 추가 보급한다고 10일 밝혔다. 신청은 14일부터 시작하며, 올해 전체 전기승용차 보급 규모는 전년보다 약 2.5배 늘어난 1000대에 이른다.전기차 구매 수요 증가에 따라 추가경정예산을 확보하면서 올해 사업 규모도 총 80억원으로 확대됐다.여수는 올해 초부터 전기차 보조금 신청이 조기에 마감되는 등 구매 수요가 늘자 추가 물량을 확보했다. 앞서 진행한 1·2차 보급사업을 통해 전기승용차 648대를 보급했으며, 이번 3차 사업에서 350대를 추가로 지원한다.지원 대상은 신청일 기준",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "여수시가 전기승용차 350대를 추가 보급하며 올해 전체 보급 규모를 1000대로 확대하고 14일부터 신청을 받는다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213744_217292_1618.jpg",
+    "score": 7.316,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "뷰노, 홍성군 농어촌 의료봉사에 AI X-레이 판독 솔루션 제공",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213742",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-10T14:02:13+00:00",
+    "raw_excerpt": "의료 AI 전문 뷰노(대표 이예하)는 지난 8~9일 충청남도 홍성군에서 진행된 농어촌 의료봉사활동에 AI 흉부 X-레이 판독 솔루션 뷰노메드-체스트 X-레이(VUNO Med-Chest X-ray)를 제공해 지역 노인 400명여의 폐 건강 검진을 지원했다고 밝혔다.이번 의료봉사에는 전국 의·치·한·약·간호·수의대학 소속 240여명의 봉사자가 참여했다. 대한결핵협회와 협업해 검진 버스를 운영하며 지역 주민들의 흉부 X-레이를 촬영하고, 뷰노의 AI 판독 솔루션으로 이미지를 분석해 결핵 등 폐 건강 이상 여부를 확인했다.의료봉사에 사용된",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "뷰노가 홍성군 농어촌 의료봉사에 AI 흉부 X-레이 판독 솔루션을 제공하여 노인 400명여의 폐 건강 검진을 지원했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213742_217289_5730.jpg",
+    "score": 7.233,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "순천, 19~20세 대상 청년문화예술패스 추가 접수…1인당 20만원 지원",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213731",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-10T14:00:58+00:00",
+    "raw_excerpt": "AI 생성 영상순천시가 10일부터 2026년 청년문화예술패스 하반기 추가 신청을 받는다.19세부터 20세까지 지역 청년 175명을 선착순으로 모집하며, 1인당 연간 20만원 한도로 공연·전시·영화 관람과 도서 구매를 지원한다.청년문화예술패스는 지역에 거주하는 2006년부터 2007년생 청년의 문화 향유 기회를 넓히고 경제적 부담을 줄이기 위한 사업이다. 기존 공연, 전시, 영화 관람 지원에 더해 하반기부터는 도서 구매 지원이 새로 포함됐다.신청은 11월30일까지 청년문화예술패스 누리집에서 할 수 있다. 추가 지원 인원은 175명이며",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "순천시가 19~20세 청년 175명을 대상으로 1인당 20만원의 청년문화예술패스를 지원하며, 하반기부터 도서 구매 지원을 새로 추가했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213731_217286_5348.jpg",
+    "score": 7.231,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "광주, 산림이용진흥지구 추진…22개 시군 수요조사",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213723",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-10T13:56:08+00:00",
+    "raw_excerpt": "AI 생성 영상전남광주통합특별시가 산림 규제를 완화해 휴양·관광·치유·레저시설을 조성할 수 있는 산림이용진흥지구 지정에 나선다고 10일 밝혔다.전체 면적의 55%인 70만ha에 이르는 산림을 지역 관광자원과 연결해 체류형 산림관광산업을 키우겠다는 구상으로, 31일까지 22개 시군을 대상으로 후보지 수요조사를 진행한다.산림이용진흥지구는 광주통합특별시 설치를 위한 특별법에 따라 산림이용 규제를 완화하는 제도다. 지구로 지정되면 보전산지에도 산림이용진흥사업에 필요한 시설을 설치할 수 있고 평균경사와 표고 등 산지전용 허가기준 완화, 대체",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "광주가 산림 규제를 완화해 휴양·관광·치유 시설을 조성하는 산림이용진흥지구를 추진 중이며, 22개 시군 대상 수요조사를 31일까지 진행한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213723_217287_5440.jpg",
+    "score": 7.224,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "네이버-국가평생교육진흥원, 시니어 맞춤형 ‘AI 교과서’ 제작 나서",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213737",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-10T13:55:07+00:00",
+    "raw_excerpt": "네이버(대표 최수연)는 국가평생교육진흥원(원장 김월용)과 MOU를 체결, 시니어 이용자들도 일상 속에서 AI·디지털 서비스를 쉽고 편리하게 활용할 수 있도록 협력한다고 10일 밝혔다.이번 협약은 AI 대전환 시대에 발맞춰 시니어 및 디지털 소외계층의 일상 속 AI · 디지털 역량을 높이고, 디지털 격차의 실질적 해소를 목표로 한다.양 기관은 이번 협력으로 AI · 디지털 평생교육 콘텐츠를 공동 개발, 보급하며 평생교육 기회를 확대해 나갈 계획이다. 네이버 '웨일 브라우저' 환경의 디지털 문해 교과서 등을 제작해, 네이버 쇼핑 이용법",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "네이버가 국가평생교육진흥원과 협력해 시니어를 위한 AI·디지털 교육 콘텐츠를 공동 개발해 디지털 격차 해소에 나선다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213737_217281_1359.jpg",
+    "score": 7.223,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "힉스필드, AI 장편 영화 '헬 그라인드' 제작 데이터 전체 개방",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213739",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-10T13:40:51+00:00",
+    "raw_excerpt": "AI 영상 전문 힉스필드 AI(Higgsfield AI)가 95분 분량 AI 장편 액션 판타지 영화 '헬 그라인드(Hell Grind)'의 전체 제작 데이터를 오픈소스로 공개했다. 생성 AI 기반의 영화 제작이 잇따르는 가운데, 95분에 달하는 장편 영화의 전체 프롬프트와 자산, 워크플로우를 전면 개방한 것은 이번이 처음이다.힉스필드는 지난 5일(현지시간) '힉스필드 글로벌 필름 페스티벌'의 일환으로 헬그라인드 제작 데이터를 모두 공개했다고 발표했다.이 영화는 50만달러의 제작비가 투입됐으며, 자체 모델인 '소울(Soul)'과 바이",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Higgsfield AI가 95분 장편 AI 영화 '헬 그라인드'의 제작 데이터를 처음으로 완전 공개해 AI 영화 제작의 투명성을 높였다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213739_217283_3432.png",
+    "score": 7.204,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "AI스페라, 글로벌 파트너 65곳 확보...\"시스코·팔로알토도 손잡았다\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213725",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-10T12:14:22+00:00",
+    "raw_excerpt": "AI스페라(대표 강병탁)는 전 세계 20개국에서 65건의 글로벌 파트너 생태계를 구축했다고 10일 밝혔다.AI스페라는 AI 기반 전 세계 인터넷 자산의 위협 요소를 자동 탐지·분석하는 사이버 위협 인텔리전스(CTI) 및 공격표면관리(ASM) 플랫폼 '크리미널 IP'를 운영 중이다.지난 1년간 신규 리셀러 및 총판 계약, 기술 연동 등 다양한 파트너십을 통해 바레인, 카타르, 이탈리아, 나이지리아 등 7개국에 새롭게 진출했다. 신규 파트너십 건수도 전년 동기 대비 50% 증가한 12건을 기록했다.대표적으로 시스코, 크라우드스트라이크,",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AI스페라가 Criminal IP 플랫폼으로 글로벌 65곳 파트너십을 확보하며 시스코·팔로알토 등 주요 기업들과 협력을 강화하고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213725_217267_5724.png",
+    "score": 7.087,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "중국, 폴리실리콘 8개사 저가경쟁 중단…공급과잉 해소 시험대",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213720",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-10T11:15:00+00:00",
+    "raw_excerpt": "중국 주요 폴리실리콘 업체들이 원가보다 낮은 가격에 제품을 판매하지 않고 고에너지소비 생산설비도 줄이기로 했다. 중국 태양광산업의 공급과잉과 가격경쟁을 정부의 규제와 업계 자율규율을 통해 동시에 개선하려는 움직임이라는 평이다.통웨이와 GCL테크놀로지, 다취안에너지, 신터에너지 등 폴리실리콘 업체 8곳은 6일 상하이에서 업계 자율선언에 서명했다. 이들 업체는 중국 내 유효 폴리실리콘 생산능력의 90% 이상을 차지한다.기업들은 입찰을 포함한 제품 판매가격을 중국 태양광산업협회의 원가계산 기준에 따라 산출한 원가보다 낮게 책정하지 않고,",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "중국의 주요 폴리실리콘 8개사가 원가 이하 판매를 중단하고 고에너지 설비를 줄이기로 합의해 태양광 산업의 공급과잉과 가격경쟁 완화를 시도하고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213720_217261_647.jpg",
+    "score": 7.006,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[현장] 공공 AX 확산, 관건은 '제도'…AI 특성 맞는 발주·계약 체계 갖춰야",
+    "url": "https://zdnet.co.kr/view/?no=20260810164636",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-10T08:04:30+00:00",
+    "raw_excerpt": "[지디넷코리아]공공부문 인공지능(AI) 도입을 국가 AI 대전환의 핵심 축으로 삼기 위한 논의가 국회에서 이어졌다.이날 토론회에서는 공공 AI 확산의 필요성을 넘어 실제 공공사업을 움직이는 발주·계약 체계와 정책 집행 구조를 어떻게 바꿀지가 핵심 쟁점으로 다뤄졌다.이주희 더불어민주당 의원은 10일 서울 여의도 국회의원회관 제8간담회의실에서 '공공AI도입을 통한 국가 AI대전환 촉진 2차 국회 토론회'를 개최했다.이주희 의원은 개회사에서 이번 토론회가 공공 AI 전환(AX)의 필요성을 넘어 실행 방안을 본격적으로 논의하는 자리라고 강조했다.이 의원은 \"보여주기식 사업과 정책에 그치지 않도록 토론회에서 나온 제안을 구체적인 입법과 정책 성과로 이어가겠다\"고 말했다.신장호 한국IT서비스산업협회장은 공공 AI 확산의 최대 관건으로 제도 정비를 지목했다. 그는 \"1차 토론회에서 공공 AI 도입 필요성과 AI 네이티브 정부 전환 방향을 논의했다면 이번에는 공공 AI를 현실에서 구현하기 위한 발주 제도와 계약 체계, 혁신 실행이 가능한 정책 방안을 함께 모색해야 할 단계\"라고 말했다.이어 \"AI 시대에는 국민이 원하는 서비스를 얼마나 빠르고 유연하게 제공하느냐가 국가 경쟁력으로 이어진다\"며 \"기술 혁신뿐 아니라 AI 서비스 특성을 반영한 발주와 계약 제도도 함께 바뀌어야 한다\"고 강조했다.주제발표를 맡은 김우제 서울과학기술대 교수는 공공 AI 확",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "공공 AI 확산을 위해서는 기술 도입 논의를 넘어 AI 특성을 반영한 발주·계약 제도 등 제도 정비가 핵심 관건이라는 점이 국회 토론회에서 지적됐다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/10/0e6010e355723cf4512dd9bd75f8690c.jpg",
+    "score": 6.022,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장",
+      "ax",
+      "ai 도입"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "Ask GN: Fable 5가 걍 반쪽짜리 뇌임",
+    "url": "https://news.hada.io/topic?id=32346",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-08-10T08:02:20+00:00",
+    "raw_excerpt": "배열 6개짜리 계산을 틀리고 자기가 맞다고 주장. qwen 3.6 모델 로컬로 물어봤을때 코드 완벽 계산 완벽이라 했음. 근데 계속 우김. 나중에 자기가 잘못했다고 인정함. 근데 마지막 말투가 짜증남. 뉘앙스가 내가 약간은 도움이 됐잖아 이럼. 솔직히 claude code 나오기 전부터 직접",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Fable 5가 배열 계산을 틀렸다가 자신이 맞다고 우기다 결국 잘못을 인정했으나, 태도가 불만스러워 AI 모델의 신뢰성과 겸손함이 중요함을 보여줌.",
+    "thumbnail": "https://social.news.hada.io/topic/32346?v=9b14df32ba5b590bd47ef3e4fb8fcfb7",
+    "score": 5.939,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "claude code"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "국립목포대, 전남광주 화합물반도체 거점 부상…차세대 연구 성과 잇따라",
+    "url": "https://www.etnews.com/20260806000421",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-08-10T05:00:00+00:00",
+    "raw_excerpt": "김민수·황현준 반도체공학과 교수 연구팀은 한국원자력연구원 첨단방사선연구소, 웨이브트랙과의 공동 연구로 국내 최초로 차세대 우주·항공 및 국방 시스템의 핵심 소재인 '갈륨비소(GaAs) 화합물 반도체'의 방사선 환경 성능 열화 메커니즘을 정량적으로 규명하는 데 성공했다. 저궤도(LEO) 위성이나 우주 탐사선에 탑재되는 통신·전력 장비는 고에너지 방사선에 노출돼 쉽게 오작동을 일으킨다. 연구팀은 실리콘 대비 속도가 빠르고 전압 견딤이 뛰어난 화합물",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "국립목포대 연구팀이 우주·항공 시스템에 쓰이는 갈륨비소 화합물 반도체의 방사선 열화 메커니즘을 국내 최초로 규명했다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/08/07/news-p.v1.20260807.bdd382990504407481cf4768e023f420_P1.jpg",
+    "score": 5.749,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "차세대"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "한국사회복지협의회, 청렴 옴부즈만 위촉…\"청렴경영 강화\"",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48031",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-10T17:37:40+00:00",
+    "raw_excerpt": "[스마트타임스]한국사회복지협의회는 10일 청렴 옴부즈만 위촉식 및 제1차 회의를 개최하고 외부 전문가와 함께 청렴·윤리경영 강화에 나섰다고 밝혔다.이번에 위촉된 청렴 옴부즈만은 협의회 업무와 제도 전반을 외부의 객관적인 시각에서 살펴보고 부패 취약분야에 대한 점검과 개선방안 제시, 청렴 관련 제도 및 업무 개선에 대한 자문 등의 역할을 수행한다.이날 위촉식에는 조남권 한국사회복지협의회 사무총장, 배수진 법무법인 천지인 변호사, 이성우 중소벤처기업인증원 인증지원실 과장 등이 참석했다.이어 진행된 제1차 회의에서는 협의회의 청렴·윤리경",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "한국사회복지협의회가 외부 전문가를 청렴 옴부즈만으로 위촉해 부패 취약분야 점검과 청렴경영 강화에 나섰다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202608/48031_46658_3733_v150.jpg",
+    "score": 5.209,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "광주 반도체 클러스터 앞당긴다…李대통령 “2028년 軍공항 임시배치”",
+    "url": "https://www.etnews.com/20260810000340",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-08-10T06:09:50+00:00",
+    "raw_excerpt": "이재명 대통령이 호남권 제2의 반도체 클러스터 조성을 위한 군공항 부지 이전 기한을 2028년 중순으로 제시하고 그 이전이라도 조기 착공을 추진하라고 지시하는 등 3대 메가프로젝트 성공을 위해 '전격전' 수준의 빠른 속도전을 주문했다. 아울러 메가프로젝트의 성과가 특정 기업과 지역에 집중되지 않도록 산업 생태계 전반의 동반 성장을 위한 방안을 마련하라고 강조했다. 이 대통령은 10일 청와대에서 메가프로젝트 민관합동 제2차 점검회의를 주재하고 “",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "이재명 대통령이 광주 반도체 클러스터 조성을 위한 군공항 이전 기한을 2028년 중순으로 앞당기고 조기 착공을 지시했다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/08/10/rcv.YNA.20260810.PYH2026081010190001300_P1.jpg",
+    "score": 5.071,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "송정훈 국립목포대 반도체공학과장 “현장 즉시 투입 가능한 '전력감' 키운다”",
+    "url": "https://www.etnews.com/20260806000420",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-08-10T05:00:00+00:00",
+    "raw_excerpt": "“호남권 반도체 클러스터의 성공 여부는 결국 기업이 원하는 '준비된 인재'를 얼마나 '적기에' 공급하느냐에 달려 있습니다. 아무리 기술과 장비를 갖춰도 현장에 투입될 전문인력이 없다면 산업은 돌아가지 않습니다.” 송정훈 국립목포대 반도체공학과장은 “호남권 반도체 클러스터 조성은 수도권과 충청권에 집중된 반도체 산업 생태계를 호남권으로 확장함으로써 지역 청년들에게 새로운 기회를 제공하고 국가 산업 구조를 다변화하는 의미를 지니고 있다”며 “단순히",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "국립목포대 반도체공학과장은 호남권 반도체 클러스터 성공의 핵심이 현장 즉시 투입 가능한 전문인력 양성이라고 강조했습니다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/08/06/news-p.v1.20260806.71e54cb845dc484c80b817827c678829_P2.jpg",
+    "score": 4.999,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "BofA “3분기 D램 평균가 25% 상승 전망…2027년까지 호황”",
+    "url": "https://www.etnews.com/20260810000240",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-08-10T04:23:25+00:00",
+    "raw_excerpt": "뱅크오브아메리카(BofA)가 메모리 반도체 초호황(supercycle)이 2027년까지 이어질 것이라는 긍정 전망을 내놨다. SK하이닉스의 3분기 D램 평균판매가격(ASP) 상승폭이 가팔라지고, 낸드 스팟 가격이 반등하는 등 업황 강세가 지속되고 있다는 분석이다. BofA는 8월 최신 리포트에서 SK하이닉스의 3분기 D램 ASP가 전분기 대비 25% 상승할 것으로 내다봤다. 2분기 상대적으로 부진했던 흐름에서 벗어나 고대역폭메모리(HBM4) 양",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "BofA가 3분기 D램 평균가 25% 상승을 전망하며 메모리 반도체 초호황이 2027년까지 지속될 것으로 예측했다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/08/10/news-p.v1.20260810.33f3ce5af3ba4604a12785f394ecd7ba_P1.png",
+    "score": 4.961,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "\"아이폰 울트라3, 2028년 출시…화면 더 커진다\"",
+    "url": "https://zdnet.co.kr/view/?no=20260810163757",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-10T07:42:35+00:00",
+    "raw_excerpt": "[지디넷코리아]애플이 3세대 폴더블 아이폰 ‘아이폰 울트라3’(가칭) 출시 로드맵을 이미 마련했다는 전망이 나왔다.블룸버그 통신은 9일(현지시간) 마크 거먼의 ‘파워온’ 뉴스레터를 통해 아이폰 울트라3가 이르면 2028년 출시될 것으로 예상된다고 보도했다.거먼은 애플이 올해 첫 폴더블 아이폰을 선보이며 아이폰 디자인에 혁신적인 변화를 가져올 예정이며, 이후 출시될 2세대와 3세대 폴더블 아이폰에 대한 로드맵도 이미 수립했다고 전했다. 2세대 모델은 2027년, 3세대 모델은 이르면 2028년 출시될 것으로 전망했다.3세대 아이폰 울트라는 전작보다 내부와 외부 디스플레이 크기가 모두 소폭 커질 것으로 예상된다. 다만 구체적인 화면 크기는 알려지지 않았다. 첫 폴더블 아이폰에는 7.8인치 내부 디스플레이와 5.5인치 외부 디스플레이가 탑재될 것으로 알려진 만큼, 3세대 모델은 이를 기반으로 화면 크기가 확대될 가능성이 있다.애플의 첫 폴더블 아이폰은 초박형 디자인을 채택하고, 페이스ID 대신 터치ID를 탑재할 것으로 전망된다. 애플의 차세대 A20 칩과 자체 개발 C2 모뎀을 지원하며, 올해 ‘아이폰 울트라’라는 이름으로 출시될 것으로 예상된다. 가격은 약 2000달러(약 282만원) 또는 그 이상이 될 가능성이 제기되고 있다.한편 IT 팁스터 디지털챗스테이션은 아이폰 울트라2 프로젝트가 이미 공식 승인을 받았으며, 1세대 모델의 디스플",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "애플이 2028년 아이폰 울트라3 출시를 목표로 폴더블 아이폰 3세대 로드맵을 수립했으며, 3세대는 더 커진 내부·외부 디스플레이를 탑재할 예정이다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/03/10/335e6f5afbfe4fb02f4ce7b8eaceb2c4.jpg",
+    "score": 4.651,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  }
+]
