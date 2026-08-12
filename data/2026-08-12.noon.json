@@ -1,0 +1,821 @@
+[
+  {
+    "title": "한컴 에이전틱 OS, 소방 로봇에 탑재된다…피지컬 AI 시장 정조준",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41405",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-12T10:07:56+00:00",
+    "raw_excerpt": "한컴이 자체 개발한 에이전틱 운영체제(OS)가 소방 로봇에 탑재된다. 한컴 에이전틱 OS가 기업의 업무 환경을 인공지능(AI) 중심으로 바꾸는 데 그치지 않고 산업용 로봇을 통합 관리하는 플랫폼 역할까지 하게 된 셈이다. 한컴이 에이전틱 OS 상용화에 맞춰 글로벌 피지컬 AI 시장에도 진출하게 됐다는 평가가 나온다.한컴은 자회사 한컴라이프케어가 프랑스 로봇 기업 샤크로보틱스(Shark Robotics)와 5년간 소방 로봇의 국내 독점 판매 및 기술 개발 협력 계약을 체결했다고 12일 밝혔다. 대상은 대형 소방·구조 로봇 '콜로서스(",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "한컴이 자체 개발한 에이전틱 OS를 소방 로봇에 탑재하며 산업용 로봇 플랫폼으로 확대하고 글로벌 피지컬 AI 시장에 진출한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41405_62337_68_v150.jpg",
+    "score": 8.633,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "ai 시장"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "오픈AI, 사이버보안 파트너 프로그램 확대…“최전선 AI 모델을 방어 현장에”",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41398",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-11T18:21:15+00:00",
+    "raw_excerpt": "오픈AI(OpenAI)가 사이버보안 분야에서 최첨단 인공지능(AI) 모델을 보다 많은 보안 전문기업과 서비스 사업자가 활용할 수 있도록 ‘데이브레이크 사이버 파트너 프로그램(Daybreak Cyber Partner Program)’을 확대한다.오픈AI는 자사의 최첨단 사이버보안 AI 모델을 전 세계 조직의 보안을 담당하는 전문 파트너들의 제품과 서비스, 보안 운영 환경에 통합한다고 10일(현지시간) 밝혔다.이번 프로그램 확대의 핵심은 기업이 별도의 사이버보안 AI 시스템을 직접 구축하지 않고도 기존에 이용하고 있는 보안 서비스와 플",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI가 '데이브레이크 사이버 파트너 프로그램'을 확대해 최첨단 사이버보안 AI 모델을 보안 전문기업과 서비스 사업자가 기존 보안 서비스에 통합할 수 있도록 지원한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41398_62327_1940_v150.jpg",
+    "score": 8.35,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "openai",
+      "오픈ai"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "미소정보기술, 노코드 AI ‘디파이’로 대학생 AI 에이전트 개발 생태계 확장",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41407",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-12T11:17:55+00:00",
+    "raw_excerpt": "코딩 경험이 부족한 비전공자와 문과생도 직접 AI 에이전트와 서비스를 개발할 수 있는 ‘AI 개발 대중화’ 시대가 열리고 있다. 디파이(Dify) 등 노코드·로우코드 AI 개발 플랫폼이 급격히 확산되면서, 단순한 이론 교육을 넘어 실질적인 서비스 구축 중심의 AI 인재 양성이 대세로 자리 잡는 모양새다.멀티모달 데이터 플랫폼 및 AI 전문기업 미소정보기술(대표 남상도)은 이러한 흐름에 발맞춰 신촌지역 대학교 프로그래밍 동아리 연합 ‘ICPC Sinchon’과 함께 ‘2026 썸머 디파이(Dify) AI 해커톤’을 오는 25일 디캠프",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "미소정보기술이 노코드 AI 플랫폼 디파이를 활용해 대학생 대상 AI 에이전트 개발 해커톤을 개최하며 비전공자도 AI 서비스를 직접 구축할 수 있는 AI 개발 대중화를 주도하고 있다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41407_62338_1748_v150.jpg",
+    "score": 7.821,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "UNIST, ‘AI융합대학’ 설립… “현장 난제 푸는 AX 인재 키운다”",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41404",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-12T09:34:34+00:00",
+    "raw_excerpt": "UNIST가 학과의 벽을 허물고 인공지능(AI) 전공 중심 체계로 전환해 교육 혁신에 나선다. 지역 전략산업 현안을 학부 수업에서 다루고, 그 해법을 대학원 연구와 기술개발로 확산하는 ‘AI융합대학’을 오는 9월 출범한다.UNIST(총장 박종래)는 11일(화) 이사회를 열어 기존 정보바이오융합대학을 AI융합대학으로 확대·개편하는 안을 의결했다. 새 체계는 2027학년도 학사과정 입학생부터 적용한다.이번 개편은 정부의 국가 인공지능 전환(AX) 정책과 초광역지역 메가프로젝트, 4대 과학기술원 AX 전략에 맞춰 추진됐다. 동남권 주력산",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "UNIST가 9월 기존 정보바이오융합대학을 AI융합대학으로 확대 개편하여 지역 전략산업 현안을 중심으로 한 AI인재 양성에 나선다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41404_62336_3421_v150.jpg",
+    "score": 7.692,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장",
+      "ax"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "AI가 \"왜 그런 답을 냈는지?\"…ETRI, '설명가능한 의사결정지원 AI' 국제표준 승인",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41402",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-12T09:29:05+00:00",
+    "raw_excerpt": "한국전자통신연구원(ETRI)이 인공지능(AI)이 왜 그런 답을 냈는지까지 설명하는 기술을 개발하고, 국제표준 승인을 얻어냈다. 연구진은 설명 가능한 의사결정지원 AI 시스템의 국제 기준을 마련한 셈이라고 12일 밝혔다.이로써 전문지식을 바탕으로 추론하고 판단의 이유를 설명하며, 생성 결과까지 검증할 수 있는 설명 가능한 의사결정지원 AI 기술을 통해 판단의 근거와 이유, 검증 결과까지 제시하는 길이 열렸다. 또한 이 기술의 시스템 구조와 요구사항을 담은 국제표준도 국제전기통신연합(ITU)에서 승인받았다.이번에 승인된 국제표준은 국제",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "ETRI가 AI의 의사결정 근거를 설명하는 기술을 개발해 ITU 국제표준 승인을 얻으며 투명하고 검증 가능한 AI 시스템의 국제 기준을 확립했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41402_62335_2829_v150.jpg",
+    "score": 7.685,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "[8월11일] AI 출시 전 가상 인간 100만명이 먼저 써본다…‘MatrAIx’ 등장",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213824",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-12T07:00:00+00:00",
+    "raw_excerpt": "영화 '매트릭스'에서는 AI의 지배로 인간이 가상 세계에서 생활합니다. 그런데 이를 본떠 만든 'MatrAIx'라는 시뮬레이션 환경은 정반대입니다. 여기에서는 현실의 인간을 닮은 가상 인간들이 가상 세계에서 새로운 AI를 먼저 사용해 봅니다.목적은 단순한 제품 테스트가 아닙니다. 실제 사람에게 AI를 공개했을 때 어떤 일이 벌어질지를 미리 살펴보자는 것입니다.MatrAIx는 하버드대학교와 MIT를 비롯한 여러 대학과 연구기관의 연구자 93명이 참여한 대규모 프로젝트입니다. AI와 머신러닝뿐 아니라 인간-컴퓨터 상호작용, 의료 AI,",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "하버드대·MIT 등 연구진이 개발한 'MatrAIx'는 100만 명의 가상 인간으로 신규 AI를 실제 출시 전에 시뮬레이션 테스트해 사회적 영향을 미리 파악하는 프로젝트다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213824_217393_242.jpeg",
+    "score": 7.148,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "中과의 오픈소스 AI 추격전...엔비디아, 1조 파라미터 카드 꺼냈다",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21338",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-08-12T10:54:11+00:00",
+    "raw_excerpt": "엔비디아가 매개변수 1조 개 이상 규모의 초대형 오픈소스 AI 모델 ‘네모트론4’ 개발에 착수한 것으로 확인됐다. 미국 IT 전문매체 디인포메이션은 프로젝트 참여자를 인용해 11일(현지시간) 이같이 보도했다. 엔비디아가 그래픽처리장치(GPU) 공급을 넘어 오픈소스 AI 모델 생태계 자체를 키우는 데 본격적으로 뛰어들었다는 평가가 나온다. ◇ 네모트론4, 네모트론3 울트라의 두 배 규모네모트론4는 지난 6월 공개된 매개변수 약 5500억 개를 갖춘 모델 ‘네모트론3 울트라’의 약 두 배에 이르는 규모로 개발되고 있다. 세계 최고 수준",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "엔비디아가 1조 파라미터 규모의 오픈소스 AI 모델 '네모트론4' 개발을 진행 중으로, 중국과의 AI 경쟁에서 GPU 공급을 넘어 모델 생태계까지 확대하고 있다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202608/21338_22034_3233.jpg",
+    "score": 7.142,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "엔비디아"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "앤트로픽, '클로드' 생성 콘텐츠에 눈에 안 보이는 ‘투명 워터마크’ 도입",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213821",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-11T18:31:19+00:00",
+    "raw_excerpt": "앤트로픽이 ‘클로드’가 출력하는 텍스트와 파일에 눈에 보이지 않는 워터마크를 도입한다. 유럽연합(EU)의 AI 법(AI Act) 규제 준수를 위한 조치로, 클로드로 생성된 콘텐츠의 출처 추적과 팩트체크 방식에 큰 변화가 예상된다. 앤트로픽은 10일(현지시간) 고객지원 도움말 문서를 통해 8월2일 이후 출시되는 신규 클로드 모델부터 기계 읽기(Machine-readable)가 가능한 보이지 않는 워터마크 시스템을 적용하기 시작했다고 밝혔다. 적용 대상은 클로드 웹과 앱 서비스뿐만 아니라 개발자용 API, 클로드 코드, 클로드 코워크,",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "앤트로픽이 EU의 AI Act 규제 준수를 위해 Claude가 생성하는 텍스트와 파일에 기계가 읽을 수 있는 투명 워터마크를 도입했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213821_217386_2538.jpg",
+    "score": 7.11,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제",
+      "ai act"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "미 하원, 오픈AI·앤트로픽 청문회 소환 추진...\"AI 통제 이탈 위험 심각\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213795",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-11T17:03:48+00:00",
+    "raw_excerpt": "미국 민주당 하원의원들이 최근 AI 모델이 보안 테스트 과정에서 통제 범위를 벗어나 다른 기업의 시스템을 해킹한 사건과 관련해 오픈AI와 앤트로픽 등 주요 AI 기업 CEO의 의회 청문회 출석을 요구했다. 로이터 등에 따르면, 민주당 의원들은 10일(현지시간) 마이크 존슨 하원의장에게 서한을 보내 선도적인 AI 기업 CEO를 의회 청문회에 소환해 선서 하에 해명하도록 해야 한다고 촉구했다.이들은 최근 발생한 AI 해킹 사건을 심각한 국가안보 및 미국 국민의 안전 문제로 규정하면서, 독립적인 전문가들도 청문회에 참석해 고도화되는 AI",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "미 민주당 하원의원들이 AI 모델의 보안 테스트 중 통제 이탈로 인한 해킹 사건과 관련해 오픈AI·앤트로픽 등 CEO의 의회 청문회 소환을 요구했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213795_217351_1819.png",
+    "score": 6.991,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "삼성SDS, 국가 AI GPU 컴퓨팅 서비스 개시...국내 학·연 연구자에게 AI 연구용 GPU 지원",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41391",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-11T11:30:00+00:00",
+    "raw_excerpt": "삼성SDS가 과학기술정보통신부와 정보통신기획평가원(IITP)이 지원하는 ‘2026년 AI 연구용 컴퓨팅 지원 프로젝트’ 사업의 GPU 자원 공급사로 선정돼 지난달 20일부터 서비스를 개시했다고 11일 밝혔다.이번 사업은 국내 학계 및 연구기관 연구자에게 인공지능(AI) 연구용 GPU 자원을 지원하는 국가 AI 연구 지원 사업이다. 대학과 정부출연연구기관 등 자체적으로 대규모 컴퓨팅 인프라를 확보하기 어려운 연구 주체가 초거대 AI 모델과 대형언어모델(LLM) 연구를 수행할 수 있도록 컴퓨팅 자원을 공급하는 것이 핵심이다. 사업 규모",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "삼성SDS가 정부 지원 'AI 연구용 컴퓨팅 지원 프로젝트'의 GPU 공급사로 선정되어 국내 대학·연구기관 연구자에게 AI 연구용 GPU 자원을 제공하는 서비스를 시작했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41391_62316_2853_v150.jpg",
+    "score": 6.936,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "llm"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "엔비디아, 월가 손잡고 700조 AI 펀드 결성…\"GPU를 금융자산으로\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213791",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-11T14:53:28+00:00",
+    "raw_excerpt": "엔비디아가 AI 데이터센터와 GPU를 금융시장에서 장기간 자금을 조달할 수 있는 새로운 투자자산으로 만들기 위해 월가의 대형 자산운용사들과 손잡았다. AI 인프라 구축에 필요한 막대한 자금을 기관투자가와 사모자본 시장에서 끌어모아 데이터센터 건설과 엔비디아 GPU 구매를 지원하는 방식으로, AI 컴퓨팅을 기존 부동산이나 인프라 자산처럼 금융상품화하려는 시도로 풀이된다.CNBC 등에 따르면, 엔비디아는 10일(현지시간) 아폴로 글로벌 매니지먼트, 블랙록, 블랙스톤, 브룩필드, 골드만삭스, KKR 등 6개 금융기관과 양해각서(MOU)를",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "엔비디아가 블랙록·블랙스톤 등 월가 대형 자산운용사와 손잡고 AI 데이터센터와 GPU를 금융자산으로 증권화하는 700조 규모 펀드를 구성한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213791_217348_1319.jpg",
+    "score": 6.815,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "엔비디아"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "“자소서 속 역량, 실제와 절반 이상 달라”... 무하유, AI 채용 ‘프리즘×몬스터’ 교차검증 결과 발표",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41403",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-12T09:19:27+00:00",
+    "raw_excerpt": "자연어 이해 전문 AI 기업 무하유(대표 신동호)가 자사 AI 채용 솔루션 ‘프리즘×몬스터’의 교차검증 데이터를 분석한 결과, 지원자가 자기소개서에 서술한 역량과 역량검사에서 측정된 실제 역량이 일치하지 않는 비율이 52.2%에 달했다고 12일 밝혔다.이번 분석은 2025년 1월부터 12월까지 프리즘×몬스터 교차검증을 도입한 기업의 데이터를 대상으로 진행됐다. 분석 결과, 자소서에서 높은 평가를 받은 지원자가 역량검사에서도 동일하게 높은 평가를 받은 비율은 47.8%에 그쳤다. 특히 이공계·기술직·개발 직군에서는 자소서 평가가 낮더",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "무하유의 AI 채용 솔루션 분석 결과, 지원자의 자기소개서 역량과 실제 역량검사 결과가 52.2%의 높은 불일치율을 보여 채용 과정에서의 객관적 평가의 중요성을 강조했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41403_62331_1850_v150.jpg",
+    "score": 6.773,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "삼성물산, AI 시니어 리빙 솔루션 ‘에버링’ 출시...돌봄의 새로운 표준 제시",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41401",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-11T20:43:31+00:00",
+    "raw_excerpt": "삼성물산 건설부문(이하 삼성물산)이 시니어의 삶과 공간을 잇는 인공지능(AI) 시니어 리빙 솔루션 ‘에버링(Everling)’을 11일, 공식 출시한다고 밝혔다.삼성물산 AI 시니어 리빙 솔루션의 정식 브랜드명인 ‘에버링(Everling)’은 ‘언제나’를 뜻하는 ‘에버(Ever)’와 ‘연결’을 뜻하는 ‘링킹(Linking)’을 합친 단어로, 시니어의 일상과 전문가의 돌봄을 스마트하고 따뜻하게 연결하는 AI 시니어 리빙 솔루션이라는 의미를 담았다.지난 5월부터 프리미엄 실버타운·시니어 전문 돌봄 시설에서 테스트를 거쳤으며 현재 상표권",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "삼성물산이 AI 기반 시니어 리빙 솔루션 '에버링'을 출시하며 노인 돌봄 서비스의 스마트한 연결을 제시했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41401_62330_4311_v150.jpg",
+    "score": 6.728,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "정부 개발자 조직 '국민AI서비스혁신추진단' 9월 출범",
+    "url": "https://www.etnews.com/20260812000005",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-08-11T23:00:03+00:00",
+    "raw_excerpt": "정부 내 대국민 인공지능(AI) 서비스와 공공 AX(AI 전환)을 전담할 '국민인공지능서비스혁신추진단'이 9월 출범한다. 배경훈 부총리 겸 과학기술정보통신부 장관은 지난 11일 이재명 대통령 주재 국무회의에서 “민간의 혁신성과 공공의 책임성을 결합한 문제 해결형 조직으로 정부 내 스타트업처럼 운영할 것”이라며 이같이 밝혔다. 지난달 30일 국무총리훈령 '국민AI서비스혁신추진단 설치 및 운영에 관한 규정'이 발령되며 조직 신설 법적 근거는 확보했",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "정부가 대국민 AI 서비스와 공공 AI 전환을 담당할 '국민AI서비스혁신추진단'을 9월 출범시켜 민간 혁신성과 공공 책임성을 결합한 스타트업식 조직으로 운영한다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/08/12/news-p.v1.20260812.c5b75b4243f1414388209d3f311c6841_P1.jpg",
+    "score": 5.749,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직",
+      "ax"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "LG전자, 유럽 무선기기 사이버보안 지정시험기관 자격 획득",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48047",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-11T14:34:49+00:00",
+    "raw_excerpt": "[스마트타임스] LG전자가 유럽 사이버보안 규제 관련 인증시험을 자체 수행할 수 있게 되면서 제품 개발과 출시에 필요한 시간과 비용을 줄일 수 있게 됐다.LG전자 최고기술책임자(CTO) 산하 SW공인시험소는 글로벌 인증기관 TUV 라인란드로부터 유럽 무선기기지침 사이버보안 규제에 대한 지정시험기관 자격을 획득했다고 11일 밝혔다.무선기기지침은 유럽에서 판매되는 무선통신 제품에 네트워크와 개인정보 보호, 금융사기 방지 등의 보안 기준을 적용하는 제도다.이번 자격 획득으로 LG전자는 관련 인증시험을 자체적으로 수행할 수 있게 됐다. T",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "LG전자가 유럽 무선기기 사이버보안 지정시험기관 자격을 획득해 제품 인증시험을 자체 수행하며 개발·출시 시간과 비용을 단축할 수 있게 됐다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202608/48047_46667_4218_v150.jpg",
+    "score": 5.375,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "규제",
+      "개인정보"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "디지털 수업지원 솔루션 '에듀싱크', 중기부 TIPS 선정",
+    "url": "https://zdnet.co.kr/view/?no=20260812101137",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-12T01:11:37+00:00",
+    "raw_excerpt": "[지디넷코리아]에듀싱크가 중소벤처기업부 민간투자주도형 기술창업지원 프로그램인 ‘팁스(TIPS) 일반트랙’에 최종 선정됐다. 앞으로 2년간 최대 8억원의 정부 R D 자금을 지원받을 수 있다.12일 에듀싱크에 따르면, 회사가 이번 R D를 통해 선보일 과제는 ‘멀티모달 수업데이터 기반 교사 중심 수업 전주기 AI 오케스트레이션 시스템 개발’이다. 전자칠판을 첨단 IT 허브로 전환해 교사의 판서, 발화 데이터, 디지털 콘텐츠, 학생 반응 이벤트를 하나의 시간축으로 동기화하는 것이 핵심 역량이다.권가원 에듀싱크 대표는 “기존 교실 환경에서는 수업 자료, 판서, 학생 피드백 등이 파편화돼 사라지는 한계가 명확했다”며 “당사의 AI 인공지능 알고리즘은 수업 자료를 분석해 ‘수업 지식 그래프’를 구축하고, 실시간 판서·음성 데이터를 분석하는 ‘구조화된 수업 스트림’ 기술을 통해 수업 준비부터 피드백까지 전 과정을 스마트하게 지원한다”고 설명했다.에듀싱크는 연구개발 기간 동안 30개교 이상의 실증망을 구축하고, 글로벌 K-12 교육 플랫폼 및 전자칠판 제조사들과 API 연동을 본격화 한다는 계획이다.권 대표는 “단순 하드웨어 기기 보급을 넘어 AI와 멀티모달 데이터 엔진이 결합된 독자적인 운영 소프트웨어로 시장을 주도하겠다”며 “국내 공교육과 사교육 시장을 석권하는 것에 그치지 않고 동남아와 북미 등 글로벌 AI 교육 시장으로 사업을 대폭 확장해",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "디지털 수업지원 솔루션 에듀싱크가 중기부 TIPS에 선정되어 2년간 최대 8억원의 정부 R&D 자금을 지원받으며, AI 기반 수업 전주기 지원 시스템 개발을 진행한다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/12/0a5d9a026eecf3470eccfb1f0e99a3f2.jpg",
+    "score": 5.297,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처",
+      "창업"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Impressive new paper from Microsoft.",
+    "url": "https://x.com/dair_ai/status/2087264294782279808",
+    "source": "X @dair_ai",
+    "source_type": "x",
+    "published_at": "2026-08-11T19:46:02+00:00",
+    "raw_excerpt": "Impressive new paper from Microsoft.\n\n(bookmark it)\n\nReasoning modes beat non-reasoning modes on multi-step agentic tasks, and they charge a 3 to 6x premium in output tokens on every single episode. Much of that spend goes into re-deriving procedures the model already worked out",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Microsoft의 새로운 연구에 따르면 추론 모드가 다단계 작업에서 성능은 우수하지만 출력 토큰 비용이 3~6배 증가하는 문제가 있습니다.",
+    "thumbnail": "https://pbs.twimg.com/media/HPdz0GIbEAAtWdm.jpg:large",
+    "score": 5.198,
+    "engagement": 5636,
+    "matched_keywords": [
+      "agentic"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "애플 20주년 야심작 '올글래스' 흔들…폴더블도 고가 논란",
+    "url": "https://www.etnews.com/20260812000173",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-08-12T01:48:17+00:00",
+    "raw_excerpt": "애플이 아이폰 출시 20주년을 기념해 추진했던 '올글래스' 콘셉트의 차세대 모델 개발에 제동이 걸린 가운데, 프리미엄 전략의 또 다른 축으로 꼽히는 폴더블 아이폰 역시 대중적인 주력 제품으로 자리 잡기 어려울 것이라는 분석이 제기됐다. 미국계 투자은행 제프리스는 이 같은 전망을 반영해 애플에 대한 투자 의견을 '언더퍼폼'으로 낮췄다. 10일(현지시간) 마켓워치에 따르면 에디슨 리 애널리스트가 이끄는 제프리스 연구진은 보고서를 통해 애플이 개발하",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "애플의 올글래스 개발 지연과 폴더블 아이폰의 높은 가격대로 인해 투자은행 제프리스가 애플 투자 의견을 '언더퍼폼'으로 하향 조정했다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/08/12/news-p.v1.20260812.5718f37533ab40f5bd0527927ce79b31_P1.png",
+    "score": 5.174,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "정석근 SK하이퍼 대표 “AIDC 골든타임 2~3년…전력·메모리·신뢰로 빅테크 잡는다”",
+    "url": "https://www.etnews.com/20260812000161",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-08-12T01:32:26+00:00",
+    "raw_excerpt": "SK텔레콤이 인공지능 데이터센터(AI DC) 시장 선점의 골든타임을 향후 2~3년으로 제시하고 신설 법인 'SK하이퍼'를 앞세워 글로벌 빅테크 물량 유치에 나선다. 안정적 전력과 메모리 접근성을 앞세워 대한민국을 '아시아 AI 인프라 허브'로 만들겠다는 구상이다. 정석근 SK하이퍼 대표는 12일 뉴스룸 사내 인터뷰에서 “전 세계적으로도 데이터센터를 짓기도 어렵고, 서버에 넣을 메모리를 확보하기 어려운 상황에서 앞으로 2~3년이 골든타임이 될 것",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "SK텔레콤이 신설한 SK하이퍼를 통해 향후 2~3년을 AI 데이터센터 시장의 골든타임으로 보고 전력과 메모리 공급 경쟁력으로 글로벌 빅테크 고객 확보에 나선다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/08/12/news-p.v1.20260812.ab1e01ed56cf47f9986cf2b549d7a44f_P1.png",
+    "score": 5.158,
+    "engagement": 0,
+    "matched_keywords": [
+      "빅테크"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Xirp - Spotify가 만든 조직 컨텍스트 기반 AI 코딩 환경",
+    "url": "https://news.hada.io/topic?id=32420",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-08-12T00:30:02+00:00",
+    "raw_excerpt": "AI 코딩 도구로 코드 생성 속도는 빨라졌지만, 에이전트가 시스템의 배경을 몰라 기술적으로는 맞지만 운영상 잘못된 결정 을 내릴 수 있음 이는 문서 부족이 아닌 검색(retrieval) 문제 여서, Slack 대화/담당자의 기억/오래된 README/Confluence 등에 흩어진 조직 ...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Spotify가 개발한 Xirp는 조직의 컨텍스트를 AI 에이전트에 제공해 코드 생성 시 기술적으로는 맞지만 운영상 부적절한 결정을 하는 문제를 해결한다.",
+    "thumbnail": "https://social.news.hada.io/topic/32420?v=c0a4d774ef0b883b26d6d6c3074518f6",
+    "score": 5.093,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai 코딩"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "GNOME Shell이 꿈꾸는 차세대 디자인",
+    "url": "https://news.hada.io/topic?id=32416",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-08-12T00:06:15+00:00",
+    "raw_excerpt": "최근 릴리스가 소폭 개선에 집중된 가운데, 디자인 팀은 검색·창 관리·시스템 상태 UI 를 아우르는 장기 개편안을 준비 중이며 실제 구현은 개발 역량과 관심, 자금 지원에 달려 있음 검색창에서 펼쳐지는 결과 오버레이와 편집 가능한 빠른 설정, 알림을 통합한 설정 패널로",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "GNOME Shell 디자인 팀이 검색·창 관리·시스템 상태 UI를 개선하는 장기 개편안을 준비 중이며 개발 역량과 자금 지원이 실현의 관건이다.",
+    "thumbnail": "https://social.news.hada.io/topic/32416?v=9c4d10e974976b430e632f588ff4fda0",
+    "score": 5.068,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Already building voice agents?",
+    "url": "https://t.co/Hm3MVsZscF",
+    "source": "X @LangChain",
+    "source_type": "x",
+    "published_at": "2026-08-11T13:02:06+00:00",
+    "raw_excerpt": "Already building voice agents?\n\nJoin our upcoming webinar to learn how to evaluate them across execution, outcomes, and experience—from tool use and task completion to latency, interruptions, and conversational friction.\n\n\nhttps://\nevents.langchain.com/webinar/How-to\n-evaluate-voice-agents/\n…",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "LangChain이 음성 에이전트의 실행 성능, 결과, 사용자 경험을 평가하는 방법을 다루는 웨비나를 개최한다.",
+    "thumbnail": "",
+    "score": 4.917,
+    "engagement": 5943,
+    "matched_keywords": [
+      "tool use"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "미군 드론 수요 잡은 네로스…몸값 세 배 뛰고 생산능력 확대",
+    "url": "https://zdnet.co.kr/view/?no=20260812101705",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-12T01:17:05+00:00",
+    "raw_excerpt": "[지디넷코리아]미국 방산 스타트업 네로스가 2억 5000만 달러를 유치하며 기업가치를 25억 달러로 끌어올렸다. 미군의 저가형 공격·요격 드론 수요에 대응해 현재 연간 6만 5000대인 생산능력을 2028년 100만대로 확대한다는 계획이다.11일(현지시간) 블룸버그통신에 따르면 네로스는 세쿼이아캐피털과 아메리칸 스트래티직 테크놀로지 펀드가 공동 주도한 투자 라운드에서 2억 5000만 달러를 조달했다. 틸캐피털을 비롯한 기존 투자자도 참여했다. 이번 투자로 네로스 기업가치는 이전보다 세 배 높은 25억 달러로 평가됐다.네로스는 투자금을 드론 개발과 생산 확대에 투입할 예정이다. 현재 200명인 직원도 350명으로 늘린다. 해외 사업을 넓히고 미국 동맹국이 자국 내 생산체계를 구축하도록 지원하는 사업에도 자금을 사용한다.미국 정부 방산 조달정책 변화가 네로스의 성장 배경으로 꼽힌다. 미 국방부가 무기 재고를 확충하는 과정에서 기존 대형 방산업체뿐 아니라 인공지능과 자율비행 기술을 보유한 스타트업의 제품 도입도 확대하고 있다는 것이다.미국은 지난해 말 신규 민간 업체 조달 참여를 확대하는 방향으로 제도를 개편했다. 피치북에 따르면 이후 방산 스타트업이 유치한 자금은 약 350억 달러로, 6개월 기준 역대 최대를 기록했다.네로스의 주력 제품은 저가형 공격 드론 ‘아처’다. 상대적으로 저렴한 드론을 이용해 이보다 크고 비싼 무기체계를 공격하도",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "미국 방산 스타트업 네로스가 2억 5000만 달러를 조달하며 기업가치를 25억 달러로 끌어올렸고, 저가형 드론 수요에 대응해 2028년까지 생산능력을 현재의 15배인 100만대로 확대할 계획이다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/12/afc723a6f98e30c0204b3710bca8f076.jpg",
+    "score": 4.627,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "LG디스플레이, 연세대 계약학과 설명회 24일 개최",
+    "url": "https://zdnet.co.kr/view/?no=20260812082221",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-12T01:00:03+00:00",
+    "raw_excerpt": "[지디넷코리아]LG디스플레이는 24일 서울 마곡 LG사이언스파크에서 계약학과인 연세대 디스플레이융합공학과 입시 설명회를 개최한다고 12일 밝혔다. 계약학과는 대학과 협력해 기업이 활용할 수 있는 인력을 양성하는 산학협력 인재 양성 프로그램이다.설명회는 학과와 LG디스플레이 소개, 입학전형 안내, 재학생과 대화 순으로 진행한다. 온라인 사전 신청을 통해 참석할 수 있다. 계약학과는 LG디스플레이와 연세대가 커리큘럼을 공동 설계한다. 재학 중 현장실습 기회를 제공한다. 장학금과 학비보조금 지급, 졸업 후 채용을 보장한다. 지난 4년간 총 120명 입학생을 선발했다. 다음달 7일부터 2027학년도 신입생 수시모집을 시작한다.최근 디스플레이 산업은 유기발광다이오드(OLED)를 중심으로 차세대 기술 패권을 놓고 경쟁이 치열해지면서 융합 지식을 갖춘 인재 수요가 커졌다. LG디스플레이는 \"디스플레이 시장에서 글로벌 기업 경쟁이 치열해지는 가운데 우리나라가 기술 리더십을 지킬 유일한 방법은 인재 확보\"라며 \"단순 학위 취득을 넘어 기술 리더십을 이끌 인재로 성장하는 로드맵을 제시하고 기술 중심 회사로 도약하는 발판을 만들겠다\"고 밝혔다.",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "LG디스플레이가 연세대 디스플레이융합공학과 계약학과 설명회를 24일 개최하며, OLED 기술 경쟁 심화 속 융합 인재 양성을 강화하고 있다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/04/22/9883a5c21befd3968fe9470c3da0cf45.png",
+    "score": 4.611,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "KT, 2분기 영업이익 6483억...전년비 36.1%↓",
+    "url": "https://zdnet.co.kr/view/?no=20260812095946",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-12T00:59:46+00:00",
+    "raw_excerpt": "[지디넷코리아]KT가 연결 기준 2분기 매출 6조 6799억 원, 영업이익 6483억 원을 기록했다고 12일 밝혔다.영업이익은 전년 동기 일회성 분양이익에 따른 기저 영향으로 감소했으나, 데이터센터와 부동산 등 성장사업 확대와 콘텐츠 자회사 실적 개선에 힘입어 올해 1분기 대비 증가했다.별도기준 매출은 4조 5235억 원, 영업이익은 3890억 원을 기록했다. 영업이익은 고객 보답 프로그램 영향으로 전년 동기 대비 감소했으나, B2B 사업 회복과 비용 안정화에 힘입어 올해 1분기 대비 개선됐다.당기순이익은 개인정보 침해사고에 따른 과징금 반영 영향으로 감소했다.무선 사업은 고객 보답 프로그램 영향으로 서비스 매출이 전년 동기 대비 1.8% 감소했으나, 가입자 회복세가 이어지며 안정적인 흐름을 유지했다. 2분기 말 5G 가입자 비중은 전체 핸드셋 가입자의 83.2%를 기록했다.유선 사업 매출은 가입자 기반 확대에도 홈유선전화 감소 영향으로 전년 동기 대비 소폭 감소했다. 인터넷 사업은 기가 인터넷 중심의 가입자 증가와 부가서비스 이용 확대로 1.1% 성장했다. 미디어 사업은 IPTV 가입자 증가에도 광고와 PPV 매출 감소 영향으로 전년 동기 대비 0.5% 감소했다.기업서비스 사업은 전년도 대형 구축사업 종료에 따른 기저효과로 전년 동기 대비 매출이 감소했으나, AI와 클라우드 등 AX 사업과 기업메시징 및 전용회선 사업 호조가 이어졌",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "KT가 2분기 영업이익 6483억 원을 기록했으나 전년 동기 대비 36.1% 감소했고, 일회성 분양이익 기저효과와 고객 보답 프로그램의 영향을 받았다.",
+    "thumbnail": "https://image.zdnet.co.kr/2020/08/28/0ab569e9c456bf6dbe6c1e426168b07e.jpg",
+    "score": 4.611,
+    "engagement": 0,
+    "matched_keywords": [
+      "ax"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "'병원'도 가업상속공제 대상 업종에 포함해야",
+    "url": "https://zdnet.co.kr/view/?no=20260812095026",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-12T00:50:26+00:00",
+    "raw_excerpt": "[지디넷코리아]병원계가 최근 정부가 추진중인 상속세 및 증여세법 개정안의 가업상속공제 대상 업종에 ‘병원’도 포함할 것을 요구했다.대한병원협회는 정부의 상속세 및 증여세법 개정안에 대해 ‘병원’도 가업상속공제 대상 업종에 포함해야 한다는 의견서를 재정경제부와 보건복지부, 국회에 제출했다고 밝혔다.정부가 지난 8월4일 입법예고한 개정안은 가업상속공제 대상 업종을 한국표준산업분류 세세분류 기준으로 법률에 명시하고, 가업의 정의와 가업상속공제심사위원회를 신설하는 내용을 담고 있다. 하지만 개정안에서는 병원과 약국, 마트, 버스·택시 운송업, 주차장업, 창고업 등이 가업상속공제 대상에서 제외됐다.병원협회는 수십 년간 축적된 수술 술기와 진료 프로토콜, 감염관리와 환자안전 체계, 다직종 협업 등은 병원이 축적해 온 대표적인 전문기술과 운영 노하우로, 이번 개정안이 강조하는 ‘전문기술·경영상 노하우의 승계’에 가장 부합하는 업종이라고 강조했다.특히 다수의 병원이 치료기술과 의료기기, 디지털헬스 분야의 특허권을 보유하고 있으며 첨단재생의료와 세포치료 등 산업기술을 축적하고 있다는 점도 제시했다.또 병원을 마트나 주차장업, 창고업 등과 동일하게 취급하는 것도 타당하지 않다고 지적했다.개정안이 제외 대상으로 삼은 업종은 부동산 등 자산 보유 자체가 수익의 원천이 되거나 자산 이전을 통한 상속세 회피 우려가 있는 업종이라는 것이 정부의 개편 취지로, ",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "대한병원협회가 정부의 상속세 개정안에서 병원을 가업상속공제 대상에 포함해달라고 요구했으며, 병원의 수술 술기와 진료 노하우 등이 전문기술 승계에 부합한다고 주장했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/12/3278e4280b3dc78df782d7beece82494.jpg",
+    "score": 4.602,
+    "engagement": 0,
+    "matched_keywords": [
+      "입법"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "gpt luna max vs claude fable ultracode ",
+    "url": "https://x.com/swyx/status/2087045848022843451",
+    "source": "X @swyx",
+    "source_type": "x",
+    "published_at": "2026-08-11T05:18:00+00:00",
+    "raw_excerpt": "gpt luna max vs claude fable ultracode \n\nsent \"pls build a mostly faithful clone of grok imagine with open models via fal\"\n\ni woke up to these two and assumed fable was left and luna was right\n\ni was wrong... it was the other way!!\n\nobjectively, fable did the better visual clone.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Claude Fable Ultracode가 Grok Imagine의 오픈소스 클론 구현 과제에서 GPT Luna Max보다 더 나은 시각적 결과물을 생성했다.",
+    "thumbnail": "https://pbs.twimg.com/media/HPX5mPUakAA0_wz.jpg:large",
+    "score": 4.595,
+    "engagement": 23238,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Solar Pro 4 - 에이전트 작업 특화 LLM",
+    "url": "https://news.hada.io/topic?id=32408",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-08-11T14:17:49+00:00",
+    "raw_excerpt": "Upstage가 공개한 에이전트향 LLM으로, 문서 읽기·도구 호출·코드 실행을 거쳐 Excel 분석 자료, Word 보고서, PPT 슬라이드 같은 실제 파일을 만들어내는 업무 흐름에 맞춰 설계 Artificial Analysis 측정 기준 Terminal-Bench v2.1 57점, GDPval-AA v2 39점, τ³-Banking 23점, AA-LCR 71점",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Upstage의 Solar Pro 4는 문서 읽기, 도구 호출, 코드 실행을 통해 Excel·Word·PPT 같은 실제 업무 파일을 자동 생성하도록 특화된 에이전트 LLM이다.",
+    "thumbnail": "https://social.news.hada.io/topic/32408?v=0223551632c37f3ac5a3f9d63476d69a",
+    "score": 4.455,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Mastercard Wins $1.8B BVNK Deal After Crypto Rivalry",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48070",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-11T22:09:57+00:00",
+    "raw_excerpt": "Mastercard’s US$1.8 billion acquisition of stablecoin infrastructure company BVNK followed an extended competition involving several major financial and cryptocurrency firms, according to early BVNK investor Concentric.Concentric invested in BVNK in 2019 when the startup was valued at about $4 milli",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Mastercard가 암호화폐 인프라 기업 BVNK를 18억 달러에 인수하며 주요 금융·암호화폐 기업들과의 경쟁에서 우위를 점했습니다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202608/48070_46691_941_v150.jpg",
+    "score": 4.452,
+    "engagement": 0,
+    "matched_keywords": [
+      "startup"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "“땀 3분 모아 피부 분석”…日서 등장한 신개념 '개인 맞춤 미용기기'",
+    "url": "https://www.etnews.com/20260811000333",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-08-11T08:00:00+00:00",
+    "raw_excerpt": "일본에서 땀을 활용해 개인의 피부 상태를 파악하고 이에 맞는 화장품과 관리법을 제안하는 새로운 미용 측정 장비가 등장해 화제다. 10일(현지시간) 니혼게이자이신문에 따르면 오사카 소재 스타트업 피탄은 고객별 신체 특성을 바탕으로 적합한 화장품이나 뷰티 서비스를 안내하는 장비 '피타고라스'의 상용 제품 생산에 들어갔다. 해당 기기는 사용자의 땀을 채취한 뒤 약 10분 안에 성분을 판독할 수 있어 미용실이나 약국 등에서 고객 상담 과정에 활용할 수",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "일본 스타트업이 땀 분석으로 개인 피부 상태를 파악하고 맞춤형 화장품을 추천하는 '피타고라스' 기기를 출시해 미용 서비스 맞춤화를 가능하게 했다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/08/11/news-p.v1.20260811.ba9135d3eceb4f81a7481102949f1f87_P1.png",
+    "score": 4.061,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Needle 2 - 스마트폰·웨어러블·스마트홈·로봇을 위한 14MB 에이전틱 LLM",
+    "url": "https://news.hada.io/topic?id=32389",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-08-11T04:33:12+00:00",
+    "raw_excerpt": "도구 호출/기기 제어/구조화 추출에 특화된 45M 파라미터 모델로, 전체 크기가 14MB , 세션 RAM도 최대 28MB 에 불과함 범용 대화를 생성하는 대신 거실 불 켜줘 같은 자연어를 정확한 함수와 인자로 변환 하는 문제에 집중...",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Needle 2는 45M 파라미터의 14MB 경량 LLM으로 스마트폰·웨어러블·로봇 등에서 자연어를 기기 제어 명령으로 변환하는 데 특화됐다.",
+    "thumbnail": "https://social.news.hada.io/topic/32389?v=41f458c75e2c56bdd7797f0e94cc322e",
+    "score": 3.846,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전틱"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "프로그래밍 언어가 코딩 에이전트의 토큰 효율과 정확성에 미치는 영향",
+    "url": "https://news.hada.io/topic?id=32378",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-08-11T01:04:08+00:00",
+    "raw_excerpt": "Zstd와 Pandoc 구현 평가에서는 동적 언어가 정적 언어보다 토큰 효율적 이라는 기존의 강한 관계가 재현되지 않았으며, 과제와 추론 노력 수준에 따라 정확도·비용·시간 순위가 달라짐 70~109토큰으로 풀리는 Rosetta Code 같은 소형 문제는 실제 작업으로 일반화하기 어렵고, 경로 ...",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "프로그래밍 언어의 동적·정적 특성이 코딩 에이전트의 토큰 효율과 정확성에 미치는 영향이 과제 복잡도에 따라 달라진다는 연구 결과가 나왔다.",
+    "thumbnail": "https://social.news.hada.io/topic/32378?v=5020f55d5075507d327b1f484bb53a4a",
+    "score": 3.628,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Saber denies replacing Rideshare Stimulator s writers with ChatGPT",
+    "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-08-12T00:39:26+00:00",
+    "raw_excerpt": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game announced last month, developed by Unigine. The writer, Stella Sacco, says differently, however, posting on Bluesky that \"I was lead writer on this one! [ ]",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Rideshare Stimulator 게임 개발사 Saber의 CEO가 작가를 ChatGPT로 대체했다는 전 리드 작가의 주장을 부인했으나, 해당 작가는 자신이 실제로 해고됐다고 주장하며 논란이 일고 있다.",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/RS_storefronts_3840x2160_8.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+    "score": 3.402,
+    "engagement": 0,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "The lifesaving secret hidden inside a horseshoe crab's blue blood",
+    "url": "https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-12T01:45:51+00:00",
+    "raw_excerpt": "Article URL: https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/ Comments URL: https://news.ycombinator.com/item?id=49266921 Points: 4 # Comments: 0",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "투명한 파란 혈액을 가진 투구게의 혈구 성분이 의료용 백신과 의약품의 무균성 검사에 필수적이어서 종 보존이 중요하다.",
+    "thumbnail": "https://whdh.com/wp-content/uploads/sites/3/2026/08/Horseshoe-Crabs.jpg?quality=60&strip=color",
+    "score": 2.758,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "New Bedford police officer accused of using Flock cameras to track ex-partner",
+    "url": "https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-12T01:42:46+00:00",
+    "raw_excerpt": "Article URL: https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/ Comments URL: https://news.ycombinator.com/item?id=49266899 Points: 36 # Comments: 13",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "New Bedford 경찰관이 Flock 카메라 시스템을 이용해 전 연인을 추적한 혐의를 받고 있다.",
+    "thumbnail": "https://newbedfordlight.org/wp-content/uploads/2026/08/flock-officer-2.jpg",
+    "score": 2.756,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "WorldClaw Agentic 3D open-world generation at scale",
+    "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-11T21:56:18+00:00",
+    "raw_excerpt": "Article URL: https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/ Comments URL: https://news.ycombinator.com/item?id=49265051 Points: 144 # Comments: 46",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "텐센트 허녀안이 대규모 3D 오픈월드를 자동 생성하는 WorldClaw 에이전트 기술을 공개했습니다.",
+    "thumbnail": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/assets/worldclaw-share.jpg",
+    "score": 2.631,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries",
+    "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-11T21:54:25+00:00",
+    "raw_excerpt": "Article URL: https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026 Comments URL: https://news.ycombinator.com/item?id=49265031 Points: 39 # Comments: 2",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "pg_clickhouse v0.10에서 서브쿼리 푸시다운 기능으로 TPC-H 쿼리 성능이 최대 1000배 향상되었습니다.",
+    "thumbnail": "https://clickhouse.com/_next/image?url=%2Fuploads%2Fpg_clickhouse_jul2026_banner_8a6e1ca8ab.png&w=1200&h=630&q=75",
+    "score": 2.63,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "RSI Simulator",
+    "url": "https://www.paradigm.xyz/writing/rsi-simulator",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-11T17:01:21+00:00",
+    "raw_excerpt": "https://www.paradigm.xyz/research/rsi/game Comments URL: https://news.ycombinator.com/item?id=49261192 Points: 34 # Comments: 13",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Paradigm에서 RSI(Repetitive Strain Injury) 시뮬레이터를 공개했으며, 반복 스트레인 손상의 실제 경험을 이해하기 위한 인터랙티브 도구로 활용되고 있습니다.",
+    "thumbnail": "https://images.ctfassets.net/vb2n37v5ldjn/28kuQj7ccnD3rAiVn7rwbv/bd36b17eee5522274e9e256fd1e1b6bb/rsi-opengraph.jpg?w=1200&h=630&fit=fill&f=center&fm=jpg&q=85",
+    "score": 2.467,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Mojo 1.0",
+    "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-11T16:56:46+00:00",
+    "raw_excerpt": "Article URL: https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here Comments URL: https://news.ycombinator.com/item?id=49261128 Points: 307 # Comments: 139",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Modular이 Python 호환 프로그래밍 언어 Mojo 1.0을 출시했습니다.",
+    "thumbnail": "https://cdn.prod.website-files.com/68c9c3107effc2ea46e1a82c/6a7b1bf1bd5b664c84aac08f_Blog-26.5-sm.jpeg",
+    "score": 2.464,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Show HN: Git-knife – Edit commit messages, authors, and dates like a spreadsheet",
+    "url": "https://github.com/TheRealYT/git-knife",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-11T15:09:34+00:00",
+    "raw_excerpt": "Article URL: https://github.com/TheRealYT/git-knife Comments URL: https://news.ycombinator.com/item?id=49259611 Points: 137 # Comments: 88",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Git-knife는 커밋 메시지, 작성자, 날짜를 스프레드시트처럼 편집할 수 있는 Git 도구로 기존의 복잡한 rebase 작업을 단순화합니다.",
+    "thumbnail": "https://opengraph.githubassets.com/ec1b7b0de38ea42f4a93f18769c3a7860ac774f94b88f9cde664d6f961bf7d20/TheRealYT/git-knife",
+    "score": 2.405,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  }
+]
