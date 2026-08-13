@@ -1,0 +1,741 @@
+[
+  {
+    "title": "케빈 웨일 전 오픈AI 부사장, AI 과학 스타트업 창립…몸값 1조 목표",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213917",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-13T17:16:48+00:00",
+    "raw_excerpt": "오픈AI의 전 최고 제품책임자(CPO)인 케빈 웨일이 AI를 활용해 과학 연구 방식을 혁신하는 새로운 AI 과학 스타트업을 설립하고 본격적인 투자 유치에 나섰다. 이는 그가 마지막으로 맡았던 AI 과학 팀의 업무를 그대로 이어가는 것이다.비즈니스 인사이더는 12일(현지시간) 소식통을 인용, 웨일 전 오픈AI 부사장이 이번 투자 라운드에서 1억5000만달러(약 2135억원)의 자금 조달을 목표로 하고 있으며, 신생 기업임에도 불구하고 최저 7억5000만달러(약 1조원) 수준의 높은 기업 가치를 요구하고 있다고 보도했다.지난 4월 오픈",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "오픈AI 전 최고제품책임자 케빈 웨일이 AI 과학 스타트업을 창립해 1억5000만달러 자금 조달을 목표로 기업가치 7억5000만달러(약 1조원)를 요구하고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213917_217507_956.png",
+    "score": 8.471,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "중국 관련 해커, 오픈소스 에이전트로 대만 정부 공격...‘자율형 사이버전’ 현실화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213901",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-13T16:19:26+00:00",
+    "raw_excerpt": "중국과 연계된 것으로 추정되는 해커들이 오픈소스 AI 도구를 조합해 대만 정부 시스템을 공격한 정황이 포착됐다. 여러 AI 에이전트가 자율적으로 네트워크를 탐색하고 취약점을 찾은 뒤 공격이 실패하면 새로운 방법을 스스로 찾아가는 방식이 활용된 것으로 나타나, AI가 사이버 공격의 전 과정을 자동화하는 ‘자율형 사이버전’이 현실화하고 있다는 우려가 커지고 있다.이스라엘의 사이버 보안 전문 드림(Dream) 연구진에 따르면, 공격은 지난 7월 초 나흘 동안 진행됐다.해커들은 최대 8개의 자율형 AI 에이전트를 동시에 가동해 대만 정부",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "중국 관련 해커들이 오픈소스 AI 에이전트를 조합해 대만 정부를 자율형으로 공격하며 '자율형 사이버전'이 현실화하고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213901_217492_157.jpg",
+    "score": 8.393,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "OCP 재단이 주최하는 '2026 OCP 코리아 테크 데이', 21일 코엑스서 개최",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213908",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-13T15:26:46+00:00",
+    "raw_excerpt": "AI 인프라와 데이터센터의 최신 기술 동향을 한자리에서 만나는 '2026 OCP 코리아 테크 데이'가 오는 21일 서울 코엑스 그랜드볼룸 및 아셈볼룸에서 개최된다. 이번 행사는 오픈 컴퓨트 프로젝트(Open Compute Project) 재단이 주최하고 OCP 코리아 커뮤니티, 한국컴퓨팅산업협회, 한국컴퓨팅사업협동조합, 한국클라우드컴퓨팅연구조합이 주관한다.OCP 재단은 데이터센터 인프라의 개방형 설계와 표준화를 추진하는 세계 최대 오픈 소스 하드웨어 기구로, 메타와 인텔, 마이크로소프트, 구글, 엔비디아, 삼성전자 등 빅테크 기업들",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OCP 재단이 21일 서울 코엑스에서 '2026 OCP 코리아 테크 데이'를 개최하여 AI 인프라와 데이터센터 최신 기술을 선보인다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213908_217496_2418.png",
+    "score": 8.322,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "엔비디아"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "모티프, 독파모 후발주자 한계 넘었다…AAII 점수 국내 1위 기록",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213896",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-13T14:09:44+00:00",
+    "raw_excerpt": "독자 AI 파운데이션 모델 개발 프로젝트에 참여 중인 4개사의 외부 벤치마크 결과가 동시에 공개됐다. 아티피셜 애널리시스 인텔리전스 인덱스(AAII)에서는 모티프테크놀로지스가 가장 높은 점수를 기록했다.13일 AAII 공식 홈페이지에는 독파모 프로젝트에 참여 중인 4개사의 평가 점수가 모두 공개됐다.결과는 ▲모티프 3 (47점) ▲솔라 오픈2(37점) ▲A.X-K2(35점) ▲K-엑사원 2.0(31점) 순이다. 지난 2월 '독파모' 프로젝트 정예팀 후발주자로 합류한 모티프테크놀로지스는 첫 공식 평가부터 AAII 전체 지표에서도 국내",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "독자 AI 파운데이션 모델 개발에 참여 중인 모티프테크놀로지스가 AAII 벤치마크에서 국내 1위 점수(47점)를 기록했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213896_217509_4215.png",
+    "score": 8.217,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "파운데이션 모델"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "\"알트먼이 사망했다?\"...구글 검색 오류 해프닝, 원인은 '위키피디아 훼손'",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213892",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-13T13:34:48+00:00",
+    "raw_excerpt": "샘 알트먼 오픈AI CEO가 사망했다는 잘못된 정보가 구글 검색 결과에 한때 노출되는 해프닝이 벌어졌다. 구글 검색 상단의 지식 패널에 알트먼 CEO가 사망한 것으로 표시되면서 소셜미디어를 중심으로 오류가 빠르게 퍼졌는데, 실제 사망한 것이 아니라 위키피디아 문서의 악의적인 훼손이 검색 결과에 반영된 것으로 파악됐다.비즈니스 인사이더에 따르면, 12일(현지시간) X와 레딧 등에서는 '샘 알트먼'을 구글에서 검색하면 이날 사망한 것으로 표시된다는 이용자들의 제보가 잇따랐다. 이용자들이 이를 공유하면서 온라인에서 논란이 커졌다.구글은",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "위키피디아 훼손으로 인해 구글 검색에서 샘 알트먼 오픈AI CEO가 사망한 것으로 잘못 표시되는 해프닝이 발생했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213892_217474_4551.jpg",
+    "score": 8.17,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "그록 4.6, '세계 3위' 등극…프론티어 모델 경쟁 본격 합류",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213882",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-13T12:32:54+00:00",
+    "raw_excerpt": "스페이스XAI가 차세대 AI 에이전트 시장을 겨냥한 고성능 모델을 내놓으며 오픈AI와 앤트로픽을 추격하고 있다. 특히 아티피셜 애널리시스의 지능 순위(AAII)에서 3위권에 진입, 본격적인 프론티어 모델 경쟁에 합류했다. 스페이스XAI가 장시간 에이전트 작업과 코딩, 지식 업무에 특화한 최신 AI 모델 ‘그록 4.6(Grok 4.6)’을 공개했다.그록 4.6은 여러 단계에 걸친 장기 작업을 지속적으로 수행하는 능력에 초점을 맞췄다. 단순히 질문에 답하는 것을 넘어 새로운 분야를 조사하고 정보를 분석하거나 코드베이스를 탐색하고, 제품",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "SpaceXAI가 '그록 4.6'을 출시해 AAII 순위 3위에 진입하며 OpenAI, Anthropic과 본격적인 프론티어 AI 모델 경쟁에 합류했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213882_217461_347.png",
+    "score": 8.086,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "로봇이 스스로 판단해 화물 옮긴다… 마음AI, 과기정통부 ‘피지컬 AI’ 상용화 과제",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41437",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-13T15:59:22+00:00",
+    "raw_excerpt": "로봇이 주변 환경을 단순 인식하는 단계를 넘어, 다음 상황을 예측하고 스스로 행동 계획을 수립하는 ‘피지컬 AI(Physical AI)’ 기술의 물류 현장 적용이 본격화된다.피지컬 AI 전문 기업 마음AI(대표 유태준)는 과학기술정보통신부가 총괄하고 한국지능정보사회진흥원(NIA)이 전담하는 ‘2026년 AI 응용제품 신속 상용화 지원사업’의 수행기관으로 최종 선정됐다고 13일 밝혔다.마음AI가 참여하는 과제는 ‘비정형 화물 분류·이동을 위한 피지컬 AI 응용제품 상용화’다. 단순 연구개발(R D)을 넘어 실제 물류 현장에서 운용 가",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "마음AI가 과기정통부 지원으로 로봇이 환경을 예측하고 자율적으로 행동하는 '피지컬 AI' 기술을 물류 현장에 상용화하는 과제를 수행하게 됐다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41437_62383_598_v150.jpg",
+    "score": 7.722,
+    "engagement": 0,
+    "matched_keywords": [
+      "physical ai",
+      "피지컬 ai"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[게시판] 에어빌리티, AI 드론으로 우주청 ‘스케일업 팁스’ 선정 등 단신",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213912",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-13T17:00:00+00:00",
+    "raw_excerpt": "■ 에어빌리티(대표 이진모)는 우주항공청의 '2026년 투·융자 연계 기술개발사업(스케일업 팁스) 정책지정형 우주항공 분야에 선정됐다고 밝혔다. 이번 선정으로 3년간 30억원 규모의 연구개발비를 지원받아 자체 대드론(C-UAS) 기체에 AI 요격 시스템을 탑재해 고위협 군집드론 대응에 나선다는 설명이다.■ 블럭스(대표 이지혁)는 업계 최초로 데이터 분석부터 기획, 실행까지 AI 기반 고객관계관리(CRM) 마케팅 에이전트 '블럭스 2.0'을 선보인다고 밝혔다. 앞선 1.0이 데이터 분석과 인사이트 제공 중심이었다면 이번 버전은 데이터",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "에어빌리티가 우주항공청 스케일업 팁스에 선정돼 3년간 30억원을 지원받아 AI 요격 시스템이 탑재된 대드론으로 군집드론 대응에 나선다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213912_217501_1740.jpg",
+    "score": 7.473,
+    "engagement": 0,
+    "matched_keywords": [
+      "스케일업"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "인텔, 메모리 사업 재도전 시사...\"CPU와 메모리 결합 등 구상\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213885",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-13T15:50:25+00:00",
+    "raw_excerpt": "인텔이 한때 ‘범용 부품’으로 취급했던 메모리 사업을 다시 전략적 핵심 분야로 주목하고 있다. 립부 탄 인텔 CEO는 새로운 메모리 아키텍처 개발을 자신이 관심을 두고 있는 핵심 프로젝트 가운데 하나로 언급하며, CPU와 메모리를 직접 결합하거나 메모리를 CPU 위에 쌓는 차세대 구조를 검토하고 있다고 밝혔다. 립부 탄 CEO는 12일(현지시간) 테크서지(TechSurge) 팟캐스트에서 과거에는 메모리를 가격 경쟁이 치열한 범용 상품으로 보고 투자를 경계했지만, 최근 상황이 크게 달라졌다고 진단했다.그는 “예전에는 메모리에 투자하지",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "인텔이 CPU와 메모리를 직접 결합하는 차세대 아키텍처 개발으로 메모리 사업을 전략적 핵심 분야로 재추진하고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213885_217471_718.jpg",
+    "score": 7.379,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "\"플랫폼 규격 맞춰 영상 업로드 일괄 자동화\"...보이스루, '포스트림' 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213902",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-13T15:36:25+00:00",
+    "raw_excerpt": "AI 콘텐츠 현지화 전문 보이스루(대표 이상헌)는 영상 콘텐츠를 여러 플랫폼에 자동 배포하는 워크플로우 서비스 '포스트림(Postream)'을 출시했다고 13일 밝혔다. 동시에, 포스트림 기술력을 통해 서비스 운영 6개월간 3661개 채널을 연동하고 1만1000건의 콘텐츠를 게시한 운영 데이터를 공개했다.포스트림은 유튜브 쇼츠, 인스타그램 릴스, 틱톡 등 다양한 채널에 영상을 업로드할 때 발생하는 번거로움을 워크플로우 기반으로 자동화한 서비스다.사용자가 워크플로우를 한 번 설정하면 새 영상이 업로드될 때마다 이를 자동으로 감지해 플",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "보이스루가 영상을 유튜브, 인스타그램, 틱톡 등 여러 플랫폼에 자동으로 배포하는 'Postream' 서비스를 출시했으며, 6개월간 3661개 채널 연동 실적을 기록했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213902_217490_5817.png",
+    "score": 7.36,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[현장] 네이버웍스, '공공 AI 업무 플랫폼' 진화…행정 수고 줄인다",
+    "url": "https://zdnet.co.kr/view/?no=20260813151156",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-13T07:29:14+00:00",
+    "raw_excerpt": "[지디넷코리아]네이버클라우드가 공공 협업툴 시장에서 인공지능(AI)을 활용한 업무 혁신에 속도를 낸다. 협업툴에 AI 기능을 추가하는 것을 넘어 검색·문서 작성·지식 관리·업무 실행으로 이어지는 공공 업무 전반의 AI 전환(AX)을 노린 행보다.정수환 네이버클라우드 기술지원 총괄은 13일 서울 용산구 서울드래곤시티에서 전국 중앙부처와 지방자치단체 관계자를 대상으로 열린 공공 AX 전략 세미나에서 \"기술을 납품하는 데 그치지 않고 고객의 현장에서 실제 가치를 만들 수 있도록 지원하겠다\"고 밝혔다.네이버클라우드는 데이터센터와 자체 개발 거대언어모델(LLM) '하이퍼클로바X', AI 애플리케이션 및 에이전트로 이어지는 '풀스택' 역량을 바탕으로 공공 AI 시장을 공략하고 있다. 하이퍼클로바X를 기반으로 하되 엔비디아의 개방형 모델 '네모트론' 등 글로벌 AI와 협력하는 멀티모델 전략도 병행 중이다.이를 현장에 이식한 대표적인 사례가 한국은행과의 협업이다. 네이버클라우드는 한국은행의 AI 인프라·모델 구축 사업에 참여해 업무에 필요한 AI 어시스턴트를 함께 만들었다. 한국은행이 업무 전반의 워크플로 기획을 맡고 네이버클라우드가 기술적 난제 해결에 집중한 결과, 글로벌 중앙은행 가운데 처음으로 AI 서비스를 출시했다.정 총괄은 \"공공 분야에서는 AI의 성능뿐 아니라 보안과 통제가 중요하다\"며 \"고객 업무를 가장 잘 아는 기관과 기술을 잘 아는",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "네이버클라우드가 검색·문서·지식·업무 전반에 AI를 적용하는 '공공 AI 업무 플랫폼'으로 행정 효율화를 주도하며, 한국은행 사례로 실효성을 입증했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/13/4bb79931c5ff235c1e7f4b126a0b933b.jpg",
+    "score": 7.339,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "llm",
+      "엔비디아",
+      "ai 시장"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "여수, 1조980억원 해양레저관광도시 계획수립",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213899",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-13T14:27:08+00:00",
+    "raw_excerpt": "AI 생성 영상여수시가 총사업비 1조980억원 규모의 복합해양레저관광도시 조성을 위한 기본계획 수립에 들어갔다.여수세계박람회장부터 무술목 일원을 중심으로 해양레저와 해상교통, 체류형 관광을 연결하는 대형 국책사업으로, 2027년 11월까지 구체적인 사업 구조와 거점별 전략을 마련한다고 13일 밝혔다.여수는 12일 시청 이순신홀에서 해양수산부와 전남광주통합특별시, 한국해양수산개발원, 민관 거버넌스, 용역사 관계자 등이 참석한 가운데 기본계획 수립 용역 착수보고회와 민관 거버넌스 출범식을 열었다. 이 사업은 지난해 12월 해양수산부 공",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "여수시가 1조980억원을 투자해 여수세계박람회장부터 무술목 일원에 해양레저·교통·관광을 연결하는 복합관광도시를 2027년까지 조성하기로 했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213899_217488_1927.jpg",
+    "score": 7.266,
+    "engagement": 0,
+    "matched_keywords": [
+      "거버넌스"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "YMTC, 글로벌 낸드 출하량 첫 3위 진입...미국 규제 속 '저가 SSD'로 승부",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213893",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-13T14:26:19+00:00",
+    "raw_excerpt": "중국 메모리 반도체 기업 양쯔메모리(YMTC)가 2026년 2분기 글로벌 낸드(NAND) 플래시 출하량 기준으로 사상 처음 3위에 진입했다. AI 데이터센터를 중심으로 기업용 SSD 수요가 급증하고 낸드 공급 부족이 심화하는 가운데, 저가 소비자용 제품을 중심으로 출하량을 빠르게 늘린 결과다. 12일(현지시간) 카운터포인트리서치의 ‘2026년 2분기 메모리·스토리지 트래커’에 따르면, YMTC는 전 세계 낸드플래시 출하량의 14%를 차지해 직전 3위였던 일본 키옥시아를 근소한 차이로 제쳤다.1위는 25%의 삼성전자, 2위는 22%의",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "YMTC가 2026년 2분기 글로벌 낸드 출하량 첫 3위 진입, 저가 SSD로 미국 규제 속 입지 확대.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213893_217475_30.jpg",
+    "score": 7.265,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "목포문화예술회관 문화교실 운영…25일까지 무료 접수",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213898",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-13T14:14:25+00:00",
+    "raw_excerpt": "AI 생성 영상목포문화예술회관이 시민들의 문화예술 체험 기회를 넓히기 위해 시민과 함께하는 문화교실을 운영한다고 13일 밝혔다.목포시민은 25일까지 무료로 신청할 수 있으며, 강좌는 스마트폰 사진반과 가죽공예반으로 구성된다.이번 문화교실은 생활 속에서 활용할 수 있는 문화예술 체험 프로그램에 초점을 맞췄다. 2개 강좌는 주 2회씩 총 25회 운영된다.스마트폰 사진반은 스마트폰을 활용해 일상과 여행지의 풍경, 순간을 사진으로 기록하는 과정이다. 가죽공예반은 가죽을 활용해 가방, 스마트폰 수납용 지갑 등 실생활에 쓸 수 있는 소품을 직",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "목포문화예술회관이 스마트폰 사진반, 가죽공예반 등 생활 밀착형 문화교실을 25일까지 무료로 모집한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213898_217486_513.jpg",
+    "score": 7.249,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "순천, 신대지구 주말의 광장, 가뭄에 물놀이 대신 비눗방울",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213880",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-13T14:13:39+00:00",
+    "raw_excerpt": "AI 생성 영상순천시가 극심한 가뭄 속에서 22일부터 열리는 '2026 주말의 광장 in 신대지구' 행사 콘셉트를 바꿨다. 물놀이 중심 프로그램은 비눗방울 콘텐츠로 조정하고, 행사에 사용할 예정이던 용수는 해룡면 농가에 지원했다.순천은 13일 지속되는 가뭄으로 농업 현장의 어려움이 커지자 불필요한 물 사용을 줄이고, 확보한 용수를 영농 현장에 활용하기 위해 이 같은 조치를 했다고 밝혔다.이번 행사는 ‘해방’을 핵심 콘셉트로 한 주말의 광장 프로그램이다. 2026 주말의 광장 in 신대지구는 8월22일부터 이틀간 신대지구 신대공영주차",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "순천시가 극심한 가뭄으로 인해 '2026 주말의 광장' 행사의 물놀이 프로그램을 비눗방울 콘텐츠로 변경하고 확보한 용수를 농가에 지원했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213880_217483_4736.jpg",
+    "score": 7.248,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "광주·전남 5개 도시 폭염대책 비교…열대야 길어지자 ‘야간 대응’ 과제",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213897",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-13T14:13:25+00:00",
+    "raw_excerpt": "AI 생성 영상광주·전남에서 기록적인 열대야가 이어지면서, 폭염 대책의 무게중심도 무더위쉼터와 그늘막 설치에서 실제 이용시간과 취약계층 보호로 옮겨가고 있다.광주와 목포, 여수, 순천, 광양은 지역 여건에 따라 서로 다른 대책을 운영하고 있지만 야간 폭염 대응에는 여전히 공백이 남아 있다.올해 7월 광주·전남 평균 열대야일수는 16.6일로 평년 4.4일의 3.8배에 달했다. 7월 기준 관측 이후 가장 많은 기록이다. 전국 평균도 9.7일로 평년의 3.5배를 기록했다. 기상청은 올해 처음 열대야주의보를 도입할 정도로 밤더위를 별도 위",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "광주·전남 지역의 기록적 열대야(평년의 3.8배)에 따라 폭염대책이 야간 대응 강화로 전환되고 있으나, 5개 도시 모두 야간 폭염 대응에 여전히 공백이 남아 있는 상황이다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213897_217482_4520.jpg",
+    "score": 7.247,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "광주, 동복댐 저수율 48.94%…가뭄 ‘주의’ 격상",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213895",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-13T14:11:26+00:00",
+    "raw_excerpt": "AI 생성 영상광주권 주요 상수원인 동복댐 저수율이 48.94%까지 떨어지면서 가뭄 대응 단계가 주의로 올라갔다. 13일 전남광주통합특별시 상수도사업본부는 정수장 생산량을 조정하고 상수원 운영 상황을 점검하는 한편 시민들에게 생활 속 물 절약 실천을 당부했다.11일 기준 동복댐 유역 누적 강수량은 548.5㎜로 전년의 42% 수준이다. 동복댐 저수율은 48.94%로 집계됐고, 가뭄 상황 단계는 8일 관심에서 주의로 격상됐다. 현재 저수량은 약 150일간 생활용수를 공급할 수 있는 수준이다.상수도사업본부는 안정적인 수돗물 공급을 위해",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "광주의 주요 상수원인 동복댐 저수율이 48.94%까지 떨어지면서 가뭄 대응 단계가 '주의'로 격상되었고, 시민들에게 물 절약을 당부했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213895_217476_3040.jpg",
+    "score": 7.245,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "‘AI 보안 취약점 진단 도구’ 직접 개발하는 대전시, 하반기 중 시범운영",
+    "url": "https://byline.network/2026/08/0812-9/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-08-13T04:58:51+00:00",
+    "raw_excerpt": "대전시가 오픈소스 기술을 활용해 내부 전산망에 최적화된 ‘사전 예방 스캐너’를 자체 개발하고 있다. 수억원 규모의 외부 기업 시스템을 구매하는 대신에, 시 정보시스템 환경에 적합한 보안 취약점 진단 도구 개발을 추진하고 나섰다.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "대전시가 외부 솔루션 구매 대신 오픈소스 기술로 자체 보안 취약점 진단 도구를 개발해 하반기 중 시범운영할 예정이다.",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/08/AI.jpg",
+    "score": 7.147,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai 보안",
+      "보안",
+      "취약점"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "실시간 영상 진료 AI ‘AMIE’ 공개…구글, 의사 수준 임상 수행 능력 입증",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41418",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-12T19:34:17+00:00",
+    "raw_excerpt": "구글 리서치와 구글 딥마인드는 텍스트 기반 의료 인공지능을 넘어 환자의 표정과 움직임, 호흡 등 비언어적 신호를 실시간으로 관찰하고 가상 신체검사까지 수행할 수 있는 영상 기반 의료 AI를 11일(현지시간) 선보였다.이 시스템은 구글의 의료 AI 연구 시스템 ‘에이미(AMIE, Articulate Medical Intelligence Explorer)’를 실시간 영상 진료 형태로 확장한 ‘AMIE(Video)’로 제미나이(Gemini)와 실시간 멀티모달 AI 연구 프로젝트 ‘프로젝트 아스트라(Project Astra)’를 기반으로",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "구글이 비언어적 신호를 실시간으로 관찰하고 가상 신체검사까지 수행하는 영상 기반 의료 AI 'AMIE'를 공개했으며, 의사 수준의 임상 수행 능력이 입증됐다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41418_62356_3837_v150.jpg",
+    "score": 7.091,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "딥마인드"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "정부, 효율 35% 탠덤 태양전지 상용화 추진",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=213879",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-13T10:35:00+00:00",
+    "raw_excerpt": "정부가 발전효율 35% 이상을 목표로 페로브스카이트 탠덤 태양전지 상용화를 추진한다. 우주 데이터센터에 적용할 태양광 기술 개발에도 나선다.과학기술정보통신부는 관계부처와 함께 12일 청와대에서 열린 ‘미래성장동력 7대 SEED 보고회’에서 이 같은 내용의 첨단기술 육성 전략을 발표했다.7대 SEED는 소형모듈원자로(SMR), 핵융합, 재생에너지, 양자, 우주·항공, 첨단바이오, 첨단 공급망을 미래 성장동력으로 육성하는 국가 프로젝트다.재생에너지 분야에서는 고효율 태양광 기술이 핵심 과제로 포함됐다. 정부는 효율 35% 이상 페로브스",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "정부가 효율 35% 이상의 페로브스카이트 탠덤 태양전지 상용화를 미래성장동력으로 추진하며 우주 데이터센터 적용도 병행한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/213879_217457_2726.jpg",
+    "score": 6.952,
+    "engagement": 0,
+    "matched_keywords": [
+      "양자"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "대동그룹, 레인보우로보틱스와 농업 로봇 '애그로이드' 공동 개발한다",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41438",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-13T17:35:07+00:00",
+    "raw_excerpt": "미래농업 리딩 기업 대동(공동대표 김준식·원유현)은 레인보우로보틱스(대표이사 이정호)와 농업용 휴머노이드 로봇 '애그로이드(AGROID)'의 상용화를 위한 공동 개발을 추진한다고 13일 밝혔다.양사는 이날 서울 서초구에 위치한 대동 서울사무소에서 ‘애그로이드’ 공동 개발 협약식을 진행했다. 이날 협약식에는 대동 나영중 그룹경영 부사장, 대동로보틱스 강성철 대표이사, 대동에이아이랩 최준기 대표이사와 레인보우로보틱스 이정호 대표이사, 장윤혁 GCO 등 양사 주요 인사들이 참석했다.대동그룹은 올해 초부터 인공지능(AI) 온실에 필요한 농",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "대동그룹과 레인보우로보틱스가 농업용 휴머노이드 로봇 '애그로이드'의 상용화를 위한 공동 개발을 추진한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41438_62384_3328_v150.jpg",
+    "score": 6.942,
+    "engagement": 0,
+    "matched_keywords": [
+      "로보틱스"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "“직구도 쿠팡하듯”…’사줘’가 그리는 에이전틱 커머스",
+    "url": "https://byline.network/2026/08/12_sazo/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-08-13T07:21:20+00:00",
+    "raw_excerpt": "지난 7월 152억원 규모 시리즈 A를 유치한 스타트업 사줘. 크게 보면 배대지 기반 구매대행이지만, 스스로를 '에이전틱 커머스' 기업이라 부릅니다. 왜 하필 직구일까요? 길마로 대표는 에이전트가 값을 하려면 그 일이 복잡하고 반복되고 실패 확률이 높아야 한다고 말합니다. 쿠팡에서 양말 사는 데 에이전틱 커머스의 필요성이 줄어들지만, 직구에서는 꽤 유용할 수 있다는 겁니다.",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "사줘는 AI 에이전트 기반 직구 구매대행 서비스로 복잡한 해외 직구 과정을 쿠팡처럼 간편하게 처리하는 것을 목표로 152억원 시리즈 A를 조달했습니다.",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/08/sazo_gil_ceo.jpeg",
+    "score": 6.485,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "에이전틱"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "데스밸리 넘기 힘든 기후테크 스타트업",
+    "url": "https://byline.network/2026/08/748927492/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-08-12T16:34:43+00:00",
+    "raw_excerpt": "기후테크 스타트업의 민간 투자 유치를 위해서는 사업성을 입증하는 것이 중요해지고 있다. 기술 자체의 수익성은 여전히 기대하기 힘들다는 지적도 뒤따른다.",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "기후테크 스타트업이 초기 사업성 입증의 어려움으로 투자 유치에 苦전하고 있으며, 기술의 수익성 부재가 주요 과제다.",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/08/climatetech-forumjpg-1.jpg",
+    "score": 5.469,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업",
+      "투자 유치"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "한국팹리스산업協·케이던스코리아, 국내 팹리스 산업 강화 위해 '맞손'",
+    "url": "https://zdnet.co.kr/view/?no=20260813161225",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-13T07:34:10+00:00",
+    "raw_excerpt": "[지디넷코리아]한국팹리스산업협회가 국내 팹리스 기업의 기술혁신과 글로벌 시장 진출을 지원하기 위한 협력 체계를 구축한다.한국팹리스산업협회는 케이던스코리아와 국내 팹리스 산업 경쟁력 강화 및 차세대 반도체 설계 생태계 조성을 위한 업무협약(MOU)을 체결했다고 13일 밝혔다.이번 협약을 통해 양측은 급변하는 글로벌 반도체 시장 상황 속에서 국내 팹리스의 설계 경쟁력 강화와 차세대 시장 대응을 위한 협력 기반을 마련하고, 글로벌 네트워크 연계 방안을 함께 검토해 나갈 계획이다. 구체적인 협력 내용과 추진 방식은 향후 후속 협의를 거쳐 결정된다.김경호 한국팹리스산업협회장은 “국내 팹리스 기업이 차세대 반도체 시장에 효과적으로 대응하기 위해서는 고도화된 설계 인프라와 글로벌 반도체 생태계와의 연계 기반이 중요하다”며 “이번 협약을 계기로 케이던스코리아와 지속적인 협의를 이어가며 국내 팹리스 기업의 기술혁신과 글로벌 성장을 위한 실질적인 협력 기회를 발굴해 나가겠다”고 밝혔다.서병훈 케이던스코리아 사장은 “피지컬 AI와 칩렛 등 차세대 반도체 분야가 확대되면서 복잡한 제품을 보다 효율적으로 설계하고 검증할 수 있는 EDA·IP 및 시스템 설계 환경의 중요성이 커지고 있다”며 “케이던스의 지능형 시스템 설계 역량과 한국팹리스산업협회의 산업 네트워크를 바탕으로 국내 팹리스 기업의 차세대 제품 개발과 글로벌 시장 진출을 돕기 위한 다양한 협력 가능",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "한국팹리스산업협회와 케이던스코리아가 국내 팹리스 기업의 설계 경쟁력 강화와 차세대 반도체 시장 진출을 지원하기 위한 업무협약을 체결했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/13/5af0cb04b5b0a43e1910e2d3d7335b99.jpg",
+    "score": 5.318,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "푸두 로보틱스, 소규모 상업 공간용 AI 네이티브 콤팩트 스크러버 드라이어 로봇 PUDU ET1 출시",
+    "url": "https://zdnet.co.kr/view/?no=20260813151013",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-13T06:10:13+00:00",
+    "raw_excerpt": "[지디넷코리아] 선전, 중국 2026년 8월 13일 /PRNewswire/ -- 상업용 서비스 로보틱스 분야의 글로벌 선도기업 푸두 로보틱스(Pudu Robotics)가 소규모 상업 공간을 위해 설계된 AI 네이티브 콤팩트 스크러버 드라이어 로봇 PUDU ET1을 출시했다. 새로운 PUDU E 시리즈의 첫 제품인 ET1은 편의점, 약국, 체인 레스토랑, 비즈니스 및 이코노미 호텔, 오피스 공간을 포함해 100~800제곱미터 규모의 청소 구역을 위해 제작됐다. 콤팩트한 본체와 상업용 등급의 청소 성능, 전체 공정 자동화를 갖춘 ET1은 이용 빈도가 높으면서도 공간이 제한된 환경에 첨단 로봇 청소 기술을 도입하며, 소규모 상업 공간을 위한 AI 네이티브 청소 분야에서 새로운 발걸음을 내디딘다. PUDU ET1: AI-Native Compact Scrubber-Dryer Robot 콤팩트한 상업용 청소의 새로운 표준 청소 자동화가 대형 시설에서 더 작은 상업 매장으로 확대되는 가운데, 기업들은 성능이나 자율성을 희생하지 않으면서도 좁은 공간을 오갈 수 있는 로봇을 필요로 하고 있다. 대형 로봇은 좁은 매장에 배치하기 어려운 경우가 많고, 소형 기계는 흔히 더 많은 수작업 개입을 필요로 한다. PUDU ET1은 소규모 매장을 위해 콤팩트한 이동성과 상업용 등급의 청소 성능, 전체 공정 자동화를 결합함으로써 이러한 격차를 해결한다. 한 번에 ",
+    "topic": "ai_native",
+    "topic_label": "🧬 AI Native",
+    "summary": "푸두 로보틱스가 소규모 상업 공간용 AI 스크러버 드라이어 로봇 PUDU ET1을 출시하여 편의점·약국·호텔 등 100~800㎡ 규모 청소 자동화 시장을 확대한다.",
+    "thumbnail": "https://zdnet.co.kr/images/default_img.jpg",
+    "score": 5.239,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai-native",
+      "ai 네이티브"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "경기주택도시공사, 중소벤처기업인증원 ‘인권경영시스템’ 인증",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48150",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-13T17:08:52+00:00",
+    "raw_excerpt": "[스마트타임스]중소벤처기업인증원(원장 엄진엽, KOSRE)은 경기주택도시공사(GH)가 인권경영시스템(HRMS) 인증 심사에서 ‘적격’ 판정을 받아 7년 연속 인증을 유지하게 됐다고 13일 밝혔다.GH는 그동안 인권 존중 문화의 확산을 목표로 ▲피해자 중심의 구제절차 고도화 ▲공급망 인권 리스크 점검 ▲인권경영 환류체계 기반 인권리스크 개선활동 등 다각적인 활동을 전개해 왔다.특히 주택 공급과 도시개발, 건설 사업을 아우르는 사업 특성상 다수의 협력업체·현장 근로자와 접점을 갖는 만큼, GH는 공급망 전반의 인권 리스크를 점검하고 도",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "경기주택도시공사가 인권경영시스템 인증에서 '적격' 판정을 받아 7년 연속 인증을 유지하며, 피해자 중심 구제와 공급망 인권 리스크 점검 등을 통해 인권 존중 문화 확산을 추진 중이다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202608/48150_46786_821_v150.jpg",
+    "score": 5.182,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "李 대통령 \"부동산 거품 '시한폭탄'…법 고쳐서라도 파격 공급 총력전\"",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48148",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-13T16:55:52+00:00",
+    "raw_excerpt": "[스마트타임스]이재명 대통령은 13일 청와대에서 수석보좌관회의를 주재하고 \"부동산 거품은 더 이상 방치할 수 없는 수준이며, 이 상황이 지속되면 '잃어버린 20년, 30년' 현상이 도래할 수 있다\"고 강력히 경고했다.이 대통령은 국민의 삶과 국가 미래를 위협하는 부동산 문제를 '시한폭탄'에 비유하며, 가용한 모든 수단과 역량을 동원한 전방위적 대응을 주문했다.◇2022년 이후 공급 절벽…규제 철폐와 법 개정 통한 속도전 당부이 대통령은 \"2022년부터 시작된 인허가 축소와 착공 감소로 불가피하게 공급 절벽이 발생했다\"며 \"이를 메우",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "이재명 대통령이 부동산 거품을 \"시한폭탄\"으로 규정하고 법 개정을 통한 대규모 공급으로 위기 극복에 나서겠다고 선언했다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202608/48148_46783_5542_v150.jpg",
+    "score": 5.17,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "HPSP \"삼성에 납품한 장비 영상 추가 제출해야\" vs. 예스티 \"두 장비 구조 같아 불필요\"",
+    "url": "https://zdnet.co.kr/view/?no=20260813161431",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-13T07:30:09+00:00",
+    "raw_excerpt": "[지디넷코리아]반도체 공정용 고압수소어닐링(HPA) 장비 특허분쟁 중인 HPSP가 \"예스티는 삼성전자에 납품한 장비 동영상을 추가로 제출해야 한다\"고 주장하자, 예스티는 \"이미 제출한 다른 동영상 속 장비와 하부 구조가 같아 불필요하다\"고 맞섰다. HPSP는 \"예스티가 HPSP 특허를 침해하지 않았다고 판단한 (지난 6월) 특허법원 판결은 잘못됐다\"고 주장했고, 예스티는 \"특허법원 판결을 원용해달라\"고 밝혔다. 지난 6월 특허법원은 HPSP의 특허가 유효하다면서도, 예스티는 해당 HPSP 특허를 침해하지 않았다고 판결한 바 있다. HPA 장비는 반도체의 실리콘 산화물(SiO) 표면 결함을 고압수소·중수소로 치환해 특성을 개선할 때 사용한다. HPSP가 과거 이 시장을 독점했지만, 예스티가 지난해 말부터 시장에 진입했다. 13일 서울중앙지방법원에서 열린 변론기일에서 HPSP는 \"예스티가 삼성전자에 납품한 '30S'(HPA 장비) 동영상을 추가 제출해야 한다\"며 \"(30S가) 제대로 동작 중이라면 회전체결링 기술을 사용했을 것이고, 회전체결링 기술을 사용하지 않았다면 제대로 작동되지 않을 것\"이라고 주장했다. 또, \"회전체결링 기술을 직접 사용하지 않았더라도 회전체결링에 대응하는 것(기술)이 존재할 것\"이라며 \"이 경우 균등침해가 성립할 수 있다\"고 주장했다. HPSP는 HPA 장비에서 회전체결링이 하우징과 도어 사이 닫힘 상태를 견고하",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "HPA 장비 특허분쟁에서 HPSP가 예스티의 삼성 납품 장비 영상 추가 제출을 요구하며 균등침해 주장으로 맞서고 있으나, 예스티는 기존 영상으로 충분하다며 지난 6월 특허법원 판결에 의존하고 있다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/03/23/f28eb00c565ed461997235fa567c8700.png",
+    "score": 4.639,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "산업부·원안위, 원전수출-규제협력 연계…공동대응 체계 구축",
+    "url": "https://zdnet.co.kr/view/?no=20260813161930",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-13T07:19:30+00:00",
+    "raw_excerpt": "[지디넷코리아]산업부와 원안위가 원전수출과 규제협력을 위한 공동대응 체계를 구축했다.산업통상부는 13일 원자력안전위원회와 ‘한국형 원전의 성공적인 해외 진출을 위한 업무협약’을 체결했다고 밝혔다.산업부와 원안위는 원전수출 대상국의 규제협력 수요에 공동 대응해 해당 국가가 요구하는 안전규제체계 구축과 규제역량 강화를 보다 체계적으로 지원하기 위해 공조체제를 결성했다.두 부처는 앞으로 해외 원전 사업 추진 현황과 국가별 규제 여건, 협력 수요를 상시 공유하고, 우리나라가 원전 설계·건설·운영 등 전주기에 걸쳐 축적한 규제경험을 바탕으로 수출 대상국 여건과 사업단계에 맞춤형으로 협력을 추진할 계획이다.이날 산업부와 원안위 협약과 함께 한국전력·한국수력원자력·원전수출협회·원자력안전기술원·원자력통제기술원도 별도 업무협약을 체결했다.두 부처가 정부 차원의 협력방향을 정립하고, 관계기관이 국가별 수요에 맞는 구체적인 협력과제를 추진하는 체계가 마련됐다.산업부는 해외 원전사업과 규제협력이 사업 초기부터 연계되고, 수출 대상국의 규제협력 수요에도 체계적으로 대응할 수 있을 것으로 기대했다.협약 체결 이후 열린 산업부-원안위 간 협의회에서는 베트남·체코·필리핀 등 주요 수출 프로젝트 현황과 UAE·체코 규제협력 사례를 공유하고 국가별 여건에 맞는 원전수출·규제협력 방안을 논의했다.김정관 산업부 장관은 “이번 협약은 원전수출과 규제협력을 체계적으로 연계",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "산업부와 원안위가 원전수출 대상국의 규제협력을 체계적으로 지원하기 위한 공동대응 체계를 구축했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/13/b842bf1c91780f6547cb998a68e814d7.jpg",
+    "score": 4.629,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "누비아 네오 5 맥스, 7.5인치 디스플레이로 새로운 패드폰 카테고리 개척",
+    "url": "https://zdnet.co.kr/view/?no=20260813161004",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-13T07:10:04+00:00",
+    "raw_excerpt": "[지디넷코리아] 선전, 중국 2026년 8월 13일 /PRNewswire/ -- 모든 이에게 프로급 게이밍 경험을 제공하는 데 주력하는, 고도로 개인화된 라이프스타일 스마트폰 브랜드 누비아(nubia)가 누비아 네오 5 맥스(nubia Neo 5 Max)의 글로벌 출시를 발표하며, 콤팩트한 태블릿의 광활한 시청 경험과 게이밍 콘솔의 휴대성 있는 조작감을 결합한 새로운 패드폰(PadPhone) 카테고리를 선보였다. 업계를 선도하는 7.5인치 디스플레이를 중심으로 제작된 누비아 네오 5 맥스는 태블릿급 몰입감과 콘솔급 조작감, 몰입형 시청각 피드백, AI 기반 게이밍 어시스턴트를 하나의 다목적 기기에 결합해 게이밍과 엔터테인먼트, 일상의 생산성 모두를 지원한다. 누비아 네오 5 맥스, 7.5인치 디스플레이로 새로운 패드폰 카테고리 개척 ZTE의 바이커커(Bai Keke) 부사장은 \"게임이 점점 더 몰입감을 더해가고 젊은 플레이어들이 모바일 기기에서 디지털 라이프의 더 많은 시간을 보내는 가운데, 게이밍 스마트폰은 진정한 개인용 허브로 진화해야 한다\"고 말했다. 이어 \"누비아는 플래그십급 게이밍 기술을 더 폭넓은 대중이 이용할 수 있도록 하는 데 전념하고 있다. 누비아 네오 5 맥스는 업계를 선도하는 컨트롤 엔지니어링과 혁신적인 방열 아키텍처, 플래그십급 튜닝을 통합해 패드폰이라는 콘셉트를 현실로 구현했으며, 이를 통해 플레이어들은 어디서",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "누비아가 7.5인치 디스플레이를 탑재한 'nubia Neo 5 Max'를 출시하며 태블릿의 큰 화면과 휴대폰의 휴대성을 결합한 새로운 '패드폰' 카테고리를 개척했다.",
+    "thumbnail": "https://mmx.prnasia.com/media/MS1968305/Photo1-nubia-Neo-5-Max-with-7-5-Inch-Display-Lands-as-a-New-PadPhone-Categor.jpg?id=OA2865787&p=medium600",
+    "score": 4.621,
+    "engagement": 0,
+    "matched_keywords": [
+      "생산성"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "케이블TV, PP 사용료 80% 보장…콘텐츠 대가산정 기준 개편",
+    "url": "https://zdnet.co.kr/view/?no=20260813155240",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-13T06:52:40+00:00",
+    "raw_excerpt": "[지디넷코리아]종합유선방송사업자(SO) 업계가 방송채널사용사업자(PP)의 안정적인 콘텐츠 제작과 투자를 지원하기 위해 매년 전년도 채널 사용료 80%를 우선 보장한다. 콘텐츠 투자 확대와 TV 우선 공개에 대한 인센티브도 강화한다.한국케이블TV방송협회 SO협의회는 13일 ‘SO업계 콘텐츠 대가산정 기준 가이드라인 개정안’ 설명회를 개최했다.개정안 핵심은 채널별 전년도 사용료의 80%를 매년 우선 보장하는 것이다. 기존 가이드라인은 사용료를 1년차 80%, 2년차 60%, 3년차 40% 우선 보장한 뒤 4년차부터 평가기준을 전면 적용하는 방식이었다.앞으로는 SO의 매출 증감 등을 반영해 해당 연도 전체 콘텐츠 대가 규모를 산정한 뒤 각 채널에 전년도 사용료의 80%를 먼저 배분한다. 남은 재원에 대해서만 시청점유율과 채널평가 등의 결과를 적용한다.SO협의회는 이를 통해 평가 결과에 따라 PP의 사용료가 크게 변동하는 부담을 줄이고 안정적인 콘텐츠 제작과 편성을 지원한다는 방침이다.PP 콘텐츠 제작과 구매 투자 확대에 대한 보상도 강화한다. 방송프로그램 제작비와 구입비를 전년보다 늘린 채널에는 증가 폭에 따라 기존 산정 사용료의 3~15%를 인센티브로 추가 지급한다.투자비가 전년 대비 10% 이상 30% 미만 증가하면 3%, 30~50% 미만은 6%, 50~70% 미만은 9%, 70~90% 미만은 12%를 추가 지급한다. 90% 이상 늘",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "케이블TV 업계가 PP에 전년도 채널 사용료 80%를 매년 우선 보장하고 콘텐츠 투자 확대에 3~15% 인센티브를 제공하는 새로운 대가산정 기준을 도입한다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/13/0080a5b465c0d444fa1eb14645eaa352.jpg",
+    "score": 4.604,
+    "engagement": 0,
+    "matched_keywords": [
+      "가이드라인"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "미투온, 2분기 영업익 48억원…전년比 61.6%↑",
+    "url": "https://zdnet.co.kr/view/?no=20260813151422",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-13T06:14:22+00:00",
+    "raw_excerpt": "[지디넷코리아]미투온이 주요 게임의 견조한 성장과 AI 기반 마케팅 및 운영 효율화에 힘입어 2분기 매출과 영업이익이 모두 고성장하며 큰 폭의 수익성 개선을 달성했다.미투온(대표 손창욱)은 2026년 2분기 연결 기준 매출 249억원, 영업이익 48억원을 기록했다고 13일 밝혔다. 전년 동기 대비 매출은 11.2%, 영업이익은 61.6% 각각 증가한 수치다.상반기 누적으로는 매출 479억원, 영업이익 87억원으로 전년동기 대비 각각 5.6%, 37.9%가 상승했다.회사는 게임 마케팅 직접 수행 체계 강화와 이용자 데이터 분석 고도화, AI 기반 타겟팅 및 업무 자동화를 통해 비용 구조를 최적화한 것이 영업이익의 큰 폭 개선으로 이어졌다고 설명했다.자회사 고스트스튜디오 역시 2분기 연결 기준 매출 221억원, 영업이익 49억원을 달성하며 전년 동기 대비 각각 8.2%, 26.7% 성장했다. 고스트스튜디오는 하반기 신작 캐주얼 게임 '솔리테르 셰프' 출시와 드라마·영화 신규 라인업 발표를 준비 중이며, K-뷰티 브랜드 '픽셀퓨어' 사업 확대를 통해 글로벌 경쟁력을 강화할 계획이다.최원석 미투온 CFO는 “주요 게임들의 성장과 함께 AI를 활용한 정교한 마케팅과 운영 효율화가 실질적인 성과로 이어지면서 매출 성장과 큰 폭의 수익성 개선을 동시에 달성했다”며 “하반기에도 신작 게임 출시, 신규 콘텐츠 라인업 발표, K-뷰티 사업 확대 등 다",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "미투온이 AI 기반 마케팅과 운영 효율화로 2분기 영업이익 48억원을 기록해 전년 대비 61.6% 증가했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2025/08/13/4b480613c4544787816e3533d04f841f.jpg",
+    "score": 4.568,
+    "engagement": 0,
+    "matched_keywords": [
+      "업무 자동화"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "Grok 4.6",
+    "url": "https://x.ai/news/grok-4-6",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-12T15:32:50+00:00",
+    "raw_excerpt": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-a... Comments URL: https://news.ycombinator.com/item?id=49274027 Points: 537 # Comments: 484",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Grok 4.6 모델이 벤치마크 테스트에서 성능을 입증하며 AI 대형언어모델 경쟁에서 주목받고 있습니다.",
+    "thumbnail": "https://x.ai/images/news/grok-4-6-og.png",
+    "score": 2.217,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
+    "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-12T14:22:30+00:00",
+    "raw_excerpt": "Article URL: https://tailscale.com/blog/sqlite-wal-reset-bug Comments URL: https://news.ycombinator.com/item?id=49272832 Points: 1019 # Comments: 188",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "SQLite의 16년 전 WAL 리셋 버그가 추적되어 발견되었으며, 이는 데이터 손상을 야기할 수 있는 중대한 결함입니다.",
+    "thumbnail": "https://tailscale.com/api/og-image?id=45389fc1-da6e-4e0d-82f6-140651c6ba57",
+    "score": 2.178,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "Tim King, AmigaDOS developer, has died",
+    "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-12T14:09:11+00:00",
+    "raw_excerpt": "Article URL: https://amiga-news.de/en/news/AN-2026-08-00070-EN.html Comments URL: https://news.ycombinator.com/item?id=49272655 Points: 268 # Comments: 33",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "AmigaDOS 개발자 Tim King이 사망했다.",
+    "thumbnail": "",
+    "score": 2.171,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "Why tiny JPEGs look different in Chrome",
+    "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-12T14:00:54+00:00",
+    "raw_excerpt": "Article URL: https://guillaumetech.github.io/posts/jpg-scaling-chrome/ Comments URL: https://news.ycombinator.com/item?id=49272549 Points: 297 # Comments: 64",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Chrome에서 작은 JPEG 이미지가 다르게 보이는 이유를 개발자가 분석했으며, 브라우저의 이미지 스케일링 방식의 차이가 원인입니다.",
+    "thumbnail": "",
+    "score": 2.166,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  }
+]
