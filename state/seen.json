@@ -1183,7 +1183,10 @@
       "morning",
       "noon",
       "evening"
+    ],
+    "2026-08-18": [
+      "morning"
     ]
   },
-  "last_sent_date": "2026-08-14"
+  "last_sent_date": "2026-08-18"
 }
