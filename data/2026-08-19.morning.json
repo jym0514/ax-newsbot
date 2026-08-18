@@ -1,0 +1,821 @@
+[
+  {
+    "title": "Strengthening democratic oversight in national security",
+    "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-08-18T19:00:00+00:00",
+    "raw_excerpt": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI가 국가안보 분야 AI에 대한 민주적 감시를 강화하기 위해 정부 기관에 도구, 교육, 전문지식을 지원하는 이니셔티브를 출범했다.",
+    "thumbnail": "",
+    "score": 7.514,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Frontier Model Cost and Open-Weights Popularity is Driving Demand for Model Routing",
+    "url": "https://www.latent.space/p/glean-model-routing",
+    "source": "Latent Space (swyx)",
+    "source_type": "substack",
+    "published_at": "2026-08-18T21:41:10+00:00",
+    "raw_excerpt": "Glean CEO Arvind Jain explains why model routing helps control AI costs for organizations, and how human feedback loops at scale improve its routing systems.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "최신 AI 모델의 높은 비용과 오픈소스 모델 인기 증가로 조직들이 쿼리에 따라 최적의 모델을 자동 선택하는 모델 라우팅 기술 수요가 증가하고 있다.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!mpso!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ac64fa7-87ce-4106-816c-5811822047e1_1280x720.png",
+    "score": 6.757,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "The Download: how people really use AI, and Flock’s design choices",
+    "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+    "source": "MIT Tech Review",
+    "source_type": "rss",
+    "published_at": "2026-08-18T12:10:00+00:00",
+    "raw_excerpt": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. We still don’t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on how people are using their products. But they only release the",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AI 기업들이 사용자 행동 데이터를 제한적으로만 공개하면서 사람들이 실제로 AI를 어떻게 사용하는지 파악하기 어려운 상황이다.",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/08/arm-around2.jpg?resize=1200,600",
+    "score": 6.713,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai",
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "OpenAI says it's \"pacing model development\" as AI cybersecurity risks grow too dangerous",
+    "url": "https://the-decoder.com/openai-says-its-pacing-model-development-as-ai-cybersecurity-risks-grow-too-dangerous/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-08-18T18:43:06+00:00",
+    "raw_excerpt": "OpenAI is deliberately \"pacing AI model development,\" partly because the upcoming \"Astra\" model may be close to gaining critical cyberattack capabilities. A new monitoring system triggers an alert within 30 minutes if a model shows suspicious behavior. The article OpenAI says it s pacing model development as AI cybersecurity risks grow too dangerous appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI가 AI 사이버보안 위험이 증가함에 따라 모델 개발 속도를 의도적으로 늦추고 있으며, 새로운 모니터링 시스템으로 의심 행동을 30분 내 감지하고 있다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/openai_red_Logo.png",
+    "score": 6.339,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "'AI 음성' 위스퍼, 2.8조 가치로 투자 유치...\"횡설수설도 완벽한 문장으로\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214070",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-18T16:05:43+00:00",
+    "raw_excerpt": "AI 음성 인식 도구 '위스퍼 플로우(Wispr Flow)'를 개발한 스타트업 위스퍼가 2억8000만달러(약 3956억원) 규모의 시리즈 B 투자를 유치하며 20억달러(약 2조8260억원)의 기업 가치를 인정받았다고 17일(현지시간) 발표했다.이번 투자 라운드는 기존 투자자인 멘로 벤처스가 주도했다. 누적 투자 유치 금액은 총 3억6100만달러에 달하게 됐다.위스퍼는 이번 자금 조달을 계기로 단순한 음성 받아쓰기 기능을 넘어 회의록 작성, 요약, 실행 항목 추출 등 종합적인 업무 생산성 영역으로 사업을 확장할 계획이다. 이에 따라",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "AI 음성 인식 스타트업 위스퍼가 2억8000만달러 투자 유치로 20억달러 기업 가치 평가받으며 회의록 작성·요약 등 업무 생산성 도구로 사업 확장을 추진한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214070_217702_327.png",
+    "score": 6.152,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업",
+      "벤처",
+      "시리즈 b",
+      "투자 유치"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+    "url": "https://openai.com/index/chatgpt-for-teens",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-08-18T11:00:00+00:00",
+    "raw_excerpt": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "OpenAI가 청소년용 ChatGPT를 출시했으며, 학습 지원과 함께 강화된 보호 기능 및 부모 통제 기능을 제공한다.",
+    "thumbnail": "",
+    "score": 5.889,
+    "engagement": 0,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Anthropic's per-token cost runs 4.4 times the average on Vercel, and developers keep paying",
+    "url": "https://the-decoder.com/anthropics-per-token-cost-runs-4-4-times-the-average-on-vercel-and-developers-keep-paying/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-08-18T10:45:00+00:00",
+    "raw_excerpt": "Anthropic dominated Vercel's AI Gateway spending in July, pulling in 65.1 percent of total revenue while accounting for only 30 percent of tokens processed. Its tokens cost 4.4 times as much as those from competing providers on average. The article Anthropic s per-token cost runs 4.4 times the average on Vercel, and developers keep paying appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Vercel AI Gateway에서 Anthropic의 토큰당 가격이 평균의 4.4배로 높지만 개발자들이 계속 이용하고 있으며, 7월 수익의 65.1%를 차지했다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/anthropic_office_work.png",
+    "score": 5.791,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Cursor capitalizes on Github frustration, launches rival hosting platform",
+    "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-08-18T22:14:25+00:00",
+    "raw_excerpt": "Cursor, known for its AI Code Editor, is launching a new code hosting platform to rival developers' long preferred favorite, Github.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "AI 코드 에디터 Cursor가 GitHub의 대안으로 코드 호스팅 플랫폼을 새로 출시했다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/07/cursor.jpg?resize=1200,800",
+    "score": 5.756,
+    "engagement": 0,
+    "matched_keywords": [
+      "cursor"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Claude Code gets a /design command that lets developers create UI mockups right in the terminal",
+    "url": "https://the-decoder.com/claude-code-gets-a-design-command-that-lets-developers-create-ui-mockups-right-in-the-terminal/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-08-18T10:06:16+00:00",
+    "raw_excerpt": "With the /design command, Anthropic brings a visual design workflow directly into Claude Code. Developers can generate UI mockups as artboards right in the terminal before writing any code. Claude reads the existing codebase and matches the current UI style. The article Claude Code gets a /design command that lets developers create UI mockups right in the terminal appeared first on The Decoder .",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Anthropic이 Claude Code에 /design 명령어를 추가해 개발자들이 터미널에서 직접 UI 목업을 생성할 수 있게 했습니다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude_design.png",
+    "score": 5.747,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "claude code"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "[8월18일] AI 의료의 새로운 돌파구…의사도 경험하기 어려운 '희귀질환'",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214043",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-19T07:00:00+00:00",
+    "raw_excerpt": "“AI에 대한 대중의 신뢰를 높이는 가장 확실한 방법은 암을 치료하는 것이다.”다리오 아모데이 앤트로픽 CEO가 최근 AI의 의료 활용을 두고 한 말입니다. AI가 인류에 큰 도움을 줄 것이라는 약속만으로는 부족하며, 실제로 사람들의 삶을 바꾸는 성과를 보여줘야 한다는 의미입니다. 피지 시모 전 오픈AI 애플리케이션 CEO도 아모데이의 전망에 동의하며 AI가 궁극적으로 “모든 질병을 치료할 수 있다”고 밝혔습니다.하지만 현실에서는 정반대의 논쟁도 벌어지고 있습니다. 환자들이 의사를 만나기 전 챗GPT에 자신의 증상이나 검사 결과를",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AI가 의사도 진단하기 어려운 희귀질환 진단에서 돌파구를 마련하며 의료 분야에서의 신뢰성 확보에 주목하고 있습니다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214043_217666_4153.png",
+    "score": 5.659,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Anthropic increases revenue sevenfold, hits annualized rate above $65 billion",
+    "url": "https://the-decoder.com/anthropic-increases-revenue-sevenfold-hits-annualized-rate-above-65-billion/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-08-18T07:37:25+00:00",
+    "raw_excerpt": "Anthropic's annualized revenue has topped $65 billion, a sevenfold increase in one year, according to Bloomberg. The company could go public as early as fall 2026 at a $1 trillion valuation, potentially beating OpenAI to market. The article Anthropic increases revenue sevenfold, hits annualized rate above $65 billion appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Anthropic이 연간 매출 65억 달러 이상을 기록하며 1년 만에 7배 성장했고, 2026년 가을 IPO를 통해 1조 달러 기업공개를 노릴 수 있을 것으로 전망된다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/claude_logo-1.png",
+    "score": 5.576,
+    "engagement": 0,
+    "matched_keywords": [
+      "openai",
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+    "url": "https://openai.com/index/asana",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-08-18T07:00:00+00:00",
+    "raw_excerpt": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Asana가 OpenAI Codex를 이용해 5년이 걸릴 것으로 예상된 기존 테스트 시스템 교체 작업을 2주 만에 약 1만2000달러로 완료했다.",
+    "thumbnail": "",
+    "score": 5.564,
+    "engagement": 0,
+    "matched_keywords": [
+      "codex"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "New benchmark ranks search APIs for AI agents on quality, cost, and speed",
+    "url": "https://the-decoder.com/new-benchmark-ranks-search-apis-for-ai-agents-on-quality-cost-and-speed/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-08-18T18:10:56+00:00",
+    "raw_excerpt": "Artificial Analysis has released the \"Search Index,\" a benchmark that rates search API providers for AI agents on quality, cost, and speed. Of seven providers tested with GPT-5.6 Luna, Parallel, Exa, and Firecrawl scored highest. The article New benchmark ranks search APIs for AI agents on quality, cost, and speed appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Artificial Analysis가 AI 에이전트를 위한 검색 API의 품질, 비용, 속도를 평가하는 '서치 인덱스' 벤치마크를 출시했으며 GPT, Luna, Parallel, Exa, Firecrawl이 상위권을 차지했다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/aa_search_index_benchmark.png",
+    "score": 5.477,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "젠슨 황 \"오픈AI 데이터센터 보증, '순환 금융' 아니다...임대료 직접 지불\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214050",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-18T14:38:18+00:00",
+    "raw_excerpt": "젠슨 황 엔비디아 CEO가 오픈AI의 대규모 오하이오 데이터센터 구축을 지원하는 과정에서 제기된 ‘순환 금융(circular financing)’ 논란에 대해 정면으로 반박했다. 순환 금융이란 공급업체가 고객사에 자금을 제공하고, 고객사가 그 돈으로 다시 공급업체의 제품을 사주는 일종의 매출 착시 구조를 의미한다. 그러나 황 CEO는 17일(현지시간) 소셜미디어 X를 통해 “이것은 순환 금융이 아니다. 오픈AI가 임대료를 직접 지불한다”고 강조했다.엔비디아가 자금을 대서 자사 반도체를 사도록 강제하는 방식이 아니라, 오픈AI가 자체",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "젠슨 황 엔비디아 CEO가 오픈AI 오하이오 데이터센터 지원 관련 '순환 금융' 논란을 부인하며 \"오픈AI가 임대료를 직접 지불한다\"고 해명했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214050_217681_5732.jpg",
+    "score": 5.423,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai",
+      "엔비디아"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+    "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-08-18T16:19:10+00:00",
+    "raw_excerpt": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Apple의 카메라 탑재 AirPods는 사진·동영상 녹화 기능을 제한해 다른 AI 웨어러블의 프라이버시 문제를 회피할 수 있을 것으로 보인다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/08/airpods-with-cameras.jpeg?w=1000",
+    "score": 5.349,
+    "engagement": 0,
+    "matched_keywords": [
+      "privacy"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "엘리스그룹, 'AISE 2026'서 기업 전용 AX 솔루션 2종 첫 선",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214037",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-18T13:06:19+00:00",
+    "raw_excerpt": "엘리스그룹(대표 김재원)은 19~21일 서울 코엑스에서 열리는 '2026 AI 서밋 서울 앤 엑스포(AISE 2026)'에 참가한다고 밝혔다.이번 행사에서는 기업·기관의 AX를 위한 사내 지식 구조화 솔루션 '헬피컨텍스트'와 AI 코딩 에이전트 '헬피코드' 2종을 처음 선보인다.기존 비전언어모델(VLM) 기반 문서 분석 솔루션 '헬피비전', 기업·기관용 생성형 AI 솔루션 '헬피챗'과 연결해 조직의 AI 전환을 지원한다는 방침이다.헬피컨텍스트는 사내 분산된 지식 정보를 계층 구조로 정리해 AI가 업무 맥락을 이해할 수 있도록 돕는",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "엘리스그룹이 AISE 2026에서 기업용 AI 솔루션 '헬피컨텍스트'와 'AI 코딩 에이전트 헬피코드' 2종을 처음 공개하며 조직의 AI 전환을 지원할 계획이다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214037_217663_5057.jpg",
+    "score": 5.34,
+    "engagement": 0,
+    "matched_keywords": [
+      "사내",
+      "조직",
+      "ax"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "I tested Omarchy Quattro, one of the first Linux distros to go all in on AI - and I didn't hate it",
+    "url": "https://www.zdnet.com/article/omarchy-quattro-linux-distro-power-users-ai/",
+    "source": "ZDNet (Global, AI)",
+    "source_type": "rss",
+    "published_at": "2026-08-18T15:51:37+00:00",
+    "raw_excerpt": "Omarchy made me fall in love with Hyprland - can it do the same for AI?",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Omarchy Quattro는 AI를 전면 통합한 초기 Linux 배포판으로, Hyprland 데스크톱 환경과 AI 기능을 결합했다.",
+    "thumbnail": "https://www.zdnet.com/a/img/resize/443725b0ce2dd50a666b3bc69c72b5453e837a98/2026/08/17/c0b3fc9a-8925-4d11-98e7-7a841bb3e926/omarchyquattrohero.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "score": 5.317,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Perplexity’s free AI offer left it with millions more users in India",
+    "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-08-18T13:45:40+00:00",
+    "raw_excerpt": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Perplexity가 인도에서 Airtel 무료 제공 종료 후 다운로드는 감소했으나 수익은 60% 증가했다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/08/perplexity-app.jpg?resize=1200,800",
+    "score": 5.173,
+    "engagement": 0,
+    "matched_keywords": [
+      "perplexity"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "How to avoid Claude watermarking your content",
+    "url": "https://www.zdnet.com/article/how-to-avoid-claude-watermarking-your-content/",
+    "source": "ZDNet (Global, AI)",
+    "source_type": "rss",
+    "published_at": "2026-08-18T13:30:00+00:00",
+    "raw_excerpt": "The answer is where you least expect it.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Claude 생성 콘텐츠의 워터마킹을 피하는 방법이 예상 밖의 곳에 있다는 주장이 제시되었습니다.",
+    "thumbnail": "https://www.zdnet.com/a/img/resize/e9aaffb7c5161c9272b8ca4de0136af1f55ff5b4/2026/08/18/7925c68d-bc13-4710-b989-3fe6e539a116/gettyimages-1427729065.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "score": 5.155,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "유니트리, 상하이 상장 직전 신형 로봇 ‘슈퍼맨’ 공개...\"우사인 볼트보다 빨라\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214068",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-18T18:10:45+00:00",
+    "raw_excerpt": "유니트리가 상하이 증시 상장을 이틀 앞두고 고속 주행과 도약 성능을 앞세운 신형 휴머노이드 로봇 ‘슈퍼맨(Superman)’을 공개했다. 유니트리가 17일 공개한 슈퍼맨은 3개월에 걸친 개발 끝에 완성됐다.제자리높이뛰기에서 2m를 기록하고, 최고 이동 속도는 초속 12.66m에 달한다. 시속으로는 45.6km로, 우사인 볼트가 기록한 순간 인간 최고 속도를 웃도는 수준이다.다만 유니트리는 현재 슈퍼맨이 개발이 진행 중인 시제품이라는 점을 강조했다. 앞으로 수개월 동안 주행 성능과 동작 안정성 등을 추가로 개선할 수 있다는 설명이다.",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "유니트리가 상하이 증시 상장을 앞두고 시속 45.6km로 우사인 볼트보다 빠른 신형 휴머노이드 로봇 '슈퍼맨'을 공개했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214068_217701_5233.jpg",
+    "score": 4.965,
+    "engagement": 0,
+    "matched_keywords": [
+      "휴머노이드",
+      "휴머노이드 로봇"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "와이즈넛, AI 에이전트 매출 539% 증가…공공·기업 AX 시장 집중 공략",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214074",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-18T16:46:54+00:00",
+    "raw_excerpt": "AI 에이전트 전문 와이즈넛(대표 강용성)은 올해 상반기 연결 기준 매출액 146억 5000만원을 기록하며 전년 동기 대비 8.2% 증가했다고 18일 밝혔다.2026년 상반기 연결 기준 영업손실은 15억9000만원으로 전년 동기 32억원 대비 적자폭이 50.3% 축소됐다. 같은 기간 당기순손실은 5억1000만원으로, 전년 동기 20억원 대비 적자폭을 74.3%까지 줄였다고 강조했다.특히, AI 에이전트 사업 매출이 전년 대비 539% 증가하며 외형 성장을 견인했다. 상반기 AI 에이전트 부문 매출은 61억5000만원으로 전년 동기",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "와이즈넛이 AI 에이전트 사업 매출을 전년 대비 539% 증가시키며 상반기 연결 매출 146억 5000만원을 기록했고 적자 폭도 크게 축소했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214074_217705_3925.png",
+    "score": 4.889,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "맥주 한 잔에 코딩 토큰 '무제한'…베이징에 들어선 'AGI 바'",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214084",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-18T17:50:00+00:00",
+    "raw_excerpt": "중국 베이징의 대표적인 첨단기술 지구이자 '중국의 실리콘밸리'로 불리는 중관춘 이노웨이 창업 거리에 세계 최초의 AI 테마 바인 'AGI 바(Bar)'가 들어서 AI 연구자들 사이에서 큰 화제를 모으고 있다. 30대 독립 AI 개발자인 송더 대표가 오픈한 이 공간은 단순한 유흥업소를 넘어 중국 AI 생태계의 새로운 정보 교류 거점으로 빠르게 자리매김하는 모양새다. AGI 바의 내부와 외관은 AI 산업의 현재를 한눈에 보여주는 디테일들로 가득 차 있다. 매장 내부 벽면은 주요 AI 기업들의 로고와 알록달록한 피규어, 기념상품들로 빽빽",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "베이징 중관춘에 세계 최초의 AI 테마 바 'AGI 바'가 오픈해 AI 연구자들의 정보 교류 거점으로 떠오르고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214084_217719_5116.png",
+    "score": 4.296,
+    "engagement": 0,
+    "matched_keywords": [
+      "창업"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "[게시판] KT·농협경제지주·한국MS, 유통 AX 협력으로 농산물 거래 활성화 등 단신",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214082",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-18T17:00:00+00:00",
+    "raw_excerpt": "■ KT(대표 박윤영)는 농협경제지주,한국마이크로소프트와 'AI·클라우드 기반 유통AX혁신' MOU를 체결했다고 밝혔다. 특히 농협경제지주의 유통, 식품 등 주요 사업 전반에 고객·상품·주문 데이터를 활용한 맞춤형 추천 서비스와 마케팅 체계를 구축한다. 상담 문의, 주문 확인, 배송 안내 등의 업무를 AI가 스스로 이해하고 처리하는 에이전틱 AI 서비스를 도입한다.■ 플래티어(대표 이상훈)는 2분기 흑자 전환에 성공했다고 밝혔다. 2분기 매출액은 전년 동기 대비 5.8% 증가한 103억7000만원, 영업이익은 3억6000만원, 당기",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "KT·농협경제지주·한국MS가 AI·클라우드 기반 유통 혁신으로 농산물 거래 활성화와 에이전틱 AI 고객 서비스 구축에 협력한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214082_217714_2922.jpg",
+    "score": 4.251,
+    "engagement": 0,
+    "matched_keywords": [
+      "ax"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "운전대·페달 없는 테슬라 ‘사이버캡’, 이달 말 오스틴서 시범 운행",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214060",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-18T16:37:54+00:00",
+    "raw_excerpt": "테슬라가 운전대와 브레이크 페달을 아예 없앤 완전 자율주행 전용 차량 ‘사이버캡(Cybercab)’의 대중 공개를 이달 말 미국 텍사스주 오스틴에서 시작할 계획인 것으로 알려졌다. 17일(현지시간) 디 인포메이션에 따르면, 테슬라는 이달 말 사이버캡의 공개 출시를 내부 목표로 정하고 막바지 준비 작업을 진행하고 있다.테슬라 직원들을 대상으로 공공도로에서 차량을 먼저 운행한 뒤 며칠 후 사이버캡을 기존 로보택시 서비스에 투입하는 방안이 추진되고 있다. 다만 최종 준비 상황과 규제 승인 여부 등에 따라 일정은 변경될 수 있다. 사이버캡",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "테슬라가 운전대와 페달을 제거한 완전 자율주행 차량 '사이버캡'을 이달 말 텍사스 오스틴에서 시범 운행할 예정으로, 직원 테스트 후 로보택시 서비스에 투입할 계획이다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214060_217693_4747.jpg",
+    "score": 4.231,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "코난, 상반기 역대 최대 80억 매출 달성...\"AX 수주 확대 영향\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214062",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-18T16:09:21+00:00",
+    "raw_excerpt": "코난테크놀로지(대표 김영섬)는 올해 상반기 매출 80억4739만원으로 지난해 동기(74억5518만원) 대비 7.9% 증가하며 역대 최대 매출을 기록했다고 18일 밝혔다.영업손실은 68억836만원으로 전년 동기(84억4069만원) 대비 19.3% 축소됐다. 매출총이익도 4억9944만원으로 전년 동기(6억8585만원 손실) 대비 흑자 전환하는 등 수익성 지표 전반이 개선됐다는 설명이다.특히 2분기 매출은 41억 7161만원으로 전년 동기(33억 8958만원) 대비 23.1% 증가했으며, 2분기 영업손실도 전년 동기 대비 36.6% 줄었",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "코난테크놀로지가 상반기 매출 80억4739만원으로 역대 최대를 기록하며 AX 수주 확대로 수익성이 개선됐다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214062_217696_129.jpg",
+    "score": 4.205,
+    "engagement": 0,
+    "matched_keywords": [
+      "ax"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+    "url": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+    "source": "Ars Technica",
+    "source_type": "rss",
+    "published_at": "2026-08-18T13:00:04+00:00",
+    "raw_excerpt": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Microsoft Copilot의 보안 취약점으로 해킹되어 비밀 매개변수를 통해 클릭한 사용자의 비밀번호를 탈취할 수 있었던 것으로 밝혀졌다.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg",
+    "score": 4.19,
+    "engagement": 0,
+    "matched_keywords": [
+      "copilot"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "솔트룩스, ‘온톨로지 부트캠프’ 연다...AI 에이전트 실무 인재 양성",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21373",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-08-18T17:44:12+00:00",
+    "raw_excerpt": "솔트룩스가 ‘솔트룩스 온톨로지 부트캠프’ 교육생을 모집한다고 18일 밝혔다. 교육은 9월 29일부터 10월 1일까지 서울 잠실역 인근 솔트룩스 본사에서 3일간 진행된다. 총 30명을 대상으로 하며 교육비는 1인당 100만 원이다. 온톨로지는 기업의 여러 시스템과 문서에 흩어진 데이터를 업무 용어와 개념, 관계를 중심으로 연결하는 기술이다. 단순히 데이터를 저장하는 데 그치지 않고 누가 무엇을 어떤 관계로 연결하고 있는지를 구조화해 AI가 데이터의 의미와 맥락을 활용하도록 하는 것이 핵심이다. 솔트룩스는 온톨로지가 AI 에이전트가 기",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "솔트룩스가 AI 에이전트 실무 인재 양성을 위해 9월 29일부터 3일간 '온톨로지 부트캠프'를 개최하며, 30명 모집에 1인당 100만 원의 교육비를 책정했다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202608/21373_22074_3859.jpg",
+    "score": 4.181,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+    "url": "https://github.com/DenisSergeevitch/desktop-fly",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-18T21:50:33+00:00",
+    "raw_excerpt": "Article URL: https://github.com/DenisSergeevitch/desktop-fly Comments URL: https://news.ycombinator.com/item?id=49353221 Points: 4 # Comments: 0",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "macOS 데스크톱에 실제 FlyWire 연결체 데이터를 기반으로 한 3D 초파리가 구현되었다.",
+    "thumbnail": "https://opengraph.githubassets.com/7b403de85589e1a8534618a8ffc48a7bf26bf715f4aff0522c53c3a597c44fb0/DenisSergeevitch/desktop-fly",
+    "score": 4.166,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Flock impersonates journalist in order to cancel his hotel reservations",
+    "url": "https://xcancel.com/bennjordan/status/2089430236945342508",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-18T21:48:12+00:00",
+    "raw_excerpt": "Article URL: https://xcancel.com/bennjordan/status/2089430236945342508 Comments URL: https://news.ycombinator.com/item?id=49353181 Points: 24 # Comments: 9",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Flock이 기자를 사칭해 그의 호텔 예약을 취소했다.",
+    "thumbnail": "https://pbs.twimg.com/media/HP8jv3XWYAAoDQH.jpg",
+    "score": 4.164,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Companies promote incompetent employees to management tolimit damage they can do",
+    "url": "https://lawsofsoftwareengineering.com/laws/dilbert-principle/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-18T21:13:30+00:00",
+    "raw_excerpt": "Article URL: https://lawsofsoftwareengineering.com/laws/dilbert-principle/ Comments URL: https://news.ycombinator.com/item?id=49352794 Points: 27 # Comments: 14",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "무능한 직원을 관리직으로 승진시켜 피해를 최소화하려는 기업들의 관행이 논의되고 있다.",
+    "thumbnail": "https://lawsofsoftwareengineering.com/og/dilbert-principle.png",
+    "score": 4.135,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Find Chicago Parking Cops",
+    "url": "https://www.secondcitycitation.com",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-18T21:08:40+00:00",
+    "raw_excerpt": "Article URL: https://www.secondcitycitation.com Comments URL: https://news.ycombinator.com/item?id=49352737 Points: 8 # Comments: 5",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Chicago의 주차위반 단속원 위치 정보를 모아서 공개하는 웹사이트가 생겼습니다.",
+    "thumbnail": "",
+    "score": 4.131,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Beware Management Consultants",
+    "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-18T19:29:51+00:00",
+    "raw_excerpt": "Article URL: https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/ Comments URL: https://news.ycombinator.com/item?id=49351324 Points: 358 # Comments: 61",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "경영 컨설턴트들이 조직에 미치는 부정적 영향에 대한 경고글이 해커뉴스에서 358개의 좋아요를 받으며 주목받았습니다.",
+    "thumbnail": "",
+    "score": 4.049,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "IndieWeb Homebrew Website Club Asia Pacific: Reflections",
+    "url": "https://burgeonlab.com/blog/inaugural-hwc-ap-recap/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-18T19:07:47+00:00",
+    "raw_excerpt": "Article URL: https://burgeonlab.com/blog/inaugural-hwc-ap-recap/ Comments URL: https://news.ycombinator.com/item?id=49350980 Points: 8 # Comments: 0",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "IndieWeb 커뮤니티가 아시아태평양 지역 첫 Homebrew Website Club 행사를 개최해 독립적인 개인 웹사이트 구축 문화를 확산했다.",
+    "thumbnail": "https://burgeonlab.com/blog/inaugural-hwc-ap-recap/og_img_038.png",
+    "score": 4.031,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "How does IKEA come up with names for its products?",
+    "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-18T18:11:53+00:00",
+    "raw_excerpt": "Article URL: https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html Comments URL: https://news.ycombinator.com/item?id=49349984 Points: 172 # Comments: 116",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "IKEA는 제품명을 스웨덴 지명, 인명, 식물명 등 특정 카테고리별로 체계적으로 지어 브랜드 정체성을 유지한다.",
+    "thumbnail": "",
+    "score": 3.984,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "현대건설, 테라파워 빌 게이츠 의장과 SMR 등 에너지 인프라 협력 논의",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41495",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-18T18:08:30+00:00",
+    "raw_excerpt": "현대건설이 테라파워(TerraPower)와의 전략적 협력을 확대하며 차세대 원전 시장 주도권 확보에 속도를 낸다.현대건설은 테라파워(TerraPower), HD현대의 주요 경영진이 참석한 가운데 차세대 원자로 ‘Natrium®(이하 나트륨)’의 상업적 배치 및 글로벌 확산을 위한 협력 방안을 논의했다고 18일 밝혔다. 지난 14일, 회동에는 현대건설 이한우 대표이사를 비롯해 테라파워의 빌 게이츠 이사회 의장과 크리스 르베크 CEO, HD현대 정기선 회장 등 3사의 주요 경영진이 참석했다.참석자들은 테라파워의 나트륨 프로젝트가 차세대",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "현대건설이 테라파워와 빌 게이츠 의장의 주도 아래 소형모듈원전(SMR) 나트륨 프로젝트의 상용화와 글로벌 확산을 위한 전략적 협력을 강화하고 있다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41495_62458_71_v150.jpg",
+    "score": 3.981,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Turbovec – Google's TurboQuant for vector search in Rust",
+    "url": "https://github.com/RyanCodrai/turbovec",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-18T18:07:21+00:00",
+    "raw_excerpt": "Article URL: https://github.com/RyanCodrai/turbovec Comments URL: https://news.ycombinator.com/item?id=49349898 Points: 178 # Comments: 22",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Google의 TurboQuant 기술을 Rust로 구현한 Turbovec이 벡터 검색 성능을 크게 향상시키고 있습니다.",
+    "thumbnail": "https://repository-images.githubusercontent.com/1192555574/000b661c-3519-42a5-9609-d5051c50c2f0",
+    "score": 3.98,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
+    "url": "https://machine0.io",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-18T16:26:42+00:00",
+    "raw_excerpt": "Hi HN! I’m Barnaby, founder of machine0 ( https://machine0.io ). I’m building a CLI for long horizon agent compute: `machine0 new mybox` gives your agent a persistent cloud VM, billed by the minute, from $0.013/hr up to 60 vCPU / 240 GB RAM and GPUs (H100s, H200s etc), with 99.99% VM level uptime. Agents self drive via CLI or MCP. Demo: https://www.youtube.com/watch?v=gyllkZ0M04E Agent workloads are moving from ephemeral to always-on. A coding agent working on a complex feature runs 6-8 hours. Agent orchestrated training & RL runs take days. OpenClaw & Hermes run 24/7. As you run more in parallel: - Resources: a few agents on a large codebase saturate RAM and CPU. Model training and RL needs",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "machine0는 AI 에이전트용 지속형 클라우드 VM을 CLI로 제공하는 YC S26 스타트업으로, 분 단위 저가 요금제와 높은 가용성으로 장시간 작업을 지원한다.",
+    "thumbnail": "https://machine0.io/opengraph-image?8d23f96a9593a7fa",
+    "score": 3.896,
+    "engagement": 0,
+    "matched_keywords": [
+      "gpu"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "[금융권 스타트업 협업①] KB국민은행은 왜 신생 ‘티냅스’를 택했나",
+    "url": "https://byline.network/2026/08/0819-5/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-08-18T14:49:54+00:00",
+    "raw_excerpt": "KB국민은행과 인공지능(AI) 에이전트 신뢰성 검증 스타트업 티냅스는 금융 AI의 답변 신뢰성을 높이기 위한 협업을 진행했다. AI가 생성한 금융 답변을 고객에게 전달하기 전에 현업 기준에 따라 검증하고, 통과·차단·재검토 여부를 판단하는 체계를 공동으로 구축한 것이다. 이를 통해 생성형 AI 활용 과정에서 발생할 수 있는 오류와 리스크를 사전에 점검할 수 있는 기반을 마련했다.",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "KB국민은행이 AI 스타트업 티냅스와 협력해 금융 AI의 답변을 고객 전달 전에 검증하는 시스템을 구축해 생성형 AI의 오류와 리스크를 사전에 차단했다.",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/08/KakaoTalk_20260818_230405545.jpg",
+    "score": 3.498,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Cursor, Origin 코드 호스팅 시작",
+    "url": "https://news.hada.io/topic?id=32621",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-08-18T15:30:02+00:00",
+    "raw_excerpt": "Cursor가 자체 코드 호스팅 기능인 Origin을 오늘부터 모든 유료 플랜에 얼리 베타로 공개했다. 엔터프라이즈 조직은 관리자가 옵트아웃하면 제외된다. Origin 저장소 새로 생긴 Codebase 탭에서 저장소를 만든다. +New를 누르고 이름을 정하면 CLI 설치 방법과 clone, push 명령이 안내된",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Cursor가 AI 코드 에디터에 자체 코드 호스팅 기능 Origin을 유료 플랜 사용자에게 베타로 공개했다.",
+    "thumbnail": "https://social.news.hada.io/topic/32621?v=6a1d2729b07da794a2f0a0618cc52f9e",
+    "score": 3.208,
+    "engagement": 0,
+    "matched_keywords": [
+      "cursor"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "[단독] 작년 국내 21곳 해킹 애슐리우드, 성형외과 10만건 개인정보 또 탈취",
+    "url": "https://zdnet.co.kr/view/?no=20260818172758",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-18T09:48:55+00:00",
+    "raw_excerpt": "[지디넷코리아]국내 성형외과, 컴퓨터학원 등 국민 일상생활과 밀접한 소규모 웹사이트 3곳에서 탈취된 회원 개인정보가 다크웹 불법 해킹 포럼에서 판매된 정황이 포착됐다. 이 데이터를 탈취한 해커는 지난해 말에도 총 21곳의 국내 소규모 웹사이트를 연쇄적으로 해킹한 바 있다.18일 본지 취재를 종합하면 '애슐리우드2022(Ashelywood2022)'라는 닉네임의 해커가 불법 해킹 포럼 '다크포럼스(Darkforums)'에 지난 6월 6일~7일간 3곳의 국내 소규모 웹사이트 내부에 저장된 회원 개인정보를 탈취해 판매 중인 것으로 파악됐다.해당 웹사이트 3곳은 ▲서울시 청담동에 위치한 성형외과 웹사이트 '청담유성형피부센터' ▲중학생 대상 인터넷 강의 사이트 '쎄다아카데미' ▲컴퓨터 학원 웹사이트 '씨스꿀컴퓨터스쿨' 등이다. 애슐리우드2022 해커는 불법 해킹 포럼에 해당 웹사이트 내 저장된 개인정보로 보이는 소스코드 대시보드를 샘플로 게시, 포럼 내에서 활동하는 다른 해커에게 개인정보를 판매하는 중이다.다크포럼스에 해커가 업로드한 웹사이트는 총 4곳이었으나, 나머지 한 곳의 웹사이트는 현재 접속이 불가능한 상태이며, 샘플로 업로드한 데이터에도 개인정보는 포함되지 않은 것으로 나타났다.애슐리우드2022가 업로드한 샘플데이터를 보면 성형외과의 경우 10만 건의 회원정보가 유출됐다. 유출된 항목을 보면 ▲ID ▲비밀번호(암호화) ▲이름 ▲닉네임",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "애슐리우드2022라는 해커가 성형외과 10만건을 포함해 국내 소규모 웹사이트 3곳에서 탈취한 개인정보를 다크웹에서 판매 중이며, 이 해커는 지난해 말 21곳을 연쇄 해킹한 것으로 드러났다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/18/59a773da3c8394aafbf6a830898bbb59.png",
+    "score": 3.124,
+    "engagement": 0,
+    "matched_keywords": [
+      "해킹",
+      "개인정보"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  }
+]
