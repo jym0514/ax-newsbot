@@ -1,0 +1,716 @@
+[
+  {
+    "title": "'추론 칩' 에치드, 기업 가치 29조 돌파...한 달 만에 몸값 2배로 상승",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214109",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-19T16:51:43+00:00",
+    "raw_excerpt": "AI 추론용 반도체를 개발하는 스타트업 에치드(Etched)의 기업 가치가 불과 한 달도 안 돼 두 배 이상으로 뛰었다. 에치드는 18일(현지시간) 지난 7월 103억달러(약 14조4000억원)의 가치 평가로 시리즈 C 투자를 유치한 데 이어, 이번에 7억달러(약 9800억원)를 추가 조달하면서 몸값이 210억달러(약 29조원)로 급등했다고 밝혔다.AI 모델을 실제 서비스에서 실행하는 ‘추론(inference)’ 수요가 급증하면서 이를 더 빠르고 저렴하게 처리할 수 있는 전용 반도체에 투자자들의 관심이 집중되고 있다는 분석이다.이번",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "AI 추론용 반도체 스타트업 에치드가 한 달 만에 기업 가치를 14조에서 29조 원으로 두 배 이상 높이며 추론 칩 시장의 급성장을 반영했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214109_217744_216.png",
+    "score": 8.437,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "스타트업"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "바이두, 실적 악화 악재 속 ‘어니’ 카드로 AI 반격 선언",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214110",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-19T16:45:00+00:00",
+    "raw_excerpt": "바이두가 2분기 매출 감소와 순이익 급락으로 시장의 우려를 키운 가운데, 대형언어모델(LLM) ‘어니(Ernie)’를 다시 AI 기술 경쟁의 최전선으로 끌어올리겠다고 선언했다. 최근 수개월간 어니의 성능 개선이 지연되는 사이 알리바바와 문샷 AI 등에 잇달아 고성능 모델을 내놓으면서 바이두가 중국 AI 경쟁에서 뒤처지고 있다는 지적이 커진 데 따른 대응이다.바이두는 18일(현지시간) 2분기 매출이 전년 동기 대비 4% 감소한 313억3000만위안(약 6조4900억원)을 기록했다고 밝혔다.시장 예상치인 319억6000만위안에도 못 미",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "바이두가 2분기 실적 악화 속에서 어니(Ernie) LLM의 성능 개선을 가속화해 중국 AI 경쟁에서의 뒤처짐을 만회하려 나섰다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214110_217750_4058.jpg",
+    "score": 8.428,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "llm"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "KT, 국산 반도체-AI 모델-API 플랫폼 일체형 '소버린AI 어플라이언스' 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214108",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-19T16:20:56+00:00",
+    "raw_excerpt": "KT(대표 박윤영)는 국산 AI 반도체와 국산 언어모델(LLM)을 하나의 서버에 통합한 기업용 소버린 AI 어플라이언스(하드웨어와 소프트웨어가 결합된 완제품형 장치)를 출시했다고 19일 밝혔다.KT가 선보인 'KT NPU LLM 스테이션'은 국내 AI 반도체 기업 리벨리온의 NPU '아톰-맥스(ATOM-MAX)'에 KT의 LLM '믿음 K 2.5 프로', 운영 API 플랫폼까지 탑재한 일체형 제품이다.이처럼 AI 반도체부터 모델, 운영 플랫폼에 이르는 핵심 기술을 국내 기술로 구성해 소버린 AI를 이뤄냈다고 강조했다.가장 큰 특징은",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "KT가 국산 AI 반도체, 언어모델, API 플랫폼을 통합한 기업용 소버린AI 어플라이언스 'KT NPU LLM 스테이션'을 출시했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214108_217746_2327.jpg",
+    "score": 8.395,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "llm"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "‘AI 미참여’의 역설…AI 수혜주는 반등하는데 애플만 10% 하락",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214123",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-19T16:20:00+00:00",
+    "raw_excerpt": "올해 상반기 AI 투자 열풍에 대한 시장의 회의론이 커지면서 ‘AI와 거리를 둔 종목’으로 주목받았던 애플의 주가가 하반기 들어 정반대의 흐름을 보이고 있다. 마이크로소프트와 아마존, 구글 등의 실적을 통해 AI 인프라 투자가 과도하지 않다는 안도감이 커지자, 이번에는 애플이 상대적으로 소외되고 있다.18일(현지시간) 블룸버그에 따르면, 애플 주가는 지난 7월28일 사상 최고치를 기록한 뒤 약 10% 하락했다.최근 실적에서 시장 기대에 미치지 못한 성과를 보인 데다, AI 인프라 투자를 대규모로 진행하는 기업들의 실적이 시장의 우려",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "상반기 AI 과투자 우려로 소외받던 애플이 하반기 들어 AI 수혜주들의 실적 개선으로 상대적으로 주목받지 못하며 7월 최고치 대비 10% 하락했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214123_217763_1120.jpg",
+    "score": 8.394,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "ai 투자"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "\"누구나 쉽게 vs 생활 밀착 연합\"...SKT·카카오, '모두의 AI' 전략 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214106",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-19T15:18:50+00:00",
+    "raw_excerpt": "과학기술정보통신부가 추진하는 '모두의 AI' 공모에 SK텔레콤과 카카오가 출사표를 던지며 양사의 전략에 관심이 모이고 있다. 대규모 서비스 운영 경험을 공통으로 내세우면서도 인프라 생태계와 컨소시엄 결합 방식에서 차별화를 시도하고 있다.SK텔레콤(대표 정재헌)은 19일 출사표를 통해 모델부터 인프라, 서비스까지 전 영역을 아우르는 '풀스택' 역량을 최우선 전략으로 내세웠다.월간 사용자 1000만명 규모의 AI 개인비서 '에이닷' 운영 노하우와 정부의 독자 AI 파운데이션 모델 프로젝트를 통해 검증받은 6880억개 매개변수 규모의 '",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "SK텔레콤과 카카오가 정부의 '모두의 AI' 공모에 참여하며 풀스택 역량과 생활밀착형 서비스를 차별화 전략으로 내세우고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214106_217740_5725.png",
+    "score": 8.311,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "파운데이션 모델"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "오픈AI, 청소년 전용 ‘챗GPT 포 틴즈’ 글로벌 출시...안전장치·학습 기능 강화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214094",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-19T12:20:22+00:00",
+    "raw_excerpt": "오픈AI가 13~17세 청소년을 위한 전용 AI 챗봇 경험인 ‘챗GPT 포 틴즈(ChatGPT for Teens)’를 글로벌 출시했다. 오픈AI는 18일(현지시간) 이를 공개하며 청소년이 AI를 안전하게 활용하면서도 비판적으로 사고하고 학습할 수 있도록 설계했다고 밝혔다.사용자가 자신의 나이를 13~17세라고 밝히거나, 가입 정보와 이용 행태, 질문 유형 등 여러 신호를 바탕으로 시스템이 18세 미만으로 추정하면 별도의 신청 절차 없이 청소년용 경험으로 자동 전환된다.나이 판단이 확실하지 않으면 안전 설정이 우선 적용된다. 성인 이",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "오픈AI가 13~17세 청소년을 위한 '챗GPT 포 틴즈'를 글로벌 출시하며 AI 안전장치와 학습 기능을 강화했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214094_217726_2357.png",
+    "score": 8.069,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "스태빌리티 AI, ‘스테이블 오디오 3.0’ 작업 방식 확장…음악 생성 넘어 편곡·편집·믹싱까지 지원",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41522",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-19T17:43:19+00:00",
+    "raw_excerpt": "스태빌리티 AI(Stability AI)가 음악 생성 인공지능(AI) 모델 ‘스테이블 오디오 3.0(Stable Audio 3.0)’을 음악 제작 과정에 직접 활용할 수 있도록 작업 환경을 확장했다.스태빌리티 AI는 18일(현지시간) 스테이블 오디오 3.0을 위한 새로운 DAW 플러그인과 기능이 강화된 웹 기반 작업 환경을 공개했다. 이는 단순히 음악을 한 번 생성하는 방식에서 벗어나 생성한 음원을 편곡하고 수정하며 믹싱하는 등 실제 음악 제작 과정에서 지속적으로 활용할 수 있도록 한 것이 핵심이다.이번 기능은 현재 베타 버전으로",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Stability AI가 Stable Audio 3.0의 DAW 플러그인과 웹 환경을 확대하여 음악 생성을 넘어 편곡, 편집, 믹싱까지 지원하는 음악 제작 도구로 진화시켰다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41522_62500_424_v150.jpg",
+    "score": 7.852,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "AMD, AI 에너지 효율 4배 향상…2030년 20배 목표 순항",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41518",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-19T16:34:49+00:00",
+    "raw_excerpt": "AMD가 인공지능(AI) 컴퓨팅 환경에서 에너지 효율을 대폭 끌어올리며 오는 2030년까지 AI 학습 및 추론을 위한 랙 스케일 에너지 효율을 20배 향상한다는 목표 달성에 속도를 내고 있다.AMD는 2026년 중반 기준 AI 에너지 효율이 2024년 대비 약 4배 향상됐다고 18일(현지시간) 밝혔다. 이는 같은 시점에 예상했던 3배 향상 목표를 넘어선 성과다. 과거 추세와 비교하면 같은 기간 예상됐던 개선 수준보다 2배 이상 높은 것으로 평가된다.이번 성과는 AI 반도체 자체의 성능 개선뿐 아니라 메모리, 인터커넥트, 소프트웨어,",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AMD가 2026년 중반 기준 AI 에너지 효율을 2024년 대비 4배 향상시켜 2030년 20배 목표 달성에 순항 중이다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41518_62496_3442_v150.jpg",
+    "score": 7.767,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "LG유플러스-연세대, AI-RAN 환경서 네트워크 전환 기술 검증",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41516",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-19T14:02:13+00:00",
+    "raw_excerpt": "LG유플러스가 연세대학교와 함께 AI-RAN(AI Radio Access Network) 환경에서 네트워크가 전환되는 상황에서도 연결을 유지할 수 있는 기술을 검증했다. 최근 인공지능이 주변 환경을 인식하고 판단해 실제 공간에서 움직이며 작업을 수행하는 피지컬 AI 기술이 주목받고 있다. 대표적으로는 AI를 활용해 스스로 이동하고 작업하는 로봇이나 드론 등이 있다.이 같은 장비는 공장이나 물류센터 등 특정 공간을 벗어나 이동하는 과정에서 서로 다른 네트워크를 이용해야 하기 때문에, 네트워크가 바뀌더라도 연결을 안정적으로 이어가는 기",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "LG유플러스와 연세대가 AI-RAN 환경에서 네트워크 전환 시에도 연결을 유지하는 기술을 검증해 이동 로봇·드론 등 피지컬 AI 기기의 안정적 운영 기반을 마련했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41516_62492_115_v150.jpg",
+    "score": 7.576,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "교육부, '인공지능 온이음' 사업 추진....취약계층·취약지역의 고등학생에게 교육 프로그램 제공",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41515",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-19T13:39:51+00:00",
+    "raw_excerpt": "교육부(장관 최교진)와 한국장학재단(이사장 박창달)은 취약계층·취약지역의 고등학생에게 인공지능(AI) 서비스와 AI 교육 프로그램을 제공하는‘2026년 인공지능 온이음 사업’을 추가경정예산으로 신규 추진한다. 19일, 교육부에 따르면 2026년 인공지능 온이음 사업은 교육급여 대상자 등 취약계층 고등학생을 ‘유형1’로 선정해 우선 지원한다. 대상 학생이 학교별 담당 교사에게 신청 의사를 밝히면 유료형 인공지능 서비스 사용을 지원받을 수 있다. 각 학교에서는 학생 수요를 받아 한국장학재단으로 학교별 신청 및 계정 발급 등 절차를 진행",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "교육부가 취약계층·취약지역 고등학생을 위해 유료 AI 서비스와 교육 프로그램을 지원하는 '인공지능 온이음' 사업을 2026년부터 추진한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41515_62491_3933_v150.jpg",
+    "score": 7.548,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "딥엑스 NPU, 과기부 ‘혁신제품’ 지정…국방·공공 AI 시장 확대",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41514",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-19T12:47:59+00:00",
+    "raw_excerpt": "딥엑스(DEEPX)는 자사의 저전력 엣지 컴퓨팅용 AI 반도체가 과학기술정보통신부의 ‘우수연구개발 혁신제품’으로 지정됐다고 19일 밝혔다. 이번에 지정된 제품은 AI 모델의 실시간 추론 연산을 수행하는 딥엑스의 NPU 기반 AI 추론 모듈 ‘DX-M1·DX-H1 시리즈’다.우수연구개발 혁신제품 지정 제도는 정부 연구개발(R D)을 통해 개발된 혁신제품의 공공시장 진입과 판로 확보를 지원하기 위해 도입됐으며, 지정 제품은 3년간 정부·지방자치단체 등 공공기관과 수의계약이 가능하고 구매 담당자에게는 고의나 중과실이 없는 경우 구매면책이",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "딥엑스의 NPU 기반 AI 추론 모듈이 과기부 혁신제품으로 지정돼 3년간 정부·공공기관과의 수의계약을 통해 국방·공공 AI 시장 진출이 가능해졌다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41514_62490_4739_v150.jpg",
+    "score": 7.483,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "ai 시장"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "펜실베이니아, AI 데이터센터 규제 대열 합류...주지사 행정명령 서명",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214113",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-19T16:28:43+00:00",
+    "raw_excerpt": "미국 펜실베이니아주가 급증하는 AI 데이터센터 건설에 대한 규제를 강화하고 나섰다. 조시 샤피로 펜실베이니아 주지사는 18일(현지시간) 데이터센터 개발업체가 지방정부의 승인을 받고 환경·전력·수자원 보호와 투명성 기준을 충족해야 주정부 허가 심사를 받을 수 있도록 하는 행정명령에 서명했다.AI 데이터센터가 전력과 물 사용량을 급격히 늘리면서 지역사회와 전기요금에 부담을 줄 수 있다는 우려가 커진 데 따른 조치다.이번 행정명령은 즉시 발효되며, 주정부의 신속 허가 프로그램인 ‘패스트 트랙(Fast Track)’ 대상에서 모든 데이터센",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "펜실베이니아주가 AI 데이터센터의 전력·용수 사용으로 인한 지역 부담을 우려해 환경·투명성 기준을 강화하는 행정명령에 서명했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214113_217753_5648.jpg",
+    "score": 7.431,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "로브로스, AI 휴머노이드 9대 '반도체·자동차·물류' 현장 동시 투입",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41511",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-19T12:02:45+00:00",
+    "raw_excerpt": "풀스택 인공지능(AI) 휴머노이드 로봇 기업 로브로스(Robros, 대표 노승준)가 자사 이족보행 휴머노이드 ‘IGRIS-C(이그리스-C)’를 반도체, 자동차 제조, 물류 기업 등 9개 기관에 동시 공급한다고 19일 밝혔다.이번 공급은 로봇산업진흥원이 주관하는 ‘휴머노이드로봇 실증 지원사업’의 일환으로 이뤄진다. 해당 사업에 선정된 10 개의 컨소시엄 중 세 곳이 로브로스의 이그리스-C를 실증 플랫폼으로 채택했으며, 이는 참여한 로봇 공급 기업 중 가장 많은 수치다.이번 사업을 통해서 각 과제당 세 대씩 9대의 이그리스-C가 공급되",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "로브로스가 자체 개발한 이족보행 휴머노이드 '이그리스-C' 9대를 반도체·자동차·물류 등 9개 기관에 동시 투입하며 휴머노이드 로봇 실증사업에서 가장 많은 공급 기업으로 선정됐다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41511_62487_155_v150.jpg",
+    "score": 7.427,
+    "engagement": 0,
+    "matched_keywords": [
+      "휴머노이드",
+      "휴머노이드 로봇"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "앤트로픽, IPO 앞두고 '차등의결권' 추진...창립자 경영권 보호 강화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214104",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-19T16:16:52+00:00",
+    "raw_excerpt": "앤트로픽이 기업공개(IPO)를 앞두고 다리오 아모데이 CEO를 비롯한 공동 창립자들에게 일반 주식보다 많은 의결권을 부여하는 방안을 추진하고 있는 것으로 알려졌다. 수천억달러 규모의 외부 자금을 조달하면서 창업자들의 지분율이 크게 희석된 만큼, 상장 이후 외부 주주들의 압력으로부터 경영진의 영향력과 회사의 장기적인 AI 안전·공익 목표를 보호하기 위한 조치로 풀이된다.18일(현지시간) 블룸버그에 따르면, 앤트로픽은 아모데이 CEO와 6명의 공동 창립자에게 추가적인 의결권을 가진 별도 주식 종류를 부여하는 방안을 검토하고 있다.구체적",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "앤트로픽이 IPO를 앞두고 창립자들에게 일반 주식보다 많은 의결권을 부여하는 '차등의결권' 구조를 추진하며 외부 자금 조달로 희석된 경영권을 보호하려 하고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214104_217738_103.jpg",
+    "score": 7.415,
+    "engagement": 0,
+    "matched_keywords": [
+      "창업"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "목포, 보탬e 실무교육…추경·2027년 본예산 앞두고 업무역량 강화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214111",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-19T15:24:55+00:00",
+    "raw_excerpt": "AI 생성 영상목포시가 하반기 인사이동으로 지방보조금 업무를 새로 맡은 직원들의 업무 적응을 돕고 추경·본예산 편성에 대비하기 위해, 보탬e 실무교육을 진행했다고 19일 밝혔다.목포는 지난 14일 지방보조사업 담당자와 교육 희망자 30명을 대상으로 지방보조금관리시스템 보탬e 현장 교육을 실시했다.교육은 한국지역정보개발원 보탬e 운영지원단 배한철 부장이 맡았다. 지방보조금의 기본 개념부터 신청·편성·교부·집행·정산·평가까지 전체 업무 흐름을 실제 시스템 사용과 연결해 설명했다.보조사업 신청·등록과 예산편성, 실적·정산보고서 확인, 정",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "목포시가 지방보조금 담당자들을 대상으로 보탐e 시스템 실무교육을 진행해 추경·2027년 본예산 편성에 대비했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214111_217752_5519.jpg",
+    "score": 7.344,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "애플, '카메라 탑재' 에어팟 영상 유출...올 가을 출시 유력",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214097",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-19T13:21:35+00:00",
+    "raw_excerpt": "애플이 카메라를 내장한 차세대 에어팟의 출시를 준비하고 있는 정황이 포착됐다. 최신 맥OS 베타 버전에 실제 제품의 기능을 시연하는 영상과 설정 문구가 포함된 것으로 확인되면서, 이르면 올가을 아이폰 신제품과 함께 공개될 가능성이 커지고 있다.17일(현지시간) 맥루머스에 따르면 최근 배포된 맥OS 타호(Tahoe) 26.7 릴리스 후보(RC) 내부에서 카메라가 탑재된 에어팟의 짧은 시연 영상이 발견됐다.영상에서는 한 남성이 책을 에어팟 쪽으로 들어 올리자 이어버드에 내장된 카메라가 책 표지를 인식하고, '시리'와 '비주얼 인텔리전스",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "애플이 카메라를 탑재한 차세대 에어팟을 개발 중이며, 맥OS 베타 버전의 시연 영상으로 올가을 아이폰 신제품과 함께 출시될 가능성이 높아졌다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214097_217730_210.jpg",
+    "score": 7.177,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "GM, 2028년 ‘아이즈 오프’ 슈퍼 크루즈 출시…핸즈프리에서 운전자 시선까지 자유롭게",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41519",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-19T17:01:29+00:00",
+    "raw_excerpt": "제너럴 모터스(GM)가 운전자의 손을 운전대에서 떼는 수준을 넘어 도로에서 시선을 돌릴 수 있는 차세대 운전자 보조 기술 개발에 속도를 내고 있다.GM은 2028년 차세대 슈퍼 크루즈(Super Cruise)에 ‘아이즈 오프(eyes-off)’ 기능을 도입할 계획이라고 18일(현지시간) 밝혔다. 해당 기술은 우선 특정 고속도로 등 정밀하게 매핑된 도로에서 적용되며, 첫 적용 차량은 캐딜락 에스컬레이드 IQ가 될 예정이다.현재 슈퍼 크루즈는 북미 지역 20개 이상의 GM 차종에 적용돼 있으며, 약 75만 대의 슈퍼 크루즈 탑재 차량이",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "GM이 2028년 운전자가 도로에서 시선을 돌릴 수 있는 '아이즈 오프' 기능을 갖춘 차세대 슈퍼 크루즈를 출시할 예정이다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41519_62497_5959_v150.jpg",
+    "score": 6.9,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "모빌린트, 해군 지능형 영상감시체계에 AI 반도체 공급",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21379",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-08-19T14:55:59+00:00",
+    "raw_excerpt": "모빌린트는 해군의 ‘NPU 기반 지능형 영상감시체계 시범 구축 사업’에 자체 AI 반도체 기반 추론 플랫폼을 공급한다고 19일 밝혔다. 이번 사업은 함정에 이미 설치된 폐쇄회로텔레비전(CCTV)과 영상관리시스템은 그대로 활용하면서, 여기에 국산 NPU 기반 AI 분석 기능을 더하는 방식으로 진행된다. 사업이 마무리되면 해군 함정 약 50척에 AI 기반 영상분석 환경이 새롭게 구축된다. 기존에는 관제요원이 여러 대의 CCTV 화면을 직접 눈으로 확인하며 이상 상황을 걸러내야 했다. 앞으로는 AI가 24시간 영상을 상시 분석해 위험 상",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "모빌린트가 자체 AI 반도체를 해군 함정 50척의 지능형 영상감시체계에 공급해 24시간 자동 영상 분석이 가능해진다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202608/21379_22079_4423.jpg",
+    "score": 6.181,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "NH농협은행, 변동형 주담대 취급 재개…총량 규제 완화 후 은행권 첫 움직임",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48276",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-19T17:56:48+00:00",
+    "raw_excerpt": "[스마트타임스]NH농협은행이 가계대출 총량 관리 차원에서 중단했던 변동형 주택담보대출(주담대) 대면 신규 접수를 재개한다. 이는 정부가 가계대출 총량 규제 완화 방침을 발표한 이후 은행권에서 나온 첫 대출 정책 전환으로, 유사한 규제를 적용해 온 타 은행권으로 영향이 확대될지 귀추가 주목된다.19일 금융권에 따르면 NH농협은행은 오는 20일부터 변동형 주택담보대출 상품인 'NH주택담보대출'의 대면 신규 접수를 다시 시작하기로 했다. 앞서 NH농협은행은 연간 가계대출 증가 목표치를 상당 폭 초과함에 따라 지난 6월 1일부터 대면 신규",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "NH농협은행이 정부의 가계대출 총량 규제 완화에 따라 중단했던 변동형 주담대 대면 신규 접수를 20일부터 재개하며 은행권 첫 움직임을 보였다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202608/48276_46922_2456_v150.jpg",
+    "score": 5.227,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "코스피, 상반기 매출 2천조 성장에 순이익 4배…삼전·하닉 견인",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48278",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-19T17:08:12+00:00",
+    "raw_excerpt": "[스마트타임스]올해 상반기 국내 유가증권시장(코스피) 상장사들이 매출 2,000조 원을 돌파하고 순이익은 전년 동기 대비 4배 이상 급증했다. 삼성전자와 SK하이닉스 등 반도체 투톱의 독주 속에 주요 상장사들과 금융업계 전반으로 실적 온기가 확산되는 양상이다.19일 한국거래소와 한국상장회사협의회, 코스닥협회 발표에 따르면 12월 결산 유가증권시장 상장사 634개사(연결 기준)의 올해 상반기 매출액은 2,000조 1,261억 원으로 전년 동기 대비 28.84% 증가했다.수익성 지표는 더욱 가파르게 상승했다. 영업이익은 388조 1,5",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "코스피 상장사들이 상반기 매출 2,000조 원을 기록하고 순이익이 전년 대비 4배 이상 급증하며, 삼성전자·SK하이닉스 등 반도체 기업들이 실적 회복을 주도하고 있다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202608/48278_46940_728_v150.jpg",
+    "score": 5.181,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "카카오, 경량 언어모델 Kanana-2 시리즈 안전성 평가 결과 공개... 글로벌 모델 대비 최고 수준 기록",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41493",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-18T17:49:15+00:00",
+    "raw_excerpt": "카카오(대표이사 정신아)가 오픈소스로 공개한 경량 언어모델(SLM) 카나나(Kanana-2)시리즈의 안전성 평가 결과를 18일 공개했다.카카오는 자체 구축한 'AI 안전성 평가 플랫폼'을 통해 지난달 28일, 허깅페이스에 오픈소스(다운)로 공개한 ‘Kanana-2-1.3B-Instruct’, ‘Kanana-2-3B-Instruct’ 두 모델을 대상으로 유해성, 편향성 등을 체계적으로 측정했다. 그 결과, 두 모델 모두 유사 파라미터 규모의 주요 글로벌 모델 대비 종합 1위를 기록했다.이번 평가에는 과학기술정보통신부 사업의 일환으로",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "카카오가 공개한 경량 언어모델 Kanana-2 시리즈가 자체 안전성 평가에서 글로벌 유사 모델 대비 최고 수준의 성능을 기록했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41493_62456_491_v150.jpg",
+    "score": 5.16,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai 안전"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "에버스핀, 매출 54.5%↑·영업익 9.7배·순익 5.7배…IPO 잰걸음",
+    "url": "https://zdnet.co.kr/view/?no=20260819121633",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-19T03:16:33+00:00",
+    "raw_excerpt": "[지디넷코리아]‘매출 54.5%↑·영업익 9.7배·순익 5.7배’인공지능(AI) 기반 사이버보안 기업 에버스핀(대표 하영빈)이 지난해 기록한 경영성과다.올해 기업공개(IPO)를 앞두고 에버스핀의 삼일PwC 출신 공인회계사인 조병현 CFO(전무)가 에버스핀의 성장성과 수익구조·재무 건전성을 회계·재무 전문가 관점에서 설명했다.IPO를 위해 금융감독원이 지정한 삼일회계법인의 감사를 받은 에버스핀의 2025년도 감사보고서에 따르면 매출은 132억원대로 전년 보다 54.5% 증가했다. 영업이익은 전년 5억원대에서 9배 이상 증가한 49억원대를 기록했다.에버스핀은 수익성 개선 요인으로 매출 성장에 비해 비용 증가가 제한되면서 영업레버리지 효과를 꼽았다. 에버세이프(웹)·페이크파인더 등 해킹·피싱방지 솔루션 매출이 일회성으로 끝나는 게 아니라 구독형 서비스로 이뤄져 있기 때문에 매출이 늘어날수록 더 큰 이익으로 이어지는 구조이기 때문이다.당기순이익 성장세는 더욱 두드러진다. 2024년 12억 8700만원이었던 당기순이익은 2025년 73억 8000만원으로 5배 이상 증가했다. 당기순이익률 역시 55.9%까지 상승했다. 높은 순이익률은 본업의 수익성 개선과 함께 일본 합작법인의 실적 성장에 따른 지분법이익이 반영된 결과다.자본총계 역시 2025년 말 기준 409억 2700만원으로 견조했다. 2024년 328억 3800만원에서 81억원 가량 늘어나",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "AI 기반 사이버보안 기업 에버스핀이 지난해 매출 54.5%, 영업익 9.7배, 순익 5.7배 성장을 기록하며 올해 IPO를 추진 중이다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/19/d21b9b617d280e8f78cc031a4e39a98e.jpg",
+    "score": 5.077,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "해킹"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "업비트·빗썸에 현금 빼고 코인 맡겼다…디파이 해킹에 수요 몰렸나",
+    "url": "https://zdnet.co.kr/view/?no=20260819104831",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-19T02:09:03+00:00",
+    "raw_excerpt": "[지디넷코리아]국내 양대 가상자산거래소 업비트와 빗썸의 고객예치금이 올해 상반기 큰 폭으로 감소했다. 반면 이용자가 거래소에 맡긴 주요 가상자산은 늘면서 거래보다는 보유에 무게를 둔 투자 수요가 커졌다는 분석이 나온다.19일 금융감독원 전자공시시스템에 따르면 올 상반기 업비트와 빗썸의 회원예치금은 지난해 말보다 약 2조 8000억원 감소했다.회원예치금은 이용자가 업비트와 빗썸에서 가상자산을 거래하기 위해 맡긴 현금이다. 예치금 규모와 증감 추이는 거래소 내 투자 대기자금과 시장 활력을 가늠할 수 있는 지표 중 하나다.지난 6월 말 기준 업비트 운영사 두나무의 회원예치금은 약 3조 7352억원으로 지난해 말보다 36% 감소했다. 같은 기간 빗썸의 회원예치금도 35% 줄어든 약 1조 3196억원으로 집계됐다.현금성 예치금은 줄었지만 이용자가 거래소에 맡긴 주요 가상자산 수량은 오히려 늘었다.두나무 이용자가 위탁한 비트코인은 지난해 말 약 16만개에서 올해 6월 말 17만개로 증가했다. 이더리움은 192만개에서 234만개, 리플은 62억개에서 65억개로 늘었다. 같은 기간 빗썸 이용자가 위탁한 전체 가상자산도 약 129조개로 8% 증가했다.시장에서는 예치금 감소에도 위탁 가상자산이 늘어난 배경 중 하나로 최근 잇따른 탈중앙화금융(디파이) 해킹을 꼽는다. 보안 우려가 커지면서 일부 투자자가 자산 보관처를 중앙화거래소(CEX)로 옮겼을 가능성",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "국내 양대 거래소 업비트·빗썸의 현금 예치금은 36% 감소한 반면 보관 암호화폐는 증가해, 디파이 해킹 우려로 투자자들이 중앙화거래소로 자산을 옮기는 추세를 보이고 있다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/19/06287441c0aab6ae07e4125c1a505bc9.png",
+    "score": 5.013,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "해킹"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "삼성 원UI 9.5에 ‘앱 미러링’…스마트폰과 연동 강화되나",
+    "url": "https://zdnet.co.kr/view/?no=20260819102124",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-19T02:25:32+00:00",
+    "raw_excerpt": "[지디넷코리아]삼성전자의 차세대 모바일 운영체제 ‘One UI 9.5’에 PC와 갤럭시 스마트폰의 연동성을 강화하는 ‘앱 미러링’ 기능이 추가될 것이라는 전망이 나왔다.IT매체 폰아레나는 18일(현지시간) IT 팁스터 파하드 알리 자베드가 공개한 삼성 원UI 9.5 내부 빌드로 추정되는 스크린샷을 인용해 이같이 보도했다.파하드 알리 자베드는 엑스(@fahadalijaved)를 통해 해당 스크린샷을 공개하며 “삼성 계정 기반 노트북용 앱 미러링 기능이 포착됐다”고 밝혔다.유출된 정보에 따르면 앱 미러링 기능은 갤럭시 스마트폰의 앱과 알림을 노트북에서 무선으로 이용할 수 있도록 하는 기능으로 보인다. 스마트폰과 노트북 모두 동일한 삼성 계정으로 로그인해야 하는 것으로 알려졌다.이 기능은 애플이 2024년 선보인 ‘앱 미러링’과 유사하다. 해당 기능을 이용하면 아이폰이 잠겨 있는 상태에서도 맥에서 아이폰 화면과 앱을 조작하고 알림을 확인할 수 있다.삼성의 앱 미러링 기능이 실제로 도입될 경우 갤럭시 스마트폰과 윈도PC, 특히 갤럭시북 간 연동성이 한층 강화될 것으로 예상된다.다만 현재 공개된 내용은 삼성의 내부 테스트 빌드를 기반으로 한 유출 정보인 만큼 실제 정식 버전에 포함될지는 확정되지 않았다. 폰아레나는 이 기능이 최종적으로 유지될 경우 갤럭시S27 시리즈 출시와 함께 제공될 가능성이 있다고 전망했다.삼성전자는 One UI 9.5에",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "삼성 원UI 9.5에 PC와 갤럭시 스마트폰 간 앱 미러링 기능이 추가될 예정으로, 애플의 유사 기능처럼 스마트폰 앱을 노트북에서 무선으로 제어할 수 있게 될 것으로 보인다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/19/415bd5e5c7fb271cf6a8fa0fa0e66b31.jpg",
+    "score": 4.354,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "문체부, 대한장애인체육회·교원대와 '꿈나무선수 발굴단' 출범",
+    "url": "https://zdnet.co.kr/view/?no=20260819111316",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-19T02:20:01+00:00",
+    "raw_excerpt": "[지디넷코리아]장애인체육의 미래를 이끌 차세대 유망주를 조기에 발굴하고 체계적으로 육성하기 위한 전담 발굴단이 본격 가동된다.문화체육관광부(이하 문체부)는 대한장애인체육회, 한국교원대학교와 '꿈나무선수 발굴단' 출범식을 개최한다고 19일 밝혔다. 행사는 이날 오후 2시 이천선수촌에서 열린다.이번 발굴단은 기존의 수동적인 발굴 방식에서 벗어나 체육 및 교육 현장을 직접 찾아가 잠재력 있는 장애학생을 조기에 발굴하고 전문 선수로 육성하기 위해 마련됐다.발굴단은 대한장애인체육회 위촉 위원 19명과 한국교원대 위원 31명 등 총 50명 규모로 구성됐다. 대한장애인체육회는 시·도 및 시·군·구 장애인체육회 네트워크를 바탕으로 발굴단을 총괄 운영하며, 추천받은 학생의 정보를 검토해 현장 실사 및 종목 연계, 선수육성위원회 심사를 거쳐 최종 지원 대상을 선정할 예정이다.오는 2028년 '체육중고등특수학교' 개교를 앞둔 한국교원대는 특수교육 현장 협력망을 활용해 체육 수업 등에서 잠재력을 지닌 장애학생을 발굴하고 진로 정보를 제공하는 역할을 맡는다. 양 기관은 선수 발굴 데이터베이스(DB)를 공동 활용하고 동·하계 꿈나무선수 캠프 등 관련 사업을 연계해 지속적인 협력을 이어갈 계획이다.문체부는 체육계와 교육계의 전문성을 결합해 '꿈나무선수-신인선수-후보선수-국가대표'로 이어지는 장애인체육 선수 육성의 선순환 체계를 강화한다는 방침이다.강대금 문체부",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "문체부가 대한장애인체육회, 교원대와 함께 장애학생 유망주를 조기에 발굴·육성하는 '꿈나무선수 발굴단'을 출범했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/05/13/2ee59baa090b1592205a1f8a0c0cae71.jpg",
+    "score": 4.349,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[GPU 200% 활용법] GPU 26만장 확보한 정부, 다음은 '운영 효율'…GRIM-GPU 기술 주목",
+    "url": "https://zdnet.co.kr/view/?no=20260819110530",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-19T02:07:45+00:00",
+    "raw_excerpt": "[지디넷코리아]정부가 그래픽처리장치(GPU) 26만장을 신규 확보하면서 인공지능(AI) 인프라의 방향성이 'GPU 운영 효율'로 옮겨가고 있다.대규모 예산을 들여 GPU를 확보한 만큼 이제 확보한 자원을 다양한 업무 환경에 맞춰 얼마나 유연하게 실제 활용률을 끌어올릴 수 있느냐가 새로운 경쟁력으로 떠오르는 모습이다.이런 흐름 속에서 과학기술정보통신부와 정보통신기획평가원(IITP)이 추진하는 GPU 공유·재구성 기술 개발 과제 'GRIM-GPU(GPU 재구성 및 간섭 최소화 GPU 공유)' 기술이 주목받고 있다.19일 관련 업계에 따르면 GRIM-GPU 과제 주관기업으로 이노그리드가 선정돼 산학연 컨소시엄을 이끌며 연구개발을 진행 중이다.GRIM-GPU는 여러 작업에서 GPU 하나를 함께 사용할 때 발생하는 성능 간섭을 최소화하면서 GPU 자원을 보다 유연하게 분할·재구성해 배분할 수 있도록 하는 GPU 공유 기술이다.이 기술이 주목받는 이유는 국가 AI 인프라 정책 방향성과 맞닿아 있기 때문이다. 그동안 대규모 AI 구동을 위한 GPU 확보에 집중해왔다.정부는 아시아태평양경제협력체(APEC) 계기로 GPU 26만장을 신규 확보하며 그동안 국내 AI 연구·산업 확대를 가로막던 컴퓨팅 인프라 병목을 상당 부분 해소했다는 평가를 받는다. 여기에 정부와 클라우드 서비스 기업(CSP) 3사가 참여하는 실무협의체를 통해 1조4천억원 규모 GPU",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "정부가 GPU 26만장을 확보한 이후 운영 효율성이 새로운 과제로 대두되며, 다중 작업 간 성능 간섭을 최소화하는 GRIM-GPU 기술이 주목받고 있다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/06/19/43f6facbe011589448fd04af374f954a.png",
+    "score": 4.337,
+    "engagement": 0,
+    "matched_keywords": [
+      "gpu"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "KRISS, 양자 비팅 원인 세계 첫 규명…\"신호해석 진일보\"",
+    "url": "https://zdnet.co.kr/view/?no=20260819104327",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-19T01:43:27+00:00",
+    "raw_excerpt": "[지디넷코리아]서로 다른 두 전자 진동이 겹쳐서 신호가 주기적으로 강해졌다 약해지는 비팅(Beating, 맥놀이) 현상을 국내 연구진이 과학적으로 규명했다. 양자 소자 설계가 더 정교해질 전망이다.한국표준과학연구원(KRISS)은 위상절연체 나노선에서 수년간 양자신호 해석의 걸림돌이었던 ‘비팅’ 발생 원인을 세계 최초로 규명했다고 19일 밝혔다.연구는 배명호 KRISS 양자소자그룹 책임연구원과 광주과학기술원(GIST) 최상준 교수 연구팀이 주도하고, 충남대학교와 국립공주대학교 연구팀이 참여했다.배명호 책임연구원은 전화통화에서 \"표면의 위상 전자 상태와 그 아래 일반 전자 상태가 만든, 서로 다른 양자적 진동이 겹치면서 맥놀이가 발생한 것으로 확인됐다\"며 \"위상 양자소자의 신호 해석과 원하는 전자 상태 구현에 필요한 기준을 제시한 것\"이라고 평가했다.위상절연체는 물질 내부에서는 전기가 잘 흐르지 않지만 표면에는 전자가 이동할 수 있는, 특수한 상태가 존재하는 양자물질을 말한다. 이번 연구에서는 안티몬(Sb)을 첨가한 비스무트 셀레나이드(Bi₂Se₃) 나노선을 사용했다.배 책임은 \"이를 가느다란 나노선으로 만들면 표면 전자가 둘레를 따라 이동하고, 자기장을 가했을 때 서로 다른 경로를 지난 전자의 파동이 간섭해 전도도가 규칙적으로 변하는 ‘아하로노프-봄(AB) 진동’이 나타난다\"며 \"그런데 실제 위상절연체에서는 도핑 등의 영향으로 표면 바",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "KRISS 연구진이 위상절연체 나노선에서 양자신호의 비팅 현상 원인을 세계 최초로 규명해 양자소자 설계 정확도를 높일 수 있는 길을 열었다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/19/c063e43706fbedeffc7a486b092710cb.jpg",
+    "score": 4.314,
+    "engagement": 0,
+    "matched_keywords": [
+      "양자"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "ChatGPT Ads expands across Europe",
+    "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-08-18T22:00:00+00:00",
+    "raw_excerpt": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "OpenAI의 ChatGPT 광고 기능이 유럽 31개 국가로 확대되어 광고주들이 사용자 검색 및 의사결정 과정에서 타겟팅할 수 있게 됐다.",
+    "thumbnail": "",
+    "score": 3.953,
+    "engagement": 0,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "The Mojo language (by Modular, now Qualcomm) is now open-source",
+    "url": "https://www.modular.com/blog/modcon-announcements",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-19T07:47:19+00:00",
+    "raw_excerpt": "Article URL: https://www.modular.com/blog/modcon-announcements Comments URL: https://news.ycombinator.com/item?id=49358327 Points: 23 # Comments: 2",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Modular의 Mojo 프로그래밍 언어가 오픈소스로 공개되었습니다.",
+    "thumbnail": "https://cdn.prod.website-files.com/68c9c3107effc2ea46e1a82c/6a845980ea521c5fbe46a88c_Highlights.png",
+    "score": 2.759,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "Where Human Sleep Went Wrong",
+    "url": "https://nautil.us/where-human-sleep-went-wrong-1283797",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-19T07:40:32+00:00",
+    "raw_excerpt": "Article URL: https://nautil.us/where-human-sleep-went-wrong-1283797 Comments URL: https://news.ycombinator.com/item?id=49358259 Points: 36 # Comments: 17",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "인류의 수면 방식이 산업화 이후 어떻게 변했으며 왜 문제가 되었는지를 분석한 기사입니다.",
+    "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/French_HERO_5715e7.png",
+    "score": 2.755,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "λλ: A Programming Language for Silicon Photonics",
+    "url": "https://dl.acm.org/doi/10.1145/3789240.3829151",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-19T06:09:16+00:00",
+    "raw_excerpt": "Article URL: https://dl.acm.org/doi/10.1145/3789240.3829151 Comments URL: https://news.ycombinator.com/item?id=49357501 Points: 15 # Comments: 3",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "실리콘 포토닉스 칩 설계를 위한 새로운 프로그래밍 언어 λλ가 개발되어 광자 회로 프로그래밍의 접근성을 높이고 있습니다.",
+    "thumbnail": "",
+    "score": 2.704,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "Palomar: A registry of Lean verified mathematics",
+    "url": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-19T02:41:50+00:00",
+    "raw_excerpt": "Article URL: https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/ Comments URL: https://news.ycombinator.com/item?id=49355968 Points: 96 # Comments: 17",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Lean 증명 보조기로 검증된 수학을 등록하는 Palomar 레지스트리가 출시되어 형식화된 수학 증명의 공유와 검증이 체계화되고 있다.",
+    "thumbnail": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&ts=1787129951",
+    "score": 2.589,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "The Vietnam Binh Chau (Chau Tan) Late Tang Wreck",
+    "url": "https://www.koh-antique.com/client/tangwreck/tangwreck.html",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-19T01:36:40+00:00",
+    "raw_excerpt": "Video and explanation on the ship discovery: Why This Wood Costs US$360/kg : https://www.youtube.com/watch?v=u5b5bKlvdhQ Comments URL: https://news.ycombinator.com/item?id=49355451 Points: 37 # Comments: 2",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "베트남 빈자우(짜우탄) 후기 당나라 침몰선에서 발견된 고가의 목재가 kg당 360달러의 높은 가치를 지니고 있다.",
+    "thumbnail": "",
+    "score": 2.553,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
+    "url": "https://modelmap.cc",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-18T23:57:36+00:00",
+    "raw_excerpt": "Article URL: https://modelmap.cc Comments URL: https://news.ycombinator.com/item?id=49354664 Points: 76 # Comments: 7",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "HuggingFace 모델의 구조를 대화형으로 시각화하고 애니메이션으로 표현하는 도구가 공개되었다.",
+    "thumbnail": "",
+    "score": 2.498,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "Apple announces changes for apps in the European Union",
+    "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-18T16:21:34+00:00",
+    "raw_excerpt": "Article URL: https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/ Comments URL: https://news.ycombinator.com/item?id=49348055 Points: 183 # Comments: 255",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Apple이 EU 규제 대응으로 유럽 내 앱 정책을 변경합니다.",
+    "thumbnail": "https://www.apple.com/newsroom/images/2026/08/apple-announces-changes-for-apps-in-the-european-union/tile/Apple-App-Store-compliance-hero-lp.jpg.og.jpg?202608181601",
+    "score": 2.244,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  }
+]
