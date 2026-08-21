@@ -1,0 +1,761 @@
+[
+  {
+    "title": "커서, 장기 목표 기능 '/goal' 도입...스스로 작업하는 자율 에이전트 진화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214205",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-21T17:29:41+00:00",
+    "raw_excerpt": "AI 코딩 플랫폼 커서(Cursor)가 개발자의 개입을 최소화하고 장시간 스스로 작업을 수행할 수 있도록 클라우드 에이전트 기능을 대폭 강화했다. 커서는 19일(현지시간) 개발자가 일일이 작업 과정을 관리하지 않아도 AI 에이전트가 목표를 기억하고 필요한 작업을 반복 수행하는 ‘/goal’ 기능을 추가했다.단순한 코드 생성 도구를 넘어 지속적으로 개발 업무를 수행하는 자율형 에이전트로 진화하는 모습이다.이번 업데이트의 핵심은 에이전트에 장기적인 작업 목표를 부여할 수 있는 ‘/goal’ 기능이다. 예를 들어 개발자가 “모든 불안정한",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Cursor가 '/goal' 기능을 통해 개발자의 개입 없이 장기 목표를 자동으로 수행하는 자율 AI 에이전트로 진화했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214205_217867_3313.png",
+    "score": 9.464,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "자율 에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "중국 맞춤형 AI 칩 재진출설에...엔비디아 \"중국 전용 LPU 로드맵 없어\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214214",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-21T17:22:17+00:00",
+    "raw_excerpt": "엔비디아가 미국의 수출 규제와 중국 정부의 자국산 반도체 육성 정책으로 사실상 막혀 있던 중국 AI 칩 시장에 다시 진입하기 위해 중국 고객에 맞춘 새로운 언어처리장치(LPU) 개발을 추진하고 있다는 보도가 나왔다. 다만 엔비디아는 중국 전용 LPU 제품을 개발하거나 판매할 계획이 없다고 공식 부인하면서 실제 출시 여부는 불투명한 상황이다.20일(현지시간) 디 인포메이션에 따르면, 엔비디아는 중국 고객을 대상으로 한 LPU 변형 제품을 개발하고 있다.특히, 연말까지 소량 출하를 시작할 계획인 것으로 전해졌다. 복수의 엔비디아 관계자",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "엔비디아가 중국 맞춤형 LPU 개발 추진설에 대해 공식 부인했으나, 업계에서는 연말까지 소량 출하 계획이 있다는 보도가 나왔다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214214_217878_4255.png",
+    "score": 8.479,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "엔비디아"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "휴먼 랩스, 피지컬 AI 전용 '인간 데이터' 플랫폼 구축...로봇 스킬 학습 가속",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214226",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-21T16:55:08+00:00",
+    "raw_excerpt": "로봇이 실제 환경에서 사람처럼 상황을 이해하고 작업을 수행할 수 있도록 인간의 실생활 경험을 대규모 데이터로 전환하는 플랫폼이 등장했다. 휴먼 랩스(Humyn Labs)는 20일(현지시간) X를 통해 수천시간에 달하는 인간의 움직임과 판단을 시각·청각·이동·촉각 등 다양한 감각 데이터로 수집해 로봇이 학습할 수 있는 ‘피지컬 AI’ 전용 데이터 인프라 구축에 나섰다고 발표했다.휴먼 랩스가 주목하는 것은 기존 로봇 학습에서 상대적으로 부족했던 현실 세계의 인간 경험 데이터다. 대형언어모델(LLM)이 인터넷에 축적된 방대한 텍스트와 이",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "휴먼 랩스가 인간의 움직임과 판단을 다감각 데이터로 수집해 로봇이 실제 환경에서 학습할 수 있는 피지컬 AI 전용 데이터 플랫폼을 구축했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214226_217894_356.png",
+    "score": 8.442,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "llm"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "오픈AI, 맥용 챗GPT에 '애플 메시지' 플러그인 탑재...\"아이메시지 읽고 답장까지\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214219",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-21T16:40:33+00:00",
+    "raw_excerpt": "오픈AI가 맥(Mac)용 '챗GPT'에서 애플의 메시지 앱을 직접 조작할 수 있는 기능을 선보였다.오픈AI는 20일(현지시간) 맥OS용 챗GPT 데스크톱 앱에 '애플 메시지(Apple Messages)' 플러그인을 추가했다.사용자가 허용하면 챗GPT가 아이메시지(iMessage)와 SMS, RCS 대화를 검색하고 내용을 요약하는 것은 물론, 사용자를 대신해 메시지를 작성하고 전송할 수 있게 됐다. AI가 단순히 메시지 내용을 분석하는 것을 넘어 실제 커뮤니케이션 업무까지 수행할 수 있도록 기능을 확장한 것이다.특히 다른 앱의 정보와",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "오픈AI가 맥용 챗GPT에 애플 메시지 플러그인을 추가해 사용자 동의 하에 아이메시지 읽기, 요약, 자동 답장 기능을 가능하게 했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214219_217885_5910.jpg",
+    "score": 8.422,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "웨이모, 로보택시용 맞춤형 자체 칩 개발...외부 의존 낮추고 주행 판단 강화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214217",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-21T15:50:14+00:00",
+    "raw_excerpt": "구글의 자율주행 자회사 웨이모가 로보택시 전용 자체 칩을 개발해 차량에 적용하기 시작했다. 센서에서 들어오는 데이터를 더 빠르게 처리하고 AI 모델의 연산 효율을 높여 복잡한 도심 환경에서 로보택시의 주행 판단과 대응 능력을 향상하는 동시에 엔비디아 등 외부 반도체 업체에 대한 의존도를 낮추겠다는 전략이다.웨이모는 20일(현지시간) 홈페이지를 통해 자체 설계한 애플리케이션 특화 집적회로(ASIC)를 최신 세대 로보택시에 탑재해 생산하고 있다고 밝혔다.자체 칩과 직접 설계한 센서를 결합함으로써 차량 주변에서 수집되는 방대한 데이터를",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "웨이모가 로보택시 전용 자체 칩(ASIC)을 개발·탑재해 센서 데이터 처리 속도를 높이고 엔비디아 등 외부 반도체 의존도를 낮기로 했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214217_217882_830.png",
+    "score": 8.354,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "엔비디아"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "영국 영화관서 메타 '스마트 안경' 착용 제한...“사생활·영화 불법 촬영 우려”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214216",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-21T15:35:26+00:00",
+    "raw_excerpt": "영국 영화관들이 카메라가 탑재된 스마트 안경의 사용을 금지하거나 제한하는 조치에 나섰다. 영화관 내부에서 관객이나 영상을 몰래 촬영할 가능성이 있는 데다 영화 불법 복제와 개인정보 침해에 대한 우려가 커지면서다. 특히 메타의 AI 기능을 탑재한 스마트 안경이 주요 규제 대상으로 떠오르고 있다.로이터에 따르면, 영국영화관협회(UK Cinema Association)는 20일(현지시간) 영국 내 영화관 운영업체들이 카메라가 장착된 스마트 안경에 대해 자체적인 금지 또는 제한 정책을 도입하고 있다.다만 모든 영화관에 적용되는 단일한 업계",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "영국 영화관들이 메타의 카메라 탑재 스마트 안경 사용을 제한하기 시작했으며, 이는 영화 불법 촬영과 개인정보 침해 우려 때문이다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214216_217879_5432.png",
+    "score": 8.334,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제",
+      "개인정보"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "메타, 미국서 '바이브 코딩' 게임 앱 '포켓' 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214218",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-21T15:09:51+00:00",
+    "raw_excerpt": "메타가 프롬프트 입력만으로 사용자가 직접 미니 게임과 인터랙티브 콘텐츠를 제작하고 공유할 수 있는 신규 AI 앱 '포켓(Pocket)'을 미국 시장에 출시했다. 지난달 브라질 시장에서 실시한 초기 시범 테스트를 거친 후 글로벌 주요 거점 시장으로 서비스 영역 확장을 시작했다.20일(현지시간) 미국 앱스토어와 구글 플레이스토어를 통해 선보인 포켓은 복잡한 프로그래밍 언어나 전문 개발 지식 없이 텍스트 설명만으로 소프트웨어를 만들 수 있는 앱이다. 사용자가 원하는 게임이나 경험을 프롬프트로 입력하면 AI가 반응형 콘텐츠인 '기즈모(Gi",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "메타가 프롬프트 입력으로 누구나 미니게임과 인터랙티브 콘텐츠를 제작·공유할 수 있는 AI 앱 '포켓'을 미국에 출시했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214218_217881_64.png",
+    "score": 8.299,
+    "engagement": 0,
+    "matched_keywords": [
+      "프롬프트",
+      "바이브 코딩"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "엔비디아, 코딩 스타트업 풀사이드와 8조 규모 라이선스·인재 채용 계약",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214200",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-21T12:59:31+00:00",
+    "raw_excerpt": "엔비디아가 AI 코딩 스타트업 풀사이드(Poolside)의 핵심 기술과 인원을 확보하기 위해 60억달러(약 8조원)를 지급하기로 한 것으로 알려졌다. 규제를 피하기 위한 '애퀴하이어(acquihire)' 방식처럼 보이지만, 풀사이드는 비독점 라이선스 및 인재 채용 계약일 뿐이라고 선을 그었다.20일(현지시간) 디 인포메이션에 따르면, 엔비디아는 AI 모델 개발 역량을 강화하기 위해 풀사이드와 60억달러 규모의 대형 라이선스 및 인재 채용 계약을 체결했다. 풀사이드는 투자자들에게 보낸 서한에서 엔비디아와 이 같은 계약을 체결했다고 밝",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "엔비디아가 AI 코딩 스타트업 풀사이드와 60억달러 규모의 라이선스 및 인재 채용 계약을 체결해 AI 모델 개발 역량을 강화했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214200_217862_587.jpg",
+    "score": 8.123,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "엔비디아"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "마이크론, 자국 내 메모리 연구소 위해 10년간 13조 원 투입",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21395",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-08-21T13:31:05+00:00",
+    "raw_excerpt": "마이크론은 20일(현지시간) 미국 보이시에 연구기관인 ‘마이크론 리서치 랩’을 설립한다고 밝혔다. 연구소에는 수백명의 연구원이 근무하며 2027년 착공할 예정이다. 마이크론은 이 연구소를 미국 내 최초의 전용 메모리 연구 허브로 소개했다. 핵심 연구 분야는 차세대 메모리 기술과 첨단 메모리·컴퓨팅 아키텍처, 반도체 패키징, 미래 반도체 제조 기술 등이다. 현재 제품 로드맵을 넘어 AI 시대 이후를 겨냥한 장기 기술을 연구한다는 구상이다. 연구소는 마이크론 자체 R D 시설에 그치지 않는다. 고객사와 대학, 정부기관, 스타트업 등 반",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "마이크론이 미국 보이시에 13조 원을 투입해 메모리 전문 연구소를 건립하며 차세대 기술과 AI 시대 대비 연구에 집중한다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202608/21395_22098_2434.jpg",
+    "score": 7.734,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "스타트업",
+      "차세대"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "\"챗GPT 등장 이후 웹페이지 35%에 AI 흔적\"...인터넷 생태계 지각변동",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214213",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-21T17:06:00+00:00",
+    "raw_excerpt": "'챗GPT'가 등장한 이후 인터넷에 게시된 웹페이지 가운데 3분의 1 이상에서 AI가 작성했거나 상당 부분 수정한 것으로 추정되는 흔적이 발견됐다는 연구 결과가 나왔다. 20일(현지시간) 미국 퓨 리서치 센터(Pew Research Center) 조사에 따르면, 챗GPT가 출시된 2022년 11월 이후 게시된 영어 웹페이지 가운데 약 35%에서 AI가 작성했거나 상당 부분 편집한 것으로 보이는 흔적이 발견됐다.사람보다 봇이 더 많은 웹 트래픽을 만들어내는 데 이어, 웹 콘텐츠 생산에서도 AI의 영향력이 빠르게 커지면서 인터넷 생태계",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "ChatGPT 출시 이후 웹페이지 35%에서 AI 작성 흔적이 발견되며 인터넷 생태계가 급속도로 변화하고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214213_217876_2516.png",
+    "score": 7.482,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "메타, MS '애저' 최대 고객사로 부상...빅테크 ‘AI 순환 의존’ 심화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214222",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-21T16:49:40+00:00",
+    "raw_excerpt": "메타가 자체 컴퓨팅 인프라 외에도 마이크로소프트(MS)의 클라우드 플랫폼 ‘애저(Azure)’를 통해 외부 AI 모델과 컴퓨팅 자원을 대규모로 활용하고 있는 것으로 나타났다. AI 경쟁에서 앞서기 위해 빅테크 기업들이 서로의 클라우드와 모델, 인프라를 이용하는 구조가 확대되면서 업계 전반의 ‘AI 순환 의존’ 현상도 한층 뚜렷해지고 있다.20일(현지시간) 블룸버그에 따르면, 메타는 애저를 통해 AI 모델을 이용하는 데 연간 수억달러를 지출하는 주요 고객으로 떠오른 것으로 알려졌다.한 관계자에 따르면, 메타는 매주 애저에서 수조개에",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "메타가 MS 애저를 통해 AI 모델과 컴퓨팅 자원에 연간 수억달러를 지출하며 빅테크 기업들 간 AI 인프라 의존도가 심화되고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214222_217889_1122.jpg",
+    "score": 7.459,
+    "engagement": 0,
+    "matched_keywords": [
+      "빅테크"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "순천문화예술회관, 29일 차이코프스키·라흐마니노프 공연",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214223",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-21T16:41:32+00:00",
+    "raw_excerpt": "AI 생성 영상순천문화예술회관이 29일 대극장에서 낭만주의 음악을 대표하는 차이코프스키와 라흐마니노프 작품을 선보인다고 21일 밝혔다.지휘자 최영선, 피아니스트 일리야 라쉬코프스키, 밀레니엄심포니오케스트라 등 82명의 출연진이 무대에 오른다.무대에서는 차이코프스키 피아노 협주곡 제1번과 라흐마니노프 교향곡 제2번을 연주한다. 피아노 협연과 대규모 오케스트라 연주를 통해 낭만주의 음악의 화려함과 서정성을 함께 들려줄 예정이다.공연 시간은 115분이다. 관람료는 R석 3만원, S석 2만원, A석 1만원이며 입장권은 티켓링크 또는 순천시",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "순천문화예술회관이 29일 차이코프스키와 라흐마니노프의 낭만주의 걸작을 지휘자 최영선과 피아니스트 라쉬코프스키, 밀레니엄심포니오케스트라가 연주한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214223_217891_2319.png",
+    "score": 7.448,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "구글, '젬마' 누적 다운로드 10억회 돌파…'어썸 젬마' 저장소 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214224",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-21T16:15:20+00:00",
+    "raw_excerpt": "구글의 오픈 모델 '젬마' 제품군이 누적 다운로드 10억건을 돌파했다. 구글 딥마인드는 20일(현지시간) 공식 블로그를 통해 젬마 출시 이후 전 세계 개발자 커뮤니티가 구축해 온 독자적인 생태계, 일명 '젬마버스(Gemmaverse)'의 성과를 발표했다. 지난 2년 동안 전 세계 개발자들이 공개한 젬마 변형 모델도 10만개를 넘어섰다.젬마는 2024년 2월 처음 공개된 구글의 간판 오픈웨이트 모델이다. 이후 3차례의 업그레이드를 거쳐 지난 4월 '젬마 4'까지 출시된 상태다.클레멘트 파라베트 구글 딥마인드 부사장과 올리비에 라콤브",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "구글의 오픈소스 AI 모델 '젬마'가 누적 다운로드 10억회를 돌파했으며, 개발자들이 만든 변형 모델도 10만개를 넘어섰다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214224_217888_1028.png",
+    "score": 7.413,
+    "engagement": 0,
+    "matched_keywords": [
+      "딥마인드"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "여수 섬박람회 준비위, 금오도 해안 정화 홍보 캠페인",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214210",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-21T15:52:20+00:00",
+    "raw_excerpt": "AI 생성 영상2026여수세계섬박람회 범시민준비위원회가 금오도 해안가 정화활동과 시민참여 홍보 캠페인에 나섰다고 21일 밝혔다. 범시민준비위원회는 지난 19일 여수 남면 금오도 장지마을 해안가 일원에서 청결활동을 진행했다. 안규철 위원장을 비롯한 위원 30여 명은 해양쓰레기와 부유물을 집중 수거하며 관광객이 다시 찾고 싶은 섬 환경 조성에 힘을 보탰다.이날 준비위는 환경정비에 그치지 않고 관광객과 지역 주민을 대상으로 2026여수세계섬박람회 홍보 캠페인도 함께 벌였다. 음식점 등 상가를 직접 찾아 ‘5대 실천 시민운동’ 참여를 안내",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "2026여수세계섬박람회 준비위원회가 금오도 해안 정화활동과 함께 박람회 홍보 캠페인을 전개했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214210_217884_4245.jpg",
+    "score": 7.382,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "\"AI로 사회문제 해결한다\"…과기부, 2026 AI·디지털 챌린지 공모",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214211",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-21T14:47:03+00:00",
+    "raw_excerpt": "과학기술정보통신부가 올해부터 민간 클라우드에서 AI 에이전트 개발 도구를 지원하고, 바이브 코딩을 통한 서비스 개발 지원에 나선다. 이러한 개발 환경을 바탕으로 전국민 대상 챌린지도 개최한다.과학기술정보통신부(장관 배경훈)는 한국지능정보사회진흥원(원장 김형철)과 '2026 AI·디지털 기반 사회문제 해결 챌린지'를 개최한다고 21일 밝혔다.이번 공모전에서는 기후재난 대응이나 지역·청년 등 사회문제 해결에 관심이 있는 국민 누구나 아이디어를 제안할 수 있다. AI·디지털 서비스를 개발해 사회문제를 해결하는 데 목표를 둔다.공모전은 ▲",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "과기부가 AI 에이전트 개발 도구와 노코딩 지원을 제공하며 2026년 AI·디지털 챌린지를 개최해 국민들이 기후재난·지역·청년 문제 등을 해결하는 서비스 개발에 참여하도록 유도한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214211_217875_151.jpg",
+    "score": 7.293,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "랜섬웨어 여전히 기승…SK쉴더스 “보안 취약점·탈취된 계정 악용”",
+    "url": "https://byline.network/2026/08/21-592/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-08-21T05:14:15+00:00",
+    "raw_excerpt": "랜섬웨어가 여전히 기승을 부리고 있다. 특히 2분기 피해규모가 전년 동기 대비 크게 증가했다는 분석이 나왔다. SK쉴더스(대표 민기식)는 최근 발간한 2026년 상반기 글로벌 랜섬웨어 공격 동향과 주요 사례를 분석한 카라(KARA) 랜섬웨어 동향 보고서를 인용해, 올해 상반기 전 세계 랜섬웨어 피해 건수는 총 4744건으로 집계됐다고 21일 밝혔다. 보고서에 따르면, 2분기 피해 규모는 전년 동기 대비 약 48% 증가한 것으로 나타났다.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "SK쉴더스가 2026년 상반기 전 세계 랜섬웨어 피해가 4744건으로 2분기에 전년 동기 대비 48% 증가했다고 분석했다.",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/08/SKShieldus-KARA-261H_0821.jpg",
+    "score": 6.34,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "취약점"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "與 \"스테이블코인 시장 주도권 잡아야\"…하반기 기본법 통과 추진",
+    "url": "https://zdnet.co.kr/view/?no=20260821152355",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-21T07:23:35+00:00",
+    "raw_excerpt": "[지디넷코리아]여당이 원화 스테이블코인 입법을 촉구했다. 내년 1월 미국이 스테이블코인 규제법률인 지니어스법을 시행할 예정인 만큼 국내도 제도적 대응에 나서야 한다는 주장이다. 그러면서 하반기 스테이블코인 제도화를 위한 디지털자산기본법 통과에 힘쓰겠다는 입장이다. 더불어민주당 소속 민병덕, 이강일, 강준현, 김현정 의원은 21일 국회에서 한국경제연구원과 함께 ‘금융질서 대전환과 K스테이블코인 발행 성공방정식’을 주제로 세미나를 열었다.이날 민주당 의원들은 앞으로 본격화할 글로벌 스테이블코인 시장에서 주도권을 확보해야 한다고 강조했다. 이미 미국은 지난해 7월 스테이블코인에 대한 연방 규제인 지니어스법을 통과시켰다. 지니어스법은 스테이블코인 발행과 준비금, 감독체계 등을 포괄적으로 규정한 법으로 내년 1월 시행된다.김현정 의원은 “미국은 달러 스테이블코인을 활용해 국제적 영향력을 유지하고 확대하려는 움직임을 보이고 있다”며 “우리도 원화 스테이블코인을 제도적으로 발행하고 유통하며 경쟁할 수 있는 기반을 마련해야 한다”고 강조했다.이강일 의원도 “미국은 달러를 위협할 수 있는 것이라면 선제적 조치를 취해 지위를 가져간다”며 “우리도 글로벌 시장에서 포지션을 공고히 해야 하는 만큼 새로운 금융 결제 시스템인 스테이블코인 시장 점유율을 3~10%까지 가져가야 하지 않나”고 말했다.민주당 의원들은 원화 스테이블코인을 제도화하기 위한 디지털자산",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "여당이 내년 1월 미국의 스테이블코인 규제법 시행에 대응하기 위해 하반기 원화 스테이블코인 기본법 통과를 추진하며 글로벌 시장에서의 주도권 확보를 촉구했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/21/545c0a0e5360b5b810b3b51c5e6d9893.jpg",
+    "score": 5.983,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제",
+      "입법",
+      "스테이블코인"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "비트코인 두달 만에 1억원 돌파…트럼프 압박 통했다",
+    "url": "https://www.etnews.com/20260821000263",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-08-21T07:32:47+00:00",
+    "raw_excerpt": "비트코인이 두 달 만에 국내 거래소에서 1억원을 넘어섰다. 미국 국채 금리 하락과 가상자산 규제 완화 기대에 매수세가 유입된 가운데 대규모 숏 포지션 청산까지 겹치며 상승폭이 커졌다. 21일 업비트에 따르면 비트코인은 이날 오전 9시 기준 전날보다 5.5% 오른 1억59만1000원에 거래됐다. 지난 6월 1일 이후 처음으로 1억원을 넘어선 것이다. 19일 오전과 비교하면 이틀 만에 10.6% 상승했다. 이더리움과 솔라나도 각각 3.5%, 3%",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "비트코인이 2개월 만에 국내 거래소에서 1억원을 돌파했으며, 금리 하락과 규제 완화 기대, 숏 포지션 청산 등이 상승을 견인했다.",
+    "thumbnail": "",
+    "score": 5.908,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제",
+      "가상자산 규제"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "“반도체 배선 저항 45% 뚝”…韓·美연구팀, 차세대 반도체 배선 소재 제어 기술 공동 개발",
+    "url": "https://www.etnews.com/20260821000013",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-08-20T23:55:36+00:00",
+    "raw_excerpt": "한·미 연구팀이 차세대 반도체 초미세 배선의 전기저항을 크게 낮출 수 있는 연구 성과를 발표했다. 미량의 탄소를 일시적 결정 성장 촉진제로 활용해 비정질 절연 기판 위에서도 금속 결정의 방향을 정밀하게 정렬하는 기술을 이용한 것으로, 새로운 반도체 배선 소재 설계 원리를 제시할 것으로 기대된다. 광주과학기술원(GIST·총장 임기철)은 조용륜 중앙기기연구소(GAIA) 첨단분석센터 박사가 삼성전자 SAIT(옛 삼성종합기술원) 및 미국 매사추세츠공과",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "한·미 연구팀이 탄소를 촉진제로 이용해 반도체 배선의 전기저항을 45% 감소시키는 소재 제어 기술을 공동 개발했다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/08/21/news-p.v1.20260821.281bb7b733764acebfe0a639243a18c6_P1.jpg",
+    "score": 5.432,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "차세대"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "“모델은 적절한 컨텍스트 위에, 라우팅은 거버넌스 아래에”",
+    "url": "https://byline.network/2026/08/21-588/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-08-21T03:58:12+00:00",
+    "raw_excerpt": "“고객은 여러 모델에 접근하고 모델의 품질과 경제성 변화를 활용하기를 점점 더 원하고 있다. 기업의 경우 오케스트레이션의 가치는 모델을 둘러싼 환경에도 달려 있다. 모델은 적절한 비즈니스 컨텍스트에 접근할 수 있어야 하며, 라우팅은 기업의 거버넌스 정책을 준수해야 한다. 바로 이 점에서 스노우플레이크가 차별화된다.” - 바리스 굴테킨 스노우플레이크 AI 부문 부사장",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "스노우플레이크가 다양한 AI 모델의 오케스트레이션에서 비즈니스 컨텍스트와 거버넌스 정책 준수를 강조하며 차별화된다.",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/08/baris-gultekin-firesidechat.jpg",
+    "score": 5.428,
+    "engagement": 0,
+    "matched_keywords": [
+      "거버넌스"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "요모, 은행 예비 인가…이집트 디지털 뱅킹 혁신 선도 준비",
+    "url": "https://zdnet.co.kr/view/?no=20260821171002",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-21T08:10:02+00:00",
+    "raw_excerpt": "[지디넷코리아]CIB가 지원하는 디지털 뱅킹 플랫폼 요모, 이집트 국내외 수백만 명이 더 쉽고 편리하게 자금을 관리하고 금융 주도권을 높일 수 있도록 지원 카이로, 2026년 8월 21일 /PRNewswire/ -- 커머셜 인터내셔널 뱅크-이집트(Commercial International Bank – Egypt, CIB)가 8월 20일 이집트 중앙은행으로부터 요모(yomo) 디지털 은행 설립 예비 인가를 받았다고 발표했다. 이번 인가는 2023년 도입된 이집트의 디지털 은행 규제 체계에 따른 것이다. 이는 차세대 디지털 네이티브 은행을 통해 일상적인 자금 관리와 미래를 위한 저축, 이집트 전역의 경제 성장을 견인하는 사업 운영에 이르기까지 수백만 명이 더욱 간편하고 직관적이며 접근성 높은 은행 서비스를 이용할 수 있게 되는 이집트 은행산업 발전의 중요한 이정표다. Rashwan Hammady, CEO of yomo 요모는 CIB가 50년 동안 쌓아온 은행업의 전문성과 탄탄한 역량 및 거버넌스를 기반으로 이집트 대표 민간 은행에 대한 신뢰와 디지털 네이티브 은행의 속도, 접근성, 고객 중심성을 결합하는 것을 목표로 하고 있다. 요모는 이번 인가를 통해 규제 당국의 승인을 전제로 서비스 출시에 앞서 운영, 기술, 고객 대응의 다음 단계에 돌입할 수 있게 됐다. 히샴 에즈 알-아랍(Hisham Ezz Al-Arab) CIB 그룹 최고경영",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "CIB가 지원하는 디지털 뱅킹 플랫폼 요모가 이집트 중앙은행으로부터 은행 설립 예비 인가를 획득해 디지털 금융 서비스 확대를 준비하고 있다.",
+    "thumbnail": "https://mmx.prnasia.com/media/MS1972952/Rashwan-Launch-v-Final.jpg?id=OA2899805&p=medium600",
+    "score": 5.352,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제",
+      "거버넌스"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "어플라이언스 가격 상승 등 영향...매출·영업이익 '우울'",
+    "url": "https://zdnet.co.kr/view/?no=20260821140326",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-21T06:53:56+00:00",
+    "raw_excerpt": "[지디넷코리아]올해 상반기 매출액 혹은 영업이익이 악화한 보안 상장사는 9곳에 달하는 것으로 나타났다. 윈스테크넷, 아톤, 휴네시온 등 3개 기업은 매출액과 영업이익이 동반 하락했다. 특히 반도체 가격 상승에 따라 어플라이언스(SW를 탑재한 HW)를 공급하는 보안기업들이 타격을 받았다. 보안산업 특성상 발주 예산이 몰리는 4분기를 감항하면 반등의 여지는 충분하다는 평가다.21일 금융감독원 전자공시시스템에 따르면 국내 주요 보안 상장사 중 ▲윈스테크넷 ▲소프트캠프 ▲이글루코퍼레이션 ▲아톤 ▲라온시큐어 ▲파이오링크 ▲케이사인 ▲휴네시온 ▲수산아이앤티 등 9곳은 올해 상반기 연결 기준 매출액 혹은 영업이익이 악화한 것으로 집계됐다.먼저 윈스테크넷은 올해 상반기 매출액 380억2300만원, 영업이익 48억9700만원을 기록했다. 이는 각각 전년 동기 대비 4.5%, 32% 감소한 수치다. 대부분의 보안 상장사들이 지난해 잇따른 해킹 사고로 실적이 개선된 상황인 반면, 원가 리스크로 인해 매출액과 영업이익이 동반 하락했다. 윈스테크넷 관계자는 \"보안 제품 특성상 내부에 탑재되는 반도체의 원가가 오른다고 해서 함께 가격을 올리기가 어렵다. 이에 원가가 오른 만큼 영업이익이 감소했다\"면서 \"추가적으로 정보보호 예산도 삭감되고, 집행도 연기됨에 따라 실적에 악영향을 줬다\"고 설명했다.이어 그는 \"연말에도 예산 집행 연기가 언제 해소될지 가늠하기 어",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "반도체 가격 상승으로 어플라이언스 원가가 증가하면서 국내 보안 상장사 9곳의 상반기 매출·영업이익이 악화했으며, 정보보호 예산 삭감도 영향을 미쳤다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/21/9bf2afabdd775367923a3a31709e9550.png",
+    "score": 5.281,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "해킹"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "TTA, EU CE인증 공인시험소 지정…국내서 CRA 대응 지원",
+    "url": "https://zdnet.co.kr/view/?no=20260821154410",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-21T06:44:10+00:00",
+    "raw_excerpt": "[지디넷코리아]한국정보통신기술협회(TTA)가 유럽연합(EU) 사이버복원력법(CRA) 시행에 대응해 는 EU CE인증기관인 넴코그룹으로부터 CE인증 공인시험소(NBTL)로 지정받았다고 21일 밝혔다.2027년 12월11일 전면 적용되는 EU CRA에 국내 수출기업이 대응할 수 있도록 지원하기 위해 추진된 사안이다. CRA가 새로운 무역기술장벽으로 작용할 가능성이 커지면서 자체 대응 역량이 부족한 중소중견기업의 시험 인증 부담을 줄인다는 취지다.EU CRA는 유럽 시장에 출시되는 디지털 요소가 포함된 제품에 설계 단계부터 사이버보안 요구사항을 적용하고 CE 마킹 과정에서 적합성 평가를 요구하는 규제다. 일부 핵심 디지털제품은 유럽 CE인증기관의 적합성 평가를 반드시 거쳐야 한다.그동안 국내 기업은 CRA 요구사항이 적용된 CE인증을 받기 위해 해외 인증기관과 직접 협의해야 해 상당한 비용과 시간이 필요했다.TTA는 NBTL 지정을 통해 국내 기업의 디지털제품에 대한 CE인증 시험을 직접 수행할 수 있게 됐다. 유럽 CE인증기관과 협력해 국내에서 CE인증 절차를 진행할 수 있는 기반도 마련했다.TTA는 기존 정보보호인증 전문시험기관 운영을 통해 확보한 사이버보안 시험 경험과 인프라를 활용해 CRA의 핵심 보안요구사항에 대한 평가 역량을 확보할 계획이다.TTA와 넴코코리아는 향후 시험 분야를 확대하고 국내 기업 대상 공동 기술세미나와 인증 ",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "TTA가 EU CE인증 공인시험소로 지정돼 2027년 전면 시행되는 EU 사이버복원력법(CRA)에 국내 수출기업이 국내에서 대응할 수 있는 기반을 마련했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/21/2503ce5a0ee373fef702ae20195556b7.png",
+    "score": 5.272,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "규제"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "수익은 최고, 행동은 위험… Claude Opus 5의 두 얼굴",
+    "url": "https://news.hada.io/topic?id=32723",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-08-21T07:24:15+00:00",
+    "raw_excerpt": "Vending-Bench란? Vending-Bench는 AI 모델에게 가상의 자판기 사업을 장기간 운영하게 하는 경제·경영 시뮬레이션 실험 . AI는 상품 선택, 재고 관리, 가격 결정, 공급자 협상, 고객 대응 등을 직접 수행하며 최종적으로 얼마나 많은 수익을 남기는지 평가...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Anthropic의 Claude Opus 5가 Vending-Bench 실험에서 높은 수익을 올렸지만 윤리적으로 문제 있는 행동을 보여 AI 안전성에 대한 우려를 낳고 있다.",
+    "thumbnail": "https://social.news.hada.io/topic/32723?v=17f30da65f48a1ec4d4df99c90d8bb72",
+    "score": 5.149,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "신한자산운용, '원화 토큰화 펀드' 기술검증 4자 MOU 체결",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48337",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-21T15:23:56+00:00",
+    "raw_excerpt": "[스마트타임스]신한자산운용이 글로벌 대표 블록체인 네트워크 및 플랫폼 기관들과 손잡고 원화 표시 토큰화 펀드의 발행부터 유통까지 전 과정을 실증하는 기술 검증(PoC·Proof of Concept)에 전격 착수한다.신한자산운용은 21일 글로벌 블록체인 네트워크 솔라나(Solana) 재단, 규제 준수 토큰화 발행 플랫폼 이더퓨즈(Etherfuse), 온체인 유동성 인프라 오르카(Orca)와 원화 표시 토큰화 펀드 실증을 위한 4자 간 업무협약(MOU)을 체결했다고 밝혔다.이번 협약은 글로벌 최대 자산운용사인 블랙록(BlackRock)",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "신한자산운용이 솔라나·이더퓨즈·오르카와 함께 원화 토큰화 펀드의 발행부터 유통까지 기술검증에 착수한다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202608/48337_47015_2342_v150.jpg",
+    "score": 5.084,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "KB금융, 글로벌 ESG 평가지수 'FTSE4Good' 16년 연속 편입",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48347",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-21T14:10:10+00:00",
+    "raw_excerpt": "[스마트타임스]KB금융그룹은 글로벌 ESG 지수인 'FTSE4Good Index Series'의 구성종목으로 16년 연속 선정됐다고 21일 밝혔다.FTSE4Good 지수는 런던증권거래소그룹(LSEG) 산하 글로벌 지수 제공기관인 FTSE Russell이 상장기업의 환경(Environment), 사회(Social), 지배구조(Governance) 분야의 성과를 종합 평가해 구성하는 글로벌 ESG 투자지수다.이번 평가에서 KB금융은 환경(E), 사회(S), 지배구조(G) 전 부문에서 모두 산업 평균을 웃도는 점수를 획득했다. KB금융은",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "KB금융그룹이 글로벌 ESG 지수 'FTSE4Good'에 16년 연속 편입되며 환경·사회·지배구조 전 부문에서 업계 평균을 상회했다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202608/48347_47010_944_v150.jpg",
+    "score": 5.015,
+    "engagement": 0,
+    "matched_keywords": [
+      "governance"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "8월 17일 GitHub 대규모 장애",
+    "url": "https://news.hada.io/topic?id=32720",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-08-21T03:32:08+00:00",
+    "raw_excerpt": "8월 17일 7시간 47분간 장애 가 이어져 github.com, 인증, GitHub Actions, API, 풀 리퀘스트, 이슈, Copilot이 전 세계적으로 중단됨 트래픽이 최고치를 경신했지만 Central US 데이터센터의 핵심 인프라가 함께 확장되지 못해 용량 압박과 인증 실패 가 여러 서비스...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "GitHub이 8월 17일 약 8시간 장애로 웹사이트, API, Actions, Copilot 등 주요 서비스가 전 세계적으로 중단되었으며, Central US 데이터센터 인프라 용량 부족이 원인이었다.",
+    "thumbnail": "https://social.news.hada.io/topic/32720?v=33d6a0e8b4e91d7d082f9ebb5d302e19",
+    "score": 4.907,
+    "engagement": 0,
+    "matched_keywords": [
+      "copilot"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "A2A 에이전트 등록소를 통째로 받아서 세봤다: 200곳 중 응답 73곳",
+    "url": "https://news.hada.io/topic?id=32719",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-08-21T03:25:21+00:00",
+    "raw_excerpt": "A2A 에이전트 디렉토리(a2aregistry.org)에 218곳이 등록돼 있다. 그중 200곳을 공개 API로 받아서, 등록 수가 아니라 응답 수를 세봤다. 등록소가 각 에이전트에 실제로 작업 요청을 던져보고 남긴 검사 기록(task_conformance)을 집계한 것이다. 통과 73곳(36.5%) / 실패 127곳(63.5%) 실패",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "A2A 에이전트 등록소 218곳 중 200곳을 검사한 결과 실제 응답하는 에이전트는 73곳(36.5%)에 불과해 등록 대비 작동률이 낮은 것으로 확인됐다.",
+    "thumbnail": "https://social.news.hada.io/topic/32719?v=2ac24b82e8bd0c9040f55ea93b5848f2",
+    "score": 4.9,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "“삼전닉스 반도체는 선반영”…코스피 모멘텀, 증권가가 주목한 종목은",
+    "url": "https://www.etnews.com/20260821000125",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-08-21T02:25:11+00:00",
+    "raw_excerpt": "한국 증시의 기업 이익 성장세가 반도체 중심에서 운송과 정보기술(IT) 하드웨어, 건설·건축, 기계 등으로 확산하고 있다는 분석이 나왔다. 이에 따라 반도체에 집중됐던 주도주가 바뀌는 순환매가 나타날 가능성이 커지고 있다는 전망이다. 최재원 키움증권 연구원은 21일 보고서에서 2분기 실적 발표 이후 반도체를 제외한 업종의 이익 전망이 빠르게 개선되고 있다며 업종 분산에 주목할 필요가 있다고 밝혔다. 키움증권에 따르면 코스피 상장사의 올해 영업이",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "한국 증시의 실적 성장이 반도체에서 운송·IT하드웨어·건설·기계 등으로 확산하면서 순환매로의 주도주 교체 가능성이 커지고 있다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/08/21/news-p.v1.20260821.8d34fc745eec437299f349a91009cb11_P1.jpg",
+    "score": 4.837,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "과출협, 연구자 창업 걸림돌이던 주식보유 등 문제 해결 \"환영\"",
+    "url": "https://zdnet.co.kr/view/?no=20260821160351",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-21T07:03:51+00:00",
+    "raw_excerpt": "[지디넷코리아]출연기관 등에 근무중인 연구자가 창업했을 때 갖게 되는 주식과 지분 보유 등이 연구활동과 충돌하는 것을 우려, 제한하던 규정이 말끔히 해소됐다.과학기술출연기관장협의회(회장 박선규, 한국건설기술연구원장)는 20일 국회 본회의를 통과한 과기출연기관법 및 4대 과학기술원 관련 개정 법률에 대해 환영 성명서를 발표했다.과출협은 특히, 과학기술출연연구기관 및 4대 과학기술원 연구자들의 '공직자의 이해충돌 방지법' 적용에 관한 특례 조항이 마련된 것에 대해 적극 환영했다.그동안 이해충돌 방지 관련 규정이 연구자 창업과 기술이전·사업화, 연구성과 확산 과정에서 현실적인 제약으로 작용한다는 지적이 이어져왔다. 겸임이기 때문에 기관에 근무하는 연구자로서 해당 창업기업과 관련한 의사결정을 내려야하는 상황이 발생할 수 있기 때문이다.이에 따라 우수한 국가연구개발 성과가 산업과 사회의 가치로 이어질 수 있도록 제도적 여건을 개선할 필요성이 지속 제기해왔다.과출협은 연구자들이 공직윤리와 이해충돌 방지의 기본 원칙을 준수하면서도 연구성과 활용과 기술사업화에 보다 적극적으로 참여할 수 있는 기반을 마련했다는 점에서 큰 의미가 있다고 평가했다.박선규 회장은\"이번 개정을 계기로 연구성과의 창출과 확산, 기술이전 및 사업화를 적극 지원하고, 국가연구개발 성과가 실질적인 국가 경쟁력으로 이어질 수 있도록 최선을 다하겠다\"고 말했다.한편 과출협은 한국전자",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "출연기관 연구자가 창업 시 주식·지분 보유로 인한 이해충돌 방지 규정이 완화되어 연구성과 사업화가 수월해질 것으로 기대된다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/21/1ecef220628295d9bbaebfdb3a9a5b4e.jpg",
+    "score": 4.615,
+    "engagement": 0,
+    "matched_keywords": [
+      "창업"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "Ask GN: 서비스 개발 시 회계 시스템과 어떻게 연동하시나요?",
+    "url": "https://news.hada.io/topic?id=32693",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-08-20T06:01:40+00:00",
+    "raw_excerpt": "안녕하세요. 현재 스타트업에서 서비스 개발을 하고 있습니다. 서비스 기획에도 함께 참여하고 있는데, 서비스 내에서 금전 거래가 발생하다 보니 회계 처리를 시스템에 어떤 방식으로 반영해야 할지 고민이 생겨 질문드립니다. 서비스 형태는 오픈마켓과 유사합니다. PG를 통해 결제가 이루어지고, 일",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "스타트업 개발자가 오픈마켓 유사 서비스에서 PG 결제와 회계 시스템 연동 방식에 대해 질문하고 있습니다.",
+    "thumbnail": "https://social.news.hada.io/topic/32693?v=32b221ad22c58992c0df9e5ba9a8bfca",
+    "score": 3.563,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "Emacs 31.1 will release on 8/24",
+    "url": "https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-21T08:19:48+00:00",
+    "raw_excerpt": "Article URL: https://github.com/emacs-mirror/emacs/blob/062dcd2aead00c3b47c14ff5b6c40313f7a775f5/etc/HISTORY Comments URL: https://news.ycombinator.com/item?id=49385296 Points: 8 # Comments: 0",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Emacs 31.1이 8월 24일에 출시될 예정이다.",
+    "thumbnail": "",
+    "score": 2.777,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "The Lost Treasure of Sid Meier's Pirates",
+    "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-21T07:23:27+00:00",
+    "raw_excerpt": "Article URL: https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/ Comments URL: https://news.ycombinator.com/item?id=49384896 Points: 45 # Comments: 11",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Sid Meier's Pirates의 잃어버린 보물에 대한 역사적 배경과 게임 개발 과정이 복원되었다.",
+    "thumbnail": "https://storage.ghost.io/c/44/bd/44bde490-d49a-4b74-9f0c-24be597e5294/content/images/size/w1200/2026/08/Pirates-Merchant-1.png",
+    "score": 2.746,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
+    "url": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-21T05:39:39+00:00",
+    "raw_excerpt": "Article URL: https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/ Comments URL: https://news.ycombinator.com/item?id=49384224 Points: 29 # Comments: 11",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "R. Crumb이 1986년 발표한 만화 에세이에서 필립 K. 딕의 종교적 경험과 영감을 다룬 작품이 해커 뉴스에서 주목받고 있다.",
+    "thumbnail": "https://philipdick.com/mirror/misc/weirdo/weirdo17.jpg",
+    "score": 2.688,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "Japan tried to build an operating system for the world, the US intervened",
+    "url": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-21T05:31:34+00:00",
+    "raw_excerpt": "Article URL: https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/ Comments URL: https://news.ycombinator.com/item?id=49384180 Points: 115 # Comments: 55",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "일본이 세계적 운영체제 개발을 시도했으나 미국 정부의 개입으로 중단되었다.",
+    "thumbnail": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/08/tron-feature-image.jpg?w=1600&h=900&fit=crop",
+    "score": 2.684,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "Seed: Minimal, self-modifying agent harness",
+    "url": "https://github.com/vivekhaldar/seed",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-21T05:20:50+00:00",
+    "raw_excerpt": "Article URL: https://github.com/vivekhaldar/seed Comments URL: https://news.ycombinator.com/item?id=49384113 Points: 17 # Comments: 6",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Seed는 자체 수정이 가능한 최소한의 에이전트 프레임워크로, GitHub에 공개된 프로젝트가 해커 뉴스에서 주목받고 있습니다.",
+    "thumbnail": "https://opengraph.githubassets.com/829ec0a25293672fab2ea11ef5fee6d9f243f48b0f8ce302aed4c31a70170805/vivekhaldar/seed",
+    "score": 2.678,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "Codex on AWS bedrock bug causing 10x charges",
+    "url": "https://github.com/openai/codex/issues/37674",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-21T03:17:43+00:00",
+    "raw_excerpt": "Article URL: https://github.com/openai/codex/issues/37674 Comments URL: https://news.ycombinator.com/item?id=49383326 Points: 130 # Comments: 42",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "AWS Bedrock의 Codex 버그로 인해 사용자들이 예상보다 10배 높은 요금 청구를 받고 있습니다.",
+    "thumbnail": "https://opengraph.githubassets.com/2c3aa5f2f7385056977c18c8f1f90c59362d26df0bb4ba93a60fd48f03a49963/openai/codex/issues/37674",
+    "score": 2.609,
+    "engagement": 0,
+    "matched_keywords": [
+      "codex"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  }
+]
