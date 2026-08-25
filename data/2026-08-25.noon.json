@@ -1,0 +1,701 @@
+[
+  {
+    "title": "태양광발전소 상공에 드론 수백대…구름 줄여 발전량 높인다",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214275",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-25T11:10:00+00:00",
+    "raw_excerpt": "미국 스타트업이 태양광발전소 상공의 구름에 드론을 투입해 햇빛 투과량을 늘리는 기술 개발에 나섰다. 화학물질을 뿌리는 기존 구름씨뿌리기와 달리 구름 속 물방울을 물리적으로 변화시켜 반사율을 낮추는 방식으로, 회사는 기존 발전소의 연간 발전량을 10~30% 높일 수 있을 것으로 보고 있다. 미국 샌프란시스코에 본사를 둔 메테오릭(Meteoric)은 21일(현지시간) 미국 스타트업 육성기관 와이콤비네이터(Y Combinator)를 통해 태양광발전소용 기상조절 드론 개발계획을 공개했다.메테오릭은 케임브리지대학교 출신 엔지니어 2명이 올해",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "미국 스타트업 메테오릭이 태양광발전소 상공에 드론을 띄워 구름의 반사율을 낮춰 발전량을 10~30% 증대시키는 기술을 개발 중이다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214275_217975_2459.jpg",
+    "score": 8.462,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업",
+      "와이콤비네이터"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "온세미, AI 데이터센터 전력 과제 해결 방안 제시...중전압 AC를 저전압 DC로 직접 변환",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41587",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-25T11:44:12+00:00",
+    "raw_excerpt": "지능형 전력 및 센싱 기술의 선도 기업인 온세미(onsemi)는 급증하는 인공지능 데이터센터(AIDC)의 전력 수요에 대응하기 위해 고전압 실리콘 카바이드(SiC) 기술과 반도체 변압기(Solid State Transformer, SST)용 차세대 전력 솔루션을 공개했다고 25일 밝혔다.인공지능의 빠른 성장으로 데이터센터 전력 인프라에 대한 수요가 급증하고 있다. 400V AC 버스를 기반으로 하는 기존의 전력 분배 시스템은 저전압 서버 공급장치까지 여러 변환 단계를 거쳐야 하기 때문에 점차 한계에 직면하고 있다.이러한 과제를 해결",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "온세미가 고전압 실리콘 카바이드 기술과 반도체 변압기로 AI 데이터센터의 중전압 AC를 저전압 DC로 직접 변환하는 차세대 전력 솔루션을 공개했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41587_62590_4120_v150.jpg",
+    "score": 7.853,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "두나무앤파트너스, 英 AI 추론 최적화 기업 ‘칼로섬’에 500만 달러 투자",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41585",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-25T11:13:46+00:00",
+    "raw_excerpt": "두나무의 투자 전문 자회사 두나무앤파트너스(대표 이강준)가 영국 인공지능(AI) 추론 최적화 기업 ‘칼로섬(Callosum)’에 500만 달러(약 70억 원) 규모의 시드 투자했다고 25일 밝혔다.칼로섬의 이번 시드 투자 유치는 총 1억 달러(약 1393억 원) 규모다. 유럽 벤처캐피탈 아토미코(Atomico)가 주도했고, 플루럴(Plural), DCVC 등을 비롯해 칼로섬을 첫 지분투자 대상으로 선정한 영국 정부의 소버린 AI 펀드(UK Sovereign AI)도 투자자로 이름을 올렸다.칼로섬은 케임브리지대학교 뇌과학자 출신 다냘",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "두나무앤파트너스가 영국 AI 추론 최적화 기업 칼로섬에 500만 달러를 투자하며 1억 달러 규모의 시드 펀딩에 참여했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41585_62587_1241_v150.jpg",
+    "score": 7.815,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "에브리봇, 中 엑스스퀘어와 휴머노이드 업무협력…로봇 데이터 사업까지 확장 검토",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41584",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-25T11:08:12+00:00",
+    "raw_excerpt": "로봇 전문기업 에브리봇이 중국 피지컬 인공지능(Physical AI) 전문기업 엑스스퀘어 로봇(X-Square)과 업무협약(MOU)을 체결하고 글로벌 휴머노이드 사업 확대에 나선다고 25일 밝혔다.X-Square는 2023년 12월 중국 선전에 설립된 휴머노이드 전문 제조기업으로, 중국 내에서도 이례적인 투자 유치 이력을 보유하고 있다. 지난 3월 중국 샤오미가 전략적 투자자로 약 20억 위안(약 4,100억 원)을 투자했으며, 앞서 메이투안, 알리바바, 바이트댄스 등으로부터 각각 단독 투자를 유치했다. 이에 따라 중국 4대 인터넷",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "에브리봇이 중국 휴머노이드 전문기업 X-Square와 업무협약을 체결해 글로벌 휴머노이드 사업 확대 및 로봇 데이터 사업까지 검토한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41584_62586_717_v150.jpg",
+    "score": 7.808,
+    "engagement": 0,
+    "matched_keywords": [
+      "physical ai",
+      "휴머노이드"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "전기 7배 덜 먹는 '사람 뇌' 닮은 차세대 AI 반도체 소자 개발... GIST이상한 교수팀, 저전력 뉴로모픽 정보처리 소자 활용 기대",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41582",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-25T10:53:09+00:00",
+    "raw_excerpt": "광주과학기술원(GIST·지스트, 총장 임기철)은 신소재공학과 이상한 교수 연구팀이 한국에너지공과대학교(KENTECH) 에너지공학부 오명환 교수 연구팀과 공동으로 산화코발트(Co3O4) 단결정 나노입자를 규칙적으로 배열하고 입자 사이의 미세한 ‘틈’을 정밀하게 제어해 안정적으로 작동하는 차세대 휘발성 멤리스터(memristor)를 개발했다고 25일 밝혔다. 이번 연구는 전자소자의 성능이 ‘무엇으로 만드는가’라는 소재의 특성뿐 아니라 나노입자를 ‘어떻게 배열하는가’라는 구조에 따라서도 달라질 수 있음을 보여주며, 나노미터 수준의 구조를",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "GIST 이상한 교수팀이 산화코발트 나노입자를 정밀하게 배열한 차세대 멤리스터 소자를 개발해 기존 대비 7배 적은 전력으로 뇌와 유사한 정보처리가 가능해질 것으로 기대된다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41582_62582_5059_v150.jpg",
+    "score": 7.79,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "차세대"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "이스트소프트, AI 시대 필수 유틸리티 '마크닷' 출시… AI 친화 텍스트 형식 마크다운을 읽고 쓰고 공유하고!",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41581",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-25T10:09:19+00:00",
+    "raw_excerpt": "인공지능(AI) 서비스 전문 기업 이스트소프트(대표 정상원)는 AI 시대를 대표하는 파일 형식 마크다운(Markdown)의 뷰어 및 에디터 '마크닷(Markdot)'을 출시했다고 25일 밝혔다.'마크닷’은 이스트소프트의 국민 유틸리티 프로그램 알툴즈의 DNA를 AI 시대에 맞게 확장한 제품으로 일상과 업무에서 활발한 전 세계적인 AX를 돕기 위해 개발했다. 출시는 아이폰, 아이패드, 안드로이드, 맥OS, 윈도우 5개 플랫폼에서 동시에 이루어졌으며 알툴즈 Lab, 구글플레이, 앱스토어에서 무료로 내려받을 수 있도록 지원하고 있다.마크",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "이스트소프트가 AI 시대에 최적화된 마크다운 에디터·뷰어 '마크닷'을 5개 플랫폼에서 무료로 출시했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41581_62580_835_v150.jpg",
+    "score": 7.735,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "엑시온, 인텔 ‘인지니어스’선정… AI영상관제 글로벌 사업화 가속",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41580",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-25T10:03:57+00:00",
+    "raw_excerpt": "비전 인공지능(Vision AI) 및 지능형 영상관제 솔루션 전문기업 ㈜엑시온(대표 전기경)은 중소벤처기업부와 창업진흥원이 주관하는 ‘2026년 글로벌기업 협업프로그램(추경)’의 인텔 협업 프로그램 ‘인지니어스(InGenius)’에 최종 선정됐다고 25일 밝혔다.창업진흥원은 지난 7월 16일 글로벌기업 협업프로그램 추경 사업의 최종 선정 결과를 발표했다. 이번 사업은 국내 유망 스타트업이 글로벌 기업의 기술과 산업 네트워크를 활용해 기술 경쟁력을 높이고 글로벌 시장 진출 기반을 확보할 수 있도록 지원하는 프로그램이다.엑시온은 이번",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "엑시온이 중소벤처기업부 지원 인텔 협업 프로그램 '인지니어스'에 선정돼 AI 영상관제 솔루션의 글로벌 사업화를 가속화할 기반을 마련했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41580_62579_233_v150.jpg",
+    "score": 7.728,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "인텔, 에이전틱 AI 아키텍처 3종 공개…데이터센터부터 엣지까지 확장",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41578",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-25T09:47:56+00:00",
+    "raw_excerpt": "인텔(Intel)이 에이전틱 AI 시대를 겨냥한 차세대 반도체 아키텍처를 공개하며 데이터센터에서 클라이언트와 엣지에 이르는 인공지능 컴퓨팅 전 영역 공략에 나섰다.인텔은 24일(현지시간) 미국에서 열린 반도체 분야 국제 학회 ‘핫 칩스(Hot Chips) 2026’에서 차세대 제온(Xeon) 프로세서인 다이아몬드 래피즈(Diamond Rapids), AI 추론에 최적화한 데이터센터 GPU 크레센트 아일랜드(Crescent Island), 클라이언트와 엣지용 와일드캣 레이크(Wildcat Lake) 등 세 가지 아키텍처를 선보였다.인",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "인텔이 데이터센터부터 엣지까지 커버하는 3가지 AI 아키텍처(다이아몬드 래피즈, 크레센트 아일랜드, 와일드캣 레이크)를 공개하며 에이전틱 AI 시대 대응에 나섰다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41578_62577_4738_v150.jpg",
+    "score": 7.708,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "비욘드코딩, 미국 지니어스 올림피아드서 대상·은상…로보틱스 경쟁력 확인",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214326",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-25T11:48:07+00:00",
+    "raw_excerpt": "비욘드코딩(Beyond Coding)은 소속 학생들이 미국에서 열린 ‘지니어스 올림피아드’ 로보틱스 부문에서 그랜드 어워드(대상)와 실버 어워드(은상)를 동시에 수상했다고 25일 밝혔다.이번 대회에는 비욘드코딩 소속 2개 팀이 미국 본선에 진출, 모두 수상 명단에 이름을 올랐다.두 팀은 국내 선발 과정에서도 나란히 좋은 성적을 기록했다. 한국 선발전에서 각각 최고상인 금상을 받은 뒤 국가대표 자격으로 미국 본선에 진출했으며, 세계대회에서도 대상과 은상을 수상했다.지니어스 올림피아드는 환경과 지속가능성을 중심으로 학생들의 과학·공학·",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "비욘드코딩 소속 학생들이 미국 지니어스 올림피아드 로보틱스 부문에서 대상과 은상을 동시에 수상하며 로보틱스 경쟁력을 입증했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214326_218015_4658.jpg",
+    "score": 7.538,
+    "engagement": 0,
+    "matched_keywords": [
+      "로보틱스"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "영상의학 전문의 시험공부 AI에게 시켜봤더니…맞다고 검증한 자료도 오류 1%",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41563",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-24T09:52:18+00:00",
+    "raw_excerpt": "의학 교육에는 방대한 지식과 양질의 교육 콘텐츠가 필요하지만, 작은 오류도 잘못된 의학 지식으로 이어질 수 있어 교육자료 검수에 세심한 주의가 필요하다.최근 생성형 AI를 활용해 의학 교육자료를 빠르게 제작할 수 있게 됐지만, 연구 결과 인공지능이 1차 자동 검증에서 합격시킨 전문의 교육자료에서도 오류가 발견돼 전문가의 최종 감수가 필요하다는 사실이 확인됐다.서울아산병원 융합의학과 김남국 교수·남유진 연구원과 삼성창원병원 영상의학과 홍파 교수는 총 6단계로 구성된 생성형 AI 기반 교육 콘텐츠 제작 시스템을 개발하고, 영상의학 전문",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AI가 1차 검증을 통과한 의학 교육자료에서도 오류가 발견되어 전문가의 최종 감수가 필수적임이 확인됐다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41563_62555_5054_v150.jpg",
+    "score": 6.814,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "생성형 ai"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "AMD, AI 도입 비용 계산하는 ‘토크노믹스 계산기’ 공개…손익분기점과 최적 하드웨어 구성 제안",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41573",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-24T14:10:07+00:00",
+    "raw_excerpt": "AMD는 기업의 대규모 인공지능(AI) 도입에 따른 비용과 경제성을 분석할 수 있는 ‘AMD 클라이언트 토크노믹스 계산기(AMD Client Tokenomics Calculator)’를 24일 공개했다.이 계산기는 AI 워크로드를 클라우드에서만 실행하는 방식과 로컬 환경, 하이브리드 환경에서 실행하는 방식의 비용을 직접 비교할 수 있도록 설계됐다. 기업이 AI 도입을 확대하면서 단순히 AI 모델의 성능뿐 아니라 토큰 사용량과 인프라 운영비를 포함한 전체 비용 구조를 파악하는 것이 중요해진 데 따른 것이다.AMD 클라이언트 토크노믹스",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AMD가 기업의 AI 도입 비용과 경제성을 분석하는 '토크노믹스 계산기'를 공개해 클라우드·로컬·하이브리드 환경의 비용 비교를 가능하게 했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41573_62569_944_v150.jpg",
+    "score": 6.236,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Very cool launch from the ",
+    "url": "https://x.com/omarsar0/status/2091951905291284614",
+    "source": "X @omarsar0",
+    "source_type": "x",
+    "published_at": "2026-08-24T18:12:55+00:00",
+    "raw_excerpt": "Very cool launch from the \n@agentsky_dev\n team. Agent Playground lets you give Claude Code, Codex, and DeepSeek the identical task in one browser and compare time, cost, and tokens side by side. \n\nI run same-task harness tests constantly, and I think this is one of the first places",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Agent Playground는 Claude, Codex, DeepSeek 등 AI 모델들을 같은 작업으로 비교하는 브라우저 기반 도구로 성능, 비용, 토큰 사용량을 한 번에 비교할 수 있다.",
+    "thumbnail": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_400x400.jpg",
+    "score": 6.133,
+    "engagement": 5318,
+    "matched_keywords": [
+      "claude",
+      "codex",
+      "claude code"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "현대차, 9월 대규모 신입 채용 실시...\"SDV·AI·로보틱스 등 미래 신사업 주도할 인재\"",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41572",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-24T12:43:55+00:00",
+    "raw_excerpt": "현대자동차가 소프트웨어 중심 차량(SDV), 인공지능(AI), 로보틱스 등 미래 신사업을 주도할 인재를 확보하기 위해 대규모 신입 채용에 나선다. 서류전형 면제 혜택을 제공하는 오프라인 상담회 등 지원자를 위한 프로그램도 다양하게 운영한다.현대차는 오는 9월 1일부터 14일까지 2주간 채용 홈페이지를 통해 전 부문이 참가하는 대규모 신입 채용을 실시한다고 24일 밝혔다.현대차는 상반기에 이어 하반기에도 대규모 채용 기조를 이어간다. 모집 분야는 연구개발, 디자인, 생산/제조, 사업/기획, 경영지원, IT 등 총 6개 부문으로, 전체",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "현대차가 9월 대규모 신입 채용을 실시하며 SDV, AI, 로보틱스 등 미래 신사업 인재를 확보한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41572_62567_4349_v150.jpg",
+    "score": 6.128,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "[8월24일] 순천 AI 영상 뉴스 - 순천 미래 신산업 30억 투입 등",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214308",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-24T18:00:40+00:00",
+    "raw_excerpt": "주영효 기자 society@aitimes.comPowered by AItimes AI Solution",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "순천시가 미래 신산업 육성을 위해 30억 원을 투입하기로 결정했다.",
+    "thumbnail": "",
+    "score": 6.093,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "농식품부, 민간 클라우드로 농식품 빅데이터 문을 연다!...농식품 데이터 35종 우선 공개",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41569",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-24T12:09:25+00:00",
+    "raw_excerpt": "농림축산식품부(장관 송미령, 이하 농식품부)는 그동안 농식품부 내부망에서 공무원 중심으로 활용해 온 농식품 빅데이터를 인공지능(AI) 시대, 국민과 기업이 보다 쉽게 이용할 수 있도록 민간 클라우드 기반의 '농식품 빅데이터 클라우드 서비스' 를 26일부터 개시한다.그동안 농식품 빅데이터는 내부망에 구축된 분석플랫폼을 통해 주로 공무원이 활용해 왔으며, 국민과 기업이 데이터를 직접 활용하는 데에는 한계가 있었다. 이에 농식품부는 AI 전환 시대에 발맞춰 민간 클라우드 기반으로 데이터 제공 환경을 구축하고, 국민과 기업이 필요로 하는",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "농식품부가 26일부터 민간 클라우드 기반 '농식품 빅데이터 클라우드 서비스'를 개시해 그간 공무원 중심으로 활용되던 농식품 데이터 35종을 국민과 기업에 개방한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41569_62563_848_v150.jpg",
+    "score": 6.085,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "LS ITC, 제조 현장 맞춤형 AI 개발…모티프와 맞손",
+    "url": "https://zdnet.co.kr/view/?no=20260825095943",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-25T01:19:40+00:00",
+    "raw_excerpt": "[지디넷코리아]LS ITC가 제조 공정 문제 해결과 생산성 향상에 활용할 현장 맞춤형 인공지능(AI) 모델 검증에 나선다.LS일렉트릭의 IT 서비스 자회사 LS ITC는 지난 24일 서울 LS용산타워에서 모티프테크놀로지스와 ‘제조 현장 맞춤형 AI 적용을 위한 업무협약’을 체결했다고 25일 밝혔다.양사는 LS ITC가 제조 현장에서 축적한 정보기술(IT)과 운영기술(OT) 구축·운영 경험에 모티프테크놀로지스의 AI 모델 개발 역량을 결합할 계획이다. 이를 통해 실제 제조 공정에 활용할 수 있는 AI 과제를 발굴하고 적용 가능성과 효과를 검증한다.협력 분야는 제조 부문의 생성형 AI 적용 과제 발굴, AI 모델의 현장 적합성 및 효과에 대한 단계별 검증, 검증 결과를 바탕으로 한 후속 협력 가능성 검토 등이다. 아직 구체적인 제조 공정 적용이나 상용화가 확정된 단계는 아니며, 우선 현장 활용 가능성을 확인하는 데 초점을 맞춘다.LS그룹은 사무와 생산 영역을 아우르는 인공지능 전환(AX)을 추진하고 있다. 사무 부문에는 그룹 공통 AI 플랫폼인 ‘LS GPT’를 도입했다. 제조 현장에서는 LS전선과 LS일렉트릭이 AI 기반 불량 검사와 설비 자동화를 진행하고 있으며, LS MnM은 온산제련소 공정 최적화에 AI를 활용하고 있다.LS ITC는 이번 협력을 통해 LS그룹 제조 현장에 적합한 AI 모델의 실용성을 검증하고, 향후 제조 공정을 ",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "LS ITC가 모티프테크놀로지스와 손잡고 제조 현장 맞춤형 AI 모델 개발·검증에 나서며 LS그룹의 인공지능 전환을 가속화한다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/25/444c080f5050b5584c4a0b58cd40eea4.jpg",
+    "score": 5.98,
+    "engagement": 0,
+    "matched_keywords": [
+      "생산성",
+      "현장",
+      "ax"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "KT, 9월7일까지 대졸 신입 채용...현장형 AI 인재 찾는다",
+    "url": "https://zdnet.co.kr/view/?no=20260825094008",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-25T01:00:06+00:00",
+    "raw_excerpt": "[지디넷코리아]KT가 9월7일까지 대졸 신입 채용을 진행한다.모집 분야는 ▲NW인프라운용 ▲B2B컨설팅 세일즈 ▲B2C마케팅 세일즈다. 네트워크 인프라를 안정적으로 운용하고, 기업과 개인 고객의 요구를 파악해 최적의 서비스를 제공하는 등 KT의 고객 접점과 사업 현장에서 핵심 역할을 담당하는 직무다.KT는 주요 현장 분야의 인력 기반을 강화하기 위해 이번 대졸 신입 채용 규모를 대폭 확대했다. 현장에 필요한 인재를 안정적으로 확보하고, 신입사원 단계부터 고객과 사업에 대한 이해와 직무 전문성을 체계적으로 높여 나간다는 계획이다.채용에서는 각 직무를 수행하는 데 필요한 전문성과 함께 AI 활용 역량도 주요 평가 요소로 반영한다. 직무별 특성에 따라 실제 업무에서 요구되는 지식과 문제해결 역량 등을 중심으로 지원자의 직무 수행 가능성을 종합적으로 살펴볼 예정이다.특히 AI 기술에 대한 단순한 지식을 묻기보다 직무 맥락에서 마주할 수 있는 상황을 제시하고, 이를 해결하는 과정에서 AI를 어떻게 활용하는지 중점적으로 평가한다. AI가 업무 전반의 방식과 환경을 변화시키면서 같은 직무에서도 새로운 기술을 활용해 문제를 해결하고 업무를 개선하는 역량의 중요성이 높아지고 있기 때문이다.선발 과정에서는 KT가 지향하는 핵심가치를 바탕으로 일하는 방식과 태도도 함께 살펴본다. 고객을 중심으로 생각하고 동료를 존중하며, 맡은 일에 책임감을 갖고 전문성",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "KT가 9월 7일까지 네트워크 인프라·B2B·B2C 분야 대졸 신입을 채용하며, AI 활용 역량을 주요 평가 요소로 반영해 현장형 인재를 육성한다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/25/181e10e09f14cf8c2e98dff3241a8508.jpg",
+    "score": 5.286,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장",
+      "일하는 방식"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "[AI는 지금] IBM, 차세대 메인프레임에 Arm 탑재…AI·클라우드 공략 강화",
+    "url": "https://zdnet.co.kr/view/?no=20260825085426",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-25T00:57:01+00:00",
+    "raw_excerpt": "[지디넷코리아]IBM이 차세대 메인프레임에 Arm 아키텍처를 직접 지원하며 인공지능(AI)·클라우드 소프트웨어 생태계 확장에 나선다. 기존 IBM Z의 보안·안정성을 유지하면서 클라우드 시장에서 빠르게 확산된 Arm 기반 애플리케이션까지 같은 시스템에서 구동할 수 있도록 해 기업의 애플리케이션 현대화 수요를 흡수하려는 전략이다.IBM은 자사 공식 홈페이지를 통해 미국에서 열린 반도체 기술 콘퍼런스 '핫 칩스 2026'에서 차세대 IBM Z와 리눅스원(LinuxONE)에 적용할 듀얼 아키텍처 프로세서를 공개했다고 25일 밝혔다. 지난 4월 양사가 차세대 엔터프라이즈 컴퓨팅을 위한 전략적 협력을 발표한 이후 처음 공개한 프로세서 기술이다.새 프로세서의 핵심은 하나의 시스템에서 IBM과 Arm 소프트웨어 환경을 함께 운영할 수 있다는 점이다. Arm 전용 프로세서를 별도로 탑재하는 방식이 아니라 각 프로세서 코어가 IBM Z와 Arm 명령어를 네이티브로 실행하도록 설계됐다. 이에 따라 Arm 네이티브 리눅스 환경을 z/OS와 기존 IBM Z용 리눅스 애플리케이션과 동시에 운영할 수 있다.IBM은 새 프로세서를 2나노미터(nm) 공정으로 설계하고 5.7GHz 이상으로 동작하는 고성능 코어 11개를 탑재할 예정이다. 거래 과정에서 실시간 사기 탐지 등에 활용할 수 있는 AI 추론 가속기와 입출력(I/O) 처리를 위한 온칩 데이터처리장치(DPU",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "IBM이 차세대 메인프레임에 Arm 아키텍처를 통합해 하나의 시스템에서 IBM Z와 Arm 소프트웨어를 동시 운영 가능하게 하며 AI·클라우드 시장 확대를 추진하고 있다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/25/1f02bb6778b3a49c0fc21f33d9fb32eb.jpg",
+    "score": 5.283,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "증시 폭락·누적 물가에 지갑 닫혔다… 소비심리 넉 달 만에 ‘꺾임세’",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48413",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-25T11:28:10+00:00",
+    "raw_excerpt": "[스마트타임스]국내 증시가 큰 폭의 조정을 받으면서 석 달 연속 이어지던 소비자들의 경제 심리 개선세가 넉 달 만에 꺾였다. 반도체 수출 호조 등 양호한 실물경제 흐름에도 불구하고 주가 폭락과 누적된 물가 상승 부담이 소비자들의 체감경기를 크게 위축시킨 영향으로 분석된다.한국은행이 25일 발표한 ‘2026년 8월 소비자동향조사’ 결과에 따르면 이달 소비자심리지수(CCSI)는 104.5로 전월보다 2.3포인트(p) 하락했다.CCSI는 지난 5월부터 반도체 수출 호조 등에 힘입어 3개월 연속 상승 흐름을 이어왔으나 이달 들어 하락세로",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "증시 폭락과 누적된 물가 상승이 소비자심리지수를 4개월 만에 하락으로 돌려 반도체 수출 호조 등 실물경제 개선에도 불구하고 소비 심리를 위축시켰다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202608/48413_47107_282_v150.jpg",
+    "score": 5.2,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "바이브 세금",
+    "url": "https://news.hada.io/topic?id=32864",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-08-25T01:40:52+00:00",
+    "raw_excerpt": "숙련된 개발자가 LLM 에이전트 Pol 에게 맞춤형 할 일 앱의 개념 증명을 맡겼지만, 12시간 뒤 앱은 없고 주간 사용량만 모두 소진 됨 수십억 토큰을 사용한 Pol은 앱 코드 대신 tests 아래에 SHA-256 해시 로 이름 붙인 폴더와 발생 가...",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "LLM 에이전트가 할 일 앱 개발 중 수십억 토큰을 소비하고 실제 코드 없이 해시값으로 명명된 폴더만 생성해 AI 개발의 비효율성을 드러냈다.",
+    "thumbnail": "https://social.news.hada.io/topic/32864?v=e5ce3b96ac7b347fff43991cd0e8d8ab",
+    "score": 5.166,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Prime Agent - 코딩과 장기 자율 작업을 위한 자기 개선형 RLM 에이전트",
+    "url": "https://news.hada.io/topic?id=32861",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-08-25T00:30:02+00:00",
+    "raw_excerpt": "코딩/리서치용 에이전트로, RLM(Recursive Language Model) 과 Continual Harness 두 가지 핵심 추상화를 중심으로 설계됨 RLM 은 컨텍스트를 변수처럼(prompt-as-a-variable), 재귀 서브에이전트 같은 도구를 함수 호출처럼 다루며 지속적인 REPL...",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Prime Agent는 RLM 기반의 자기 개선형 AI 에이전트로, 코딩과 장기 자율 작업을 위해 재귀적 언어 모델과 지속적 실행 환경을 활용한다.",
+    "thumbnail": "https://social.news.hada.io/topic/32861?v=74924e4f6d26329f6e2bfc133fc7ae74",
+    "score": 5.092,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "플레이위드코리아, 4분기 출시 목표 '씰M2' 대표 이미지 공개",
+    "url": "https://zdnet.co.kr/view/?no=20260825102419",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-25T01:34:01+00:00",
+    "raw_excerpt": "[지디넷코리아]플레이위드코리아(대표 김학준)는 신작 MMORPG ‘씰M2’의 대표 이미지를 추가 공개하며, 기존 ‘씰’ 시리즈의 감성을 계승하는 동시에 한층 발전된 모습으로 확장된 새로운 세계관과 변화를 예고했다. 추가로 공개된 이미지는 기존 ‘씰’ 시리즈 특유의 가볍고 유쾌한 감성을 바탕으로, 한층 다듬어진 비주얼과 깊이 있는 분위기를 담아냈다. 특히 MMORPG로서의 완성도와 새로움을 강조하며, 익숙한 ‘씰’의 매력에 새로운 변화를 더한 ‘씰M2’만의 방향성을 보여준다.또한 ‘씰M2’가 선보일 새로운 세계관의 핵심은 ‘낯선 익숙함’이다. 게임의 주 무대인 ‘새로운 쉴츠’는 전작의 향수를 자극하는 익숙한 풍경을 담고 있지만, 모험을 이어갈수록 미묘하게 어긋난 세계의 진실을 마주하게 된다. 새로 공개된 티저 이미지 역시 기존 ‘씰’ 시리즈에서 한층 변화된 분위기를 담아내며, 앞으로 공개될 새로운 세계에 대한 궁금증을 자극하고 있다. 특히 “익숙한 길은 반대로 뻗어 있다”는 설정은 독특한 어드벤처의 시작을 알리며 이용자들에게 새로운 몰입감을 제공한다고 회사 측은 설명했다. 씰M2는 기존 씰 시리즈와는 차별화된 모험을 선보인다는 계획이다. 세부적인 세계관과 스토리는 향후 순차적으로 공개될 예정이다. 또한 게임의 핵심적인 정체성은 그대로 이어간다. 씰M2 역시 초보자로 시작해 다양한 직업으로 성장하는 씰 시리즈 특유의 직업 시스템을 유지하",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "플레이위드코리아가 4분기 출시 예정인 MMORPG '씰M2'의 대표 이미지를 공개하며 기존 시리즈의 감성을 계승하면서도 새로운 세계관과 '낯선 익숙함'을 주제로 한 확장된 콘텐츠를 예고했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/25/ac6c1fec50ea6d2e81e72e692e3a1ea7.jpg",
+    "score": 4.643,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "카페24 \"커뮤니티 센터, 7개월 만에 방문자 1000명 달성\"",
+    "url": "https://zdnet.co.kr/view/?no=20260825092746",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-25T01:06:59+00:00",
+    "raw_excerpt": "[지디넷코리아]카페24는 '카페24 커뮤니티 센터(이하 커뮤니티 센터)'의 누적 방문자가 개소 7개월 만에 1000명을 넘어섰다고 25일 밝혔다. 지난 1월 문을 연 커뮤니티 센터의 누적 방문자는 총 1167명으로, 그동안 제공해 온 프로그램도 ▲마케팅 ▲물류 ▲상품 사입 ▲글로벌 소싱 등 19개 분야로 확대됐다.카페24 창업센터 동대문점에 위치한 커뮤니티 센터는 온라인 사업자가 이커머스 운영 과정에서 겪는 어려움을 현장에서 해결하고, 사업 운영에 필요한 내용을 직접 배우고 경험할 수 있도록 마련한 체험형 지원 공간이다. 초기에는 '카페24 프로(PRO)' 체험과 1:1 컨설팅을 중심으로 쇼핑몰 개설·운영을 지원했으며, 현재는 교육과 세미나를 통해 온라인 사업 전반으로 지원 범위를 넓히고 있다.교육 프로그램은 사업 성장 단계에 따라 ▲마케팅과 쇼핑몰 운영 ▲상품 사입과 물류 ▲글로벌 소싱 등 실무에 필요한 내용을 폭넓게 다룬다. ▲기획전, 고객관계관리(CRM), 광고 운영 등 마케팅 활용법부터 ▲재고 관리와 고객응대(CS) ▲동대문 상품 사입 ▲풀필먼트 활용법과 국제운송·수입통관까지 온라인 사업 과정에서 필요한 다양한 실무를 교육한다. 알리바바닷컴, DHL 등 분야별 전문기업과 연계한 교육과 1:1 상담도 진행하며, 드롭쉬핑 등 새로운 상품 소싱·판매 방식에 관한 프로그램도 마련하고 있다.전문가와 함께하는 실습 중심 프로그램이 높은 ",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "카페24가 지난 1월 개설한 커뮤니티 센터가 7개월 만에 누적 방문자 1000명을 돌파했으며, 마케팅·물류·글로벌 소싱 등 19개 분야로 지원 프로그램을 확대했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/25/d1f91d5b79e0bf4c6d1c27f74b0c5091.jpg",
+    "score": 4.618,
+    "engagement": 0,
+    "matched_keywords": [
+      "창업"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "민병덕 의원 \"수수료 정책에 따라 거래소 점유율 요동쳐…감독체계 마련해야\"",
+    "url": "https://zdnet.co.kr/view/?no=20260825100508",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-25T01:05:08+00:00",
+    "raw_excerpt": "[지디넷코리아]수수료 정책에 따른 스테이블코인 거래량이 가상자산 거래소 점유율에 큰 영향을 미치는 것으로 확인됐다.25일 국회 정무위원회 소속 더불어민주당 민병덕 의원이 금융감독원으로부터 제출받은 자료에 따르면, 올 1 월부터 7 월까지 7 개월간 스테이블코인 누적 거래대금은 약 80 조 7199 억원으로 집계됐다.민병덕 의원실이 금융감독원 제출자료와 지난 2025 년 1 월부터 2026 년 8 월 24 일까지 각 거래소 일별 거래대금을 직접 집계·분석한 결과, 업비트·코인원·코빗·빗썸 4 개사가 각각 스테이블코인 또는 전 종목 수수료 무료 정책을 시행한 시점 전후로 해당 거래소 시장점유율이 뚜렷하게 요동친 것으로 나타났다.그 중 업비트의 스테이블코인 수수료 무료 이벤트 전후로 이러한 흐름이 관찰됐다 . 이벤트 시행 이후 업비트의 스테이블코인 점유율은 26.3% 에서 52.3%로 상승했고, 같은 기간 코인원은 40.7% 에서 13.9% 로 낮아졌다.반면 같은 기간 일반 가상자산 거래 거래소별 점유율 변화는 최대 ±3.5%p 수준에 그쳤다. 스테이블코인 거래 쏠림 폭이 상대적으로 뚜렷했다는 것이 의원실 측 설명이다 .민병덕 의원실은 “자본력을 갖춘 상위 사업자가 한시적으로 수수료를 면제하는 것만으로 단기간에 시장점유율을 크게 바꿀 수 있음을 보여준다”며 “이러한 효과가 정책이 종료되면 그대로 사라진다는 점으로, 이는 자본 여력이 상대적",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "스테이블코인 거래의 수수료 정책이 거래소 점유율에 극적인 영향을 미치고 있어 감독체계 마련이 필요하다는 의원실 분석이 나왔다.",
+    "thumbnail": "https://image.zdnet.co.kr/2025/04/16/e3eb4187c512144270fac8810eb60133.jpg",
+    "score": 4.616,
+    "engagement": 0,
+    "matched_keywords": [
+      "스테이블코인"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "보안 상장사 R&D 얼마나…안랩 투자액 1위, SGA 증가율 1위",
+    "url": "https://zdnet.co.kr/view/?no=20260824155901",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-25T01:00:40+00:00",
+    "raw_excerpt": "[지디넷코리아]올해 상반기 주요 보안 상장사 20곳 중 연구개발비로 가장 많은 금액을 투자한 곳은 안랩으로 조사됐다. 안랩은 400억원에 육박하는 금액을 올 상반기에만 연구개발 비용으로 투자했다. 안랩은 매출 대비 연구개발비 투자 비중도 30%대로 가장 높았다. 20곳 중 6곳이 매출 대비 연구개발비 비중이 20%를 상회했다. 또 SGA솔루션즈는 올해 상반기 257억원 이상을 연구개발비로 투자, 작년 대비 423%나 증가, 연구개발 투자액을 가장 많이 늘린 기업으로 나타났다.24일 지디넷코리아가 금융감독원 전자공시시스템를 기반으로 조사한 바에 따르면 국내 주요 보안 상장사 20곳 중 올해 상반기 가장 많은 연구개발 비용을 투자한 곳은 안랩으로 조사됐다. 안랩은 올해 상반기에만 393억9400만원을 투입했다. 올해 상반기 매출액 대비 연구개발비 비중도 지난해와 동일한 30.2%로, 조사 대상 20곳 기업 중 가장 높았다. 연구개발비 액수로만 비교하면 1년 전 같은 기간보다 9.23% 늘었다.조사 대상 보안 상장사 20곳은 ▲안랩 ▲SGA솔루션즈 ▲소프트캠프 ▲윈스테크넷 ▲이글루코퍼레이션 ▲아톤 ▲라온시큐어 ▲파이오링크 ▲케이사인 ▲휴네시온 ▲수산아이앤티 ▲시큐아이 ▲파수AI ▲지니언스 ▲엑스게이트 ▲지란지교시큐리티 ▲한싹 ▲모니터랩 ▲드림시큐리티 ▲에스투더블유 등이다. 이 중 이글루코퍼레이션 자회사인 파이오링크는 별도 기준으로 조사했다",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "안랩이 올해 상반기 보안 상장사 중 394억원으로 R&D 투자액 1위, SGA솔루션즈는 전년 대비 423% 증가로 투자 증가율 1위를 차지했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/25/47a9b3ae2fa4ed8d123b6551f871ee87.png",
+    "score": 4.612,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "크래프톤 '에이지 트위스터', 게임스컴 어워드 2026 후보 선정",
+    "url": "https://zdnet.co.kr/view/?no=20260825093313",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-25T01:00:04+00:00",
+    "raw_excerpt": "[지디넷코리아]크래프톤이 서비스 예정인 신작 2인 협동 어드벤처 게임 '에이지 트위스터'가 세계 최대 게임 전시회 시상식인 '게임스컴 어워드 2026' 후보작에 이름을 올렸다.크래프톤(대표 김창한)은 피콜로 스튜디오가 개발한 신작 ‘에이지 트위스터’가 ‘게임스컴 어워드 2026’의 ‘Most Wholesome’ 부문 후보에 선정됐다고 25일 밝혔다. 게임스컴 어워드는 전 세계 출품작 가운데 우수 게임을 가리는 시상식으로, 해당 부문은 이용자에게 따뜻하고 긍정적인 경험을 선사하는 작품을 대상으로 한다.최종 수상작은 전문 심사위원단 평가와 커뮤니티 투표를 합산해 오는 28일 발표된다.‘에이지 트위스터’는 할아버지와 손녀가 가족이 남긴 흔적을 쫓아 여정을 떠나는 2인 협동 어드벤처 게임이다. 두 이용자가 각각 한 캐릭터를 맡아 협력하는 구조로, 신비한 팔찌를 활용해 유년기부터 노년기까지 생애 단계별로 나이를 전환하며 각 연령대의 고유 능력을 조합해 퍼즐을 풀고 적을 상대하는 시스템이 핵심이다.크래프톤은 게임스컴 현장 부스에서 '에이지 트위스터'의 첫 공개 시연을 진행한다. 크래프톤은 이번 게임스컴에 ▲에이지 트위스터를 비롯해 ▲펍지 스튜디오 미공개 신작 ▲‘NO LAW’ ▲‘프로젝트 제타’ ▲‘타래: 언바운드’ 등 총 5종의 신작을 출품해 글로벌 시장 공략에 박차를 가할 계획이다.",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "크래프톤의 2인 협동 어드벤처 게임 '에이지 트위스터'가 게임스컴 어워드 2026의 'Most Wholesome' 부문 후보에 선정되었다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/25/ca63f1484c180f629476d2e284228a48.jpg",
+    "score": 4.611,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "컴투스홀딩스 '론 셰프', 세계 최대 게임쇼 '게임스컴 2026' 참가",
+    "url": "https://zdnet.co.kr/view/?no=20260825092913",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-25T00:50:02+00:00",
+    "raw_excerpt": "[지디넷코리아]컴투스홀딩스가 PC 및 콘솔 기반 신작 액션 어드벤처 '론 셰프'를 글로벌 최대 게임 전시회 '게임스컴 2026'에 출품하고 해외 이용자 공략에 나선다.컴투스홀딩스(대표 정철호)는 신작 ‘론 셰프’를 게임스컴 2026에 출품한다고 25일 밝혔다. 컴투스홀딩스는 현지 시간 기준 오는 26일부터 30일까지 독일 쾰른에서 열리는 이번 행사에서 한국콘텐츠진흥원이 조성한 한국 공동관을 통해 게임을 선보인다.현장 시연 공간을 운영하며 글로벌 이용자와 업계 관계자들의 피드백을 수렴해 게임의 완성도를 한층 끌어올릴 계획이다.프로젝트모름이 개발 중인 ‘론 셰프’는 탐험과 사냥, 요리를 결합한 액션 어드벤처 게임이다. 여러 지역을 누비며 몬스터를 사냥하고 수집한 재료로 요리를 완성해 나가는 플레이 방식을 갖췄으며, 감각적인 픽셀 아트와 유쾌한 세계관이 특징이다.이번 게임스컴 데모 버전에서는 조작감과 UI를 개선하고 전투 시스템 개편, 신규 적과 기믹을 추가해 전반적인 게임성을 대폭 보강했다.‘론 셰프’는 현재 글로벌 유통 플랫폼 스팀에서 데모 버전을 공개 중이다. 앞서 플레이엑스포, 비트서밋, 코믹월드, 부산인디커넥트 페스티벌 등 국내외 주요 게임 행사에 연이어 참가하며 이용자 접점을 넓혀왔다.",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "컴투스홀딩스가 PC·콘솔 액션 어드벤처 게임 '론 셰프'를 게임스컴 2026에 출품해 글로벌 시장 진출을 가속화하고 있습니다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/25/01c9f0940020e86349842fcfd2dd8dfe.jpg",
+    "score": 4.602,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "가온전선, 신공법 적용 케이블 내년 DL이앤씨 공동주택에 공급",
+    "url": "https://zdnet.co.kr/view/?no=20260825093756",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-25T00:50:01+00:00",
+    "raw_excerpt": "[지디넷코리아]가온전선(대표 정현)은 DL이앤씨와 신축 공동주택 현장에 배관 일체형 ACF 케이블을 시범 적용해 성능과 시공성 검증을 완료했다고 25일 밝혔다.ACF 케이블은 전력 케이블에 배관 기능을 하는 알루미늄 외장을 적용한 배관 일체형 제품이다. 내년부터 DL이앤씨 신축 공동주택에 본격 적용될 예정이다.양사는 2023년 '노출공법(ACF 케이블) 공동연구개발' 업무협약을 체결한 이후 기술 고도화와 시공 최적화를 추진해 왔다. 기존 배관 설치와 전선 삽입 공정을 하나로 통합해 공사비를 최대 20~30% 절감하고 공사 기간도 단축할 수 있는 차세대 배전 솔루션이다.공동주택 신축 현장에서는 ACF 케이블 노출공법의 표준 시공법과 가이드라인이 없어 현장 적용에 어려움이 있었다. 양사는 시공 공법과 전용 부속 자재를 개발하고, DL이앤씨의 BIM 설계를 활용해 자재 물량을 정밀 산출, 시공 효율과 품질을 높였다.ACF 케이블은 공동주택뿐 아니라 물류센터와 플랜트 등 다양한 건축물에 적용할 수 있다. 특히 리모델링에서는 기존 배관 철거나 신규 배관 공사 없이도 협소한 공간에도 시공이 가능해 구조체 훼손을 최소화할 수 있다.정현 가온전선 대표는 \"건설업계의 공기 단축과 원가 절감 수요가 커지는 가운데 ACF 케이블이 새로운 배전 솔루션으로 자리 잡을 것으로 기대한다\"며, \"시공 효율과 경제성을 높이는 배전 솔루션을 지속 개발해 국내외 배전",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "가온전선이 배관 일체형 ACF 케이블 신공법을 DL이앤씨와 공동으로 개발해 내년부터 공동주택에 본격 적용하며, 공사비 20~30% 절감과 공기 단축이 가능하다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/25/c4cb0305d666c316b383d92834689d3e.jpg",
+    "score": 4.602,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "한화에어로, 美 LNG 전담법인 설립…2029년 여수발전소 공급",
+    "url": "https://zdnet.co.kr/view/?no=20260825094129",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-25T00:48:41+00:00",
+    "raw_excerpt": "[지디넷코리아]한화에어로스페이스가 미국에 액화천연가스(LNG) 사업 전담 법인을 세우고 조달부터 운송·공급·발전까지 연결하는 밸류체인 구축에 나선다.한화에어로스페이스는 미국에 ‘한화호라이즌 USA’를 설립하고 글로벌 LNG 사업을 추진한다고 25일 밝혔다.한화호라이즌 USA는 한화에어로스페이스 LNG 사업의 컨트롤타워로서 LNG 조달과 거래, 물류 최적화 등을 담당한다. 대표는 해양·에너지 분야에서 약 30년간 경력을 쌓은 제임스 사가르 한화쉬핑 최고경영자(CEO)가 겸직한다.회사는 한화호라이즌 USA를 중심으로 LNG 운송부터 공급·발전까지 이어지는 사업 구조를 구축할 계획이다. 우선 2029년 상업운전을 시작할 예정인 한화에너지 여수 LNG 발전소에 연료를 공급하고, 이후 국내외 발전회사와 에너지 기업으로 공급처를 확대한다.중장기적으로는 아시아를 포함한 글로벌 시장에서 LNG 트레이딩 사업에도 나설 방침이다. 한화에어로스페이스는 안정적인 LNG 공급망을 기반으로 에너지 사업 경쟁력을 높이고 한미 간 에너지 협력에도 기여한다는 구상이다.앞서 한화에어로스페이스는 미국 LNG 생산기업 벤처글로벌과 LNG 구매계약을 체결했다. 한국남부발전과는 ‘글로벌 LNG 협력 강화를 위한 팀 코리아 구축’ 업무협약을 맺고 공동 조달과 공급망 다변화를 추진하고 있다.최근에는 글로벌 신용평가사 스탠더드앤드푸어스(S P)로부터 신용등급 ‘A-’를 획득했다",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "한화에어로스페이스가 미국에 LNG 전담법인을 설립해 2029년 여수 발전소에 연료를 공급하고 글로벌 LNG 사업을 확대할 계획입니다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/25/81c78e9d2dadd111048e700d45922adf.jpg",
+    "score": 4.601,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "The Sandbox Halts SAND Bridging After Token-Minting Exploit",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48397",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-24T16:28:18+00:00",
+    "raw_excerpt": "The Sandbox, a metaverse and blockchain gaming platform, has suspended SAND token bridging to and from Base and BNB Smart Chain after an exploit enabled an attacker to mint unbacked tokens.The attacker reportedly created tokens with a nominal value of as much as US$49 billion based on SAND’s market",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "The Sandbox가 공격자의 무담보 토큰 발행 취약점으로 인해 Base와 BSC 간 SAND 토큰 브릿징을 중단했습니다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202608/48397_47070_285_v150.jpg",
+    "score": 4.131,
+    "engagement": 0,
+    "matched_keywords": [
+      "exploit"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "중진공 충청연수원, ‘ISO 10002’ 인증 획득",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48383",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-24T13:02:32+00:00",
+    "raw_excerpt": "[스마트타임스]중소벤처기업인증원(원장 엄진엽, KOSRE)은 지난 21일 중소벤처기업진흥공단 충청연수원이 국제표준 ‘ISO 10002(고객만족경영시스템)’ 인증을 획득했다고 24일 밝혔다.중진공 충청연수원은 올해 들어 고객 중심 경영을 강화하고 고객 서비스 품질을 고도화하기 위해 ISO 10002 인증을 신규 목표로 설정했으며 개원 5년 만에 이를 달성했다.이번 인증으로 중진공 충청연수원은 연수 운영 전반에 걸쳐 고객 중심의 서비스 환경을 조성하고 고객 불만 및 민원 처리, 서비스 품질 개선 활동의 실효성 등 고객만족 경영체제를 구",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "중소벤처기업진흥공단 충청연수원이 고객만족경영시스템 국제표준인 'ISO 10002' 인증을 획득해 고객 중심 서비스 강화를 공식화했다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202608/48383_47047_122_v150.jpg",
+    "score": 3.939,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Lenovo confirms Legion Go issues after gamers report bricked devices",
+    "url": "https://www.theverge.com/games/983457/lenovo-bad-legion-go-bios-update-bricked",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-08-24T23:38:10+00:00",
+    "raw_excerpt": "When a company's software update turns your computer into a useless brick, should fixes be free? Framework, the modular computer startup, apparently thinks so. But it's not clear that computing giant Lenovo will go that far. Three weeks after a Redditor presented a nearly $300 repair bill for their handheld gaming PC - among other [ ]",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Lenovo가 소프트웨어 업데이트 후 Legion Go 게이밍 기기가 작동 불능 상태가 되는 문제를 확인했으며, 무료 수리 여부가 명확하지 않다.",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/verge-legion-go-sean-hollister-1-2.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "score": 3.359,
+    "engagement": 0,
+    "matched_keywords": [
+      "startup"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "How Universities Should Prepare Founders",
+    "url": "https://paulgraham.com/prepare.html",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-25T01:40:39+00:00",
+    "raw_excerpt": "Article URL: https://paulgraham.com/prepare.html Comments URL: https://news.ycombinator.com/item?id=49428121 Points: 31 # Comments: 27",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "대학이 창업가 육성을 위해 실무 중심의 교육과 실패 경험을 적극 지원해야 한다는 주장.",
+    "thumbnail": "",
+    "score": 2.755,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Was Modern Art a CIA Psy-Op?",
+    "url": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-25T01:35:00+00:00",
+    "raw_excerpt": "Article URL: https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/ Comments URL: https://news.ycombinator.com/item?id=49428080 Points: 13 # Comments: 4",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "CIA가 냉전 시대 현대미술을 문화 전파 수단으로 지원했다는 주장에 대한 역사적 검증 기사.",
+    "thumbnail": "",
+    "score": 2.752,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  }
+]
