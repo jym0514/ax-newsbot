@@ -1,0 +1,723 @@
+[
+  {
+    "title": "벡터, AI 에이전트 및 MCP 적용한 ‘CANoe’ 무료 공개...개발·테스트 워크플로우 자동화 지원",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41620",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-27T09:04:14+00:00",
+    "raw_excerpt": "차량 네트워크 및 임베디드 시스템 개발 분야에서 소프트웨어 솔루션을 제공하는 글로벌 기업 벡터코리아(지사장 장지환)는 자사의 대표적인 개발 및 테스트 환경인 ‘CANoe’에 차세대 AI 에이전트와 MCP(Model Context Protocol, 모델 컨텍스트 프로토콜) 기능을 새롭게 적용해 통합 워크플로우 자동화를 구현했다고 27일 밝혔다.이번 업데이트를 통해 CANoe 사용자는 자연어로 프롬프트(Prompt)를 입력하는 것만으로 신규 개발, 통신 분석, 테스트 작업 등 복잡한 수행 절차를 자동화할 수 있게 되었다. 전문화된 AI",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "벡터가 자사의 차량 네트워크 개발·테스트 도구 'CANoe'에 AI 에이전트와 MCP 기능을 추가해 자연어 프롬프트로 워크플로우를 자동화할 수 있도록 업데이트했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41620_62637_46_v150.jpg",
+    "score": 9.454,
+    "engagement": 0,
+    "matched_keywords": [
+      "mcp",
+      "model context protocol",
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "모티프, 독파모 2차 평가 이의제기… “심사 기준 납득 어려워”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214437",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-27T11:35:55+00:00",
+    "raw_excerpt": "모티프테크놀로지스(대표 임정환)가 독자 AI 파운데이션 모델 2차 평가 결과에 대해 정식으로 이의를 제기했다. 글로벌 벤치마크 최고점에도 불구하고 탈락한 평가 기준의 정당성과 사업 방향성에 의문을 표했다.모티프테크놀로지스는 27일 입장문을 통해 \"독자 AI 파운데이션 모델 사업 2차 단계 선정 결과와 관련해 정식으로 이의 제기 신청서를 제출했다\"고 밝혔다. 평가 항목별 상세 점수와 판단 근거, 벤치마크 배점 산정 방식, 사용자 평가 방법론, 전문가 평가 기준 등을 투명하게 공개해달라고 요청했다. 당초 평가 직후 수긍하는 모습을 보였",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "모티프테크놀로지스가 글로벌 벤치마크 최고점을 기록했음에도 불구하고 독자 AI 파운데이션 모델 2차 평가에서 탈락한 결과에 대해 심사 기준의 투명성을 요청하며 정식 이의를 제기했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214437_218126_1520.png",
+    "score": 8.497,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "파운데이션 모델"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "\"한국 AI 활용 수준 글로벌 평균보다 1.7배 정교\"…AI 역량이 채용 및 생산성 핵심 요인으로 부상",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41626",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-27T11:50:24+00:00",
+    "raw_excerpt": "구글코리아는 글로벌 컨설팅 기관 퍼블릭 퍼스트(Public First)가 발표한 ‘AI로 주도하는 대한민국의 성장과 혁신’ 보고서를 인용해, 한국의 평균 인공지능(AI) 활용 수준이 글로벌 평균보다 1.7배 더 정교하며 국내 기업의 채용 현장에서 AI 실무 역량이 최우선 과제로 부상하고 있다고 27일 밝혔다.설문에 응답한 근로자의 40%는 채용 시 기업이 AI 역량을 갖춘 지원자를 우선시한다고 답했다. 인재 역량의 필수 요건에 대한 질문에서는 ‘AI 기반 도구 활용 능력(35%)’이 가장 높은 비중을 차지했다. 이어 ‘새로운 기술을",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "한국의 AI 활용 수준이 글로벌 평균의 1.7배이며, 기업들이 채용 시 AI 역량을 최우선 기준으로 삼고 있다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41626_62650_4955_v150.jpg",
+    "score": 7.861,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "ams OSRAM, 디지털 포토닉스로 휴머노이드 로봇의 시각·촉각·소통 능력 지원",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41625",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-27T11:39:24+00:00",
+    "raw_excerpt": "혁신적인 조명 및 센서 솔루션 분야의 세계적인 선도기업인 ams OSRAM(한국 대표 심한섭)은 자사의 첨단 디지털 포토닉스 기술을 통해 휴머노이드 로봇이 주변 환경을 정확하게 인식하고, 물체를 정밀하게 다루며, 사람과 자연스럽게 소통할 수 있도록 지원한다고 27일 밝혔다.인공지능(AI)이 고도화되면서 휴머노이드 로봇은 사물을 식별하고, 복잡한 지시를 수행하며, 자연어에도 반응할 수 있는 수준으로 발전하고 있다. 그러나 가정과 병원, 업무 공간처럼 사람을 중심으로 설계된 환경에서 활용되려면 안전하게 이동하고, 인간의 손에 맞게 만들",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "ams OSRAM이 디지털 포토닉스 기술으로 휴머노이드 로봇의 시각·촉각·소통 능력을 향상시켜 인간 중심 환경에서의 활용을 지원한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41625_62649_3824_v150.jpg",
+    "score": 7.848,
+    "engagement": 0,
+    "matched_keywords": [
+      "휴머노이드",
+      "휴머노이드 로봇"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "“AI 도입보다 성과가 먼저”...팀스파르타, 기업 AX 4단계 로드맵 공개",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21432",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-08-27T09:03:11+00:00",
+    "raw_excerpt": "팀스파르타는 26일 서울 코트야드 바이 메리어트 타임스퀘어에서 ‘AI 활용을 넘어, 이제는 성과로 증명해야 하는 시기’를 주제로 AX ROI 세미나를 개최했다. 행사에는 주요 기업의 인사·인사교육(HR·HRD) 담당자 60여 명이 참석했다. 이날 팀스파르타는 기업의 AI 역량을 진단하는 ‘AXPI(AX Performance Index)’도 처음 공개했다. 단순히 생성형 AI를 사용할 수 있는지를 확인하는 수준에서 벗어나 조직의 현재 역량과 취약점을 데이터로 파악하고, 이를 기반으로 교육과 업무 적용 방향을 설계하는 것이 목표다. 팀",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "팀스파르타가 AI 도입 성과 측정을 위한 'AXPI' 진단 지표와 4단계 로드맵을 공개하며 단순 AI 사용 수준에서 벗어나 조직 역량 강화에 중점을 두고 있다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202608/21432_22147_028.jpg",
+    "score": 7.84,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직",
+      "ax",
+      "ai 도입"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "KAIST, 써모 피셔 사이언티픽과‘자율실험실’구축…AI가 설계하고 로봇이 실험한다 새창으로 읽기",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41623",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-27T11:32:31+00:00",
+    "raw_excerpt": "KAIST가 인공지능과 로봇이 실험을 스스로 설계하고 수행하는 ‘자율실험실(Autonomous Lab)’ 연구를 위해 써모 피셔 사이언티픽(Thermo Fisher Scientific)과 손잡고, 과학 연구와 신약개발의 속도를 높일 차세대 자율형 연구 허브 ‘SHARE Hub’를 구축한다.KAIST(총장 배충식)는 써모 피셔 사이언티픽과 ‘SHARE Hub’ 구축 및 전략적 협력을 위한 업무협약(MOU)을 26일 체결했다고 27일 밝혔다.이날 협약식에는 KAIST 배충식 총장을 비롯해 써모 피셔 사이언티픽 댄 샤인(Dan Shine",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "KAIST가 써모 피셔 사이언티픽과 손잡고 AI가 실험을 설계하고 로봇이 수행하는 자율실험실 'SHARE Hub'를 구축해 과학 연구와 신약개발을 가속화한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41623_62647_2935_v150.jpg",
+    "score": 7.839,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "이노그리드, 전 직원에 ‘클로드’ 쓴다...AI 전환 성과를 KPI로 검증",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21431",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-08-27T08:57:51+00:00",
+    "raw_excerpt": "이노그리드가 생성형 인공지능(AI)을 전사 업무에 본격적으로 투입한다. 전 직원이 생성형 AI를 활용할 수 있도록 ‘클로드’ 라이선스를 지원하고, 제품 개발과 비개발 조직의 업무 방식을 동시에 바꾸는 ‘AX혁신TF’를 가동한다.단순히 AI 도구를 배포하는 데 그치지 않고 실제 생산성과 투자 대비 효과(ROI)를 측정해 활용 범위를 결정한다는 점이 이번 전략의 핵심이다. AI 사용 횟수나 접속량보다 개발 기간과 업무 소요시간이 얼마나 줄었는지, 제품 품질이 개선됐는지를 성과 기준으로 삼겠다는 것이다. AX혁신TF는 제품 개발을 담당하",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "이노그리드가 전 직원을 위해 Claude 라이선스를 지원하고 개발 기간 단축, 품질 개선 등 실질적 ROI를 KPI로 검증하며 AI 전환을 추진한다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202608/21431_22146_540.jpg",
+    "score": 7.834,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "생성형 ai"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "中 지푸AI, 차세대 모델 ‘GLM-5.3-Flash’ 오픈웨이트로 공개…“프런티어급 AI 성능을 10분의 1 비용으로”",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41624",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-27T10:57:48+00:00",
+    "raw_excerpt": "중국 인공지능 기업 지푸AI(Zhipu AI. 이하, Z.ai)가 프런티어급 인공지능(AI) 성능을 낮은 추론 비용으로 제공하는 차세대 모델 ‘GLM-5.3-Flash’를 공개했다.Z.ai는 26일(현지시간) GLM-5.3-Flash를 발표하고, 이 모델이 GLM-5 시리즈 최초의 네이티브 멀티모달 모델이라고 밝혔다. 총 3,200억 개의 파라미터를 갖추면서 실제 추론 과정에서는 180억 개의 활성 파라미터만 사용하는 것이 핵심이다.Z.ai는 GLM-5.3-Flash가 기존 GLM-5.2보다 다양한 벤치마크와 실제 작업에서 향상된",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "지푸AI가 프런티어급 성능을 기존의 10분의 1 비용으로 제공하는 차세대 모델 'GLM-5.3-Flash'를 오픈웨이트로 공개했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41624_62646_5257_v150.jpg",
+    "score": 7.796,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "\"AI가 혈액 속 DNA로 대장암 진단\"...서울아산병원, ‘혈액검사’만으로 대장암 조기 진단 가능성 열어",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41621",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-27T09:45:19+00:00",
+    "raw_excerpt": "대장암은 우리나라 암 발생률 3위다. 조기에 발견하면 생존율이 95% 이상이지만, 번거로운 대장암 검진 과정 때문에 암을 늦게 발견하는 경우도 있다.최근 국내 연구진이 혈액을 이용한 대장암 진단검사가 매우 높은 정확도를 보인다는 연구 결과를 발표했다. 대변을 직접 채취하거나 검사 전 장을 비우는 등 기존 검진의 불편한 과정 없이 채혈만으로 대장암을 조기에 진단하는 가능성이 열릴 것으로 기대된다.서울아산병원 소화기내과 변정식·홍승욱 교수팀은 인공지능(AI)을 활용해 혈액검사만으로 대장암을 진단할 수 있는 ‘세포유리DNA 혈액진단법’으",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "서울아산병원 연구팀이 AI를 활용해 혈액 속 DNA 분석으로 대장암을 조기 진단하는 기술을 개발, 번거로운 기존 검진 과정을 획기적으로 단순화할 수 있는 길을 열었다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41621_62639_4423_v150.jpg",
+    "score": 7.705,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "오픈AI, 첫 자체 추론 칩 '할라피뇨' 성능 공개...\"블랙웰보다 3.6배 빨라\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214379",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-26T13:29:42+00:00",
+    "raw_excerpt": "오픈AI가 브로드컴과 공동 개발한 자체 설계 AI 추론 전용 칩 ‘할라피뇨(Jalapeño)’의 첫 공개 벤치마크에서 엔비디아의 최신 블랙웰 기반 시스템을 앞서는 성능을 입증했다. 특히 전력 대비 처리량과 응답 지연시간을 동시에 개선하면서, 추론 시장에서 자체 칩의 경쟁력을 과시했다는 평가다.오픈AI는 25일(현지시간) 스탠포드대학교에서 열린 반도체 컨퍼런스 ‘핫 칩스(Hot Chips)’에서 할라피뇨의 성능 테스트 결과를 공개했다.세미애널리시스의 공개 추론 성능 평가인 ‘인퍼런스X(InferenceX)’에서 'GPT-OSS 120",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "오픈AI가 브로드컴과 공동개발한 자체 추론 칩 '할라피뇨'가 엔비디아 블랙웰보다 3.6배 빠른 성능을 보이며 AI 추론 시장에서의 자체 칩 경쟁력을 입증했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214379_218076_538.png",
+    "score": 7.676,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai",
+      "엔비디아"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "[게시판] 루닛, 의료 특화 AI 모델 활용 해커톤 등 단신",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214423",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-26T17:00:00+00:00",
+    "raw_excerpt": "■ 의료 AI 전문 루닛(대표 서범석)은 지난 21~22일 본사에서 과학기술정보통신부와 정보통신산업진흥원(NIPA)이 후원하는 '의료 특화 파운데이션 모델 해커톤'을 진행했다고 밝혔다. 과기부의 국가 전략사업인 ‘AI 특화 파운데이션 모델’ 프로젝트를 통해 개발한 ‘L2-프리뷰’ 파운데이션 모델을 활용했다. AI 개발자와 대학·대학원생, 임상의, 엔지니어 등 다양한 분야의 전문가로 구성된 15개 팀, 총 70여 명이 참여했다. ■ 카카오(대표 정신아)는 지역 AI 인재·기업 육성 추진 기구 ‘카카오 AI 돛’이 지난 21~22일 지",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "루닛이 의료 특화 파운데이션 모델 'L2-프리뷰'를 활용한 해커톤을 개최해 70여 명의 AI 개발자와 임상의 등이 참여했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214423_218115_727.png",
+    "score": 6.986,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "파운데이션 모델"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "마키나락스, 삼성디스플레이 베트남 공장에 'AI 설비 제어 솔루션' 적용",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214389",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-26T15:53:12+00:00",
+    "raw_excerpt": "마키나락스(대표 윤성호)는 삼성디스플레이 베트남 공장에 AI 기반 설비 제어 최적화를 위한 협력에 나선다고 26일 밝혔다.이번 협력은 상반기 개념검증(PoC) 성과를 바탕으로 올해 말까지 베트남 공장의 실제 양산 라인에 솔루션을 적용하는 것을 목표로 한다.제조 공장의 생산 설비는 제어기(PLC)라는 소형 컴퓨터의 명령에 따라 작동한다. 공정 변경과 신제품 대응이 반복되면서 명령 코드가 수십 년간 누적되고, 용량이 정해진 PLC 메모리는 한계에 도달한다.이에 따라 새로운 기능이나 대형언어모델(LLM) 기반 연산·추론을 처리할 공간이",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "마키나락스가 AI 설비 제어 솔루션을 삼성디스플레이 베트남 공장에 적용하여 제조 공정 최적화에 나선다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214389_218082_5821.png",
+    "score": 6.895,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "llm"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "아마존 HR 총괄 '베스 갈레티' 부사장, “25년 만에 AI로 다시 코딩”…10만 줄 코드 작성",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41616",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-26T20:50:24+00:00",
+    "raw_excerpt": "아마존의 인사 조직을 이끄는 수석부사장이 25년 만에 인공지능(AI)을 활용해 다시 코딩을 시작해 10만 줄 이상의 코드를 작성한 경험을 공개했다.베스 갈레티(Beth Galetti) 아마존 수석부사장(SVP)은 25일, AI 기반 개발 도구를 활용해 직접 애플리케이션을 개발한 경험과 함께, 직원들의 AI 활용 역량을 높이기 위한 아마존의 대규모 인재 투자 계획을 소개했다.갈레티 부사장은 현재 아마존의 글로벌 인사 조직인 ‘피플 익스피리언스 앤드 테크놀로지(People Experience and Technology)’를 이끌고 있다",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "아마존 HR 총괄 베스 갈레티 부사장이 25년 만에 AI 개발 도구로 10만 줄 이상의 코드를 작성하며 직원들의 AI 활용 역량 강화 계획을 공개했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41616_62632_4937_v150.jpg",
+    "score": 6.736,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "[게시판] SK AX, SAP와 'AI 엔터프라이즈' 협력 강화 등 단신",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214425",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-26T17:00:00+00:00",
+    "raw_excerpt": "■ SK AX(사장 김완종)는 SAP와 전략적 협력을 통해 AI 네이티브 엔터프라이즈 구현에 나선다고 밝혔다. SK AX는 '엑스젠틱와이어 ERP 스위트'를 중심으로 ERP 전략 수립부터 구축·전환·운영 혁신까지 지원하는 통합 서비스를 제공하고, SAP의 마켓플레이스 'AI 에이전트 허브'를 통해 글로벌 시장에 공급할 계획이다.■ SK텔레콤(대표 정재헌)은 2026 아이치·나고야 아시안게임을 앞두고, '팀 SKT' 출정식을 개최했다고 밝혔다. 이번 훈련 과정에는 SKT의 자체 펜싱 AI 전력분석 시스템 'SKT-FAN'이 도입됐다.",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "SK AX가 SAP와 협력해 AI 네이티브 엔터프라이즈 구현을 위해 ERP 통합 서비스를 제공하고 글로벌 시장 공급을 추진한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214425_218116_3119.jpg",
+    "score": 6.011,
+    "engagement": 0,
+    "matched_keywords": [
+      "ax"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Three research groups—Stanford’s Social and Language Technologies lab, Oxford’s Human Information Processing Lab, and METR—designed independ",
+    "url": "https://t.co/SVzAB0InAs",
+    "source": "X @AnthropicAI",
+    "source_type": "x",
+    "published_at": "2026-08-26T17:12:53+00:00",
+    "raw_excerpt": "Three research groups—Stanford’s Social and Language Technologies lab, Oxford’s Human Information Processing Lab, and METR—designed independent studies to analyze the aggregated outputs from 250,000 \nhttps://\nClaude.ai or Claude Code conversations between April and May 2026.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Stanford, Oxford, METR 연구팀이 2026년 4월~5월 Claude.ai 대화 25만 건을 분석해 AI 출력물의 집단적 특성을 독립적으로 연구했다.",
+    "thumbnail": "",
+    "score": 5.591,
+    "engagement": 19536,
+    "matched_keywords": [
+      "claude",
+      "claude code"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "AI 에이전트, 해커 공격 '회사 지시'로 착각…90% 뚫렸다",
+    "url": "https://zdnet.co.kr/view/?no=20260827094840",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-27T00:52:38+00:00",
+    "raw_excerpt": "[지디넷코리아]AI 에이전트가 해커 사이버 공격을 회사 지시로 착각해, 시스템을 공격자 뜻대로 바꿔준 사례가 공개됐다.26일(현지시간) 미국 IT 매체 벤처비트에 따르면, 보안업체 테넷 시큐리티는 해킹 컨퍼런스 데프콘 34에서 '고스트재킹'이라는 공격 기법을 시연했다. AI 에이전트가 보안 기록에 남은 공격자 문구를 명령으로 인식해 회사의 도메인 주소 설정을 바꾸는 방식이다.실험은 앤트로픽 코딩 도구 '클로드 코드'로 진행했다. 그 결과 AI는 90% 확률로 공격자가 심은 명령을 그대로 수행했다.공격은 보안 시스템이 걸러낸 공격 문구를 AI 에이전트가 회사의 명령으로 잘못 읽으면서 이뤄졌다. 먼저 공격자가 웹사이트 보안 서비스 클라우드플레어에 악성 문구가 담긴 요청을 보냈다. 보안 시스템은 이를 정상적으로 걸러냈지만 걸러낸 문구는 보안 기록에 그대로 남았다. 이후 이 기록을 검토하던 AI 에이전트가 회사 지시와 공격자가 심은 문구를 구분하지 못했고 몇 달 전 회사가 내준 권한으로 공격자가 심은 내용을 그대로 실행했다.이 공격은 기존 보안 체계에 걸리지 않는다. 보안 시스템은 정상 작동했고 이후 조작은 모두 에이전트가 이미 부여받은 정당한 권한으로 이뤄졌기 때문이다. 침입 탐지 시스템과 웹 방화벽, 계정 관리 시스템도 반응하지 않았다. 위반된 보안 규칙이 없어서다. 테넷은 이 같은 취약 구조가 노출된 정황을 48개 조직에서 확인했다고 ",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "보안업체가 AI 에이전트가 해커의 악성 명령을 회사 지시로 착각해 90% 확률로 시스템을 조작하는 '고스트재킹' 공격을 시연해 새로운 보안 위협이 드러났다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/27/44d4983522acab50dca98f8f5a42e7bd.png",
+    "score": 5.279,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Engineerification - 전문직이 엔지니어처럼 변해간다",
+    "url": "https://news.hada.io/topic?id=32932",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-08-27T02:10:02+00:00",
+    "raw_excerpt": "수학자, 디자이너, 분석가, 법률가 등 서로 다른 전문직에서 저장소, 에이전트, 테스트, 자동화, 형식 명세, 피드백 루프 를 활용하는 작업 방식이 확산되고 있으며, 이를 engineerification 이라 부를 수 있음 핵심 변화는 모두가 코딩을 배우는 것이 아니라, 도메인 전...",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "수학자, 디자이너, 법률가 등 다양한 전문직이 저장소, 자동화, 테스트 등 엔지니어링 방식을 채택하는 'engineerification' 현상이 확산되고 있다.",
+    "thumbnail": "https://social.news.hada.io/topic/32932?v=94c222a65886503c2747618f5ce70ba2",
+    "score": 5.197,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "중소벤처기업인증원, 정부조달기술진흥협회와 상호협력 협약",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48502",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-27T10:52:05+00:00",
+    "raw_excerpt": "[스마트타임스]중소벤처기업인증원(KOSRE)은 (사)정부조달기술진흥협회와 지난 25일 조달·인증 분야 상호 협력과 기업 지원 강화를 위한 업무협약을 체결했다고 26일 밝혔다.이번 협약은 양 기관의 전문성과 네트워크를 바탕으로 기업의 조달시장 진입을 지원하고 ISO 인증 및 ESG 경영 등 기업의 경쟁력 강화를 돕기 위해 마련됐다.협약에 따라 중소벤처기업인증원은 정부조달기술진흥협회 사업과 조달 관련 전문교육을 홍보하고, 조달시장 진입을 희망하는 기업을 연계한다. 또한 협회 및 소속 회원사를 대상으로 ISO 인증, ESG 경영 수준진단",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "중소벤처기업인증원과 정부조달기술진흥협회가 조달시장 진입과 ISO·ESG 인증 지원 강화를 위해 업무협약을 체결했다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202608/48502_47193_5125_v150.jpg",
+    "score": 5.166,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "— Try it out in the ",
+    "url": "https://t.co/mGPWSdloR8",
+    "source": "X @GoogleAI",
+    "source_type": "x",
+    "published_at": "2026-08-26T17:07:00+00:00",
+    "raw_excerpt": "— Try it out in the \n@Geminiapp\n on macOS and Gboard on \n@Android\n\n— Build in the Gemini API via \n@googleaistudio\n, \n@antigravity\n,  and the Gemini Enterprise Agent Platform (public preview)\n— Coming soon to \n@googlechrome\n and Gemini Enterprise for Customer Experience\n\nLearn more:",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "제목과 원문이 불완전하여 정확한 요약이 어렵습니다. 기사의 전체 제목과 본문 내용을 제공해 주시면 정확한 1줄 요약을 작성하겠습니다.",
+    "thumbnail": "",
+    "score": 5.087,
+    "engagement": 8227,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Git을 어떤 규모에서도 확장하는 법 - Cursor의 새 Git 저장 시스템 Continuity",
+    "url": "https://news.hada.io/topic?id=32926",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-08-27T00:15:02+00:00",
+    "raw_excerpt": "Git은 로컬에서는 단순하지만 서버에서 대규모로 호스팅하면 packfile의 랜덤 접근 패턴, 강한 일관성 요구, 복제 비용 때문에 확장성과 운영 복잡도가 크게 올라감 GitHub의 Spokes는 로컬 NVMe에 실제 Git 저장소를 두고 여러 복제본을 3-phase commit으로 동기화하는 방식으로 업...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Cursor가 대규모 Git 저장소의 확장성 문제를 해결하기 위해 Continuity라는 새로운 저장 시스템을 개발했으며, GitHub의 Spokes와 유사하게 로컬 NVMe와 3-phase commit을 활용한다.",
+    "thumbnail": "https://social.news.hada.io/topic/32926?v=f5b0f829e72a0cf8b278f124f480eb35",
+    "score": 5.077,
+    "engagement": 0,
+    "matched_keywords": [
+      "cursor"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "전기 끊기면 문 못 여나…테슬라·현대차 비상시 탈출법 차이는",
+    "url": "https://zdnet.co.kr/view/?no=20260826093107",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-27T01:13:14+00:00",
+    "raw_excerpt": "[지디넷코리아]전기차 디자인의 상징처럼 자리 잡은 매립형 도어 손잡이가 안전 논란의 중심에 섰다. 평소에는 공기저항을 줄이고 외관을 깔끔하게 만드는 장치지만, 충돌이나 화재로 전원이 끊기는 순간 탑승자 탈출과 신속한 인명 구조를 어렵게 할 수 있다는 우려가 커지고 있다. 해외 규제 움직임과 국내 제도 현황, 주요 전기차의 비상 개방 구조까지 두 편에 걸쳐 짚어봤다. [편집자주]국내에서도 전기차를 중심으로 매립형 도어 손잡이가 빠르게 확산되고 있지만 비상 상황에서 문을 여는 방식은 차종별로 천차만별이다. 같은 매립형 손잡이라도 전원이 끊겼을 때 평소 사용하던 손잡이로 문을 열 수 있는 차량이 있는 반면, 별도 비상 레버나 기계식 케이블을 찾아야 하는 차량도 있다.전기차 도어 안전성을 따질 때는 외부 손잡이와 실제 문을 열어주는 래치를 구분해서 볼 필요가 있다. 차체 안으로 들어가는 '오토 플러시 핸들'은 외부 손잡이의 형태와 작동 방식이고, 전자식 래치는 버튼이나 센서의 전기 신호를 받아 문 잠금장치를 풀어주는 구조다. 매립형 손잡이를 쓴다고 모두 전자식 래치를 사용하는 것은 아니라는 의미다.현재 국내 판매 사양을 기준으로 현대차 아이오닉 5·6·9와 기아 EV4·EV5·EV6·EV9, 제네시스 GV60 등 주요 전기차에는 차량 잠금 해제 시 자동으로 돌출되는 오토 플러시 타입 외부 손잡이가 적용돼 있다. EV3는 1열에 오토 플러시 ",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "전기차의 매립형 도어 손잡이가 정전 시 탈출을 어렵게 할 수 있어 안전 논란이 커지고 있으며, 현대·기아 등 제조사별로 비상 개방 방식이 상이하다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/03/5c028f71b6ae48bc47e7161aa841bb51.jpg",
+    "score": 4.624,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Mitrade, 아시아 차세대 부상 속 월드 스누커 투어 공식 트레이딩 파트너로 후원",
+    "url": "https://zdnet.co.kr/view/?no=20260827101003",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-27T01:10:03+00:00",
+    "raw_excerpt": "[지디넷코리아] 서울, 대한민국 2026년 8월 27일 /PRNewswire/ -- Mitrade가 월드 스누커 투어(World Snooker Tour, WST)의 공식 트레이딩 파트너로서 후원에 나섰다. 이번 후원은 아시아태평양 지역 리테일 트레이딩 인구의 연령대가 눈에 띄게 낮아지는 추세 속에 이뤄진 것이다. CME그룹(CME Group)에 따르면, 이 지역의 참여율은 지난 5년간 16% 증가했으며, 젊은 동남아시아 투자자들이 이러한 성장의 상당 부분을 주도하고 있다. 이와 동일한 세대교체는 또한 스누커의 팬층을 재편하고 있다. 타임(TIME)이 보도한 WST 데이터에 따르면 영국 내 스누커 팬 중 50세 이하 비중이 27%인 반면, 중국에서는 스누커 팬의 80%가 50세 이하인 것으로 나타났다. 이러한 흐름들은 재무 교육과 규율 있는 의사결정의 필요성을 뒷받침한다. Mitrade는 바로 이 세대와 함께 성장해 왔다. 그룹 측에 따르면 2026년 1월 이후 활성 트레이딩 고객은 전년 대비 54% 증가했으며, 거래 건수는 79%, 총거래 랏(lot) 수는 149% 증가했다. 이번 WST 후원은 Mitrade에게 성장하는 트레이더와 팬 커뮤니티와의 관계를 심화할 수 있는 국제적인 플랫폼을 제공한다. Mitrade 그룹의 케빈 라이(Kevin Lai) 부사장은 \"월드 스누커 투어는 전 세계적으로 강력한 팬층을 보유한 명망 높은 국제 플",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "Mitrade가 아시아 시장 젊은 세대 투자자 급증 속에 월드 스누커 투어 공식 트레이딩 파트너로 후원하며 브랜드 확장에 나섰다.",
+    "thumbnail": "https://zdnet.co.kr/images/default_img.jpg",
+    "score": 4.621,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "LS이링크-동아일렉콤, '전기버스' 충전 인프라 구축 맞손",
+    "url": "https://zdnet.co.kr/view/?no=20260827093745",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-27T00:51:14+00:00",
+    "raw_excerpt": "[지디넷코리아]LS그룹의 전기차 충전 인프라 자회사인 LS이링크와 전원 시스템 전문 기업 동아일렉콤이 지난 26일 전기버스 충전 인프라 구축 및 충전 시장 확대를 위한 업무협약(MOU)을 체결했다고 27일 밝혔다.이번 협력은 LS와 LIG 그룹이 지난해 3월 방위산업, 전력, 에너지, 통신 등 다양한 산업 영역에서 핵심 역량과 자원을 공유하기로 맺은 업무협약의 일환이다. LS이링크와, LIG그룹이 미래 성장동력 육성을 위해 지난해 인수한 동아일렉콤이 손을 잡음으로써, 양 그룹 간의 친환경 모빌리티 인프라 시장 공략이 한층 구체화될 전망이다.이번 협약은 국내 전기버스 충전 사업자 LS이링크의 인프라 구축·운영 역량과 동아일렉콤이 보유한 50년 전력 변환 기술력을 결합하기 위해 마련됐다. 양 사는 버스 차고지를 중심으로 안정적인 고출력 충전 인프라를 공동 구축하고, 차세대 대형 모빌리티 충전 모델을 발굴하는 데 역량을 집중할 계획이다.세부 협력 분야는 ▲ 전국 운수사업자 대상 전기버스 충전 인프라 구축 ▲ 240kW급 고출력 충전 솔루션 공급 확대 ▲ 충전 인프라 운영·관제 및 유지보수 협력 ▲ 대형 모빌리티 기반 차세대 충전 모델 공동 개발 등이다.김대근 LS이링크 대표는 “전기 상용차 시장이 급성장함에 따라 충전 인프라의 안정적인 전력 공급과 품질 확보가 핵심 과제로 떠오르고 있다”며 “이번 협력을 통해 충전기 분야의 우수한 기술력을",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "LS이링크와 동아일렉콤이 전기버스 충전 인프라 구축을 위해 손을 잡고, 240kW급 고출력 충전 솔루션 공급과 차세대 충전 모델 개발에 협력한다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/27/c06cb6ded79f100b3ba26088bf636066.jpg",
+    "score": 4.603,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "세라젬, 'BCI 얼라이언스' 참여…뇌과학 미래 헬스케어 협력",
+    "url": "https://zdnet.co.kr/view/?no=20260827093832",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-27T00:49:55+00:00",
+    "raw_excerpt": "[지디넷코리아]세라젬이 뇌-컴퓨터 인터페이스(BCI) 산·학·연·병 생태계 구축에 참여해 미래 헬스케어 기술 경쟁력 강화에 나선다.세라젬은 지난 26일 서울 중구 더 플라자 호텔에서 열린 ‘BCI 얼라이언스 출범식’에 참석했다고 27일 밝혔다.과학기술정보통신부가 주최하고 한국BCI협회, 한국뇌연구원, 와이브레인, 한국연구재단이 공동 주관한 이번 행사에는 김성수 과기정통부 연구개발정책실장과 백남종 한국BCI협회장 등 주요 인사가 참석했다.BCI 얼라이언스는 국내 BCI 분야 연구자, 기업, 의료기관, 연구기관을 연결하는 협력 플랫폼이다. BCI 기초 연구부터 임상, 제품 상용화까지 이어지는 산업 생태계를 활성화하기 위해 출범했다.이경수 세라젬 대표이사는 한국BCI협회 회원사로서 공식 출범을 선언하는 주요 인사 9인에 이름을 올렸다.세라젬은 이번 얼라이언스 참여를 통해 연구기관 및 의료계와 협력하고 BCI 기술을 활용한 신규 헬스케어 비즈니스 기회를 모색한다. 28년간 축적한 홈 헬스케어 의료기기 기술력과 임상 노하우를 BCI 기술과 결합해 차세대 맞춤형 헬스케어 솔루션으로 영역을 넓혀갈 계획이다.BCI는 뇌파 신호를 분석해 외부 기기를 제어하는 차세대 융합 기술로 의료·재활 및 디지털 헬스케어의 핵심 기술로 꼽힌다. 지난 6월에는 국가 전략기술 육성 및 산업 지원을 위한 한국BCI협회가 공식 출범했으며 세라젬, 와이브레인 등이 회원사로",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "세라젬이 BCI 얼라이언스에 참여해 뇌-컴퓨터 인터페이스 기술과 홈 헬스케어 기술을 결합한 차세대 맞춤형 헬스케어 솔루션 개발에 나선다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/27/79ea924e65a91eaf91abe4c603a4453b.jpg",
+    "score": 4.602,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Headlong - 스스로 계속 생각하는 지속형 에이전트를 위한 마이크로 하네스",
+    "url": "https://news.hada.io/topic?id=32906",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-08-26T12:29:48+00:00",
+    "raw_excerpt": "사용자의 요청이 없어도 스스로 계속 생각하고 행동하는 지속형 에이전시 를 실험하는 오픈소스 에이전트 하네스 일반 에이전트가 요청을 처리한 뒤 멈추는 것과 달리, 하나의 생각 흐름을 계속 유지하면서 관심사·우선순위·프로젝트를 스스로 정하고 필요하면 먼저 사람에게...",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Headlong은 사용자의 요청이 없어도 스스로 계속 생각하고 행동하는 지속형 AI 에이전트를 위한 오픈소스 마이크로 하네스이다.",
+    "thumbnail": "https://social.news.hada.io/topic/32906?v=60c5347b4efcbcdfaf37c652478a29bb",
+    "score": 4.342,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+    "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-08-26T10:00:00+00:00",
+    "raw_excerpt": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "OpenAI가 ChatGPT for Teachers를 55개 미국 교육청으로 확대하여 10만 명 이상의 교육자와 직원에게 안전한 AI 도구와 교육 지원을 제공한다.",
+    "thumbnail": "",
+    "score": 3.628,
+    "engagement": 0,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Actinide is first startup to produce high-assay low-enriched uranium (HALEU)",
+    "url": "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-26T19:23:01+00:00",
+    "raw_excerpt": "Article URL: https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu Comments URL: https://news.ycombinator.com/item?id=49454419 Points: 139 # Comments: 71",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Actinide가 스타트업 중 처음으로 천연 우라늄을 고순도 저농축 우라늄(HALEU)으로 변환하는 데 성공했다.",
+    "thumbnail": "https://framerusercontent.com/images/rBYG7Qnh2s7EBRcWkkJu99Ug.webp?width=1800&height=1200",
+    "score": 2.945,
+    "engagement": 0,
+    "matched_keywords": [
+      "startup",
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Kusama Yayoi Dies at 97",
+    "url": "https://news.jp/i/1465528042000662661",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-27T02:21:18+00:00",
+    "raw_excerpt": "Article URL: https://news.jp/i/1465528042000662661 Comments URL: https://news.ycombinator.com/item?id=49458709 Points: 27 # Comments: 5",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "일본 전위미술가 쿠사마 야요이가 97세의 나이로 별세했다.",
+    "thumbnail": "https://img.jp.ekkowassets.com/c_fill,w_400,h_210,f_auto,g_faces,q_auto:eco/ch/images/1465533410048983179/origin_1.jpg",
+    "score": 2.778,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Getting video models to learn better, faster",
+    "url": "https://www.linum.ai/field-notes/data-filtering-gen-video",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-27T01:53:34+00:00",
+    "raw_excerpt": "Article URL: https://www.linum.ai/field-notes/data-filtering-gen-video Comments URL: https://news.ycombinator.com/item?id=49458502 Points: 9 # Comments: 0",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "비디오 생성 모델의 학습 효율을 높이기 위해 데이터 필터링 기법을 적용하면 더 빠르고 나은 학습이 가능하다는 연구 결과가 제시됐다.",
+    "thumbnail": "https://linum.ai/field-notes/data-filtering-gen-video/opengraph-image?25623195a8d991ca",
+    "score": 2.762,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Laion Big Video Dataset",
+    "url": "https://projects.laion.ai/bvd/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-27T01:50:26+00:00",
+    "raw_excerpt": "Article URL: https://projects.laion.ai/bvd/ Comments URL: https://news.ycombinator.com/item?id=49458478 Points: 7 # Comments: 0",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "LAION이 대규모 비디오 데이터셋 Big Video Dataset을 공개했습니다.",
+    "thumbnail": "",
+    "score": 2.761,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Mechanical Turk shutting down September 30",
+    "url": "https://www.mturk.com/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-26T23:55:44+00:00",
+    "raw_excerpt": "Article URL: https://www.mturk.com/ Comments URL: https://news.ycombinator.com/item?id=49457545 Points: 166 # Comments: 58",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Amazon Mechanical Turk가 9월 30일 종료되며, 크라우드소싱 기반 마이크로태스크 플랫폼의 역사가 막을 내린다.",
+    "thumbnail": "",
+    "score": 2.697,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Zohran and the Short Link",
+    "url": "https://iamwillwang.com/notes/zohran-and-the-short-link/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-26T23:50:15+00:00",
+    "raw_excerpt": "Article URL: https://iamwillwang.com/notes/zohran-and-the-short-link/ Comments URL: https://news.ycombinator.com/item?id=49457512 Points: 109 # Comments: 34",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Zohran이라는 짧은 링크 서비스의 작동 원리와 구현 방식을 다룬 기술 분석 글이 해커 뉴스에서 주목받고 있다.",
+    "thumbnail": "",
+    "score": 2.694,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022",
+    "url": "https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-26T22:44:03+00:00",
+    "raw_excerpt": "Article URL: https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html Comments URL: https://news.ycombinator.com/item?id=49456929 Points: 86 # Comments: 35",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "히말라야 산맥의 국경지역 빙하호 붕괴 시 최악의 홍수 시나리오를 분석한 연구가 발표되어 국경 지역의 재해 대응 중요성이 강조되고 있다.",
+    "thumbnail": "https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022-avatar-web.png",
+    "score": 2.657,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Asahi Linux Progress Report: Linux 7.2",
+    "url": "https://asahilinux.org/2026/08/progress-report-7-2/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-26T22:35:02+00:00",
+    "raw_excerpt": "Article URL: https://asahilinux.org/2026/08/progress-report-7-2/ Comments URL: https://news.ycombinator.com/item?id=49456851 Points: 93 # Comments: 10",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Asahi Linux 7.2 버전이 출시되어 Apple Silicon Mac의 Linux 지원이 한 걸음 더 발전했습니다.",
+    "thumbnail": "https://asahilinux.org/img/AsahiLinux_logomark_256px.png",
+    "score": 2.652,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Stripe acquires Clerky",
+    "url": "https://www.clerky.com/blog/clerky-is-joining-stripe",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-26T21:09:32+00:00",
+    "raw_excerpt": "https://twitter.com/darbyw/status/2092718828405096955 Comments URL: https://news.ycombinator.com/item?id=49455956 Points: 80 # Comments: 17",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Stripe이 법인설립 자동화 서비스 Clerky를 인수했다.",
+    "thumbnail": "https://cdn.prod.website-files.com/63d301263ccf9b604207d3a6/6a8f45e92158abde2d4dbc26_stripe-clerky%204.png",
+    "score": 2.605,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  }
+]
