@@ -1,0 +1,823 @@
+[
+  {
+    "title": "오픈AI \"에이전트 1200개 집단 행동 확인\"…허깅페이스 해킹 전말 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214495",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-27T16:17:09+00:00",
+    "raw_excerpt": "오픈AI가 발표한 '허깅페이스 해킹' 최종 보고서에서 이전에 공개되지 않았던 구체적인 수치와 기술적 전말이 드러났다. 알려진 것보다 해킹 사건의 규모는 훨씬 심각했던 것으로 확인됐다.오픈AI는 26일(현지시간) 크라우드스트라이크를 포함한 외부 자문가들과 협력해 상황을 검증, 사고에 대한 전체 보고서를 공개했다. 독립 평가 기관인 METR과 레드우드 리서치(Redwood Research)의 조사 결과가 함께 반영된 이번 발표에서는 이전에 공개되지 않았던 구체적인 침범 규모와 지능적인 속임수 행태, 그리고 OpenAI 내부 모니터링 체",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI가 공개한 허깅페이스 해킹 최종 보고서에서 1200개 에이전트의 집단 행동 등 이전에 드러나지 않았던 구체적인 침해 규모와 기술적 전말을 확인했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214495_218173_924.jpeg",
+    "score": 9.365,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "정부, 2030년까지 '휴머노이드 기술 국산화'에 2.7조 투입",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214497",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-27T14:10:00+00:00",
+    "raw_excerpt": "기획예산처(장관 박홍근)는 27일 서울 예금보험공사에서 제2차 재정운용전략협의회를 열고 '피지컬AI 기술 국산화'를 위한 장기 투자 계획을 밝혔다.회의에서는 ▲휴머노이드 생태계 육성을 위한 재정투자 방안 ▲8대 핵심분야 피지컬 AI 실증 추진 방안 ▲신성장 분야 혁신기업 육성방안 ▲전 부처 중소기업 지원사업 효율화 방안 등 4개 안건이 논의·확정됐다.특히, 정부는 2027년 6000억원, 2030년까지 총 2조3000억원(민간 매칭투자 포함 2조7000억원)을 투입해 휴머노이드 생태계를 키울 계획이다. 2030년까지 10대 업종별",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "정부가 2030년까지 휴머노이드 로봇 기술 국산화를 위해 총 2조7000억원(민간 투자 포함)을 투입하기로 결정했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214497_218184_3233.jpg",
+    "score": 9.193,
+    "engagement": 0,
+    "matched_keywords": [
+      "피지컬 ai",
+      "피지컬ai",
+      "휴머노이드"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "\"아이디·비번 노출 없다\"…챗GPT 워크, 웹사이트 직접 로그인 기능 탑재",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214479",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-27T17:39:56+00:00",
+    "raw_excerpt": "오픈AI가 사용자의 민감한 로그인 정보를 노출하지 않으면서 웹사이트에 직접 접속해 행정·업무를 수행하는 기능을 추가했다. '챗GPT'가 사용자를 대신해 서비스에 직접 접근할 수 있게 되면서, 자율형 AI 에이전트 시대가 본격화됐다는 평가가 나온다.오픈AI는 26일(현지시간) AI가 사용자를 대신해 웹사이트에 로그인하고 각종 업무를 처리할 수 있도록 ‘챗GPT 워크(ChatGPT Work)’의 기능을 강화했다.이제 챗GPT 워크는 사용자가 직접 아이디와 비밀번호를 챗GPT에 제공하지 않아도 암호로 보호된 웹사이트에 로그인한 뒤 필요한",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "OpenAI가 아이디·비밀번호를 노출하지 않으면서 ChatGPT Work로 웹사이트에 직접 로그인해 업무를 수행하는 기능을 추가했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214479_218164_2857.png",
+    "score": 8.502,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "\"모델 개발과 거리 멀어진다\"...구글 AI 책임팀 본사 편입에 내부 우려 확산",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214488",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-27T17:27:01+00:00",
+    "raw_excerpt": "구글이 차세대 AI 경쟁에서 모델 성능뿐 아니라 안전성과 책임 문제를 둘러싼 조직 체계까지 재정비하고 있다. 특히 프론티어 AI 모델의 위험성을 독립적으로 평가해 온 핵심 조직을 본사로 옮기며, AI 안전 연구를 회사 전체 차원의 정책과 제품 개발에 통합하고 있다. 26일(현지시간) 월스트리트저널(WSJ)에 따르면, 구글은 AI의 안전성과 사회적 영향을 연구해온 전담 조직을 자회사인 구글 딥마인드에서 분리해 본사 조직으로 편입한다.AI 모델의 화학·생물학·핵·방사능 등 고위험 분야의 위험을 평가하고 사용자 심리와 AI 상호작용까지",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "구글이 AI 안전 평가팀을 자회사 딥마인드에서 본사로 편입하며, 독립적 위험 평가 기능이 약화될 수 있다는 내부 우려가 확산되고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214488_218167_444.jpg",
+    "score": 8.485,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "딥마인드"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "탐지부터 조치까지 자동화...SKT 컨소시엄, 정부 보안 AI 사업 출사표",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214486",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-27T17:07:51+00:00",
+    "raw_excerpt": "SK텔레콤(대표 정재헌)이 업스테이지 및 국내 주요 보안 기업·학계와 손잡고 과학기술정보통신부 추진 ‘사이버 보안 특화 AI 파운데이션 모델’ 개발 사업에 본격 나선다고 27일 밝혔다.SKT가 주관사를 맡아 사업 전반을 이끌며, 업스테이지와 함께 모델 개발을 총괄하는 구조다. SKT와 업스테이지는 각각 보유한 '에이닷엑스 케이(A.X K)' 계열과 '솔라 오픈' 계열 모델을 기반으로 보안 분야에 특화된 AI 파운데이션 모델을 구축하게 된다.컨소시엄의 핵심 역할은 AI 모델 제작에 그치지 않고, 보안 현장 데이터를 접목해 실전에 즉시",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "SKT가 업스테이지 등과 컨소시엄을 구성해 사이버 위협 탐지부터 대응까지 자동화하는 보안 특화 AI 파운데이션 모델 개발 사업에 주관사로 참여한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214486_218166_3833.jpg",
+    "score": 8.459,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "사이버 보안"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "미니맥스, 상반기 매출 4배 뛰어도 적자 폭 확대...인프라 투자 부담 급증",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214491",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-27T16:15:00+00:00",
+    "raw_excerpt": "미니맥스가 올해 상반기 매출을 전년 동기 대비 약 4배로 끌어올리며 빠른 성장세를 이어갔다. 기업용 AI 플랫폼 사업이 폭발적으로 성장한 것이 실적을 견인했지만, AI 에이전트 개발과 모델 학습·추론에 필요한 컴퓨팅 인프라 투자 부담이 커지면서 대규모 적자도 지속됐다. 사우스차이나모닝포스트에 따르면, 미니맥스는 26일(현지시간) 올해 상반기 매출이 1억1660만달러(약 2300억원)로 전년 동기보다 283.1% 증가했다고 발표했다.지난해 연간 매출 성장률 159%를 크게 웃도는 증가폭이다. 다만 시장조사 업체가 집계한 올해 연간 매",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "미니맥스가 상반기 매출을 4배 증가시켰으나 AI 인프라 투자 확대로 적자 폭이 커졌다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214491_218170_01.jpg",
+    "score": 8.387,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "과기부, 독파모 프로젝트서 확보한 AI 학습용 데이터 29종 개방",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214500",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-27T16:10:00+00:00",
+    "raw_excerpt": "과학기술정보통신부(장관 배경훈)와 한국지능정보사회진흥원(NIPA, 원장 김형철)은 '독자 AI 파운데이션 모델' 프로젝트 5개 정예팀이 1차 단계평가 과정에서 확보한 총 29종(약 3544만건, 약 1.56조 토큰 규모)의 데이터를 AI허브 누리집에 공개한다고 27일 밝혔다.이번 개방 데이터는 독파모 참여 정예팀이 각자의 개발 전략에 맞춰 데이터 구축·가공 예산(150억원)을 통해 확보한 데이터다. 사전학습에 필요한 대규모 데이터셋부터 영상·음성 등 멀티모달, 안전성 확보를 위한 레드티밍 데이터 등으로 구성돼 있다. 토큰으로 환산하",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "과기부와 NIPA가 독파모 프로젝트에서 확보한 AI 학습용 데이터 29종(1.56조 토큰)을 AI허브를 통해 공개해 국내 AI 개발 생태계 지원에 나섰다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214500_218185_5014.jpeg",
+    "score": 8.381,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "파운데이션 모델"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "엔비디아, 마진 압박 우려 씻어낸 역대급 실적...\"장기 전망도 압도적\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214455",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-27T13:50:57+00:00",
+    "raw_excerpt": "엔비디아가 AI 인프라 수요 폭증에 힘입어 또다시 시장 전망을 뛰어넘는 역대급 실적을 기록했다. 메모리 가격 상승에 따른 마진 압박으로 시장 우려를 샀지만, 강력한 장기 성장 전망과 견조한 AI 수요를 앞세워 2028 회계연도까지 성장을 지속하겠다고 발표해 우려를 일축했다.엔비디아는 26일(현지시간) 회계연도 2분기 매출이 전년 동기 대비 106% 증가한 962억2000만달러(약 133조원)를 기록했다고 밝혔다. 월가 예상치인 920억달러를 크게 웃돈 수치다.조정 주당순이익(EPS)도 2.22달러로 시장 예상치 2.10달러를 상회했",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "엔비디아가 AI 인프라 수요에 힘입어 매출 106% 증가한 역대급 실적을 달성하며 마진 압박 우려를 불식시키고 2028년까지 성장을 지속하겠다고 발표했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214455_218134_2121.jpg",
+    "score": 8.192,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "엔비디아"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "KT, 협력 기업 12개사와 태국 '테크소스 글로벌 서밋' 참가",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214462",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-27T13:30:24+00:00",
+    "raw_excerpt": "KT(대표 박윤영)는 협력 중소벤처 12개사와 26~28일 태국 방콕 '퀸 시리킷 국립 컨벤션 센터'에서 열리는 '테크소스 글로벌 서밋'에 참가한다고 밝혔다.이 행사는 동남아시아를 대표하는 기술 컨퍼런스다. 올해는 AX·핀테크·푸드테크 등을 주제로 한 세션과 300여개 기업이 참여하는 전시회가 열린다.참여 기업은 ▲마르시스(IPTV 셋톱박스 기술) ▲더핑크퐁컴퍼니(영화·애니메이션 콘텐츠) ▲모꼬지(3D 애니메이션) ▲비프로컴퍼니(축구 비디오 분석) ▲다임테크놀로지(피지컬 AI 자율제조 솔루션) ▲올거나이즈코리아(LLM 솔루션) ▲딥",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "KT가 협력 중소벤처 12개사와 함께 태국 방콕에서 열리는 동남아시아 대표 기술 컨퍼런스 '테크소스 글로벌 서밋'에 참가한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214462_218138_1658.jpg",
+    "score": 8.165,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "llm"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "‘옥스 알파’ 정체는 GLM-5.3-플래시...“오퍼스급 성능에 비용은 10%”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214438",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-27T12:59:25+00:00",
+    "raw_excerpt": "지푸 AI(Z.ai)가 최근 화제를 모은 익명의 오픈웨이트 모델 ‘옥스 알파(Ox Alpha)’의 정체를 공개했다. 옥스 알파는 ‘GLM-5.3-플래시(Flash)’로, 코딩과 AI 에이전트 작업에서 앤트로픽의 최고급 모델과 맞먹는 성능을 내면서도 추론 비용을 기존 모델의 약 10분의 1 수준으로 낮춘 것이 핵심이다.지푸는 26일(현지시간) GLM-5.3-플래시를 공식 출시하며 가중치를 공개했다. 또 출시 전 사용자 피드백을 수집하기 위해 오픈라우터와 오픈코드에서 익명으로 테스트했다고 밝혔다.옥스 알파는 오픈라우터에 등장한 지 불과",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "지푸 AI가 공개한 GLM-5.3-플래시는 Claude Opus 수준의 성능을 기존 모델 비용의 10분의 1으로 제공하는 오픈웨이트 모델이다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214438_218124_5010.jpg",
+    "score": 8.123,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "스노우플레이크가 규정한 에이전틱 AI 원칙 “준비된 데이터부터 시작”",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21436",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-08-27T15:41:24+00:00",
+    "raw_excerpt": "27일 오전 서울 삼성동 코엑스 컨퍼런스센터에서 ‘스노우플레이크 월드 투어 서울 2026’이 열렸다. 이날 기조연설에 나선 발라 카시비스와나탄 스노우플레이크 제품관리담당 부사장은 기업의 AI 에이전트 전환 전략을 발표했다. 그는 지난 1년간 AI를 둘러싼 논의가 쏟아졌지만 관건은 에이전트를 신뢰하는 데이터 기반 위에서 대규모로, 그리고 안전하게 작동시키는 것이라고 짚었다. 이를 ‘에이전틱 엔터프라이즈’라 정의하고 데이터, 모델, 애플리케이션, 컨트롤 플레인이라는 네 가지 축을 제시했다. ◇ 스노우플레이크의 ‘에이전틱 엔터프라이즈’",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "스노우플레이크가 신뢰할 수 있는 데이터 기반 위에서 AI 에이전트를 안전하게 대규모 운영하는 '에이전틱 엔터프라이즈' 전략을 제시했다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202608/21436_22153_3623.jpg",
+    "score": 7.884,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "에이전틱",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "산림청, AI 기반 사이버보안과 개인정보보호 강화...전문가 자문회의 개최",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41633",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-27T17:31:37+00:00",
+    "raw_excerpt": "산림청(청장 박은식)은 27일, 정부대전청사에서 외부 전문가, 소속·산하기관의 사이버보안 및 개인정보 담당자 등 30여 명이 참석한 가운데 ‘사이버보안 및 개인정보 보호 강화를 위한 전문가 자문회의’를 개최했다.이번 회의는 최근 고도화·지능화 되는 사이버 위협에 선제적으로 대응하고, 디지털 산림행정 서비스의 안전성을 체계적으로 확보하기 위해 마련됐다. 회의에는 관련 분야 외부 자문위원, 소속·산하기관 보안 담당자, 사업 수행사 관계자들이 참석해 실효성 있는 정책 추진 방향을 심도있게 논의했다.인공지능(AI) 기반 보안관제 시범운영(",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "산림청이 AI 기반 사이버보안과 개인정보보호 강화를 위해 전문가 자문회의를 개최하고 고도화되는 사이버 위협에 선제적으로 대응하기로 했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41633_62659_3130_v150.jpg",
+    "score": 7.838,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "개인정보"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "국립공원공단, 위성영상·AI 활용 국립공원 환경 모니터링 챌린지 개최",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41632",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-27T17:23:19+00:00",
+    "raw_excerpt": "국립공원공단(이사장 주대영)이 위성영상과 인공지능(AI)을 활용해 국립공원의 환경 변화를 탐지하고 분석하는 ‘2026 국립공원 위성 모니터링 AI 챌린지’를 개최한다.이번 대회는 인력 중심의 현장 순찰만으로는 광범위한 국립공원의 환경 변화를 지속적으로 파악하는 데 한계가 있다는 점에 주목해, 위성영상과 AI 기술을 활용한 효율적인 모니터링 모델을 발굴하기 위해 마련됐다. 대회는 인공지능팩토리가 주관·운영한다.참가자들은 실제 위성영상을 활용해 원격탐사, 컴퓨터비전, 기후 AI 등과 관련된 현장 수준의 문제를 해결하게 된다. 우수한 모",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "국립공원공단이 위성영상과 AI를 활용한 환경 모니터링 챌린지를 2026년에 개최하여 광범위한 국립공원의 환경 변화를 효율적으로 탐지할 수 있는 기술 모델을 발굴한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41632_62658_234_v150.jpg",
+    "score": 7.828,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "KT, ‘모두의 AI’ 청사진 공개... “국민의 모든 일상에 함께하는 AI”",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41628",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-27T14:12:14+00:00",
+    "raw_excerpt": "KT(대표이사 박윤영)가 국내 대표 인공지능(AI) 기업들과 함께 대한민국의 다양한 AI 기술과 서비스를 국민의 일상으로 확산하는 새로운 대국민 AI 모델을 제시했다.‘모두의 AI’ 범용 서비스는 앱과 웹으로 출시되며, 이용자의 질문과 목적을 이해하는 범용 AI Agent를 중심으로 공공 AI Agent와 교육·금융·쇼핑·주거 등 분야별 전문 AI 서비스를 하나로 연결한다.핵심 전략은 범용 AI Agent를 활용해 채널 경계 없는 AI 서비스를 제공하는 것이다. KT 컨소시엄은 ‘모두의 AI’ 앱을 대국민 AI 활용의 핵심 플랫폼으",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "KT가 국내 AI 기업들과 함께 범용 AI 에이전트 중심의 '모두의 AI' 플랫폼을 출시해 공공·교육·금융·쇼핑 등 다양한 분야의 AI 서비스를 통합 제공한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41628_62652_121_v150.jpg",
+    "score": 7.589,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "뉴타닉스, NAI 2.8·NKP 2.19 출시...기업이 원하는 방식으로 프로덕션 환경서 에이전틱 AI 운영 지원",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41627",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-27T14:09:16+00:00",
+    "raw_excerpt": "하이브리드 멀티 클라우드 컴퓨팅 기업 뉴타닉스(Nutanix)가 기업의 기존 인프라를 재설계하지 않고도 프로덕션 환경에서 에이전틱 AI를 운영할 수 있도록 지원하는 신규 기능과 프로그램을 27일 공개했다.뉴타닉스는 뉴타닉스 엔터프라이즈 AI(Nutanix Enterprise AI, 이하 NAI) 2.8을 정식 출시하고, 뉴타닉스 쿠버네티스 플랫폼(Nutanix Kubernetes Platform, 이하 NKP) 2.19의 정식 출시를 예고했다. 이와 함께 파트너들이 확대되는 인공지능 시장 기회를 활용해 성장을 가속화할 수 있도록 신",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "뉴타닉스가 NAI 2.8과 NKP 2.19를 출시하여 기업이 기존 인프라 변경 없이 프로덕션 환경에서 에이전틱 AI를 운영할 수 있도록 지원한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41627_62651_95_v150.jpg",
+    "score": 7.585,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "알리바바, ‘큐원 3.8 플래시 넥스트’ 공개... \"큐원4 아키텍처 미리보기\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214458",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-27T17:55:23+00:00",
+    "raw_excerpt": "알리바바가 차기 플래그십 모델에 적용할 아키텍처를 미리 공개했다. 성능과 모델 규모를 유지하면서도 실제 연산량과 비용을 획기적으로 줄이는 방향이다.알리바바는 26일(현지시간) 차세대 ‘큐원4(Qwen4)’의 핵심 아키텍처를 미리 선보이는 오픈웨이트 멀티모달 모델 ‘큐원3.8-플래시-넥스트(Qwen3.8-Flash-Next)’를 공개했다.총 1800억개 매개변수를 갖췄지만 토큰당 실제 활성화되는 매개변수는 60억개에 불과한 전문가 혼합(MoE) 모델로, 이전 모델인 '큐원3.7-플러스' 대비 학습 비용을 약 9분의1로 낮춘 것이 특징",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "알리바바가 큐원4 아키텍처를 적용한 '큐원3.8-플래시-넥스트'를 공개하며 전문가혼합 기술로 학습 비용을 9분의1 수준으로 대폭 절감했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214458_218140_289.jpg",
+    "score": 7.548,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "빌 게이츠의 경고 \"AI 격동 대비해야\"...'인간 전용 일자리'와 'AI 토큰세' 제안",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214457",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-27T17:48:44+00:00",
+    "raw_excerpt": "빌 게이츠 마이크로소프트(MS) 창립자가 AI의 급격한 발전이 인류 역사상 가장 격동적인 시기를 초래할 수 있다며 각국 정부에 선제적인 대응을 촉구했다. AI가 일자리를 대규모로 대체하고 사이버 공격과 생물학적 위협을 강화하는 것은 물론, 인간관계와 어린이의 성장에도 영향을 미칠 수 있다는 경고다. 특히 일부 직업을 ‘인간 전용(Human Reserved)’ 영역으로 지정하고 AI 토큰과 로봇에 세금을 부과하는 방안을 제안했다.게이츠 창립자는 26일(현지시간) 공개한 에세이에서 “AI는 인류 역사상 가장 격동적인 시기 중 하나를 가",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "빌 게이츠가 AI의 급격한 발전에 대비해 일부 직업을 '인간 전용' 영역으로 지정하고 AI 토큰·로봇에 세금을 부과할 것을 제안했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214457_218136_5226.jpg",
+    "score": 7.539,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "여수, 섬섬여수페이 내달 2일부터 최대 20% 할인…231억 원 규모",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214485",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-27T17:22:45+00:00",
+    "raw_excerpt": "AI 생성 영상여수시가 2026여수세계섬박람회를 기념해 내달 2일부터 카드형 여수사랑상품권 ‘섬섬여수페이’ 231억 원 규모의 특별할인을 시작한다. 충전 단계에서 최대 15%를 할인하고 가맹점 결제 때 5%를 추가 할인해 최대 20%의 혜택을 제공한다.27일 여수에 따르면 먼저 9월 2일 오전 9시부터 131억 원 규모의 섬섬여수페이를 15% 할인 판매한다. 준비된 물량이 모두 소진되면 익일 오전 9시부터 100억 원 규모를 10% 할인해 추가 판매한다.월 구매 한도는 50만 원으로 확대하고 보유 한도는 70만 원으로 유지한다. 특",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "여수시가 내달 2일부터 '섬섬여수페이'로 충전 시 최대 15%, 결제 시 5% 추가 등 최대 20% 할인을 제공하는 231억 원 규모 프로모션을 실시한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214485_218182_148.jpg",
+    "score": 7.504,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "순천, 선암사서 초등학생 90명 ‘어린이 기자’ 프로그램 운영",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214489",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-27T17:22:27+00:00",
+    "raw_excerpt": "AI 생성 영상순천시가 유네스코 세계문화유산 선암사에서 초등학생 90명을 대상으로 어린이 기자단 프로그램을 운영했다고 26일 밝혔다.참가자들은 21일부터 3일간 사찰 곳곳을 직접 둘러보며 선암사의 역사와 건축, 전설, 자연 생태를 취재하고 기사 작성과 발표까지 경험했다.참가 어린이들은 카메라와 수첩을 들고 선암사 경내를 둘러보며 해설사의 설명을 듣고 현장을 직접 취재했다. 단순 관람에 그치지 않고 사찰의 역사적·문화적 의미와 자연환경을 살펴보는 방식으로 프로그램이 진행됐다.취재 과정에서는 ‘선암사 어린이 신문(Seonamsa Jun",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "순천시가 유네스코 세계문화유산 선암사에서 초등학생 90명을 대상으로 3일간 어린이 기자단 프로그램을 운영해 역사·문화·생태 취재 및 기사 작성 경험을 제공했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214489_218183_153.jpg",
+    "score": 7.504,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "한국딥러닝, 40여종 문서 대응 '딥에이전트 for 보험' 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214487",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-27T16:05:00+00:00",
+    "raw_excerpt": "한국딥러닝(대표 김지현)이 보험금 청구 업무에 특화된 문서 AI 솔루션 ‘딥에이전트 for 보험’을 출시했다고 27일 밝혔다.딥에이전트 for 보험은 보험금청구서, 진단서, 진료비 영수증, 진료비 세부내역서, 입퇴원확인서 등 보험금 청구·심사 과정에서 활용되는 주요 문서 유형 40여 종에 대응하는 보험 특화 문서 AI 솔루션이다. 먼저, 사고유형과 진단명, 입원·통원·수술 등 청구 내용과 조건을 파악해 필요한 구비서류를 자동으로 구분한다. 보험금청구서·진단서·영수증·진료비 세부내역서는 물론, 대리청구 시 필요한 위임 관련 서류까지",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "한국딥러닝이 보험금 청구 관련 40여 종 문서를 자동 처리하는 AI 솔루션 '딥에이전트 for 보험'을 출시했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214487_218180_43.jpg",
+    "score": 7.399,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "삼성전자, 신형 SSD 2종 공개...\"데이터 전송속도·용량 2배 확대\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214453",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-27T12:35:02+00:00",
+    "raw_excerpt": "삼성전자가 차세대 인터페이스 USB4를 탑재한 초고속 포터블 솔리드스테이트드라이브(SSD) 신제품 'P9'과 'P7'을 공개했다.삼성전자는 26일(현지 시각) 독일 쾰른에서 열린 세계 최대 게임쇼 '게임스컴 2026'에서 전문가용 플래그십 모델 'P9'과 다양한 기기에서 폭넓게 활용 가능한 'P7'을 선보였다.P9은 연속 읽기 속도 초당 최대 4000메가바이트(MB), 연속 쓰기 속도 초당 3800MB를 지원하며, 이전 세대인 'T 시리즈' 대비 연속 읽기·쓰기 속도가 약 2배 향상됐다.최대 저장 용량도 기존 4테라바이트(TB)에서",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "삼성전자가 USB4 인터페이스를 탑재한 신형 포터블 SSD 'P9'과 'P7'을 공개했으며, P9은 이전 세대 대비 데이터 전송속도와 저장 용량이 약 2배 향상됐다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214453_218135_2537.jpg",
+    "score": 7.115,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "광양, 산불감시원·산림재난대응단 100명 모집",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214440",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-27T12:32:35+00:00",
+    "raw_excerpt": "AI 생성 영상광양시가 가을철 산불예방과 산림재난 발생 시 신속한 현장 대응을 위해 기간제근로자 100명을 모집한다고 26일 밝혔다. 모집 인원은 산림재난대응단 43명, 산불감시원 57명이며 신청은 9월8일부터 10일까지 3일간 받는다.산불감시원은 읍·면·동에 배치돼 산불 취약지역 순찰과 불법 소각 행위 계도, 산불 예방 홍보, 산불 발생 시 신속한 신고 등의 업무를 맡는다.지역별 모집 인원은 광양읍·봉강면·옥룡면·옥곡면·진상면·진월면·다압면·골약동이 각각 6명이다. 중마동은 4명, 광영동은 3명, 태인동은 2명을 모집한다.산림재난",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "광양시가 가을철 산불 예방과 산림재난 대응을 위해 산불감시원과 산림재난대응단 총 100명을 9월 8~10일 모집한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214440_218127_1652.jpg",
+    "score": 7.111,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "‘클로드 페이블 5.1’ 스텔스 출시?...사용자 대상 순차 적용 정황 포착",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214441",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-27T12:25:10+00:00",
+    "raw_excerpt": "앤트로픽의 차세대 플래그십 모델 ‘클로드 페이블 5.1(Fable 5.1)’이 정식 공개에 앞서 일부 사용자에게 차례로 적용되는 이른바 ‘그레이 롤아웃(gray rollout)’ 단계에 들어간 정황이 포착됐다. 최근 개발자와 AI 커뮤니티에서 새로운 모델을 사용했다는 제보가 잇따르는 가운데, 이르면 이번 주 중 공식 출시될 가능성이 제기되고 있다.일부 클로드 사용자들은 27일(현지시간) X 등을 통해 클로드에서 기존 페이블 5를 선택했음에도 실제로는 페이블 5.1이 응답하는 것으로 보이는 사례를 공유하고 있다.특히 페이블 5.1을",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "Anthropic의 Claude Fable 5.1이 공식 출시 전 일부 사용자를 대상으로 단계적 적용(그레이 롤아웃) 중인 것으로 확인되었으며, 이르면 이번 주 중 공식 출시될 가능성이 제기되고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214441_218128_2737.jpg",
+    "score": 7.101,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "스페인, 데이터센터 규제 강화…전력 80% 재생에너지로 조달",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214433",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-27T11:50:00+00:00",
+    "raw_excerpt": "스페인 정부가 대형 데이터센터 전력소비의 최소 80%를 신규 재생에너지로 충당하도록 하는 규제 도입을 추진한다. 연간 사용량을 기준으로 재생에너지를 조달하는 데 그치지 않고, 전력을 사용하는 시간대에 생산된 재생에너지와 직접 연계한다는 구상이다.스페인 각료회의는 25일(현지시간) 데이터센터의 에너지·환경 지속가능성과 회복력 등을 규정한 왕령 초안의 긴급 행정절차를 승인했다. AI 확산으로 데이터센터 전력수요가 빠르게 늘면서 전력망 부담과 전력비 상승 가능성을 관리하기 위한 조치다.규제 대상은 전기설비 용량 1메가와트(MW) 이상 데",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "스페인이 1MW 이상 대형 데이터센터의 전력 80% 이상을 신규 재생에너지로 조달하도록 의무화하는 규제를 도입해 AI 확산에 따른 전력수요 증가에 대응한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214433_218122_2950.jpg",
+    "score": 7.054,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "한국IT직업전문학교 사이버보안학과, 2027학년도 신입생 모집",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48523",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-27T14:25:22+00:00",
+    "raw_excerpt": "[스마트타임스]한국IT직업전문학교(이하 한아전) 사이버보안학과는 대학 수시모집 전 수험생을 대상으로 2027학년도 신입생을 모집한다고 27일 밝혔다.사이버보안학과는 바이러스 대응 전문가를 넘어 데이터 분석과 처리 기술을 기반으로 한 융합 역량을 갖춘 정보보안 인재를 양성하고 있다.해킹과 사이버 공격으로부터 컴퓨터·네트워크·개인정보 보호 방법을 배우며 프로그래밍, 웹·모바일 보안, 암호학·개인정보보호 등을 학습한다.한아전 관계자는 \"취업에서는 자격증뿐 아니라 보안 실습, 프로젝트, 해킹방어대회 경험과 포트폴리오가 중요하다\"며 \"프로젝",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "한국IT직업전문학교 사이버보안학과가 2027학년도 신입생을 모집하며, 데이터 분석 기술을 포함한 융합 역량을 갖춘 정보보안 인재 양성에 초점을 맞추고 있다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202608/48523_47216_2511_v150.jpg",
+    "score": 6.379,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "해킹",
+      "개인정보"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "한국도 청소년 SNS 규제 공론화…메타發 플랫폼 책임 요구 커지나",
+    "url": "https://www.etnews.com/20260827000310",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-08-27T06:30:00+00:00",
+    "raw_excerpt": "메타가 청소년 사회관계망서비스(SNS) 중독 소송에서 미국 주 정부들과 합의하면서 국내 청소년 SNS 규제 추진에 속도가 붙을 전망이다. 특히 대형 플랫폼에 기술적 조치를 요구하는 합의가 나온 만큼, 국내 입법 논의에서 주요 선례로 작용할 것으로 보인다. 27일 업계에 따르면 이번 메타와 미국 주정부들 간 합의가 국내 입법 과정에 영향을 미칠 것으로 보는 시각이 지배적이다. 특히 최근 정부와 국회를 중심으로 청소년 SNS 과몰입 문제에 대한",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "메타의 미국 청소년 SNS 중독 소송 합의로 국내에서도 플랫폼의 기술적 규제 조치를 요구하는 입법 논의가 본격화할 것으로 예상된다.",
+    "thumbnail": "",
+    "score": 5.843,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제",
+      "입법"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "태니엄, 엔드포인트 관리에 에이전틱 AI 결합…‘아틀라스’ 전면에",
+    "url": "https://byline.network/2026/08/27-679/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-08-27T08:01:47+00:00",
+    "raw_excerpt": "태니엄이 에이전틱 AI 시스템 ‘태니엄 아틀라스(Tanium Atlas)’를 앞세워 엔드포인트 관리에 AI 적용을 확대한다. 기존 통합형 엔드포인트 관리(XEM)와 자율엔드포인트관리(AEM)의 실시간 데이터와 자동화 기능을 아틀라스로 연결해, 자연어로 엔드포인트를 조사하고 대응 방법까지 제시한다는 전략이다. 태니엄은 27일 서울 광화문 포시즌스 호텔에서 기자간담회를 열고 아틀라스의 주요 기능과 향후 개발 방향을 공개했다.",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "태니엄이 에이전틱 AI 기반 '아틀라스'를 통해 엔드포인트 관리에 자연어 조사 및 자동 대응 기능을 제공하며 AI 적용을 확대한다.",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/08/TANIUM1.jpg",
+    "score": 5.707,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전틱"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "한투운용 ACE 반도체Plus전략산업 ETF, 순자산액 3천억원 돌파",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48528",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-27T15:43:15+00:00",
+    "raw_excerpt": "[스마트타임스]한국투자신탁운용은 ACE 반도체Plus전략산업 상장지수펀드(ETF)의 순자산액이 3000억원을 돌파했다고 27일 밝혔다.한국거래소에 따르면 26일 기준 해당 ETF의 순자산액은 3330원으로 집계됐다.이 ETF는 글로벌 경쟁력이 검증된 국내 전략산업 5곳에 분산 투자하는 상품이다. 투자 대상인 산업은 △반도체 △조선 △방산 △원자력을 중심으로 하며 나머지 1개 산업은 산업 규모와 정부 정책 등을 평가해 선정한다. 현재는 '휴머노이드(자동차)' 산업이 포함됐다.편입 종목은 총 10개로, 산업별 대표 종목을 2개씩 담고",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "한국투자신탁운용의 ACE 반도체Plus전략산업 ETF 순자산액이 3천억원을 넘어섰으며, 반도체·조선·방산·원자력·휴머노이드 등 5대 전략산업에 분산 투자한다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202608/48528_47228_4259_v150.jpg",
+    "score": 5.102,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "새마을금고 주담대ㆍ집단대출 취급 재개…중단 6개월만",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48513",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-27T15:01:15+00:00",
+    "raw_excerpt": "[스마트타임스]새마을금고가 주택담보대출, 중도금·이주비·분양 잔금 대출 등 집단 대출을 재개했다. 정부의 가계대출 규제로 막힌지 약 6개월 만이다.27일 금융권에 따르면 새마을금고는 이날부터 이주비·중도금·잔금대출 취급을 재개하기로 했다.또 이주비·중도금·잔금대출에 한해 대출모집인 취급 중단을 풀고 비회원 주담대 취급제한도 해제한다.대출 문턱을 다시 낮춘 것은 최근 정부가 가계부채 관리 기조를 일부 조정한 영향이다. 정부는 최근 올해 가계부채 총량 증가율 관리 목표를 기존 1.5%에서 3%로 상향했다.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "정부의 가계대출 규제 완화에 따라 새마을금고가 6개월 만에 주담대와 집단대출 취급을 재개했다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202608/48513_47222_058_v150.jpg",
+    "score": 5.063,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "中 샤오펑, 韓 딜러사 광저우 본사로 불러 시연…10월 파트너 선정 착수 등 진출 초읽기",
+    "url": "https://www.etnews.com/20260827000236",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-08-27T06:00:00+00:00",
+    "raw_excerpt": "중국 전기차 브랜드 샤오펑(Xpeng)이 국내 주요 수입차 딜러사를 중국 광저우 본사로 초청해 차세대 전기차와 자율주행 기술을 시연하고 한국 시장 진출에 본격 시동을 걸었다. 성사될 경우 BYD, 지커(Zeekr)에 이어 중국 전기차 브랜드의 세 번째 한국 상륙이다. 27일 수입차 업계에 따르면 샤오펑은 최근 중국 광저우 본사에서 국내 딜러사 최대 10곳을 대상으로 대규모 기술 시연회를 진행했다. 참석한 기업들은 BMW, 메르세데스-벤츠, 아우",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "중국 전기차 브랜드 샤오펑이 국내 딜러사를 광저우 본사로 초청해 기술을 시연하며 한국 시장 진출을 본격화하고 있으며, 성사 시 중국 전기차 브랜드로는 BYD·지커에 이어 세 번째 진출이 될 예정이다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/08/27/news-p.v1.20260827.2198cbbab3b248709ab6574d9c516bb7_P1.jpeg",
+    "score": 5.061,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "한은, 금리 3%로 또 올렸다…물가 상승세 확산 전 선제대응",
+    "url": "https://www.etnews.com/20260827000258",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-08-27T05:17:47+00:00",
+    "raw_excerpt": "한국은행이 기준금리를 연 3.00%로 0.25%포인트(P) 올리며 지난달에 이어 연속 인상에 나섰다. 반도체 호조와 내수 회복으로 성장세가 예상보다 강해진 데다 근원물가가 쉽게 꺾이지 않고 수도권 집값·가계부채 부담도 이어지자 물가 상승세가 확산하기 전에 선제 대응을 택했다. 한국은행 금융통화위원회는 27일 통화정책방향 회의를 열고 기준금리를 2.75%에서 3.00%로 인상했다. 금통위원 6명이 인상에 찬성했고 황건일 위원은 2.75% 동결 의",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "한국은행이 기준금리를 3.00%로 인상하며 물가 확산 전 선제 대응에 나섰다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/08/27/news-p.v1.20260827.c18073f55d4b49eda79a9a4d1a16a13b_P1.jpg",
+    "score": 5.017,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "Revolut Launches Euro-Backed Stablecoin EURR Through Retail Banking App",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48520",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-27T14:01:17+00:00",
+    "raw_excerpt": "European fintech company Revolut has introduced EURR, a euro-backed stablecoin that will be integrated into its retail applications as the company expands its digital asset services.Revolut said Wednesday that the initial rollout will be limited to selected customers in Denmark, Poland and Portugal.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "핀테크 기업 Revolut이 유로 기반 스테이블코인 EURR을 출시해 소매 앱에 통합하며, 초기에는 덴마크·폴란드·포르투갈의 선정된 고객을 대상으로 운영할 예정이다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202608/48520_47211_19_v150.jpg",
+    "score": 5.006,
+    "engagement": 0,
+    "matched_keywords": [
+      "stablecoin"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "크래프톤, '배틀그라운드 다음' 찾는다... 신작 5종으로 IP 확장 승부수",
+    "url": "https://www.etnews.com/20260827000239",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-08-27T04:59:50+00:00",
+    "raw_excerpt": "“'크래프톤이 만들면 재미있다.' 언젠가 그 말이 팬들에게 닿는 날까지 담대하게, 진심을 다해 나아가겠다.” 장태석 크래프톤 글로벌 퍼블리싱 총괄 겸 PUBG 프랜차이즈 총괄은 독일 쾰른메세에서 열린 '크래프톤 미디어 데이'에서 신작 5종을 “전 세계 팬들에게 보내는 5개의 초대장”이라고 표현했다. 크래프톤은 'PUBG: 배틀그라운드' 성공 공식을 반복하는 대신 슈팅과 액션 역할수행게임(RPG), 대전 액션, 협동 어드벤처 등으로 영역을 넓혀",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "크래프톤이 배틀그라운드 성공에 안주하지 않고 슈팅, RPG, 대전 액션, 협동 어드벤처 등 5종 신작으로 IP 확장에 나선다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/08/27/news-p.v1.20260827.d8d456e7ca9340758ade0a107e4f7f8c_P1.jpg",
+    "score": 4.999,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "2035년까지 친환경선박 889척 보급…'K조선' 초격차 이끈다",
+    "url": "https://www.etnews.com/20260827000235",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-08-27T04:55:23+00:00",
+    "raw_excerpt": "정부가 2035년까지 총 889척 선박을 친환경으로 전환하는 '제2차 친환경선박 개발·보급 기본계획'을 추진한다. 글로벌 탈탄소 기조에 맞춰 조선업 초격차 기술을 확보하고, 세계 최초로 도입되는 '녹색해운항로' 시대의 주도권을 쥐겠다는 구상이다. 산업통상부와 해양수산부에 따르면 정부는 27일 '녹색해운항로 구축 지원 특별법' 하위법령 제정안을 입법 예고했다. 급변하는 기술 및 정책 여건을 반영해 수립한 '제2차 친환경선박 개발·보급 기본계획(2",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "정부가 2035년까지 889척 선박을 친환경으로 전환해 글로벌 탈탄소 추세에 대응하고 K조선의 초격차 기술 확보를 추진한다.",
+    "thumbnail": "https://img.etnews.com/news/article/2025/11/01/news-p.v1.20251101.39580773975d49caa267fe567fab7330_P1.jpg",
+    "score": 4.994,
+    "engagement": 0,
+    "matched_keywords": [
+      "입법"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "삼성전자가 적용한 매터 인증, 보안카메라까지 확대",
+    "url": "https://www.etnews.com/20260827000234",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-08-27T04:54:34+00:00",
+    "raw_excerpt": "삼성전자 스마트홈 플랫폼 스마트싱스에 연동 가능한 매터(Matter) 기반 보안카메라가 늘고 있다. 삼성전자가 지난해 스마트싱스에 매터 1.5 기반 카메라 지원을 도입한 이후 실제 인증 제품이 잇따라 등장하는 것이다. 조명·센서·가전 중심이던 스마트싱스 생태계가 영상·보안 영역으로 확대되고 있다. 27일 연결표준연합(CSA)에 따르면 중국 스마트홈 업체 아카라(Aqara)는 이달 카메라 허브 제품군에서 매터 1.5 인증을 추가로 획득했다. 지난",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "삼성전자 스마트싱스가 매터 인증을 보안카메라로 확대하면서 스마트홈 생태계가 영상·보안 영역까지 전개되고 있다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/08/27/news-p.v1.20260827.09560b63e9af47d8ba235d3513dd5f59_P1.png",
+    "score": 4.993,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "“'사업 재기' 보다 '사람 재기'가 우선”…전원태 회장이 죽도서 실패 기업인 품은 이유",
+    "url": "https://www.etnews.com/20260827000230",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-08-27T04:53:49+00:00",
+    "raw_excerpt": "“재기라는 게 꼭 사업에 실패했다가 다시 창업하는 것만을 뜻하는 건 아닙니다. 직장을 잃거나 학업에 실패하고, 가정이 무너지는 것도 모두 삶에서 넘어지는 겁니다. 중요한 건 다시 살아갈 수 있는 마음을 만드는 것이죠.” 경남 통영 앞바다의 작은 섬 죽도. 이곳에서 15년째 실패와 좌절을 겪은 사람들의 '다시 일어서기'를 돕고 있는 전원태 재기중소기업개발원 회장이 강조하는 재기의 의미다. 사업 실패자의 쉼터를 제공하고 재창업을 지원하는 데서 출발",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "전원태 회장이 경남 통영 죽도에서 15년간 사업 실패자뿐 아니라 직장 실직·학업 실패 등 삶의 좌절을 겪은 사람들의 '사람 재기'를 돕고 있다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/08/27/news-p.v1.20260827.32502f23f94d4fc8926bb9f998d804fb_P2.png",
+    "score": 4.992,
+    "engagement": 0,
+    "matched_keywords": [
+      "창업"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "'中企 나눠주기 사업' 232개 손질",
+    "url": "https://www.etnews.com/20260827000205",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-08-27T04:18:05+00:00",
+    "raw_excerpt": "정부가 부처별로 흩어진 중소기업 지원사업을 대대적으로 정리하고, 절감한 4조원의 재원을 성장 가능성이 높은 기업과 신안보·바이오·기후테크 등 신성장 분야에 집중 투입한다. 단순히 사업 수를 줄이는 데 그치지 않고 기존 '일회성·나눠주기' 지원에서 벗어나 '맞춤형 장기지원'으로 중소기업 정책의 패러다임을 바꾸는 것이 핵심이다. 중소벤처기업부 등 관계부처는 27일 재정운용전략협의회에서 이 같은 내용의 '전 부처 중소기업 지원사업 효율화 방안'과 '",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "정부가 부처별로 산재된 중소기업 지원사업 232개를 정리해 4조원을 절감하고, 이를 성장성 높은 기업과 신안보·바이오·기후테크 등 신성장 분야에 집중 투입하며 일회성 지원에서 맞춤형 장기지원으로 정책을 전환한다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/08/27/news-g.v1.20260827.9b30195c1ebd47779fb243d09e07754e_P1.jpg",
+    "score": 4.955,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "For the first time, we’ve given external researchers a way to study AI’s impacts using real, privacy-preserved Claude usage data. To date, t",
+    "url": "https://t.co/suLJcARAu1",
+    "source": "X @AnthropicAI",
+    "source_type": "x",
+    "published_at": "2026-08-26T17:12:53+00:00",
+    "raw_excerpt": "For the first time, we’ve given external researchers a way to study AI’s impacts using real, privacy-preserved Claude usage data. To date, this work has only been possible within AI labs. We can’t tell the whole story alone, so we opened up our tools.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Anthropic이 외부 연구자들에게 개인정보 보호된 Claude 사용 데이터로 AI 영향을 연구할 수 있도록 최초 개방했습니다.",
+    "thumbnail": "",
+    "score": 4.841,
+    "engagement": 240952,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "‘베젤 0㎜’ 스마트폰, 중국서 먼저 출시…어떻게 구현했나",
+    "url": "https://zdnet.co.kr/view/?no=20260827155055",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-27T08:03:57+00:00",
+    "raw_excerpt": "[지디넷코리아]애플이 2027년 아이폰 출시 20주년을 기념해 베젤리스 디스플레이를 탑재한 아이폰을 선보일 것으로 전망되는 가운데, 중국 스마트폰 브랜드 테크노(TECNO)가 ‘첫 베젤리스 스마트폰’을 공개한다고 밝혀 주목받고 있다.IT매체 폰아레나는 26일(현지시간) 테크노가 최근 유튜브를 통해 베젤이 거의 보이지 않는 차세대 베젤리스 스마트폰 콘셉트 영상을 공개했다고 보도했다.테크노는 영상과 함께 \"시각적 한계를 뛰어넘는 진정한 0㎜ 베젤. 테크노의 차세대 베젤리스 콘셉트폰을 만나보라\"며 \"다음 달 초 독일 베를린에서 열리는 유럽 최대 가전·IT 전시회 ‘IFA 2026’에서 공개될 것\"이라고 밝혔다.최근 유명 IT 유튜버 마르케스 브라운리(Marques Brownlee·MKBHD)도 해당 스마트폰 실물 영상을 공개하면서 구체적인 정보가 알려지게 됐다. MKBHD에 따르면 이 제품은 144Hz 주사율을 지원하는 6.7인치 평면 디스플레이를 탑재했으며, 화면 주변 베젤이 거의 보이지 않는 것이 특징이다. 후면에는 트리플 카메라가 배치됐으며, 카메라 모듈은 삼성전자의 갤럭시S26 시리즈와 유사한 형태를 갖췄다. 후면에는 3D 나비 디자인이 적용됐고, 전면에는 펀치홀 형태의 셀피 카메라가 자리한다.테크노는 ‘내부 디스플레이 스태킹(internal display stacking)’ 기술을 활용해 베젤이 없는 것처럼 보이는 디자인을 구현한",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "중국 브랜드 테크노가 '내부 디스플레이 스태킹' 기술로 0㎜ 베젤 스마트폰을 구현해 내달 IFA 2026에서 공개할 예정이다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/27/d77994f7db936e69603810b5fbc8218f.gif",
+    "score": 4.671,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "과기정통부, 기초 혁신 선도연구센터 11개 가동",
+    "url": "https://zdnet.co.kr/view/?no=20260827163401",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-27T07:34:01+00:00",
+    "raw_excerpt": "[지디넷코리아]기초 연구분야 혁신을 주도할 선도연구센터 11개가 연구 활동에 들어갔다.과학기술정보통신부는 2026년도 기초연구사업 선도연구센터에 선정된 11개 센터를 대상으로 지정서와 현판 수여식을 개최했다고 27일 밝혔다.선도연구센터는 1990년 융합과 협업을 기반으로 혁신적 기초연구 성과를 창출하고 지식 네트워크 형성 및 창의·융합 연구자를 양성하기 위해 시작한 프로그램이다. 센터에는 연 15~22억원 규모의 연구비를 7년간 지원한다.올해에는 이학분야 4개, 공학분야 3개, 기초의과학분야 4개 등 총 11개의 선도연구센터가 선정됐다. 지난 7월부터 시작됐다.이학분야 4개 SRC는 ▲수리 알고리즘 및 보안 연구센터(서울대, 김판기 교수팀) ▲양자 포노닉스 연구 센터(부산대, 이재광 교수팀) ▲염색체 시스템·다이내믹스 연구센터(중앙대, 김근필 교수팀) ▲식물열매성장 연구센터(대구경북과학기술원, 곽준명 교수팀) 등이다.공학분야 3개 ERC는 ▲공중합체 순환형 시스템 연구센터(연세대, 류두열 교수팀) ▲신뢰보장 분산 물리 시스템 연구센터 ▲환경부하성 폐자원 고부가 전환 연구센터(서울시립대, 박영권 교수팀) 등이다.의학분야 4개 MRC는 ▲종양 진화-환경 시스템 연구센터(가톨릭대, 김태민 교수팀) ▲뉴럴 다이나믹스 기반 신경발달장애 연구센터(서울대, 서영호 교수팀) ▲뉴로컨티뉴엄센터(아주대, 박상면 교수팀) ▲한의학 기반 선도융합 신경조절",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "과학기술정보통신부가 기초연구 혁신을 위해 이학·공학·의학 분야 11개 선도연구센터를 지정해 7년간 연 15~22억 원씩 지원하기로 했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/27/8ee4c34ed0d02ba8e15bce703976122c.jpg",
+    "score": 4.643,
+    "engagement": 0,
+    "matched_keywords": [
+      "양자"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  }
+]
