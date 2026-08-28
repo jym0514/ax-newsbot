@@ -1,0 +1,741 @@
+[
+  {
+    "title": "소프트뱅크, '가정용' 휴머노이드 기업 1X 과반 지분 인수 추진",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214552",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-28T17:41:36+00:00",
+    "raw_excerpt": "소프트뱅크가 휴머노이드 로봇 개발업체 1X 테크놀로지스의 과반 지분을 인수하는 방안을 놓고 협상 중인 것으로 알려졌다. 피지컬 AI를 차세대 성장동력으로 점찍은 손정의 소프트뱅크 회장의 로봇 사업 확대가 본격화하는 모습이다.27일(현지시간) 디 인포메이션에 따르면, 소프트뱅크는 1X의 지배지분을 확보하는 조건으로 기업 가치를 60억달러(약 8조원)로 평가해 협상을 진행 중이다. 거래 조건과 기업 가치는 변경될 가능성이 있다. 1X는 지난해 가을 100억달러(약 14조원) 가치 평가를 전제로 10억달러(약 1조4000억원) 규모의 자",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "소프트뱅크가 가정용 휴머노이드 로봇 개발사 1X를 60억달러 기업가치로 과반 지분 인수 협상 중으로, 손정의 회장의 피지컬 AI 중심 로봇 사업 확대가 구체화되고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214552_218229_270.png",
+    "score": 9.48,
+    "engagement": 0,
+    "matched_keywords": [
+      "피지컬 ai",
+      "휴머노이드",
+      "휴머노이드 로봇"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "머스크·알트먼·젠슨 황 집결...미국, G20서 AI '자율 규제' 카드 꺼낸다",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214545",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-28T14:16:36+00:00",
+    "raw_excerpt": "일론 머스크 CEO와 샘 알트먼 오픈AI CEO, 젠슨 황 엔비디아 CEO 등 글로벌 기술업계의 핵심 인사들이 다음 주 미국에서 열리는 주요 20개국(G20) 기술 장관 회의에 집결한다. AI 산업의 급속한 발전에 대응할 규제 방향이 주요 의제로 다뤄지는 가운데, 미국은 과도한 정부 규제 대신 민간과의 협력을 기반으로 한 유연한 규제 체계를 각국에 제안할 계획이다.27일(현지시간) 로이터 등에 따르면, 이번 회의는 9월 1~2일 미국 노스캐롤라이나주 롤리에서 열린다.오는 12월 도널드 트럼프 미국 대통령이 플로리다주 도럴에서 개최할",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "머스크, 알트먼, 젠슨 황 등 테크 리더들이 G20 기술 장관 회의에 참석해 미국이 기업 자율 규제 중심의 유연한 AI 규제 방안을 제안한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214545_218223_16.jpg",
+    "score": 9.202,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai",
+      "엔비디아"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "“이 단백질에 잘 결합하는 신약 후보 설계해줘”...KAIST, 소버린 바이오 AI 'K-Fold' 공개",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41649",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-28T16:06:16+00:00",
+    "raw_excerpt": "“이 단백질에 잘 결합하는 신약 후보 설계해줘”연구자가 인공지능에게 이렇게 요청하면 AI가 단백질의 3차원 구조를 예측하고, 어떤 물질이 잘 결합할지 분석해 유망한 신약 후보를 설계한다. KAIST 연구진이 세계에서 가장 빠르게 단백질 구조 예측을 수행하는 바이오 AI 모델 ‘K-Fold(케이폴드)’를 국내 독자 기술로 개발했다.KAIST(총장 배충식)는 과학기술정보통신부 ‘AI 특화 파운데이션 모델 프로젝트’의 주관기관으로 ‘팀 KAIST’를 구성하고, 차세대 바이오 AI 모델 ‘K-Fold’를 공개했다고 28일 밝혔다.‘팀 KA",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "KAIST가 단백질 구조 예측과 신약 후보 설계를 수행하는 국내 독자 개발 바이오 AI 모델 'K-Fold'를 공개했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41649_62680_553_v150.jpg",
+    "score": 8.631,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "파운데이션 모델"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "구글, 세계 최초 AI 이중맹검 평가 시범 운영…'벤치마크 오염' 방지 나선다",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214579",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-28T17:30:00+00:00",
+    "raw_excerpt": "구글이 암호화 기술을 활용해 개발한 최첨단 AI 모델에 대한 이중맹검(Double-blind) 평가를 시범 운영한다고 발표했다. AI 모델이 평가 전에 문제 데이터를 미리 학습해 성능 점수가 인위적으로 부풀려지는 '벤치마크 오염' 문제를 기술적으로 해결하겠다는 취지다.구글 딥마인드는 27일(현지시간) 세계 최초로 자체 개발한 이중맹검 평가 기술 보고서를 공개했다. 그동안 AI 업계의 한계로 지적되어 온 성능 평가 체계를 다듬기 위한 시도라는 설명이다.현재는 평가자가 벤치마크 문제를 공개하면, 개발사가 이를 모델에 학습할 위험이 있다",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "구글이 암호화 기술 기반 이중맹검 평가를 세계 최초로 시범 운영하며 AI 모델의 벤치마크 오염 문제를 기술적으로 해결하려고 나섰다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214579_218260_3843.png",
+    "score": 8.489,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "딥마인드"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "딥노이드, “의료 판독 자동화 라인업 확대...AI 의료 에이전트 본격화”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214578",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-28T16:45:00+00:00",
+    "raw_excerpt": "딥노이드가 의료 AI 에이전트 구축을 위한 기술 및 사업 기반을 확대했다. 기존의 뇌 판독 AI 라인업을 MRA 기반 뇌혈관 병변 검출에서 MRI 기반 정량 분석까지 본격 확장하며 치매, 파킨슨병 등 퇴행성 뇌질환 진료에도 기여한다는 계획이다. 의료 AI 전문 딥노이드(대표 최우식)는 1등급 소프트웨어 의료기기 ‘딥뉴로 브레인세그’의 식품의약품안전처 인허가 절차를 완료했다고 28일 밝혔다.딥뉴로 브레인세그는 뇌 MRI의 주요 해부학적 구조를 자동 분할하고, 영역별 부피와 기준 대비 백분위 정보를 제공해 정량적 평가를 지원하는 의료기",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "딥노이드가 식약처 승인을 받은 '딥뉴로 브레인세그'로 뇌 MRI 자동 분석 범위를 확대하며 AI 의료 에이전트 구축을 가속화하고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214578_218259_3815.png",
+    "score": 8.428,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "'사후학습 전문가' 배럿 조프 구글행...제미나이·에이전트 고도화에 합류",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214547",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-28T14:27:21+00:00",
+    "raw_excerpt": "싱킹머신즈랩(TML)의 공동 창립자로 최고 기술책임자(CTO)를 지낸 배럿 조프가 오픈AI를 떠나 구글로 자리를 옮긴다. TML을 이탈한 뒤 오픈AI에 합류했지만, 불과 몇개월 만에 다시 이직하게 됐다. 월스트리트저널(WSJ)에 따르면, 구글은 16일(현지시간) 조프가 구글 딥마인드의 연구 담당 부사장으로 합류한다고 밝혔다.조프는 구글에서 강화학습과 사후학습 분야의 전문성을 바탕으로 '제미나이' 개발에 참여할 예정이다.그는 AI 모델의 사후학습 분야에서 오랜 경험을 쌓은 연구자다. 사후학습은 최근 AI 에이전트와 코딩 모델의 성능을",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "사후학습 전문가 배럿 조프가 오픈AI를 떠나 구글 딥마인드의 연구 부사장으로 합류해 제미나이와 AI 에이전트 개발에 참여한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214547_218226_3846.jpg",
+    "score": 8.242,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "오픈AI·앤트로픽 등 116개 기업 \"AI 사이버 위협 폭발 직전…범사회적 집단 방어 시급\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214529",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-28T13:02:57+00:00",
+    "raw_excerpt": "오픈AI와 앤트로픽, 마이크로소프트, 구글, 아마존 등 100개가 넘는 기업과 기관들이 AI를 악용한 사이버 공격이 급증할 것이라며 정부와 산업계에 범사회적 차원의 '집단 방어'에 나설 것을 촉구했다. AI 모델의 성능이 빠르게 향상하면서 단시간에 대규모 공격이 가능해진 만큼, 지금이 방어 체계를 강화할 제한된 기회라는 경고다.116곳의 기업과 기관은 27일(현지시간) 공동 공개서한을 통해 “사이버 방어를 강화할 수 있는 시간이 제한돼 있다”며 “조직과 정부, 기술·AI 기업들이 가용한 기술과 자원, 전문성을 총동원해야 한다”고 강",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "오픈AI, 앤트로픽 등 116개 기업이 AI 기반 사이버 공격의 급증을 경고하며 정부와 산업계의 범사회적 집단 방어 강화를 촉구했습니다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214529_218199_4447.jpg",
+    "score": 8.127,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "아이지에이웍스 “기업 데이터-소비자 행동 예측 결합해 ‘AI 인텔리전스 마케팅’ 개척”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214543",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-28T12:38:44+00:00",
+    "raw_excerpt": "아이지에이웍스가 AI로 소비자 행동을 이해하고 미래 행동을 추론하는 ‘소비자 대형행동모델(Consumer Large Behavior Model)’ 영역을 본격 개척한다.AI 데이터 전문 아이지에이웍스(대표 마국성)가 3400만 규모의 실제 소비자 행동 데이터를 바탕으로 자체 AI 파운데이션 모델 ‘웍스FM(WorksFM)’을 구축했다고 28일 밝혔다.아이지에이웍스는 지난 27일 열린 ‘스노우플레이크 월드투어 서울 2026’에서 SCI(Synthetic Consumer Intelligence)와 웍스FM의 기술 구조 및 적용 전략을",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "아이지에이웍스가 3400만 건의 실제 소비자 행동 데이터로 구축한 AI 파운데이션 모델 '웍스FM'을 통해 기업 데이터와 소비자 행동 예측을 결합한 'AI 인텔리전스 마케팅' 분야를 개척하고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214543_218219_2220.jpg",
+    "score": 8.095,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "파운데이션 모델"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "인피닉-아시아나IDT, AI 영상분석 기반 산업안전 솔루션 공동 사업 추진",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41650",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-08-28T16:36:07+00:00",
+    "raw_excerpt": "인공지능(AI) 플랫폼 전문 기업 인피닉(각자대표 박준형·최철규)이 아시아나IDT(대표 윤찬의)와 ‘산업안전 AI 솔루션 사업 협력을 위한 업무협약(MOU)’을 체결했다고 28일 밝혔다.이번 업무협약은 인피닉의 AI 영상 분석 솔루션 브랜드 ‘오론-아이(AURON-i)’와 아시아나IDT의 AI 산업안전보건 플랫폼 ‘플랜투두(Plan2Do)’를 연계해 산업 현장의 위험 감지부터 후속 안전관리 업무까지 연결하고, 관련 공동 사업 모델을 발굴하기 위해 마련됐다.양사는 중대재해 예방을 위한 안전보건 관리 체계 구축과 이행의 중요성이 높아지",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "인피닉과 아시아나IDT가 AI 영상분석 솔루션으로 산업 현장의 위험 감지부터 안전관리까지 연계하는 공동 사업을 추진한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202608/41650_62681_3429_v150.jpg",
+    "score": 7.769,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "순천서 동부권 7개 시·군 청년정책 간담회…공동 협력체계 구축",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214556",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-28T17:25:33+00:00",
+    "raw_excerpt": "AI 생성 영상순천시가 26일 순천청년센터에서 전남 동부권 7개 시·군 청년정책 관계자 13명이 참여한 첫 간담회를 열고 지역 간 협력체계 구축에 나섰다. 순천·여수·광양·곡성·구례·고흥·보성이 청년정책과 현안을 공유하는 자리가 마련된 것은 이번이 처음이다.이번 간담회는 지역별 청년정책을 공유하고 청년들의 의견을 공동정책과 협력사업으로 연결하기 위해 순천의 제안으로 성사됐다.참석자들은 청년정책협의체 상생협약과 네트워킹 추진, 시·군별 주요 청년정책과 현안사업 공유, 청년 교류 활성화 방안 등을 논의했다.순천은 이번 회의를 계기로 7",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "순천시가 전남 동부권 7개 시·군과 청년정책 간담회를 열어 지역 간 협력체계 구축과 공동정책 추진을 위한 협의를 시작했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214556_218233_1639.jpg",
+    "score": 7.508,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[게시판] 액션파워, 한컴오피스에 AI 음성인식 '다글로' 입점 등 단신",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214582",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-28T17:00:00+00:00",
+    "raw_excerpt": "■ 액션파워(대표 조홍식·이지화)는 AI 노트테이커 '다글로'가 한컴오피스 확장 플랫폼 '한애드온즈'에 입점했다고 밝혔다. 다글로는 ▲회의록 받아쓰기 ▲회의록 요약 ▲회의록 자동 작성 등 세 가지 기능을 제공한다. 이를 통해 사용자는 별도 음성 기록 서비스를 연동할 필요 없이 한글 프로그램 내에서 회의 녹음부터 받아쓰기, 요약, 문서화까지 한 번에 해결할 수 있다는 설명이다.■ 이스트시큐리티(대표 정상원)는 알약 리눅스 서버용에 ‘행위 기반 랜섬웨어 탐지 기능’을 새롭게 적용했다고 밝혔다. 이번 기능은 파일 훼손 탐지와 파일 시스템",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "액션파워의 AI 음성인식 노트테이커 '다글로'가 한컴오피스 확장 플랫폼에 입점해 한글 프로그램 내에서 회의 녹음부터 요약까지 통합 처리 가능해졌다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214582_218267_1731.jpg",
+    "score": 7.473,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[8월28일] 순천 AI 영상 뉴스 - 국도2호선 대체우회도로 예타 통과 등",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214580",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-28T16:55:38+00:00",
+    "raw_excerpt": "주영효 기자 society@aitimes.comPowered by AItimes AI Solution",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "순천 국도2호선 대체우회도로가 예비타당성조사를 통과했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214580_218264_4111.jpg",
+    "score": 7.468,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "코히어, 대규모 엔터프라이즈 문서 분석 AI ‘파스’ 공개...“성능·비용 다 잡았다”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214577",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-28T16:25:16+00:00",
+    "raw_excerpt": "기업용 AI 전문 코히어가 대용량 비즈니스 문서를 효율적으로 처리할 수 있는 비전 언어 모델 ‘파스(Parse)’를 출시했다.코히어는 27일(현지시간) 기존 광학문자인식(OCR) 수준을 넘어 다양한 비즈니스 문서 내 시각적 요소의 구조와 의미를 정교하게 이해하는 대규모 엔터프라이즈 문서 인텔리전스 솔루션 파스를 선보였다.파스는 23억개(2.3B) 매개변수를 갖춘 비전 언어 모델로, 금융, 보험, 과학 연구 등 주요 산업군에서 발생하는 대용량 문서를 기계가 읽기 쉬운 마크다운(Markdown) 형태로 변환해 준다.단순히 텍스트를 추출",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "코히어가 23억 매개변수 비전 언어 모델 '파스'를 출시해 OCR을 넘어 비즈니스 문서의 구조와 의미를 정교하게 분석하고 마크다운 형태로 변환할 수 있게 됐다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214577_218255_176.png",
+    "score": 7.426,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "미국, 반도체 2차 관세 검토…노트북·서버 등 완제품까지 포함하나",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214554",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-28T15:53:58+00:00",
+    "raw_excerpt": "도널드 트럼프 미국 행정부가 반도체를 넘어 이를 탑재한 노트북과 게임기, 데이터센터 서버 등까지 관세 대상에 포함하는 새로운 대규모 반도체 관세 도입을 검토하고 있다. 미국 내 반도체 생산 확대를 유도하기 위해 외국 기업의 관세 면제 혜택을 미국 내 투자와 연계하는 방안도 논의되고 있어, AI 데이터센터 구축에 필요한 첨단 반도체 공급과 비용에 상당한 영향을 미칠 가능성이 제기된다.폴리티코는 27일(현지시간) 정통한 복수의 소식통을 인용, 트럼프 행정부가 반도체에 대한 2차 관세 부과 방안을 검토하고 있다고 보도했다.다만 아직 구체",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "트럼프 행정부가 반도체뿐 아니라 노트북·서버 등 반도체 탑재 완제품까지 포함하는 2차 관세를 검토 중이며, 이는 AI 데이터센터 구축 비용에 영향을 미칠 수 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214554_218232_4925.jpg",
+    "score": 7.384,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "NH농협은행, 모바일 신분증 서비스 개인정보보호 관리 인증 획득",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48542",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-28T16:40:40+00:00",
+    "raw_excerpt": "[스마트타임스]NH농협은행은 금융플랫폼 NH올원뱅크가 금융권 최초로 모바일 신분증 서비스에 대한 정보보호 및 개인정보보호 관리체계(ISMS-P) 인증을 획득했다고 28일 밝혔다.ISMS-P는 금융보안원이 정보보호와 개인정보 보호를 위한 관리체계 적정성을 심사하는 인증제도다.NH농협은행은 ISMS-P 인증을 통해 NH올원뱅크 모바일 신분증 서비스의 정보보호 및 개인정보보호 관리체계의 안정성과 신뢰성을 인정받아 고객들에게 더욱 안전한 금융서비스를 제공할 예정이다.NH농협은행은 NH올원뱅크 앱에서 모바일 주민등록증과 운전면허증, 국가보훈",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "NH농협은행이 금융권 최초로 모바일 신분증 서비스에 대한 ISMS-P 정보보호 인증을 획득해 개인정보보호 관리체계의 안정성을 입증했다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202608/48542_47278_4033_v150.jpg",
+    "score": 5.831,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "개인정보"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "하나증권, 강원창조경제혁신센터와 혁신기업 육성 업무협약",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48558",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-28T16:12:46+00:00",
+    "raw_excerpt": "[스미트타임스]하나증권은 지난 27일 강원창조경제혁신센터와 ‘지역 스타트업 육성 및 투자 생태계 활성화를 위한 업무협약(MOU)’을 체결했다고 28일 밝혔다.이번 협약에 따라 하나증권은 스타트업에 대한 직접투자와 투자조합 출자를 검토하고 자금 조달 등 성장 단계별 금융지원을 제공한다. 아울러 기업공개(IPO)와 인수·합병(M A) 자문 등 자본시장 진출도 지원할 예정이다.강원창조경제혁신센터는 보육기업 정보를 공유하고 우수기업을 추천해 지역 혁신기업의 발굴과 성장을 지원하는 한편, 투자설명회 등을 통해 투자 유치 기회를 확대할 예정이",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "하나증권이 강원창조경제혁신센터와 협약을 맺고 지역 스타트업에 직접투자·금융지원·자본시장 진출을 지원하기로 했다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202608/48558_47277_1239_v150.jpg",
+    "score": 5.805,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업",
+      "투자 유치"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "스노우플레이크가 말하는, AI 시대 ‘에이전틱 엔터프라이즈’ 만드는 방법",
+    "url": "https://byline.network/2026/08/27-675/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-08-27T06:00:46+00:00",
+    "raw_excerpt": "“현재 많은 사람들은 AI 에이전트를 배포하면 에이전트가 데이터를 분석해 필요한 정보와 원하는 답을 얻을 수 있을 것이라고 잘못 생각하고 있다. 기업은 현재 다양한 애플리케이션, 다양한 데이터 형식과 데이터베이스 같은 파편화된 엔터프라이즈 아키텍처를 보유하고 있다. 이같은 환경에서 AI가 안정적으로 작동하는 방법을 찾은 것은 매우 어려운 과제다.” 스노우플레이크는 27일 서울 코엑스에서 열린 ‘스노우플레이크 월드 투어 서울’ 행사에서 기업이 이같은 문제를 해결해 에이전틱 엔터프라이즈 환경을 구현할 수 있는 핵심 방안을 소개했다.",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "스노우플레이크는 기업의 파편화된 데이터 아키텍처를 통합해 AI 에이전트가 안정적으로 작동하는 '에이전틱 엔터프라이즈' 구현 방법을 제시했다.",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/08/Snowflake-Bala-Kasiviswanathan-keynote_260827_th.jpg",
+    "score": 5.568,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "에이전틱",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "EDB, PB급 데이터웨어하우스 재해복구 기능 출시…복구 시간 최대 180배 단축",
+    "url": "https://zdnet.co.kr/view/?no=20260828163201",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-28T07:32:28+00:00",
+    "raw_excerpt": "[지디넷코리아]EDB가 포스트그레SQL 기반 대규모 병렬처리(MPP) 데이터웨어하우스 '웨어하우스PG'에 재해복구(DR) 기능을 추가했다. 금융권과 공공기관 등 대규모 분석 데이터를 운영하는 기업이 재해 발생 시 복구 시간을 획기적으로 단축하고 데이터 주권을 유지할 수 있도록 지원하기 위함이다.EDB는 '웨어하우스PG 재해복구(Disaster Recovery for WarehousePG)'를 공개하고 페타바이트(PB)급 데이터 환경에서도 안정적인 복구 체계를 구축할 수 있도록 지원한다고 28일 밝혔다.이번 기능은 EDB의 포스트그레SQL 기반 데이터·AI 플랫폼인 'EDB 포스트그레스 AI(EDB Postgres AI)'의 분석 환경에 복원력(Resilience)을 강화한 것이 특징이다. 기업은 온프레미스, 퍼블릭 클라우드, 하이브리드 클라우드 등 다양한 환경에 복구 클러스터를 구축하고 필요 시 직접 운영 환경으로 전환할 수 있다.최근 기업들이 AI 에이전트, 데이터 분석, 실시간 의사결정 시스템을 확대하면서 데이터웨어하우스는 단순 보고용 시스템을 넘어 핵심 비즈니스 인프라로 자리 잡고 있다. 그러나 PB급 환경에서는 기존 논리적 백업과 복구 방식이 수일 이상 소요되는 경우가 많아 장애 발생 시 사업 연속성 확보에 한계가 있다는 지적이 제기돼 왔다.웨어하우스PG 재해복구 기능은 별도 대기 클러스터를 유지하면서 특정 시점 기준으로 전체",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "EDB가 포스트그레SQL 기반 데이터웨어하우스 '웨어하우스PG'에 재해복구 기능을 추가해 PB급 데이터 환경에서 복구 시간을 최대 180배 단축할 수 있게 했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/28/44d7523131427ec7923f943e14b353e1.jpg",
+    "score": 5.317,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[모두의 AI] 이스트소프트, 선정 불발…\"설치형 AI 에이전트 개발 지속\"",
+    "url": "https://zdnet.co.kr/view/?no=20260828161934",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-28T07:22:04+00:00",
+    "raw_excerpt": "[지디넷코리아]이스트소프트가 정부 프로젝트 '모두의 인공지능(AI)' 수행기관 선정에서 고배를 마셨지만 기존부터 준비해 온 설치형 개인 AI 에이전트 '알비서' 사업을 계획대로 추진한다. 정부 사업 참여를 위해 구체화한 서비스 구조와 협력 생태계를 활용해 AI 에이전트 경쟁력을 높일 방침이다.과학기술정보통신부는 '모두의 AI' 프로젝트 수행기관으로 SK텔레콤과 카카오, KT 컨소시엄을 최종 선정했다고 28일 밝혔다. 공모에는 총 6개 사업자가 참여했으며 이스트소프트 컨소시엄은 최종 명단에 포함되지 않았다.이스트소프트는 선정 결과와 관계없이 알비서를 예정대로 선보일 계획이다. 알비서는 이스트소프트가 올해 상반기부터 준비해 온 설치형 개인 AI 에이전트다. 웹과 모바일, PC 환경을 넘어 이용자 생활과 업무를 연결하고 실제 행동까지 지원하는 것을 목표로 한다.이스트소프트는 이번 공모에서 알비서 중심으로 대국민 AI 서비스 구상을 제시했다. 메가존과 슈어소프트테크, 비드래프트, 이스트에이드, 와이즈넛, 폴라리스오피스 등이 컨소시엄에 참여해 인프라 구축과 AI 안전성 검증, 모델 최적화, 검색, 공공·문서 기반 에이전트 등을 맡는 구조였다.또 알툴즈와 알약, 포털 줌 등 기존 서비스 접점을 알비서 확산에 활용할 계획이었다. 다양한 AI 에이전트와 국내 AI 기업 서비스를 연결해 알비서를 개방형 AI 플랫폼으로 확장한다는 구상이다.이스트소프트",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "이스트소프트가 '모두의 AI' 정부 프로젝트 선정에 탈락했으나 설치형 개인 AI 에이전트 '알비서' 개발을 계획대로 추진하며 협력 생태계를 활용해 경쟁력을 높일 방침이다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/20/980f5e8d51e8cd659937c30acd8e037f.png",
+    "score": 5.307,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "비자, 코드 취약점 찾아 스스로 수정하는 AI 도구 출시",
+    "url": "https://zdnet.co.kr/view/?no=20260828155222",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-28T07:06:11+00:00",
+    "raw_excerpt": "[지디넷코리아]비자가 소프트웨어 취약점을 찾는 데 그치지 않고 수정 패치까지 스스로 작성·검증하는 오픈소스 보안 도구를 출시했다.27일(현지시간) 벤처비트 등 외신에 따르면 비자는 오픈소스 보안 프레임워크 '비자 취약점 에이전틱 하네스(VVAH)'의 차기 버전을 공개했다. AI가 직접 수정 패치를 만들고 자신이 만든 패치가 실제로 취약점을 제거했는지 스스로 검증하는 도구다. 제대로 작동하지 않으면 이를 다시 고치는 기능까지 탑재됐다.취약점을 발견·검증·보고하는 데 머물렀던 기존 버전과 비교하면 AI가 스스로 문제를 해결하는 자율 기능이 새로 더해졌다.비자는 이번 기능으로 취약점을 발견해 조치하기까지 걸리는 시간을 크게 줄였다고 밝혔다. 기존에는 몇 주가 걸리던 작업이 짧게는 몇 시간 만에 끝난다고 설명했다.라자트 타네자 비자 기술 총괄은 \"AI가 취약점 발견과 악용 사이 시간을 줄이고 있다\"며 \"방어자에게는 더 빠르고 신뢰할 수 있는 대응 경로가 필요하다\"고 말했다.VVAH는 총 11단계로 작동한다. AI 에이전트가 취약점을 탐지하고 수정 패치를 작성한 뒤 이를 검증한다. 마지막 검증 단계에서는 자신이 만든 패치를 직접 공격해 취약점이 실제로 사라졌는지 스스로 판정한다.이 도구는 앤트로픽과의 협업에서 출발했다. VVAH는 비자가 앤트로픽 AI 사이버보안 이니셔티브 '프로젝트 글래스윙'에 참여하면서 만들어졌다. 초기에는 앤트로픽의 '클",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "비자가 AI가 코드 취약점을 자동으로 탐지하고 패치를 작성·검증하는 보안 도구 VVAH를 출시해 취약점 해결 시간을 수주에서 수시간으로 단축했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/28/3afe4e77c4ccc73ad4317299d78cc473.png",
+    "score": 5.292,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "취약점"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "韓총리 “규제 타파, 확실히 챙기겠다”… '모두의 성장' 이끄는 규제 합리화 강조",
+    "url": "https://www.etnews.com/20260828000260",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-08-28T06:45:24+00:00",
+    "raw_excerpt": "한성숙 국무총리는 28일 “규제 합리화를 통해 누구나 공정한 환경에서 새로운 아이디어로 도전하고 투자할 수 있도록, 그 성과가 모두의 성장으로 이어지도록 하는 데 최선을 다하겠다”고 밝혔다. 한 총리는 이날 서울 중구 대한상공회의소에서 열린 '경제 협·단체 규제합리화 간담회'를 주재하고 이같이 말했다. 간담회는 앞서 열린 중기·벤처·스타트업 대토론회(12일)와 신산업 분야 간담회(20일)에 이어 이달 들어 세 번째로 마련된 경제계 소통 자리다.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "한성숙 국무총리가 규제 합리화를 통해 공정한 경쟁 환경을 조성하고 경제 전반의 성장을 추진하겠다고 강조했다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/08/28/rcv.YNA.20260828.PYH2026082804340001300_P1.jpg",
+    "score": 5.109,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "게임스컴서 만난 DMCC·넥써쓰…\"두바이를 글로벌 게임 허브로\"",
+    "url": "https://zdnet.co.kr/view/?no=20260828170531",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-28T08:08:51+00:00",
+    "raw_excerpt": "[지디넷코리아][쾰른(독일)=진성우 기자] 세계 최대 게임 전시회 '게임스컴 2026'이 열린 독일 쾰른 전시장, 두바이 복합상품센터(DMCC)와 넥써쓰가 한자리에 섰다. 2033년까지 글로벌 10대 게임 허브로 도약하려는 두바이 정부와 원스토어를 앞세워 글로벌 유통 영토를 넓히려는 한국 게임사. 목표와 셈법은 서로 다르지만, 두 주체는 중동을 기점으로 글로벌 시장을 잇는다는 같은 방향을 바라보며 협력의 보폭을 넓히고 있다.게임스컴 2026 현장에는 두바이 영화게임산업위원회 주도로 DMCC 등 현지 주요 정부 기관이 참여한 두바이 파빌리온 부스가 마련됐다. 이 자리에서 벨랄 자소마 DMCC 산업 생태계 총괄 시니어 디렉터와 김재영 넥써쓰 두바이 법인장을 함께 만났다.두바이 정부는 인프라와 규제 완화를 앞세워 글로벌 개발사를 유치하려 하고, 넥써쓰는 최근 인수한 원스토어와 자체 메인넷 '원체인'을 무기로 현지 생태계의 유통 축을 선점하겠다는 전략이다. 공공과 민간이라는 서로 다른 위치에서 두바이 게임 시장의 미래를 설계하고 있는 두 사람의 이야기를 들었다.DMCC는 두바이 정부가 설립·운영하는 자유무역지대다. 자소마 총괄은 \"200헥타르, 약 200만㎡ 규모 구역에 약 2만6000개 기업이 입주해 있고 180개 이상 국적이 모여 있다\"며 \"우리는 기업 등록과 라이선스 발급, 산업군별 생태계 조성을 담당한다\"고 소개했다.원래 설립 목적은",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "두바이 정부와 넥써쓰가 게임스컴 2026에서 만나 두바이를 글로벌 게임 허브로 육성하기 위해 인프라·규제완화와 유통 플랫폼 확보를 통해 협력하기로 했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/28/98af7d92c742a93c1f838d4839b8ff7b.jpg",
+    "score": 4.676,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[유미's 픽] AX로 돈 버는 법 찾았나…대기업 SI 영업이익률 '1위' 누구",
+    "url": "https://zdnet.co.kr/view/?no=20260828170203",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-28T08:04:41+00:00",
+    "raw_excerpt": "[지디넷코리아]국내 IT서비스 기업들이 인공지능(AI)과 클라우드를 앞세워 매출을 늘리고 있지만 수익성에서 희비가 엇갈리고 있다. AI 전환(AX) 수요를 실제 이익으로 연결하는 능력에 따라 업체별 실적 격차도 벌어지는 모습이다.28일 금융감독원 전자공시시스템에 따르면 주요 IT서비스 기업 가운데 올해 상반기 영업이익률이 가장 높은 곳은 LG CNS와 신세계아이앤씨로, 각각 약 7.8%를 기록했다. SK AX는 7.3%, CJ올리브네트웍스는 6.7%로 뒤를 이었다. 현대오토에버는 5.1%, 삼성SDS는 4.4%, 롯데이노베이트는 4.0%, 포스코DX는 2.9% 수준으로 집계됐다. 이에 따라 LG CNS와 신세계아이앤씨, SK AX는 올 상반기 동안 주요 업체 가운데 상대적으로 높은 수익성을 기록한 것으로 평가됐다. 특히 LG CNS는 AI·클라우드 사업 확대와 함께 미래 성장 사업에 대한 선제 투자를 이어가 눈길을 끌었다. 생성형 AI와 에이전틱 AI, 피지컬 AI를 비롯해 AI·데이터 플랫폼과 서비스형 GPU(GPUaaS) 등으로 연구개발 범위를 넓히면서 상반기 연구개발비는 268억원을 기록했다. 영업이익률은 지난해 상반기 8.2%에서 올해 7.8%로 소폭 낮아졌지만 7%대 후반을 유지했다.미래 사업 투자가 이어지는 가운데 LG CNS의 AI·클라우드 사업도 성장세를 이어갔다. 클라우드·데이터·AI 등을 포함한 클라우드 AI 매출은",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "AI·클라우드 사업 확대로 LG CNS와 신세계아이앤씨가 상반기 영업이익률 7.8%로 대기업 SI업체 중 1위를 기록했으며, AI 전환 수요를 수익성으로 연결하는 능력에 따라 업체별 실적 격차가 벌어지고 있다.",
+    "thumbnail": "https://image.zdnet.co.kr/2025/07/22/9effc7b3848707220d4316a3fcbe0671.png",
+    "score": 4.672,
+    "engagement": 0,
+    "matched_keywords": [
+      "ax"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "ACM 리서치, 자사 세정 장비 '습식 공정' 플랫폼으로 확장",
+    "url": "https://zdnet.co.kr/view/?no=20260828162425",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-28T07:48:01+00:00",
+    "raw_excerpt": "[지디넷코리아]반도체 장비기업 ACM리서치(ACM Research)는 자사의 '울트라 C 타호이(Ultra C Tahoe)' 시스템을 멀티 프로세스 습식 공정 플랫폼으로 확장했다고 28일 밝혔다.이번 확장을 통해 이 시스템은 로직 및 메모리 반도체 제조를 위한 더욱 광범위한 첨단 습식 공정 애플리케이션을 지원할 수 있게 됐다. 새롭게 확장된 플랫폼은 이미 여러 주요 반도체 제조회사에 채택됐다.ACM 고유의 하이브리드 습식 공정 기술을 기반으로 하는 울트라 C 타호이 플랫폼은 배치(batch) 방식과 싱글 웨이퍼(single-wafer) 공정을 하나의 공통 아키텍처에 통합해, 단일 플랫폼 상에서 여러 첨단 습식 공정을 수행할 수 있도록 설계됐다.이 플랫폼은 배치 세정의 장점을 충분히 활용해 더 긴 공정 시간을 지원하고 화학물질 사용량을 줄일 뿐 아니라, 싱글 웨이퍼 세정의 주요한 이점인 우수한 파티클 제거 효율, 웨이퍼 간 교차 오염의 대폭적인 감소, 정밀한 공정 시간 제어 같은 장점들도 함께 제공한다.또한 이 플랫폼은 최근 첨단 공정 노드를 위한 리사이클 모니터 웨이퍼 리클레임(recycle monitor wafer reclaim) 공정 기능도 새롭게 추가했다.울트라 C 타호이 시스템은 하이브리드 아키텍처를 활용함으로써, 기존에는 서로 다른 장비에서 별도로 수행했던 여러 공정 단계를 하나의 하이브리드 플랫폼에 통합하고 있다. 이를 통",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "ACM리서치가 반도체 세정 장비 '울트라 C 타호이'를 배치와 싱글 웨이퍼 방식을 통합한 멀티 프로세스 습식 공정 플랫폼으로 확장해 주요 반도체 제조사들이 채택하고 있다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/28/6a427f2b057ecf699341721a55da5f65.png",
+    "score": 4.656,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "삼성, '여권 타입' 갤Z폴드8 DDI 수급 비상...\"내년 개발물량도 활용\"",
+    "url": "https://zdnet.co.kr/view/?no=20260828153538",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-28T07:08:42+00:00",
+    "raw_excerpt": "[지디넷코리아]삼성전자가 올해 처음 출시한 '여권 타입' 폴더블폰 갤럭시Z폴드8용 디스플레이 드라이버 IC(DDI) 수급에 비상이 걸렸다. Z폴드8 수요가 예상을 웃돌자 삼성전자가 부품 발주량을 늘리고 있지만, DDI를 위탁생산하는 대만 UMC의 해당 공정 생산능력이 한계치에 도달해 DDI 생산일정을 앞당기기 어려운 것으로 알려졌다. DDI가 여러 부품 중에서도 범용성이 특히 떨어져 '병목'이 되고 있다. 삼성전자는 올해 폴더블폰 신제품을 기존 모델인 ▲북 타입 갤럭시Z폴드8울트라 ▲클램셸 타입 Z플립8, 그리고 ▲여권 타입 Z폴드8까지 3종을 출시했다. 출시 전부터 관심이 집중된 Z폴드8 수요가 예상을 웃돌고 있다. 28일 업계에 따르면 삼성전자가 갤럭시Z폴드8 부품 발주량을 당초 예상치보다 늘리고 있지만, 여러 부품 중 DDI 수급이 특히 빡빡한 것으로 파악됐다. Z폴드8용 DDI는 삼성전자 시스템LSI사업부가 설계하고, 대만 반도체 위탁생산(파운드리) 업체 UMC가 22나노미터(nm) 공정에서 만든다. 한 업계 관계자 A는 \"UMC의 22나노 공정 생산능력이 현재 한계치에 도달했다\"며 \"삼성전자가 UMC에 갤럭시Z폴드8용 DDI에 대해 '슈퍼 핫 런'(급행 서비스)을 요청했지만 UMC에선 어렵다고 답했다\"고 밝혔다. 반도체 파운드리 생산라인에서 웨이퍼 처리속도는 일반적으로 ▲노멀 런 ▲핫 런 ▲슈퍼 핫 런 등으로 구성된다. 슈퍼",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "삼성전자의 여권 타입 갤럭시Z폴드8이 예상 이상의 수요로 DDI 수급에 비상이 걸렸으며, UMC의 22나노 공정 한계로 생산 일정 단축이 어려운 상황입니다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/28/e9d8b84550a2d0889f6673dc45db7dde.png",
+    "score": 4.62,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "Google's Gemini 3.5 Transcribe turns speech to text in 85 languages while auto-correcting your verbal stumbles",
+    "url": "https://the-decoder.com/googles-gemini-3-5-transcribe-turns-speech-to-text-in-85-languages-while-auto-correcting-your-verbal-stumbles/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-08-27T10:40:08+00:00",
+    "raw_excerpt": "Google's new Gemini 3.5 Transcribe recognizes over 85 languages, strips filler words, and corrects slips of the tongue in real time. It hits a 4.0 percent word error rate in streaming mode, with 70 percent lower latency than its predecessor, Chirp 3. Through function calling, the model can hand off tasks to other Gemini models. The article Google s Gemini 3.5 Transcribe turns speech to text in 85 languages while auto-correcting your verbal stumbles appeared first on The Decoder .",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Google의 새로운 음성인식 모델 Gemini 3.5 Transcribe가 85개 이상의 언어를 지원하며 실시간으로 말실수를 자동 교정하고 지연 시간을 70% 단축했다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/google_gemini-1.png",
+    "score": 2.826,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "Climate change is strengthening El Niño, coral records suggest",
+    "url": "https://www.science.org/content/article/climate-change-strengthening-el-ni%C3%B1o-coral-records-suggest",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-28T07:19:16+00:00",
+    "raw_excerpt": "Article URL: https://www.science.org/content/article/climate-change-strengthening-el-ni%C3%B1o-coral-records-suggest Comments URL: https://news.ycombinator.com/item?id=49475404 Points: 18 # Comments: 1",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "산호 기록에 따르면 기후변화가 엘니뇨 현상을 강화하고 있다.",
+    "thumbnail": "",
+    "score": 2.743,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "Sovereign Tech Agency invests €500k in Flatpak",
+    "url": "https://modal.cx/blog/announcing-flatpak-sta/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-28T05:42:47+00:00",
+    "raw_excerpt": "Article URL: https://modal.cx/blog/announcing-flatpak-sta/ Comments URL: https://news.ycombinator.com/item?id=49474786 Points: 82 # Comments: 41",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Sovereign Tech Agency가 리눅스 애플리케이션 패키징 표준인 Flatpak 개발에 50만 유로를 투자하기로 결정했습니다.",
+    "thumbnail": "/blog/announcing-flatpak-sta/header.webp",
+    "score": 2.69,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "GoGoGrandparent (YC S16) is hiring back end engineers",
+    "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-28T03:35:15+00:00",
+    "raw_excerpt": "Article URL: https://www.ycombinator.com/companies/gogograndparent/jobs/2vbzAw8-backend-engineer Comments URL: https://news.ycombinator.com/item?id=49474060 Points: 0 # Comments: 0",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "GoGoGrandparent가 백엔드 엔지니어를 채용하고 있습니다.",
+    "thumbnail": "https://bookface-images.s3.amazonaws.com/logos/4e0e521a2c000fa03eb76e02a08f3584d09ad0c1.png?1668571783",
+    "score": 2.619,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "Bootstrappable Builds: How and Why",
+    "url": "https://lwn.net/Articles/1088279/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-28T03:02:42+00:00",
+    "raw_excerpt": "Article URL: https://lwn.net/Articles/1088279/ Comments URL: https://news.ycombinator.com/item?id=49473868 Points: 36 # Comments: 18",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "컴파일러와 빌드 도구를 처음부터 스스로 구축할 수 있는 'Bootstrappable Builds'의 개념과 중요성을 설명한 글입니다.",
+    "thumbnail": "",
+    "score": 2.601,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "Stripe said to abandon $50B pursuit of PayPal",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-28T01:57:26+00:00",
+    "raw_excerpt": "https://archive.ph/qdE54 Comments URL: https://news.ycombinator.com/item?id=49473483 Points: 135 # Comments: 153",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Stripe가 PayPal 인수를 위한 약 500억 달러 규모의 추진을 포기한 것으로 보도됐습니다.",
+    "thumbnail": "",
+    "score": 2.565,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "Select * from Internet.blogposts",
+    "url": "https://pfrazee.leaflet.pub/3mu3p2smmis22",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-27T22:34:32+00:00",
+    "raw_excerpt": "Article URL: https://pfrazee.leaflet.pub/3mu3p2smmis22 Comments URL: https://news.ycombinator.com/item?id=49472161 Points: 84 # Comments: 39",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "I appreciate you providing the article details, but I notice the actual article content wasn't included in your message—only the metadata (title, URL, points, and comment count) is visible.\n\nTo provide an accurate 1-sentence summary in Korean, I would need the full article text or at least substantial excerpts from the body content.\n\nCould you please share the complete article text or key passages? Then I'll deliver a concise Korean summary within 80 characters.",
+    "thumbnail": "https://leaflet.pub/lish/did%3Aplc%3Aragtjsm2j2vknwkz3zp4oxrd/3ly4hnkatvc2p/3mu3p2smmis22/opengraph-image-1qv6ug?3525228eea30403c",
+    "score": 2.452,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "Doctors are finally learning to manage antidepressant withdrawal",
+    "url": "https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-27T22:26:04+00:00",
+    "raw_excerpt": "https://web.archive.org/web/20260826205502/https://www.newsc... https://archive.ph/zahjc Comments URL: https://news.ycombinator.com/item?id=49472090 Points: 107 # Comments: 99",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "의료진이 항우울제 중단 시 나타나는 금단증상을 체계적으로 관리하는 방법을 학습하고 있다.",
+    "thumbnail": "",
+    "score": 2.447,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+    "url": "https://github.com/elyosh/OpenTIE/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-27T22:10:47+00:00",
+    "raw_excerpt": "Article URL: https://github.com/elyosh/OpenTIE/ Comments URL: https://news.ycombinator.com/item?id=49471965 Points: 153 # Comments: 37",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "1990년대 명작 게임 'Tie Fighter'와 'X-Wing Alliance'를 현대적으로 재구현한 오픈소스 프로젝트 OpenTIE와 OpenXWA가 공개됐다.",
+    "thumbnail": "https://opengraph.githubassets.com/02883a590ba1039de9f7f2e5a8073af00eab9ccc35147fb9700c484beef9332a/elyosh/OpenTIE",
+    "score": 2.439,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "Gemini-3.5-Transcribe",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-27T18:03:42+00:00",
+    "raw_excerpt": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/ Comments URL: https://news.ycombinator.com/item?id=49468818 Points: 266 # Comments: 84",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Google이 음성 인식 특화 모델 Gemini-3.5-Transcribe를 공개했으며, 이는 음성-텍스트 변환 작업에서의 성능 강화를 목표로 합니다.",
+    "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.width-1300.jpg",
+    "score": 2.301,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "Show HN: Voronoi Go",
+    "url": "https://voronoigo.com/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-27T18:03:37+00:00",
+    "raw_excerpt": "I posted once before but wanted to share again because a lot has changed. There's now a fairly strong bot to play against (contributed by a community member) and also correspondence games. The combination of these things helps a bit in finding people to play against. Comments URL: https://news.ycombinator.com/item?id=49468816 Points: 128 # Comments: 19",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "개선된 AI 봇과 대응전 기능이 추가된 Voronoi Go 게임이 Hacker News에서 주목받고 있습니다.",
+    "thumbnail": "https://voronoigo.com/og-image.png",
+    "score": 2.301,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  }
+]
