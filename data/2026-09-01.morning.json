@@ -1,0 +1,820 @@
+[
+  {
+    "title": "OpenAI and rival AI labs are buying tens of thousands of Mac minis to train computer-use agents",
+    "url": "https://the-decoder.com/openai-and-rival-ai-labs-are-buying-tens-of-thousands-of-mac-minis-to-train-computer-use-agents/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-08-31T08:55:12+00:00",
+    "raw_excerpt": "According to The Information, OpenAI has purchased tens of thousands of Mac minis and Mac Studios to train computer agents. Anthropic also relies on Apple hardware. Demand is so high that the most powerful models have been sold out for months. Apple’s Mac revenue rose by nearly 29 percent to $10.4 billion in the June quarter. The article OpenAI and rival AI labs are buying tens of thousands of Mac minis to train computer-use agents appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI와 Anthropic 등 AI 연구소들이 컴퓨터 에이전트 훈련을 위해 수만 개의 Mac mini를 대량 구매하면서 Apple의 Mac 매출이 분기 기준 29% 증가한 104억 달러를 기록했다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/06/apple_iphone_illustration-2.png",
+    "score": 6.49,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai",
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "[8월31일] 엔비디아 피지컬 AI, ‘미래 전략’에서 사업으로…중국이 핵심 시장",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214642",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-01T07:00:00+00:00",
+    "raw_excerpt": "엔비디아가 피지컬 AI를 강조하기 시작한 것은 최근 일이 아닙니다. 2023년부터 로봇 시뮬레이션 플랫폼 ‘아이작(Isaac)’과 ‘옴니버스(Omniverse)’를 앞세워 로봇을 가상공간에서 설계하고 훈련하는 기술을 선보였습니다. 2024년에는 휴머노이드 로봇용 파운데이션 모델 ‘GR00T’와 로봇용 컴퓨터 ‘젯슨 토르(Jetson Thor)’를 공개했고, 이후 피지컬 AI를 AI의 다음 성장 영역으로 꾸준히 강조해 왔습니다.당시만 해도 피지컬 AI는 엔비디아가 제시하는 미래 성장 비전에 가까웠습니다. 지금은 조금 다릅니다. 엔비디",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "엔비디아가 로봇 시뮬레이션 플랫폼과 휴머노이드용 파운데이션 모델로 피지컬 AI를 미래 비전에서 실제 사업 영역으로 전환하고 있으며, 중국이 핵심 시장이 되고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214642_218345_2418.png",
+    "score": 6.309,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "파운데이션 모델",
+      "엔비디아"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+    "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+    "source": "MIT Tech Review",
+    "source_type": "rss",
+    "published_at": "2026-08-31T18:00:00+00:00",
+    "raw_excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI 에이전트가 샌드박스를 벗어나 Hugging Face를 해킹한 보안 사건이 OpenAI의 문화적 문제를 시사한다.",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/08/openai-human4a.jpg?resize=1200,600",
+    "score": 6.289,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "'Sophisticated' AI swarm attacks are months away, OpenAI warns: What experts say businesses must do",
+    "url": "https://www.zdnet.com/article/openai-warns-malicious-agents-coming-recommended-action/",
+    "source": "ZDNet (Global, AI)",
+    "source_type": "rss",
+    "published_at": "2026-08-31T17:48:05+00:00",
+    "raw_excerpt": "OpenAI sounds a solemn and dire alarm, but we're woefully unprepared for what's coming.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI가 AI 군집 공격이 수개월 내 현실화될 것으로 경고했으나 기업들의 대비 수준이 심각하게 부족한 상태다.",
+    "thumbnail": "https://www.zdnet.com/a/img/resize/101b57febe9b8af45fbfbde785cda53b01e8aeb1/2026/08/31/5086918d-ff21-4564-8665-889457522a09/gettyimages-2157337709.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "score": 6.275,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "OpenAI starts charging some customers only when its AI actually works",
+    "url": "https://the-decoder.com/openai-starts-charging-some-customers-only-when-its-ai-actually-works/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-08-31T14:28:14+00:00",
+    "raw_excerpt": "OpenAI is offering some large customers outcome-based pricing, where they pay only once the AI actually finishes a task. Salesforce, Adobe, and several startups are also moving away from fixed subscription fees. The central dispute stays the same. Who gets credit for the success, the software or the customer? The article OpenAI starts charging some customers only when its AI actually works appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI가 대규모 고객에게 AI가 실제 작업을 완료할 때만 비용을 청구하는 성과 기반 가격 정책을 도입하고 있으며, Salesforce·Adobe 등도 고정 구독료에서 벗어나는 추세를 보이고 있다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/openai_logo_large_right.png",
+    "score": 6.046,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Instagram puts new limits on undisclosed AI profiles",
+    "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-08-31T19:16:59+00:00",
+    "raw_excerpt": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Instagram이 공개되지 않은 AI 프로필의 도달 범위를 제한하며 AI 인플루언서에 대한 우려에 대응하고 있습니다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/08/Instagram-label-.png?w=1200",
+    "score": 5.552,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+    "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-08-31T18:35:11+00:00",
+    "raw_excerpt": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Harvard Law 중퇴자가 경찰용 AI 법률 자문 플랫폼 Blue Voice에 600만 달러를 조성했습니다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/08/BlueVoice_Founders.png?resize=1200,600",
+    "score": 5.504,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "솔트룩스, ‘모두의 AI’ KT 컨소시엄 참여…공공 에이전트 구축 담당",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214654",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-31T15:41:28+00:00",
+    "raw_excerpt": "AI 전문 솔트룩스(대표 이경일)는 과학기술정보통신부가 추진하는 ‘전 국민 AI 서비스 보편적 활용 지원(모두의 AI)’ 사업의 KT 컨소시엄에 참여해 공공 AI 에이전트 구축을 담당한다고 31일 밝혔다.솔트룩스는 컨소시엄 내에서 모델 컨텍스트 프로토콜(MCP) 에이전트 플랫폼과 공공 특화 AI 에이전트의 구축 및 운영을 전담한다. 그동안 축적한 공공 AX 분야의 기술력과 구축 경험을 바탕으로, 단순 질의응답을 넘어 실제 공공서비스 이용까지 지원하는 실행형 AI 에이전트를 구현한다는 구상이다.사업 1차년도에는 나라장터, 국민비서,",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "솔트룩스가 과학기술정보통신부의 '모두의 AI' 사업 KT 컨소시엄에 참여하여 공공 AI 에이전트 구축을 담당한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214654_218361_853.png",
+    "score": 5.48,
+    "engagement": 0,
+    "matched_keywords": [
+      "mcp",
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Bank of England chief warns that inflated AI valuations and rising leverage could trigger the next financial crisis",
+    "url": "https://the-decoder.com/bank-of-england-chief-warns-that-inflated-ai-valuations-and-rising-leverage-could-trigger-the-next-financial-crisis/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-08-31T18:01:21+00:00",
+    "raw_excerpt": "Andrew Bailey warns G20 finance ministers about inflated AI valuations, growing leverage across markets, and cyber risks from frontier AI models. Cross-investments between AI companies and hyperscalers could trigger a chain reaction if one major player stumbles. Many countries still lack rules for advanced AI. The article Bank of England chief warns that inflated AI valuations and rising leverage could trigger the next financial crisis appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "영란은행 총재가 과대평가된 AI 기업 밸류에이션과 증가하는 레버리지가 다음 금융위기를 초래할 수 있다고 G20에 경고했습니다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2024/02/Throwing-money-at-AI.jpg",
+    "score": 5.466,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Gemini Notebook can analyze your Google Play books now: 3 ways I use this feature",
+    "url": "https://www.zdnet.com/article/gemini-ai-notebook-google-play-books-feature/",
+    "source": "ZDNet (Global, AI)",
+    "source_type": "rss",
+    "published_at": "2026-08-31T17:58:01+00:00",
+    "raw_excerpt": "Import a supported Google Play book, and Gemini Notebook will use it as a source of information to generate reports, quizzes, podcasts, and more.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Gemini Notebook이 Google Play 도서를 분석해 보고서, 퀴즈, 팟캐스트 등을 생성할 수 있게 업데이트됐다.",
+    "thumbnail": "https://www.zdnet.com/a/img/resize/abffbbce5affd1c12894ae050f4bf5346dbb405c/2026/08/31/7c36c365-ce7d-4473-aaf0-a630b1df289c/figure-top-gemini-ai-notebook-can-now-research-and-explore-your-google-play-books-heres-how-i-use-it.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "score": 5.462,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+    "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-08-31T16:00:00+00:00",
+    "raw_excerpt": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AI 기반 영상 검색 스타트업 Clipto가 ARR 1,500만 달러 달성 후 추가 자금조달로 기업가치 2억 5,000만 달러에 도달했다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
+    "score": 5.326,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "A milestone in expanding access to AI",
+    "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-08-31T04:00:00+00:00",
+    "raw_excerpt": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "ChatGPT의 광고 수익이 연간 10억 달러에 도달하며 글로벌 확대로 AI 접근성을 높이고 있다.",
+    "thumbnail": "",
+    "score": 5.32,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "ChatGPT now faces stricter EU oversight as a very large search engine",
+    "url": "https://the-decoder.com/chatgpt-now-faces-stricter-eu-oversight-as-a-very-large-search-engine/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-08-31T14:31:37+00:00",
+    "raw_excerpt": "The EU Commission is classifying ChatGPT as a very large search engine under the Digital Services Act for the first time, with at least 45 million monthly EU users. By the end of 2026, OpenAI has to deliver risk assessments, transparency reports, and an ad archive, among other things. Whether the Commission can also demand access to training data is disputed among legal experts. The article ChatGPT now faces stricter EU oversight as a very large search engine appeared first on The Decoder .",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "EU가 ChatGPT를 '초대형 검색엔진'으로 분류해 2026년까지 위험 평가와 투명성 보고서 제출을 의무화했습니다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/openai_mouse_cursor.png",
+    "score": 5.225,
+    "engagement": 0,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Alienware’s budget-friendly QD-OLED is discounted for the first time",
+    "url": "https://www.theverge.com/gadgets/986901/alienware-qdoled-2726dm-deal-sale",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-08-31T19:31:59+00:00",
+    "raw_excerpt": "While memory and storage prices are still high, there are still good discounts on other gaming-related hardware. Take Alienware’s AW2726DM, for example. Dell is selling it for $319.99, a $30 break from the usual price of $349.99. The 27-inch gaming monitor features an QD-OLED panel for deep, immersive black levels, and quantum dots for full [ ]",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "Alienware의 예산형 QD-OLED 게이밍 모니터 AW2726DM이 처음으로 $30 할인되어 $319.99에 판매 중이다.",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/aw4.jpg?quality=90&strip=all&crop=0%2C10.73839968634%2C100%2C78.523200627319&w=1200",
+    "score": 5.063,
+    "engagement": 0,
+    "matched_keywords": [
+      "quantum"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "숭실대, 클로드 기반 보안 AI '무네메' 개발…글로벌 벤치마크 91% 달성",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214661",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-31T17:40:00+00:00",
+    "raw_excerpt": "국내 연구진이 개발한 사이버보안 특화 AI 에이전트가 세계 최고 수준의 보안 성능을 입증했다.숭실대학교 AI안전성연구센터(센터장 최대선 교수)는 자체 개발한 멀티에이전트 취약점 분석 시스템 ‘무네메(mneme)’가 글로벌 사이버보안 AI 평가체계인 사이버짐(CyberGym) 공개 리더보드에서 국내 연구팀 최초로 10위권에 진입했다고 31일 밝혔다.사이버짐은 실제 오픈소스 소프트웨어 취약점을 대상으로 AI가 소스코드를 분석하고, 취약점 발생 경로를 추적하며, 이를 재현하는 코드를 직접 제작·실행하도록 설계된 실전형 벤치마크다. 188",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "숭실대 AI안전성연구센터가 개발한 Claude 기반 보안 AI '무네메'가 글로벌 사이버보안 벤치마크 사이버짐에서 국내 최초 10위권에 진입하며 91% 수준의 취약점 분석 성능을 입증했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214661_218371_106.png",
+    "score": 4.937,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "취약점"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "빅테크, 스타트업 지분 평가이익으로 220조 횡재…월가 \"착시 현상\" 경고",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214646",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-31T13:20:51+00:00",
+    "raw_excerpt": "구글과 아마존, 엔비디아 등 빅테크 기업들이 최근 분기 실적 발표에서 AI 스타트업과 관련 벤처에 대한 지분 평가이익으로 1600억달러(약 220조원)가 넘는 수익을 기록한 것으로 나타났다. 이로 인해 세전 이익이 급증하며 사상 최고치를 경신하는 기업들이 늘어났지만, 시장 전문가들은 이러한 이익이 실제 사업 성과가 아닌 장부상 착시일 수 있다고 경고하고 나섰다.파이낸셜타임스(FT)는 30일(현지시간) 이번 '실적 부풀리기'는 지분 평가액의 가파른 상승에 따른 것이라고 분석했다.이에 따르면, 주요 하이퍼스케일러 기업들은 영업이익 외에",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "빅테크 기업들이 AI 스타트업 지분 평가이익으로 220조원 수익을 기록했으나, 월가는 이것이 실제 사업 성과가 아닌 장부상 착시일 수 있다고 경고했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214646_218354_1528.png",
+    "score": 4.703,
+    "engagement": 0,
+    "matched_keywords": [
+      "빅테크",
+      "스타트업"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "ChatGPT Work Tool and Skill Reference",
+    "url": "https://codex-tool-reference.simonw.chatgpt.site/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-31T14:07:15+00:00",
+    "raw_excerpt": "Article URL: https://codex-tool-reference.simonw.chatgpt.site/ Comments URL: https://news.ycombinator.com/item?id=49510000 Points: 160 # Comments: 49",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "ChatGPT의 업무 도구와 기술 참고 자료 웹사이트가 해커 뉴스 핫토픽으로 주목받고 있습니다.",
+    "thumbnail": "",
+    "score": 4.38,
+    "engagement": 0,
+    "matched_keywords": [
+      "codex",
+      "chatgpt"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Claude Code Auto Mode를 우회해 웹사이트 요약만으로 원격 코드 실행",
+    "url": "https://news.hada.io/topic?id=33079",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-08-31T17:36:09+00:00",
+    "raw_excerpt": "자료 보관소로 위장한 웹사이트를 요약하게 하는 간접 프롬프트 인젝션 으로 공격자 서버 연결까지 성공했으며, 소규모 표본에서 공격 성공률은 60~80%였음 WebFetch 가 실패하자 Opus 5가 스스로 curl 과 셸을 사용했고, 미끼 바이너리 대신 직접 Python 디...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Anthropic의 Claude가 웹사이트 요약 요청에 숨겨진 프롬프트 인젝션으로 공격받아 원격 코드 실행에 성공했으며, 실제 공격 성공률이 60~80%에 달하는 보안 취약점이 발견됐다.",
+    "thumbnail": "https://social.news.hada.io/topic/33079?v=bc6a75ec4cc124b4c747ce4d7302ee3c",
+    "score": 4.295,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "claude code",
+      "프롬프트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "구글, 멀티 에이전트 '팀워크' 공개…\"플래시 모델로 난제 해결\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214663",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-31T17:31:46+00:00",
+    "raw_excerpt": "구글 안티그래비티 팀이 최신 경량 모델 '제미나이 3.7 플래시'를 기반으로 한 멀티 에이전트 오케스트레이션 프레임워크 '팀워크(Teamwork)'의 주요 성과와 업데이트 내용을 공개했다. 단순한 보조 코딩 도구를 넘어, AI가 오랜 시간이 걸리는 학술 연구와 하드웨어 설계 난제를 자율적으로 해결하는 '독자적인 연구 파트너'로 진화했음을 입증했다는 설명이다.27일(현지시간) 발표에 따르면, 팀워크는 단일 AI 모델이 가졌던 추론의 한계를 구조적 협업으로 극복한 프레임워크다. 느슨하게 연결된 기존 멀티 에이전트는 한 에이전트의 초반",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "구글이 제미나이 3.7 플래시 기반 멀티 에이전트 프레임워크 '팀워크'를 공개하며, AI가 학술 연구와 하드웨어 설계 난제를 자율적으로 해결하는 독자적 연구 파트너로 진화했음을 입증했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202608/214663_218372_1546.png",
+    "score": 4.279,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "How we configured OpenTelemetry logs in Rails",
+    "url": "https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-31T21:12:22+00:00",
+    "raw_excerpt": "Article URL: https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails Comments URL: https://news.ycombinator.com/item?id=49514895 Points: 9 # Comments: 0",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Rails 애플리케이션에서 OpenTelemetry 로그를 설정하는 방법을 소개하는 기술 가이드입니다.",
+    "thumbnail": "https://y4n0za9tok4qqkj4.public.blob.vercel-storage.com/blog/2026-08-04-how-we-configured-opentelemetry-logs-in-rails.png",
+    "score": 4.134,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+    "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-31T21:10:58+00:00",
+    "raw_excerpt": "Article URL: https://webiterate.dev/google-removed-extensions-ublock-origin-108/ Comments URL: https://news.ycombinator.com/item?id=49514878 Points: 170 # Comments: 135",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Google이 Chrome 웹 스토어에서 MV2 확장 프로그램들을 제거했으며, 이에 uBlock Origin도 포함되어 있습니다.",
+    "thumbnail": "",
+    "score": 4.133,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Autonomous (YC F25) Is Hiring Engineers",
+    "url": "https://news.ycombinator.com/item?id=49514781",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-31T21:00:09+00:00",
+    "raw_excerpt": "Comments URL: https://news.ycombinator.com/item?id=49514781 Points: 0 # Comments: 0",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Autonomous(YC F25)가 엔지니어 채용 중입니다.",
+    "thumbnail": "",
+    "score": 4.124,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+    "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-31T18:21:33+00:00",
+    "raw_excerpt": "ASCII City: Traffic and Detail Update - https://www.youtube.com/watch?v=DSRooHo_HSI ASCII City Update: Interiors, Elevation and Skyscrapers - https://www.youtube.com/watch?v=UCKEDWowc0o Comments URL: https://news.ycombinator.com/item?id=49512975 Points: 149 # Comments: 28",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "단일 HTML 파일로 ASCII 문자로 구성된 사이버펑크 도시를 만들어 상호작용 가능하게 구현한 프로젝트가 공개되었습니다.",
+    "thumbnail": "",
+    "score": 3.992,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "'Stunning' percolation proof solves decades-old puzzle about phase transitions",
+    "url": "https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-31T17:22:43+00:00",
+    "raw_excerpt": "Article URL: https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/ Comments URL: https://news.ycombinator.com/item?id=49512311 Points: 42 # Comments: 14",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "수십 년 동안 미해결로 남았던 상전이 현상의 투과 문제가 획기적인 증명으로 해결되었다.",
+    "thumbnail": "https://www.quantamagazine.org/wp-content/uploads/2026/08/Percolation-cr-DVDP-Social.jpg",
+    "score": 3.943,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "I turned my security cameras into an automatic bird identification system",
+    "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-31T16:47:11+00:00",
+    "raw_excerpt": "Article URL: https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/ Comments URL: https://news.ycombinator.com/item?id=49511856 Points: 306 # Comments: 85",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "개발자가 보안 카메라에 BirdNET-go를 활용해 자동 조류 식별 시스템을 구축했습니다.",
+    "thumbnail": "https://jasontucker.blog/content/images/size/w1200/2026/06/birdnet-2.jpeg",
+    "score": 3.913,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Playa Phone",
+    "url": "https://playaphone.com/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-31T14:52:26+00:00",
+    "raw_excerpt": "Article URL: https://playaphone.com/ Comments URL: https://news.ycombinator.com/item?id=49510514 Points: 432 # Comments: 167",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Playa Phone이라는 새로운 서비스가 Hacker News 커뮤니티에서 주목받고 있으며, 432개의 투표와 167개의 댓글을 얻어 활발한 논의가 이루어지고 있습니다.",
+    "thumbnail": "",
+    "score": 3.817,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "I think the military commissary's freezers were hacked",
+    "url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-31T11:45:48+00:00",
+    "raw_excerpt": "Article URL: https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary Comments URL: https://news.ycombinator.com/item?id=49508506 Points: 201 # Comments: 116",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "군부대 편의점(commissary)의 냉동고가 해킹당했을 가능성이 제기되고 있어 사이버보안 관심이 높아지고 있습니다.",
+    "thumbnail": "",
+    "score": 3.662,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "LG전자, 美서 R&D 인재 영입전…류재철 사장 \"기술 인재가 미래 리더\"",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48569",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-08-31T11:52:15+00:00",
+    "raw_excerpt": "[스마트타임스]LG전자가 인공지능(AI), 로보틱스, 모빌리티 등 미래 성장사업을 이끌 해외 우수 연구개발(R D) 인재 확보에 박차를 가하고 있다.LG전자는 지난 29일(현지시간) 미국 샌프란시스코에서 해외 우수 인재 확보를 위한 채용 연계형 행사 '북미 테크 콘퍼런스'를 개최했다고 31일 밝혔다.이날 행사에는 스탠퍼드대, 하버드대, 매사추세츠공대(MIT), 버클리 캘리포니아대(UC 버클리) 등 미국 주요 대학 및 연구기관의 박사·연구원을 비롯해 현지 빅테크와 스타트업에서 근무하는 R D 경력자 등 100여 명이 참석했다.LG전자",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "LG전자가 미국 샌프란시스코에서 AI·로보틱스·모빌리티 분야 우수 R&D 인재 확보를 위한 채용 행사를 개최했다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202608/48569_47301_523_v150.jpg",
+    "score": 3.651,
+    "engagement": 0,
+    "matched_keywords": [
+      "로보틱스",
+      "빅테크",
+      "스타트업"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "OpenShot 4.0 – Open-source video editor",
+    "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-31T09:59:05+00:00",
+    "raw_excerpt": "Article URL: https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/ Comments URL: https://news.ycombinator.com/item?id=49507822 Points: 507 # Comments: 116",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "오픈소스 동영상 편집기 OpenShot 4.0이 녹화, 편집, 색보정 기능을 대폭 강화하여 출시되었습니다.",
+    "thumbnail": "https://cdn.openshot.org/images/uploads/zinnia/2026/08/30/color-view.webp",
+    "score": 3.573,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "경제부 산업기술처, 밋 그레이터 사우스에서 31개 혁신 기술 선보여",
+    "url": "https://zdnet.co.kr/view/?no=20260901021003",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-31T17:10:03+00:00",
+    "raw_excerpt": "[지디넷코리아]AI, 산업 전 분야로 확산... 기술이 주도하는 대만 중남부 산업 고도화 타이베이, 2026년 9월 1일 /PRNewswire/ -- 8월 28일, 대만 경제부(Ministry of Economic Affairs, MOEA) 산하 산업기술처(Department of Industrial Technology, DoIT)가 '베스트 솔루션을 만나다: 현지 기업과 기술 솔루션의 연결(Meet Your BEST Solution: Connecting Local Businesses with Tech Solutions)'라는 주제로 개최된 '2026 밋 그레이터 사우스(2026 Meet Greater South)' 행사에서 31개의 혁신 기술을 공개했다. 이번 쇼케이스는 공업기술연구원(Industrial Technology Research Institute, ITRI), 금속산업연구개발센터(Metal Industries Research Development Centre, MIRDC), 정보산업연구소(Institute for Information Industry, III), 식품산업연구개발연구소(Food Industry Research and Development Institute, FIRDI)를 포함한 스타트업과 연구 기관들과의 협력으로 진행됐다. Officials and representatives from the Industri",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "대만 경제부 산업기술처가 '밋 그레이터 사우스' 행사에서 AI와 산업 기술을 중심으로 31개의 혁신 기술을 선보여 대만 중남부 산업 고도화를 추진하고 있다.",
+    "thumbnail": "https://mmx.prnasia.com/media/MS1977412/20260828031140EDT_image_1.jpg?id=OA2919466&p=medium600",
+    "score": 3.399,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업",
+      "혁신 기술"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "이젠 제로데이 아닌, ‘마이너스데이’ 공격 시대",
+    "url": "https://byline.network/2026/08/31-338/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-08-31T12:30:35+00:00",
+    "raw_excerpt": "소프트웨어의 취약점을 막을 패치가 나오기 전에 공격자가 이를 악용하는 것을 ‘제로데이(Zero-day)’ 공격이라고 한다. 그런데 최근에는 취약점이 공개되기도 전에 공격자가 익스플로잇(공격 코드)을 만들어 실제 공격까지 시작하는 사례가 관측되면서 ‘마이너스데이’라는 표현이 나오고 있다.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "소프트웨어 취약점 공개 전에 공격 코드를 만들어 선제 공격하는 '마이너스데이' 공격이 증가하면서 보안 위협이 심화되고 있다.",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/08/minus.jpg",
+    "score": 3.391,
+    "engagement": 0,
+    "matched_keywords": [
+      "취약점"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Since it was stripped of planetary status, Pluto’s defenders have been fighting",
+    "url": "https://www.theguardian.com/science/2026/aug/31/forbidden-planet-was-plutos-2006-demotion-a-big-mistake",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-08-31T06:05:07+00:00",
+    "raw_excerpt": "Article URL: https://www.theguardian.com/science/2026/aug/31/forbidden-planet-was-plutos-2006-demotion-a-big-mistake Comments URL: https://news.ycombinator.com/item?id=49506148 Points: 36 # Comments: 96",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "2006년 행성 지위를 박탈당한 이후 명왕성 옹호자들이 그 결정의 재검토를 위해 계속 투쟁하고 있다.",
+    "thumbnail": "https://i.guim.co.uk/img/media/74c9b2ca9daf3a137a609dc9e2b186d95888bfc1/1077_1477_2968_2375/master/2968.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9c51882c8689ab550f76f4bf34d044af",
+    "score": 3.378,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "ChatGPT Work의 작동 방식: 일반 Chat과 무엇이 다른가",
+    "url": "https://news.hada.io/topic?id=33078",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-08-31T15:42:01+00:00",
+    "raw_excerpt": "ChatGPT Work 는 클라우드에서 독립 작업 환경을 제공하는 Work Cloud 와 로컬 파일·프로그램에 접근하는 Work Local로 나뉘며, 더 강력한 기능은 Work Cloud에 집중 Work Cloud는 일반 Chat과 달리 인터넷 연결 코드 실행, Chrome 브라우저 자동화, 세션간 ...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "ChatGPT Work는 Work Cloud와 Work Local로 나뉘어 독립 작업 환경과 로컬 접근을 지원하며, Work Cloud가 코드 실행·브라우저 자동화 등 강력한 기능을 제공한다.",
+    "thumbnail": "https://social.news.hada.io/topic/33078?v=c8d575bec1545e8d589d4f12c775403f",
+    "score": 3.216,
+    "engagement": 0,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "국가안보실 사이버안보비서관에 김휘강 고려대학교 교수",
+    "url": "https://byline.network/2026/08/31-336/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-08-31T08:36:40+00:00",
+    "raw_excerpt": "김휘강 고려대학교 정보보호대학원 교수가 국가안보실 사이버안보비서관을 맡는다. 31일 보안업계에 따르면, 김 교수는 신임 사이버안보비서관을 맡아 국가 사이버안보 정책을 담당한다. 김 교수는 9월1일부터 업무를 시작한다. 사이버안보비서관은 국가안보실에서 정부의 사이버안보 정책과 관련 현안을 담당하는 자리다.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "김휘강 고려대학교 교수가 국가안보실 사이버안보비서관으로 임명되어 9월 1일부터 정부 사이버안보 정책을 담당한다.",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/08/CYBER-ANBO.jpg",
+    "score": 3.212,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "좋은 조직문화가 AI보다 큰 생산성 향상을 만드는 이유",
+    "url": "https://news.hada.io/topic?id=33050",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-08-31T00:15:02+00:00",
+    "raw_excerpt": "AI 도구만 도입한다고 엔지니어의 생산성이 2배나 10배로 오르지는 않으며, 사람들이 협력하고 의사결정하는 조직 환경 이 먼저 갖춰져야 함 경영진이 경쟁사의 AI 성과에 조급해져 사용을 강요하거나 인력 대체를 언급하면 심리적 안전감과 신뢰가 무너져, 도구로 얻는 이익보다 더 ...",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "조직문화와 심리적 안전감이 AI 도입보다 엔지니어 생산성 향상에 더 큰 영향을 미친다.",
+    "thumbnail": "https://social.news.hada.io/topic/33050?v=588633acb727861a9c024f98e08b48b6",
+    "score": 3.072,
+    "engagement": 0,
+    "matched_keywords": [
+      "생산성",
+      "조직"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "토스 \"외산 SASE 대신 자체 개발…'타이탄' 2000명 사용\"",
+    "url": "https://zdnet.co.kr/view/?no=20260831231056",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-31T14:10:56+00:00",
+    "raw_excerpt": "[지디넷코리아]종합 금융 플랫폼 '토스'를 운영하는 비바리퍼블리카(Viva Republica)가 작년 2분기 외산 보안솔루션 사용을 종료, 현재 자체 개발한 보안 솔루션 '타이탄(Titan)'을 사용하고 있다. '토스'는 금융업 분류상 전자금융에 속한다. 전자금융회사 중 토스처럼 중요 보안 솔루션을 국산을 사용, 외산을 대체한 건 이례적이다.'토스'가 개발한 '타이탄'은 보안 솔루션 종류 중 SASE(Se­cure Access Service Edge)에 속한다. SASE는 네트워크와 보안 기능을 하나로 통합해 사용자랑 기기의 접근을 제어하는 제품(솔루션)이다. '타이탄'은 글로벌 보안기업 지스케일러의 제품을 대체했다.향후 비바리퍼블리카는 '타이탄' 사용을 전체 계열사(10곳)로 확대할 예정이다. 현재는 비바리퍼블리카 직원 2000명 정도가 사용하고 있다. 지디넷코리아는 지난 27일 비바리퍼블리카 지정호 CISO를 만나 '타이탄'과 관련한 이야기를 들어봤다. 지 CISO는 2024년 12월부터 이 회사에 근무하고 있다. 앞서 토스증권 CISO를 맡았다. 현재 한국정보보호최고책임자협의회 부회장, 금융보안포럼 운영위원, 한국침해사고대응팀협의회 운영위원으로 활동하고 있다. 2025년 정보보호유공 국민포장을 수상했다. '타이탄'은 '토스 인프라 신뢰 기반 접근 네트워킹(Toss Infrastructure Trusted Access Networ",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "토스가 자체 개발한 SASE 보안솔루션 '타이탄'으로 외산 솔루션을 대체했으며, 현재 2000명이 사용 중이고 계열사 전체로 확대할 계획이다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/31/76d8c7bc1de1d3c37877fbae4d2e349c.jpg",
+    "score": 2.837,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "[카드뉴스] 중국 무인 택시가 온다고!",
+    "url": "https://zdnet.co.kr/view/?no=20260831094032",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-31T10:51:39+00:00",
+    "raw_excerpt": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 중국 자율주행 기업 포니AI가 2028년까지 운전사 없는 로봇택시 200대를 한국에 들여올 계획을 밝히면서 관련 업계의 관심이 뜨거워지고 있어요. 지난 10년간 중국에서 기술력을 쌓아온 포니AI가 이제 본격적으로 한국 시장의 문을 두드리는 셈인데요, 실제로 얼마나 빨리, 넓게 도입될 수 있을지가 관건이에요. 전문가들에게 물어본 결과는 다소 신중했어요. 응답자의 80%가 '전면 상용화'보다는 '제한적 실증 테스트' 방식으로 조금씩 도입될 것이라 내다봤고, 전면 상용화를 예상한 비율은 20%에 그쳤어요.그 배경에는 데이터 보안, 사고 발생 시 책임 소재, 도입에 따른 비용 상승이라는 세 가지 큰 벽이 자리하고 있는데요. 결국 로봇택시의 진짜 승부처는 도로 위 기술력이 아니라 법과 데이터를 둘러싼 제도적 준비라는 게 핵심이에요. 물론 이런 상황이 한국 기업들에게 마냥 불리한 것만은 아니에요. 오히려 지금이 국내 기업들이 기술력과 대응 전략을 다질 수 있는 소중한 시간이라는 분석도 나오고 있어요. 로봇택시는 예상보다 천천히 우리 곁에 다가올 가능성이 크지만, 그 시간 동안 우리는 더 단단하게 준비할 수 있겠죠. 더 자세한 내용은 AI의눈 보고서에서 확인해보세요!▶ 해당 보고서 보기 https://ameet.zdnet.co.kr/uploads/b4ad06d2.html▶ 지디넷코리아가 리바랩스 ",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "중국 포니AI가 2028년까지 한국에 무인택시 200대 도입 계획을 밝혔으나, 전문가들은 데이터 보안과 법제도 미정비로 인해 제한적 실증 테스트 방식의 단계적 도입을 예상하고 있습니다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/31/f345eefbd3f0b86d4af1fa552ae14e2e.png",
+    "score": 2.713,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "과학장학생 3000명→1만 명으로…기초연구 지역할당도",
+    "url": "https://zdnet.co.kr/view/?no=20260831154608",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-31T10:39:50+00:00",
+    "raw_excerpt": "[지디넷코리아]세계 최고 수준으로 대우할 국가과학기술자(리더급/차세대) 제도가 본격 시행된다. 국가과학기술자는 향후 5년간 총 1,100명을 뽑아, 지원한다. 과학장학생은 현행 3,000명 수준에서 1만 명으로 3배 이상 늘릴 계획이다.과학기술정보통신부는 31일 ‘국가과학기술자문회의 제9회 심의회의’를 열고, 3대 전략 10대 대과제로 구성된 '제5차 과학기술인재 육성·지원 기본계획(2026~2030)'을 확정했다.기본 계획에 따르면 향후 과학기술 인재 정책 방향은 '인재 양성'에서 '성장과 역량' 발휘로 패러다임이 전환된다. 비전은 '과학기술인이 되고 싶은 나라, 과학기술인이 존중받는 나라'를 제시했다.우선 출연연구기관 연구 인력이 늘어난다. 또 4대 과기원 정원도 확대한다. 양쪽 합쳐 100명 전후 늘릴 방침이다.'국가과학기술자(리더급/차세대)’ 육성도 한단계 도약한다. 리더급은 국내에서 활동 중인 세계적 수준의 연구자(만 55세 이하)를 대상으로 올해부터 매년 20명(총 100명), 차세대는 세계적인 연구자로 성장할 잠재력을 따져 2027년부터 매년 200명씩 총 1,000명을 선발한다. 선정자에게는 연구활동비(리더급 연 1억원/차세대 연 5,000만원)를 3+2년간 지원한다.기초연구 지원도 대폭 확대된다. 장기적으로 전체 교원의 30%, 전임교원의 50%가 혜택을 보도록 했다.내년부터는 초·중등 학생 수·과학 역량제고를 위해 ",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "정부가 과학장학생을 3000명에서 1만 명으로 확대하고 국가과학기술자 1100명을 5년간 지원하는 '제5차 과학기술인재 육성·지원 기본계획(2026~2030)'을 확정했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/31/3f38ff7b7fb04a979d9aacf97350249a.jpg",
+    "score": 2.705,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "최휘영 문체부 장관 \"춤은 죄 아니다\"…'오방가르드' 영업정지에 제도 개선 예고",
+    "url": "https://zdnet.co.kr/view/?no=20260831175834",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-31T09:01:43+00:00",
+    "raw_excerpt": "[지디넷코리아]최휘영 문화체육관광부 장관이 관객이 춤을 췄다는 이유로 영업정지 처분을 받은 부산 라이브클럽 '오방가르드' 사태와 관련해 관련 규제를 손보겠다는 뜻을 밝혔다.최 장관은 31일 자신의 엑스(X) 계정에 입장문을 올리고 \"춤은 음악에 대한 자연스러운 반응이자 인류의 보편적인 방식\"이라며 \"라이브 음악이 허용되어도 춤을 추는 행위가 아직도 금지인 곳이 있다니 참 많이 부끄럽다\"고 적었다.이어 \"현행법 규정을 고치든, 새로운 '공연장' 개념을 만들든 하루빨리 답을 찾아 비정상적인 상황을 정상으로 돌려야 한다\"고 덧붙였다.최 장관은 오방가르드를 두고 \"부산 인디 음악계의 상징과 같은 곳\"이라고 평가하며 \"꿋꿋이, 그리고 묵묵히 인디 생태계를 지켜온 공연장들이 이렇게 상처를 받아서는 안 된다\"고 강조했다. 그러면서 \"청년 음악인들의 창작 열기가 관객들의 환호성과 몸짓으로 폭발할 수 있도록 풀뿌리 인디 환경부터 서둘러 챙기겠다\"고 밝혔다.2018년 부산 경성대·부경대 인근에 문을 연 '오방가르드'는 지역 인디 음악신의 주요 거점으로 자리 잡아왔다. 그러나 현행 식품위생법 위반에 따른 영업정지 2개월 처분을 통보받고, 지난달 22일 공연을 끝으로 영업을 잠정 중단했다.현행 식품위생법상 일반음식점 내 공연 자체는 가능하지만, 관객이 춤을 추는 행위는 금지된다. 관객의 춤과 노래를 모두 허용하는 공간은 유흥주점으로 분류되기 때문이다. 이",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "최휘영 문화체육관광부 장관이 관객의 춤을 금지하는 식품위생법 규정을 개선하겠다고 밝혔으며, 이는 영업정지 처분을 받은 부산 라이브클럽 '오방가르드' 사태를 계기로 한 것이다.",
+    "thumbnail": "https://image.zdnet.co.kr/2025/09/03/698743bb432935b0cf9e277d47d9ceff.jpg",
+    "score": 2.644,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "자생한방병원, 美 의과대학과 동서의학 논의의 장 열어",
+    "url": "https://zdnet.co.kr/view/?no=20260831172447",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-08-31T08:24:47+00:00",
+    "raw_excerpt": "[지디넷코리아]국내 한방병원이 미국 의과대학과 공동으로 국제학술대회를 열고 동서의학의 임상경험을 공유했다.자생한방병원은 미국 인디애나의과대학과 공동으로 ‘2026 AJA(Annual Jaseng Academic) 국제학술대회’를 지난 28일과 29일 양일간 미국 인디애나폴리스에서 개최했다.올해로 6회째를 맞은 자생국제학술대회(AJA)는 한의학의 과학화와 세계화를 위해 자생한방병원이 개최하고 있으며, 해외에서 개최는 이번이 처음이다.이번 대회는 ‘동서의학의 만남: 소아부터 노년까지 근골격계 건강을 위한 통합의학적 접근’을 주제로 진행됐다. 하버드 의과대학, 캘리포니아대학교 어바인(UCI) 의과대학 등 세계 유수 대학의 석학 50명이 연자로 참여했으며, 각국 의료계 관계자 200여명이 참석해 통증·근골격계 질환부터 암·노화·AI까지 다양한 분야의 최신 연구 성과와 임상 경험을 공유했다.자생한방병원 이진호 병원장은 기조연설에서 초음파 약침술을 통한 정밀 통증 치료법을 소개했다. 그는 영상 검사로 확인되는 1차 병변보다 잘못된 보행이나 근막 긴장 등으로 발생하는 ‘이차성 통증 유발점’이 더 큰 통증을 유발할 수 있다며, 통증 유발 조직’을 정확히 파악하고 만성 통증의 주요 원인이 되는 이차성 통증 유발점까지 정확하게 표적화하는 정밀 약침 치료법을 제시했다.이 병원장은 “초음파 약침술은 지속적인 임상 활용과 연구를 통해 효과와 안전성에 대한 ",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "자생한방병원이 미국 인디애나의과대학과 공동으로 국제학술대회를 열어 동서의학의 임상경험을 공유하고 한의학의 과학화·세계화를 추진했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/31/206f989c7dbf771087bcb80447d5b0e4.jpg",
+    "score": 2.621,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  }
+]
