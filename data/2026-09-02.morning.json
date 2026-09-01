@@ -1,0 +1,822 @@
+[
+  {
+    "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+    "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-09-01T22:08:24+00:00",
+    "raw_excerpt": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "AI 모델 학습 스타트업 AfterQuery가 5개월 만에 $300M에서 $3.2B로 평가가치가 급증하며 Y Combinator 최고 속도 유니콘이 됐다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1569337822.jpg?resize=1200,800",
+    "score": 7.399,
+    "engagement": 0,
+    "matched_keywords": [
+      "startup",
+      "unicorn",
+      "series a"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Open AI’s Astra model is on the way — and very good at breaking into computer systems",
+    "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-09-01T21:06:24+00:00",
+    "raw_excerpt": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI가 새로운 AI 모델 Astra 출시 준비 중이며 컴퓨터 시스템 침입에 뛰어난 능력으로 인한 보안 위협에 대한 대응책을 공개했다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+    "score": 7.328,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "llm",
+      "openai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Anthropic opens Claude AI text detection to regulators, media, fact-checkers, and others",
+    "url": "https://the-decoder.com/anthropic-opens-claude-ai-text-detection-to-regulators-media-fact-checkers-and-others/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-09-01T20:40:36+00:00",
+    "raw_excerpt": "Anthropic is launching an API that lets regulators, media outlets, and researchers check whether text carries Claude's digital watermark. The EU AI Act now requires invisible watermarks in AI-generated text. Critics warn the technology could hurt text quality and create transparency problems where contracts ban AI use. The article Anthropic opens Claude AI text detection to regulators, media, fact-checkers, and others appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Anthropic이 Claude AI 생성 텍스트의 디지털 워터마크를 감지하는 API를 규제당국·미디어·연구자에게 공개했으며, EU AI법이 AI 생성 텍스트에 보이지 않는 워터마크를 의무화하면서 텍스트 품질 저하와 투명성 문제 우려가 제기되고 있다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/Claude-Watermark.png",
+    "score": 6.473,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Anthropic's Claude Fable 5.1 promises better coding and research at up to 45 percent less",
+    "url": "https://the-decoder.com/anthropics-claude-fable-5-1-promises-better-coding-and-research-at-up-to-45-percent-less/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-09-01T20:32:55+00:00",
+    "raw_excerpt": "Anthropic launches Claude Fable 5.1 and Mythos 5.1, its most capable AI models yet. Fable 5.1 doubles its predecessor's score on Terminal-Bench-Science and improves agentic coding by over 30 percent. Costs drop by up to 45 percent for long, autonomous runs with many tool calls. The article Anthropic s Claude Fable 5.1 promises better coding and research at up to 45 percent less appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Anthropic이 Claude Fable 5.1과 Mythos 5.1을 출시했으며, 코딩·연구 성능을 크게 향상시키면서 비용을 최대 45% 절감했다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/claude_5_series.png",
+    "score": 6.464,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "How AI-native companies turn workflows into operating capability",
+    "url": "https://openai.com/index/ai-native-company-workflows",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-09-01T17:00:00+00:00",
+    "raw_excerpt": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AI 기반 기업들이 AI 에이전트를 활용해 온보딩·계정 관리·개발자 통합 등의 워크플로우를 운영 역량으로 전환하고 있다.",
+    "thumbnail": "",
+    "score": 6.376,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Google Deepmind's new chief says frontier AI leadership is the only thing that matters",
+    "url": "https://the-decoder.com/google-deepminds-new-chief-says-frontier-ai-leadership-is-the-only-thing-that-matters/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-09-01T16:49:11+00:00",
+    "raw_excerpt": "Google Deepmind chief Koray Kavukcuoglu admits Google's current models are \"a little bit below the frontier\" but says he's \"100% certain that we will be at the frontier.\" He didn't share any concrete frontier news to back that up, though. The article Google Deepmind s new chief says frontier AI leadership is the only thing that matters appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Google DeepMind의 신임 최고경영자가 현재 모델이 최첨단 AI보다 뒤쳐져 있으나 곧 최전선에 도달할 것이라고 확신한다고 밝혔다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/google_logo_wall-2.png",
+    "score": 6.208,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "deepmind"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+    "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-09-01T12:00:00+00:00",
+    "raw_excerpt": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "의료기관이 ChatGPT를 통해 전자의무기록(EHR)과 의료 산업 데이터를 안전하게 연결해 임상 의사결정을 지원할 수 있게 됐다.",
+    "thumbnail": "",
+    "score": 5.97,
+    "engagement": 0,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Introducing agentic video understanding with Gemini",
+    "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+    "source": "Google DeepMind",
+    "source_type": "rss",
+    "published_at": "2026-09-01T17:08:51+00:00",
+    "raw_excerpt": "",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Google DeepMind가 Gemini의 에이전트형 비디오 이해 기능을 소개했습니다.",
+    "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/agentic-video___keyword__blog-header.width-1300.png",
+    "score": 5.897,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic"
+    ],
+    "source_weight": 1.2,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "The rise of AI civilizations and the fall of corporate responsibility",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-09-01T19:02:54+00:00",
+    "raw_excerpt": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguistic battlefield of AI safety, where word choices can shift responsibility for a massive cybersecurity incident from a company to [ ]",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Hugging Face의 AI 도구 해킹 사건을 둘러싸고 OpenAI의 책임인지 AI '문명'의 행동인지를 어떻게 표현하느냐에 따라 기업 책임이 회피될 수 있는 상황이 벌어지고 있다.",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318435/akrales_220309_4977_0232.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "score": 5.783,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "📈 Data to start your week",
+    "url": "https://www.exponentialview.co/p/data-to-start-your-week-01-09-26",
+    "source": "Exponential View (Azeem Azhar)",
+    "source_type": "substack",
+    "published_at": "2026-09-01T10:03:24+00:00",
+    "raw_excerpt": "Nvidia doubles again; AI s cover-up habit; the $1.50 data centre bill++",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Nvidia가 주가를 다시 두 배로 올렸으며, AI의 은폐 경향과 데이터센터 비용 급증 문제가 부각되고 있다.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!BrCe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0e1a5dad-1b45-4aea-b835-b425da0da073_2700x1500.png",
+    "score": 5.743,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "nvidia"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+    "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-09-01T20:53:05+00:00",
+    "raw_excerpt": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Google이 Android 업데이트에서 멀미 방지, 접근성 개선 등을 추가하며 일부는 Gemini를 활용한 기능을 포함했다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/09/MotionAssist-Google.png?w=1200",
+    "score": 5.662,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "How AI plotted an interstellar journey to Alpha Centauri",
+    "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+    "source": "MIT Tech Review",
+    "source_type": "rss",
+    "published_at": "2026-09-01T19:10:36+00:00",
+    "raw_excerpt": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029. It’s a hugely ambitious mission—if all goes well, the spacecraft could take up to 80,000 years to arrive at Alpha Centauri, which is 4.4 light-years away. And the",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Fermi Explorer Mission이 2029년까지 인공지능 기술을 활용해 4.4광년 거리의 알파 센타우리로 우주선을 발사할 계획을 발표했다.",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/09/centauri-route2.jpg?resize=1200,600",
+    "score": 5.545,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+    "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-09-01T16:31:04+00:00",
+    "raw_excerpt": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Sequoia Capital이 지원한 Empirik이 IT 인프라 장애를 사전에 예측하는 기술로 $21M을 조성해 출범했다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1273058761.jpg?resize=1200,844",
+    "score": 5.362,
+    "engagement": 0,
+    "matched_keywords": [
+      "cursor"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Fambot introduces an ‘AI chief of staff’ for families",
+    "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-09-01T15:10:58+00:00",
+    "raw_excerpt": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Fambot이 이메일, 캘린더, 학교 소식, 스포츠 일정 등 자녀 양육 관련 업무를 관리하는 AI '최고참모'를 출시했다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/09/David-and-Kids-Fambot.png?resize=1200,801",
+    "score": 5.27,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "IBM \"AI 에이전트 시대, 핵심은 신뢰성과 운영 체계'\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214723",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-01T22:30:00+00:00",
+    "raw_excerpt": "한국IBM이 1일 서울 웨스틴 조선 서울에서 ‘AI 서밋 코리아(AI Summit Korea)’를 개최하고, 전통 인프라 역량과 AI 시대의 새로운 운영 인프라를 결합한 기술 저력을 강조했다.대표적인 기술 기업 IBM은 최근 AI 혁신 국면에서 수혜를 입기보다 다소 주춤하는 모습을 보였다. 2분기 실적 발표에 따르면 인프라 부문 매출은 38억달러로 전년 동기 대비 7% 감소했다. 특히 핵심 고성능 서버인 ‘Z 메인프레임’ 매출은 전년 대비 42%나 떨어졌다. 기업들의 예산이 AI 인프라 구축에 집중되면서 전통 IT 인프라 매출이 크",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "IBM이 AI 에이전트 시대의 핵심을 신뢰성과 운영 체계에 두며, 전통 인프라와 AI 운영 인프라 결합 기술을 강조했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/214723_218432_2044.jpg",
+    "score": 5.199,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+    "url": "https://huggingface.co/blog/allenai/benchmirt",
+    "source": "Hugging Face Blog",
+    "source_type": "rss",
+    "published_at": "2026-09-01T21:39:07+00:00",
+    "raw_excerpt": "",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "LLM 벤치마크가 실제로 무엇을 측정하는지 검토하는 BenchMIRT 연구가 공개되었습니다.",
+    "thumbnail": "https://cdn-uploads.huggingface.co/production/uploads/638e39b249de7ae552d977b5/c_Rnu4DRj6Djxk1IT0gKu.png",
+    "score": 5.196,
+    "engagement": 0,
+    "matched_keywords": [
+      "llm"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "TAI #220: The Next Models Will Change How We Work…Again! Take AI Agent Swarms Seriously",
+    "url": "https://newsletter.towardsai.net/p/tai-220-the-next-models-will-change",
+    "source": "Towards AI",
+    "source_type": "substack",
+    "published_at": "2026-09-01T15:02:53+00:00",
+    "raw_excerpt": "Also, Dwarkesh s agent civilizations , Omni 1.1 Flash, Qwen3.8-Flash-Next, GLM-5.3-Flash, and more.",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "AI 에이전트 스웜과 차세대 경량 모델들이 미래 업무 방식을 근본적으로 변화시킬 것으로 예상된다.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!N-Mg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F26fd780f-03ce-4176-9a9a-4af2ad73b9d3_1400x874.png",
+    "score": 4.783,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai agent"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "LG유플러스, 글로벌 AI 운영 관리 기업 '어라이즈 AI'와 AI 에이전트 관리 체계 구축",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41704",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-01T22:01:44+00:00",
+    "raw_excerpt": "LG유플러스가 글로벌 인공지능(AI) 운영 관리 기업 '어라이즈 AI(Arize AI)'와 손잡고 AI 에이전트를 더 정확하고 안전하게 운영하기 위한 관리 체계를 구축한다고 1일 밝혔다. LG유플러스는 어라이즈 AI와 전략적 업무협약(MOU)을 체결하고 AI 에이전트의 성능과 품질을 관리하고 안전성을 높이기 위한 기술 분야에서 협력하기로 했다. 이번 협약은 기업 업무 환경에서 AI 활용이 확대되면서 AI 에이전트의 성능과 응답 품질을 지속적으로 점검하고, 오류와 위험 요소를 사전에 관리할 수 있는 체계를 마련하기 위해 추진됐다. 서",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "LG유플러스가 어라이즈 AI와 협력해 AI 에이전트의 성능·품질·안전성을 관리하는 운영 체계를 구축한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41704_62759_044_v150.jpg",
+    "score": 4.775,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "[칼럼] AI 에이전트 시대, 기업 데이터 전략은 ‘맥락’에서 시작해야 한다",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21469",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-09-01T17:33:16+00:00",
+    "raw_excerpt": "기업의 AI 활용이 단순 대화형 생성형 AI를 넘어 스스로 판단하고 업무를 수행하는 AI 에이전트로 빠르게 진화하고 있다. 기업은 AI를 새로운 성장 동력으로 보고 투자를 확대하지만, 실제 업무 환경에서 중요한 의사결정을 AI에 맡길 수 있을 정도의 신뢰성을 확보한 기업은 아직 많지 않다.최근 하버드 비즈니스 리뷰 조사에 따르면, 자사의 데이터가 AI 활용을 위해 완전히 준비됐다고 답한 기업은 7%에 불과했다. 가트너 역시 2027년 말까지 에이전틱 AI 프로젝트의 40% 이상이 비용 상승이나 불분명한 비즈니스 가치, 미흡한 위험",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "AI 에이전트 시대에 기업들이 신뢰할 만한 의사결정을 AI에 맡기려면 데이터의 맥락과 품질 확보가 핵심 과제다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202609/21469_22195_3037.jpeg",
+    "score": 4.722,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "에이전틱",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+    "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-01T20:07:57+00:00",
+    "raw_excerpt": "Article URL: https://simonwillison.net/2026/Sep/1/codex-libreoffice/ Comments URL: https://news.ycombinator.com/item?id=49527396 Points: 162 # Comments: 83",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "ChatGPT/Codex 앱이 전체 LibreOffice 복사본을 번들로 포함하고 있어 라이선스 및 보안 문제를 야기하고 있습니다.",
+    "thumbnail": "",
+    "score": 4.681,
+    "engagement": 0,
+    "matched_keywords": [
+      "codex",
+      "chatgpt"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "가트너, 내년 AI보안 시장 69% 성장…'사용 통제' 73%로 최고",
+    "url": "https://zdnet.co.kr/view/?no=20260901225713",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-01T13:57:13+00:00",
+    "raw_excerpt": "[지디넷코리아]가트너(Gartner)가 내년 AI보안 시장 규모를 47억 8300만 달러(약 6조 6천억 원)로 성장할 것으로 추정했다. 올해보다 약 69% 증가한 수치다. 2028년에는 약 77억 달러(약 10조 6천억 원)로 성장할 전망이다. 가트너가 말하는 AI 보안 시장은 ▲AI 애플리케이션 보안 ▲AI 사용 통제 ▲AI 거버넌스 플랫폼 ▲AI 게이트웨이 ▲기타 AI보안 등 다섯 가지다. 기업이 AI를 안전하고 책임감 있게 사용하고 관련 규제를 준수할 수 있도록 지원하는 다양한 소프트웨어와 플랫폼을 말한다. AI 애플리케이션 보안이 내년에 가장 큰 지출 규모를 유지하며 약 8억 5100만 달러(약 1조 2천억 원)에 달하고, AI 사용 통제는 약 7억 4900만 달러(약 1조 320억 원)로 뒤를 이을 것으로 예상했다. 하지만 성장률은 다르다. AI 사용 통제 분야가 73%로 가장 높고, AI 게이트웨이가 70.9%로 뒤를 이었다. 우파디야이 가트너 애널리스트는 “AI 런타임 보호, 전용 게이트웨이와 같은 방어 기술이 성숙해지고 기술 신뢰도가 높아질수록 기업 도입도 빨라질 것”이라며 “기업들이 AI 활용을 확대하는 현 상황에서 기존 모니터링 체계로 포착하기 어려운 자율형 AI 기반의 새로운 취약점이 나타나고 있다. 이로 인한 AI 보안 전문 솔루션 수요도 더욱 커질 것”이라고 말했다.가트너에 따르면 이들 AI보안 시장의 경쟁 ",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "가트너가 내년 AI보안 시장을 47억 달러로 추정하며 올해보다 69% 성장할 것으로 예측했고, 특히 AI 사용 통제 분야가 73%의 최고 성장률을 기록할 것으로 전망했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/01/0568cc3b38c40a6f7d6948a8a84a09bc.png",
+    "score": 4.629,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai 보안",
+      "보안",
+      "취약점",
+      "규제",
+      "거버넌스"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
+    "url": "https://www.norirobotics.com/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-01T17:35:10+00:00",
+    "raw_excerpt": "Hey HN, I’m Antonio from Nori Robotics ( https://norirobotics.com ). We build a $1,688 bimanual mobile robot in San Francisco for robotics developers and researchers. I started working on Nori while doing robotics research at Columbia. I was teaching robots through human demonstrations, but getting my hands on affordable hardware was difficult. Most labs have one or two expensive robots, which makes it hard to collect large datasets, run long experiments, or test across several robots. So I built my own. After seven iterations the latest Nori has: * 19 degrees of freedom * Two 7+1 DOF arms with a 1.5 kg payload per arm * A 55 kg telescoping lift * A differential wheeled base * Four 720p, 30 ",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "Nori Robotics가 개발자와 연구자를 위해 1,688달러의 저비용 양팔 이동형 로봇을 출시했으며, 이는 비싼 로봇 접근성 문제를 해결할 수 있다.",
+    "thumbnail": "https://noril1.com/opengraph-image/a3-2026e?09f634070dee520a",
+    "score": 4.553,
+    "engagement": 0,
+    "matched_keywords": [
+      "humanoid",
+      "humanoid robot"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "'오픈클로 2.0' 공개...아키텍처 개편으로 보안·성능 대폭 강화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214685",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-01T18:21:35+00:00",
+    "raw_excerpt": "오픈소스 AI 에이전트 플랫폼 '오픈클로(OpenClaw)'가 성능과 보안, 사용자 인터페이스를 아우르는 전면적인 시스템 개편에 나섰다. 피터 스타인버거 오픈클로 개발자는 31일(현지시간) 1만6000개 이상의 풀 리퀘스트(PR)를 반영한 사상 최대 규모의 업데이트 ‘오픈클로 2.0’을 공개했다.이번 업데이트는 단순한 기능 추가를 넘어 설치 과정부터 메시징, 메모리, 모델, 자동화, 브라우저와 네이티브 앱, 플러그인, 보안에 이르기까지 시스템 전반을 재설계한 것이 특징이다. 933명의 개발자가 참여했으며, 이 가운데 569명은 처음",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "오픈소스 AI 에이전트 플랫폼 OpenClaw가 16,000개 이상의 PR을 반영해 아키텍처를 전면 개편한 2.0 버전을 공개했으며, 933명 개발자가 참여해 보안·성능·UI를 대폭 강화했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/214685_218399_5946.jpg",
+    "score": 4.325,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "EU, 챗GPT '초대형 검색엔진' 지정…규제 수위 대폭 강화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214705",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-01T16:21:20+00:00",
+    "raw_excerpt": "유럽연합(EU)이 AI 서비스인 오픈AI의 챗GPT를 ‘초대형 검색엔진’으로 지정하며 규제 수위를 높였다. EU 내 월평균 사용자가 4500만명을 넘어선 데 따른 조치로, 앞으로 불법 콘텐츠 확산과 미성년자 보호는 물론 알고리즘이 선거와 공공 안전, 이용자의 신체·정신 건강에 미치는 위험까지 평가하고 완화해야 한다.EU 집행위원회는 31일(현지시간) 디지털서비스법(DSA)에 따라 챗GPT를 ‘초대형 온라인 검색엔진(VLOSE)’, 레딧과 로블록스를 ‘초대형 온라인 플랫폼(VLOP)’으로 각각 지정했다고 발표했다.DSA는 월평균 활성",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "EU가 챗GPT를 '초대형 검색엔진'으로 지정하며 불법 콘텐츠·미성년자 보호·선거 영향 등에 대한 규제를 대폭 강화했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/214705_218419_5630.jpg",
+    "score": 4.216,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "일레븐랩스, 매트릭스클라우드에 ‘초저지연’ 음성솔루션 도입…AICC 운영 문제 해결",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214694",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-01T15:20:16+00:00",
+    "raw_excerpt": "일레븐랩스는 클라우드 기반 컨택센터(CCaaS) 전문 매트릭스클라우드(MatrixCloud)와 협업해 차세대 AI 컨택센터(AICC) 상담 환경을 구축했다고 1일 밝혔다. 매트릭스클라우드는 지난 2009년부터 기업 컨택센터를 구축·운영해 온 마이트로에서 2022년 분사해 설립됐다. 전화, 문자, 채팅, CRM, AI를 하나의 자체 플랫폼으로 통합해 왔으며, 현재 세일즈포스와 젠데스크 기반 고객센터 구축 경험을 바탕으로 AI 보이스 에이전트 중심의 사업을 확장하고 있다.하지만, 기존 음성 AI 기술 기반 상담 솔루션은 STT(음성-텍",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "일레븐랩스가 매트릭스클라우드와 협력해 초저지연 음성솔루션을 도입하며 기존 AICC의 STT·TTS 지연 문제를 해결했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/214694_218405_4615.jpeg",
+    "score": 4.161,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "메가존클라우드, IPO 앞두고 네오위즈파트너스 투자 유치",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214706",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-01T15:18:00+00:00",
+    "raw_excerpt": "메가존클라우드(대표 염동훈)는 네오위즈홀딩스의 투자 전문 자회사인 네오위즈파트너스와 투자 계약을 체결했다고 1일 밝혔다.이번 투자는 프리 IPO(상장 전 지분투자) 성격으로 조건 없는 보통주 지분 인수 방식으로 진행됐다.메가존클라우드는 2019년 시리즈A 투자 라운드에서 480억원의 투자금을 확보했고, 2020년 12월과 2021년 6월 두 차례에 걸친 시리즈B 투자 라운드로 1900억원을 조달한 바 있다.2022년에는 KT가 전략적 투자자(SI)로 참여해 1300억원을 투자한 데 이어 같은 해에 4500억원 규모의 시리즈C 투자를",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "메가존클라우드가 IPO를 앞두고 네오위즈파트너스로부터 프리 IPO 투자를 유치했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/214706_218420_5956.jpg",
+    "score": 4.159,
+    "engagement": 0,
+    "matched_keywords": [
+      "투자 유치"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "\"AI가 알잘딱깔센 가전제어\"...LG전자, IFA서 차세대 AI 홈 선보여",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214699",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-01T15:15:07+00:00",
+    "raw_excerpt": "LG전자는 오는 4일부터 8일까지 독일 베를린에서 열리는 유럽 최대 가전 전시회 'IFA 2026'에서 차세대 AI 홈을 공개한다고 1일 밝혔다.이번 전시에서는 AI 홈에 텍스트 기반 채팅으로 맞춤형 지원을 제공하는 '씽큐 클로(ThinQ Claw)'를 새롭게 선보인다.씽큐 클로는 캘린더 등 일상 서비스와 연동돼 별도 설정 없이도 사용자가 채팅으로 계획이나 상태를 공유하면 손님 접대에 맞춰 조리 기기를 관리하거나 귀가 전 실내 공기질·온도를 미리 조절하는 등의 서비스를 제공한다. 이를 통해 단순 가전 제어를 넘어 한층 개인화된 고객",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "LG전자가 IFA 2026에서 일상 서비스와 연동해 채팅으로 가전을 맞춤 제어하는 AI 홈 플랫폼 '씽큐 클로'를 공개한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/214699_218417_4537.jpg",
+    "score": 4.156,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "재경부, 2027년 예산 39.7조원 편성…AI·피지컬 AI 등 미래산업 투자 확대",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41701",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-01T21:37:56+00:00",
+    "raw_excerpt": "재정경제부가 미래 성장동력 확보와 초혁신경제 전환을 뒷받침하기 위해 2027년 예산 및 기금운용계획안을 39조7000억원 규모로 편성했다.재정경제부(이하 재경부)는 2027년 예산 및 기금운용계획안을 전년도 본예산보다 5조4000억원, 15.7% 증가한 39조7000억원으로 편성했다고 1일 밝혔다. 전체 규모는 예산 1조6000억원, 기금 38조1000억원으로 구성된다.재경부는 미래 전략산업 육성을 위한 자본·수출금융 지원을 확대하는 한편, 범부처 차원의 초혁신경제 선도 프로젝트와 연계해 핵심기술 연구개발(R D), 실증 및 상용화",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "재정경제부가 2027년 예산 39.7조원을 편성하며 AI·피지컬 AI 등 미래산업 투자를 전년도 대비 15.7% 확대하기로 했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41701_62757_3616_v150.jpg",
+    "score": 4.156,
+    "engagement": 0,
+    "matched_keywords": [
+      "피지컬 ai"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Fluorescent lamps (don't) have ears",
+    "url": "https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-01T21:19:10+00:00",
+    "raw_excerpt": "Article URL: https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears Comments URL: https://news.ycombinator.com/item?id=49528366 Points: 8 # Comments: 0",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "형광등은 귀가 없다는 주제의 기술 블로그 글이 해커 뉴스에 올라왔습니다.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!7zHg!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fed1c4840-2671-42e9-a6ad-343e84a1f3ef_2000x1334.jpeg",
+    "score": 4.14,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Dyson CameraJet electric toothbrush",
+    "url": "https://www.dyson.com/oral-care/electric-toothbrush/camerajet/ceramic-ultra-blue",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-01T20:39:19+00:00",
+    "raw_excerpt": "Article URL: https://www.dyson.com/oral-care/electric-toothbrush/camerajet/ceramic-ultra-blue Comments URL: https://news.ycombinator.com/item?id=49527879 Points: 73 # Comments: 85",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Dyson이 카메라가 내장된 스마트 전동칫솔 CameraJet을 출시했습니다.",
+    "thumbnail": "",
+    "score": 4.107,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "\"서울숲 순찰부터 일본 배달까지\"...뉴빌리티, '뉴비' 적용 영역 확대",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214680",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-01T14:18:55+00:00",
+    "raw_excerpt": "뉴빌리티(대표 강기혁)는 자율주행 로봇 '뉴비'의 활용 영역을 건물 순찰, 물류, 배달까지 확장한다고 1일 밝혔다.덕수궁과 일본 시부야에는 지난 8월 말 도입돼 각각 순찰로봇 '순라봇'을 통한 주·야간 순찰과 현지 배달 플랫폼 '데마에칸'과의 배달 실증을 지원하고 있다.10월 도입 예정인 충남대병원에서는 약 400m 떨어진 의료재활센터 간 물류 이송을, 하반기 도입되는 서울숲에서는 공원 환경에 맞춘 순찰 서비스를 지원할 예정이다.뉴비는 자체 공간 기반 로봇 파운데이션 모델(RFM)이 탑재돼 공간 구조와 사람·차량·시설물의 움직임,",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "뉴빌리티의 자율주행 로봇 '뉴비'가 덕수궁, 일본 시부야, 충남대병원, 서울숲 등으로 순찰·배달·물류 영역을 확대하며 실용화 단계에 진입했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/214680_218407_4941.jpg",
+    "score": 4.105,
+    "engagement": 0,
+    "matched_keywords": [
+      "로봇 파운데이션 모델"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Hang on to Your Firefox",
+    "url": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-01T20:30:51+00:00",
+    "raw_excerpt": "Article URL: https://www.newsonaut.com/articles/hang-on-to-your-firefox Comments URL: https://news.ycombinator.com/item?id=49527748 Points: 23 # Comments: 9",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Firefox 브라우저의 중요성을 강조하는 기사로, 사용자들이 Firefox를 계속 사용할 것을 권장하고 있습니다.",
+    "thumbnail": "",
+    "score": 4.1,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
+    "url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-01T19:55:47+00:00",
+    "raw_excerpt": "Article URL: https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html Comments URL: https://news.ycombinator.com/item?id=49527232 Points: 54 # Comments: 22",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Tektronix TDS7104 오실로스코프를 개조·복원하는 프로젝트가 소개되어 중고 고급 측정장비의 재활용 가치를 보여줍니다.",
+    "thumbnail": "",
+    "score": 4.07,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "트위니, 144억 규모 프리IPO 투자 유치…코스닥 상장·해외 진출 가속",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214689",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-01T13:27:41+00:00",
+    "raw_excerpt": "자율주행 로봇 전문 트위니(대표 천홍석·천영석)는 144억원 규모의 프리IPO 투자를 유치, 코스닥 상장과 글로벌 시장 진출을 가속화한다고 1일 밝혔다. 이번 투자에는 아토인베스트먼트(약 49억원), 아토매니지먼트(약 25억원), DS자산운용(약 50억원)을 비롯해 전문투자자 2곳(각 약 10억원)이 참여했다. 위축된 투자 시장 환경 속에서도 축적해 온 독자적 기술력과 실질적인 상용화 성과를 높게 평가받았다는 설명이다. 트위니는 국내 여러 물류 현장에 피킹 로봇 등을 도입해 비용 절감 효과를 이끌어 왔다. 최근에는 전문 평가기관을",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "자율주행 로봇 전문 기업 트위니가 144억원의 프리IPO 투자를 유치해 코스닥 상장과 글로벌 진출을 추진한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/214689_218402_211.jpeg",
+    "score": 4.059,
+    "engagement": 0,
+    "matched_keywords": [
+      "투자 유치"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "The creator of Jujutsu has joined ERSC",
+    "url": "https://ersc.io/blog/martin-joins-ersc",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-01T17:46:21+00:00",
+    "raw_excerpt": "Article URL: https://ersc.io/blog/martin-joins-ersc Comments URL: https://news.ycombinator.com/item?id=49525297 Points: 149 # Comments: 116",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Jujutsu의 창시자 Martin Nordlander가 ERSC에 합류했습니다.",
+    "thumbnail": "",
+    "score": 3.963,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Atlas: A World Model for Spatial Intelligence",
+    "url": "https://www.worldlabs.ai/blog/atlas",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-01T17:36:02+00:00",
+    "raw_excerpt": "Article URL: https://www.worldlabs.ai/blog/atlas Comments URL: https://news.ycombinator.com/item?id=49525160 Points: 107 # Comments: 23",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "World Labs가 공간 지능을 위한 기초 모델 'Atlas'를 공개했으며, 이는 3D 환경 이해와 로봇 제어 등에 활용될 수 있는 새로운 AI 기술이다.",
+    "thumbnail": "https://www.worldlabs.ai/images/atlas-og.jpg",
+    "score": 3.954,
+    "engagement": 0,
+    "matched_keywords": [
+      "world model"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "지멘스, 차세대 자동 화재 탐지 시스템 ‘SRF 2.2’ 출시..디지털 플랫폼 환경에 최적화된 설계",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41698",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-01T17:14:46+00:00",
+    "raw_excerpt": "세계적인 기술 선도 기업 지멘스의 한국법인 한국지멘스(대표이사·사장 정하중) 스마트 인프라(SI) 부문이 데이터 기반의 효율적인 운영 관리와 강화된 사이버 보안 기능을 제공하는 차세대 자동 화재 탐지 시스템 ‘SRF 2.2 시스템’을 국내 시장에 출시했다.인공지능(AI) 시대 속에 건물 운영의 디지털 전환이 가속화되고 관리 환경이 복잡해지면서 화재 안전 시스템에도 높은 수준의 연결성과 운영 효율성은 물론, 보안성과 확장성이 핵심 요소로 요구되고 있다. 이에 따라 화재 탐지 시스템은 단순한 화재 감지 및 경보 설비를 넘어, 운영 데이",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "지멘스가 데이터 기반 운영 관리와 강화된 사이버 보안 기능을 갖춘 차세대 자동 화재 탐지 시스템 'SRF 2.2'를 한국 시장에 출시했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41698_62750_1432_v150.jpg",
+    "score": 3.936,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Quill (YC W20) Is Hiring a Fullstack SWE",
+    "url": "https://news.ycombinator.com/item?id=49524704",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-01T17:00:14+00:00",
+    "raw_excerpt": "Comments URL: https://news.ycombinator.com/item?id=49524704 Points: 0 # Comments: 0",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Quill (YC W20)이 풀스택 소프트웨어 엔지니어를 모집 중입니다.",
+    "thumbnail": "",
+    "score": 3.924,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
+    "url": "https://github.com/carloslfu/slotstream",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-01T16:42:46+00:00",
+    "raw_excerpt": "I built slotstream, a way to run Qwen3.8-Flash-Next 4-bit on a low-memory mac starting from 16GB, a 125B parameter model that would need 100GB+ memory/RAM, thanks to expert-offloading/ssd-streaming. Easy to install/update, and mac-native using MLX and Swift. It ships with auto-mode, which makes a good tradeoff between memory usage and speed. I'll be implementing and porting the MTP module for speculative decoding next Comments URL: https://news.ycombinator.com/item?id=49524447 Points: 120 # Comments: 78",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "개발자가 슬롯스트림(slotstream) 기술로 48GB Mac에서 104GB 규모의 Qwen 대형 언어모델을 초당 12토큰 속도로 실행하는 방법을 개발했다.",
+    "thumbnail": "https://opengraph.githubassets.com/84e178db5b68092630b885f1fc3e9b6a4578f68a0d70ed2bcc355b3a3f641783/carloslfu/slotstream",
+    "score": 3.91,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "ChatGPT Work 도구와 스킬 레퍼런스",
+    "url": "https://news.hada.io/topic?id=33127",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-01T17:44:21+00:00",
+    "raw_excerpt": "ChatGPT Work와 Codex에서 쓰는 파일 편집·명령 실행·웹 검색·에이전트 협업 도구 의 입력 형식과 호출 조건을 한데 정리한 레퍼런스임 자동화는 일정·조건 감시와 Gmail·Slack·GitHub 웹훅을 지원하지만, 개인 시간대 설정 , 시간당 최대 1회 폴링, 사전 앱 연결 확...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "ChatGPT Work에서 지원하는 파일 편집, 명령 실행, 웹 검색 등 주요 도구들의 입력 형식과 호출 조건을 정리한 레퍼런스가 공개됐다.",
+    "thumbnail": "https://social.news.hada.io/topic/33127?v=f607f7b6bb664cc9a96e929634b55d6d",
+    "score": 3.801,
+    "engagement": 0,
+    "matched_keywords": [
+      "codex",
+      "chatgpt"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  }
+]
