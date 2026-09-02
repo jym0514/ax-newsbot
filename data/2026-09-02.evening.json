@@ -1,0 +1,781 @@
+[
+  {
+    "title": "샘 올트먼, “강력한 AI가 가져올 결과 아무도 완전히 이해하지 못해”... 아스트라, 출시 앞두고 안전성에 ‘속도 조절’",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41724",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-02T17:19:21+00:00",
+    "raw_excerpt": "샘 올트먼 오픈AI(OpenAI) CEO가 차세대 인공지능(AI) 모델 ‘아스트라(Astra)’ 출시를 앞두고 AI 역량과 안전성·정렬(alignment)을 함께 발전시키는 것이 그 어느 때보다 중요하다고 강조했다.아스트라는 사이버보안 분야에서 오픈AI의 준비 프레임워크(Preparedness Framework)가 규정한 ‘크리티컬(Critical)’ 수준에 도달한 것으로 평가된 모델이다.올트먼 CEO는 1일(현지시간) 자신의 엑스(X) 계정을 통해 “지난여름 동안 안전성 분야의 우선 과제에 집중해 왔다”며 “AI의 역량과 안전장치",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "샘 올트먼 오픈AI CEO가 차세대 AI 모델 아스트라 출시를 앞두고 강력한 AI의 결과를 완전히 이해하기 어렵다며 안전성과 정렬에 우선순위를 두겠다고 밝혔다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41724_62789_1831_v150.jpg",
+    "score": 9.623,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "openai",
+      "오픈ai"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "AI 토큰 가격 사상 최저치…중국산 모델 인기·가격 경쟁 심화 여파",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214761",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-02T16:46:42+00:00",
+    "raw_excerpt": "대표적인 AI 토큰 가격 지표가 사상 최저치를 경신하면서 주요 AI 기업들의 수익성 악화 우려가 커지고 있다.CNBC에 따르면, 시장조사 전문 실리콘 데이터(Silicon Data)가 집계하는 'LLM 토큰 지출 지수'는 31일(현지시간) 97센트까지 떨어졌다. 이는 지난해 말 지수 발표 이후 최저치이며, 올여름 기록했던 최고점 대비 절반 이하로 하락한 수치다. LLM 토큰 지출 지수는 단순히 제공업체가 게시한 단가표를 집계하는 것이 아니라, 시장에서 실제 소비되는 100만 토큰당 가중 평균 가격을 측정한다. 지수 산출을 위해 멀티",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AI 토큰의 실제 거래 가격이 사상 최저치로 떨어지며 중국산 모델의 가격 경쟁이 심화되고 주요 AI 기업들의 수익성 악화 우려가 커지고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/214761_218482_4046.png",
+    "score": 8.43,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "llm"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "파수 AI, 가상화 방식 ‘DRM 소스코드 보안’ 솔루션 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214759",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-02T15:45:00+00:00",
+    "raw_excerpt": "파수 AI(대표 조규곤)는 개발 환경의 생산성을 유지하면서 강력한 보안을 제공하는 새로운 소스코드 보안 솔루션을 출시했다고 2일 밝혔다. 새로운 솔루션 ‘DRM 소스코드 보안’은 기존의 방식과 달리 가상화 격리 보호 방식을 채택한 것이 특징이다. 다양한 개발 환경에서 큰 불편함 없이 사용하는 동시에, 조직의 핵심 자산인 소스코드를 안전하게 보호한다는 설명이다. 특히, 소스코드는 기업 기술력과 개발 노하우, 핵심 지적재산권(IP)을 담고 있어서 유출시 기업 경쟁력을 크게 훼손할 수 있다. 또 소스코드에 포함된 취약점이나 인증 정보 등",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "파수 AI가 가상화 격리 방식을 적용한 'DRM 소스코드 보안' 솔루션을 출시해 개발 생산성을 유지하면서 기업의 핵심 소스코드를 보호할 수 있게 됐다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/214759_218481_2718.png",
+    "score": 8.347,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "취약점"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "앤트로픽, 기업 데이터 직접 관리 'EFS' 공개... 30일 보존 방침 철회",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214743",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-02T15:43:24+00:00",
+    "raw_excerpt": "앤트로픽이 기업 고객의 강력한 반발을 불러온 AI 모델의 30일 데이터 보존 정책을 수정하고, 기업이 민감한 데이터를 직접 저장·관리할 수 있는 새로운 보안 솔루션을 내놨다. 엔터프라이즈 시장이 앤트로픽 매출의 핵심으로 자리 잡은 가운데, 데이터 프라이버시와 AI 오용 방지라는 두 요구를 동시에 충족해 기업 고객의 AI 도입을 확대하려는 조치다.앤트로픽은 1일(현지시간) ‘엔터프라이즈 프론티어 보호 조치(EFS·Enterprise Frontier Safeguards)’를 공개했다.EFS는 데이터를 아예 보존하지 않는 ‘제로 데이터",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "앤트로픽이 기업 고객의 반발로 30일 데이터 보존 정책을 철회하고, 데이터를 저장하지 않는 EFS(Enterprise Frontier Safeguards) 솔루션을 출시했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/214743_218458_3138.png",
+    "score": 8.345,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "프라이버시"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "오픈AI, 애플 소송에 정면 반박...\"허술한 퇴직자 관리가 자초한 문제\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214742",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-02T15:17:29+00:00",
+    "raw_excerpt": "오픈AI가 애플이 제기한 영업비밀 도용 소송에 대해 “애플 스스로 만든 문제”라며 정면 반박했다. 퇴사 직원들의 개인 계정 사용과 자료 반출을 제대로 관리하지 못한 책임을 전직 직원들에게 떠넘기고 있다며, 이번 소송이 인재 영입과 하드웨어 사업을 견제하기 위한 근거 없는 공세라고 주장했다.월스트리트저널(WSJ) 등에 따르면, 오픈AI는 31일(현지시간) 미국 캘리포니아 북부 지방법원에 제출한 답변서에서 상대측의 핵심 주장이 부실한 퇴직자 관리 절차에서 비롯됐다고 지적했다.애플은 전직 직원들이 개인 계정을 이용해 내부 자료를 가져갔다",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "오픈AI가 애플의 영업비밀 도용 소송에 대해 \"애플의 허술한 퇴직자 관리가 원인\"이라며 정면 반박했습니다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/214742_218457_1752.jpg",
+    "score": 8.31,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "앤트로픽, 엔비디아 등에 업고 48조 규모 AI 컴퓨팅 확보",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214739",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-02T15:00:59+00:00",
+    "raw_excerpt": "앤트로픽이 엔비디아의 지원을 등에 업고 수백억달러 규모의 AI 컴퓨팅 자원을 확보하면서, 엔비디아가 GPU 공급을 넘어 데이터센터와 클라우드 운영 구조까지 관여하는 새로운 AI 인프라 생태계가 부상하고 있다. 1일(현지시간) 월스트리트저널(WSJ) 등에 따르면, 앤트로픽은 엔비디아의 지원을 받는 클라우드 업체 람다(Lambda)와 350억달러(약 48조원) 규모의 대형 클라우드 컴퓨팅 계약을 체결했다.이번 거래는 앤트로픽이 막대한 비용을 들여 자체 데이터센터를 구축하지 않고도 엔비디아와 네오클라우드 업체의 금융·인프라 역량을 결합해",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "앤트로픽이 엔비디아 지원 클라우드 업체 람다와 350억 달러 규모의 AI 컴퓨팅 계약을 체결하며 엔비디아의 GPU 공급 중심 생태계가 데이터센터·클라우드 운영까지 확대되고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/214739_218456_5718.jpg",
+    "score": 8.287,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "엔비디아"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "카카오, 아이돌 그룹 ‘리센느’와 일상 속 AI 경험 알린다...카카오톡 AI 서비스 등 새로운 대화 경험 소개",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41723",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-02T15:44:52+00:00",
+    "raw_excerpt": "카카오(대표이사 정신아)가 아이돌 그룹 ‘리센느(RESCENE)'와 AI를 활용한 일상 속 새로운 대화 경험을 알리기 위해 이용자 대상 캠페인을 시작한다고 2일 밝혔다.이번 캠페인은 이용자들의 목소리에 귀 기울이고 더 나은 카카오톡을 만들어가기 위한 '유저퍼스트' 활동의 일환이다. 카카오톡의 인공지능(AI) 서비스 등 다양한 기능으로 일상 속에서 더 쉽고 편하게 새로운 대화 경험을 할 수 있다는 점을 영상으로 알린다. ‘카나나’가 통화 내용을 요약하거나, ‘카나나 인 카카오톡’을 통해 약속 일정을 정리하는 등 이용자 편의 기능과 서",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "카카오가 아이돌 그룹 '리센느'와 협업해 카카오톡의 AI 서비스를 활용한 일상 속 새로운 대화 경험을 홍보하는 캠페인을 시작했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41723_62788_4439_v150.jpg",
+    "score": 7.705,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "질병관리청, 보건의료 정보 활용한 인공지능 모델 개발 경진대회 개최",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41722",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-02T15:37:52+00:00",
+    "raw_excerpt": "질병관리청(청장 임승관) 국립보건연구원(원장 남재환)은 한국생명정보학회(KSBi)와 공동으로 보건의료 정보를 활용한 인공지능(AI) 모델을 발굴하고, 향후 국민 건강을 위한 후속 연구로 연계하기 위해 1일부터 오는 11월20일까지 'KNIH-KSBi Joint Healthcare AI Challenge 2026'을 개최한다.국립보건연구원은 코호트 데이터와 인공지능을 활용한 질병 예측 연구를 수행해 왔으며, 대표적으로 뇌영상·임상·유전체 정보 기반 한국인 맞춤형 치매 예측 모델 등을 개발하여 질병 조기예측 및 예방·관리를 위한 AI",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "질병관리청과 국립보건연구원이 보건의료 정보를 활용한 AI 모델 개발 경진대회를 11월 20일까지 개최해 질병 예측·예방 연구를 촉진한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41722_62787_3738_v150.jpg",
+    "score": 7.696,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "AI･신기술 제품 광고하려면 실증할 수 있어야...공정위, '표시·광고 내용의 실증에 관한 운영 고시' 개정･시행",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41720",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-02T14:56:50+00:00",
+    "raw_excerpt": "공정거래위원회(위원장 주병기, 이하 공정위)는 인공지능(AI) 등 신기술 제품의 성능 광고 시 실증 의무가 있음을 명확히 하고, 실증자료 제출기간 연장사유를 구체화하는 한편, 연장 가능 기간을 단축하고 사업자가 스스로 점검할 수 있는 체크리스트를 새로 마련하는 내용으로 '표시·광고 내용의 실증에 관한 운영 고시(이하, 실증고시)' 개정안을 3일부터 시행한다.표시․광고 실증제도는 사업자가 표시․광고에서 주장하는 ‘사실’에 대한 합리적인 근거를 갖추도록 함으로써 부당한 표시･광고 여부를 신속하고 객관적으로 판단하기 위한 제도이다. 실증",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "공정위가 AI 등 신기술 제품 광고 시 성능 실증 의무를 강화하고 실증자료 제출기간을 단축하는 운영 고시를 시행했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41720_62784_035_v150.jpg",
+    "score": 7.645,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "과기정통부, ‘창업가형 석·박사급 고급인재 육성’ 본격 추진...KAIST·포항공대·UNIST·조선대 4개 대학 AI 창업 거점으로",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41719",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-02T14:46:11+00:00",
+    "raw_excerpt": "과학기술정보통신부(부총리 겸 과학기술정보통신부 장관 배경훈, 이하 과기정통부)는 2일, 2026년 신규사업인 'AI･디지털기반 창업인재 양성사업'의 주관대학으로 선정된 4개 대학을 대상으로 ‘AX 선도 창업가형 인재양성센터’ 현판수여식 및 간담회를 개최했다.사업은 연구자가 단순히 인공지능 및 디지털 기술을 습득하는데 그치지 않고, 시장과 사회의 문제를 스스로 발굴‧정의하고, AI기술을 활용한 해결책을 개발해 실제 창업으로 연결하는 ‘창업가형 고급인재’를 양성하기 위해 마련됐다.특히 단순한 기술교육이나 논문 성과 창출을 넘어 문제발굴",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "과기정통부가 KAIST, 포항공대, UNIST, 조선대 4개 대학을 AI 창업 거점으로 지정해 시장 문제 해결 중심의 창업가형 석·박사 인재 양성을 본격 추진한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41719_62783_4550_v150.jpg",
+    "score": 7.631,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "에브리봇, '가정용 AI 홈케어' 시장 정조준…유수 협력사 연대로 기술 고도화",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41718",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-02T14:34:36+00:00",
+    "raw_excerpt": "국내 대표 가정용 홈케어 서비스로봇 전문기업 에브리봇(270660)이 지난 10여 년간 가정용 로봇청소기 사업을 통해 축적해 온 기술과 데이터를 바탕으로 인공지능(AI) 기반 가정용 홈케어 로봇 사업 확대에 나선다고 2일 밝혔다.단순히 집 안을 청소하는 로봇을 넘어 가정 내 공간과 생활환경을 이해하고, 건강과 안전, 생활 편의를 지원하는 '홈케어 AI(Home Care AI)'를 차세대 성장동력으로 육성한다는 전략이다.에브리봇은 국내 가정용 로봇청소기 시장에서 오랜 기간 물걸레청소로봇을 중심으로 사업을 영위하며 실제 가정환경에서 다",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "에브리봇이 10여 년간 축적한 로봇청소기 기술과 데이터를 바탕으로 AI 기반 홈케어 로봇 사업으로 확장하며 가정용 홈케어 시장을 정조준하고 있다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41718_62781_3345_v150.jpg",
+    "score": 7.617,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "앤트로픽, 최고 성능 '페이블 5.1' 출시...캐시 읽기 75% 파격 할인",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214725",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-02T06:07:40+00:00",
+    "raw_excerpt": "앤트로픽이 세계 최고 성능을 발휘하는 차세대 모델 '클로드 페이블 5.1(Claude Fable 5.1)'과 '클로드 미소스 5.1(Claude Mythos 5.1)'을 공개했다. 이전 모델 대비 강력한 추론 능력을 확보함과 동시에 입력 캐시 가격을 파격적으로 인하해 고도화된 AI 에이전트 운용 비용을 크게 낮췄다.앤트로픽은 1일(현지시간) 코딩과 복잡한 지식 작업 처리에 특화된 프론티어 모델 '클로드 페이블 5.1'과 이를 사이버 보안 및 생명과학 연구 전용으로 고도화한 '클로드 미소스 5.1'을 출시했다고 밝혔다.두 모델은 동일",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "앤트로픽이 추론 능력을 강화한 '클로드 페이블 5.1'과 '클로드 미소스 5.1'을 출시하며 입력 캐시 가격을 75% 인하해 AI 에이전트 운영 비용을 대폭 절감했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/214725_218436_5924.png",
+    "score": 7.565,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[게시판] KT, 통신·AX·정밀측위로 어린이 통학차 안전 협력 등 단신",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214771",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-02T17:00:00+00:00",
+    "raw_excerpt": "■ KT(대표 박윤영)는 현대자동차, MTR, 키즈노트와 ‘어린이 통학차 전용 안심 승하차 솔루션 개발 MOU’를 체결했다고 밝혔다. KT는 통신·클라우드 플랫폼과 ‘RTX 패스트’ 정밀위치 서비스를 활용해 어린이 통학차의 안전 서비스를 연결하는 역할을 맡는다. RTX 패스트는 위성신호 보정 기술을 활용해 차선 단위 수준의 정밀한 위치 정보를 제공하는 기술이다.■ 한국과학기술원(KAIST, 총장 배충식)는 미국 캘리포니아공과대학교(Caltech)와 공동연구를 넘어 차세대 연구자를 육성하는 협력 모델을 구축한다고 밝혔다. 양 기관 교",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "KT가 현대자동차·MTR·키즈노트와 함께 정밀위치 서비스 'RTX 패스트'를 활용한 어린이 통학차 안전 솔루션 개발에 나선다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/214771_218492_3547.jpeg",
+    "score": 7.473,
+    "engagement": 0,
+    "matched_keywords": [
+      "ax"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[게시판] SKT, AI 운용 시스템 'A-One'으로 불꽃축제 통신 품질 확보 등 단신",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214737",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-02T17:00:00+00:00",
+    "raw_excerpt": "■ SK텔레콤(대표 정재헌)은 오는 5일 여의도·이촌 한강공원 일대에서 열리는 불꽃축제에 대비해 통신 서비스 특별 대책을 운영한다고 밝혔다. 자체 AI 운용 시스템 'A-One'을 적용해 행사 정보를 실시간으로 센싱하고, AI가 통신 품질과 트래픽을 예측해 이동기지국의 수량과 위치까지 자동 도출해 트래픽 변화에 대응할 방침이다.■ 유비파이(대표 임현)는 글로벌 드론 오픈소스 생태계와 산업 표준을 주도하는 드론코드 재단의 최상위 등급인 플래티넘 회원사에 선정됐다고 밝혔다. 유비파이는 이사회 의석을 배정받아 드론 기술의 상호운용성을 높",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "SK텔레콤이 AI 운용 시스템 'A-One'으로 여의도 불꽃축제의 통신 품질을 실시간으로 예측하고 관리한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/214737_218486_5844.jpg",
+    "score": 7.473,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "원익로보틱스, 5지 로봇핸드 ‘알레그로 핸드 V6 F’ 출시…접촉 데이터 수집 강화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214758",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-02T16:15:43+00:00",
+    "raw_excerpt": "로봇 자동화 전문기업 원익로보틱스가 5지·20자유도(DoF) 다관절 로봇핸드 신제품 ‘알레그로 핸드(Allegro Hand) V6 F’를 출시했다고 2일 밝혔다.V6 F는 기존 4지 중심의 알레그로 핸드 제품군을 5지 구조로 확장한 제품이다. 손 전체의 접촉을 감지하는 압력 센싱 기술과 작업 목적에 따라 선택할 수 있는 제어 기능을 결합해 물체 조작과 데이터 수집을 동시에 수행할 수 있도록 설계했다.기존 4지 모델에서 축적한 정밀 조작 기술에 다섯 번째 손가락과 총 20자유도를 더해 물체를 잡는 자세와 접촉 지점을 다양화했다. 전작",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "원익로보틱스가 5개 손가락과 20자유도를 갖춘 로봇핸드 '알레그로 핸드 V6 F'를 출시했으며, 압력 센싱 기술로 접촉 데이터 수집을 강화했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/214758_218478_1238.png",
+    "score": 7.413,
+    "engagement": 0,
+    "matched_keywords": [
+      "로보틱스"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "광양경자청, K-FEZ 데이 2026서 광양만권 투자 매력 홍보",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214770",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-02T15:35:00+00:00",
+    "raw_excerpt": "광양만권경제자유구역청(청장 구충곤)은 2일 서울 신라호텔에서 개최된 ‘K-FEZ 데이 2026’에 참가해 국내외 기업 및 유관기관을 대상으로 광양만권의 투자환경과 미래 성장 가능성을 홍보했다고 밝혔다.K-FEZ 데이는 산업통상부와 대한무역투자진흥공사(KOTRA‧코트라) 인베스트코리아(Invest KOREA)가 국내 경제자유구역의 투자 매력을 국내외에 알리고, 글로벌 투자유치 및 협력 확대를 위해 마련한 대표적인 투자유치 행사다.올해 행사는 2일 오후 2시부터 서울 신라호텔 2층 다이너스티홀에서 열렸으며, 산업통상부·인베스트코리아 관",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "광양경자청이 'K-FEZ 데이 2026'에서 광양만권의 투자환경과 성장 가능성을 국내외 기업에 홍보했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/214770_218491_1753.jpg",
+    "score": 7.358,
+    "engagement": 0,
+    "matched_keywords": [
+      "투자유치"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "존 터너스 애플 신임 CEO 출사표… \"경이로운 차세대 혁신 보여줄 것\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214738",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-02T14:24:29+00:00",
+    "raw_excerpt": "존 터너스가 애플의 새 CEO로 공식 취임하며 차세대 제품을 앞세운 새로운 성장 시대를 예고했다.블룸버그 등에 따르면, 터너스 CEO는 1일(현지시간) 직원들에게 보낸 첫 메시지에서 애플의 강력한 제품 개발 파이프라인을 강조하며 오는 9일 예정된 신형 아이폰 공개 행사를 “경이로운 순간”으로 만들겠다는 의지를 밝혔다.하드웨어 엔지니어링 책임자 출신인 그는 특히 신형 아이폰 이후의 제품군에 강한 자신감을 드러냈다. 이미 개발 중인 제품뿐만 아니라 아직 구상하지 못한 새로운 제품까지 직원들과 함께 만들어가겠다고 강조했다. 이는 단순한",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "존 터너스가 애플의 신임 CEO로 취임하며 9일 신형 아이폰 공개와 함께 차세대 혁신 제품을 통한 성장을 예고했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/214738_218451_1654.png",
+    "score": 7.263,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "구글, 페르보와 396MW 지열발전 계약…데이터센터 전력 확보하나",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214726",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-02T11:45:00+00:00",
+    "raw_excerpt": "구글이 미국 지열발전기업 페르보에너지(Fervo Energy)와 396메가와트(MW) 규모의 장기 전력구매계약(PPA)을 체결했다. 미국 유타주에서 개발 중인 차세대 지열발전소의 전력을 2028년부터 공급받아 현지에서 건설을 검토 중인 데이터센터의 전력원으로 활용할 계획이다.지난 1일(현지시간) 페르보는 구글과 유타주 비버카운티의 '케이프 스테이션(Cape Station)'에서 생산하는 396MW 규모의 지열전력을 공급하는 계약을 체결했다고 발표했다.미국 증권거래위원회(SEC) 공시에 따르면 실제 계약은 지난 26일(현지시간) 체결",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "구글이 페르보에너지로부터 2028년부터 유타주 지열발전소 396MW 전력을 공급받는 장기계약을 체결해 데이터센터 전력 확보에 나섰다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/214726_218440_2121.jpg",
+    "score": 7.047,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[미리보는 IFA 2026] 〈하〉 한국 스타트업, K-가전 저력 선보인다",
+    "url": "https://www.etnews.com/20260902000225",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-09-02T07:00:00+00:00",
+    "raw_excerpt": "바닥 오염을 감지해 스팀 분사량을 바꾸는 로봇청소기, 반도체 온도조절 기술로 냉·온을 조절하는 수면매트, 대화하는 인공지능(AI) 프로젝터가 독일 베를린에서 공개된다. 삼성전자와 LG전자가 세계 시장에서 키운 'K-가전' 저변을 국내 중소기업과 스타트업이 넓힌다. 4일(현지시간) 개막하는 'IFA 2026'에서 한국전자정보통신산업진흥회(KEA)는 국내 중소·스타트업 10개사와 한국관을 운영한다. 티케이케이는 온디바이스 AI로 바닥 재질과 오",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "한국 스타트업들이 IFA 2026에서 스마트 청소기, AI 프로젝터 등 혁신 K-가전을 선보이며 글로벌 가전 시장 확대를 주도한다.",
+    "thumbnail": "https://img.etnews.com/news/article/2025/09/11/news-p.v1.20250911.5551befc886947d0867145de636950c8_P1.jpg",
+    "score": 5.874,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "스타트업"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "신한투자증권, 日 UMI 벤처스와 ‘크로스보더 벤처펀드’ 조성 MOU 체결",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48652",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-02T13:46:03+00:00",
+    "raw_excerpt": "[스마트타임스]신한투자증권은 일본의 소부장 벤처캐피탈 ‘UMI 벤처스’(UMI Ventures)와 '크로스보더 벤처펀드' 조성을 위한 업무협약(MOU)을 체결했다고 2일 밝혔다. 이번 MOU에 따라 양사는 반도체, 로보틱스, 우주항공, 방산 등 딥테크 분야 전반에 걸쳐 양국의 유망 기업을 공동으로 발굴하고 상호 시장 진출을 지원해 나갈 계획이다.이번 펀드는 성장 잠재력이 큰 딥테크 기업에 모험자본을 공급한다는 점에서 자본시장의 생산적 금융 기능 확대에도 기여할 것으로 보인다.신한투자증권 장호식 CIB1그룹 대표는 \"이번 협약은 신한",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "신한투자증권이 일본 UMI 벤처스와 한일 양국의 반도체·로보틱스·우주항공·방산 등 딥테크 기업에 투자하는 크로스보더 벤처펀드 조성을 위한 MOU를 체결했다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202609/48652_47384_4517_v150.jpg",
+    "score": 5.667,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처",
+      "벤처캐피탈"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "삼성, 인텔 '코어 시리즈3' 업고 맥북네오 정조준",
+    "url": "https://zdnet.co.kr/view/?no=20260902162725",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-02T08:25:35+00:00",
+    "raw_excerpt": "[지디넷코리아]D램과 SSD 등 메모리 반도체 수급난으로 PC 가격 상승과 출하량 감소가 이어지고 있는 가운데 애플의 보급형 노트북 '맥북네오'가 국내외 시장에서 판매량을 늘리며 주목받고 있다.인텔도 코어 시리즈3(와일드캣 레이크)를 앞세워 윈도 기반 보급형 노트북 시장 확대를 노린다. 국내외 주요 PC 제조사는 오는 4일(현지시간) 독일에서 개막하는 유럽 최대 가전 전시회 'IFA 2026'을 전후해 인텔 코어 시리즈3 탑재 노트북 신제품을 공개할 예정이다.삼성전자가 한 발 앞선 1일 '뉴 갤럭시북6'를 출시한 가운데, 주요 제조사들은 국내 시장에 출시할 제품 가격 설정에 고심하고 있다.삼성전자가 제시한 기본 모델 기준 출고가 119만원이 사실상 시장 하한선으로 작용하고 있기 때문이다.애플은 맥북네오에 아이폰16 프로(2024년)에 탑재된 A18 프로 칩을 활용했다. 반면 인텔 코어 시리즈3는 보급형 노트북 뿐만 아니라 산업용 기기, 키오스크 등 보다 다양한 기기 활용을 위해 설계됐다.CPU는 고성능 P(퍼포먼스) 코어 최대 2개, 저전력·고효율 E(에피션트) 코어 4개를 조합한 하이브리드 구조다. Xe3 GPU 코어는 최대 2개다. AI 성능은 15 TOPS급 NPU와 CPU·GPU를 합해 약 40 TOPS 수준이다.메모리는 PC 메인보드에 직접 장착하는 LPDDR5X-7467MHz, 메모리 슬롯에 장착하는 DDR5-6400MHz",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "삼성전자가 인텔 코어 시리즈3 탑재 '뉴 갤럭시북6'을 119만원에 출시하며 애플 맥북네오와 경쟁하는 보급형 노트북 시장 재편을 주도하고 있다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/01/5d90078b589c1b33a45a336634cb1a1c.jpg",
+    "score": 5.367,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "gpu"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "퍼플렉시티, 맥에 '하이브리드 컴퓨트' 도입…클라우드·로컬 모델 나눠 쓴다",
+    "url": "https://zdnet.co.kr/view/?no=20260902165554",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-02T07:57:53+00:00",
+    "raw_excerpt": "[지디넷코리아]퍼플렉시티가 맥에서 인공지능(AI) 연산 일부를 직접 처리하는 '하이브리드 컴퓨트'를 도입한다. 민감한 개인정보가 포함된 작업은 이용자 기기 안에서 처리하고 고성능이 필요한 작업은 클라우드 모델에 맡겨 개인정보 보호와 비용 효율을 함께 높이겠다는 전략이다.퍼플렉시티는 맥용 퍼플렉시티 앱 이용자 대상으로 하이브리드 컴퓨트 기능을 적용한다고 2일 공식 블로그에서 발표했다. 이에 따라 AI 에이전트 '컴퓨터'는 작업 성격에 맞춰 로컬 모델과 클라우드 모델을 선택해 활용한다. 혈액검사 결과나 세금 신고서 소송 관련 자료처럼 민감한 파일을 다루는 작업은 맥에서 구동되는 로컬 모델이 맡는 식이다. 퍼플렉시티는 기존 AI 에이전트 대부분이 클라우드 중심으로 작동한다는 점에 주목했다. 네이티브 환경에서 처리할 수 있는 작업과 웹을 거쳐야 하는 작업을 구분하지 않아 상당수 연산과 데이터가 클라우드로 전달되는 구조라는 설명이다.아라빈드 스리니바스 퍼플렉시티 최고경영자(CEO)는 \"우리는 맥 애플 실리콘을 활용해 작업 구조 보완에 나선 것\"이라며 \"기존 클라우드에서 처리하던 AI 연산 일부를 맥으로 옮겨 이용자 기기에서 직접 수행하도록 지원한다\"고 링크드인을 통해 밝혔다. 이어 \"로컬 모델이 사용하는 토큰에는 별도 비용도 발생하지 않는다\"고 강조했다. 반면 클라우드 모델은 높은 성능이 필요한 작업을 맡는다. 조사와 추론 등 복잡한 작업에는",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "퍼플렉시티가 맥에 하이브리드 컴퓨트를 도입해 민감한 개인정보는 로컬에서, 복잡한 작업은 클라우드에서 처리하며 개인정보 보호와 비용 효율을 동시에 달성한다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/02/d2461430cf35f3ea7bcdc273bff20e0d.png",
+    "score": 5.341,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "19개국 ICT 시험·인증 전문가 송도 집결",
+    "url": "https://zdnet.co.kr/view/?no=20260902160651",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-02T07:06:51+00:00",
+    "raw_excerpt": "[지디넷코리아]국립전파연구원이 글로벌 ICT 시험 인증 제도와 기술규제 협력을 확대하기 위해 19개국 전문가들과 머리를 맞댄다.국립전파연구원은 2일부터 4일까지 인천 송도 홀리데이 인에서 '2026 글로벌 ICT 시험인증 콘퍼런스'를 개최한다.올해 행사에는 한국을 비롯해 미국, 캐나다, 인도, 일본, 베트남, 인도네시아, 멕시코, 스웨덴, 스위스 등 19개국 정부기관과 시험·인증기관 관계자, 산업계·학계 전문가들이 참석한다.참석자들은 국가별 ICT 시험 인증 제도와 정책, 기술규제 동향을 공유하고 AI를 비롯한 새로운 ICT 트렌드에 따른 시험 인증 체계의 대응 방향을 논의한다.방송통신기자재 적합성 평가와 사이버보안, 디지털 융합기술도 주요 의제로 다룬다. 국가별 시험성적서와 인증 결과를 서로 인정하는 방안과 상호인정협정(MRA), 양해각서(MOU) 등 국가 간 협력을 확대하기 위한 논의도 진행된다.글로벌 ICT 시험 인증 콘퍼런스는 지난해 처음 열렸다. 당시 상호인정협정 체결국과 신흥전략국, 시험·인증기관 관계자 등 150여명이 참여해 각국 제도와 정책을 공유하고 국제 협력 네트워크를 구축했다.국립전파연구원은 올해 행사를 통해 기존 정보 교류에서 한발 더 나아가 국가 간 실질적인 협력 방안과 미래 기술 환경에 공동 대응할 수 있는 기반을 마련한다는 계획이다.정창림 국립전파연구원장은 \"AI와 첨단 ICT 발전으로 시험 인증의 중요성이",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "국립전파연구원이 19개국 ICT 시험·인증 전문가를 송도에 모아 글로벌 협력 체계를 강화하고 AI 등 신기술에 대한 공동 대응 방안을 논의한다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/02/443b8b8848eb3e86ddb3f9cbe2fee114.jpg",
+    "score": 5.293,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "규제"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "LS증권, 사내 업무형 AI 플랫폼 구축 착수",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48651",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-02T17:40:43+00:00",
+    "raw_excerpt": "[스마트타임스]LS증권은 지난 1일 서울 여의도 본사에서 AI 솔루션 기업인 원라인AI 및 사이오닉AI와 '사내 업무형 AI 플랫폼 구축 착수식'을 열었다고 2일 밝혔다.LS증권은 개별 업무마다 AI를 별도로 도입하는 대신 공통 플랫폼을 먼저 구축하고, 임직원이 공통으로 활용하는 업무부터 AI 플랫폼을 적용할 예정이다.LS증권은 이번 플랫폼에서 검증된 AI 활용 과제를 전사로 확산하고 축적된 경험을 바탕으로 향후 고객 서비스 영역까지 AI 활용을 확대한다는 계획이다.홍원식 LS증권 대표이사는 \"AI를 얼마나 많이 도입하느냐 보다는",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "LS증권이 원라인AI, 사이오닉AI와 함께 사내 공통 업무형 AI 플랫폼 구축을 시작하며 임직원 협업 업무부터 AI를 적용한 후 고객 서비스로 확대할 예정이다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202609/48651_47400_4035_v150.jpg",
+    "score": 5.212,
+    "engagement": 0,
+    "matched_keywords": [
+      "사내"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "클릭하우스(ClickHouse) – 기적의 데이터베이스 기술",
+    "url": "https://news.hada.io/topic?id=33149",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-02T08:06:46+00:00",
+    "raw_excerpt": "차트메트릭 창업자 조성문이 ClickHouse를 도입하며 겪은 경험과 그 성능의 원리를 정리한 글 기존 DB의 한계에서 출발 MySQL/PostgreSQL 같은 관계형 DB는 인덱스에 의존하는데, 모든 질문에 맞는 인덱스를 미리 만들 수 없음. 수십억 행 규모의 GROUP BY/ORDER BY 분석 쿼리는 수 분이 걸리...",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "ClickHouse는 컬럼 기반 저장 방식으로 기존 관계형 DB의 인덱스 의존성을 극복해 수십억 행 대규모 분석 쿼리를 초단위로 처리할 수 있는 데이터베이스다.",
+    "thumbnail": "https://social.news.hada.io/topic/33149?v=4bcdea96e3c9a4a15674a1c0f4e0016a",
+    "score": 5.193,
+    "engagement": 0,
+    "matched_keywords": [
+      "창업"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "최태원 SK 회장 \"日 키옥시아와 폭넓은 협력 가능…연내 결정\"",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48662",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-02T17:17:48+00:00",
+    "raw_excerpt": "[스마트타임스]최태원 SK그룹 회장이 AI 시대 폭증하는 메모리 반도체 수요에 대응하기 위해 일본을 해외 생산기지의 유력 후보로 꼽고 일본 낸드플래시 대기업 키옥시아와의 공동 생산 및 공장 건설 가능성을 내비쳤다. 최 회장은 이르면 연내 구체적인 일본 투자 방침을 결정할 전망이다.3일 업계에 따르면 최 회장은 최근 일본 아사히신문과의 인터뷰에서 키옥시아와의 공동 생산에 대해 \"하나의 선택지\"라며 \"키옥시아의 미래 전략에 SK하이닉스가 들어간다면 언제든 파트너가 될 생각이 있다\"고 밝혔다.최 회장은 단순 공동 생산과 R D, 공급망",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "SK 최태원 회장이 AI 시대 메모리 반도체 수요 대응을 위해 키옥시아와의 공동 생산·공장 건설을 추진하며 연내 일본 투자 결정을 예고했다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202609/48662_47398_1736_v150.jpg",
+    "score": 5.191,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "한미반도체, 대만 파운드리 기업에 패키징 장비 대량 공급…양산 라인 확보",
+    "url": "https://www.etnews.com/20260902000340",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-09-02T07:30:00+00:00",
+    "raw_excerpt": "한미반도체가 대만 파운드리 기업 패키징 양산 라인 공급망에 진입했다. 2일 업계에 따르면 한미는 대만 파운드리 기업을 고객사로 확보, 인공지능(AI) 시스템반도체용 패키징(본딩) 장비를 공급하기 시작했다. 한국산 패키징 장비가 대만 파운드리의 양산 퀄(품질인증)을 통과해 배치된 것은 이번이 처음이다. 장비 계약 상대와 규모는 비공개이며, 공시 의무 기준을 살짝 밑도는 물량으로 추정된다. 한미의 지난해 연결 매출은 5767억원으로, 코스피 상장",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "한미반도터가 AI 칩용 패키징 장비를 대만 파운드리 기업에 대량 공급하며 양산 라인 진입에 성공했으며, 한국산 장비의 대만 파운드리 양산 퀄 통과는 이번이 처음이다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/09/02/news-p.v1.20260902.521732f9ca53463e906dd9b2906a617b_P1.jpg",
+    "score": 5.155,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "8월 물가 3.1%↑…'SKT 해킹 요금 감면' 없었다면 2.5%",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48641",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-02T16:08:10+00:00",
+    "raw_excerpt": "[스마트타임스]8월 소비자물가 상승률이 한 달 만에 다시 3%대로 복귀했다. 석유류 오름세가 주춤하고 농축수산물 가격이 하락세를 보였지만 지난해 실시된 통신 요금 감면 정책에 따른 역기저효과가 크게 작용한 결과다.국가데이터처가 2일 발표한 '8월 소비자물가 동향'에 따르면 지난달 소비자물가지수는 120.05(2020년=100)로 전년 동월 대비 3.1% 상승했다. 물가 상승률은 올해 5월(3.1%)과 6월(3.2%) 3%대를 이어가다 7월 2.8%로 둔화했으나 한 달 만에 반등했다.◇통신료 기저효과가 끌어올린 물가 지표이번 물가 상",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "8월 소비자물가가 전년 대비 3.1% 상승했으며, SKT 해킹으로 인한 지난해 요금 감면의 기저효과가 없었다면 2.5%에 그쳤을 것으로 분석됐다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202609/48641_47395_748_v150.jpg",
+    "score": 5.125,
+    "engagement": 0,
+    "matched_keywords": [
+      "해킹"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "“치실 귀찮다”던 다이슨 창업자, 카메라로 문제 풀었다",
+    "url": "https://www.etnews.com/20260902000315",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-09-02T07:00:00+00:00",
+    "raw_excerpt": "다이슨이 카메라로 치아 사이 보이지 않는 틈을 찾아내는 오랄케어 기기 '다이슨 카메라젯'을 출시했다. 헤어케어와 청소기가 주력이던 다이슨이 헬스케어 제품군으로 사업을 확대하는 첫걸음이다. 제품 공개를 앞두고 싱가포르 다이슨 본사에서 만난 제임스 다이슨 창업자(다이슨 이사회 의장)는 '다이슨 카메라젯'이 개인적 경험에서 비롯됐다고 밝혔다. 그는 “제 좋지 않은 치아 상태에서 시작됐다고 할 수도 있겠다”며 “치과에 가면 의사가 스케일링 기구를 들",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "다이슨이 카메라로 치아 사이 틈을 시각화하는 오랄케어 기기 '카메라젯'을 출시해 헬스케어 사업에 진출했다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/09/02/news-p.v1.20260902.5f7de59d76fd4cc3981900a0b832ade3_P1.jpg",
+    "score": 5.124,
+    "engagement": 0,
+    "matched_keywords": [
+      "창업"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "과기 국감 'PBS 폐지 후속책·범정부 기술관리' 쟁점으로",
+    "url": "https://www.etnews.com/20260902000313",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-09-02T07:00:00+00:00",
+    "raw_excerpt": "올해 과학기술 분야 국정감사에서는 연구과제중심제도(PBS) 폐지에 따른 후속 조치와 범정부 기술관리체계의 실효성 여부가 쟁점이 될 전망이다. 국회입법조사처는 최근 발간한 '2026 국정감사 이슈 분석' 보고서에서 전략연구사업의 조정 기구 부실과 형식적 통합에 그친 국가전략기술 상설협의체 등을 점검이 필요한 사안으로 꼽았다. 전략연구사업은 정부출연연구기관이 부처와 산업계 수요를 토대로 연구를 기획하고 외부와 협력해 이를 수행하는 방식이다. 출연연",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "PBS 폐지 후속책과 범정부 기술관리체계의 실효성이 올해 과학기술 분야 국정감사의 주요 쟁점으로 떠오를 전망이다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/09/02/news-p.v1.20260902.9c4237a1552e46c7b5adf01a86d568d5_P1.jpg",
+    "score": 5.124,
+    "engagement": 0,
+    "matched_keywords": [
+      "입법"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "“대금 빨리 주려다 중소 납품사 퇴출”…직매입 정산기한 단축에 유통업계 우려",
+    "url": "https://www.etnews.com/20260902000349",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-09-02T06:51:00+00:00",
+    "raw_excerpt": "국회가 대형 유통업체의 직매입 대금 지급기한을 대폭 줄이는 법안을 추진하면서 유통업계의 우려가 커지고 있다. 납품업체의 현금흐름을 개선한다는 취지와 달리 유통사의 운전자본 부담이 커지면서 매입 규모 축소와 미판매 상품 반품 증가 등 부작용이 발생할 수 있다는 지적이 나온다. 2일 업계에 따르면 국회 정무위원회 법안심사2소위는 전날 유통업체의 직매입 대금 지급기한을 상품 수령일로부터 최대 60일에서 35일로 단축하는 내용의 '대규모유통업법 개정안",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "국회가 대형 유통업체의 직매입 정산기한을 60일에서 35일로 단축하려 하자, 유통사의 운전자본 부담 증가로 중소 납품사 외면 및 반품 증가 우려가 제기되고 있다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/09/02/news-p.v1.20260902.75d4c1669e094201b986704c99d4a780_P1.png",
+    "score": 5.114,
+    "engagement": 0,
+    "matched_keywords": [
+      "법안"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "호르무즈서 韓유조선 피격?…정부 “韓 선원 없어…관리대상 아냐”",
+    "url": "https://www.etnews.com/20260902000298",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-09-02T04:49:15+00:00",
+    "raw_excerpt": "호르무즈해협 인근에서 공격받은 초대형 원유운반선(VLCC) '세네갈 프로스퍼리티'호와 관련해 한국 정부가 관리 대상 선박이 아니며 한국인 승선원도 없는 것으로 파악됐다고 밝혔다. 외교부는 2일 언론공지를 통해 “해당 선박은 관리 대상이 아니며, 우리 국민이 승선하지 않은 것으로 파악된다”고 밝혔다. 앞서 영국 파이낸셜타임스(FT)는 해상보안 분석가들을 인용해 지난달 31일 호르무즈해협 인근에서 공격받은 유조선 가운데 한 척이 세네갈 프로스퍼리티",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "호르무즈해협에서 피격된 유조선 '세네갈 프로스퍼리티'호는 한국 정부 관리 대상이 아니며 한국인 선원도 승선하지 않은 것으로 확인됐다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/09/02/news-p.v1.20260902.f30c2610f95b4bd6b122a4afcb892f0d_P1.jpg",
+    "score": 4.988,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "유니티, 게임 엔진 '유니티 6.6' 정식 출시…'CoreCLR' 핵심 탑재",
+    "url": "https://zdnet.co.kr/view/?no=20260902153802",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-02T07:20:01+00:00",
+    "raw_excerpt": "[지디넷코리아]글로벌 게임 엔진 기업 유니티가 차세대 엔진의 기술적 토대를 마련하고 개발 전반의 생산성을 대폭 강화한 신규 엔진 버전을 정식 출시했다.유니티는 오는 4분기 선보일 '유니티 6.7 LTS'에 앞서 마지막 비 LTS(Non-LTS) 버전인 '유니티 6.6'을 정식 출시했다고 2일 밝혔다. 이번 버전은 차세대 엔진 '유니티 7'의 기반이 되는 신규 CoreCLR의 핵심 구성 요소를 구현했으며, 반복 작업 속도와 콘텐츠 관리, 그래픽, UI, 플랫폼 지원 범위 등 개발 라이프사이클 전반에 걸친 개선 사항을 적용했다.작업 효율과 에셋 관리 체계가 한층 현대화됐다. 모든 신규 프로젝트에 도메인 리로드 없이 씬만 리로드하는 '패스트 엔터 플레이 모드'가 기본 적용돼 작업 속도를 높였으며, 기존 에셋 번들을 대체하는 '콘텐츠 디렉토리'가 로컬 콘텐츠 대상으로 어드레서블에 통합됐다. 여기에 대용량 에셋과 종속성 체인을 파악할 수 있는 '빌드 분석 창'과 대규모 씬 성능을 개선한 신규 '하이어라키 창'이 기본 활성화된다.그래픽과 UI 시스템도 대거 개편됐다. 하드웨어 가속 레이 트레이싱 기반의 '유니티 컴퓨트 라이트 베이커'와 DX12용 DXC 기반 셰이더 빌드 설정을 지원해 에셋 빌드 시간을 대폭 줄였다. 2D 환경에는 소팅·렌더링 레이어를 지원하는 2D 라이트와 신규 프로파일러 모듈 3종이 추가됐으며, uGUI 세이프에리어 컴포넌트",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "유니티가 차세대 엔진 '유니티 7'의 기반이 되는 CoreCLR을 탑재한 '유니티 6.6'을 정식 출시하며 개발 생산성과 성능을 대폭 강화했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/02/1e6068920c16786424a3820866a93246.jpg",
+    "score": 4.63,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "This new Roomba seals itself to your carpet",
+    "url": "https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-09-02T06:00:00+00:00",
+    "raw_excerpt": "iRobot has announced a new flagship robot vacuum, which it will showcase at IFA in Berlin this week, the company's first big tech trade show in years. The Roomba maker will be exhibiting under its new owner, Picea Robotics, the contract manufacturer that purchased the once-troubled American robotics company out of bankruptcy in January. The [ ]",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "iRobot가 카펫에 자동으로 밀폐되는 신형 로봇청소기를 선보이며 파산 이후 새 주인인 Picea Robotics 산하에서 첫 주요 전시회에 참가한다.",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Roomba_Max_875_Combo_Email_Onboarding_Touch1_Hero_Mobile_425x300.jpg?quality=90&strip=all&crop=0,12.914485165794,100,74.171029668412",
+    "score": 3.374,
+    "engagement": 0,
+    "matched_keywords": [
+      "robotics"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+    "url": "https://arxiv.org/abs/2608.29530",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-02T04:15:56+00:00",
+    "raw_excerpt": "Article URL: https://arxiv.org/abs/2608.29530 Comments URL: https://news.ycombinator.com/item?id=49531651 Points: 121 # Comments: 38",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "인공신경망이 학습 과정에서 기호적 구조를 자발적으로 형성한다는 연구가 발표되어 신경망의 해석가능성 논의를 촉발했다.",
+    "thumbnail": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "score": 2.642,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "WebFPGA",
+    "url": "https://webfpga.io/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-02T03:54:58+00:00",
+    "raw_excerpt": "Article URL: https://webfpga.io/ Comments URL: https://news.ycombinator.com/item?id=49531525 Points: 65 # Comments: 30",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "웹 브라우저에서 FPGA를 직접 프로그래밍하고 실행할 수 있는 WebFPGA 플랫폼이 공개되어 하드웨어 개발의 진입장벽을 낮추고 있습니다.",
+    "thumbnail": "",
+    "score": 2.63,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "True Rate of Unemployment",
+    "url": "https://www.lisep.org/tru",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-02T02:21:10+00:00",
+    "raw_excerpt": "Article URL: https://www.lisep.org/tru Comments URL: https://news.ycombinator.com/item?id=49530989 Points: 208 # Comments: 165",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "기사의 제목과 출처 정보만 있고 본문 내용이 제공되지 않아 정확한 요약을 할 수 없습니다. 기사의 본문 내용을 제공해주시면 1줄 요약을 작성하겠습니다.",
+    "thumbnail": "",
+    "score": 2.578,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "Fine, I'll build my own text editor",
+    "url": "https://dbushell.com/2026/09/01/text-editor/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-01T17:12:15+00:00",
+    "raw_excerpt": "Article URL: https://dbushell.com/2026/09/01/text-editor/ Comments URL: https://news.ycombinator.com/item?id=49524863 Points: 91 # Comments: 86",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "개발자가 기존 텍스트 에디터의 한계에 불만을 품고 직접 자신만의 텍스트 에디터를 구축하기로 결정했다.",
+    "thumbnail": "https://dbushell.com/images/articles/2026-09-01-text-editor.png",
+    "score": 2.273,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  }
+]
