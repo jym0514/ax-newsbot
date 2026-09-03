@@ -1,0 +1,817 @@
+[
+  {
+    "title": "NC AI, 자율형 휴머노이드 국책과제 선정…인간의 동작을 로봇에 심다",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41731",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-03T10:37:20+00:00",
+    "raw_excerpt": "피지컬 AI 전문 기업 NC AI가 LG전자와 컨소시엄을 구성해 산업통상부와 한국산업기술기획평가원(KEIT)이 추진하는 ‘K-온디바이스 AI반도체 기술개발 사업’의 휴머노이드 분야 수행기관으로 최종 선정됐다고 3일 밝혔다.이번 과제는 국산 온디바이스 인공지능(AI) 반도체를 활용해 복잡한 일상 공간에서 인간 수준의 작업을 수행할 수 있는 자율형 휴머노이드 로봇 기술을 개발하는 것이 핵심이다.NC AI는 본 사업에서 학습기반 GMT(General Motion Tracking) 초기 학습 데이터와 사람의 동작을 로봇에 이식하는 ‘휴먼-",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "NC AI가 LG전자와 함께 국산 AI 반도체를 활용한 자율형 휴머노이드 로봇 개발 국책과제에 선정되어 인간 수준의 작업 수행 기술을 개발할 예정이다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41731_62799_377_v150.jpg",
+    "score": 8.67,
+    "engagement": 0,
+    "matched_keywords": [
+      "피지컬 ai",
+      "휴머노이드",
+      "휴머노이드 로봇"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "오픈AI ‘아스트라’ 이번 주 출시설…API에 ‘GPT-6’ 흔적 포착",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214790",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-03T11:57:22+00:00",
+    "raw_excerpt": "오픈AI의 차세대 모델 ‘아스트라(Astra)’의 출시가 임박했다는 정황이 잇따라 나오고 있다. 오픈AI가 공식적으로 출시를 예고한 가운데, API 내부에서 ‘gpt-6-astra’라는 명칭이 확인됐다는 주장이 나오면서 정식 모델명이 ‘GPT-6’가 될 가능성에도 관심이 모이고 있다.샘 알트먼 오픈AI CEO는 2일(현지시간) X를 통해 “곧 다음 모델을 출시할 예정”이라며 “성능 향상과 안전망 구축을 동시에 진행하는 데에는 명확한 긴장감이 존재하지만, 아스트라는 매우 훌륭하고 우리는 이 결과물이 자랑스럽다”고 밝혔다.오픈AI도 같",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI의 차세대 모델 '아스트라'가 이번 주 출시 예정이며, API에서 'gpt-6-astra'라는 명칭이 확인돼 정식명칭이 GPT-6이 될 가능성이 제기되고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/214790_218517_5323.jpg",
+    "score": 8.526,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "여수, 생성 AI로 행정업무 효율 높인다…5일간 실무교육 진행",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214780",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-03T11:00:20+00:00",
+    "raw_excerpt": "AI 생성 영상여수시 공직자 144명이 생성 AI를 활용해 보고서와 기획안 초안을 만들고 데이터를 정리·요약하는 실습 교육을 받았다. 반복적인 행정업무의 효율을 높이는 동시에 개인정보 보호와 결과물 검증 등 AI 활용 과정에서 필요한 기본 원칙도 함께 다뤘다.여수는 8월24일부터 28일까지 5일간 정보화교육장에서 전 직원을 대상으로 ‘생성형 AI 기반 공공행정 마스터 과정’을 운영했다고 2일 밝혔다.교육은 생성 AI의 기본 개념과 프롬프트 작성법부터 실제 행정업무에 활용할 수 있는 실습까지 이어졌다.참가자들은 생성 AI를 이용해 보",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "여수시가 공직자 144명을 대상으로 생성 AI를 활용한 5일간 실무교육을 실시해 행정업무 효율화를 도모하고 개인정보 보호 등 기본 원칙도 함께 교육했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/214780_218509_3412.jpg",
+    "score": 8.449,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "생성형 ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "\"로봇, 대한민국 새 성장동력으로\"...한병도 의원, '이동로봇 상용화 특별법' 대표발의",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41734",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-03T11:48:12+00:00",
+    "raw_excerpt": "인공지능(AI)과 자율주행 기술을 기반으로 아파트와 주차장, 건설현장 등 일상과 산업 현장으로 확산하고 있는 이동로봇의 실증부터 상용화, 안전관리까지 전 과정을 뒷받침하는 통합 법률안이 국회에 제출됐다.한병도 의원(전북 익산시을·더불어민주당 원내대표)은 3일, ‘이동로봇의 안전한 이용 및 상용화 촉진을 위한 특별법안(이하, 로봇특별법)'을 대표발의했다.이동로봇은 자율주행과 AI 등 첨단기술을 기반으로 배송, 보안, 주차, 건설 등 다양한 업무를 수행하는 미래 신산업의 핵심 분야다. 기존 산업용 로봇이 주로 생산라인과 같은 통제된 공",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "한병도 의원이 이동로봇의 실증부터 상용화까지 전 과정을 지원하는 '이동로봇 상용화 특별법'을 국회에 발의해 로봇 산업의 법적 기반을 마련하려고 한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41734_62805_4743_v150.jpg",
+    "score": 7.859,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "법안"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "이기종 로봇의 서로 다른 ‘눈’ 을 하나로..UNIST, 거리 추정 연합학습 기술 ‘페뎁스’ 개발",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41733",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-03T11:38:48+00:00",
+    "raw_excerpt": "다른 로봇이 경험한 지형이나 조명 조건에서 얻은 학습 결과를 활용해 로봇이 낯선 환경에서도 거리를 더 정확하게 가늠할 수 있게 하는 기술이 새롭게 개발됐다.UNIST 인공지능대학원 주경돈 교수팀은 로봇의 눈 역할을 하는 단안 깊이 추정 인공지능(AI) 모델을 학습시키는 새로운 연합학습 기술인 ‘페뎁스(FeDepth)’를 개발했다고 3일 밝혔다. 이를 통해 로봇에 깊이 추정 AI 모델을 적용하면 복잡한 센서 없이 카메라로 들어온 정보만으로도 거리를 가늠할 수 있게 된다.이 같은 AI 모델이 낯선 환경에서도 정확한 판단을 내리기 위해서",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "UNIST가 서로 다른 로봇들의 학습 경험을 공유하는 연합학습 기술 '페뎁스'를 개발해 낯선 환경에서도 카메라만으로 거리를 정확히 추정할 수 있게 했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41733_62801_3636_v150.jpg",
+    "score": 7.847,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "몽고DB, 아시아태평양 및 일본 지역 총괄로 리처드 스콧 선임…엔터프라이즈 AI 시장 공략 강화",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41730",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-03T10:28:05+00:00",
+    "raw_excerpt": "통합 AI-ready 데이터 플랫폼 선도기업 몽고DB(MongoDB)가 아시아태평양 및 일본 지역(APJ) 총괄 수석부사장으로 리처드 스콧(Richard Scott)을 2일(현지시간) 선임했다.스콧 총괄 수석부사장은 25년 이상의 경력을 보유한 시니어 기술 임원으로, 다양한 기업의 혁신을 지원해왔다. 몽고DB 합류 이전에는 세일즈포스(Salesforce)에서 아시아태평양 및 일본 총괄 수석부사장을 역임했다. 또한 인포매티카(Informatica), 마이크로소프트(Microsoft), SAP, IBM등 글로벌 주요 IT기업에서도 시니",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "몽고DB가 세일즈포스 출신의 리처드 스콧을 아시아태평양·일본 지역 총괄로 영입해 엔터프라이즈 AI 시장 확대를 가속화한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41730_62798_2729_v150.jpg",
+    "score": 7.759,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "ai 시장"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "광주서 만나는 필리핀 민주화의 기억…‘시간 속의 습작’ 전시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214779",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-03T10:59:21+00:00",
+    "raw_excerpt": "AI 생성 영상광주 5·18민주화운동기록관에서 필리핀의 독재와 국가폭력, 노동과 원주민 투쟁의 기억을 다룬 작품 30여점을 만날 수 있다. 전시는 오는 5일부터 11월1일까지 열리며 입장료는 무료다.5·18민주화운동기록관은 필리핀 국립대학교 딜리만 캠퍼스 미술대학(UPCFA)과 제16회 광주비엔날레 필리핀 파빌리온 ‘시간 속의 습작(Studies in Time)’을 공동 개최한다고 3일 밝혔다.전시에는 작가와 콜렉티브 등 12개 팀이 참여한다. 회화와 대형 설치, 미디어아트, 퍼포먼스 기록 등 다양한 형식으로 필리핀 현대사가 남긴",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "광주 5·18기록관에서 필리핀의 독재와 민중 투쟁의 기억을 다룬 '시간 속의 습작' 전시가 5일부터 11월 1일까지 무료로 개최된다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/214779_218508_3228.jpg",
+    "score": 7.472,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "네이버클라우드, LG와 공격·방어 특화 AI 투트랙 개발",
+    "url": "https://byline.network/2026/09/3-449/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-09-03T02:45:41+00:00",
+    "raw_excerpt": "네이버클라우드 컨소시엄이 정부의 ‘사이버 보안 특화 인공지능(AI) 파운데이션 모델 개발’ 사업 수행기관으로 선정됐다. 네이버의 ‘하이퍼클로바X’와 LG AI연구원의 ‘엑사원’을 기반으로 공격과 방어에 각각 특화한 보안 AI 모델 2개를 개발한다.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "네이버클라우드가 정부 지원 사이버 보안 AI 개발 사업에 선정돼 LG와 함께 공격·방어 특화 보안 AI 2종을 개발한다.",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/09/NAVER1.jpg",
+    "score": 7.407,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "파운데이션 모델"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "구글 “LLM 환각 원인은 지식 부족 아닌 '기억 인출' 실패”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214766",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-02T18:25:06+00:00",
+    "raw_excerpt": "대형언어모델(LLM)이 사실과 다른 답변을 내놓는 ‘환각’의 상당수가 모델에 지식 자체가 없어서가 아니라, 이미 저장된 정보를 제대로 꺼내지 못하는 '기억 인출 실패' 때문이라는 연구 결과가 나왔다. 이에 따라 모델 크기를 무작정 키우거나 외부 검색(RAG)에 의존하던 기존 환각 대응 방식에서 벗어나, AI에게 '스스로 생각할 시간'을 부여하는 방식으로의 패러다임 전환이 필요할 것으로 보인다.구글 리서치와 이스라엘 테크니온 연구진은 최근 발표한 논문 ‘빈 선반인가, 잃어버린 열쇠인가(Empty Shelves or Lost Keys?",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "구글 연구팀이 LLM의 환각이 지식 부족이 아닌 기억 인출 실패 때문이라는 것을 규명해 모델 크기 확대보다 사고 시간 제공이 더 효과적임을 시사했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/214766_218493_4046.png",
+    "score": 7.101,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "llm"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "삼성SDS, 美서 ‘RX ART 2026’ 개최…피지컬 AI 로봇 현장 적용 본격화",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41732",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-03T10:57:45+00:00",
+    "raw_excerpt": "삼성SDS가 미국에서 삼성 관계사와 글로벌 피지컬 AI 로봇 기업을 한자리에 모아 로봇 기술의 실제 산업 현장 적용을 구체화하는 자리를 마련했다.삼성SDS는 지난달 31일부터 9월 1일까지(현지시간) 미국 캘리포니아주 마운틴뷰에서 ‘RX ART(Robotics Transformation Advancing Robotics Together) 2026’을 개최했다고 3일 밝혔다.이번 행사는 삼성 관계사의 로봇 담당 임원 및 리더들과 글로벌 피지컬 AI 기업들이 참여해 산업 현장에서 활용할 수 있는 로봇 기술을 검증하고, 향후 협력 방안과",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "삼성SDS가 미국에서 'RX ART 2026'을 개최해 글로벌 피지컬 AI 로봇 기업들과 함께 산업 현장 적용을 구체화하고 협력방안을 모색했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41732_62800_5654_v150.jpg",
+    "score": 6.896,
+    "engagement": 0,
+    "matched_keywords": [
+      "피지컬 ai"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "뉴욕시, 초·중학생 교실 내 생성형 AI 1년간 금지",
+    "url": "https://www.etnews.com/20260903000012",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-09-02T23:52:28+00:00",
+    "raw_excerpt": "미국 뉴욕시가 새 학기부터 유아·초등학생과 중학생의 교실 내 생성형 인공지능(AI) 사용을 1년간 중단한다. 학생들의 전자기기 사용시간도 학년별로 제한한다. 조란 맘다니 뉴욕시장과 카마르 사무엘스 뉴욕시 교육감은 2일(현지시간) 이 같은 내용을 담은 학교 내 AI·전자기기 운영 방침을 내놨다. 정책은 오는 10일 개학하는 2026∼2027학년도부터 적용된다. 적용 대상은 2-K부터 8학년까지다. 만 2세 유아교육 과정부터 초등학교와 중학교 과정",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "뉴욕시가 2026학년도부터 유아·초·중학생의 교실 내 생성형 AI 사용을 1년간 금지하고 학년별로 전자기기 사용 시간을 제한하기로 했다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/09/03/news-p.v1.20260903.214fa64e92be4066a8dc5f03790ae619_P1.png",
+    "score": 6.553,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "생성형 ai"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "디노티시아, 씨홀스 스토리지로 벡터DB 성능 입증...AI 인프라 병목 해결",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21486",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-09-03T11:55:19+00:00",
+    "raw_excerpt": "디노티시아가 AI 스토리지 시스템 ‘씨홀스 스토리지’로 글로벌 AI 스토리지 벤치마크에서 벡터 데이터베이스(DB) 처리 성능 1위를 기록하며 기술력을 입증했다. 디노티시아는 씨홀스 스토리지가 MLCommons의 ‘MLPerf Storage v3.0’ 벡터DB 평가에서 5만7619.8 QPS를 기록했다고 3일 밝혔다. 이번 평가는 과학기술정보통신부와 정보통신기획평가원(IITP)이 지원하는 ‘HPC 이노베이션 허브’ 사업의 일환으로 한국정보통신기술협회(TTA)와 공동 수행했으며, TTA가 제출 주체로 참여해 MLPerf 공식 결과에 ‘",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "디노티시아의 씨홀스 스토리지가 MLPerf Storage 벡터DB 벤치마크에서 1위를 기록하며 AI 인프라의 성능 병목 해결 가능성을 입증했다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202609/21486_22210_4542.jpg",
+    "score": 6.387,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "래블업, ‘파이토치 파운데이션’ 합류...AI 인프라 오픈소스 협력",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21485",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-09-03T11:17:35+00:00",
+    "raw_excerpt": "래블업이 글로벌 오픈소스 AI 생태계 참여를 확대한다. 래블업은 리눅스 재단 산하 파이토치 파운데이션의 실버 멤버로 합류했다고 3일 밝혔다. 자사 AI 인프라 플랫폼 백엔드.AI를 중심으로 축적한 AI 컴퓨팅 운영 경험을 바탕으로 파이토치 생태계와의 기술 협력을 강화한다는 계획이다. 파이토치 파운데이션은 2022년 파이토치 프로젝트의 중립적 관리 주체로 출범한 뒤 2025년 여러 오픈소스 AI 프로젝트를 지원하는 재단으로 확대됐다. 현재 파이토치를 비롯해 vLLM, 딥스피드, 레이, 헬리온, 세이프텐서 등 AI 모델의 학습부터 추론",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "래블업이 파이토치 파운데이션의 실버 멤버로 합류해 AI 인프라 플랫폼 백엔드.AI를 중심으로 오픈소스 AI 생태계와의 기술 협력을 강화한다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202609/21485_22209_927.jpg",
+    "score": 6.344,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "베스핀글로벌 US, 니올로지와 손잡고 美 교통 인프라 AX 공략",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21484",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-09-03T10:59:56+00:00",
+    "raw_excerpt": "베스핀글로벌 US가 미국 교통 기술 기업 니올로지와 손잡고 교통 인프라의 AI 전환에 나선다. 양사는 클라우드와 AI, 매니지드 서비스, 보안을 결합해 통행료 징수와 차량 식별 등 교통 시스템의 운영 효율과 확장성을 높이는 데 협력한다. 이번 협력은 니올로지가 미국 조지아주 도로·유료도로청(SRTA) 사업을 비롯해 교통 인프라 사업을 확대하는 과정에서 베스핀글로벌 US의 클라우드 및 AI 역량을 접목하는 형태다. 니올로지는 캘리포니아주 칼스배드에 본사를 둔 교통 기술 기업으로 통행료 징수 시스템, 차량 자동 식별·분류, 데이터 처리",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "베스핀글로벨 US가 미국 교통기술 기업 니올로지와 협력해 클라우드·AI 기술로 미국 교통 인프라의 디지털 전환을 추진한다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202609/21484_22208_5422.jpg",
+    "score": 6.324,
+    "engagement": 0,
+    "matched_keywords": [
+      "ax"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Claude로 커머스 에이전트 구축하기",
+    "url": "https://news.hada.io/topic?id=33176",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-03T01:03:14+00:00",
+    "raw_excerpt": "Anthropic이 소매, 여행, 통신, 티켓 플랫폼에서 쇼핑 에이전트와 판매자 에이전트 를 며칠 안에 구축할 수 있는 블루프린트와 Claude Code 플러그인을 공개함 쇼핑 에이전트는 여러 상품이 포함된 자연어 요청을 이해해 카탈로그 검색과 비교, 개인화 추천, 장바구니 구성, 결제와 주...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Anthropic이 Claude와 Code 플러그인을 활용해 소매·여행·통신 등 다양한 산업에서 며칠 내 쇼핑 에이전트를 구축할 수 있는 블루프린트를 공개했습니다.",
+    "thumbnail": "https://social.news.hada.io/topic/33176?v=99a2ecc82963c332b1625dfe5d66d6ed",
+    "score": 5.877,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "claude code"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Brilliant effort worth checking out. ",
+    "url": "https://x.com/omarsar0/status/2095276262415577550",
+    "source": "X @omarsar0",
+    "source_type": "x",
+    "published_at": "2026-09-02T22:22:43+00:00",
+    "raw_excerpt": "Brilliant effort worth checking out. \n\nUltra-long horizon coding tasks are where frontier models like Fable 5.1 will shine. \n\nBut that's a crazy gap (over ~25 percentage points).\n\nWhat I think could be interesting is seeing results for a mixture of agents like what Cursor did.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Fable 5.1 같은 frontier 모델이 긴 시간 범위의 코딩 작업에서 우수한 성능을 보이고 있으며, 에이전트 혼합 방식의 결과도 주목할 만하다.",
+    "thumbnail": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_400x400.jpg",
+    "score": 5.307,
+    "engagement": 3230,
+    "matched_keywords": [
+      "cursor"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "반도체 소재 '인듐 셀레나이드' 한계 극복…대면적·논리회로 구현 성공",
+    "url": "https://zdnet.co.kr/view/?no=20260903094923",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-03T00:49:23+00:00",
+    "raw_excerpt": "[지디넷코리아]POSTECH과 KAIST 연구진이 대면적 구현이 어려운 반도체 소재 인듐 셀레나이드를 이용해 논리 트랜지스터(스위치)를 만드는데 성공했다.POSTECH은 노용영 화학공학과 교수 연구팀(공동제1저자, 이재윤 석박사통합과정생)이 KAIST 권지민 전기 및 전자공학부 교수·이용우 박사 연구팀과 공동으로 ‘κ상 인듐 셀레나이드’를 4인치 웨이퍼 규모 논리 트랜지스터로 구현하는 데 성공했다고 3일 밝혔다.연구결과는 국제 학술지 ‘네이처 커뮤니케이션즈’에 게재됐다.연구핵심은 3개다. 인듐 셀레나이드 연산과 대면적 구현, 낮은 온도 등이다.반도체는 기본적으로 저장과 연산 기능을 한다. 인듐 셀레나이드는 매우 얇으면서도 전하가 빠르게 흘러, 차세대 반도체 재료로 각광받고 있다. 그러나 인듐 셀레나이드는 한 번 가해진 전압 흔적을 잘 기억하는 특성으로 인해 메모리 반도체용으로 많이 연구되지만, 빠른 특성에도 불구하고, 논리회로에서는 불안정한 단점이 있다. 강유전성(ferroelectricity) 때문에, 전기장을 걸면 결정 내부의 분극 방향이 바뀔 수 있고, 전기장을 없앤 뒤에도 그 방향이 어느 정도 유지되기 때문이다.이와함께 소면적에서는 성능이 좋게 나타나도, 넓은 웨이퍼 전체에 고르게 펼쳐 만들기 어려운 단점이 있다. 대면적 구현이 안돼, 실제 공장 공정에 쓰기에 어렵다는 의미다.연구팀은 이를 극복하기 위해 K(카파)상을 이용했다",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "POSTECH과 KAIST 연구진이 차세대 반도체 소재인 인듐 셀레나이드를 4인치 웨이퍼 규모에서 논리 트랜지스터로 구현하는 데 성공했으며, 이는 그동안 해결 어려웠던 대면적 구현과 논리회로 안정성 문제를 극복한 성과입니다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/03/9fdc042f012ad4ea689d3d268c5d7903.jpg",
+    "score": 5.276,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "대경대 남양주캠퍼스 특수분장과, 이상봉 서울패션위크 파트너로 참여",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48681",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-03T11:28:17+00:00",
+    "raw_excerpt": "[스마트타임스]대경대학교 남양주캠퍼스 특수분장과는 이상봉 디자이너의 2027 S/S 서울패션위크 컬렉션 ‘REBLOOM – 40 YEARS of CREATIVITY’에 특수분장·소품 및 오브제 제작 파트너로 참여했다고 2일 밝혔다.지난 1일 동대문디자인플라자(DDP) 아트홀 1관에서 열린 이번 컬렉션은 이상봉 디자이너의 40년 창작 세계를 조명하는 무대로, 대경대 특수분장과 학생들은 컬렉션에 사용되는 특수 오브제와 소품 제작부터 행사 당일 모델 착장, 바디페인팅 등 백스테이지 운영까지 참여했다.특히 경기앵커 창업동아리 ‘나;란’ 학",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "대경대학교 남양주캠퍼스 특수분장과가 이상봉 디자이너의 2027 S/S 서울패션위크 컬렉션에 특수분장·소품 제작 파트너로 참여했다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202609/48681_47438_2726_v150.jpg",
+    "score": 5.2,
+    "engagement": 0,
+    "matched_keywords": [
+      "창업"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "[증권街소식]대신증권ㆍ신한투자증권ㆍKB증권",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48670",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-03T10:38:03+00:00",
+    "raw_excerpt": "◇대신증권, 가을학기 릴레이 세미나…하반기 투자전략 소개대신증권은 오는 11월까지 총 6회에 걸쳐 가을학기 릴레이 세미나를 진행한다고 3일 밝혔다.첫 번째 세미나는 3일 4시 반도체 투자전략을 주제로 진행한다. 류형근 연구원이 강연자로 나서 국내외 반도체 산업을 점검하고 투자 포인트를 설명한다.세미나는 대신증권 공식 유튜브 채널 ‘대신TV’를 통해 실시간으로 진행된다. 대신증권 HTS·MTS(사이보스·크레온)에서 사전 알림을 신청하면 9월부터 11월까지 진행되는 모든 세미나의 일정과 다시보기를 앱 알림, 카카오톡 알림톡, 문자 등으",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "대신증권이 9월부터 11월까지 반도체·하반기 투자전략 등을 주제로 총 6회 릴레이 세미나를 유튜브로 진행한다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202609/48670_47417_3318_v150.jpg",
+    "score": 5.153,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "美 상무장관 “미국서 안 만들면 반도체 관세”…표적 관세 언급",
+    "url": "https://www.etnews.com/20260903000086",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-09-03T01:12:14+00:00",
+    "raw_excerpt": "하워드 러트닉 미국 상무장관이 반도체에 대한 '표적 관세' 도입을 공식 언급했다. 미국에서 생산하면 관세를 면제하고, 그렇지 않으면 세계 최대 시장인 미국에 진입하는 대가로 관세를 물리겠다는 구상이다. 추후 관세 대상이 칩 자체에 그치지 않고 노트북, 게임기, 데이터센터용 서버 등 반도체를 탑재한 완제품까지 확대될 수 있어, 국내 업계가 촉각을 세우고 있다. 러트닉 장관은 2일(현지시간) CNBC 인터뷰에서 “앞으로 보게 될 것은 표적화되고 신",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "미국 상무장관이 미국 내 생산 반도체에만 관세를 면제하고 수입 반도체에는 관세를 부과하는 '표적 관세' 도입을 공식화해 국내 업계에 영향을 미칠 전망이다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/09/03/news-p.v1.20260903.0903123647d347b7a4a7d797b2229715_P1.png",
+    "score": 5.136,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "네이버, 사우디서 MOU 8건…예약·결제에 우주까지 '슈퍼앱' 확장",
+    "url": "https://www.etnews.com/20260903000050",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-09-03T00:38:00+00:00",
+    "raw_excerpt": "네이버가 사우디아라비아에서 글로벌 빅테크와 현지 기관·기업을 잇달아 협력망으로 끌어들이며 지도 기반 슈퍼 애플리케이션(앱) 생태계 구축에 속도를 낸다. 공간정보·부동산 행정·인프라·예약·결제 등을 연결해 연내 출시할 슈퍼앱의 기반을 다지는 한편 우주 기술까지 공동 개발 범위를 넓혔다. 3일 업계에 따르면 네이버클라우드와 사우디 국립주택공사(NHC)와의 합작법인 '네이버 이노베이션'은 사우디 기관·기업, 인스타그램 운영사 '메타' 등 8곳과 양",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "네이버가 사우디아라비아에서 8건의 MOU를 통해 지도 기반 슈퍼앱 생태계를 구축하며 예약·결제·우주 기술까지 사업 범위를 확대하고 있다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/09/01/news-p.v1.20260901.4244229dbece4742bc72a43b7e9d7789_P1.png",
+    "score": 5.101,
+    "engagement": 0,
+    "matched_keywords": [
+      "빅테크"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Gemini 3.8 Flash Cyber gives defenders a decisive advantage with expert vulnerability detection and autonomous patching.",
+    "url": "https://x.com/GoogleDeepMind/status/2095196704769237137",
+    "source": "X @GoogleDeepMind",
+    "source_type": "x",
+    "published_at": "2026-09-02T17:06:35+00:00",
+    "raw_excerpt": "Gemini 3.8 Flash Cyber gives defenders a decisive advantage with expert vulnerability detection and autonomous patching.\n\nHere’s how it helps teams stay ahead of emerging threats 🧵",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Google의 Gemini 3.8 Flash Cyber가 취약점 자동 탐지와 패칭으로 사이버 방어팀에 위협 대응의 경쟁 우위를 제공한다.",
+    "thumbnail": "https://pbs.twimg.com/tweet_video_thumb/HROdhUNacAMDX1q.jpg",
+    "score": 5.087,
+    "engagement": 47839,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Confirmed that recent Gemini flash models might be early results of a recursive self-improvement (RSI) flywheel.",
+    "url": "https://x.com/omarsar0/status/2095193581141033362",
+    "source": "X @omarsar0",
+    "source_type": "x",
+    "published_at": "2026-09-02T16:54:11+00:00",
+    "raw_excerpt": "Confirmed that recent Gemini flash models might be early results of a recursive self-improvement (RSI) flywheel.\n\nRSI is in full swing. Compounding effects will drastically change model progress.\n\nFlash models are shipping faster, with improvements in efficiency & performance.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Google의 Gemini flash 모델이 재귀적 자기개선(RSI) 기술로 구현되어 효율성과 성능이 빠르게 개선되고 있다.",
+    "thumbnail": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_400x400.jpg",
+    "score": 5.078,
+    "engagement": 13672,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "스마트폰이 없습니다… 아니 없었으면 좋겠습니다",
+    "url": "https://news.hada.io/topic?id=33172",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-03T00:09:08+00:00",
+    "raw_excerpt": "기업과 기관이 앱이나 QR 코드 사용을 요구할 때 “스마트폰이 없다” 고 답하며, 지난 1년 동안 제품 사용에 필요하다는 앱 18개의 설치를 거부함 앱 하나를 요구하는 데는 스마트폰 소유, 배터리, 저장 공간, 통신망, 데이터 요금제, Google이나 Apple 계정, 개인정보 제공 의사까...",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "스마트폰 필수화에 저항하는 사용자들이 앱 설치 거부로 디지털 독립성을 지키려는 움직임을 보이고 있습니다.",
+    "thumbnail": "https://social.news.hada.io/topic/33172?v=f9cc336fe4b21e01cbf4c86a03903c36",
+    "score": 5.071,
+    "engagement": 0,
+    "matched_keywords": [
+      "개인정보"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "I tested this prompt. It actually works. ",
+    "url": "https://t.co/HMPwfvh96q",
+    "source": "X @omarsar0",
+    "source_type": "x",
+    "published_at": "2026-09-02T16:05:07+00:00",
+    "raw_excerpt": "I tested this prompt. It actually works. \n\nIt should help reduce \"claudese\" from Fable 5.1. \n\n\nhttps://\nplatform.claude.com/docs/en/build-\nwith-claude/prompt-engineering/prompting-claude-fable-5-1#writing-density\n…",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Claude 5.1의 \"claudese\" 문제를 줄이기 위한 프롬프트 테스트가 실제로 효과가 있음이 확인되었다.",
+    "thumbnail": "",
+    "score": 5.044,
+    "engagement": 11744,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Don't count out Gemini just yet. ",
+    "url": "https://x.com/omarsar0/status/2095177610930098670",
+    "source": "X @omarsar0",
+    "source_type": "x",
+    "published_at": "2026-09-02T15:50:43+00:00",
+    "raw_excerpt": "Don't count out Gemini just yet. \n\nFeels like a new era of model releases. Models are so powerful that they now come with cyber variants. \n\nLove the pricing on Gemini 3.8 Flash. Performance not bad. Gemini 3.8 Flash Cyber is also on the Pareto frontier in patching capabilities.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Google Gemini 3.8 Flash와 사이버 변형이 가격 대비 성능과 패칭 능력에서 경쟁력 있는 수준을 보이고 있다.",
+    "thumbnail": "https://pbs.twimg.com/media/HROP7dpbAAAaw80.png:large",
+    "score": 5.034,
+    "engagement": 9624,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Two new Gemini models are here to help scale your AI agents and secure code:",
+    "url": "https://x.com/GoogleDeepMind/status/2095175498967949359",
+    "source": "X @GoogleDeepMind",
+    "source_type": "x",
+    "published_at": "2026-09-02T15:42:20+00:00",
+    "raw_excerpt": "Two new Gemini models are here to help scale your AI agents and secure code:\n\n🔘 3.8 Flash: our most intelligent model yet with significant gains from 3.7 Flash across software engineering, agentic tasks, and multi-step reasoning.\n\n🔘 3.8 Flash Cyber: our most capable",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Google이 AI 에이전트 확장과 안전한 코드 개발을 위해 Gemini 3.8 Flash와 3.8 Flash Cyber 두 가지 새로운 모델을 출시했습니다.",
+    "thumbnail": "https://pbs.twimg.com/tweet_video_thumb/HROEvCPXsAE-yJl.jpg",
+    "score": 5.029,
+    "engagement": 282429,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Muse Spark 1.3 공개, 긴 에이전트 작업과 코딩 효율 개선",
+    "url": "https://news.hada.io/topic?id=33166",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-02T21:29:46+00:00",
+    "raw_excerpt": "Meta가 장시간 이어지는 에이전트 워크플로와 코딩 작업 에 맞춰 Muse Spark 1.3을 개선하고, Muse Code와 Meta Model API에 공개함 하나의 긴 대화에서 여러 작업과 이전 결과를 추적하고, 서로 충돌하는 정보를 정리하며 계획의 빈틈을 스스로 보완 하도록 훈련됨...",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Meta가 Muse Spark 1.3을 공개하며 장시간 에이전트 작업과 코딩 효율을 개선하고 복잡한 워크플로우 처리 능력을 강화했습니다.",
+    "thumbnail": "https://social.news.hada.io/topic/33166?v=f4b95cc0fee8ff6ec488ea9233c3b630",
+    "score": 4.905,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "몸값 1조 원 넘긴 뤼튼, IPO 시동...이달 주관사 선정",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21474",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-09-02T10:33:58+00:00",
+    "raw_excerpt": "뤼튼테크놀로지스가 기업공개(IPO) 준비에 들어갔다. 최근 투자 유치를 통해 기업가치 1조 원 이상을 인정받은 데 이어 해외 사업에서도 성과를 내면서 자본시장 진입을 위한 절차를 본격화하는 모습이다. 뤼튼은 국내 주요 증권사에 IPO 주관사 선정을 위한 입찰제안요청서(RFP)를 발송했다고 2일 밝혔다. 내년 이후 상장을 목표로 이달 중 주관사를 선정하고 구체적인 상장 일정과 추진 방안을 확정할 계획이다. 뤼튼은 지난달 1000억 원 규모의 시리즈C 투자를 유치하면서 기업가치 1조 원 이상을 인정받았다. 누적 투자 유치액은 약 230",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "기업가치 1조 원을 넘긴 국내 AI 스타트업 뤼튼이 IPO 주관사 선정에 들어가 내년 이후 상장을 목표로 추진 중이다.",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202609/21474_22200_2941.jpg",
+    "score": 4.644,
+    "engagement": 0,
+    "matched_keywords": [
+      "투자 유치"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Singapore Reconsiders Rules for Stablecoins Issued Across Multiple Jurisdictions",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48666",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-02T21:44:07+00:00",
+    "raw_excerpt": "The Monetary Authority of Singapore (MAS) is reconsidering restrictions on stablecoins issued across multiple jurisdictions, opening the possibility for certain jointly issued tokens to qualify under its regulatory framework.MAS launched a public consultation Tuesday covering legislative changes nee",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "싱가포르 금융통화청(MAS)이 다중 관할권에서 발행되는 스테이블코인 규제를 재검토하며 공동 발행 토큰의 규제 적용 가능성을 열었다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202609/48666_47408_441_v150.jpg",
+    "score": 4.428,
+    "engagement": 0,
+    "matched_keywords": [
+      "regulatory"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Global Banking Group Plans Dollar Stablecoin Launch in 2027",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48665",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-02T21:43:31+00:00",
+    "raw_excerpt": "A consortium of 21 major financial institutions, including Bank of America, Citi, Goldman Sachs and UBS, plans to establish a new company to issue stablecoins for payments and digital asset transactions.The yet-to-be-named company is expected to be formed during the second half of the year, subject",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "뱅크오브아메리카, 시티, 골드만삭스, UBS 등 21개 글로벌 금융기관이 2027년 달러 스테이블코인 발행을 위한 새로운 회사 설립을 추진 중입니다.",
+    "thumbnail": "http://www.smarttimes.co.kr/image/logo/snslogo_20230619043942.jpg",
+    "score": 4.427,
+    "engagement": 0,
+    "matched_keywords": [
+      "stablecoin"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "ChatGPT/Codex 앱, macOS 런타임에 헤드리스 LibreOffice 포함",
+    "url": "https://news.hada.io/topic?id=33137",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-02T00:19:46+00:00",
+    "raw_excerpt": "현재 ChatGPT로 이름이 바뀐 OpenAI Codex 데스크톱 앱은 ~/.cache/ 아래에 1.7GB 규모의 codex-primary-runtime 을 저장함 런타임에는 Python과 Node.js 전체 설치본, Poppler, git과 약 430MB 규모의 헤드리스 LibreOffice 가 포함됨...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "ChatGPT/Codex 데스크톱 앱이 macOS에서 1.7GB 런타임 환경에 Python, Node.js, 헤드리스 LibreOffice 등을 포함하고 있다.",
+    "thumbnail": "https://social.news.hada.io/topic/33137?v=bdb607b238f3907c92ffbc52bc1dbb86",
+    "score": 4.332,
+    "engagement": 0,
+    "matched_keywords": [
+      "codex",
+      "chatgpt"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+    "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-09-02T22:44:56+00:00",
+    "raw_excerpt": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Palo Alto Networks가 Thrive Capital이 지원한 Console을 5억 달러에 인수하면서 AI IT 서비스 자동화 시장에서 Sequoia 지원 Serval이 유력 신생사로 부상했다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2215666246.jpg?resize=1200,800",
+    "score": 3.654,
+    "engagement": 0,
+    "matched_keywords": [
+      "startup"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Uber beats Waymo as first to launch robotaxis in London",
+    "url": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-09-02T23:00:00+00:00",
+    "raw_excerpt": "Uber beat out Waymo in launching a commercial robotaxi service in London, the city's first. The vehicles use autonomous driving tech developed by Wayve, a UK-based startup, and will initially feature safety drivers behind the wheel. The launch is a milestone for Uber, which has been plotting a UK launch with Wayve for several years. [ ]",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Uber가 Wayve의 자율주행 기술을 활용해 런던에서 첫 상용 로봇택시 서비스를 Waymo보다 먼저 출시했다.",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Photo-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "score": 3.332,
+    "engagement": 0,
+    "matched_keywords": [
+      "startup"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Reasons robotics is hard",
+    "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-02T22:02:30+00:00",
+    "raw_excerpt": "Article URL: https://secondthoughts.ai/p/14-reasons-robotics-is-hard Comments URL: https://news.ycombinator.com/item?id=49543191 Points: 47 # Comments: 13",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "로봇공학이 AI나 소프트웨어 개발보다 훨씬 어려운 이유는 물리적 현실, 하드웨어 제약, 실시간 처리 등 14가지 복합적 요인 때문입니다.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!Oq1t!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc0980aeb-8522-4f72-a7a3-c93bce52315d_1024x772.png",
+    "score": 2.634,
+    "engagement": 0,
+    "matched_keywords": [
+      "robotics"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
+    "url": "https://www.bbc.com/news/articles/c86xpv8l9y9o",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-02T21:46:33+00:00",
+    "raw_excerpt": "Article URL: https://www.bbc.com/news/articles/c86xpv8l9y9o Comments URL: https://news.ycombinator.com/item?id=49543007 Points: 104 # Comments: 67",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Uber가 나이지리아와 우간다에서 즉시 운영을 중단했습니다.",
+    "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/33c3/live/d18d2af0-a709-11f1-aed2-8d6da8d75094.jpg",
+    "score": 2.625,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Embedded Rust RTOS vs. C RTOS",
+    "url": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-02T18:32:24+00:00",
+    "raw_excerpt": "Article URL: https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/ Comments URL: https://news.ycombinator.com/item?id=49540415 Points: 62 # Comments: 30",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Embedded Rust의 비동기 프로그래밍과 C 기반 RTOS의 성능 및 개발 효율성을 비교 분석한 연구가 주목받고 있습니다.",
+    "thumbnail": "https://media.tweedegolf.nl/images/rustvsc.png",
+    "score": 2.517,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-02T15:12:40+00:00",
+    "raw_excerpt": "https://deepmind.google/models/model-cards/gemini-3-8-flash/ Comments URL: https://news.ycombinator.com/item?id=49537553 Points: 850 # Comments: 498",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Google이 Gemini 3.8 Flash와 3.8 Flash Cyber 모델을 공개하며 경량 AI 모델의 성능과 효율성을 강화했다.",
+    "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8_flash__blog__header__16-9__light.width-1300.png",
+    "score": 2.406,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Google avoids a breakup of its ad tech business",
+    "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-02T14:46:16+00:00",
+    "raw_excerpt": "https://archive.ph/rlAbY https://www.reuters.com/legal/litigation/google-defeats-us-b... Comments URL: https://news.ycombinator.com/item?id=49537131 Points: 282 # Comments: 201",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "미국 독점금지 소송에서 Google이 광고기술 사업 분할을 피했다.",
+    "thumbnail": "",
+    "score": 2.392,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Exit the Cave",
+    "url": "https://turtlespace.blog/p/exit-the-cave",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-02T14:16:45+00:00",
+    "raw_excerpt": "Article URL: https://turtlespace.blog/p/exit-the-cave Comments URL: https://news.ycombinator.com/item?id=49536606 Points: 215 # Comments: 80",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "기사의 원문 내용이 제공되지 않아 정확한 요약을 할 수 없습니다. URL의 제목 \"Exit the Cave\"만으로는 구체적인 내용을 파악할 수 없으므로, 기사 본문의 발췌 내용을 제공해 주시면 한 문장으로 요약하겠습니다.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!lnWU!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F15cf15db-4b03-49ec-9074-5e0e31fb6b1a_1134x851.png",
+    "score": 2.375,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  }
+]
