@@ -1,0 +1,820 @@
+[
+  {
+    "title": "Chatbots built an \"echo chamber of one\" and now psychiatry has to decide if \"AI psychosis\" exists",
+    "url": "https://the-decoder.com/chatbots-built-an-echo-chamber-of-one-and-now-psychiatry-has-to-decide-if-ai-psychosis-exists/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-09-06T11:57:12+00:00",
+    "raw_excerpt": "Researchers at King's College London and other institutions are examining whether \"AI-associated psychosis\" should become a clinical diagnosis. By OpenAI's own self-reported numbers, about 560,000 users show signs of psychosis or mania each week. Sycophantic chatbots can create an \"echo chamber of one\" that reinforces delusions. The article Chatbots built an echo chamber of one and now psychiatry has to decide if AI psychosis exists appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "ChatGPT 등 챗봇이 사용자의 망상을 강화하는 \"1인 에코 챔버\"를 만들어 정신의학계가 \"AI 정신병\"을 임상 진단으로 인정할지 검토 중이다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/ai_hypnosis_syco-1200x670.png",
+    "score": 5.873,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+    "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-09-06T20:47:37+00:00",
+    "raw_excerpt": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "저작권 침해 소송의 Anthropic 합의금을 놓고 저자들이 출판사와 에이전트의 과도한 청구에 반발하고 있다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800",
+    "score": 5.656,
+    "engagement": 0,
+    "matched_keywords": [
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "GPT-6 아스트라, AI 최초 수능 '완전 만점'...탐구 4과목까지 석권",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214896",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-06T08:00:01+00:00",
+    "raw_excerpt": "오픈AI의 ‘GPT-6 아스트라’가 AI 모델 중 최초로 수능 전 문항 만점을 달성했다.6일 공개된 ‘2026 수능 LLM 풀이 대시보드’에서 GPT-6 아스트라는 2026 수능 총점 450점 만점에 450점으로 전체 1위에 올랐다.이 대시보드는 AI 수능 벤치마크로 유명한 구유겸 순천향대학교 컴퓨터소프트웨어공학과 학생이 직접 개발한 ‘테스트-채점-통계’ 자동 처리 시스템을 토대로 한 결과다. 한 문항씩 제공해 풀도록 하는 ‘일반 모드’와 과목 별로 모든 문제를 한번에 제공하는 ‘고난도 모드’로 구성된다.평가는 국어, 수학 선택과목",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI의 GPT-6 아스트라가 AI 모델 중 최초로 2026 수능 전 과목 만점(450점)을 달성했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/214896_218642_5131.jpeg",
+    "score": 5.063,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "llm",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+    "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-09-05T22:49:55+00:00",
+    "raw_excerpt": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Seattle Times와 Newsday가 자신들의 기사가 AI 학습에 무단으로 사용됐다며 OpenAI와 Microsoft를 고소했다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2023/03/artifact-newspaper-icon.jpg?resize=1200,645",
+    "score": 4.971,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Google's WeatherNext 3 ditches physics simulations and learns weather directly from live satellite data",
+    "url": "https://the-decoder.com/googles-weathernext-3-ditches-physics-simulations-and-learns-weather-directly-from-live-satellite-data/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-09-06T10:36:35+00:00",
+    "raw_excerpt": "Google Research and DeepMind are releasing WeatherNext 3, a weather model that skips traditional physics simulations and learns directly from real-time satellite data. It produces hourly forecasts at up to five-kilometer resolution, five times more detailed than its predecessor. Google says regions in Africa, Latin America, and the Asia-Pacific that have lacked accurate forecasts should see the biggest gains. The article Google s WeatherNext 3 ditches physics simulations and learns weather directly from live satellite data appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Google이 물리 시뮬레이션을 버리고 위성 데이터에서 직접 학습하는 WeatherNext 3으로 해상도를 5배 높인 시간 단위 날씨 예측을 제공한다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/weathernext-3-01-hero.webp",
+    "score": 4.956,
+    "engagement": 0,
+    "matched_keywords": [
+      "deepmind"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "OpenAI developer claims Astra boosted productivity so much it pulled some plans forward by six months",
+    "url": "https://the-decoder.com/openai-developer-claims-astra-boosted-productivity-so-much-it-pulled-some-plans-forward-by-six-months/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-09-06T10:15:17+00:00",
+    "raw_excerpt": "OpenAI developer Thibault Sottiaux calls Astra the company's \"biggest competitive advantage\" while it wasn't publicly available. Internal use boosted productivity so much that some plans got pulled forward by six months. The article OpenAI developer claims Astra boosted productivity so much it pulled some plans forward by six months appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI 개발자가 Astra 에이전트가 내부 생산성을 크게 향상시켜 일부 계획을 6개월 앞당겼다고 주장했습니다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/openai_logo_astra-2.png",
+    "score": 4.932,
+    "engagement": 0,
+    "matched_keywords": [
+      "openai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Meta's new real-time audio model is the foundation for AI assistants that never stop listening",
+    "url": "https://the-decoder.com/metas-new-real-time-audio-model-is-the-foundation-for-ai-assistants-that-never-stop-listening/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-09-06T09:45:18+00:00",
+    "raw_excerpt": "Meta's Superintelligence Labs have released Muse Voice Transcribe, a real-time transcription model that processes speech in 80-millisecond chunks, tells speakers apart, and detects sentence boundaries. According to Artificial Analysis, it delivers the most accurate streaming transcription at the lowest price in the market. Meta sees the model as a building block for personal AI agents that listen in on real conversations through devices like its camera glasses. The article Meta s new real-time audio model is the foundation for AI assistants that never stop listening appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Meta가 실시간 음성 인식 모델 Muse Voice Transcribe를 공개했으며, 이는 지속적으로 음성을 듣는 AI 어시스턴트 개발의 토대가 될 것으로 예상된다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/meta_logo.png",
+    "score": 4.897,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "\"불확실성 아는 AI로 과학 실험 최적화\"…EPFL, LLM에 ‘의심 탐지기’ 결합한 GOLLuM 개발 공개",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41781",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-06T11:35:12+00:00",
+    "raw_excerpt": "대형언어모델(LLM)이 자신의 예측에 대한 불확실성을 학습하도록 만들어 과학 실험의 최적 조건을 더 적은 횟수로 찾아내는 인공지능(AI) 기술이 개발됐다.스위스 로잔연방공과대학교(EPFL) 인공지능 화학 연구소(Laboratory of Artificial Chemical Intelligence)의 보야나 란코비치(Bojana Ranković) 박사와 필리프 슈발러(Philippe Schwaller) 교수 연구팀은 LLM과 확률 모델인 가우시안 프로세스를 결합한 과학 실험 최적화 방법 ‘골룸(GOLLuM, Gaussian Proces",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "EPFL 연구팀이 LLM에 불확실성 인식 기능을 추가해 과학 실험의 최적 조건을 더 효율적으로 찾는 'GOLLuM' 기술을 개발했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41781_62864_3425_v150.jpg",
+    "score": 4.853,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "llm"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Stripping safety guardrails from open-weight AI models is now a turnkey commercial service",
+    "url": "https://the-decoder.com/stripping-safety-guardrails-from-open-weight-ai-models-is-now-a-turnkey-commercial-service/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-09-06T08:55:56+00:00",
+    "raw_excerpt": "Abliteration.ai sells access to modified open-weight models with their trained safety mechanisms stripped out, currently based on Z.AI's GLM-5.3. The startup markets the service for offensive cybersecurity and red teaming, but journalists were able to generate malware instructions without much effort. Whether the benefits outweigh the risks remains an open question. The article Stripping safety guardrails from open-weight AI models is now a turnkey commercial service appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "오픈 웨이트 AI 모델의 안전장치를 제거한 수정 버전을 판매하는 상용 서비스 Abliteration.ai가 등장해 보안 우려를 야기하고 있다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/abliteration-ai-1200x670.png",
+    "score": 4.841,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "구글, 글로벌 실시간 날씨 AI 모델 ‘웨더넥스트 3’ 공개...실시간 위성 데이터 학습, 5km 고해상도·시간 단위 예측",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41778",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-05T23:11:50+00:00",
+    "raw_excerpt": "구글 딥마인드(Google DeepMind)와 구글 리서치(Google Research)는 3일(현지시간) 실시간 위성 관측 데이터를 직접 학습해 매시간 전 세계 날씨를 예측하고, 기존 모델보다 공간·시간 해상도와 강수 예측 정확도를 크게 높인 글로벌 인공지능(AI) 기상예측 모델 ‘웨더넥스트 3(WeatherNext 3)’를 공개했다.웨더넥스트 3는 실시간 위성 데이터를 활용해 매시간 새로운 예보를 생성하는 것이 핵심이다. 구글은 독립적인 실시간 평가기관 브라이트밴드(Brightband)의 평가를 근거로 웨더넥스트 3가 현재까지",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "구글 딥마인드가 실시간 위성 데이터를 학습한 AI 기상예측 모델 '웨더넥스트 3'를 공개해 5km 고해상도의 시간 단위 전 지구 날씨 예측을 가능하게 했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41778_62856_922_v150.jpg",
+    "score": 4.834,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "deepmind",
+      "딥마인드"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "엔비디아·크라우드스트라이크, '공격·방어 동시 수행' 사이버 보안 AI '세이프마인드' 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214905",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-06T11:42:24+00:00",
+    "raw_excerpt": "엔비디아와 크라우드스트라이크가 AI를 활용한 사이버 공격이 급속도로 고도화되는 상황에 대응하기 위해 새로운 사이버 보안 특화 AI 모델군을 공동 개발했다. 공격자의 관점에서 기업 시스템의 침투 경로를 찾아내는 동시에 이를 차단하는 방어책까지 자동으로 마련하는 방식으로, AI 시대에 벌어지고 있는 공격자와 방어자 간 속도 격차를 줄이는 것이 목표다.양사는 1일(현지시간) 크라우드스트라이크의 연례 행사에서 사이버 보안 특화 AI 모델군 ‘세이프마인드(SafeMind)’를 공개했다.세이프마인드는 크라우드스트라이크의 대표 보안 플랫폼인 '",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "엔비디아와 크라우드스트라이크가 공격자 관점의 침투 경로 탐색과 방어 대책을 동시에 수행하는 사이버 보안 AI 모델 '세이프마인드'를 공동 개발했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/214905_218653_1936.png",
+    "score": 4.614,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "사이버 보안"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Windows 11's \"special\" developer edition looks like another marketing misfire",
+    "url": "https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-06T21:16:10+00:00",
+    "raw_excerpt": "Article URL: https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/ Comments URL: https://news.ycombinator.com/item?id=49591036 Points: 17 # Comments: 3",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Windows 11의 개발자 에디션이 마케팅 실패로 평가되며 개발자 커뮤니티의 비판을 받고 있습니다.",
+    "thumbnail": "",
+    "score": 4.137,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+    "url": "https://github.com/marsbos/mador",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-06T20:45:13+00:00",
+    "raw_excerpt": "Article URL: https://github.com/marsbos/mador Comments URL: https://news.ycombinator.com/item?id=49590738 Points: 40 # Comments: 16",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Mador라는 80줄 규모의 Proxy 기반 상태 관리 라이브러리로 모든 DOM을 반응형으로 만들 수 있다.",
+    "thumbnail": "https://opengraph.githubassets.com/3447e126038796dcb3d3ef368d16d79082fe8006a5cfda490afa857ffa7013de/marsbos/mador",
+    "score": 4.112,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "It took a year to ship WebAssembly in Anubis",
+    "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-06T20:32:38+00:00",
+    "raw_excerpt": "Article URL: https://anubis.techaro.lol/blog/2026/anubis-wasm/ Comments URL: https://news.ycombinator.com/item?id=49590611 Points: 83 # Comments: 46",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Anubis가 WebAssembly 지원을 1년에 걸쳐 구현 완료했으며 이는 복잡한 기술 통합의 도전과 시간 소요를 보여줍니다.",
+    "thumbnail": "https://anubis.techaro.lol/chrystarium.webp",
+    "score": 4.101,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Harnessing the Universal Geometry of Embeddings",
+    "url": "https://arxiv.org/abs/2505.12540",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-06T20:31:20+00:00",
+    "raw_excerpt": "Article URL: https://arxiv.org/abs/2505.12540 Comments URL: https://news.ycombinator.com/item?id=49590595 Points: 12 # Comments: 2",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "임베딩의 보편적 기하학적 특성을 활용하는 새로운 연구가 발표되어 AI 모델의 성능 향상 가능성을 제시했다.",
+    "thumbnail": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "score": 4.1,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+    "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-06T20:24:00+00:00",
+    "raw_excerpt": "Article URL: https://grapheneos.social/@GrapheneOS/117225539756835649 Comments URL: https://news.ycombinator.com/item?id=49590512 Points: 73 # Comments: 21",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "GrapheneOS가 기본 앱과 보안 클립보드 기능을 개선했습니다.",
+    "thumbnail": "",
+    "score": 4.094,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "The car industry A/B tested selling a car with and without CarPlay",
+    "url": "https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-06T19:53:23+00:00",
+    "raw_excerpt": "Article URL: https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/ Comments URL: https://news.ycombinator.com/item?id=49590225 Points: 86 # Comments: 72",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "자동차 업계가 CarPlay 탑재 여부에 따른 같은 차종의 판매 차이를 A/B 테스트한 결과 CarPlay 장착 모델의 판매 우위가 확인되었다.",
+    "thumbnail": "https://storage.ghost.io/c/91/15/9115e440-4672-4090-9706-8335a7b154ee/content/images/2026/08/image.gen.png",
+    "score": 4.068,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Nitter and XCancel resume service after legal advice",
+    "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-06T17:49:47+00:00",
+    "raw_excerpt": "https://github.com/zedeus/nitter https://xcancel.com/cdclegal https://nitter.net/ https://xcancel.com/ Comments URL: https://news.ycombinator.com/item?id=49588988 Points: 345 # Comments: 200",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Nitter와 XCancel이 법적 자문을 바탕으로 서비스를 재개했습니다.",
+    "thumbnail": "https://opengraph.githubassets.com/92962a83efd8bc2e3e8432afc9522dcfe42750f8345dee563ecb199ee76f3aed/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+    "score": 3.965,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Opalite Health (YC W26) Is Hiring – Founding GTM",
+    "url": "https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-06T17:00:28+00:00",
+    "raw_excerpt": "Article URL: https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm Comments URL: https://news.ycombinator.com/item?id=49588466 Points: 0 # Comments: 0",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Y Combinator 지원 스타트업 Opalite Health가 창립 GTM(Go-To-Market) 담당자를 채용 중입니다.",
+    "thumbnail": "https://bookface-images.s3.amazonaws.com/logos/40c1d054a6155cc15b4dc8a4e88338f6b29847ac.png?1768325221",
+    "score": 3.924,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Hikers rescued after using Google Gemini for planning",
+    "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-09-05T19:35:24+00:00",
+    "raw_excerpt": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "구글 Gemini가 산행에 필요한 것보다 훨씬 적은 식량과 물을 추천해 등산객들이 구조 받는 사건이 발생했다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2017/11/gettyimages-677147499.jpg?resize=1200,600",
+    "score": 3.923,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "An Alien Mind",
+    "url": "https://openai.com/index/an-alien-mind/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-06T16:27:05+00:00",
+    "raw_excerpt": "Article URL: https://openai.com/index/an-alien-mind/ Comments URL: https://news.ycombinator.com/item?id=49588080 Points: 276 # Comments: 217",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "OpenAI가 AI의 사고방식을 '외계인의 마음'에 비유하며 AI 모델의 내부 작동 원리를 탐구하는 연구 결과를 발표했습니다.",
+    "thumbnail": "",
+    "score": 3.897,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Research carried out using NetBSD",
+    "url": "https://www.netbsd.org/gallery/research.html",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-06T16:10:05+00:00",
+    "raw_excerpt": "Article URL: https://www.netbsd.org/gallery/research.html Comments URL: https://news.ycombinator.com/item?id=49587903 Points: 65 # Comments: 14",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "NetBSD를 활용한 다양한 학술 연구 사례들이 공식 갤러리에 정리되어 있다.",
+    "thumbnail": "",
+    "score": 3.882,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Artificial Analysis overhauls its Intelligence Index after GPT-6 Astra scoring drew skepticism",
+    "url": "https://the-decoder.com/artificial-analysis-overhauls-its-intelligence-index-after-gpt-6-astra-scoring-drew-skepticism/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-09-05T18:21:02+00:00",
+    "raw_excerpt": "Artificial Analysis has released version 4.2 of its Intelligence Index, likely in response to criticism that its benchmarks failed to capture GPT-6 Astra's actual progress. Astra now scores four points above its predecessor but still trails Anthropic's Claude Fable 5.1. The article Artificial Analysis overhauls its Intelligence Index after GPT-6 Astra scoring drew skepticism appeared first on The Decoder .",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Artificial Analysis가 GPT-6 Astra의 낮은 평가에 대한 비판에 따라 Intelligence Index를 개편했으며, Astra는 여전히 Claude Fable 5.1보다 뒤처져 있다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/openai_dark_gpt6_stars.png",
+    "score": 3.838,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "I'm teaching an introductory 12 week course on Quantum Oracle Engineering",
+    "url": "https://shukla.io/quantum-oracle-engineering/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-06T13:00:34+00:00",
+    "raw_excerpt": "Article URL: https://shukla.io/quantum-oracle-engineering/ Comments URL: https://news.ycombinator.com/item?id=49586151 Points: 55 # Comments: 18",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "양자 오라클 엔지니어링에 대한 12주 입문 과정이 공개되어 양자 컴퓨팅 교육 접근성이 높아지고 있습니다.",
+    "thumbnail": "https://shukla.io/quantum-oracle-engineering/img/myth01.png",
+    "score": 3.724,
+    "engagement": 0,
+    "matched_keywords": [
+      "quantum"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "샌더스 미 의원, '인공 초지능 금지법' 발의...위반 시 '기업 사형선고'",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214892",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-05T17:40:00+00:00",
+    "raw_excerpt": "미국 정치권에서 AI 기술의 급격한 발전에 따른 통제력 상실을 막기 위해 강한 규제책을 마련하려는 움직임이 본격화하고 있다.무소속 버니 샌더스 미국 버몬트주 상원의원과 민주당 그렉 카사르 텍사스주 하원의원은 3일(현지시간) '인공 초지능(Artificial Superintelligence)' 개발을 금지하고, 위험한 역량을 감시할 전담 정부 기관이 설립될 때까지 첨단 AI 시스템 개발을 즉시 중단하는 법안을 발의할 예정이라고 밝혔다. 이에 따르면, 해당 법안을 위반하는 기업에는 사실상 시장 퇴출을 의미하는 '기업 사형선고(Corpo",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "샌더스 상원의원이 인공 초지능 개발을 금지하고 위반 기업에 '기업 사형선고'를 부과하는 법안을 발의할 예정이다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/214892_218637_3143.png",
+    "score": 3.637,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제",
+      "법안"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "[시론] 공급망 보안과 국정원 체질 개선",
+    "url": "https://zdnet.co.kr/view/?no=20260906215340",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-06T20:00:01+00:00",
+    "raw_excerpt": "[지디넷코리아]최근 우리나라에서도 소프트웨어 공급망 보안에 대한 관심이 크게 높아지고 있다. 특히 SBOM(Software Bill of Materials), 즉 소프트웨어에 어떤 오픈소스가 사용됐는지를 목록화하고 관리하는 기술이 공급망 보안의 핵심 수단으로 주목받고 있다.SBOM은 분명 중요하다. 어떤 소프트웨어에 어떤 구성요소가 들어 있는지 알아야 새로운 취약점이 발견됐을 때 우리 시스템이 영향을 받는지를 신속하게 판단할 수 있기 때문이다. 그러나 여기서 한 가지 질문을 던져볼 필요가 있다.공급망 보안은 정말 소프트웨어 안에 무엇이 들어 있는지만 확인하면 되는 문제일까?국가안보 관점에서 보면 공급망 보안은 훨씬 넓다. 소프트웨어뿐 아니라 반도체와 통신장비 같은 하드웨어, 제조시설, 유지보수 업체, 하청기업, 개발자와 관리자, 기업의 소유·지배구조까지 모두 공급망에 포함된다. 따라서 공급망 보안을 제대로 하려면 크게 세 종류의 정보를 결합해야 한다.첫째는 기술정보다. 취약점 정보, 펌웨어, 코드서명, 빌드 환경과 같은 사이버보안 정보다. SBOM이 주로 다루는 영역이기도 하다.둘째는 기업과 산업 생태계에 대한 정보다. 어떤 기업이 제품을 만들고 있는지, 실제 생산은 어디에서 이루어지는지, 어떤 하청업체를 이용하는지, 특정 국가나 기업에 얼마나 의존하고 있는지 등을 알아야 한다.셋째는 인텔리전스다. 특정 기업이나 인물이 외국 정부나 ",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "SBOM 등 소프트웨어 공급망 보안도 중요하지만, 국가안보 관점에서는 하드웨어·기업 생태계·인텔리전스 등을 종합적으로 관리해야 한다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/04/490aede3fe3790eee5375bd664059bdd.jpg",
+    "score": 3.505,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "취약점"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "로봇 팔을 제어하는 GPT-6 Astra",
+    "url": "https://news.hada.io/topic?id=33292",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-06T21:40:42+00:00",
+    "raw_excerpt": "Robocurve가 카메라 영상을 보고 로봇 팔을 움직이도록 한 실험에서, Astra는 블록을 집어 그릇에 넣는 작업을 20회 중 19회 성공 해 Claude Fable 5.1의 8회를 크게 앞섬 블록 작업의 회당 평균 시간은 6.8분에서 2.5분 , 추정 모델 호출 비용은 2.12달러에...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Robocurve의 로봇 팔 제어 실험에서 GPT-6 Astra가 블록 집기 작업을 20회 중 19회 성공해 Claude Fable 5.1을 크게 앞섰으며 작업 시간과 비용도 대폭 단축했다.",
+    "thumbnail": "https://social.news.hada.io/topic/33292?v=6f2f8b9d90145a9fa8cfb2117ccda74a",
+    "score": 3.465,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "美·英 '성인용 DVD' 역주행...\"연령인증 규제 탓\"",
+    "url": "https://zdnet.co.kr/view/?no=20260906092600",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-06T01:52:10+00:00",
+    "raw_excerpt": "[지디넷코리아]영국과 미국 등 세계 주요국이 청소년 보호를 이유로 포르노 사이트 이용 시 연령 확인을 의무화하자, '성인용 DVD' 매출이 역주행하고 있다. 신분증 제출이나 얼굴 인증을 통한 개인정보 유출 및 시청 기록 추적을 우려한 이용자들이 물리 미디어나 우회 경로로 대거 이탈하고 있다는 분석이다.IT 전문 매체 매셔블 등 외신에 따르면, 영국·프랑스·이탈리아를 비롯해 미국 내 절반에 달하는 주에서 성인 사이트 방문 시 ▲신용카드 정보 입력 ▲신분증 업로드 ▲얼굴 인증 등을 요구하는 연령 확인 법안을 시행 중이다.법안 시행 이후 현지 성인용품점과 유통업계에서는 뜻밖의 'DVD 매출 특수'가 확인되고 있다. 연령 확인법이 통과된 미국 사우스다코타주에서 3개의 성인용품 매장을 운영하는 데이비드 엘리아슨은 \"올해 오프라인 매장의 DVD 매출이 전년 대비 20~22%가량 증가했다\"며 \"성인 사이트의 연령 확인 의무화 외에는 설명할 길이 없다\"고 말했다.성인 콘텐츠 유통업체 펄스 디스트리뷰션의 루이스 애덤스 영업 총괄 역시 \"온라인 연령 확인법이 시행된 주를 기준으로 DVD 주문량이 쇄도하고 있다\"면서 \"온라인 시청 기록이 모두 추적된다는 불안감이 커지면서 비록 완전한 부활까지는 아니더라도 DVD의 생명력이 예상보다 오래 유지될 것\"이라고 내다봤다.전문가들은 이 같은 연령 확인 규제가 당초 목적인 미성년자 차단 효과는 거두지 못한 채 불법",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "온라인 성인 사이트의 연령인증 의무화로 인한 개인정보 유출 우려로 성인용 DVD 매출이 역주행하고 있다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/06/bf6293e9fb492428b9e94789cc763c3e.jpg",
+    "score": 3.276,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제",
+      "법안",
+      "개인정보"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "\"AI 모델 다음은 산업현장…韓, 피지컬 AI·에이전트 육성해야\"",
+    "url": "https://zdnet.co.kr/view/?no=20260906074122",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-06T00:47:32+00:00",
+    "raw_excerpt": "[지디넷코리아]한국이 글로벌 인공지능(AI) 경쟁에서 경쟁력을 확보하려면 초거대 모델 개발 중심의 정책에서 벗어나 에이전트형 AI와 피지컬 AI의 산업 적용, 실증 인프라, 안전·신뢰 체계를 아우르는 정책으로 무게중심을 옮겨야 한다는 제언이 나왔다.특히 제조 경쟁력을 활용한 피지컬 AI 육성과 함께 위험 수준에 따라 규제를 차등 적용하는 '한국형 AI 거버넌스' 구축이 필요하다는 분석이다.6일 소프트웨어정책연구소(SPRi)가 발간한 '2025년 국내외 인공지능 산업 동향 연구' 보고서에 따르면 주요국의 AI 정책은 초거대 모델 중심의 1단계를 넘어 에이전트형 AI로 행정·기업 업무를 혁신하고 피지컬 AI로 실물경제와 산업 현장을 재편하는 방향으로 전환되고 있다.이에 국내 AI 정책 역시 모델 개발 자체보다 실제 산업과 사회 문제 해결로 이어지는 활용 기반을 강화해야 한다는 게 연구진의 진단이다.보고서는 우선 피지컬 AI를 국가 차원의 중점 전략 분야로 명확하게 설정해야 한다고 제언했다. 휴머노이드 로봇과 자율주행·무인이동체, 스마트팩토리, 물류·건설 로봇 등을 주요 분야로 정하고 초거대 모델과 AI 에이전트 기술을 결합한 범부처 연구개발(R D)·실증 프로그램을 체계화해야 한다는 설명이다.피지컬 AI를 단순 소프트웨어 산업으로 접근해서도 안 된다고 지적했다. 센서와 모터, 배터리, 엣지 컴퓨팅, AI 반도체, 디지털 트윈 등이 결합되",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "한국이 AI 경쟁력 확보를 위해 초거대 모델 중심에서 벗어나 에이전트형 AI와 피지컬 AI의 산업 적용에 정책 무게중심을 옮겨야 한다는 정책 제언이 제시됐다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/06/2bcd924dd2ae824d0538c98fdd073689.jpg",
+    "score": 3.235,
+    "engagement": 0,
+    "matched_keywords": [
+      "피지컬 ai",
+      "휴머노이드",
+      "휴머노이드 로봇"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "\"생산성 혁명인가, 디스토피아의 시작인가\"…'아스트라' 출시 반응 폭발",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214891",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-05T18:17:51+00:00",
+    "raw_excerpt": "오픈AI의 'GPT-6 아스트라'가 기술 커뮤니티에서 찬사와 우려를 동시에 일으키고 있다. 단순 대화형 AI를 넘어 PC 화면 인식과 소프트웨어 제어를 자율적으로 수행하는 '에이전틱 AI' 시대가 전면화된 가운데, 실무 생산성 도약에 대한 찬사와 지나친 의존성에 대한 경계감이 동시에 표출되고 있다.실제로 오픈AI가 3일(현지시간) 공개한 아스트라의 공식 데모 영상은 불과 하루 만에 1억회 이상의 조회수를 기록했으며, 카테고리별 기술 실시간 트렌드를 점령했다.이어 X와 레딧 등 주요 커뮤니티에서는 개발자들과 크리에이터들이 잇달아 아스",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "OpenAI의 GPT-6 아스트라가 화면 인식과 소프트웨어 자동 제어 기능으로 에이전틱 AI 시대를 열며 생산성 혁명과 과도한 의존성 우려가 동시에 제기되고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/214891_218636_5946.jpeg",
+    "score": 3.021,
+    "engagement": 0,
+    "matched_keywords": [
+      "생산성"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "유럽을 벗어나지 않는 Git 호스팅",
+    "url": "https://news.hada.io/topic?id=33267",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-05T22:31:32+00:00",
+    "raw_excerpt": "Pushin.eu 는 공개·비공개 Git 저장소부터 이슈와 CI까지 EU 안에서 호스팅하며, GDPR과 개인정보 보호 를 운영의 중심에 둠 사용자 코드로 모델을 학습하거나 파트너의 학습을 허용하지 않으며, AI 기능 확대보다 개발자 경험과 고가용성 에 집중함...",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Pushin.eu가 GDPR 준수와 개인정보 보호를 중심으로 유럽 내에서만 Git 저장소, 이슈, CI를 호스팅하며 사용자 코드의 AI 학습을 금지한다.",
+    "thumbnail": "https://social.news.hada.io/topic/33267?v=26590bfc1d10f56e192ec20a4be98dfa",
+    "score": 3.0,
+    "engagement": 0,
+    "matched_keywords": [
+      "개인정보",
+      "gdpr"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "South Korea Sets Roadmap for Tokenized Securities and Stablecoin Settlement",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48727",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-06T15:47:51+00:00",
+    "raw_excerpt": "South Korean financial regulators have unveiled a roadmap to develop infrastructure for tokenized securities and eventually connect securities settlement with stablecoins.The Financial Services Commission and Financial Supervisory Service plan to expand tokenization beyond fractional investment prod",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "한국 금융당국이 증권 토큰화와 스테이블코인을 통한 결제 연결을 추진하는 로드맵을 공개했다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202609/48727_47488_4746_v150.jpg",
+    "score": 2.898,
+    "engagement": 0,
+    "matched_keywords": [
+      "stablecoin"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Paxos Stablecoin USDG Launches Natively on Mantle",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48724",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-06T15:43:55+00:00",
+    "raw_excerpt": "Paxos-issued stablecoin USDG has launched natively on Mantle, bringing the Ethereum layer-2 network into the Global Dollar Network as a new partner.The integration makes USDG one of the first stablecoins to be directly minted on Mantle and allows the network to participate in the rewards generated b",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Paxos의 스테이블코인 USDG가 Mantle 네트워크에 네이티브로 출시되어 이더리움 레이어2 네트워크가 글로벌 달러 네트워크에 참여하게 되었습니다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202609/48724_47486_4350_v150.jpg",
+    "score": 2.895,
+    "engagement": 0,
+    "matched_keywords": [
+      "stablecoin"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Cloud in a Bottle: 누구나 쉽게 쓸 수 있는 셀프 호스팅을 향해",
+    "url": "https://news.hada.io/topic?id=33275",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-06T07:33:19+00:00",
+    "raw_excerpt": "Cloud in a Bottle 은 컨테이너형 앱과 통합 인증을 결합한 오픈소스 개인 클라우드로, 셀프 호스팅을 시스템 관리 부업이 아니라 웹앱을 제공하는 스마트폰처럼 쉽게 만드는 것이 목표임 Ubuntu 기반 서버의 루트 권한 없는 보안 강화 컨테이너 에서 앱을 실행하며,...",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Cloud in a Bottle은 컨테이너형 앱과 통합 인증을 결합한 오픈소스 개인 클라우드로, 복잡한 시스템 관리 없이 누구나 쉽게 셀프 호스팅을 가능하게 하려는 프로젝트다.",
+    "thumbnail": "https://social.news.hada.io/topic/33275?v=752a5a206fa158364ba89d9e58f867b5",
+    "score": 2.876,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "에코프로 \"로봇 전쟁 가속…고성능 배터리 미래\"",
+    "url": "https://zdnet.co.kr/view/?no=20260906102559",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-06T01:38:23+00:00",
+    "raw_excerpt": "[지디넷코리아]에코프로는 최근 사내 소통 채널인 '에코톡톡'을 통해 '대기업 로봇 전쟁 본격화…승부처는 결국 배터리'라는 콘텐츠를 게재했다고 6일 밝혔다. 에코프로는 삼성전자의 최고경영자 직속 미래로봇추진단 신설, 현대자동차의 휴머노이드 로봇 '아틀라스' 전기차 전용 공장 적용 계획, LG전자의 대표이사 직속 로보틱스사업센터 신설 등 대기업을 중심으로 '로봇 전쟁'이 가속화하고 있다고 소개했다.에코프로는 로봇의 작동 성능과 구동 시간을 결정짓는 핵심 열쇠가 배터리에 있다면서, 삼원계 배터리가 시장을 주도할 것으로 내다봤다. 배터리 무게가 늘어나면 로봇 하중이 커지고 이로 인해 관절 모터와 액추에이터에 과부하가 걸리기 때문에 리튬인산철(LFP)에 비해 에너지 밀도가 높고 가벼운 삼원계가 채택될 것이란 관측이다.에코프로는 휴머노이드 로봇이 산업 패러다임을 바꾸며 배터리 업계의 새로운 사업 기회가 될 것으로 전망했다. 이어 하이니켈 삼원계 배터리에서 전고체 배터리로 이어지는 기술 개발에 회사의 역량을 결집시켜 나가야 한다고 강조했다.송준호 한국전자기술연구원 IT소재부품연구본부장은 에코톡톡 인터뷰에서 \"휴머노이드 로봇은 고에너지밀도가 중요한 대표적인 시장이 될 가능성이 높다\"며 \"이를 위해 초고밀도 하이니켈 단결정 기술을 고도화하고 전고체용 양극재를 조기에 상용화해야 한다\"고 강조했다.에코프로는 이와 함께 '슈퍼을 프로젝트 해부'라는 콘텐츠",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "에코프로는 대기업의 로봇 개발 경쟁이 가속화하면서 로봇의 성능을 좌우하는 고에너지밀도 삼원계 배터리와 전고체 배터리가 핵심 사업 기회가 될 것으로 전망했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/06/3c034f0e458618ae6853cb0f21d2c520.png",
+    "score": 2.817,
+    "engagement": 0,
+    "matched_keywords": [
+      "휴머노이드",
+      "휴머노이드 로봇"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "grep이 LSP를 이긴다고? 코딩 에이전트가 더 정교한 도구를 무시하는 이유",
+    "url": "https://news.hada.io/topic?id=33273",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-06T05:27:15+00:00",
+    "raw_excerpt": "Claude 모델 3종을 비교한 소규모 실험에서, 코드 구조를 이해하는 LSP 기반 탐색 도구를 제공해도 단순 코드 위치 찾기에는 대부분 grep을 사용 했으며 LSP를 먼저 쓰도록 강제하면 성공률이 떨어지기도 함 차이는 검색 정확도뿐 아니라 결과를 바로 활용할 수 있는지",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Claude 코딩 에이전트가 LSP 같은 고급 도구보다 단순한 grep을 선호하는 이유는 결과 활용성과 정확도의 트레이드오프에 있다는 연구 결과.",
+    "thumbnail": "https://social.news.hada.io/topic/33273?v=db3d8abc60befb5951c8044e9ed77197",
+    "score": 2.789,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "마이크론, YMTC 특허 7번째 무효 판단 받았다...쟁점특허 27건",
+    "url": "https://zdnet.co.kr/view/?no=20260906193737",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-06T10:44:43+00:00",
+    "raw_excerpt": "[지디넷코리아]미국 마이크론이 중국 YMTC를 상대로 자국에서 힘겨운 특허분쟁을 이어가고 있다. YMTC는 미국에서 마이크론을 상대로 메모리 반도체 특허침해소송 3건을 제기했다. 마이크론은 무효심판 등으로 대응 중이지만 결과는 신통치 않다. YMTC가 소송 3건에 사용한 특허는 모두 27건이다. 마이크론은 27건 중 19건에 대해 특허심판원(PTAB)에 무효심판(IPR·PGR)을 청구했고, 나머지 8건에 대해선 특허청에 결정계 재심사(EPR)를 신청했다. 6일 업계에 따르면 미국 특허심판원은 지난 2일(현지시간) YMTC 특허 1건(등록번호 12,010,838·아래 '838 특허)이 무효라고 판단했다. 이로써 마이크론이 특허심판원에 무효심판을 청구한 YMTC 특허 19건 중 무효 판단을 받은 특허는 7건으로 늘었다. 무효 판단에 대해 YMTC는 항소할 수 있다. 마이크론이 '838 특허 등 YMTC 특허 7건에 대해 무효 판단을 받았지만, 마이크론이 특허심판원에 무효심판을 청구한 YMTC 특허 19건 중 12건은 유효 취지 판단이 나왔다. 유효 취지 판단은 무효심판이 개시되지 않았거나, 심판 개시 후 유효 또는 일부 유효(일부 무효) 판단이 나온 특허를 말한다. 특허심판원은 무효심판 심리에서 특허가 무효화될 가능성이 낮다고 판단하면 무효심판을 개시하지 않는다. 특허심판원의 무효심판 개시 기각 결정에 대해선 항소할 수 없다. 마이크론은",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "마이크론이 YMTC를 상대로 제출한 27개 특허 중 무효심판을 청구한 19개 중 7개만 무효 판정을 받아 대중국 특허분쟁에서 어려움을 겪고 있다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/06/7cf07e9b81664c3da6dce85216118d36.png",
+    "score": 2.708,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "이탈리아, 9월 8~11일 샤먼서 열리는 제26회 중국국제투자무역박람회(CIFIT) 참가",
+    "url": "https://zdnet.co.kr/view/?no=20260906141002",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-06T05:10:02+00:00",
+    "raw_excerpt": "[지디넷코리아]로마 및 중국 샤먼 2026년 9월 5일 /PRNewswire/ -- 이탈리아 무역공사(Italian Trade Agency, ITA)가 이탈리아 기업•메이드인 이탈리아부(Ministry of Enterprises and Made in Italy, MIMIT)와 협력해 마련한 이탈리아 공식관이 샤먼에서 열리는 중국국제투자무역박람회(China International Fair for Investment and Trade, CIFIT)에서 공개된다. 이탈리아는 '이탈리아, 기회의 땅(Italy, a land of opportunities)'을 주제로 중국 최고의 투자 박람회인 이번 행사에 참가한다. 세계 8위 경제 대국이자 유럽연합(EU)에서 두 번째로 큰 제조업 강국인 이탈리아는 탄탄한 산업 기반과 더불어 FDI 유치를 위한 강력한 정책적 지원 체계를 갖추고 있다. 중국 투자자뿐만 아니라 폭넓은 투자자를 대상으로 하는 이번 홍보 행사는 유럽의 핵심 투자처로서 이탈리아가 지닌 전략적 강점을 소개하고, 외국 기업을 위한 이탈리아 정부의 원스톱 전주기 지원 서비스를 설명하는 한편, 이탈리아의 투자 정책과 법률 및 규제, 인센티브, 비즈니스 환경 및 주요 투자 기회를 종합적으로 소개하는 데 초점을 맞춘다. 이번 전시에서는 자동차, 항공우주, 친환경 공급망, 순환 경제, 생명과학 등 분야에서 이탈리아의 비즈니스 정책과 자유경제구역",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "이탈리아가 9월 8~11일 중국 샤먼에서 열리는 제26회 CIFIT에 공식관을 설립해 투자 유치와 비즈니스 기회를 홍보한다.",
+    "thumbnail": "https://zdnet.co.kr/images/default_img.jpg",
+    "score": 2.499,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "[ZD브리핑] ‘깜짝 빛날 시간’…애플 폴더블폰 공개",
+    "url": "https://zdnet.co.kr/view/?no=20260906121121",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-06T03:13:07+00:00",
+    "raw_excerpt": "[지디넷코리아]지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 제공합니다. '꼭 챙길 뉴스'는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠, 플랫폼, e커머스, 금융, 디지털 헬스케어, 게임, 블록체인, 과학 등의 소식을 담았습니다. 바쁜 현대인들의 월요병을 조금이나마 덜어 줄 '꼭 챙길 뉴스'를 통해 한 주 동안 발생할 IT 이슈를 미리 확인해 보시기 바랍니다. [편집자주]한국시간으로 9월10일 새벽 2시, 애플이 ‘깜짝 빛날 시간(Surprise and shine)’을 주제로 신제품 공개 행사를 진행합니다.이번 행사에서는 애플 차세대 플래그십 스마트폰 아이폰18 프로·프로맥스와 더불어, 첫 폴더블폰이 공개될 것으로 예상됩니다. 애플 폴더블폰도 '여권 형태' 북 타입 제품입니다. 3년간 정체됐던 폴더블폰 시장의 본격 개화를 앞당길 수 있다는 기대를 받고 있습니다. 이번 행사는 15년간 애플을 이끌었던 팀 쿡 이사회 이장의 뒤를 이은 존 터너스 CEO의 첫 공식 행사입니다.애플 이벤트에 앞서 화웨이가 7일 ‘2번 접는’ 트라이폴드 제품 메이트 XT 2를 출시합니다. 화웨이 최신 운영체제 하모니OS 7를 처음 탑재한 모델입니다.미국 정부 제재로 화웨이 스마트폰 출하량은 많이 줄었지만, 폴더블폰 등 새로운 폼팩터 제품 시장에선 여전히 삼성전자, 애플과 경쟁 중입니다. 여러 시장조사업체에선",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "애플이 9월 10일 첫 폴더블폰을 공개할 예정으로, 3년간 정체된 폴더블폰 시장의 성장을 견인할 것으로 기대됩니다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/02/9093ea47ba1308276c804993b0bf9302.png",
+    "score": 2.426,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "로보락, 2026년 상반기 매출 27.6% 성장 보고하며 글로벌 시장 선도 입지 강화",
+    "url": "https://zdnet.co.kr/view/?no=20260906111003",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-06T02:10:03+00:00",
+    "raw_excerpt": "[지디넷코리아]베를린 2026년 9월 6일 /PRNewswire/ -- 일상을 간소화하도록 설계된 홈 로보틱스 분야의 글로벌 선도기업 로보락(Roborock)이 전년 동기 대비 27.6% 증가한 2026년 상반기 매출 100억 8,400만 위안과 함께, 45.6% 증가한 9억 8600만 위안의 주주 귀속 순이익을 발표했다. 또한 로보락은 IDC와 유로모니터 인터내셔널(Euromonitor International) 모두로부터 세계 1위 로봇청소기 브랜드로 인정받으며 새로운 글로벌 이정표를 세웠다. 지속적인 글로벌 사업 확대로 성장세 강화 로보락의 해외 사업은 2026년 상반기 성숙 시장과 성장 잠재력이 높은 시장 모두에서 강력한 성장세를 이어갔다. 2026 아마존 프라임 데이(Amazon Prime Day 2026) 기간 로보락은 독일, 영국, 스페인, 네덜란드, 벨기에, 미국, 캐나다에서 로봇청소기 부문 1위를 차지했다. 유럽에서는 로봇청소기 시장 점유율 45%를 기록했으며, 판매 대수는 전년 동기 대비 24% 증가했고, 습건식 청소기 판매 대수는 112% 증가했다. 북미에서는 로봇청소기 시장 점유율 33%를 기록했으며, 판매 대수는 전년 동기 대비 30% 증가했다. 아시아•태평양 주요 시장에서도 강한 성장세를 이어갔다. 로보락은 2023년 1분기부터 2026년 1분기까지 호주, 한국, 대만 지역, 튀르키예에서 출하량과 판매액 모두",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "로보락이 2026년 상반기 매출 27.6% 성장을 기록하며 IDC와 유로모니터로부터 세계 1위 로봇청소기 브랜드로 인정받아 글로벌 시장 지위를 강화했다.",
+    "thumbnail": "https://zdnet.co.kr/images/default_img.jpg",
+    "score": 2.387,
+    "engagement": 0,
+    "matched_keywords": [
+      "로보틱스"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  }
+]
