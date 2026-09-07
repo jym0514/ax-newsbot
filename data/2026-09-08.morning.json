@@ -1,0 +1,820 @@
+[
+  {
+    "title": "ChatGPT claws back web traffic share to 55.5 percent as Gemini's brief comeback fades",
+    "url": "https://the-decoder.com/chatgpt-claws-back-web-traffic-share-to-55-5-percent-as-geminis-brief-comeback-fades/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-09-07T16:54:12+00:00",
+    "raw_excerpt": "ChatGPT has pushed its share of AI chatbot website traffic back up to 55.5 percent, according to Similarweb. Year-over-year, though, its lead shrank sharply from 73.3 percent as Gemini doubled its share and Claude grew nearly fivefold. Mobile apps and desktop clients aren't included. The article ChatGPT claws back web traffic share to 55.5 percent as Gemini s brief comeback fades appeared first on The Decoder .",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "ChatGPT가 웹 트래픽 점유율을 55.5%로 회복했으나 전년 대비 73.3%에서 급락했고, Gemini와 Claude의 성장으로 AI 챗봇 시장 경쟁이 심화되고 있다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/05/chatgpt_website_stats.png",
+    "score": 7.039,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "gemini",
+      "chatgpt"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk",
+    "url": "https://the-decoder.com/anthropic-reportedly-signs-517-billion-in-compute-deals-after-dario-amodei-warned-rivals-about-reckless-risk/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-09-07T18:12:41+00:00",
+    "raw_excerpt": "Anthropic signed compute contracts worth up to $517 billion in eleven months but still trails OpenAI's $750 billion plan through 2030. In early 2026, CEO Dario Amodei warned against investing too fast. Now Anthropic is racing to catch up, while Sam Altman warns about \"unsustainable silliness\" in the compute buildout, especially from neo-cloud providers. The article Anthropic reportedly signs $517 billion in compute deals after Dario Amodei warned rivals about reckless risk appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Anthropic이 11개월 동안 5170억 달러 규모의 컴퓨팅 계약을 체결했으나 OpenAI의 2030년까지 7500억 달러 계획에는 여전히 뒤처져 있다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/01/openai_anthropic-2.jpeg",
+    "score": 6.304,
+    "engagement": 0,
+    "matched_keywords": [
+      "openai",
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Last Week in AI #343 - GPT-6, OpenAI’s agents chatted on a wiki, Fable 5.1",
+    "url": "https://lastweekin.ai/p/last-week-in-ai-343-gpt-6-openais",
+    "source": "Last Week in AI",
+    "source_type": "substack",
+    "published_at": "2026-09-07T13:02:49+00:00",
+    "raw_excerpt": "GPT-6 Astra Is Here, Discovery of a new OpenAI agent message board, Anthropic launches Claude Fable 5.1 and says it s up to 45 percent cheaper for agentic work, and more!",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI의 GPT-6 Astra 출시, OpenAI 에이전트 메시지 보드 발견, Anthropic의 Claude Fable 5.1 출시(에이전트 작업 비용 45% 절감) 등이 보도되었습니다.",
+    "thumbnail": "https://substackcdn.com/image/youtube/w_728,c_limit/1QNsdr-Qx_I",
+    "score": 6.158,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai",
+      "anthropic"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Supporting independent journalism in Ukraine",
+    "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-09-07T00:00:00+00:00",
+    "raw_excerpt": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI, AIRPPU, WAN-IFRA가 우크라이나 언론사의 혁신과 독립 저널리즘 강화를 위한 AI 프로그램을 출범했다.",
+    "thumbnail": "",
+    "score": 5.971,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "구글, 캐세이퍼시픽과 ‘AI 비행운 회피’ 실증…항공기 온난화 영향 40% 줄였다",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41801",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-07T21:51:01+00:00",
+    "raw_excerpt": "구글이 인공지능(AI)을 활용해 항공기에서 발생하는 비행운(contrail)의 온난화 영향을 줄이는 기술을 아시아·태평양 지역으로 확대한다. 구글 딥마인드(Google DeepMind)는 7일(현지시간) 캐세이퍼시픽(Cathay Pacific)과 협력해 AI 기반 비행운 회피 기술의 아시아·태평양 지역 실증 시험에 나선다고 밝혔다.이번 협력은 아시아 지역에서 구글이 상업 항공사와 진행하는 첫 번째 비행운 회피 실증이다. 구글 딥마인드는 캐세이퍼시픽의 장거리 국제선 운항에 기술을 적용해 비행운 발생 가능성이 높은 대기 영역을 예측하고",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "구글 딥마인드가 캐세이퍼시픽과 협력해 AI 기반 비행운 회피 기술을 아시아에서 처음 실증하며 항공기 온난화 영향을 40% 감소시켰다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41801_62887_5036_v150.jpg",
+    "score": 5.967,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "deepmind",
+      "딥마인드"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Opaque recurrence, and other AI terms that you should probably know",
+    "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-09-07T19:24:00+00:00",
+    "raw_excerpt": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AI 발전으로 등장한 주요 용어들의 정의를 담은 용어집을 TechCrunch AI가 소개했다.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/07/Chain-of-thought-picture.png?resize=1200,800",
+    "score": 5.561,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "AI-designed drug appears to turn back the body's biological clock in early trial",
+    "url": "https://the-decoder.com/ai-designed-drug-appears-to-turn-back-the-bodys-biological-clock-in-early-trial/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-09-07T16:34:20+00:00",
+    "raw_excerpt": "A study in Nature Biotechnology suggests that rentosertib, a drug designed with AI by Insilico Medicine, may reverse markers of biological aging. Six independent aging clocks predicted that treated patients were biologically up to six years younger than the placebo group. The trial covered just 42 patients and the drug hasn't been tested in healthy people yet. The article AI-designed drug appears to turn back the body s biological clock in early trial appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Insilico Medicine이 AI로 설계한 약물 rentosertib이 초기 임상시험에서 생물학적 나이를 최대 6년 역행시킬 수 있다는 연구결과가 나왔다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/ai_pill_medicine-1200x670.png",
+    "score": 5.366,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "이스트시큐리티, 네이버클라우드와 '보안 특화 AI 모델' 개발 나선다",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214927",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-07T11:57:33+00:00",
+    "raw_excerpt": "이스트소프트의 보안 전문 자회사 이스트시큐리티(대표 정상원)는 과학기술정보통신부와 정보통신산업진흥원(NIPA)이 주관하는 '사이버 보안 특화 AI 파운데이션 모델 개발' 사업의 최종 수행기관으로 선정됐다고 7일 밝혔다.이스트시큐리티는 네이버클라우드 컨소시엄으로 참여해 엔드포인트 위협, 사이버 위협 인텔리전스(CTI), 침해분석 노하우를 결합한다.특히 국민 백신 '알약'을 비롯한 다양한 보안 제품·서비스를 운영하며 축적한 고품질 사이버보안 빅데이터를 학습 데이터로 제공해 보안관제 및 취약점 분석에 즉시 활용 가능한 국내 AI 모델 구",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "이스트시큐리티가 네이버클라우드와 함께 정부 지원 '보안 특화 AI 파운데이션 모델' 개발 사업에 최종 선정돼 고품질 사이버보안 빅데이터를 활용한 국내 AI 모델 구축을 추진한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/214927_218678_5656.png",
+    "score": 5.278,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "사이버 보안",
+      "취약점"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "How AI wiped out an entire industry in Nairobi",
+    "url": "https://the-decoder.com/how-ai-wiped-out-an-entire-industry-in-nairobi/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-09-07T13:18:57+00:00",
+    "raw_excerpt": "In Kenya, ChatGPT wiped out an entire business model: writing academic papers for foreign students. The article How AI wiped out an entire industry in Nairobi appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "ChatGPT의 등장으로 나이로비의 외국인 학생을 위한 논문 작성 대행 산업이 완전히 붕괴했다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_chatgpt-2-1200x675.png",
+    "score": 5.143,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "At UBS, AI skills are now a condition for landing a job",
+    "url": "https://the-decoder.com/at-ubs-ai-skills-are-now-a-condition-for-landing-a-job/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-09-07T13:13:38+00:00",
+    "raw_excerpt": "Swiss banking giant UBS is making AI skills a required qualification from 2027 for graduates and interns in Global Banking and Markets, with applicants having to show in interviews how they use AI to improve outcomes and efficiency. Santander is already looking for advanced AI users too, while Morgan Stanley predicts more than 200,000 banking jobs in Europe will disappear within five years. The article At UBS, AI skills are now a condition for landing a job appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "UBS가 2027년부터 신입사원과 인턴 채용 시 AI 스킬을 필수 조건으로 요구하며, 은행권에서 AI 역량이 고용 기준으로 정착하고 있다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/ai_jobs_young_people_cognitive_decline.png",
+    "score": 5.136,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "📈 AI revenue hit $229 billion",
+    "url": "https://www.exponentialview.co/p/ai-revenue-hit-229-billion",
+    "source": "Exponential View (Azeem Azhar)",
+    "source_type": "substack",
+    "published_at": "2026-09-07T12:19:40+00:00",
+    "raw_excerpt": "Plus: AI job losses drop, El Ni o squeezes trade & the agentic tool gap++",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AI 산업의 연간 수익이 2,290억 달러에 도달했으며, AI 인력 감축은 둔화되고 있다.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!c6hP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe5bf8d19-2f9e-473b-887f-433c8dbc5420_1330x817.png",
+    "score": 5.075,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Qwen-Drive 1.0 tells you why it brakes, just don't expect the explanation to match the maneuver",
+    "url": "https://the-decoder.com/qwen-drive-1-0-tells-you-why-it-brakes-just-dont-expect-the-explanation-to-match-the-maneuver/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-09-07T12:15:54+00:00",
+    "raw_excerpt": "Alibaba's research arm has released Qwen-Drive 1.0, an AI model that handles environmental perception, traffic Q A, and route planning in one system. The researchers show that text-image models don't automatically understand three-dimensional space. Spatial awareness has to be trained on purpose. The goal is a single model that runs both the cockpit and the driving system. The article Qwen-Drive 1.0 tells you why it brakes, just don t expect the explanation to match the maneuver appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "알리바바 연구팀이 환경 인지, 교통 Q&A, 경로 계획을 통합한 자율주행 AI 모델 Qwen-Drive 1.0을 공개했으나, 텍스트-이미지 모델의 3D 공간 이해 부족이 설명과 실제 주행의 불일치를 야기한다.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/qwen-drive-1.0-blog_banner.jpg",
+    "score": 5.07,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "로봇·EV 산업 '성지'로 떠오른 중국...서방 전문가·투자자 기술 견학 성황",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214955",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-07T16:46:26+00:00",
+    "raw_excerpt": "중국이 전기차와 배터리, 로봇 등 첨단 산업의 현장을 직접 확인하려는 서방 기업인과 투자자들의 새로운 ‘기술 견학지’로 떠오르고 있다. 과거 중국이 글로벌 기업의 생산기지로 주목받았다면, 이제는 첨단 제조와 기술 혁신이 실제 현장에서 어떻게 구현되는지를 배우기 위한 학습의 대상으로 평가받고 있다.4일(현지시간) 로이터에 따르면, 서방 임원과 스타트업 창업자, 투자자들은 수천달러에서 많게는 1만5000달러(약 2000만원)를 지불하며 중국의 첨단 기업과 공장을 둘러보고 있다.휴머노이드 로봇이 생산라인에서 작업하는 모습과 전기차가 대규",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "중국의 로봇·전기차·배터리 등 첨단산업 현장이 서방 기업인·투자자들의 기술 학습 대상으로 부상하며 견학 수요가 급증하고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/214955_218702_3026.jpg",
+    "score": 4.889,
+    "engagement": 0,
+    "matched_keywords": [
+      "휴머노이드",
+      "휴머노이드 로봇"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "메타 'AIRA₃', 중앙 통제 없이 여러 에이전트 협업으로 '캐글' 금메달",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214936",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-07T16:13:38+00:00",
+    "raw_excerpt": "메타의 차세대 자율형 AI 연구 시스템 ‘AIRA₃’가 엔비디아가 주최한 글로벌 AI 경진 대회 캐글(Kaggle)에서 4000여개 팀 가운데 8위를 차지하며 금메달을 획득했다. AIRA₃는 중앙에서 작업을 지시하는 컨트롤러 없이 여러 AI 에이전트가 독립적으로 연구하고 결과를 공유하는 구조를 채택해 주목받고 있다. 6일(현지시간) 메타에 따르면, 자율 AI 연구 시스템이 실제 외부 경쟁 환경에서 인간 전문가들과 경쟁해 금메달을 받은 것은 이번이 처음이다.메타는 지난 6월 AIRA₃를 엔비디아의 실시간 캐글 대회에 투입했다. 대회의",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "메타의 자율형 AI 연구 시스템 'AIRA₃'가 중앙 통제 없이 여러 에이전트가 협업하는 구조로 캐글 경진대회에서 금메달을 획득했으며, 자율 AI 시스템이 실제 경쟁에서 인간 전문가와 경쟁해 수상한 것은 처음이다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/214936_218684_147.jpg",
+    "score": 4.859,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "NIA, ‘AI 3대 강국’ 도약 뒷받침할 조직개편 단행...AI정부, 안정적인 운영 기반 강화",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41785",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-07T08:26:16+00:00",
+    "raw_excerpt": "한국지능정보사회진흥원(원장 김형철, 이하 NIA)은 국가 인공지능(AI) 정책의 현장 실행력을 높이고 ‘AI 3대 강국’ 실현을 견인하기 위해 7일, 조직개편을 단행했다.그동안 NIA는 AI 전문기관으로서 인공지능 데이터 구축, AX 확산, 포용적 AI 실현, AI 정책 지원 및 AI 인프라 구축 등 국가 AI 정책의 현장 실행을 선도해 왔다. 이번 조직개편은 이러한 전문 역량을 바탕으로 인공지능정부 기반 안정성 강화, AX 지원 기능 강화, AI 3대 메가프로젝트 대응체계 마련을 핵심 골자로 추진됐다.첫째, 인공지능정부의 안정적인",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "NIA가 AI 정책 실행력 강화와 'AI 3대 강국' 도약을 위해 조직개편을 단행하며 AI정부 안정성 강화와 AX 지원 기능을 중점 추진했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41785_62869_2444_v150.jpg",
+    "score": 4.696,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직",
+      "현장",
+      "ax"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Huawei copies Samsung’s privacy display in its latest trifold",
+    "url": "https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-09-07T10:09:42+00:00",
+    "raw_excerpt": "Huawei has released its third trifold phone in China, and the company has clearly had half an eye on Samsung during development. Not only does the Mate XT 2 adopt the inward-folding form factor used on Samsung's Galaxy Z TriFold, it's also the first foldable to include a privacy-enhancing display, much like the one Samsung [ ]",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Huawei가 삼성 Galaxy Z TriFold의 안쪽 폴딩 방식과 프라이버시 디스플레이를 채택한 Mate XT 2를 출시했습니다.",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/huawei-mate-xt-2-ultimate-design-design-2x.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "score": 4.478,
+    "engagement": 0,
+    "matched_keywords": [
+      "privacy"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "에임인텔리전스 \"AGI급 '아스트라'도 보안 공백 여전...다음은 로봇·자율주행\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214964",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-07T19:20:00+00:00",
+    "raw_excerpt": "에임인텔리전스가 AI 에이전트와 피지컬 AI 시대로의 전환에 맞춰 통제 불능 리스크를 방지하기 위한 지속적·실시간 보안 레이어 구축의 필요성을 강조했다.박하언 에임인텔리전스 최고 기술책임자(CTO)는 7일 삼성금융캠퍼스에서 열린 ‘AI 리스크 컨퍼런스 서울 2026’에서 'AI 통제의 최전선: 모델에서 에이전트, 피지컬 AI까지'를 주제로 발표를 진행했다.박 CTO는 클라우드시큐리티얼라이언스(CSA) 통계자료를 인용해 \"기업의 82%가량이 자체적으로 파악하지 못한 그림자 AI 에이전트를 보유 중이며, 절반 이상은 AI 에이전트가 권",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "에임인텔리전스는 AGI급 AI 모델도 보안 공백이 있으며, 로봇·자율주행 등 피지컬 AI 시대에 지속적인 실시간 보안 레이어 구축이 필수라고 강조했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/214964_218713_1818.jpg",
+    "score": 4.378,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "The Education of a Doomer",
+    "url": "https://borretti.me/article/the-education-of-a-doomer",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-07T21:19:12+00:00",
+    "raw_excerpt": "Article URL: https://borretti.me/article/the-education-of-a-doomer Comments URL: https://news.ycombinator.com/item?id=49603092 Points: 21 # Comments: 5",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "I appreciate your request, but I notice that you've provided the metadata and structure of a Hacker News post rather than the actual article content. The excerpt only includes the title \"The Education of a Doomer,\" the source, and URL information—not the body text needed to create an accurate summary.\n\nTo provide you with a proper one-sentence summary, I would need:\n- The main content/body of the article\n- Key arguments or events described\n- The central theme or conclusion\n\nCould you please share the actual article text or the key content from the piece? Then I'll be happy to create a concise one-sentence summary in Korean.",
+    "thumbnail": "https://borretti.me/assets/card/the-education-of-a-doomer.webp",
+    "score": 4.14,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Macbeth and His Problems",
+    "url": "https://porticoquarterly.com/essay/macbeth-and-his-problems/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-07T20:34:32+00:00",
+    "raw_excerpt": "Article URL: https://porticoquarterly.com/essay/macbeth-and-his-problems/ Comments URL: https://news.ycombinator.com/item?id=49602716 Points: 19 # Comments: 5",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "셰익스피어의 '맥베스'에서 주인공의 심리적 갈등과 도덕적 문제를 분석한 에세이가 논의되고 있습니다.",
+    "thumbnail": "https://porticoquarterly.com/wp-content/uploads/2026/06/Macbeth_2015-1200x630.jpg",
+    "score": 4.103,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "A Tesla ran a stop sign and killed a man, Full Self-Driving/Autopilot was on",
+    "url": "https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-07T20:21:12+00:00",
+    "raw_excerpt": "Article URL: https://electrek.co/2026/09/07/tesla-driver-assist-stop-sign-buena-vista/ Comments URL: https://news.ycombinator.com/item?id=49602582 Points: 84 # Comments: 42",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Tesla 자동주행 기능이 정지 신호를 무시해 보행자가 사망하는 사고가 발생했다.",
+    "thumbnail": "https://electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Full-Self-Driving-Beta-10.69-barrier.jpg?quality=82&strip=all&resize=1200,628",
+    "score": 4.092,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Replaceable but Employed: Automation and the Meaning of Work",
+    "url": "https://www.nber.org/papers/w35559",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-07T19:06:01+00:00",
+    "raw_excerpt": "Article URL: https://www.nber.org/papers/w35559 Comments URL: https://news.ycombinator.com/item?id=49601814 Points: 42 # Comments: 12",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "AI와 자동화가 업무를 대체 가능하게 만들어도 고용은 유지되지만, 일의 의미와 만족도가 감소하는 현상을 NBER 연구가 분석했습니다.",
+    "thumbnail": "",
+    "score": 4.029,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
+    "url": "https://lax-skyline.parcelscope.net/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-07T18:52:06+00:00",
+    "raw_excerpt": "Article URL: https://lax-skyline.parcelscope.net/ Comments URL: https://news.ycombinator.com/item?id=49601655 Points: 147 # Comments: 56",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "1880년부터 2026년까지 로스앤젤레스 건물 건설 과정을 시각화한 인터랙티브 맵이 공개되었습니다.",
+    "thumbnail": "",
+    "score": 4.018,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "bzip3",
+    "url": "https://github.com/iczelia/bzip3",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-07T13:35:13+00:00",
+    "raw_excerpt": "Article URL: https://github.com/iczelia/bzip3 Comments URL: https://news.ycombinator.com/item?id=49598291 Points: 353 # Comments: 98",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "bzip3라는 새로운 압축 알고리즘이 GitHub에 공개되어 기술 커뮤니티의 주목을 받고 있습니다.",
+    "thumbnail": "https://opengraph.githubassets.com/097d1db94004b7abd2fa37588d195c40d43ef49db725af8dfc9f4ae2cd0d3a4c/iczelia/bzip3",
+    "score": 3.754,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "한국피지컬AI협회, 내년 9월 송도서 ‘피지컬 AI 엑스포' 개최",
+    "url": "https://zdnet.co.kr/view/?no=20260907193618",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-07T10:36:18+00:00",
+    "raw_excerpt": "[지디넷코리아]한국피지컬AI협회(협회장 유태준)는 전시 전문기업 서울메쎄(대표 박병호), 인공지능 전문 미디어 인공지능신문을 발행하는 인터프레스(대표 전유준)와 ‘피지컬AI 엑스포 코리아(피지컬AI EXPO KOREA)’의 성공적인 공동 개최를 위한 업무협약을 7일 체결했다고 밝혔다.협약식은 이날 경기도 성남시 마음AI 본사에서 진행됐다. 한국피지컬AI협회 유태준 협회장(회장사 마음AI), 서울메쎄 박병호 대표, 인공지능신문 전유준 대표 등 비롯한 주요 관계자들이 참석했다.'피지컬AI 엑스포 코리아'는 인공지능이 로봇, 모빌리티, 제조 장비 등 물리적 시스템과 결합해 현실 세계를 인식하고 판단하며 행동하는 ‘피지컬 AI(Physical AI)’ 기술과 산업을 한자리에서 선보이는 전문 전시회다. 내년 첫 개최를 시작으로 매년 정례 개최를 추진, 국내외 피지컬 AI 산업을 대표하는 전문 전시회로 육성한다는 계획이다. 첫 전시회는 내년 9월 9일부터 11일까지 3일간 인천 송도컨벤시아 4홀에서 개최될 예정이다.이번 협약에 따라 세 기관은 전시회 기획과 운영을 비롯해 국내외 피지컬 AI 관련 기업과 정부기관, 지방자치단체, 협회·단체 등의 참여 확대를 위해 협력한다. 또 국제 콘퍼런스와 세미나, 기술 경진대회, 바이어·투자 매칭 데이 등 다양한 부대행사를 마련해 피지컬 AI 분야의 기술 교류를 활성화하고 실질적인 사업 협력 기회를 창출할 계",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "한국피지컬AI협회가 내년 9월 인천 송도에서 로봇·모빌리티 등 물리적 시스템과 AI가 결합한 '피지컬 AI' 기술을 선보이는 전문 전시회를 개최한다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/07/c45a9540358c3efc22da58312c5109d4.png",
+    "score": 3.603,
+    "engagement": 0,
+    "matched_keywords": [
+      "physical ai",
+      "피지컬 ai",
+      "피지컬ai"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
+    "url": "https://mathathonchallenge.com/index.html",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-07T09:26:53+00:00",
+    "raw_excerpt": "Article URL: https://mathathonchallenge.com/index.html Comments URL: https://news.ycombinator.com/item?id=49596055 Points: 208 # Comments: 68",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Caltech가 연구 수준의 수학에 특화된 첫 해커톤인 'Mathathon'을 개최하여 기존 해커톤의 영역을 수학 연구로 확장했다.",
+    "thumbnail": "",
+    "score": 3.547,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Live map of public transport in Belgium",
+    "url": "https://openbaarvervoerbelgie.be/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-07T09:02:47+00:00",
+    "raw_excerpt": "Article URL: https://openbaarvervoerbelgie.be/ Comments URL: https://news.ycombinator.com/item?id=49595865 Points: 174 # Comments: 73",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "벨기에 공공 대중교통의 실시간 위치를 보여주는 지도 서비스가 공개되었습니다.",
+    "thumbnail": "https://openbaarvervoerbelgie.be/og.png",
+    "score": 3.527,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "2억 1,600만 대의 감시 TV — LG 스마트 TV의 문제 [영상]",
+    "url": "https://news.hada.io/topic?id=33332",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-07T21:51:47+00:00",
+    "raw_excerpt": "Gamers Nexus와 보안 연구진이 LG TV에서 주변 기기 탐색·음성 전사 로그 저장 을 확인하고, 침해 후에는 몰래 녹음·촬영할 수 있음을 시연함 — 기본 데이터 수집과 공격자가 제어권을 확보한 뒤의 동작은 구분해야 함 자동 콘텐츠 인식(ACR) 은 화면·오디오를 지문...",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "LG 스마트 TV 2억 1,600만 대에서 주변 기기 탐색, 음성 전사 로그 저장, 침해 시 몰래 녹음·촬영이 가능한 보안 취약점이 적발됐습니다.",
+    "thumbnail": "https://social.news.hada.io/topic/33332?v=480785b3d65b41ce3986e339ba5e943b",
+    "score": 3.473,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "마키나락스 “AI, 벤치마크 순위보다 현장성이 중요”",
+    "url": "https://byline.network/2026/09/3472983423420/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-09-07T14:09:10+00:00",
+    "raw_excerpt": "윤성호 마키나락스 대표(CEO)는 3일 서울 강남구에서 열린 ‘ATTENTION 2026’에서 이같이 말했다. 이는 마키나락스가 그간 쌓아 온 성과가 ‘현장 중심’이었음을 강조하는 과정에서 나온 말이다. 윤 대표는 오차가 허용되지 않는 현장에서 AI가 작동한다는 점을 강조하며, 국내 최초로 군사 훈련에 AI가 적용된 사례에 마키나락스의 기술이 쓰였다고 소개했다.",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "마키나락스 윤성호 대표가 AI의 벤치마크 순위보다 실제 현장 적용이 중요하다고 강조하며, 오류 허용이 불가능한 군사 훈련에 자사 AI 기술이 적용된 사례를 소개했다.",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/09/Markinaraks-2.jpg",
+    "score": 3.467,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "브레인롯에서 벗어나기 위한 휴가",
+    "url": "https://news.hada.io/topic?id=33327",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-07T16:33:54+00:00",
+    "raw_excerpt": "소프트웨어 엔지니어로서 업무에 익숙해지고 AI로 생산성도 높아졌지만 사고는 느리고 얕아졌다고 느껴, 2주간의 휴가 를 독서와 새로운 학습에 사용함 숏폼·게임·만화·TV 프로그램으로 지루할 틈이 없어지고 취침 전 둠스크롤링 에 독서가 밀려나자, 지난 1년간 손...",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "소프트웨어 엔지니어가 AI 도구로 인한 생산성 향상 속에서 사고력 저하를 느껴 2주 휴가를 독서와 학습으로 보내며 뇌 건강을 되찾으려 했다.",
+    "thumbnail": "https://social.news.hada.io/topic/33327?v=327d27726b06d5972f3bff0524ef5350",
+    "score": 3.252,
+    "engagement": 0,
+    "matched_keywords": [
+      "생산성"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "KB금융, 그룹 통합 AI 에이전트 경진대회…\"임직원 아이디어로 AI 업무 혁신\"",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48739",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-07T11:15:31+00:00",
+    "raw_excerpt": "[스마트타임스]KB금융그룹은 지난 3일 KB국민은행 신관에서 '2026 그룹 통합 AI 에이전트 경진대회'를 개최했다고 7일 밝혔다.이번 경진대회는 실제 업무에 적용할 수 있는 AI 에이전트를 발굴하고 우수 사례를 그룹 전반으로 확산하기 위해 마련됐다. KB금융지주, KB국민은행, KB증권, KB손해보험, KB카드, KB라이프, KB캐피탈 7개 계열사에서 총 116개 팀, 316명이 참여했으며 계열사별 예선을 거쳐 12개 팀이 본선에 진출했다.이날 본선에서는 보안 로그 분석과 이상행위 탐지, 사내 문서 분석, 고객의견(VOC) 분석",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "KB금융그룹이 7개 계열사 직원 316명이 참여한 'AI 에이전트 경진대회'를 개최해 실무 적용 가능한 AI 솔루션을 발굴하고 확산하는데 나섰다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202609/48739_47491_1522_v150.jpg",
+    "score": 3.178,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "GrapheneOS, 기본 앱과 보안 클립보드 전면 개편",
+    "url": "https://news.hada.io/topic?id=33325",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-07T13:32:28+00:00",
+    "raw_excerpt": "기본 Messaging 앱 의 낡은 인터페이스를 Android Compose 로 전면 재작성하고 있으며, 여러 개선과 버그 수정을 담은 새 버전을 게시 당일 늦게 출시할 예정임 장기적으로 RCS 와 Messaging Layer Security(MLS) 기반 종단간 암호화",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "GrapheneOS가 Messaging 앱을 Android Compose로 재작성하고 보안 클립보드를 개편하며 장기적으로 RCS와 MLS 기반 종단간 암호화를 추진한다.",
+    "thumbnail": "https://social.news.hada.io/topic/33325?v=b6162594bbc611525565014a304547f3",
+    "score": 3.126,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "\"내년에도 메모리 가격 상승...스마트폰 시장서 삼성·애플 수혜\"",
+    "url": "https://zdnet.co.kr/view/?no=20260908012643",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-07T16:34:46+00:00",
+    "raw_excerpt": "[지디넷코리아]메모리 반도체 가격은 내년에도 오르고, 삼성전자와 애플이 스마트폰 시장에서 수혜를 입을 것이란 전망이 나왔다. 두 업체가 플래그십 제품 비중이 크고, 메모리 물량을 안정적으로 확보할 수 있기 때문이다. 중저가 제품 의존도가 높은 중국 스마트폰 업체는 과거처럼 공격적 마케팅을 펴기 어려울 것으로 예상됐다.일본 미즈호증권은 이달 초순 발간한 스마트폰 관련 보고서에서 올해 전 세계 스마트폰 출하량이 11억 5000만대(기본 시나리오)로 전년비 9% 감소할 것이라고 전망했다. 미즈호증권은 일부 기관 전망처럼 올해 스마트폰 출하량이 전년비 15%까지 감소할 가능성은 낮다고 평가했다. 지난해 유통재고 등으로 올해 상반기 스마트폰 평균판매가격(ASP)이 큰 폭으로 상승하진 않았고, 앞으로 가격 인상을 예상한 선수요 때문에 하반기 시장 수요가 급감할 가능성은 낮다고 설명했다. 애플과 삼성전자, 화웨이 등이 메모리를 비교적 안정적으로 조달하며 시장에서 입지를 강화하고 있다. 대신, 올해 하반기 D램과 낸드 메모리 가격 상승폭이 당초 예상을 웃돌아 애플과 삼성전자 모두 기존 예상보다 스마트폰 가격 인상폭을 키워야 할 것이라고 덧붙였다. 중저가 제품 비중이 큰 중국 스마트폰 업체는 모델 수를 줄이고 고수익 모델을 늘리고 있다. 미즈호증권이 제시한 올해 업체별 스마트폰 출하량 전망치는 ▲애플 2억 5000만대 ▲삼성전자 2억 4000만대 ▲",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "내년에도 메모리 반도체 가격이 오르면서 안정적 물량 확보가 가능한 삼성전자와 애플이 스마트폰 시장에서 수혜를 입을 전망이다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/04/aef7917962c9fe9534d25ce4c15a156b.png",
+    "score": 2.927,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Bank of Korea Study Warns Stablecoin Demand Could Weaken Local Currencies",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48762",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-07T16:07:02+00:00",
+    "raw_excerpt": "Growing demand for dollar-backed stablecoins could put downward pressure on national currencies when global cryptocurrency exchanges allow investors to purchase the tokens directly with fiat money, according to a Bank of Korea study.Researchers Jihyun Kim and Sangheum Cho examined the effects of Bin",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "한국은행 연구진이 달러 연동 스테이블코인 수요 증가가 글로벌 암호화폐 거래소에서 법정화폐로 직접 구매 가능해질 경우 국내 화폐 약세를 초래할 수 있다고 경고했다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202609/48762_47518_656_v150.jpg",
+    "score": 2.91,
+    "engagement": 0,
+    "matched_keywords": [
+      "stablecoin"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "[단독] 강남언니, 시술정보 포함 22만명 고객 개인정보 유출…경찰 수사 의뢰",
+    "url": "https://www.etnews.com/20260907000427",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-09-07T07:51:05+00:00",
+    "raw_excerpt": "힐링페이퍼가 운영하는 미용의료 플랫폼 '강남언니'에서 개인정보 유출 사고가 발생했다. 개인 이름·연락처뿐 아니라 민감한 시술·상담 정보 등을 포함한 약 22만명 고객 개인정보가 유출돼 현재 경찰 수사를 의뢰한 상태다. 7일 업계에 따르면 지난 4일 강남언니에서 상담내역을 조회하는 연동 기능(API)에 대한 비정상적인 접근이 시도되면서 일부 고객 개인정보가 유출됐다. 힐링페이퍼는 이상 징후를 실시간으로 포착한 즉시 해당 접근 경로를 차단하고 시스",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "미용의료 플랫폼 '강남언니'에서 API 비정상 접근으로 약 22만명의 시술·상담정보 등 민감한 개인정보가 유출되어 경찰 수사가 의뢰됐다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/09/07/news-p.v1.20260907.f0d33382da6f4becbb51a235560cc5e8_P1.png",
+    "score": 2.889,
+    "engagement": 0,
+    "matched_keywords": [
+      "개인정보"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "삼성, 파운드리 DSP '옥석 가리기'…13곳→11곳 재편",
+    "url": "https://www.etnews.com/20260907000332",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-09-07T07:30:00+00:00",
+    "raw_excerpt": "삼성전자가 파운드리(위탁생산) 디자인솔루션파트너(DSP) 체계를 재정비한다. 파트너사를 공격적으로 늘리기보다 실제로 고객과 프로젝트를 확보할 수 있는 업체 중심으로 옥석 가리기에 나선 것으로 풀이된다. 7일 업계에 따르면 삼성전자 파운드리 DSP에서 국내 반도체 설계업체 위더맥스가 제외된 것으로 파악됐다. DSP편입 이후 약 1년 6개월 만이다. 영국 반도체 설계기업 손드렐(Sondrel)도 함께 빠졌다. 삼성전자 공식 DSP 홈페이지에서도 현",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "삼성전자가 파운드리 DSP를 13곳에서 11곳으로 축소하며 실질적 고객 확보 능력을 갖춘 업체 중심으로 재편했다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/09/04/news-p.v1.20260904.63f6b118c393452c95d2cc14e4021a60_P1.png",
+    "score": 2.874,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "구글 업은 위즈, 韓 본격 공략…K시큐리티 안방 위협",
+    "url": "https://www.etnews.com/20260907000333",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-09-07T07:00:00+00:00",
+    "raw_excerpt": "구글이 품은 클라우드 보안업체 위즈(Wiz)가 한국 시장 공략에 속도를 내고 있다. 국내 대형 고객사가 늘어나자 영업부터 기술 지원까지 현지 조직 전반을 키우고 있다. 위즈를 비롯한 글로벌 보안업체들의 한국 시장 공세가 거세지면서 국내 보안업계의 경쟁력 강화가 시급하다. 7일 업계에 따르면 위즈는 최근 한국 영업 총괄 책임자를 비롯해 대기업 고객 영업 담당자, 솔루션 엔지니어링 팀장, 선임 기술계정관리자 등 핵심 인력 채용에 나섰다. 위즈는 아",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "구글이 인수한 클라우드 보안업체 위즈가 한국 시장 공략을 본격화하며 국내 보안업체들의 경쟁 심화가 우려된다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/09/07/news-p.v1.20260907.283f5e7b42b94cc78171bb636df42819_P1.png",
+    "score": 2.854,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "The Dataflow Model Revisited",
+    "url": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-06T18:10:53+00:00",
+    "raw_excerpt": "PDF: https://www.vldb.org/pvldb/vol19/p4953-fernandez-moctezuma.p... Comments URL: https://news.ycombinator.com/item?id=49589190 Points: 74 # Comments: 13",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Google Dataflow 모델의 이론적 기초를 재검토한 학술 논문이 공개되어 대규모 데이터 처리 시스템의 설계 원칙에 대한 학계의 관심을 끌고 있습니다.",
+    "thumbnail": "",
+    "score": 2.783,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "팔로알토, 동국대에 보안 아카데미 거점대학 운영",
+    "url": "https://zdnet.co.kr/view/?no=20260907204227",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-07T11:42:27+00:00",
+    "raw_excerpt": "[지디넷코리아]AI플랫폼 선도기업 다올티에스(대표 홍정화)는 동국대학교 경찰사법대학·경찰사법대학원·융합안전학술원, 글로벌 사이버보안 기업 팔로알토 네트웍스 코리아와 ‘팔로알토 네트웍스 사이버 시큐리티 아카데미 거점대학’ 운영을 위한 3자 업무협약(MOU)을 체결했다고 7일 밝혔다.이번 협약은 갈수록 고도화하는 사이버 위협에 대응할 전문인력을 양성하고, 학생들에게 글로벌 수준의 실무 교육과 공인 자격인증, 진로 및 취업 연계 기회를 제공하기 위해 마련됐다.협약에 따라 3개 기관은 교육 인프라와 보안 기술, 산학협력 역량을 결합해 실무형 사이버수사·사이버보안 인재 양성에 나선다.동국대학교는 서울지역 사이버수사·사이버보안 교육 거점대학으로서 ‘팔로알토 네트웍스 사이버 시큐리티 아카데미’를 기반으로 교과·비교과 교육과정을 운영한다. 또한 교육 운영 경험과 성과를 다른 대학 및 유관기관과 공유해 사이버보안 교육 확산에도 기여할 계획이다.팔로알토 네트웍스 총판사인 다올티에스는 산학 연계 멘토링과 기술 특강을 제공하고, 학생들의 글로벌 교육·인증 프로그램 이수를 지원한다. 아울러 파트너사와 연계한 취업 홍보와 채용 기회를 마련해 교육이 실제 진로와 취업으로 이어질 수 있도록 지원할 예정이다.세 기관은 앞으로 ▲사이버수사·사이버보안 전문인력 양성 교육 ▲사이버보안 인식 제고 ▲실습 중심 교육 및 교육시설·기자재 활용 ▲산학 연계 멘토링과 기술 특강",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "팔로알토 네트웍스와 다올티에스, 동국대가 협력해 사이버보안 전문인력 양성을 위한 '팔로알토 네트웍스 사이버 시큐리티 아카데미 거점대학'을 운영하기로 합의했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/07/461d5ae027e058918251232c4bf326da.jpg",
+    "score": 2.745,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "네이버웹툰, 완결 작가도 지원한다",
+    "url": "https://zdnet.co.kr/view/?no=20260907193325",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-07T10:35:52+00:00",
+    "raw_excerpt": "[지디넷코리아]네이버웹툰이 연재 중인 작가뿐 아니라 작품을 완결하고 차기작을 준비하는 작가까지 지원 범위를 넓히고 있다. 올해 700억원 규모의 글로벌 창작 생태계 투자를 진행하는 가운데 창작 공백기에 있는 작가를 대상으로 코칭과 네트워킹 프로그램을 운영한다.네이버웹툰은 지난 4일 서울 강남구 엘리에나 호텔에서 작가 코칭 프로그램 ‘슬기로운 창작생활’에 참여한 완결 작가들을 대상으로 네트워킹 행사를 열었다고 7일 밝혔다.슬기로운 창작생활은 네이버웹툰의 창작 생태계 지원 캠페인 ‘웹툰위드(WEBTOON With)’의 하나다. 작품 연재를 마치고 차기작을 준비하는 작가들의 창작 역량과 정서적 안정을 지원하기 위해 마련했다.프로그램은 지난 7월 시작해 오는 18일까지 약 3개월간 진행된다. 완결 작가 97명이 15개 팀으로 나뉘어 강점 진단과 워크숍, 소그룹 코칭 등에 참여하고 있다.이번 네트워킹 행사에는 프로그램 참여 작가 가운데 66명이 참석했다. 김준구 웹툰 엔터테인먼트 최고경영자(CEO) 겸 창업자와 네이버웹툰 PD들도 자리를 함께했다.김 CEO와 PD들은 작가들과 웹툰 산업의 성장 방향과 작품 연재, 플랫폼 운영 정책 등을 주제로 의견을 나눴다.김 CEO는 “웹툰 생태계가 지속적으로 성장하려면 작가들이 자신만의 개성이 있는 작품을 계속 창작하는 것이 중요하다”며 “보다 안정적인 환경에서 창작 활동을 할 수 있도록 지원하겠다”고 말",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "네이버웹툰이 연재 완결 작가까지 지원 범위를 확대해 코칭과 네트워킹 프로그램을 운영하며 창작 생태계 강화에 나서고 있다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/07/35afee4dbcaf519109c44ab5c809f80c.jpg",
+    "score": 2.703,
+    "engagement": 0,
+    "matched_keywords": [
+      "창업"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "산업부, ‘지방주도 성장엔진 협의회’ 출범…중앙-지방 소통·협력 채널 구축",
+    "url": "https://zdnet.co.kr/view/?no=20260907181905",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-07T09:19:05+00:00",
+    "raw_excerpt": "[지디넷코리아]5극 3특 성장엔진 가동을 위한 중앙정부와 지방정부의 소통·협력 채널인 ‘지방주도 성장엔진 협의회’가 7일 출범했다.산업통상부는 7일 충북 오송 오스코에서 13개 지방정부와 산업기술진흥원(KIAT)·산업연구원·지역산업진흥원 등이 참석하는 ‘제1회 지방주도 성장엔진 협의회’를 개최했다.협의회는 성장엔진 육성 등 지역 산업 현안을 논의하는 중앙-지방간 소통·협력 채널이다. 지난 7월 개최된 ‘성장엔진 실무협의회’를 공식적인 고위급 중앙-지방 소통체계로 한층 격상시켜 더욱 속도감 있게 성장엔진 육성을 추진한다는 계획이다.산업부는 이날 협의회에서 성장엔진 분야 지방투자 이행을 지원하기 위한 범부처 정책·사업 등으로 구성된 ‘성장엔진 7대 정책지원 패키지’와 지방정부가 지역의 산업여건·인프라 등을 고려해 주도적으로 육성계획을 수립할 수 있도록 ‘성장엔진 육성계획 수립 가이드라인’을 발표했다.성장엔진 육성계획에는 ▲앵커기업 투자계획 ▲중앙정부의 7대 정책지원 패키지 활용 방안 ▲지방정부 자체 투자 지원방안 ▲산업거점 조성·정주여건 개선 등 공통기반 과제가 포함될 예정이다.산업부는 육성계획 수립지원을 위해 5극3특 권역별로 지방정부, 지역기업, 지역혁신기관, 지역산업진흥원 등으로 구성된 ‘성장엔진 초광역 공동사업단’을 가동할 예정이다.협의회에 참석한 13개 지방정부는 지역의 산업과 경제여건을 반영한 미래 성장엔진 육성 구상을 제시했",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "산업부가 중앙-지방 소통을 위한 '지방주도 성장엔진 협의회'를 출범하고 7대 정책지원 패키지와 육성계획 가이드라인을 발표해 지역산업 육성을 가속화한다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/07/326ec57b44871d421be80b8f3f2dd8a8.jpg",
+    "score": 2.655,
+    "engagement": 0,
+    "matched_keywords": [
+      "가이드라인"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  }
+]
