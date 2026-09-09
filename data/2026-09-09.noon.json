@@ -1,0 +1,783 @@
+[
+  {
+    "title": "KT, 가성비와 인공지능 앞세운 ‘지니 TV 셋톱박스 A2’ 출시",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41828",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-09T08:54:34+00:00",
+    "raw_excerpt": "KT(대표이사 박윤영)가 지니 TV의 핵심 AI 기능을 콤팩트한 디자인에 담고 이용 부담을 낮춘 ‘지니 TV 셋톱박스 A2’를 출시했다고 9일 밝혔다.KT는 앞서 실시간 채널과 지상파·종편 드라마/예능, 최신 영화 등의 다양한 VOD를 부담 없이 즐길 수 있는 요금 상품 ‘지니 TV 모든G’를 선보였다. 이어 인공지능 기반 핵심 기능과 합리적인 이용료를 갖춘 셋톱박스 A2를 출시하며 요금 상품부터 단말까지 지니 TV 전반의 고객 경험 혁신을 가속화하고 있다.지니 TV 셋톱박스 A2는 대형언어모델(LLM) 기반 AI 에이전트를 적용해",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "KT가 AI 기능과 합리적인 가격을 갖춘 '지니 TV 셋톱박스 A2'를 출시해 가성비 중심의 스트리밍 경험을 제공한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41828_62919_546_v150.jpg",
+    "score": 8.542,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "llm"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "삼성전자, 미스트랄 AI와 전략적 파트너십...미스트랄 AI 기술 결합한 자체 AI 모델 구축",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41826",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-09T08:39:29+00:00",
+    "raw_excerpt": "삼성전자가 프랑스 인공지능 기업 '미스트랄 AI(Mistral AI)'와 전략적 파트너십을 체결하고, 반도체 설계와 제조에 특화된 자체 AI 모델을 공동 개발하기로 했다고 9일 밝혔다.이번 파트너십 체결은 8일(현지시간) 한·프랑스 양국 정상회담 시점에 진행됐다. 양사는 삼성전자 DS부문의 반도체 기술 및 제조 데이터와 미스트랄 AI의 고효율 AI 모델 기술을 결합해 반도체 업무 전반의 생산성과 정밀도를 높이는 '반도체 특화 AI'를 구축할 계획이다.미스트랄 AI는 아르튀르 멘쉬 CEO를 중심으로 구글 딥마인드, 메타 출신 AI 연",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "삼성전자가 프랑스 미스트랄 AI와 파트너십을 체결해 반도체 설계·제조에 특화된 AI 모델을 공동 개발하기로 했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41826_62917_394_v150.jpg",
+    "score": 8.523,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "딥마인드"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "오픈AI, 수학계 난제 해결 발표...NYU·앤트로픽과 '표절' 공방",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215021",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-09T11:37:03+00:00",
+    "raw_excerpt": "오픈AI가 수학계의 대표적 난제에 대한 새로운 증명을 AI로 도출했다고 발표했다. 그러나 연구 과정에서 뉴욕대학교(NYU) 수학자와 앤트로픽 연구진의 비공개 연구가 오픈AI의 AI 시스템에 활용된 것 아니냐는 논란이 불거졌다. 오픈AI는 8일(현지시간) 내부 AI 시스템이 수학계의 대표적인 미해결 난제인 ‘나비에-스토크스 방정식의 존재성과 매끄러움 문제(Navier–Stokes existence and smoothness problem)’를 해결했다고 발표했다. 나비에-스토크스 문제는 미국 클레이수학연구소가 선정한 7개의 ‘밀레니엄",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI가 수학 난제 해결을 발표했으나 NYU와 Anthropic의 비공개 연구를 무단 활용했다는 표절 논란이 제기됐다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215021_218786_559.png",
+    "score": 8.499,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "최수연 대표, 한-프랑스 비즈니스라운드테이블서 AI 팩토리·산업 특화 AI·콘텐츠 분야 협업 비전 제시",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41835",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-09T11:34:35+00:00",
+    "raw_excerpt": "팀네이버가 이재명 대통령의 프랑스 순방을 계기로 프랑스 핵심 기업·기관들과 인공지능(AI) 분야를 중심으로 한 다양한 비즈니스 협력 확대를 모색했다.최수연 네이버 대표와 김유원 네이버클라우드 대표는 대통령 프랑스 순방 기간 동안 프랑스의 미디어·IT·에너지·모빌리티·금융 분야의 대표 기업 CEO 등 참석자들과 만나 AI 인프라와 산업 특화 AI 및 콘텐츠 분야에서의 적극적인 협업 기회 발굴에 나섰다.최수연 대표는 8일(현지 시간) 진행된 한-프랑스 경제인 비즈니스 라운드 테이블에서 모두 발언을 통해 글로벌 AI 인프라, 데이터 주권",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "최수연 네이버 대표가 한-프랑스 비즈니스라운드테이블에서 AI 팩토리, 산업 특화 AI, 콘텐츠 분야의 협업 비전을 제시했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41835_62926_3354_v150.jpg",
+    "score": 7.842,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "구글, 美 소상공인 대상 AI 교육 확대…“AI로 매출 늘리고 업무시간 줄인다”",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41833",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-09T10:57:40+00:00",
+    "raw_excerpt": "구글이 미국 소상공인을 대상으로 인공지능(AI) 활용 교육을 확대하고 있다. 단순한 AI 기술 소개를 넘어 실제 사업 현장에서 업무시간을 줄이고 매출을 높이며 새로운 사업 아이디어를 발굴할 수 있도록 실습 중심의 교육을 제공하는 것이 특징이다.구글은 소상공인 지원 프로그램 ‘그로우 위드 구글(Grow with Google)’을 통해 지난 8월 미국의 역사적인 국도 ‘루트 66(Route 66)’을 따라 ‘메이크 AI 워크 포 유(Make AI Work for You)’ AI 교육 투어를 진행했다고 8일(현지시간) 밝혔다.이번 프로그",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "구글이 미국 소상공인 대상으로 'Make AI Work for You' 투어를 통해 AI 활용으로 업무시간 단축과 매출 증대를 돕는 실습 중심 교육을 확대 중이다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41833_62924_5726_v150.jpg",
+    "score": 7.796,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "삼성전자, ASML과 차세대 반도체 제조 협력 확대...차세대 12인치 포토 마스크 도입 컨소시엄 참여",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41832",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-09T10:34:49+00:00",
+    "raw_excerpt": "삼성전자가 네덜란드 반도체 노광설비 기업 ASML이 주도하는 '대형 마스크 컨소시엄(Large Size Mask Consortium)'에 참여하고 차세대 12인치 포토 마스크 공동 개발에 나선다.'대형 마스크 컨소시엄'은 현재 반도체 노광설비에 사용되는 6인치 를 12인치로 전환하기 위한 협의체로 노광설비와 포토 마스크 관련 글로벌 기술 동향을 함께 모니터링하고 12인치 포토 마스크 개발을 목표로 공동 연구, 표준 개발 등의 협력 활동을 펼칠 계획이다.포토 마스크란 미세 회로 패턴을 정교하게 새긴 정밀 '마스크(틀)'로 노광설비 내",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "삼성전자가 ASML 주도의 대형 마스크 컨소시엄에 참여해 현재 6인치 포토 마스크를 12인치로 확대하는 차세대 반도체 제조 기술 개발에 협력한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41832_62923_3435_v150.jpg",
+    "score": 7.767,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "차세대"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "딥브레인AI, 국내 첫 ‘AI 롤플레이’로 영업·세일즈 교육시장 확대",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41831",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-09T10:22:35+00:00",
+    "raw_excerpt": "국내 생성형 인공지능(AI) 전문 기업 딥브레인AI(대표 장세영)는 AI 기반 영업 훈련 솔루션 ‘AI 롤플레이’의 적용 범위를 금융 PB와 일반 영업·세일즈 조직으로 확대하며 기업 교육 시장 공략에 나선다고 9일 밝혔다.AI 롤플레이는 AI가 고객 역할을 맡아 실제 상담과 유사한 환경에서 대화를 반복 훈련하는 솔루션으로, 지난 6월 딥브레인AI가 국내 최초로 선보인 바 있다. 교육 참여자는 AI 고객과 직접 대화하며 고객 요구를 파악하고 상품을 설명하는 등 실제 영업 과정을 연습한다.딥브레인AI는 보험설계사 화법 교육을 시작으로",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "딥브레인AI가 국내 첫 'AI 롤플레이' 솔루션으로 금융·영업 교육시장 확대에 나섰으며, AI가 고객역을 맡아 실제 상담 환경에서 훈련을 제공한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41831_62922_2221_v150.jpg",
+    "score": 7.752,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "대동, 산업부 431억원 규모 'K-온디바이스 AI반도체' 무인 농작업 로봇 과제 총괄",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41830",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-09T10:18:07+00:00",
+    "raw_excerpt": "대동이 로봇·피지컬 AI 시대 핵심 기술인 온디바이스 AI반도체의 국내 자립 생태계 구축에 농업 대표기업으로 참여한다.미래농업 리딩 기업 대동(공동대표 김준식·원유현)은 산업통상부가 주관하는 ‘K-온디바이스 인공지능 반도체 기술개발’ 사업에서 무인 농작업 로봇 분야 총괄주관연구개발기관으로 선정됐다고 9일 밝혔다.과제는 2026년 7월부터 2030년 12월까지 총 사업비 약 431억원 규모로 추진되며 14개 산학연 기관이 참여한다. 국산 AI반도체와 무인 농작업 로봇 플랫폼, 자율 농작업 AI 솔루션을 개발·통합해 방제·수확·운반·예",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "대동이 산업부 주관 'K-온디바이스 AI반도체' 사업에서 무인 농작업 로봇 분야 총괄기관으로 선정되어 431억원 규모로 국산 AI반도체 기반 자율농작업 기술 개발을 주도한다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41830_62921_1748_v150.jpg",
+    "score": 7.746,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "삼성SDS AX센터 정천수 박사, \"AI가 코드를 짜는 시대, 엔지니어는 무엇을 해야 하나\"",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41829",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-09T09:21:14+00:00",
+    "raw_excerpt": "생성형 AI의 확산과 함께 소프트웨어 엔지니어링의 방식이 빠르게 변화하고 있다. 특히 최근에는 단순히 AI에게 “무엇을 해달라”고 지시하는 수준을 넘어, AI가 계획을 세우고 개발하고 검증하며 다시 개선하는 에이전틱 엔지니어링으로 관심이 확대되고 있다.이러한 변화의 흐름은 프롬프트 엔지니어링에서 컨텍스트 엔지니어링, 하네스 엔지니어링을 거쳐 에이전틱 엔지니어링으로 발전하고 있다고 볼 수 있다.처음에는 AI에게 질문을 잘하는 프롬프트 엔지니어링이 중요했다. 원하는 결과를 얻기 위해 질문을 구체적으로 작성하고, AI에게 역할과 작업 방",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "삼성SDS 정천수 박사는 생성형 AI가 코드 작성을 넘어 계획·개발·검증까지 수행하는 에이전틱 엔지니어링으로 진화하면서 소프트웨어 엔지니어의 역할이 프롬프트 엔지니어링에서 컨텍스트·하네스 엔지니어링으로 변화하고 있다고 지적했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41829_62920_2031_v150.jpg",
+    "score": 7.675,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "생성형 ai"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "임팩터스, 부산 고교 40%에서 경험한 AI 수업 솔루션… \"교사 실증이 공교육 에듀테크 표준 만든다\"",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41827",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-09T08:51:02+00:00",
+    "raw_excerpt": "교육분야 인공지능(AI) 스타트업 임팩터스(대표 김보경)가 지난 7일, 부산 해운대구 파크 하얏트에서 열린 ‘동남권 지·산·학 커넥트 데이’에서 실증기업 대표로 선정돼 AI 기반 학생 개인화 수업 운영·평가·지원 솔루션 ‘임팩트 스페이스’의 부산 지역 실증 성과를 발표했다고 9일 밝혔다.부산교육대학교, 부산대학교, KREON이 주최하고 에듀테크소프트랩이 주관한 이번 행사는 교육부, 부산광역시교육청, 부산광역시, 한국교육학술정보원(KERIS)이 지원했다. 임팩터스는 '실증사례' 세션에서 우연택 팀장이 발표자로 나서 '교·수·평·기 일",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "임팩터스가 부산 고교 40%에서 AI 수업 솔루션을 실증한 결과를 발표하며 교사 경험을 바탕으로 공교육 에듀테크 표준 수립을 추진하고 있다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41827_62918_5031_v150.jpg",
+    "score": 7.637,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "제주, '에너지제로 마을' 실증…태양광·ESS·전기차 AI 통합 관리",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215018",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-09T10:53:08+00:00",
+    "raw_excerpt": "제주에서 태양광과 에너지저장장치(ESS), 전기차, 히트펌프 등을 가정·마을 단위로 AI가 통합 관리하고 남는 전력을 이웃과 나눠 쓰는 '에너지제로 마을' 실증사업이 추진된다.기후에너지환경부는 '2026년 AI 기반 분산에너지 특화지역 지원사업' 공모를 통해 선정된 분산에너지 사업을 제주에서 우선 추진한다고 지난 8일 밝혔다.우선 제주 한림읍 또는 대정읍의 약 20가구를 대상으로 태양광과 히트펌프, 전기차, ESS, AI 가전을 하나의 시스템으로 연결한 에너지제로 주택단지를 구축한다.각 가정에서 생산하고 남은 전력을 마을 안에서 나",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "제주에서 AI가 태양광·ESS·전기차 등을 통합 관리하고 남는 전력을 이웃 간 공유하는 '에너지제로 마을' 실증사업을 추진한다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215018_218780_491.jpg",
+    "score": 7.464,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "DaVinci Resolve 21.1",
+    "url": "https://news.hada.io/topic?id=33376",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-08T22:39:50+00:00",
+    "raw_excerpt": "편집·색보정용 새 도구와 제어 기능 100개 이상 을 담은 DaVinci Resolve 21.1이 출시됐으며, AI 어시스턴트 연동과 사진 포맷·멀티캠 지원을 확대하고 공식 웹사이트에서 무료 다운로드를 제공함 Claude, Claude Code, ChatGPT Codex 에 자연어로 프로젝트 분석, 미...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "DaVinci Resolve 21.1이 출시되어 100개 이상의 새로운 편집·색보정 도구와 AI 어시스턴트 연동 기능을 추가했으며 무료로 제공된다.",
+    "thumbnail": "https://social.news.hada.io/topic/33376?v=7ad374c8a93b53154f95ab65376c1e3e",
+    "score": 7.228,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "codex",
+      "chatgpt",
+      "claude code"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "퀄컴, 아마존과 차세대 AI 데이터센터용 맞춤형 반도체 공동 개발",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41821",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-08T22:32:11+00:00",
+    "raw_excerpt": "인공지능 데이터센터(AIDC)의 컴퓨팅 수요가 급증하는 가운데 퀄컴과 아마존이 차세대 AI 인프라 구축을 위한 다세대 맞춤형 반도체 및 광통신 기술 협력에 나선다.퀄컴(Qualcomm)은 현지시간 8일, 아마존(Amazon)과 대규모 AIDC를 위한 맞춤형 실리콘을 여러 세대에 걸쳐 개발·확대하는 협력 관계를 발표했다. 양사는 AI 추론을 위한 맞춤형 반도체를 비롯해 데이터센터 내부 네트워크의 고대역폭 연결을 지원하는 광통신 솔루션도 공동 개발한다.이번 협력은 AI 워크로드가 빠르게 증가하면서 컴퓨팅, 스토리지, 네트워킹, 메모리",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "퀄컴과 아마존이 AI 데이터센터 수요 증가에 대응하기 위해 맞춤형 반도체와 광통신 기술을 다세대에 걸쳐 공동 개발하기로 협력했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41821_62915_3056_v150.jpg",
+    "score": 6.864,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "차세대"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Qwen3.8 27B 양자화 벤치마크: 4비트는 성능 유지, 1비트는 붕괴",
+    "url": "https://news.hada.io/topic?id=33396",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-09T01:56:51+00:00",
+    "raw_excerpt": "55GB인 Qwen3.8 27B를 4비트 양자화로 17GB까지 줄여도 , 과학 문제, 지시 준수와 에이전트 코딩 평가에서 원본과 눈에 띄는 성능 차이가 없었음 17GB 모델은 24GB RTX 4090에 약 64k 토큰 컨텍스트와 함께 올릴 수 있어 , 소비자용 GPU에서도 원본에 가까운 작업 성...",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "Qwen3.8 27B 모델을 4비트 양자화로 55GB에서 17GB로 압축해도 성능이 유지되지만, 1비트 양자화는 성능이 크게 하락한다.",
+    "thumbnail": "https://social.news.hada.io/topic/33396?v=f36fc9d0185fafb973094df8e28b83e9",
+    "score": 5.933,
+    "engagement": 0,
+    "matched_keywords": [
+      "gpu",
+      "양자"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "모든 곳의 보안을 바로잡을 시간은 1년뿐이다",
+    "url": "https://news.hada.io/topic?id=33390",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-09T00:56:10+00:00",
+    "raw_excerpt": "저렴하게 실행하고 악성 요청을 거부하는 기능도 제거할 수 있는 오픈 웨이트 모델이 발전하면서, 공격자보다 먼저 취약점을 찾아 고칠 시간이 빠르게 줄고 있다 는 경고 현재 GLM 5.3-flash 의 실제 공격 자동화 수준은 불확실하지만, 1년 안에 최상위 모델...",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "저비용 오픈 웨이트 AI 모델의 발전으로 공격자가 악성 기능을 쉽게 제거할 수 있게 되면서, 보안 취약점 발견·해결 시간이 1년 내에 급격히 단축될 위험이 커지고 있다.",
+    "thumbnail": "https://social.news.hada.io/topic/33390?v=2793141166c390bc0ce0786e72c9ac96",
+    "score": 5.87,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "취약점"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "아티피셜 애널리시스 평가 체제 개편...'아스트라' 공동 1위로 상승",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=214973",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-08T11:58:15+00:00",
+    "raw_excerpt": "AI 모델의 성능을 평가하는 대표적인 지표 중 하나인 아티피셜 애널리시스의 '지능 지수(AAII)'가 실제 업무 환경을 반영하는 장기 에이전트 작업 중심으로 개편됐다. 새로운 평가 방식이 적용되면서 기존 평가에서 5위에 머물렀던 'GPT-6 아스트라'의 순위가 크게 상승해 '클로드 페이블 5.1'과 공동 1위에 올랐다.아티피셜 애널리시스는 6일(현지시간) 기존 벤치마크에서 나타난 단순한 편법이나 특정 데이터에 대한 편향, 최고 성능 모델 간 점수 포화 문제를 줄이고 실제 업무와 유사한 장기 에이전트 작업 수행 능력을 정밀하게 측정하",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "아티피셜 애널리시스의 AI 모델 평가 지표가 장기 에이전트 작업 중심으로 개편되면서 GPT-6 아스트라가 5위에서 클로드 페이블 5.1과 공동 1위로 상승했다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/214973_218734_04.png",
+    "score": 5.602,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "GPT-6 Astra를 위한 스킬과 프롬프트 다시 생각하기",
+    "url": "https://news.hada.io/topic?id=33404",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-09T03:00:03+00:00",
+    "raw_excerpt": "코딩 에이전트의 성능 향상으로 과거에 필요했던 세세한 유도와 보조 절차의 필요성이 줄어들었으며, GPT-6 Astra 에서는 누적된 Skills/AGENTS.md/작업 프롬프트를 재검토하는 일이 더욱 중요해짐 스킬 설명은 짧고 사용 조건이 명확해야 하며 , 여러 작업 흐름을 다...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "GPT-6 Astra의 향상된 코딩 에이전트 성능으로 인해 스킬과 프롬프트를 단순화하고 명확한 사용 조건 중심으로 재구성해야 한다.",
+    "thumbnail": "https://social.news.hada.io/topic/33404?v=cadacf19eea056342732691c56b7d095",
+    "score": 5.249,
+    "engagement": 0,
+    "matched_keywords": [
+      "프롬프트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "내 피드, 내 방식",
+    "url": "https://news.hada.io/topic?id=33402",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-09T02:52:06+00:00",
+    "raw_excerpt": "호주 Albanese 정부가 소셜미디어 연령 제한에 이어 디지털 주의 의무(Digital Duty of Care) 법안 초안 을 공개하고, 온라인 안전 기준과 이용자 선택권에 관한 이해관계자 의견 수렴에 나섬 My Feed, My Way 구상은 소셜미디어의 신규·기존 이용자 모두에게 기본 ...",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "호주 정부가 소셜미디어 플랫폼에 디지털 주의 의무를 부과하고 사용자의 피드 선택권을 보장하는 'My Feed, My Way' 법안을 추진 중입니다.",
+    "thumbnail": "https://social.news.hada.io/topic/33402?v=d8d0b6063755ddb02b5a1f4e3ed1537a",
+    "score": 5.241,
+    "engagement": 0,
+    "matched_keywords": [
+      "법안"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "한화오션, 태국 차세대 호위함 우선협 선정…약 6833억원 규모",
+    "url": "https://zdnet.co.kr/view/?no=20260909085748",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-08T23:57:48+00:00",
+    "raw_excerpt": "[지디넷코리아]한화오션이 태국 해군 신규 호위함 사업 우선협상대상자로 선정되며 추가 수주에 한 걸음 다가섰다.한화오션은 태국 왕립해군의 호위함 1척 건조 및 통합 군수지원 사업 우선협상대상자로 선정됐다고 9일 밝혔다. 통합 군수지원은 함정 운용에 필요한 정비와 보급 등을 종합적으로 지원하는 체계다.태국 해군이 공고에서 제시한 사업 금액은 167억 3000만 바트로, 원화 약 6833억원이다. 다만 이는 최종 계약 금액이 아니며, 구체적인 계약 조건은 향후 협상 결과에 따라 확정된다.우선협상대상자 선정은 계약 체결에 앞서 기술 사양과 사업 범위 등을 협의하는 단계다. 한화오션은 태국 해군과 세부 협상을 진행하며 안정적인 함정 건조와 사업 효율성을 확보할 수 있는 조건을 조율할 예정이다.이번 사업에는 한화오션 외에도 스페인, 싱가포르, 튀르키예 등의 방산업체들이 참여했다. 한화오션은 2018년 태국 해군에 첫 호위함인 ‘푸미폰 아둔야뎃’함을 인도한 경험과 함정 건조 기술력이 이번 선정의 기반이 됐다고 설명했다.정부와 군의 지원도 이어졌다. 국방부와 방위사업청, 해군은 양국 해군 간 교류와 양자대담 등을 통해 협력을 뒷받침했다. 한화오션은 한국 해군 순항훈련전단의 태국 기항과 코브라골드 연합훈련 등으로 쌓인 양국 간 신뢰도 사업 추진에 도움이 됐다고 평가했다.한화오션은 이번 선정을 계기로 태국과 장기적인 해양방산 협력 기반을 강화할 방침이",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "한화오션이 태국 해군 신규 호위함 건조 및 통합 군수지원 사업 우선협상대상자로 선정되며 약 6833억원 규모 수주 추진에 나섰다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/09/20ac1ca692a9359ed1f0a272c142b841.jpg",
+    "score": 5.228,
+    "engagement": 0,
+    "matched_keywords": [
+      "양자",
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Arm, 피지컬 AI 개발과 로봇 역량 정의 위한 생태계 협업 확대",
+    "url": "https://news.hada.io/topic?id=33364",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-08T14:07:19+00:00",
+    "raw_excerpt": "자율 시스템의 통합 복잡성 을 줄이기 위해 Arm이 80개 이상 기업이 참여하는 Arm Total Design for Physical AI 를 발표하고, 기술 스택 전반의 협업으로 개발을 가속함 AI 모델·소프트웨어·센서·컴퓨팅 하드웨어·가상 플랫폼·디지털 트윈을 연결해 조기 개...",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "Arm이 80개 이상 기업과 협력하여 피지컬 AI 개발을 위한 통합 생태계를 구축하고, 기술 스택 전반의 협업으로 자율 시스템 개발을 가속화하고 있다.",
+    "thumbnail": "https://social.news.hada.io/topic/33364?v=a6fd84049f239c3456975f9aaa460442",
+    "score": 5.194,
+    "engagement": 0,
+    "matched_keywords": [
+      "physical ai",
+      "피지컬 ai"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Show HN: Copperhead — 회로 기판을 위한 Cursor",
+    "url": "https://news.hada.io/topic?id=33397",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-09T01:59:51+00:00",
+    "raw_excerpt": "회로도와 문서가 따로 바뀌며 생기는 설계 불일치 를 줄이기 위해, 오픈소스 AI 엔지니어링 플랫폼 Copperhead 가 실제 KiCad 파일과 이를 참조하는 문서를 함께 수정함 자연어 요구사항부터 제조 출력물·펌웨어·개발 계획까지 8단계 파이프라인 으로...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "KiCad 파일과 문서를 함께 수정하는 오픈소스 AI 플랫폼 Copperhead가 회로 설계 불일치를 줄이고 자동화된 파이프라인으로 제조까지 지원한다.",
+    "thumbnail": "https://social.news.hada.io/topic/33397?v=ac0693a84e832aec68fca12999a0891b",
+    "score": 5.186,
+    "engagement": 0,
+    "matched_keywords": [
+      "cursor"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "We want to celebrate with people using GPT-6. We did this for GPT-5.5 and it was really fun.",
+    "url": "https://t.co/3LIMfGOBRQ",
+    "source": "X @sama",
+    "source_type": "x",
+    "published_at": "2026-09-08T19:21:01+00:00",
+    "raw_excerpt": "We want to celebrate with people using GPT-6. We did this for GPT-5.5 and it was really fun.\n\nWe’re getting together in SF on September 16 to talk about the model, what we should build next, and mostly just to hang out.\n\nApply by Sep 10:",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "OpenAI가 9월 16일 샌프란시스코에서 GPT-6 출시 기념 행사를 개최하며 참가자 모집을 시작했습니다.",
+    "thumbnail": "",
+    "score": 5.18,
+    "engagement": 439746,
+    "matched_keywords": [
+      "gpt-5"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "삼성전자, '프라이버시 디스플레이' 확대…S27 프로·울트라 적용",
+    "url": "https://www.etnews.com/20260908000267",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-09-09T01:15:04+00:00",
+    "raw_excerpt": "삼성전자가 '프라이버시 디스플레이'를 내년 신설하는 '갤럭시S27 프로' 모델까지 확대 적용한다. 갤럭시S27 시리즈 상위 라인업인 프로·울트라에 신기술을 도입, 기본 라인업인 일반·플러스와 차별화하고 소비자 수요를 유인하기 위해서다. 8일 업계에 따르면 삼성전자는 내년 갤럭시S27 울트라뿐 아니라 프로에도 삼성디스플레이 시야각 제어 기술 '플렉스 매직 픽셀(FMP)'이 적용된 유기발광다이오드(OLED) 패널을 탑재할 예정이다. FMP는 올해",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "삼성전자가 내년 출시하는 갤럭시S27 프로·울트라에 삼성디스플레이의 시야각 제어 기술 '플렉스 매직 픽셀'을 탑재한 프라이버시 디스플레이를 확대 적용한다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/08/27/news-p.v1.20260827.a1222bd0470d430580d086b4dfaffd75_P1.png",
+    "score": 5.14,
+    "engagement": 0,
+    "matched_keywords": [
+      "프라이버시"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "코스피, 개장 초반 7000선 공방…반도체 강세 지속",
+    "url": "https://www.etnews.com/20260909000052",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-09-09T00:38:55+00:00",
+    "raw_excerpt": "코스피가 반도체 강세에 힘입어 장 초반 7000선 주변을 오르내리며 출발했다. 코스닥도 1%대 상승세를 나타내며 시작했다. 한국거래소에 따르면 코스피는 9일 오전 9시 30분 전 거래일 대비 0.66% 오른 7000.69를 기록하고 있다. 코스닥은 10.14 상승한 822.02에 거래되고 있다. 전날 미국 반도체주 상승에 이어 한국 반도체주도 함께 오르고 있다. SK하이닉스는 1.51% 오른 182만원, 삼성전자는 0.09% 상승한 26만975",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "코스피가 반도체 강세에 힘입어 7000선 근처에서 장을 시작했으며, 코스닥도 1%대 상승세를 보이고 있다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/09/09/rcv.YNA.20260909.PYH2026090902870001300_P1.jpg",
+    "score": 5.102,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "구글, EU 규제에 검색결과 전면 개편…외부 여행·숙박 서비스 노출 확대",
+    "url": "https://www.etnews.com/20260909000038",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-09-09T00:28:52+00:00",
+    "raw_excerpt": "구글이 유럽연합(EU) 반독점 규제당국의 요구를 충족하기 위해 유럽 내 여행·숙박 검색 결과를 전면 개편했다. 자사에서 제공하던 숙박 서비스 노출을 중단하고 외부 온라인여행사(OTA) 등을 검색 결과 최상단에 배치했다. 지난 7월 구글이 자사 서비스를 우대해 EU 디지털시장법(DMA)을 위반했다는 EU 집행위원회 판단에 따른 후속 조치다. 8일(현지시간) 로이터에 따르면 구글은 이날부터 유럽경제지역(EEA) 접속자를 대상으로 여행·숙박 검색 결",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "구글이 EU의 반독점 규제를 받아 유럽 내 여행·숙박 검색결과에서 자사 서비스를 삭제하고 외부 온라인여행사를 최상단에 배치하는 개편을 단행했다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/09/09/news-p.v1.20260909.cf4da178822f4d0ea89cd687c9f4c633_P1.png",
+    "score": 5.091,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "2026년, 비밀번호 관리자 전환하기",
+    "url": "https://news.hada.io/topic?id=33381",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-09T00:26:42+00:00",
+    "raw_excerpt": "iPhone/iPad의 지원 앱끼리는 비밀번호·패스키·인증 코드·메모를 한꺼번에 이전 할 수 있어 비밀번호 관리자를 바꾸기 쉬워졌으며, 1Password에서 Apple Passwords로 100개 항목을 옮긴 사례도 있음 Credential Exchange Format 과 운영체제의 보안 전송 기능을 결합해...",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Apple Passwords 등 지원 앱 간 비밀번호·패스키·인증 코드를 한 번에 이전할 수 있게 되어 2026년부터 비밀번호 관리자 전환이 용이해진다.",
+    "thumbnail": "https://social.news.hada.io/topic/33381?v=c002cca181b85844cff668a0f53c505c",
+    "score": 5.089,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "I-have-ADHD - 코딩 에이전트가 답을 묻어두지 않게 하는 스킬",
+    "url": "https://news.hada.io/topic?id=33374",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-08T22:33:36+00:00",
+    "raw_excerpt": "코딩 도우미의 답변을 행동 우선 으로 바꿔, 서두 대신 바로 실행할 작업과 번호가 매겨진 절차 부터 전달하도록 만드는 스킬 “좋은 질문입니다!”와 “도움이 되었기를 바랍니다” 같은 문구를 빼고, 10가지 응답 규칙 으로 곁가지 설명과 반복을 ...",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "AI 코딩 에이전트가 불필요한 전치사와 설명을 제거하고 실행 가능한 단계를 먼저 제시하도록 프롬프트하는 \"I-have-ADHD\" 스킬이 개발되었습니다.",
+    "thumbnail": "https://social.news.hada.io/topic/33374?v=2482c8fa7f33e3749ccba4793c936938",
+    "score": 4.971,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "우정사업본부, N2SF로 내부 문서 외부 활용 넓힌다",
+    "url": "https://byline.network/2026/09/8-523/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-09-08T09:52:59+00:00",
+    "raw_excerpt": "우정사업본부(본부장 박인환)가 국가망보안체계(N2SF) 구축을 통해 내부 업무문서를 외부 회의와 원격 환경에서도 이용할 수 있는 체계를 만들고 있다. 민감(S)등급 문서 원본은 내부에 두고 외부에서는 승인된 단말로 필요한 문서를 열람하도록 하는 것이 핵심이다.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "우정사업본부가 N2SF 구축으로 민감등급 문서 원본은 내부에 보관하되 외부 단말에서 승인 후 열람 가능한 보안 체계를 구축 중이다.",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/09/INOTIUM12.jpg",
+    "score": 4.597,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "[카드뉴스] 비트코인, 살아남을까",
+    "url": "https://zdnet.co.kr/view/?no=20260908111240",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-08T11:26:13+00:00",
+    "raw_excerpt": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 최근 양자컴퓨터의 발전이 비트코인 보안을 위협할 수 있다는 우려가 나오고 있는데요. 놀랍게도 현재 유통되는 비트코인의 약 30%, 무려 604만 개가 해킹에 취약한 상태로 보관되고 있는 것으로 나타났어요. 특히 자물쇠 역할을 하는 암호화 방식의 종류에 따라 위험도가 크게 달라지는데요, 옛날 방식의 구형 자물쇠는 위험도가 100에 달하는 반면 표준 자물쇠는 30, 최신 자물쇠는 5 수준으로 안전성 차이가 뚜렷했어요. 비트코인은 지난 16년간 여러 고비를 넘겨왔지만, 이제 양자컴퓨터라는 가장 큰 시험대를 앞두고 있다고 해요.AI 패널들은 이 위기를 넘기기 위한 3가지 실천법을 제안했는데요. 오래된 지갑 주소를 새 주소로 옮기는 '주소 이사'는 필수이고, 매년 관련 보안 소식을 꾸준히 확인하며, 2028년까지 취약한 자산의 비중을 점진적으로 줄여나가는 것이 핵심이라고 강조했어요. 결국 진짜 문제는 도둑이 아니라, 이런 변화에 얼마나 빨리 합의하고 대응하느냐에 달려있다는 지적이에요. 작은 습관 하나가 소중한 자산을 지키는 큰 힘이 될 수 있겠죠? 자세한 내용은 AI의 눈 보고서에서 확인해보세요!▶ 해당 보고서 보기 https://ameet.zdnet.co.kr/uploads/3942c7e2.html▶ 지디넷코리아가 리바랩스 ‘AMEET’과 공동 제공하는 AI 활용 기사입니다. 더 많은 보고서",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "양자컴퓨터 위협에 비트코인 보유량의 30%가 취약한 상태이며, 지갑 주소 이사 등 2028년까지의 단계적 보안 강화가 필수다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/08/1d259644185bd17e1d48ff556bebbac7.png",
+    "score": 4.524,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "해킹"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "중기부, 글로벌 일류 지원 'K-소비재' 기업 188곳 선정",
+    "url": "https://zdnet.co.kr/view/?no=20260908230958",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-08T14:09:58+00:00",
+    "raw_excerpt": "[지디넷코리아]중소벤처기업부가 8일 2026년 K-수출전략품목 육성사업 지원대상으로 소비재 분야 188개 기업을 선정했다.K-수출전략품목 육성사업은 K-컬처 열풍 등에 힘입어 전 세계 곳곳에서 수요가 늘고 있는 뷰티 등 K-브랜드(소비재) 분야 혁신 제품들을 엄선해 글로벌 일류 상품으로 성장할 수 있도록 지원하는 사업이다.2024년 처음으로 뷰티와 푸드 분야 30개 기업의 제품들을 선정해 지원했다. 지난해에는 패션과 라이프 분야로 대상을 확대, 80개 기업 제품을 추가로 선정, 이들의 글로벌 시장 진출 확대를 지원했다.올해는 지난해와 마찬가지로 뷰티, 패션, 라이프, 푸드 등 4대 소비재 분야를 대상으로 기업을 모집했다. 총 983개 기업이 신청, 높은 관심을 보였다. 신청기업을 대상으로 외국인 소비자와 글로벌 유통 전문가들이 혁신성, 글로벌 확장 가능성, 현지 경쟁력 등을 종합 평가해 최종 188개 기업을 선정했다.선정기업 중 뷰티 분야에서는 발효 콩 추출물을 주성분으로 하는 ‘콩 에센스’ 제품으로 클린 뷰티 시장에서 빠르게 성장하고 있는 ‘파켓(브랜드명 믹순)’이 대표 기업 중 하나이다. ‘순수 원료 중심의 스킨케어’라는 철학에 기반해 미국, 일본, 동남아시아 지역 수출에 성공한 경험을 토대로 유럽을 넘어 중남미까지 진출 지역을 넓혀 나갈 예정이다.라이프 분야에서는 뛰어난 가성비와 다양한 제품군으로 국내 디퓨저 시장 점유율 1위를",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "중소벤처기업부가 K-컬처 열풍을 활용해 뷰티·패션·라이프·푸드 분야 소비재 기업 188곳을 선정, 글로벌 일류 상품으로 성장하도록 지원한다.",
+    "thumbnail": "https://image.zdnet.co.kr/2018/01/30/haeunsion_v97km7B9Tg.jpg",
+    "score": 4.002,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "휴네시온, N2SF '2·4' 모델 설계·구축 경험 공유",
+    "url": "https://zdnet.co.kr/view/?no=20260908224725",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-08T13:47:25+00:00",
+    "raw_excerpt": "[지디넷코리아]정보보안 전문기업 휴네시온(대표 정동섭)은 7~8일 열린 ‘AIDC 보안 기술 워크숍’에서 ‘한국부동산원 N2SF 도입전략’을 주제로 국가 망 보안체계(N2SF) 모델 '2·4'의 실제 적용 전략과 구축 방향을 발표했다. 국정원이 만든 N2SF 모델은 1~11까지 총 11개가 있다. 이번 워크숍은 한국사이버안보학회가 주최하고 한전KDN과 N2SF연구회가 공동 주관했다. 공공 AIDC 구축 및 보안 전략과 AIDC 보안 특화 기술 및 공급망 보안, 국가·공공기관의 N2SF 도입전략 등을 중심으로 산학연관 전문가들이 보안 기술과 적용 방안을 공유했다.휴네시온에서는 심재중 이사가 발표자로 나서 현재 수행 중인 ‘2026년 국가 망 보안체계(N2SF) 도입 지원사업’의 한국부동산원 적용 사례를 중심으로 모델 '2·4'의 구축 전략을 소개했다. 휴네시온은 해당 사업의 주관기업이다. 한국부동산원을 수요기관으로 한 컨소시엄을 총괄, 통합설계와 사업관리, 파일전송 연계체계 구축을 담당하고 있다.이번 발표에서 휴네시온은 N2SF 전환의 핵심을 단순히 업무망과 외부 서비스를 ‘연결하는 것’이 아니라 이용자·단말·서비스·정보등급·이용조건 등을 바탕으로 ‘무엇을 허용할 것인가’를 정의하는 과정으로 제시했다.특히 휴네시온은 ‘i-oneNet CDS(Transfer CDS)’를 기반으로 업무파일의 반출·반입을 통제하고, 파일 유형과 정보등급, ",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "휴네시온이 국가 망 보안체계 N2SF 모델 '2·4'를 한국부동산원에 적용한 설계·구축 전략을 워크숍에서 공유했습니다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/08/b1ed4fe4b6c888937f2aed09e21b0b64.png",
+    "score": 3.981,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "액셀리스, 한국 평택에 신규 제조 시설 건설",
+    "url": "https://zdnet.co.kr/view/?no=20260908221002",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-08T13:10:02+00:00",
+    "raw_excerpt": "[지디넷코리아] 베벌리, 매사추세츠, 2026년 9월 8일 /PRNewswire/ -- 반도체 산업용 핵심 이온 주입 솔루션의 선도적인 공급업체인 액셀리스 테크놀로지스(Axcelis Technologies, Inc.)(Nasdaq: ACLS)는 오늘 한국 경기도 평택에 신규 이온 주입 장비 제조시설을 건설해 글로벌 제조 인프라에 미화 3500만 달러를 투자할 계획이라고 발표했다. Robert Mahoney, Axcelis’ EVP of Global Operations, with Kim Jeong-kwan, Minister of Trade, Industry and Energy, at the recent U.S. Investment Filing Ceremony and Roundtable event held in Washington, D.C. 액셀리스의 러셀 로우(Russell Low) 사장 겸 최고경영자(CEO)는 \"이번 투자는 글로벌 대량생산 제조 인프라를 강화하고 전 세계 고객에게 서비스를 제공하는 데 필요한 역량을 확대하려는 액셀리스의 지속적인 의지를 반영한다. 이온 주입기는 반도체 전공정에서 가장 중요한 장비 중 하나다. 한국에서 이미 구축한 사업 기반을 바탕으로 평택 신규 시설은 증가하는 글로벌 반도체 수요에 대응하는 당사의 역량을 한층 강화할 것이다\"라고 말했다. 평택 부지는 총 연면적 약 20만 제곱피트 규모로 조성될 예정이",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "반도체 장비 제조업체 액셀리스가 한국 평택에 3,500만 달러를 투자해 이온 주입 장비 제조시설을 신설하며 글로벌 생산 역량을 강화한다.",
+    "thumbnail": "https://mmx.prnasia.com/media/MS1983075/Mahoney_Korea_Invest_2026.jpg?id=OA2934172&p=medium600",
+    "score": 3.946,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "스파이록스, 유리 기판 양산 검사를 지원하는 고속 TGV 크랙 검사 시스템 출시",
+    "url": "https://zdnet.co.kr/view/?no=20260908201013",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-08T11:10:13+00:00",
+    "raw_excerpt": "[지디넷코리아]신주, 2026년 9월 8일 /PRNewswire/ -- 스파이록스(Spirox, TWSE: 3055)가 9월 8일 첨단 패키징 기술 포럼(Advanced Packaging Technology Forum)을 개최해 코닝(Corning)과 DNP의 전문가들을 한자리에 모아 차세대 AI 및 HPC 응용 분야를 위한 글래스코어(Glass Core), TGV, 신뢰성 및 검사 기술에 대한 인사이트를 공유했다. 스파이록스는 또한 SP7000G 고속 TGV 크랙 검사 시스템을 공개해 글래스코어 및 TGV 양산을 위한 자사의 검사 솔루션을 강화했다. Spirox hosted the “2026 Advanced Packaging Technology Forum,” focusing on the development and challenges of Glass Core and TGV technologies for next-generation AI/HPC applications. Pictured from left to right are Paul Yang, and Peter Chin of Spirox; Odessa Petzold of Corning; Satoru Kuramochi of DNP; Dandy Yeh of GIGABYTE; and Jack Chen of Spirox. AI, HPC 및 HBM이 첨단 패키징 발전을 가속함에 따라 글래스코",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "스파이록스가 AI/HPC 칩 패키징용 유리 기판의 양산 검사를 지원하는 SP7000G 고속 TGV 크랙 검사 시스템을 출시했다.",
+    "thumbnail": "https://mmx.prnasia.com/media/MS1983341/20260908051107EDT_image_1.jpg?id=OA2935017&p=medium600",
+    "score": 3.834,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "김창식 삼성전자 부사장 \"변리사법 개정안 조속히 통과돼야\"",
+    "url": "https://zdnet.co.kr/view/?no=20260908200830",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-08T11:08:30+00:00",
+    "raw_excerpt": "[지디넷코리아]김창식 한국지식재산협회(KINPA) 수석부회장(삼성전자 IP팀장 부사장)이 \"주요 선진국에서 시행 중인 변리사 비밀유지권은 기업과 변리사의 적극적인 소통을 지원해 강력한 특허 창출에 힘이 될 것\"이라며 \"우리 기업들이 견고한 지식재산 경쟁력을 갖추도록 변리사법 개정안이 조속히 통과되기를 바란다\"고 밝혔다. 김창식 수석부회장은 8일 서울 여의도 국회의원회관에서 열린 '중소·벤처기업의 첨단기술, 어떻게 지킬 것인가?' 간담회에서 이처럼 말했다. 간담회는 KINPA와 이노비즈협회(중소기업기술혁신협회), 국회 산업통상자원 중소벤처기업위원회 김종민 의원(무소속·세종갑) 등이 개최했다. 지난 3월 국회 산자위를 통과한 변리사법 개정안에는 변리사 비밀유지권 제도 도입이 포함됐다. 앞서 대한변리사회는 변리사 비밀유지권에 대해 \"변리사와 법률소비자 사이에서 업무 수행을 목적으로 이뤄진 비밀 의사교환 내용과 사건 수행 과정에서 작성한 서류·자료 등에 대해 법적 절차 중 비밀을 요구할 수 있는 내용\"이라고 밝혔다. 변리사회는 \"비밀유지권을 통해 법률소비자는 특허침해소송 등 분쟁에서 안심하고 변리사에게 전문적인 자문과 조력을 받을 수 있을 것\"이라고 기대했다. 해당 변리사법 개정안은 각각 발의된 법안 2건(김종민 의원 대표발의, 박상웅 의원 대표발의)을 통합·조정해 마련한 위원회 대안이다. 이날 간담회에서 정광천 이노비즈협회 회장은 \"그동안",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "삼성전자 부사장이 변리사 비밀유지권을 도입하는 변리사법 개정안의 조속한 통과를 촉구하며, 이를 통해 기업의 지식재산 경쟁력 강화가 가능하다고 주장했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/08/0d244aafda8403642fbc9cf91c711db8.png",
+    "score": 3.832,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Harvard study predicts most suicide attempts a week in advance",
+    "url": "https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-09T02:07:13+00:00",
+    "raw_excerpt": "Article URL: https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance Comments URL: https://news.ycombinator.com/item?id=49619906 Points: 65 # Comments: 23",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "하버드 연구팀이 자살 시도의 70% 이상을 1주일 전에 예측할 수 있는 방법을 개발했다.",
+    "thumbnail": "",
+    "score": 2.77,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "27.5KB language-agnostic WebGPU syntax highlighter",
+    "url": "https://gpu-lexer.vercel.app/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-09T01:14:50+00:00",
+    "raw_excerpt": "Article URL: https://gpu-lexer.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49619464 Points: 17 # Comments: 4",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "WebGPU 문법을 강조하는 27.5KB 크기의 언어 독립적 신택스 하이라이터가 개발되었다.",
+    "thumbnail": "",
+    "score": 2.741,
+    "engagement": 0,
+    "matched_keywords": [
+      "gpu"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "A Topological Picture Book, Rendered",
+    "url": "https://e-infinity.space/picture-book/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-08T22:28:14+00:00",
+    "raw_excerpt": "Article URL: https://e-infinity.space/picture-book/ Comments URL: https://news.ycombinator.com/item?id=49618050 Points: 60 # Comments: 7",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "위상수학 개념을 시각적으로 표현한 그림책이 공개되어 추상적인 수학 이론을 직관적으로 이해할 수 있게 되었다.",
+    "thumbnail": "",
+    "score": 2.648,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "How to build a printer",
+    "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-08T21:22:11+00:00",
+    "raw_excerpt": "Article URL: https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/ Comments URL: https://news.ycombinator.com/item?id=49617255 Points: 164 # Comments: 37",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "프린터 제작 방법을 다룬 기술 블로그 글이 해커 뉴스 첫 페이지에 올라 개발자들의 관심을 받고 있다.",
+    "thumbnail": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/og.png",
+    "score": 2.612,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  }
+]
