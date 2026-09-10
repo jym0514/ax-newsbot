@@ -1,0 +1,821 @@
+[
+  {
+    "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+    "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-09-10T16:00:00+00:00",
+    "raw_excerpt": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for a",
+    "thumbnail": "",
+    "score": 7.27,
+    "engagement": 0,
+    "matched_keywords": [
+      "codex",
+      "chatgpt"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+    "url": "https://openai.com/index/expanding-ai-access-us-government",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-09-10T07:00:00+00:00",
+    "raw_excerpt": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 licens",
+    "thumbnail": "",
+    "score": 6.539,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Top AI spenders cut per-employee costs by nearly 10 percent in August",
+    "url": "https://the-decoder.com/top-ai-spenders-cut-per-employee-costs-by-nearly-10-percent-in-august/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-09-10T09:34:21+00:00",
+    "raw_excerpt": "The Ramp AI Index for September 2026 shows AI spending per employee among the top 1 percent of US companies fell nearly 10 percent in August. The price per million tokens has dropped 41 percent since March 2026, and companies are actively shifting usage away from expensive frontier models toward cheaper alternatives. For providers like OpenAI and Anthropic, the question is whether volume growth is fast enough to make up for falling prices. The article Top AI spenders cut per-employee costs by nearly 10 percent in August appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "The Ramp AI Index for September 2026 shows AI spending per employee among the top 1 percen",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2024/10/money_neural_network.png",
+    "score": 6.535,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai",
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+    "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-09-10T20:57:30+00:00",
+    "raw_excerpt": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by Chi",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2287646148.jpg?resize=1200,901",
+    "score": 6.492,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+    "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-09-10T19:50:04+00:00",
+    "raw_excerpt": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta A",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
+    "score": 6.415,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "meta ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+    "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-09-10T17:54:44+00:00",
+    "raw_excerpt": "Come inside the mind of a bot trying to convince the internet it's human.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Come inside the mind of a bot trying to convince the internet it's human.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1356934365-e1695303681636.jpg?resize=1200,676",
+    "score": 6.283,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Now everyone can put data to work",
+    "url": "https://openai.com/index/put-data-to-work",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-09-10T15:00:00+00:00",
+    "raw_excerpt": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build int",
+    "thumbnail": "",
+    "score": 6.214,
+    "engagement": 0,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Swarmchasers hunt rogue agents, Anthropic investigates itself, and the trail they both follow is going dark",
+    "url": "https://the-decoder.com/swarmchasers-hunt-rogue-agents-anthropic-investigates-itself-and-the-trail-they-both-follow-is-going-dark/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-09-10T16:33:44+00:00",
+    "raw_excerpt": "Independent investigators have now found traces of suspected OpenAI agents on more than 30 public services, from wikis to RubyGems. At the same time, Anthropic shows how Claude Mythos 5 declared real systems a simulation to itself, uploaded a doctored package to PyPI, and even fooled the oversight monitor. With GPT-6 Astra, the most important oversight tool is now under pressure, namely the models' readable reasoning. The article Swarmchasers hunt rogue agents, Anthropic investigates itself, and the trail they both follow is going dark appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Independent investigators have now found traces of suspected OpenAI agents on more than 30",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/Anthropic-Natural-language-autoencoders-1200x675.png",
+    "score": 6.19,
+    "engagement": 0,
+    "matched_keywords": [
+      "openai",
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Former Deepmind PR staffer says the lab once banned public discussion of AI extinction risk",
+    "url": "https://the-decoder.com/former-deepmind-pr-staffer-says-the-lab-once-banned-public-discussion-of-ai-extinction-risk/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-09-10T16:31:02+00:00",
+    "raw_excerpt": "A former Google DeepMind spokesperson says talk of AI-driven human extinction was \"external communication about the possibility of human extinction was not permitted, by anyone, at any level of the organization.\" Internally, the team knew AI alignment was not solved, according to Vishal Maini. The article Former Deepmind PR staffer says the lab once banned public discussion of AI extinction risk appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "A former Google DeepMind spokesperson says talk of AI-driven human extinction was \"externa",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/google_deepmind-1200x670.png",
+    "score": 6.187,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "deepmind"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "GPT-6 Astra gives mathematicians a breather, and OpenAI says that's by design",
+    "url": "https://the-decoder.com/gpt-6-astra-gives-mathematicians-a-breather-and-openai-says-thats-by-design/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-09-10T13:45:32+00:00",
+    "raw_excerpt": "OpenAI's GPT-6 Astra tops the ErdosBench for open math problems, even though chief scientist Jakub Pachocki says math was deliberately not a priority. Instead, OpenAI is pouring resources into recursive self-improvement and alignment research. That supports the theory of an increasingly \"spiky\" AI development path, with extreme strength in select domains rather than broad progress, at least as long as AI can't improve itself and still needs targeted optimization with human-generated data. The article GPT-6 Astra gives mathematicians a breather, and OpenAI says that s by design appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI's GPT-6 Astra tops the ErdosBench for open math problems, even though chief scienti",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/openai_gpt6_astra.png",
+    "score": 5.997,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Muse can shop, write emails, and negotiate prices for users, all through WhatsApp",
+    "url": "https://the-decoder.com/muse-can-shop-write-emails-and-negotiate-prices-for-users-all-through-whatsapp/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-09-10T12:27:18+00:00",
+    "raw_excerpt": "Meta unveils Muse, an AI agent that books travel, handles purchases, and sends emails through WhatsApp, complete with a payment feature that runs through Stripe's Link. That puts Meta ahead of OpenAI, which stopped its direct checkout feature in ChatGPT. A separate security agent called Sentinel monitors every action before it reaches the internet. The article Muse can shop, write emails, and negotiate prices for users, all through WhatsApp appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Meta unveils Muse, an AI agent that books travel, handles purchases, and sends emails thro",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/muse-01-hero.jpg",
+    "score": 5.908,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Nvidia and Palantir team up to run supply chains with AI, starting with Nvidia's own million-part operation",
+    "url": "https://the-decoder.com/nvidia-and-palantir-team-up-to-run-supply-chains-with-ai-starting-with-nvidias-own-million-part-operation/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-09-10T12:23:16+00:00",
+    "raw_excerpt": "Nvidia and Palantir want to run supply chains with AI. The article Nvidia and Palantir team up to run supply chains with AI, starting with Nvidia s own million-part operation appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Nvidia and Palantir want to run supply chains with AI. The article Nvidia and Palantir tea",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/palantir-nvidia-logo-teaser.jpg",
+    "score": 5.903,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "nvidia"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Introducing ChatGPT for Financial Services",
+    "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-09-10T07:00:00+00:00",
+    "raw_excerpt": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 As",
+    "thumbnail": "",
+    "score": 5.564,
+    "engagement": 0,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Claude Fable 5.1's language is less \"load-bearing\" than its predecessor's",
+    "url": "https://the-decoder.com/claude-fable-5-1s-language-is-less-load-bearing-than-its-predecessors/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-09-10T15:26:58+00:00",
+    "raw_excerpt": "Arena.ai analyzed how Claude's writing changed from Fable 5 to Fable 5.1 across tens of thousands of benchmark responses. Fable 5.1 writes more matter-of-fact but also more verbose. The article Claude Fable 5.1 s language is less load-bearing than its predecessor s appeared first on The Decoder .",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Arena.ai analyzed how Claude's writing changed from Fable 5 to Fable 5.1 across tens of th",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude_design.png",
+    "score": 5.289,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Maven Robotics wants to steal your robot deployment deal",
+    "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-09-10T14:17:37+00:00",
+    "raw_excerpt": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployme",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/09/Hamza-Khalid-2-1.jpg?resize=800,1200",
+    "score": 5.209,
+    "engagement": 0,
+    "matched_keywords": [
+      "robotics"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Introducing the Agents API",
+    "url": "https://openai.com/index/introducing-the-agents-api",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-09-10T00:00:00+00:00",
+    "raw_excerpt": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex",
+    "thumbnail": "",
+    "score": 4.995,
+    "engagement": 0,
+    "matched_keywords": [
+      "tool use"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "한국양자산업협회, 양자기업과 투자기관 잇다…퀀텀엑스포 IR 피칭데이",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41864",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-10T21:16:00+00:00",
+    "raw_excerpt": "‘국제양자산업대전 2026(Quantum Expo Korea 2026)’에서 한국양자산업협회(회장 김성혁. KQIA)가 양자기업의 투자 유치를 지원하기 위해 국내외 투자기관과의 만남을 마련했다. 10일, 서울 삼성동 코엑스에서 열린 ‘양자테크 IR 피칭데이’에는 양자기업 6곳이 참여해 제품 판매 현황과 개발 일정, 고객 확보 방안, 투자 유치 계획을 발표했다.협회는 전시회의 핵심 가치인 ‘기술→사업→투자’에 맞춰 이번 프로그램을 준비했다. 양자기업과 투자기관의 교류를 확대하고 사업화에 필요한 투자 기회를 제공한다는 취지로, 기업 피",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "‘국제양자산업대전 2026(Quantum Expo Korea 2026)’에서 한국양자산업협회(회장 김성혁. KQIA)가 양자기업의 투자 유치를 지원하기 위해 국내",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41864_62967_563_v150.jpg",
+    "score": 4.737,
+    "engagement": 0,
+    "matched_keywords": [
+      "양자",
+      "quantum"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "최태원 회장, AX 현장경영… ‘AI 풀스택 프로바이더’ 실행 현황 확인",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41862",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-10T20:03:41+00:00",
+    "raw_excerpt": "최태원 SK그룹 회장이 10일, 국내 제조 현장을 찾아 인공지능 전환(AX)의 실행 현황을 점검한다. AI 인프라 구축부터 제조 현장의 AX까지 이어지는 ‘AI 풀스택 프로바이더’ 전략 추진 현황을 직접 확인하는 자리다.SK그룹은 최 회장이 이날 SK AI 데이터센터 울산과 SK이노베이션 울산CLX(Complex)를 잇달아 방문해 현장경영에 나선다고 밝혔다.현장에는 장용호 SK이노베이션 총괄사장과 정재헌 SK텔레콤 사장, 윤병석 SK가스 사장, 김원기 SK엔무브 사장, 김종화 SK에너지 겸 SK지오센트릭 사장, 김성수 SK브로드밴드",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "최태원 SK그룹 회장이 10일, 국내 제조 현장을 찾아 인공지능 전환(AX)의 실행 현황을 점검한다. AI 인프라 구축부터 제조 현장의 AX까지 이어지는 ‘AI",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41862_62966_318_v150.jpg",
+    "score": 4.677,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장",
+      "ax"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "LinkedIn beats \"BrowserGate\" lawsuits over scanning users' Chrome extensions",
+    "url": "https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/",
+    "source": "Ars Technica",
+    "source_type": "rss",
+    "published_at": "2026-09-10T20:55:29+00:00",
+    "raw_excerpt": "Judge tosses lawsuits, says plaintiffs didn't allege any real privacy violation.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Judge tosses lawsuits, says plaintiffs didn't allege any real privacy violation.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/linkedin-headquarters-1152x648-1789072079.jpg",
+    "score": 4.635,
+    "engagement": 0,
+    "matched_keywords": [
+      "privacy"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "네이버클라우드가 그리는 소버린 AI, 다음 무대는 ‘사이버보안’",
+    "url": "https://byline.network/2026/09/10-719/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-09-10T21:00:46+00:00",
+    "raw_excerpt": "네이버클라우드는 소버린 AI의 다음 무대로 사이버보안을 택하고, 정부의 ‘사이버 보안 특화 AI 파운데이션 모델’ 사업을 통해 국내에서 통제 가능한 보안 AI 구축에 나선다. 하이퍼클로바X와 LG AI연구원의 엑사원을 각각 보안에 특화하고, 공격·방어 툴체인과 현장 데이터를 결합해 실제 보안 업무에 쓸 수 있는 모델을 만드는 것이 목표다. 네이버클라우드는 33개 기관 컨소시엄과 함께 공공·금융·국가 핵심시설에서 실증하고, 이후 클라우드 유통망과 해외 소버린 AI 사업으로 확장할 계획이다.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "네이버클라우드는 소버린 AI의 다음 무대로 사이버보안을 택하고, 정부의 ‘사이버 보안 특화 AI 파운데이션 모델’ 사업을 통해 국내에서 통제 가능한 보안 AI 구",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/09/NAVER-CLOUD33.jpg",
+    "score": 4.331,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "사이버 보안"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "앤트로픽, 클로드 API 비용 절감법 공개…‘지침 부채’ 없애고 캐싱 활용",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215093",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-10T18:15:33+00:00",
+    "raw_excerpt": "앤트로픽이 '클로드' API 비용을 줄이는 방법을 공개했다. 단순히 더 저렴한 모델로 교체하거나 프롬프트를 줄이는 방식이 아니라, 실제 작업 수행에 필요한 컴퓨팅 자원만 사용하는 것이 핵심이다.앤트로픽은 8일(현지시간) AI 애플리케이션의 성능을 유지하면서 클로드 API 운영 비용을 낮출 수 있는 최적화 가이드 3가지를 공개했다. 토큰 1개당 비용이 얼마인지만 볼 게 아니라, 실제 작업 하나를 제대로 성공시키는 데 총 얼마가 들었냐를 따져봐야 진짜 비용을 아낄 수 있다는 것이 핵심이다. 동일한 입력을 반복 처리하거나, 이전 모델의",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "앤트로픽이 '클로드' API 비용을 줄이는 방법을 공개했다. 단순히 더 저렴한 모델로 교체하거나 프롬프트를 줄이는 방식이 아니라, 실제 작업 수행에 필요한 컴퓨팅",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215093_218897_3443.png",
+    "score": 4.319,
+    "engagement": 0,
+    "matched_keywords": [
+      "프롬프트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "NTSB Issues Investigative Update on B-767 Runway Excursion Accident in Miami",
+    "url": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-10T21:30:55+00:00",
+    "raw_excerpt": "Article URL: https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx Comments URL: https://news.ycombinator.com/item?id=49650418 Points: 20 # Comments: 15",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx Comments U",
+    "thumbnail": "",
+    "score": 4.15,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "The part of Navier-Stokes no one is talking about",
+    "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-10T21:22:59+00:00",
+    "raw_excerpt": "Article URL: https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/ Comments URL: https://news.ycombinator.com/item?id=49650326 Points: 78 # Comments: 55",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/ Comments",
+    "thumbnail": "",
+    "score": 4.143,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Bodily Oddities",
+    "url": "https://vester.si/bodily-oddities/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-10T20:33:11+00:00",
+    "raw_excerpt": "Article URL: https://vester.si/bodily-oddities/ Comments URL: https://news.ycombinator.com/item?id=49649789 Points: 11 # Comments: 12",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://vester.si/bodily-oddities/ Comments URL: https://news.ycombinator.com",
+    "thumbnail": "https://vester.si/bodily-oddities/og/home.png",
+    "score": 4.101,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Creativity is the New Moat",
+    "url": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-10T19:03:34+00:00",
+    "raw_excerpt": "Article URL: https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat Comments URL: https://news.ycombinator.com/item?id=49648732 Points: 98 # Comments: 53",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat Comme",
+    "thumbnail": "https://www.inventbuild.studio/images/ibs-open-graph.png",
+    "score": 4.027,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "LG CNS, AI·로보틱스 등 세 자릿수 대규모 인재 채용 나서",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215078",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-10T11:55:55+00:00",
+    "raw_excerpt": "LG CNS(대표 현신균)는 AI·로보틱스 등 9개 직무 분야에서 세 자릿수 규모의 하반기 신입사원을 채용한다고 10일 밝혔다.14일까지 진행되는 이번 채용은 ▲AI ▲로보틱스 ▲컨설팅 ▲DX 엔지니어 ▲클라우드 AM(앱 현대화) ▲아키텍트 ▲ERP ▲스마트팩토리 ▲컨버전스 엔지니어 등 주요 사업 전반에 걸쳐 진행된다.AI 직무는 고객 비즈니스에 최적화된 AI 모델과 서비스를 설계·구현하며, 금융·공공·제조·물류 등 산업 영역에 특화된 에이전틱 AI 서비스를 기획하는 역할을 맡는다.로보틱스 직무는 자체 로봇 학습·운영 통합 플랫폼",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "LG CNS(대표 현신균)는 AI·로보틱스 등 9개 직무 분야에서 세 자릿수 규모의 하반기 신입사원을 채용한다고 10일 밝혔다.14일까지 진행되는 이번 채용은 ▲",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215078_218845_5949.jpg",
+    "score": 3.976,
+    "engagement": 0,
+    "matched_keywords": [
+      "로보틱스"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "JEP 544: Ahead-of-Time Code Compilation",
+    "url": "https://openjdk.org/jeps/544",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-10T17:30:39+00:00",
+    "raw_excerpt": "Article URL: https://openjdk.org/jeps/544 Comments URL: https://news.ycombinator.com/item?id=49647404 Points: 54 # Comments: 22",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://openjdk.org/jeps/544 Comments URL: https://news.ycombinator.com/item?",
+    "thumbnail": "",
+    "score": 3.949,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Music Theory for the 21st-Century Classroom",
+    "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-10T17:14:12+00:00",
+    "raw_excerpt": "Article URL: https://musictheory.pugetsound.edu/mt21c/MusicTheory.html Comments URL: https://news.ycombinator.com/item?id=49647134 Points: 116 # Comments: 58",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://musictheory.pugetsound.edu/mt21c/MusicTheory.html Comments URL: https",
+    "thumbnail": "",
+    "score": 3.936,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1",
+    "url": "https://tokenstead.ai/models/swe-2",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-10T16:52:11+00:00",
+    "raw_excerpt": "Article URL: https://tokenstead.ai/models/swe-2 Comments URL: https://news.ycombinator.com/item?id=49646778 Points: 46 # Comments: 22",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://tokenstead.ai/models/swe-2 Comments URL: https://news.ycombinator.com",
+    "thumbnail": "https://tokenstead.ai/og/models/swe-2.png",
+    "score": 3.917,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Forgejo <=16.0.3 Critical RCE",
+    "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-10T15:57:40+00:00",
+    "raw_excerpt": "Article URL: https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md Comments URL: https://news.ycombinator.com/item?id=49645907 Points: 122 # Comments: 47",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-publish",
+    "thumbnail": "",
+    "score": 3.872,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Silicon Valley Is Transforming the Military-Industrial Complex",
+    "url": "https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-10T15:47:50+00:00",
+    "raw_excerpt": "Article URL: https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex Comments URL: https://news.ycombinator.com/item?id=49645754 Points: 129 # Comments: 243",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are",
+    "thumbnail": "",
+    "score": 3.864,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Neki",
+    "url": "https://planetscale.com/blog/introducing-neki",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-10T15:43:49+00:00",
+    "raw_excerpt": "Article URL: https://planetscale.com/blog/introducing-neki Comments URL: https://news.ycombinator.com/item?id=49645686 Points: 178 # Comments: 72",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://planetscale.com/blog/introducing-neki Comments URL: https://news.ycom",
+    "thumbnail": "https://planetscale.com/assets/introducing-neki-social-O6Jxs-bC.png",
+    "score": 3.86,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "티빙 3954만 계정 유출…문제는 ‘해킹 기술’이 아니라 내부 통제였다",
+    "url": "https://news.hada.io/topic?id=33482",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-10T14:08:59+00:00",
+    "raw_excerpt": "기사에 따르면 이번 사태는 사고는 알려지지 않은 고난도 취약점 하나가 뚫리면서 발생한 사고라기보다 접속키 관리 등 기업이 기본적으로 갖춰야 할 정보보호 체계가 여러 단계에서 동시에 작동하지 않은 사고라는 점에서 무겁게 볼 필요가 있음. 공격자는 5월 29일부터 31일 사이 티빙 개발자가 보유...",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "기사에 따르면 이번 사태는 사고는 알려지지 않은 고난도 취약점 하나가 뚫리면서 발생한 사고라기보다 접속키 관리 등 기업이 기본적으로 갖춰야 할 정보보호 체계가 여",
+    "thumbnail": "https://social.news.hada.io/topic/33482?v=2b82075b18bb64d26006a5d1f559d947",
+    "score": 3.651,
+    "engagement": 0,
+    "matched_keywords": [
+      "취약점",
+      "해킹"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "민병덕 \"디지털자산기본법, 연내 만들어질 것\"…업계 \"토큰화·월렛 규율도\"",
+    "url": "https://zdnet.co.kr/view/?no=20260910170630",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-10T08:14:50+00:00",
+    "raw_excerpt": "[지디넷코리아]스테이블코인 제도화, 블록체인 인프라 도입 등을 골자로 한 디지털자산기본법 입법이 연내 결론에 이를 것이란 전망이 나왔다. 전문가들은 법 제정과 함께 핀테크·금융사 시장 참여와 가상자산 현물 상장지수펀드(ETF) 도입을 위한 규율을 마련해야 한다고 제언했다.민병덕 더불어민주당 의원은 10일 서울 여의도 포스트타워에서 열린 ‘디지털자산 금융 혁신 사례와 대응전략’ 세미나에서 “단언컨대 올해 안에는 디지털자산기본법이 만들어질 수밖에 없다”며 “모두가 동의하고 있는 상태이며, 어떻게 만들지가 문제”라고 밝혔다.이어 “이달 중 공청회를 열고 국정감사가 끝나는 11월께 본격적인 법안소위가 진행될 것”이라며 “12월 말에서 내년 1월 초까지는 결론이 날 것”이라고 말했다.앞서 이달 초 민주당 소속 유동수 국회 정무위원장이 정부안을 토대로 디지털자산기본법 통합안을 발의할 것으로 알려졌다. 다만 현재까지 정무위를 비롯한 여당에서 구체적인 입법 움직임은 나타나지 않고 있다.민 의원은 가상자산 거래소 대주주 지분 제한과 은행 중심 원화 스테이블코인 컨소시엄 등 일부 쟁점에 대해서는 아직 합의가 이뤄지지 않았다고 설명했다. 그러면서도 산업 발전을 위해 조속한 입법을 강조했다.그는 “100점짜리가 아니더라도 70점짜리 법을 만들어 빨리 발전하고, 내용을 충분히 이해하지 못한 사람들을 현실적으로 이해시키면서 변화해 나가야 한다”고 말했다.디지",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "[지디넷코리아]스테이블코인 제도화, 블록체인 인프라 도입 등을 골자로 한 디지털자산기본법 입법이 연내 결론에 이를 것이란 전망이 나왔다. 전문가들은 법 제정과 함",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/10/1d89ee03061b1cfecc3565c280697ce1.jpg",
+    "score": 3.515,
+    "engagement": 0,
+    "matched_keywords": [
+      "법안",
+      "입법",
+      "스테이블코인"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "ChatGPT Pro 구독 일시중단",
+    "url": "https://news.hada.io/topic?id=33500",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-10T22:06:06+00:00",
+    "raw_excerpt": "Tibo 예고대로 200달러 플랜의 일시중단 100달러 플랜과 기존 구독자는 아무런 영향이 없음 ...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Tibo 예고대로 200달러 플랜의 일시중단 100달러 플랜과 기존 구독자는 아무런 영향이 없음 ...",
+    "thumbnail": "https://social.news.hada.io/topic/33500?v=34fa135f3bc0fb973d4fcaf58fe08d31",
+    "score": 3.482,
+    "engagement": 0,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "중기부 선정 '기후테크' 최고혁신상...기가에떼와 더오리진",
+    "url": "https://zdnet.co.kr/view/?no=20260910231316",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-10T14:13:16+00:00",
+    "raw_excerpt": "[지디넷코리아]중기부가 주관한 '모두의 챌린지 기후테크'에서 최고혁신상을 기가에떼와 더 오리진(The Origin) 두 회사가 받았다. 중기부는 10일 제주 카카오 스페이스닷원에서 '모두의 챌린지 기후테크' 파이널 피칭을 개최했다.'모두의 챌린지 기후테크'는 기후분야 우수 창업기업을 발굴해 육성해야한다는 중기부와 한국과학기술원(KAIST)의 공감대에서 출발했다. 한국과학기술원(KAIST)이 올해 5월 기업 모집을 시작해 서류심사와 1차 오디션을 통해 20개팀을 선발했고, 카이스트 석･박사 전문인력이 팀별로 매칭, 사업 고도화를 거쳐 이번 파이널 피칭을 한 10개팀을 확정했다.파이널 피칭은 한국과학기술원(KAIST)에서 선정한 최종 10개 팀을 두 개 리그로 나눠 진행했다. 예비창업자가 기후문제 해결 아이디어를 겨루는 ‘일반리그’와, 기후테크 창업기업이 참여하는 ‘스타트업리그’로 나눠 진행했다. 이날 파이널 피칭으로 각자의 기후 분야 혁신 기술을 발표했다.피칭 결과, ‘일반리그’에서는 광합성 미생물을 활용하여 CO2를 포집하고 생분해성 플라스틱(PHA)을 생산하는 탄소저감 소재 개발을 주제로 발표한 The Origin(대표 심건우)이, ‘스타트업리그’에서는 수평 열성층 기술이 적용된 산업 열을 무탄소화하는 정온 열에너지저장시스템을 주제로 발표한 기가에떼(대표 박훈진)가 각각 1위에 올랐다.이어 혁신상 4개팀, 우수상 4개팀을 선정, 1",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "[지디넷코리아]중기부가 주관한 '모두의 챌린지 기후테크'에서 최고혁신상을 기가에떼와 더 오리진(The Origin) 두 회사가 받았다. 중기부는 10일 제주 카카",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/10/8e01cc7c2746df753a0d719a9d7962bd.png",
+    "score": 3.289,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업",
+      "혁신 기술"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "휴네시온, NAC 솔루션 ‘i-oneNAC V3.0’ CC인증 획득",
+    "url": "https://zdnet.co.kr/view/?no=20260910225925",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-10T13:59:25+00:00",
+    "raw_excerpt": "[지디넷코리아]정보보안 전문기업 휴네시온의 네트워크 접근제어(Network Access Control, NAC) 솔루션 ‘i-oneNAC V3.0’이 CC(Common Criteria) 인증을 획득했다. CC인증은 정보보호제품의 보안성과 신뢰성을 국제적으로 통용하는 기준에 따라 평가하는 제도다. 공공기관을 비롯해 높은 수준의 보안성이 요구되는 환경에서 정보보호제품 도입 시 주요 기준으로 활용한다.10일 회사에 따르면, 'i-oneNAC'은 네트워크에 접속하는 사용자와 단말을 식별하고 보안정책에 따라 네트워크 접근을 통제하는 네트워크 접근제어 솔루션이다. 에이전트 드라이버를 활용해 내부 단말 간 횡적이동(Lateral Movement)을 효과적으로 차단하고, 대규모 네트워크 환경에서도 안정적인 접근통제가 가능한 차단서버 기술을 강점으로 갖췄다.이번에 CC인증을 획득한 'i-oneNAC V3.0'은 기존 강점을 기반으로 변화하는 네트워크 환경과 고객의 보안 요구사항에 대응할 수 있게 차단서버와 매체제어 기능을 고도화해 IT 환경에서 OT 환경까지 보안통제 영역을 확대했다. 특히 윈도(Windows)뿐 아니라 리눅스(Linux), 맥OS용 NAC 에이전트까지 CC인증 범위에 포함, 다양한 운영체제(OS) 환경에서의 보안성과 신뢰성을 검증받았다.먼저 차단서버 기능을 고도화해 다양한 네트워크가 혼재하는 하이브리드 환경에서도 효율적인 접근통제를",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "[지디넷코리아]정보보안 전문기업 휴네시온의 네트워크 접근제어(Network Access Control, NAC) 솔루션 ‘i-oneNAC V3.0’이 CC(Com",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/10/7c03bfc98c7b9b14c4693dd3232fcee4.png",
+    "score": 2.83,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "에어컴, 총괄 책임자에 쿠람 초드리 선임",
+    "url": "https://zdnet.co.kr/view/?no=20260910221003",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-10T13:10:03+00:00",
+    "raw_excerpt": "[지디넷코리아] 에어컴에서 오래 재직한 임원… 성장과 AI 혁신의 다음 단계 주도 페어팩스, 버지니아, 2026년 9월 10일 /PRNewswire/ -- 에어컴(Aircom)이 제품•엔지니어링 부문 부사장을 맡아온 쿠람 초드리를 총괄책임자 겸 CTO로 승진 임명하고 에어컴 사업 전반에 대한 책임을 맡겼다고 9월 10일 발표했다. 이번 리더십 전환은 에어컴이 제품 혁신의 새로운 단계에 진입하는 가운데 나온 것이다. AI와 자동화는 무선접속망(RAN) 계획, 최적화 및 운영의 발전 과정에서 갈수록 중요한 역할을 하고 있다. 초드리 책임자는 2016년부터 테오코(TEOCO) 그룹에서 근무해 왔으며, 최근에는 에어컴의 제품 관리 및 엔지니어링을 이끌었다. 새로 맡은 업무는 제품과 기술을 넘어 에어컴 사업의 전반적인 방향과 성과까지 망라한다. 이를 통해 회사가 축적해 온 기술적 유산과 고객 우선순위, 향후 성장 전략을 하나로 결집할 예정이다. 아툴 자인(Atul Jain)씨는 회장직을 계속 맡아 테오코 조직 전반을 전략적으로 리드하게 된다. 아툴 자인 테오코 코퍼레이션(TEOCO Corporation) 회장은 \"초드리 책임자는 에어컴의 솔루션 포트폴리오를 혁신하고 에어컴이 AI 기반 혁신의 다음 물결을 선도할 수 있도록 입지를 다졌다. 회사는 이 같은 전략적 비전과 리더십을 시장 대응 활동에도 적용하고자 한다. 그의 재능과 결단력, 겸손함이",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "[지디넷코리아] 에어컴에서 오래 재직한 임원… 성장과 AI 혁신의 다음 단계 주도 페어팩스, 버지니아, 2026년 9월 10일 /PRNewswire/ -- 에어컴",
+    "thumbnail": "https://zdnet.co.kr/images/default_img.jpg",
+    "score": 2.799,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "김성수 특임교수 \"포스트 PBS 전환 골든타임 놓쳐선 안돼\"",
+    "url": "https://zdnet.co.kr/view/?no=20260910192644",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-10T10:26:44+00:00",
+    "raw_excerpt": "[지디넷코리아]\"포스트 PBS(연구과제중심제) 전환의 골든타임을 놓쳐선 안된다. 정부와 국회가 전략연구사업의 법적·제도적 기반을 2027년 예산안에 실질적으로 반영해야 할 것이다.\"김성수 연세대 특임교수가 10일 국회의원회관 제1간담회의실에서 열린 '2026년도 제2회 과학기술정책포럼'에서 이 같이 주제 발표했다.김 특임교수는 과학기술정보통신부 과학기술혁신본부장과 과학기술인공제회 이사장, 한국화학연구원장 등을 지냈다. 현재 연세대 특임교수와 NST 전략연구사업 운영위원장, 재정경제부 전략경제자문단 부위원장을 맡고 있다.포럼은 조승래·황정아 의원(이상 더불어민주당)과 한국과학기술단체총연합회가 주최하고 전임출연연구기관장협의회(회장 김명수)이 주관했다.김성수 특임교수는 포럼에서 '국가과학기술 임무 수행을 위한 출연연의 차세대 모델'을 주제로 발제하며 \"미국이 80년만에 R D 체계를 전환하려 한다\"며 \"우리도 환경변화에 따라 정책방향 및 모델 재설계가 필요하다. 현재 진행 중\"이라고 설명했다.김 특임교수는 \"대한민국 과학기술의 다음 60년은 연구비 규모가 아닌 혁신 시스템의 수준이 결정할 것\"이라며 성공을 위한 정책 방향 6개를 제시했다.우리가 나아가야할 6대 정책 방향으로 ▲출연연이 기획 주도권 확보 ▲2030년 100% 출연금 확보를 목표로 단계별 이행 로드맵을 국회·정부·현장이 공유 ▲5년 단위 R D 포트폴리오 구성과 임무 전환시 ",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "[지디넷코리아]\"포스트 PBS(연구과제중심제) 전환의 골든타임을 놓쳐선 안된다. 정부와 국회가 전략연구사업의 법적·제도적 기반을 2027년 예산안에 실질적으로 반",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/10/5cee249b7237701bde3cb343255c74f0.jpg",
+    "score": 2.697,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "[카드뉴스] 회사 안 사고 사람만 몰래 빼가기 금지",
+    "url": "https://zdnet.co.kr/view/?no=20260910101208",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-10T10:08:32+00:00",
+    "raw_excerpt": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 최근 기업 간 인수합병 대신 회사는 인수하지 않고 핵심 인재만 쏙 데려가는 '애퀴하이어' 방식이 화제인데요. 마치 축구팀에서 실력 좋은 선수들만 통째로 스카우트하는 것과 비슷한 방식이라 눈길을 끕니다. 이런 꼼수 채용에 대해 전문가 70%가 부작용을 우려하고 있고, 괜찮다는 의견은 30%에 그쳐 걱정의 목소리가 훨씬 큰 상황이에요. 이 때문에 기업들도 손 놓고 있을 수만은 없게 됐는데요, ①현재 상황 점검하기 ②핵심 인재와 신뢰 쌓기 ③떠나지 않아도 될 좋은 환경 만들기, 이렇게 3단계로 차근차근 대비책을 마련해야 한다고 해요.다만 이 문제를 바라보는 시선은 입장마다 온도차가 뚜렷한데요. 대기업은 인재 유출 방지를 위한 비용 부담이 늘어나 걱정이고, 스타트업은 애써 키운 인재를 지켜야 한다는 보호 필요성을 강하게 느끼고 있어요. 반면 정작 인재 당사자들은 이직의 자유가 줄어들 수 있다는 점에서 우려를 나타내고 있죠. 결국 규제로 사람과 기술의 이동을 억지로 묶어두는 데는 한계가 있을 수밖에 없는데요. 규칙은 어디까지나 도구일 뿐, 진짜 핵심은 사람을 아끼고 붙잡을 줄 아는 진심 어린 노력에 있다는 걸 이번 카드뉴스가 잘 짚어주고 있어요. 더 자세한 내용은 AI의눈 보고서에서 확인해보세요!▶ 해당 보고서 보기 https://ameet.zdnet.co.kr/uploads/6003df4e.",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 최근 기업 간 인수합병 대신 회사는 인수하지 않고 핵심 인재만 쏙 데려가는 '애퀴하이어' 방식이 화제인데요. 마",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/10/bd8de626a2a141f763de190b3333a75e.png",
+    "score": 2.686,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  }
+]
