@@ -1,0 +1,798 @@
+[
+  {
+    "title": "캘리포니아, 16세 미만 소셜미디어 중독 기능·AI 챗봇 규제법 서명",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215153",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-11T15:43:52+00:00",
+    "raw_excerpt": "미국 캘리포니아주가 미성년자의 소셜미디어와 AI 챗봇 이용을 규제하는 강력한 온라인 안전 법안을 마련했다. 소셜미디어의 중독성 기능을 제한하고 AI 챗봇이 인간이 아닌 AI임을 고지하도록 하는 등 아동·청소년을 겨냥한 디지털 안전장치를 대폭 강화하면서 미국 내 온라인 규제의 새로운 기준을 제시했다는 평가가 나온다.개빈 뉴섬 캘리포니아 주지사는 10일(현지시간) 미성년자 온라인 안전과 디지털 개인정보 보호 등을 강화하는 13개 법안에 서명했다.뉴섬 주지사는 강력한 알고리즘으로부터 부모 혼자 자녀를 보호하기는 어렵다며 법안 서명을 두고",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "미국 캘리포니아주가 미성년자의 소셜미디어와 AI 챗봇 이용을 규제하는 강력한 온라인 안전 법안을 마련했다. 소셜미디어의 중독성 기능을 제한하고 AI 챗봇이 인간이",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215153_218932_3654.jpg",
+    "score": 9.32,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제",
+      "법안",
+      "개인정보"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "오픈AI, 전이중 음성 모델 'GPT-라이브-1' API 출시...\"실시간 대화 에이전트 구현\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215145",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-11T16:55:00+00:00",
+    "raw_excerpt": "오픈AI가 사람처럼 말을 들으면서 동시에 대화할 수 있는 실시간 음성 AI 모델을 API로 출시했다. 개발자들은 이를 활용해 지연 시간 없이 자연스럽게 소통하는 전화 상담이나 예약용 음성 에이전트를 쉽게 개발할 수 있게 됐다.오픈AI는 10일(현지시간) 사람과 실시간으로 대화하면서 상대방의 말을 듣는 동시에 응답할 수 있는 전이중(full-duplex) 음성 모델 'GPT-라이브-1(GPT-Live-1)'을 API로 출시했다.기존 음성 에이전트의 복잡한 음성인식·추론·음성합성 단계를 하나의 모델로 통합해 대화 지연을 줄이고, 전화",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "오픈AI가 사람처럼 말을 들으면서 동시에 대화할 수 있는 실시간 음성 AI 모델을 API로 출시했다. 개발자들은 이를 활용해 지연 시간 없이 자연스럽게 소통하는",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215145_218927_4649.jpg",
+    "score": 8.441,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "MS, AI 공급난에 ‘장기전’ 선언…2032년까지 데이터센터 3배로 확대",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215143",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-11T16:55:00+00:00",
+    "raw_excerpt": "마이크로소프트(MS)가 AI 서비스와 클라우드 수요 폭증에 대응하기 위해 애저(Azure)의 전 세계 데이터센터 용량을 오는 2032년까지 현재의 3배 이상으로 확대한다. 엔비디아 AI 칩 부족과 전력·부지 확보난으로 데이터센터 공급 부족을 겪자, 장기적인 대규모 인프라 확충으로 정면 돌파하겠다는 취지다.10일(현지시간) 블룸버그에 따르면, MS는 현재 12기가와트(GW) 규모인 애저 데이터센터 용량을 2032년까지 38GW 이상으로 늘릴 계획이다.1GW는 미국 샌프란시스코와 같은 대도시 규모에 전력을 공급할 수 있는 수준으로, 계",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "마이크로소프트(MS)가 AI 서비스와 클라우드 수요 폭증에 대응하기 위해 애저(Azure)의 전 세계 데이터센터 용량을 오는 2032년까지 현재의 3배 이상으로",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215143_218926_325.jpg",
+    "score": 8.441,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "엔비디아"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "알트먼 \"첨단 AI 개발 속도 조절 검토…타 회사 동참 제안\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215176",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-11T16:51:50+00:00",
+    "raw_excerpt": "샘 알트먼 오픈AI CEO가 사내 회의에서 최첨단 AI 개발 속도를 늦추는 방안을 검토 중이라며, 경쟁 연구소들의 자발적인 동참을 유도하고 나섰다.11일 블룸버그에 따르면, 알트먼 CEO는 최근 전 직원이 참석한 내부 회의에서 다른 AI 연구소들과 협력해 최신 모델 개발 속도를 공동으로 조절하는 방안을 모색하고 있다고 밝혔다.안전성이 충분히 확보되지 않은 상태에서 초지능 개발 경쟁이 과열되는 것에 대한 경각심이 고조되자, 선제적으로 자율 규제 흐름을 주도하겠다는 구상이다. 오픈AI는 최근 자발적인 개발 속도 조절 필요성을 지속해서",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "샘 알트먼 오픈AI CEO가 사내 회의에서 최첨단 AI 개발 속도를 늦추는 방안을 검토 중이라며, 경쟁 연구소들의 자발적인 동참을 유도하고 나섰다.11일 블룸버그",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215176_218955_436.png",
+    "score": 8.437,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "오픈AI, 챗GPT 워크에 기업 데이터 분석 도구 '데이터 에이전트' 도입",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215146",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-11T16:25:00+00:00",
+    "raw_excerpt": "오픈AI가 기업 구성원이 전문적인 데이터 분석 도구나 쿼리 작성법을 배우지 않고도 자연어로 사내 데이터를 분석할 수 있는 새로운 AI 에이전트를 공개했다. 기업 데이터베이스와 문서 저장소를 연결하면 매출 감소나 비용 증가의 원인을 조사하고, 분석 결과를 대화형 대시보드로 만들어 공유하는 것은 물론 후속 업무까지 이어갈 수 있다.오픈AI는 10일(현지시간) 기업용 AI 업무 환경인 챗GPT 워크(ChatGPT Work)에 '데이터 에이전트(Data agent)'를 도입한다고 밝혔다. 사용자가 \"지난주 사용자가 왜 줄었지\" \"어디에서",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "오픈AI가 기업 구성원이 전문적인 데이터 분석 도구나 쿼리 작성법을 배우지 않고도 자연어로 사내 데이터를 분석할 수 있는 새로운 AI 에이전트를 공개했다. 기업",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215146_218928_259.jpg",
+    "score": 8.401,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[게시판] 사이냅소프트, ‘지자체 정보화전략 IT 전시’ 참가 등 단신",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215177",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-11T16:00:00+00:00",
+    "raw_excerpt": "■ 도큐먼트 AI 전문 사이냅소프트(대표 전경헌)가 10~11일 제주 썬 호텔에서 열린 ‘2026 지자체 정보화전략 IT 전시회’에 참가해 지자체 행정 업무 혁신을 위한 핵심 문서 AI 솔루션을 선보였다고 밝혔다. 현장 전시 부스에서는 지자체 공공 업무 환경에 최적화된 ▲사이냅 어시스턴트 ▲사이냅 도큐애널라이저 ▲사이냅 OCR IX ▲아이넥스 ▲AI 데이터 파운드리 등 5종의 문서 AI 솔루션을 시연했다.■ 시선AI는 과학기술정보통신부 산하 정보통신기획평가원(IITP)이 주관하는 국방 부문 AI 응용제품 신속상용화 지원사업의 '국방",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "■ 도큐먼트 AI 전문 사이냅소프트(대표 전경헌)가 10~11일 제주 썬 호텔에서 열린 ‘2026 지자체 정보화전략 IT 전시회’에 참가해 지자체 행정 업무 혁신",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215177_218956_165.jpeg",
+    "score": 8.367,
+    "engagement": 0,
+    "matched_keywords": [
+      "업무 혁신",
+      "현장"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "젠슨 황, 내년 70% 성장 자신감…\"우리는 칩이 아니라 생태계를 판다\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215149",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-11T13:26:56+00:00",
+    "raw_excerpt": "젠슨 황 엔비디아 CEO가 내년에도 70%에 달하는 기록적인 매출 성장을 자신했다. 경쟁업체들의 거센 추격과 AI 거품론 속에서도 이러한 압도적 성장을 확신하는 핵심은 '단순 칩 제조사'에서 'AI 생태계 통제자'로 진화한 사업 구조 때문이다.테크크런치와 비즈니스 인사이더 등에 따르면, 황 CEO는 10일(현지시간) 미국 샌프란시스코에서 열린 골드만삭스 컨퍼런스에 참석해 \"전년 대비 70% 성장이 가능하다고 확신한다\"라며 시장의 우려를 일축했다. 엔비디아가 이번 회계연도를 4000억달러(약 538조원)로 마감할 경우, 70% 성장은",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "젠슨 황 엔비디아 CEO가 내년에도 70%에 달하는 기록적인 매출 성장을 자신했다. 경쟁업체들의 거센 추격과 AI 거품론 속에서도 이러한 압도적 성장을 확신하는",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215149_218930_2357.png",
+    "score": 8.16,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "엔비디아"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "'딥시크 V4.1 플래시' 출시...\"100만 토큰 창에 KV 캐시 75% 축소\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215131",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-11T12:11:55+00:00",
+    "raw_excerpt": "딥시크가 장기 실행 AI 에이전트의 핵심 병목으로 꼽히는 메모리 사용량을 크게 줄인 새로운 경량 모델을 공개했다. 100만 토큰의 초대형 컨텍스트 창을 지원하면서도 KV 캐시 사용량을 전작 대비 약 4분의 1 수준으로 낮춘 것이 핵심이다.딥시크는 10일(현지시간) 새로운 아키텍처 제품군 가운데 가장 작은 모델인 '딥시크 V4.1 플래시(DeepSeek-V4.1-Flash)'를 출시했다고 밝혔다. 특히 오는 14일부터 기존 '딥시크 V4 프로' API 요청은 V4.1 플래시로 자동 라우팅된다. 경량 모델의 성능이 기존 플래그십 모델보",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "딥시크가 장기 실행 AI 에이전트의 핵심 병목으로 꼽히는 메모리 사용량을 크게 줄인 새로운 경량 모델을 공개했다. 100만 토큰의 초대형 컨텍스트 창을 지원하면서",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215131_218922_37.jpeg",
+    "score": 8.058,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "소형모듈원자로(SMR) 개발·상용화 가속...정부, '특별법·시행령' 시행",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41876",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-11T14:31:17+00:00",
+    "raw_excerpt": "과학기술정보통신부(부총리 겸 과학기술정보통신부 장관 배경훈, 이하 과기정통부)는 '소형모듈원자로 개발 촉진 및 지원에 관한 특별법(이하, SMR 특별법)'과 같은 법 시행령이 11일부터 시행된다고 밝혔다. SMR(Small Modular Reactor) 특별법은 소형모듈원자로의 연구·개발·실증을 체계적으로 촉진하고, 연구개발 성과가 실제 사업화와 산업으로 이어질 수 있도록 범정부 지원체계를 마련하기 위해 지난 3월 제정됐다.최근 인공지능(AI) 확산과 데이터센터 증가, 산업 전기화 등으로 안정적인 무탄소 에너지에 대한 수요가 빠르게",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "과학기술정보통신부(부총리 겸 과학기술정보통신부 장관 배경훈, 이하 과기정통부)는 '소형모듈원자로 개발 촉진 및 지원에 관한 특별법(이하, SMR 특별법)'과 같은",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41876_63002_316_v150.jpg",
+    "score": 7.612,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "앤트로픽, 4개월 협상 끝 EU에 '미소스 5' 접근 권한 제공",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215148",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-11T16:00:47+00:00",
+    "raw_excerpt": "앤트로픽이 유럽연합(EU) 사이버보안 기관에 사이버보안 모델 '미소스 5' 접근 권한을 제공했다. 이 모델은 사이버 방어 역량을 높일 수 있다는 기대와 함께 국가안보 우려도 제기돼 제한적으로 제공돼 왔다.유럽연합 집행위원회(EC)는 10일(현지시간) 앤트로픽과의 협의를 거쳐 EU 사이버보안청(ENISA)이 미소스 5에 대한 접근 권한을 부여받았다고 밝혔다. ENISA 측도 모델에 대한 접근 권한을 확보했으며, 이달부터 실제 테스트를 진행하고 있다고 확인했다.이번 조치는 EU 집행위가 앤트로픽과 미소스 5 테스트를 논의하고 있다고 처",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "앤트로픽이 유럽연합(EU) 사이버보안 기관에 사이버보안 모델 '미소스 5' 접근 권한을 제공했다. 이 모델은 사이버 방어 역량을 높일 수 있다는 기대와 함께 국가",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215148_218931_2634.jpg",
+    "score": 7.393,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "에이딘로보틱스, 160억 투자 유치...조선·중공업용 로봇손 만든다",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215100",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-11T15:40:00+00:00",
+    "raw_excerpt": "에이딘로보틱스(대표 최혁렬, 이윤행)는 HD현대로보틱스와 삼성벤처투자로부터 160억원 규모의 전략적 투자를 유치했다고 11일 밝혔다.에이딘로보틱스는 2019년 성균관대 로보틱스 연구실에서 스핀오프로 설립된 기업이다. 로봇의 관절·손가락 등에 탑재하는 초소형 6축 힘·토크 센서를 공급 중이다.정전용량 방식 특허 기술인 '프린지 이펙트'를 결합해 센서의 민감도와 강성을 극대화해 IR52 장영실상을 수상하기도 했다.특히 기존 센서 대비 크기는 3분의 1로, 가격은 10분의 1 수준으로 낮춰 경쟁력을 갖췄으며, 자동차 외장 연마 등 표면처",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "에이딘로보틱스(대표 최혁렬, 이윤행)는 HD현대로보틱스와 삼성벤처투자로부터 160억원 규모의 전략적 투자를 유치했다고 11일 밝혔다.에이딘로보틱스는 2019년 성",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215100_218877_3616.png",
+    "score": 7.365,
+    "engagement": 0,
+    "matched_keywords": [
+      "로보틱스"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "스페이스X, 데이터센터 구축 방식 바꾼다…‘속도’보다 안정성에 무게",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215169",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-11T15:27:24+00:00",
+    "raw_excerpt": "스페이스X가 AI 데이터센터 구축에서 속도보다 안정성을 중시하는 방식으로 전략을 바꾸고 있다. 기존에는 데이터센터를 빠르게 늘리는 데 집중했다면, 최근에는 전력·냉각 백업 시스템을 사전에 갖추고 운영 전 테스트를 강화하는 방향으로 전환하고 있다.디 인포메이션은 10일(현지시간) 복수의 관계자를 인용, 스페이스X가 테네시와 미시시피 등에서 진행 중인 데이터센터 건설 방식을 재설계하고 있다고 보도했다.스페이스X는 올해 초 인수한 xAI의 데이터센터 구축 경험을 바탕으로, GPU 확보와 시설 가동을 최대한 앞당기는 기존 방식을 이어왔다.",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "스페이스X가 AI 데이터센터 구축에서 속도보다 안정성을 중시하는 방식으로 전략을 바꾸고 있다. 기존에는 데이터센터를 빠르게 늘리는 데 집중했다면, 최근에는 전력·",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215169_218948_250.jpg",
+    "score": 7.348,
+    "engagement": 0,
+    "matched_keywords": [
+      "gpu"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "앤트로픽의 2030 경제 경고 \"AI 성장의 결실, 노동 아닌 자본으로 몰릴 것\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215164",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-11T14:50:38+00:00",
+    "raw_excerpt": "AI가 미국 경제의 미래 성장률과 고용 구조에 미칠 영향을 다각도로 분석한 정교한 시나리오 분석 모델이 공개됐다. 앤트로픽은 AI 도입 속도에 따라 GDP가 폭발적으로 증가하는 동시에 지식 노동자의 실업률이 급등하는 극단적 격차가 발생할 수 있다고 지적했다.앤트로픽 경제 연구팀은 9일(현지시간) AI 도입에 따라 2030년까지 미국 경제가 맞이할 수 있는 3가지 시나리오를 공개했다. 이는 '완만한 변화(Modest)' '상당한 변화(Substantial)' '극단적 변화(Extreme)' 등으로 구성됐다.단일한 위기론을 주장하기보다",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AI가 미국 경제의 미래 성장률과 고용 구조에 미칠 영향을 다각도로 분석한 정교한 시나리오 분석 모델이 공개됐다. 앤트로픽은 AI 도입 속도에 따라 GDP가 폭발",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215164_218942_4238.jpeg",
+    "score": 7.298,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "목포, 베란다 태양광 474가구 지원…가구당 최대 80만원",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215151",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-11T14:30:00+00:00",
+    "raw_excerpt": "AI 생성 영상목포시가 공동주택 474가구를 대상으로 베란다형 태양광 설치비를 가구당 최대 80만원까지 지원한다. 신청은 오는 23일까지 받는다.목포는 재생에너지 보급 확대와 가계 에너지비용 부담 완화를 위해 ‘2026년 가정형(베란다) 태양광 보급사업’을 추진한다고 11일 밝혔다.지원 대상은 공동주택 소유자로, 500W 이하 가정형 태양광 설비를 설치할 경우 비용 일부를 지원받을 수 있다.목포는 총 3억8000만원을 투입해 474가구를 지원할 계획이다.500와트(W) 설비 기준 설치비는 100만원이며, 이 가운데 시가 최대 80만",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AI 생성 영상목포시가 공동주택 474가구를 대상으로 베란다형 태양광 설치비를 가구당 최대 80만원까지 지원한다. 신청은 오는 23일까지 받는다.목포는 재생에너지",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215151_218935_5933.jpg",
+    "score": 7.27,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "문샷, 홍콩 이어 상하이 스타마켓 이중 상장 타진...자금 조달 확대 박차",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215147",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-11T14:20:59+00:00",
+    "raw_excerpt": "문샷 AI가 자금 조달 확대와 기업 인지도 제고를 위해 홍콩과 상하이 증시에 잇따라 상장하는 방안을 검토하고 있는 것으로 알려졌다. 대규모 자금이 필요한 AI 기업들이 잇따라 기업공개(IPO)에 나서는 가운데, 문샷도 홍콩 상장을 시작으로 중국 본토 시장까지 활용하는 방안을 저울질하는 모습이다.사우스차이나모닝포스트 10일(현지시간) 정통한 소식통을 인용, 문샷이 홍콩과 상하이 증시의 이중 상장을 검토하고 있다고 보도했다.문샷은 지난 7월 투자자들과 회의를 열고 홍콩 IPO를 위한 구체적인 계획을 논의한 것으로 전해졌다. 이후 홍콩",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "문샷 AI가 자금 조달 확대와 기업 인지도 제고를 위해 홍콩과 상하이 증시에 잇따라 상장하는 방안을 검토하고 있는 것으로 알려졌다. 대규모 자금이 필요한 AI 기",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215147_218929_1636.jpg",
+    "score": 7.258,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "나주문화재단, 국내외 작가 6명 작업실 시민에 개방",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215154",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-11T14:00:00+00:00",
+    "raw_excerpt": "AI 생성 영상나주에서 활동 중인 국내외 예술가 6명이 작업실을 시민에게 공개한다. 완성된 작품뿐 아니라 제작 중인 작업과 스케치, 재료, 지역 조사자료 등을 직접 살펴보고 작가와 대화를 나눌 수 있다.나주문화재단은 11일 오후 2시부터 6시까지 죽림동 소통창작소에서 ‘2026 나주형 국제예술 레지던시 오픈스튜디오’를 개최한다고 밝혔다. 행사에는 제이크 솔 데이비슨, 로렌 쿨라르, 이자벨 샤퓌, 카미유 메르칸델리-박, 홍일화, 오태원 등 국내외 작가 6명이 참여한다.오픈스튜디오는 완성작 위주의 결과전시와 달리 실제 작업공간을 개방해",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AI 생성 영상나주에서 활동 중인 국내외 예술가 6명이 작업실을 시민에게 공개한다. 완성된 작품뿐 아니라 제작 중인 작업과 스케치, 재료, 지역 조사자료 등을 직",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215154_218934_5916.jpg",
+    "score": 7.229,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "AX 시대의 FDE는 조직에 무엇을 남길까",
+    "url": "https://news.hada.io/topic?id=33520",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-11T05:58:11+00:00",
+    "raw_excerpt": "AX 컨설턴트로 일하면서 팔란티어의 FDE 인터뷰를 읽고 든 생각을 적어봤습니다. 현장에서 해결한 문제를 제품에 쌓아간다는 이야기가 인상적이었는데요. 제 일에 대입해보니, 우리가 일을 마친 뒤 고객 조직이 스스로 할 수 있는 일은 얼마나 늘어날까 하는 질문이 남았습니다. 담당자가 반복 업무를",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "AX 컨설턴트로 일하면서 팔란티어의 FDE 인터뷰를 읽고 든 생각을 적어봤습니다. 현장에서 해결한 문제를 제품에 쌓아간다는 이야기가 인상적이었는데요. 제 일에 대",
+    "thumbnail": "https://social.news.hada.io/topic/33520?v=85b984b37211bb8af2adc434087b3a63",
+    "score": 6.559,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직",
+      "현장",
+      "ax"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "EU CRA 취약점·보안 사고 보고 의무 시행…“24시간 내 신고해야”",
+    "url": "https://byline.network/2026/09/11-696/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-09-11T07:11:03+00:00",
+    "raw_excerpt": "유럽연합(EU)에 하드웨어나 소프트웨어 제품을 판매하는 기업은 11일부터 자사 제품에서 실제 공격에 악용되고 있는 취약점이나 중대한 보안사고를 알게 되면 24시간 안에 EU 사이버보안청(ENISA)에 신고해야 한다. 국내 제조사는 물론, EU 시장에 해당 제품을 공급하고 있는 모든 기업이 적용 대상이다.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "유럽연합(EU)에 하드웨어나 소프트웨어 제품을 판매하는 기업은 11일부터 자사 제품에서 실제 공격에 악용되고 있는 취약점이나 중대한 보안사고를 알게 되면 24시간",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/09/24.jpg",
+    "score": 6.474,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "취약점"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "‘보이지 않는 적’ 막아낼 공급망 보안 패러다임 전환",
+    "url": "https://byline.network/2026/09/11-694/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-09-11T04:41:12+00:00",
+    "raw_excerpt": "사이버공격의 패러다임이 근본적으로 변화하고 있다. 과거엔 해커들이 기업의 외부 방화벽이나 시스템 취약점을 직접 공략하는 방식으로 침입했다면, 이제는 상대적으로 보안이 취약한 협력사나 외부(3rd Party) 소프트웨어를 징검다리 삼아 내부로 침투하는 공격이 확산되고 있다. 바야흐로 기업이 신뢰하는 가장 취약한 연결고리를 집중 겨냥하는 ‘공급망 공격(Supply Chain Attack)’의 시대가 도래한 것이다.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "사이버공격의 패러다임이 근본적으로 변화하고 있다. 과거엔 해커들이 기업의 외부 방화벽이나 시스템 취약점을 직접 공략하는 방식으로 침입했다면, 이제는 상대적으로 보",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/09/S2W-GIGO-SOME-1.jpg",
+    "score": 6.302,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "취약점"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "AI 에이전트 표준 선점 나선 중국…NIA \"한국도 대응 필요\"",
+    "url": "https://zdnet.co.kr/view/?no=20260911154129",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-11T06:43:08+00:00",
+    "raw_excerpt": "[지디넷코리아]중국 정부가 서로 다른 인공지능(AI) 에이전트를 통합 연결하기 위한 국가표준 구축에 나섰다. 에이전트 신원 확인부터 검색과 협업·외부 도구 호출까지 표준화해 향후 AI 에이전트 시장 기술 주도권을 확보하려는 전략이다.11일 한국지능정보사회진흥원(NIA)이 발간한 ‘중국 AI 에이전트 상호 운용 표준화 전략 분석’ 보고서에 따르면 중국은 지난 6월 AI 에이전트 상호 연결 국가표준 시리즈 ‘GB/Z 185-2026’을 발표했다. 중국전자표준화연구소와 화웨이·알리바바클라우드·샤오미 등 70여개 주요 기업이 표준 개발에 참여했다.이번 표준은 개발사와 플랫폼이 다른 AI 에이전트도 공통 규칙에 따라 서로를 확인하고 업무를 주고받도록 하는 데 초점을 맞췄다. 제각기 다른 통신 방식과 인증 체계를 맞추는 데 드는 비용을 줄이고 에이전트 간 협업 효율을 높이기 위해 마련됐다.표준은 전체 구조와 식별 코드·신원 인증·기능 등록·검색·상호작용·외부 도구 호출 등 7개 영역으로 구성됐다. 각 에이전트에 고유 식별 코드를 부여하고 보유 기능을 등록한 뒤 업무에 적합한 에이전트를 찾아 연결하는 전 과정을 규정한다.중국은 자체 개발한 ‘에이전트 상호연결 프로토콜(AIP)’을 국가표준으로 확산하고 있다. 시중에 활용되고 있는 구글 '에이전트 투 에이전트(A2A)'는 에이전트 간 통신과 협업을 지원하고 앤트로픽 '모델 콘텍스트 프로토콜(MCP)",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "[지디넷코리아]중국 정부가 서로 다른 인공지능(AI) 에이전트를 통합 연결하기 위한 국가표준 구축에 나섰다. 에이전트 신원 확인부터 검색과 협업·외부 도구 호출까",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/11/7545445ed73879826daf0bda21b6df43.png",
+    "score": 5.945,
+    "engagement": 0,
+    "matched_keywords": [
+      "mcp",
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[카드] 현대모비스, R&D 테크데이 개최…신기술 60여종 공개",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48884",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-11T17:46:40+00:00",
+    "raw_excerpt": "[스마트타임스] 현대모비스는 오는 18일까지 경기도 용인 기술연구소에서 전동화와 SDV 등 차세대 신기술 60여종을 공개하는 ‘2026 R D 테크데이’를 개최한다고 11일 밝혔다.",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "[스마트타임스] 현대모비스는 오는 18일까지 경기도 용인 기술연구소에서 전동화와 SDV 등 차세대 신기술 60여종을 공개하는 ‘2026 R D 테크데이’를 개최한",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202609/48884_47671_2936_v150.jpg",
+    "score": 5.217,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "9월 초 수출 350억달러 ‘역대 최대’…반도체 270% 급증",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48887",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-11T14:20:27+00:00",
+    "raw_excerpt": "[스마트타임스]9월 초순 수출이 반도체 수출 폭증에 힘입어 역대 최대치를 기록했다. 반도체 수출이 1년 전보다 270% 넘게 급증한 가운데 석유제품과 선박, 자동차, 철강제품 등 주요 품목도 호조를 보이면서 전체 수출 증가세를 견인했다.11일 관세청에 따르면 이달 1일부터 10일까지 수출액은 349억7300만달러로 지난해 같은 기간보다 82.6% 증가했다. 1~10일 기준 역대 최대 규모로, 종전 최대였던 올해 7월의 약 300억달러를 두 달 만에 넘어섰다.조업일수는 8.5일로 지난해 같은 기간과 같았다. 이에 따라 조업일수를 고려",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "[스마트타임스]9월 초순 수출이 반도체 수출 폭증에 힘입어 역대 최대치를 기록했다. 반도체 수출이 1년 전보다 270% 넘게 급증한 가운데 석유제품과 선박, 자동",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202609/48887_47700_2013_v150.jpg",
+    "score": 5.024,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "WordPress는 누구의 것인가",
+    "url": "https://news.hada.io/article/who-owns-wordpress",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-11T04:38:26+00:00",
+    "raw_excerpt": "2026년 9월 9일 Automattic 이사회가 창업자이자 CEO인 Matt Mullenweg를 강제로 유급 휴직 처리 했습니다. CFO였던 Mark Davies가 임시 CEO를 맡았고, Matt는 이사회에는 남지만 일상적인 경영에서는 물러납니다. 구체적인 이유는 공개되지 않았습니다.",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "2026년 9월 9일 Automattic 이사회가 창업자이자 CEO인 Matt Mullenweg를 강제로 유급 휴직 처리 했습니다. CFO였던 Mark Davie",
+    "thumbnail": "https://social.news.hada.io/article/who-owns-wordpress",
+    "score": 4.976,
+    "engagement": 0,
+    "matched_keywords": [
+      "창업"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "Show GN: tapl - Codex의 작업 이력과 기억을 관리하는 로컬 워크플로 도구",
+    "url": "https://news.hada.io/topic?id=33517",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-11T04:17:23+00:00",
+    "raw_excerpt": "대화가 길어지거나 세션이 바뀌면 이전에 어떤 결정을 했는지, 어디까지 구현했는지, 무엇을 검증했는지 다시 확인해야 합니다. TAPL은 이 과정에서 반복되는 설명과 탐색을 줄이기 위해 요청·계획·작업·발견 사항·완료 이력을 저장소의 SQLite에 기록합니다. MCP와 hook으로 Codex에 연결되며, 설치 후에는",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "대화가 길어지거나 세션이 바뀌면 이전에 어떤 결정을 했는지, 어디까지 구현했는지, 무엇을 검증했는지 다시 확인해야 합니다. TAPL은 이 과정에서 반복되는 설명과",
+    "thumbnail": "https://social.news.hada.io/topic/33517?v=a7d297f681fba790fdbfa17ef733780d",
+    "score": 4.954,
+    "engagement": 0,
+    "matched_keywords": [
+      "codex"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "OpenAI Agents API - Codex 기반 에이전트를 내 앱에 연결하기",
+    "url": "https://news.hada.io/topic?id=33516",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-11T03:33:48+00:00",
+    "raw_excerpt": "애플리케이션에서 Codex의 에이전트 실행 기능을 API로 이용 할 수 있으며, OpenAI가 세션 관리, 작업 조율, 문맥 압축과 복구를 맡음 개발자가 도구와 실행 환경을 지정하면 에이전트가 코드 실행, 파일 편집, 외부 서비스 연결과 산출물 생성 을 수행함 같...",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "애플리케이션에서 Codex의 에이전트 실행 기능을 API로 이용 할 수 있으며, OpenAI가 세션 관리, 작업 조율, 문맥 압축과 복구를 맡음 개발자가 도구와",
+    "thumbnail": "https://social.news.hada.io/topic/33516?v=4585fd6e65219494eb47f2c08791fc4a",
+    "score": 4.909,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "\"서비스 안 주면 1점\"…소상공인 울리는 ‘별점 테러’ 손본다",
+    "url": "https://zdnet.co.kr/view/?no=20260911155949",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-11T07:16:42+00:00",
+    "raw_excerpt": "[지디넷코리아]온라인 플랫폼의 별점과 리뷰가 소비자의 선택을 돕는 수단을 넘어 소상공인을 압박하는 수단으로 악용되는 사례가 잇따르자 정부와 플랫폼 업계가 개선 방안 마련에 나섰다. 소상공인들은 무료 서비스나 보상을 거절했다는 이유로 낮은 별점을 주거나 실제 이용하지 않고 허위 리뷰를 작성하는 이른바 ‘별점 테러’에 대한 플랫폼의 대응 강화를 요구했다.중소벤처기업부는 11일 서울 중구 대·중소기업·농어업협력재단에서 ‘온라인플랫폼 별점제 관련 상생 간담회’를 열고 별점·리뷰 제도로 인한 소상공인의 피해 사례와 개선 방안을 논의했다.이날 간담회에는 네이버와 카카오, 배달의민족, 쿠팡, 여기어때, 놀유니버스 등 온라인 플랫폼 6개사와 한국외식업중앙회, 대한숙박업중앙회, 소상공인연합회 등 관계자 20여명이 참석했다.플랫폼사들은 이날 악의적인 리뷰로 인한 사업주 피해를 막기 위해 현재 운영 중인 별점·리뷰 관리 제도를 공유했다.일부 플랫폼은 사업주가 리뷰 노출과 운영 여부를 선택할 수 있도록 하고 있으며, 리뷰 작성 후 일정 기간이 지나면 내용이나 별점을 수정하지 못하도록 제한하고 있다. 과거에 작성한 리뷰를 뒤늦게 악의적으로 변경하는 사례를 막기 위한 조치다.사업주가 리뷰 게시중단을 신고하면 해당 리뷰를 즉시 30일간 임시 블라인드 처리하거나, 임시조치된 리뷰를 평균 별점 계산에서 제외하는 제도를 운영하는 플랫폼도 있다.소상공인들은 이 같은 ",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "[지디넷코리아]온라인 플랫폼의 별점과 리뷰가 소비자의 선택을 돕는 수단을 넘어 소상공인을 압박하는 수단으로 악용되는 사례가 잇따르자 정부와 플랫폼 업계가 개선 방",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/11/e67bbb63cb827dd4d1a84e6254b125d2.jpg",
+    "score": 4.627,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "빅웨이브로보틱스 \"내년 영업이익률 8.7% 목표…작년 2배 이상\"",
+    "url": "https://zdnet.co.kr/view/?no=20260911150131",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-11T07:02:22+00:00",
+    "raw_excerpt": "[지디넷코리아]피지컬 인공지능(AI) 플랫폼 기업 빅웨이브로보틱스가 내년 영업이익률 목표를 8.7%로 잡았다. 지난해 3.4%의 두 배를 웃돈다. 소프트웨어 판매 비중을 늘리고 북미 시장을 공략해 수익성을 높일 계획이다. 김민교 빅웨이브로보틱스 대표는 11일 서울 여의도에서 개최한 기업공개(IPO) 기자간담회에서 올해 매출 전망치를 전년비 73.4% 성장한 359억원으로 제시했다. 동기간 영업이익은 150% 이상 급증한 18억원으로 추산했다. 올해 예상 영업이익률은 5%다. 지난해 대비 1.6%포인트 높다. 내년 실적 전망치는 매출 493억원, 영업이익 43억원이다. 영업이익률 상승 전망 배경에 대해 빅웨이브로보틱스는 '솔링크' 연계 솔루션 판매 비중 상승과 북미 시장 매출 증가를 꼽았다. 솔링크는 40개 이상 이종 로봇을 하나의 운영체제로 통합 관제하는 소프트웨어 플랫폼이다. 24시간 클라우드 관제와 AI 예지정비가 장점이다. 현재 솔링크 고객사는 삼성전자, 인천공항, 신세계, 롯데 등이다.전체 매출에서 솔링크 기반 시스템 통합(SI) 솔루션 매출 비중은 2024년 9.9%에서 2025년 33.4%로 증가했다. 김 대표는 \"솔링크 덕분에 재구매 고객 비중도 늘고 있다\"며 \"재구매 비중이 2023년 35.1%에서 지난해 55.0%까지 상승했다\"고 말했다.미국 시장 진출도 속도를 내고 있다. 미국은 한국보다 로봇 솔루션 단가가 높다. ",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "[지디넷코리아]피지컬 인공지능(AI) 플랫폼 기업 빅웨이브로보틱스가 내년 영업이익률 목표를 8.7%로 잡았다. 지난해 3.4%의 두 배를 웃돈다. 소프트웨어 판매",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/11/a2203d25321a080fcc65dbeb350da739.jpg",
+    "score": 4.613,
+    "engagement": 0,
+    "matched_keywords": [
+      "로보틱스"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "상생요금제 1년 됐지만 배달앱 수수료 갈등 여전…'15% 상한' 놓고 공방",
+    "url": "https://zdnet.co.kr/view/?no=20260911150952",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-11T06:41:51+00:00",
+    "raw_excerpt": "[지디넷코리아]배달앱 상생요금제가 시행된 지 1년이 지났지만 입점업체의 비용 부담을 둘러싼 논란이 계속되고 있다. 소상공인·시민사회단체에서는 중개수수료뿐 아니라 결제수수료와 광고비 등 점주가 실제 부담하는 비용 전체에 상한을 둬야 한다는 주장이 나왔다. 반면 플랫폼 업계는 획일적인 수수료 규제가 소비자 가격 인상과 주문 감소로 이어질 수 있다며 맞섰다.11일 더불어민주당 을지로위원회와 이강일·김남근·송재봉·이재관·정진욱 의원 등은 국회의원회관에서 '배달앱 갑질 피해사례와 수수료상한제법 도입 방향 토론회'를 열었다. 전국가맹점주협의회와 공정한플랫폼을위한사장협회, 라이더유니온 등이 피해 사례를 발표하고 정부와 플랫폼업계 관계자가 제도 개선 방향을 논의했다.이날 논의의 핵심은 현재 2~7.8%로 차등 적용되는 중개수수료 자체보다 입점업체가 플랫폼을 이용하면서 실제 부담하는 전체 비용을 어떻게 규율할지에 맞춰졌다. 점주 측은 중개수수료를 낮춰도 광고비나 배달비 등 다른 비용이 늘면 부담이 줄지 않는다며 총수수료 상한제를 요구한 반면, 플랫폼 업계는 배달비와 광고비까지 수수료로 묶는 방식에 반대했다.현장에서는 상생요금제 시행 이후에도 입점업체가 체감하는 비용 부담이 여전히 크다는 주장이 잇따랐다.김준형 공정한플랫폼을위한사장협회 의장은 자신이 운영하는 음식점 사례를 들며 \"작년 1년 동안 가게 매출이 약 10억원이었는데 배달의민족과 쿠팡이츠에 ",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "[지디넷코리아]배달앱 상생요금제가 시행된 지 1년이 지났지만 입점업체의 비용 부담을 둘러싼 논란이 계속되고 있다. 소상공인·시민사회단체에서는 중개수수료뿐 아니라",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/11/dc5fc5914272972ffd771c6d6148c172.jpg",
+    "score": 4.594,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "한국CPO협의회, ‘CPO 지정·신고 실무 매뉴얼’ 발간",
+    "url": "https://zdnet.co.kr/view/?no=20260911152405",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-11T06:24:05+00:00",
+    "raw_excerpt": "[지디넷코리아]한국개인정보보호책임자협의회(한국CPO협의회, 회장 염흥열)가 개정 '개인정보 보호법' 시행일인 9월 11일에 맞춰 '개인정보 보호책임자(CPO) 지정·신고 실무 매뉴얼'을 발간했다. 개인정보보호위원회와 한국인터넷진흥원(KISA)과 공동으로 만들었다.이번 매뉴얼은 이날부터 개인정보위 누리집 'pipc.go.kr'의 정책·법령- 법령정보- 안내서와 한국CPO협의회 누리집 'kcpo.or.kr'의 ‘알림마당- 공지사항에서 내려받을 수 있다.11일 협회에 따르면, 이번 개정 법령의 주요 내용 중 하나는 일정 요건에 해당하는 개인정보처리자를 대상으로 CPO 지정·변경·해제 시 이사회 의결을 거치고 개인정보위에 신고하도록 하는 의무가 신설된 것이다.법 개정에 따라 신고 대상에 해당하는 기업 및 기관은 CPO를 지정·변경·해제하는 경우 이사회의 의결을 거쳐야 하며, 신고 사유가 발생한 날부터 6개월 이내에 개인정보위에 신고서를 제출해야 한다.법 시행일인 9월 11일 이전에 이미 지정된 CPO의 경우 별도의 이사회 의결을 거치지 않아도 되지만, 시행일부터 6개월 이내에 개인정보위에 신고해야 한다. 다만, 경영상 이유로 이사회 소집이 어려운 경우 등 부득이한 사유가 있다고 개인정보위가 인정하는 경우에는 개인정보처리자의 요청에 따라 신고 기간을 최대 1년까지 연장할 수 있다.신고 및 이사회 의결 의무가 적용되는 대상은 현행법상 전문 CP",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "[지디넷코리아]한국개인정보보호책임자협의회(한국CPO협의회, 회장 염흥열)가 개정 '개인정보 보호법' 시행일인 9월 11일에 맞춰 '개인정보 보호책임자(CPO) 지",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/11/e917587039b7559bbcf1838438f1c936.png",
+    "score": 4.577,
+    "engagement": 0,
+    "matched_keywords": [
+      "개인정보"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "\"쿠팡 잡을 카드 맞나\"…대형마트 새벽배송에 상인·노동계 우려",
+    "url": "https://zdnet.co.kr/view/?no=20260911140910",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-11T05:40:23+00:00",
+    "raw_excerpt": "[지디넷코리아]정부가 대형마트의 새벽배송을 허용하는 방안을 검토하자 중소상공인과 노동계가 반발하고 나섰다. 이미 쿠팡이 온라인 유통시장을 선점한 만큼, 새벽배송 허용이 쿠팡 견제나 대형마트의 실적 반등으로 이어지기 어렵다는 주장이다.오히려 대형마트가 전국 점포를 물류 거점으로 활용해 근거리 배송을 확대하면 동네 마트 같은 골목상권 수요를 잠식할 가능성이 크다고 우려했다. 인력이 줄어든 대형마트에서 상품 선별·포장과 심야근무가 기존 노동자에게 추가로 전가될 수 있다는 지적도 나왔다.11일 국회에서 열린 ‘대형마트 새벽배송, 누구를 위한 규제 완화인가’ 토론회에서는 대형마트의 새벽배송을 허용하더라도 쿠팡의 시장 지배력을 낮추는 효과는 제한적일 것이란 관측이 나왔다.이날 우원식 전 국회의장은 인사말을 통해 “새벽배송을 둘러싼 사회적 논의의 출발점은 온라인 유통·물류 현장에서 잇따라 발생한 과도한 심야노동과 과로사의 비극을 어떻게 멈출 것인가였다”며 “온라인 플랫폼 중심의 과열된 심야배송 경쟁을 바로잡기보다 오히려 오프라인 현장으로 그 경쟁을 확대하는 방향으로 흘러가고 있는 것 아닌가 우려된다”고 말했다.첫 번째 발제를 맡은 송관철 한국노동사회연구소 연구위원은 쿠팡 배송노동자의 과로 문제에서 시작된 논의가 대형마트의 새벽배송과 의무휴업 규제 완화로 이어진 것은 논리적으로 맞지 않는다고 지적했다.송 연구위원은 “쿠팡의 과로사 문제에서 시작해 ",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "[지디넷코리아]정부가 대형마트의 새벽배송을 허용하는 방안을 검토하자 중소상공인과 노동계가 반발하고 나섰다. 이미 쿠팡이 온라인 유통시장을 선점한 만큼, 새벽배송",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/11/3423f61c691047fb58d7cb13c9128008.jpg",
+    "score": 4.537,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "시스원, 창립 44주년...\"대한민국 대표 중견기업 성장할 것\"",
+    "url": "https://zdnet.co.kr/view/?no=20260911141919",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-11T05:19:19+00:00",
+    "raw_excerpt": "[지디넷코리아]\"시스원(SysOne)은 지난 44년간 대한민국 IT산업의 변화와 함께 성장해왔습니다. 저희는 화려한 혁신보다 업무 시간에 시스템이 멈추지 않는 것, 데이터가 막히지 않는 것, 즉 '무결점의 시간'을 지키는 일을 우선해 왔습니다. 사고가 난 뒤 수습하는 회사가 아니라 사고가 나지 않게 상시 들여다보는 회사여야 한다는 것, 이것이 44년간 한결같이 지켜온 저희의 기준입니다.\"시스원이 창립 44주년을 맞아 11일 마곡 사옥에서 전현직 임직원 등이 참석한 가운데 기념식을 개최했다. 1982년 9월 설립한 시스원은 IT 인프라 구축 및 운영과 시스템 통합, 유지보수, IT 아웃소싱 등을 오랫동안 해온 인프라 전문 IT서비스 기업이다.이날 이상훈 대표는 \"시스원은 어느 한 사람의 힘으로 만들어진 회사가 아니다\"면서 \"선배님들이 딱아 놓으신 길 위에 후배들이 새로운 길을 더하며 만들어온 44년의 역사\"라고 짚었다. 이날 행사에도 정만진, 이갑수, 서일종 등 전임 대표들이 모두 참석했다. 시스원은 임직원 재직 기간이 길기로 유명한 회사이기도 하다. 실제 이날 행사에 참석한 정만진 전 대표는 35년, 이갑수 전 대표는 40년 근속했다. 서일종 전 대표도 25년 이상 근무했다.이날 이상훈 대표는 \"이제 우리는 또 한번의 거대한 변화 앞에 서 있다\"면서 AX 회사로 계속 발전해 갈 것을 천명했다. \"과거 정보화 시대였고, 최근 10년이 ",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "[지디넷코리아]\"시스원(SysOne)은 지난 44년간 대한민국 IT산업의 변화와 함께 성장해왔습니다. 저희는 화려한 혁신보다 업무 시간에 시스템이 멈추지 않는 것",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/11/b015d0abf116c31559c9335541cfacc1.jpg",
+    "score": 4.517,
+    "engagement": 0,
+    "matched_keywords": [
+      "ax"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "AWS, 대학생 AI 코딩 교육 확대...‘키로 스튜던트’ 국내 3개 대학 추가",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21540",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-09-10T13:53:24+00:00",
+    "raw_excerpt": "AWS는 8일(현지시간) ‘키로 스튜던트’ 프로그램을 16개국 121개 대학으로 확대한다고 밝혔다.키로 스튜던트는 지난 3월 2개국 11개 대학을 대상으로 시작한 프로그램으로, 이번 확대로 지원 대상은 총 18개국 132개 대학으로 늘었다. 한국에서는 서울대학교와 연세대학교, 국민대학교가 새롭게 대상에 포함됐다. 현재 키로의 공식 학생 프로그램 페이지에도 세 대학이 대상 학교로 등록돼 있다.대상 대학 재학생은 키로 프로를 1년간 무료로 사용할 수 있다. 키로 프로는 월 1000크레딧을 제공하는 유료 요금제로 현재 월 이용료가 20달",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "AWS는 8일(현지시간) ‘키로 스튜던트’ 프로그램을 16개국 121개 대학으로 확대한다고 밝혔다.키로 스튜던트는 지난 3월 2개국 11개 대학을 대상으로 시작한",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202609/21540_22282_4836.jpg",
+    "score": 4.46,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai 코딩"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "Astra for Coding: Why Are We Doing This Again?",
+    "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-11T06:23:06+00:00",
+    "raw_excerpt": "Article URL: https://lucumr.pocoo.org/2026/9/7/astra-why/ Comments URL: https://news.ycombinator.com/item?id=49654229 Points: 287 # Comments: 203",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://lucumr.pocoo.org/2026/9/7/astra-why/ Comments URL: https://news.ycomb",
+    "thumbnail": "https://lucumr.pocoo.org/social/2026-09-07-astra-why-social.png",
+    "score": 2.712,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "GPT‑Live‑1 in the API",
+    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-11T05:45:19+00:00",
+    "raw_excerpt": "Article URL: https://openai.com/index/introducing-gpt-live-1-in-the-api/ Comments URL: https://news.ycombinator.com/item?id=49653985 Points: 4 # Comments: 2",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://openai.com/index/introducing-gpt-live-1-in-the-api/ Comments URL: htt",
+    "thumbnail": "",
+    "score": 2.691,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "We Replaced MMAP with Io_uring in Our Rust Query Engine. It Got Slower",
+    "url": "https://www.conviva.ai/resource/we-replaced-mmap-with-io_uring-in-our-rust-query-engine-it-got-slower/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-11T05:26:58+00:00",
+    "raw_excerpt": "Article URL: https://www.conviva.ai/resource/we-replaced-mmap-with-io_uring-in-our-rust-query-engine-it-got-slower/ Comments URL: https://news.ycombinator.com/item?id=49653882 Points: 34 # Comments: 14",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://www.conviva.ai/resource/we-replaced-mmap-with-io_uring-in-our-rust-qu",
+    "thumbnail": "",
+    "score": 2.681,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "Exercise intensity is associated with cardiometabolic health",
+    "url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-11T03:48:10+00:00",
+    "raw_excerpt": "Article URL: https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2 Comments URL: https://news.ycombinator.com/item?id=49653328 Points: 89 # Comments: 41",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(26)00405-2 Com",
+    "thumbnail": "",
+    "score": 2.626,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "What Comes After Git",
+    "url": "https://ersc.io/blog/what-comes-after-git",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-11T02:49:52+00:00",
+    "raw_excerpt": "Article URL: https://ersc.io/blog/what-comes-after-git Comments URL: https://news.ycombinator.com/item?id=49652985 Points: 45 # Comments: 11",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://ersc.io/blog/what-comes-after-git Comments URL: https://news.ycombina",
+    "thumbnail": "https://ersc.io/og/blog/what-comes-after-git.png",
+    "score": 2.594,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "Nine coding harnesses vs. your laptop",
+    "url": "https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-10T22:54:01+00:00",
+    "raw_excerpt": "Article URL: https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182b80d59fa3cf500f0450ba?pvs=74 Comments URL: https://news.ycombinator.com/item?id=49651221 Points: 86 # Comments: 20",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://nasutton.notion.site/Nine-coding-harnesses-vs-your-laptop-3d139990182",
+    "thumbnail": "https://app.notion.com/images/meta/default.png",
+    "score": 2.463,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
+    "url": "https://merybenavente.me/blog/proof-of-capture",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-10T19:44:15+00:00",
+    "raw_excerpt": "Article URL: https://merybenavente.me/blog/proof-of-capture Comments URL: https://news.ycombinator.com/item?id=49649222 Points: 103 # Comments: 56",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://merybenavente.me/blog/proof-of-capture Comments URL: https://news.yco",
+    "thumbnail": "",
+    "score": 2.357,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  }
+]
