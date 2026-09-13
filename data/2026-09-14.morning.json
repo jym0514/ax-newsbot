@@ -1,0 +1,818 @@
+[
+  {
+    "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+    "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-09-14T00:00:00+00:00",
+    "raw_excerpt": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Perplexity uses Astra to write communications, change software, and monitor production sys",
+    "thumbnail": "",
+    "score": 6.946,
+    "engagement": 0,
+    "matched_keywords": [
+      "perplexity"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Trump and Mike Johnson think the AI industry is overreacting",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-09-13T19:41:48+00:00",
+    "raw_excerpt": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Hassabis offered tentative support for Amodei's proposal. Donald Trump and House Speaker Mike Johnson, however, [ ]",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time t",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK466_ELECTION_2024_CVirginia_E.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+    "score": 6.574,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai",
+      "anthropic"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+    "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-09-13T16:30:00+00:00",
+    "raw_excerpt": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “cent",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2282234557.jpg?w=1024",
+    "score": 6.186,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "artificial intelligence"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Altman, Musk, and Hassabis back Amodei's call to add independent oversight",
+    "url": "https://the-decoder.com/altman-musk-and-hassabis-back-amodeis-call-to-add-independent-oversight/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-09-13T08:53:00+00:00",
+    "raw_excerpt": "Sam Altman, Elon Musk, and Demis Hassabis back Dario Amodei's call to slow down AI development, at least in part. Altman says OpenAI is pushing its IPO to 2027 over safety concerns. The article Altman, Musk, and Hassabis back Amodei s call to add independent oversight appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Sam Altman, Elon Musk, and Demis Hassabis back Dario Amodei's call to slow down AI develop",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/RSI_recursive_self_improvement.png",
+    "score": 5.663,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "What’s behind the AI industry’s latest warnings of doom?",
+    "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-09-13T19:40:15+00:00",
+    "raw_excerpt": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existent",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2233466982.jpg?resize=1200,821",
+    "score": 5.579,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Anthropic CEO outlines plan to slow AI development",
+    "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-09-12T19:34:44+00:00",
+    "raw_excerpt": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024",
+    "score": 5.573,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai",
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Elevenlabs makes Music v2.5 available via app and API with free and pro tier options",
+    "url": "https://the-decoder.com/elevenlabs-makes-music-v2-5-available-via-app-and-api-with-free-and-pro-tier-options/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-09-13T13:40:36+00:00",
+    "raw_excerpt": "ElevenLabs has released Music v2.5 for its AI music generator. In a blind test with nearly 48,000 comparison pairs, listeners preferred the new version over its predecessor. The company says the model was trained only on licensed music. The article Elevenlabs makes Music v2.5 available via app and API with free and pro tier options appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "ElevenLabs has released Music v2.5 for its AI music generator. In a blind test with nearly",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/elevenlabs_music_25.png",
+    "score": 5.167,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Iris-mini and Iris-pro are the strongest open-weight search agents in their class",
+    "url": "https://the-decoder.com/iris-mini-and-iris-pro-are-the-strongest-open-weight-search-agents-in-their-class/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-09-13T12:58:18+00:00",
+    "raw_excerpt": "The AllSpark team has released Iris-mini and Iris-pro, two open-source search agents built on Qwen models that lead benchmarks among open-weight models in their size classes. According to the paper, the training data and models also improved performance on tasks they were never trained for, including general tool use and office work. The article Iris-mini and Iris-pro are the strongest open-weight search agents in their class appeared first on The Decoder .",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "The AllSpark team has released Iris-mini and Iris-pro, two open-source search agents built",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/search-agents-allspark-nano-banana-pro.jpg",
+    "score": 5.119,
+    "engagement": 0,
+    "matched_keywords": [
+      "tool use"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Two-year university study finds banning AI from classrooms leaves students worse off",
+    "url": "https://the-decoder.com/two-year-university-study-finds-banning-ai-from-classrooms-leaves-students-worse-off/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-09-13T09:27:01+00:00",
+    "raw_excerpt": "A law professor spent two years testing how an AI ban, unguided AI use, and structured training affect student performance. The group without AI finished last both years. \"I was wrong,\" the researcher writes, who had assumed that AI without guidance would do more harm than good. The article Two-year university study finds banning AI from classrooms leaves students worse off appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "A law professor spent two years testing how an AI ban, unguided AI use, and structured tra",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/ai-classroom-law-students-nano-banana-pro.jpg",
+    "score": 4.877,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Your car is selling your data",
+    "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-09-13T12:00:00+00:00",
+    "raw_excerpt": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on cars, data privacy, and autonomous vehicles, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it started Earlier this year, the Federal Trade Commission [ ]",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-144097019.jpg?quality=90&strip=all&crop=0%2C10.678370919471%2C100%2C78.643258161058&w=1200",
+    "score": 4.593,
+    "engagement": 0,
+    "matched_keywords": [
+      "privacy"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "\"지침 줄이고 완료 기준 명확히\"...오픈AI가 밝힌 '아스트라' 활용법",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215202",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-13T11:18:20+00:00",
+    "raw_excerpt": "'GPT-6 아스트라'의 등장으로 코딩 에이전트 활용 방식과 개발자가 작성하는 스킬·프롬프트의 설계 원칙도 다시 점검할 필요가 커지고 있다. 과거에는 모델의 작업을 원하는 방향으로 유도하기 위해 상세한 지침과 반복적인 스캐폴딩이 필요했지만, 모델 성능이 크게 향상되면서 지나친 지시가 오히려 판단을 방해하는 요소로 지적됐다.오픈AI는 11일(현지시간) 블로그를 통해 아스트라 모델을 위한 스킬 및 프롬프트 재고찰(Rethinking Skills and Prompts) 지침을 공개했다.코덱스 개발자 경험(DevX) 연구원 에릭 프로벤처는",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "'GPT-6 아스트라'의 등장으로 코딩 에이전트 활용 방식과 개발자가 작성하는 스킬·프롬프트의 설계 원칙도 다시 점검할 필요가 커지고 있다. 과거에는 모델의 작업",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215202_219000_1137.png",
+    "score": 4.593,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "제프 딘의 AI 스타트업 디스커버리 루프, 67조 몸값 노린다",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215197",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-13T10:39:55+00:00",
+    "raw_excerpt": "구글의 전설적인 AI 연구자 제프 딘이 설립한 AI 스타트업 디스커버리 루프(Discovery Loop)가 500억달러(약 67조원)의 기업 가치를 목표로 투자 유치에 나선 것으로 알려졌다. 쟁쟁한 연구진을 앞세워 제품을 출시하기도 전인 설립 2개월 만에 목표 평가액이 100억달러에서 500억달러로 5배 급등했다. 비즈니스 인사이더는 11일(현지시간) 정통한 관계자를 인용, 디스커버리 루프가 약 500억달러의 기업 가치로 신규 자금 조달을 추진하고 있다고 보도했다.협상 조건은 변경될 수 있으며, 실제로 500억달러 몸값으로 투자 유",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "구글의 전설적인 AI 연구자 제프 딘이 설립한 AI 스타트업 디스커버리 루프(Discovery Loop)가 500억달러(약 67조원)의 기업 가치를 목표로 투자",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215197_218995_2817.jpg",
+    "score": 4.558,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업",
+      "투자 유치"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "엔비디아, 앤트로픽 초대형 IPO에 '13조 앵커 투자' 논의",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215196",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-13T10:12:36+00:00",
+    "raw_excerpt": "엔비디아가 앤트로픽의 기업공개(IPO)에 최대 100억달러(약 13조4000억원)를 투자하는 방안을 검토하고 있는 것으로 알려졌다. 성사될 경우 엔비디아는 앤트로픽의 핵심 앵커 투자자로 참여하며 AI 모델 개발사와 컴퓨팅 인프라 공급사 간 전략적 협력 관계를 한층 더 강화할 전망이다.로이터는 11일(현지시간) 정통한 관계자들을 인용, 앤트로픽이 엔비디아를 IPO의 핵심 앵커 투자자(Anchor Investor)로 참여시키기 위해 협상을 진행하고 있다고 보도했다. 투자 규모와 조건 등은 아직 논의 중이며 변경될 가능성이 있다고 관계자",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "엔비디아가 앤트로픽의 기업공개(IPO)에 최대 100억달러(약 13조4000억원)를 투자하는 방안을 검토하고 있는 것으로 알려졌다. 성사될 경우 엔비디아는 앤트로",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215196_218992_4248.png",
+    "score": 4.533,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "엔비디아"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "신한카드, 카드사 최초 ‘챗지피티 포 카카오’와 연계... AI 대화형 금융 서비스 선보인다",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41894",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-13T16:15:23+00:00",
+    "raw_excerpt": "신한카드(사장 박창훈)는 카카오와 협업해 ‘챗지피티 포 카카오(ChatGPT for Kakao)’에서 카드 추천과 금융생활 콘텐츠 등 신한카드 서비스를 제공한다고 13일 밝혔다. 국내 카드사가 카카오의 인공지능 서비스와 연계해 금융서비스를 제공하는 것은 이번이 처음이다.이번 서비스는 고객이 ChatGPT for Kakao와 대화하는 과정에서 신한카드의 상품과 콘텐츠 정보를 손쉽게 확인할 수 있도록 한 것이 특징이다. 제공 서비스는 카드추천, 인기카드 조회, 카드 상세혜택 조회, 소비 인사이트 및 금융생활 콘텐츠 등 총 4종이다. 고",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "신한카드(사장 박창훈)는 카카오와 협업해 ‘챗지피티 포 카카오(ChatGPT for Kakao)’에서 카드 추천과 금융생활 콘텐츠 등 신한카드 서비스를 제공한다고",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41894_63030_1515_v150.jpg",
+    "score": 4.487,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "크게 성공하거나 망하거나: 벤처 시장에서 사라지는 중간 지대",
+    "url": "https://news.hada.io/topic?id=33652",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-13T21:36:38+00:00",
+    "raw_excerpt": "기업가치 1조 달러 스타트업 이 가능하다는 기대가 투자 기준을 바꾸면서, 자본과 유능한 창업자가 가장 거대한 성공을 노리는 분야로 몰리고 있음 투자자들이 유망하다고 보는 일부 AI 분야에는 자금과 관심이 집중되지만, SaaS, 소비자 서비스, 커머스 등은 상대적으로 소외...",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "기업가치 1조 달러 스타트업 이 가능하다는 기대가 투자 기준을 바꾸면서, 자본과 유능한 창업자가 가장 거대한 성공을 노리는 분야로 몰리고 있음 투자자들이 유망하다",
+    "thumbnail": "https://social.news.hada.io/topic/33652?v=e26e65dbb4585c763f51570bf4b4eea2",
+    "score": 4.462,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업",
+      "벤처",
+      "창업"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "아모데이 CEO, AI 개발 속도 늦춰야…재귀적 자기개선·AI 에이전트 군집 위험 경고",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41891",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-13T15:18:59+00:00",
+    "raw_excerpt": "인공지능(AI) 선도기업 앤트로픽의 다리오 아모데이(Dario Amodei) CEO가 AI 모델의 성능 향상 속도를 의도적으로 늦춰야 한다고 공개적으로 제안했다. 이는 AI 기술 발전 자체를 중단하자는 것이 아니라, AI의 능력이 향상되는 속도와 안전성 연구 및 검증이 따라가는 속도 사이의 격차를 줄여야 한다는 주장이다.특히 아모데이는 최근 AI가 차세대 AI 개발에 직접 관여하는 ‘재귀적 자기개선(Recursive Self-Improvement, RSI)’이 업계 전반에서 나타나면서 AI 발전 속도가 크게 빨라지고 있다고 진단했다",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "인공지능(AI) 선도기업 앤트로픽의 다리오 아모데이(Dario Amodei) CEO가 AI 모델의 성능 향상 속도를 의도적으로 늦춰야 한다고 공개적으로 제안했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41891_63024_1841_v150.jpg",
+    "score": 4.44,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "AWS, 한국 '국민대·서울대·연세대' 포함...18개국 132개 대학에 AI 코딩 에이전트 ‘키로’ 1년 무료 제공",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41890",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-13T14:13:14+00:00",
+    "raw_excerpt": "아마존웹서비스(AWS)가 대학생들을 대상으로 인공지능(AI) 기반 소프트웨어 개발 역량을 키울 수 있도록 AI 에이전트 ‘키로(Kiro)’를 1년간 무료로 제공한다. 한국에서는 국민대학교, 서울대학교, 연세대학교가 대상 대학에 포함됐다.AWS는 전 세계 18개국 132개 대학의 학생들이 키로를 1년 동안 무료로 사용할 수 있는 ‘키로 포 스튜던츠(Kiro for Students)’ 프로그램을 확대한다.이번 프로그램은 신용카드 등록 없이 이용할 수 있으며, 학생들에게 매월 1,000 크레딧과 최신 AI 모델, 별도의 설치 없이 웹에서",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "아마존웹서비스(AWS)가 대학생들을 대상으로 인공지능(AI) 기반 소프트웨어 개발 역량을 키울 수 있도록 AI 에이전트 ‘키로(Kiro)’를 1년간 무료로 제공한",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41890_63023_120_v150.jpg",
+    "score": 4.385,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+    "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-13T21:06:13+00:00",
+    "raw_excerpt": "Article URL: https://www.vals.ai/blogs/fable-solves-cyphral-distich Comments URL: https://news.ycombinator.com/item?id=49688695 Points: 134 # Comments: 34",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Article URL: https://www.vals.ai/blogs/fable-solves-cyphral-distich Comments URL: https://",
+    "thumbnail": "https://www.vals.ai/og.jpg",
+    "score": 4.129,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Flawed Routers Flood University of Wisconsin Internet Time Server (2003)",
+    "url": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-13T20:33:18+00:00",
+    "raw_excerpt": "Article URL: https://pages.cs.wisc.edu/~plonka/netgear-sntp/ Comments URL: https://news.ycombinator.com/item?id=49688391 Points: 20 # Comments: 2",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://pages.cs.wisc.edu/~plonka/netgear-sntp/ Comments URL: https://news.yc",
+    "thumbnail": "",
+    "score": 4.102,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
+    "url": "https://twitter.com/TechEmails/status/2099214399840059428",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-13T20:08:45+00:00",
+    "raw_excerpt": "Article URL: https://twitter.com/TechEmails/status/2099214399840059428 Comments URL: https://news.ycombinator.com/item?id=49688157 Points: 193 # Comments: 76",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://twitter.com/TechEmails/status/2099214399840059428 Comments URL: https",
+    "thumbnail": "https://pbs.twimg.com/media/HSHoUQnawAAiEMn?format=webp&name=large",
+    "score": 4.081,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "I'm being cyberattacked by Tesla, Inc",
+    "url": "https://dreamstation.systems/personal/tesla.html",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-13T18:03:09+00:00",
+    "raw_excerpt": "Article URL: https://dreamstation.systems/personal/tesla.html Comments URL: https://news.ycombinator.com/item?id=49686766 Points: 356 # Comments: 101",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://dreamstation.systems/personal/tesla.html Comments URL: https://news.y",
+    "thumbnail": "",
+    "score": 3.977,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Global Shortage Has Led to Motor Oil Rationing at Costco",
+    "url": "https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-13T17:57:59+00:00",
+    "raw_excerpt": "Article URL: https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing-at-costco/ Comments URL: https://news.ycombinator.com/item?id=49686697 Points: 172 # Comments: 128",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://guessingheadlights.com/global-shortage-has-led-to-motor-oil-rationing",
+    "thumbnail": "https://guessingheadlights.com/wp-content/uploads/2026/09/Checking-and-changing-your-oil-is-important-to-engine-health-V2.jpg",
+    "score": 3.973,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "구글, 코딩 강화 위해 스타트업 메카나이즈 인재 흡수",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215205",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-13T11:37:03+00:00",
+    "raw_excerpt": "구글이 약점으로 꼽히는 AI 코딩 성능을 끌어올리기 위해 스타트업 메카나이즈(Mechanize) 인원을 대거 영입하는 대형 계약을 단행했다.비즈니스 인사이더는 11일(현지시간) 구글이 메카나이즈의 핵심 기술과 인력을 흡수하기 위한 15억달러(약 2조원) 규모의 인재 확보 계약을 마무리했다고 보도했다.이번 거래는 반독점 규제 위험을 줄이면서도 필요한 코딩 기술 역량을 단숨에 끌어올리기 위한 결정으로 해석된다.메카나이즈는 AI 모델의 코드 작성 및 프로그램 수정 능력을 전문적으로 끌어올리는 기술을 연구해 왔다. 코딩 부문은 구글이 그동",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "구글이 약점으로 꼽히는 AI 코딩 성능을 끌어올리기 위해 스타트업 메카나이즈(Mechanize) 인원을 대거 영입하는 대형 계약을 단행했다.비즈니스 인사이더는 1",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215205_219004_25.jpg",
+    "score": 3.96,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Device Drivers lab exercise – COSC562",
+    "url": "https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-13T17:41:50+00:00",
+    "raw_excerpt": "Article URL: https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html Comments URL: https://news.ycombinator.com/item?id=49686503 Points: 20 # Comments: 2",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://web.eecs.utk.edu/~smarz1/courses/cosc562/drivers.html Comments URL: h",
+    "thumbnail": "",
+    "score": 3.959,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Why is Google still serving dodgy ads?",
+    "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-13T17:37:44+00:00",
+    "raw_excerpt": "Article URL: https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads Comments URL: https://news.ycombinator.com/item?id=49686445 Points: 418 # Comments: 200",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads Com",
+    "thumbnail": "https://www.atomic14.com/assets/article_images/2026-09-13/dodgy.webp",
+    "score": 3.956,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Romania soccer introduces black card to 'combat abusive behaviour' from parents",
+    "url": "https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-13T17:08:16+00:00",
+    "raw_excerpt": "Article URL: https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee/ Comments URL: https://news.ycombinator.com/item?id=49686134 Points: 88 # Comments: 54",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-refer",
+    "thumbnail": "https://static01.nyt.com/athletic/uploads/wp/2026/09/12065230/GettyImages-1280058303-scaled.jpg?width=1200&height=630&fit=cover",
+    "score": 3.931,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "테슬라, 10월 1일 2세대 로드스터 공개...‘비행’ 기능 베일 벗을까",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215200",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-13T10:27:35+00:00",
+    "raw_excerpt": "테슬라가 오랜 기간 출시가 미뤄져 온 2세대 로드스터를 오는 10월1일 공개할 예정이다. 2017년 처음 공개된 이후 수차례 일정이 연기된 모델인 만큼, 이번 공개를 계기로 실제 양산까지 이어질 수 있을지 관심이 쏠린다.테슬라는 12일(현지시간) X에 “Go for launch(출격 준비 완료)”라는 짧은 메시지와 함께 ’10.01’이라는 날짜가 표시된 이미지를 게시했다. 이에 따라 10월1일 차세대 로드스터를 공개할 것으로 예상된다.특히 이미지에는 로드스터에 적용될 것으로 알려진 냉가스 추진기(cold gas thrusters)를",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "테슬라가 오랜 기간 출시가 미뤄져 온 2세대 로드스터를 오는 10월1일 공개할 예정이다. 2017년 처음 공개된 이후 수차례 일정이 연기된 모델인 만큼, 이번 공",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215200_218997_4011.jpg",
+    "score": 3.897,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "나주, 첫 사회복지의 날 기념식…복지 종사자 등 600여명 참석",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215163",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-13T09:45:00+00:00",
+    "raw_excerpt": "AI 생성 영상나주시가 제27회 사회복지의 날을 맞아 지역 사회복지 종사자들이 참여하는 자체 기념행사를 처음 열었다.나주는 지난 9일 나주문화예술회관에서 사회복지시설·기관·단체 종사자와 지역사회보장협의체 위원, 노인맞춤돌봄 종사자 등 600여명이 참석한 가운데 ‘제1회 나주시 사회복지의 날 기념식’을 개최했다고 11일 밝혔다.이번 행사는 지역 복지 현장에서 일하는 종사자들의 노고를 격려하고 민관 복지 관계자 간 교류를 확대하기 위해 마련됐다.기념식은 시립국악단 공연을 시작으로 사회복지사 선서, 기념사, 유공자 표창, 기념영상 상영,",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "AI 생성 영상나주시가 제27회 사회복지의 날을 맞아 지역 사회복지 종사자들이 참여하는 자체 기념행사를 처음 열었다.나주는 지난 9일 나주문화예술회관에서 사회복지",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215163_218941_2936.jpg",
+    "score": 3.859,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Libraries Run Rust Inside Python (With PyO3)",
+    "url": "https://belderbos.dev/blog/how-libraries-run-rust-inside-python/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-13T15:24:05+00:00",
+    "raw_excerpt": "Article URL: https://belderbos.dev/blog/how-libraries-run-rust-inside-python/ Comments URL: https://news.ycombinator.com/item?id=49685037 Points: 49 # Comments: 30",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://belderbos.dev/blog/how-libraries-run-rust-inside-python/ Comments URL",
+    "thumbnail": "https://belderbos.dev/images/og/how-libraries-run-rust-inside-python.png",
+    "score": 3.844,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+    "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-13T14:28:36+00:00",
+    "raw_excerpt": "Article URL: https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment Comments URL: https://news.ycombinator.com/item?id=49684393 Points: 334 # Comments: 154",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Article URL: https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-",
+    "thumbnail": "",
+    "score": 3.798,
+    "engagement": 0,
+    "matched_keywords": [
+      "hack"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "최악의 스팸 이메일: iLands AI 에이전트의 돈벌이 공세",
+    "url": "https://news.hada.io/topic?id=33632",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-13T16:47:23+00:00",
+    "raw_excerpt": "iLands AI 에이전트 가 한 프리랜서에게 사흘 동안 12통 넘는 이메일을 보내, 약 25달러에 조사 업무를 대신하겠다고 제안함 스스로를 “ 인간과 에이전트의 네트워크 ”라고 부르는 iLands는 자율 봇을 위한 Fiverr와 같은 서비스로, 이메일을 보내온 사람과 거래하듯...",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "iLands AI 에이전트 가 한 프리랜서에게 사흘 동안 12통 넘는 이메일을 보내, 약 25달러에 조사 업무를 대신하겠다고 제안함 스스로를 “ 인간과 에이전트의",
+    "thumbnail": "https://social.news.hada.io/topic/33632?v=1511e020cea874c587fe943d52deb566",
+    "score": 3.761,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "임문영 의원-GIST, “지역에서 배우고 일하는 AI·반도체 인재 키운다”",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41889",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-13T10:23:35+00:00",
+    "raw_excerpt": "광주과학기술원(GIST·지스트, 총장 임기철)은 임문영 국회의원(전남광주 광산구을)과 공동으로 지난 12일, GIST 오룡관 다산홀에서 ‘꿈을 이루는 도시, 전남광주 반도체·AI 미래교육 토론회’를 개최했다고 밝혔다.호남권에 반도체 칩 생산시설인 ‘팹(Fabrication Facility, FAB)’ 투자가 본격화되면서, 지역 산업의 성장에 필요한 반도체·AI 인재를 지역에서 어떻게 키울 것인지가 중요한 과제로 떠오르고 있다.이번 토론회는 반도체 산업의 성장을 지역 학생들의 진로와 미래 일자리로 연결하기 위해 마련됐다. AI·반도체",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "광주과학기술원(GIST·지스트, 총장 임기철)은 임문영 국회의원(전남광주 광산구을)과 공동으로 지난 12일, GIST 오룡관 다산홀에서 ‘꿈을 이루는 도시, 전남",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41889_63020_1634_v150.jpg",
+    "score": 3.594,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "바이브 코딩으로 만든 대시보드가 형편없어 보이는 10가지 이유",
+    "url": "https://news.hada.io/topic?id=33651",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-13T21:36:17+00:00",
+    "raw_excerpt": "AI에 “보기 좋은 대화형 대시보드”를 요청하면 차트와 필터는 만들어주지만, 사용자가 무엇을 찾고 어디부터 봐야 하는지 까지 정리해주지는 못함 월드컵 데이터로 만든 대시보드는 명확한 질문이나 탐색 흐름 없이 정보를 나열하고 모든 요소를 비슷하게 강조해, 중요한 내...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "AI에 “보기 좋은 대화형 대시보드”를 요청하면 차트와 필터는 만들어주지만, 사용자가 무엇을 찾고 어디부터 봐야 하는지 까지 정리해주지는 못함 월드컵 데이터로 만",
+    "thumbnail": "https://social.news.hada.io/topic/33651?v=658a6e44eed044340cfa5c0e235ba07f",
+    "score": 3.462,
+    "engagement": 0,
+    "matched_keywords": [
+      "바이브 코딩"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "[서울-로슈 데모데이]혈액속 miRNA로 질환 선별…분자진단 고도화",
+    "url": "https://www.etnews.com/20260911000174",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-09-13T21:00:00+00:00",
+    "raw_excerpt": "'2026 서울-로슈진단 스타트업 스프린트 데모데이'에서 우승을 차지한 제노헬릭스는 혈액 속 마이크로RNA(miRNA)를 활용해 질환 위험을 찾아내는 분자진단 기술을 선보였다. 질환에 따라 종류와 양이 달라지는 마이크로RNA의 변화를 혈액에서 읽어 파킨슨병과 다계통위축증(MSA), 대사이상 지방간질환(MASLD) 등을 구분하는 기술을 개발한다. 제노헬릭스는 '제노센서'를 이용해 마이크로RNA를 직접 찾아내는 방식을 적용했다. 복잡한 변환 과정을",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "'2026 서울-로슈진단 스타트업 스프린트 데모데이'에서 우승을 차지한 제노헬릭스는 혈액 속 마이크로RNA(miRNA)를 활용해 질환 위험을 찾아내는 분자진단 기",
+    "thumbnail": "https://img.etnews.com/news/article/2026/09/11/news-p.v1.20260911.5317441402f34cc9a278b49708d351eb_P1.jpg",
+    "score": 3.437,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "[서울-로슈 데모데이]로슈 손잡은 K진단 스타트업…글로벌 진출 '고속도로' 탄다",
+    "url": "https://www.etnews.com/20260911000167",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-09-13T21:00:00+00:00",
+    "raw_excerpt": "글로벌 시장 진입을 노리는 국내 진단 분야 혁신 스타트업들이 한 자리에 모였다. 인공지능(AI)을 토대로 한 심전도 기반 예측, 여성 가임력 예측·관리, 현장진단(POCT), 마이크로RNA 탐지 플랫폼 등 신선한 아이디어로 무장한 첨단 기술들이 소개됐다. 마이크로RNA 탐지 플랫폼을 활용해 파킨슨병과 대사이상 관련 지방간질환(MASLD) 정밀진단 기술을 선보인 제노헬릭스는 기술성과 사업성, 로슈진단과의 협업 시너지 등에서 가장 높은 점수를 받아",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "글로벌 시장 진입을 노리는 국내 진단 분야 혁신 스타트업들이 한 자리에 모였다. 인공지능(AI)을 토대로 한 심전도 기반 예측, 여성 가임력 예측·관리, 현장진단",
+    "thumbnail": "https://img.etnews.com/news/article/2026/09/10/news-p.v1.20260910.971321dd21204658b1b5248864bb54b7_P1.jpg",
+    "score": 3.437,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "AI 에이전트는 왜 거짓말하고, 부정행위를 하며, 서로 협력하는가?",
+    "url": "https://news.hada.io/topic?id=33613",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-13T08:37:03+00:00",
+    "raw_excerpt": "인간 모방과 강화학습 이 AI의 아첨, 자기 보존, 에이전트 간 협력을 유도할 수 있으며, 학습 원리를 바꾸지 않으면 역량 향상과 함께 일탈도 심각해질 수 있음 보상 해킹 은 인간의 의도와 보상 기준 사이의 틈을 최적화하는 행동임. 프롬프트와 인간 피드백의 모호...",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "인간 모방과 강화학습 이 AI의 아첨, 자기 보존, 에이전트 간 협력을 유도할 수 있으며, 학습 원리를 바꾸지 않으면 역량 향상과 함께 일탈도 심각해질 수 있음",
+    "thumbnail": "https://social.news.hada.io/topic/33613?v=814f4268928c38d4e1bbc3583ffca352",
+    "score": 3.421,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Google은 왜 여전히 수상한 광고를 내보내는가?",
+    "url": "https://news.hada.io/topic?id=33641",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-13T19:43:43+00:00",
+    "raw_excerpt": "YouTube에서 iPhone 저장 공간 경고를 흉내 낸 광고 에 속아 클릭한 뒤 두 차례 신고했지만, Google은 모두 정책 위반이 아니라는 답변을 보냄 다른 이용자들도 같은 답변을 받은 반면, 동일한 광고를 Google Gemini에 평가하게 하자 수초 만에 게재 불승인 대상으로 판단",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "YouTube에서 iPhone 저장 공간 경고를 흉내 낸 광고 에 속아 클릭한 뒤 두 차례 신고했지만, Google은 모두 정책 위반이 아니라는 답변을 보냄 다른",
+    "thumbnail": "https://social.news.hada.io/topic/33641?v=fddca64635b3f16a7012295284c9e69e",
+    "score": 3.384,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Revolut, 가짜 정부 정보 요청으로 인한 고객 데이터 유출 확인",
+    "url": "https://news.hada.io/topic?id=33630",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-13T16:41:23+00:00",
+    "raw_excerpt": "영국 핀테크 Revolut 이 실제 정부기관의 이메일 도메인에서 발송된 허위 정보 요청을 받고, 권한 없는 제3자에게 민감한 고객 정보를 제공한 사실을 확인함 유출 정보에는 신원 정보와 연락처 , 여권과 운전면허증 사본이 포함되며, 본인 확인용 셀카와 계좌 명세서...",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "영국 핀테크 Revolut 이 실제 정부기관의 이메일 도메인에서 발송된 허위 정보 요청을 받고, 권한 없는 제3자에게 민감한 고객 정보를 제공한 사실을 확인함 유",
+    "thumbnail": "https://social.news.hada.io/topic/33630?v=a520103aa6b008a446912781ab5a8c2f",
+    "score": 3.257,
+    "engagement": 0,
+    "matched_keywords": [
+      "데이터 유출"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Show GN: 스테인드글래스 완성하는 퍼즐 게임 - The Artisan of Glimmith 클론",
+    "url": "https://news.hada.io/topic?id=33624",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-13T13:38:51+00:00",
+    "raw_excerpt": "The Artisan of Glimmith 라는 게임을 재밌게 하고있는데, 주말에 심심해서 클로드와 함께 비슷하게 만들어 봤습니다. 퍼즐을 만드는 과정을 시뮬레이션을 통해 자동으로 생성하게 한게 특징이고요. 여러가지 룰을 엮어서 더 어렵게(?) 즐길 수 있습니다. 에이전트 돌릴 때 시간때우기 용으로 좋",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "The Artisan of Glimmith 라는 게임을 재밌게 하고있는데, 주말에 심심해서 클로드와 함께 비슷하게 만들어 봤습니다. 퍼즐을 만드는 과정을 시뮬레이",
+    "thumbnail": "https://social.news.hada.io/topic/33624?v=f95781fd845f573ec3459f1ed1f49cd2",
+    "score": 3.13,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "새우등 터진 韓 로봇, 美 수출 제동",
+    "url": "https://www.etnews.com/20260911000247",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-09-13T07:00:00+00:00",
+    "raw_excerpt": "미국 연방통신위원회(FCC)가 외국산 휴머노이드로봇·자율주행로봇(AMR) 수입을 규제함에 따라 국내 기업에 비상이 걸렸다. 일부 로봇 기업은 FCC 조치 이후 미국 수출길이 아예 막혔다. 정부 차원 대책이 시급하다는 지적이다. 발단은 FCC가 지난 7월 발표한 외국산 로봇 수입 규제 조치다. FCC는 7월 28일부터 신규 승인을 받지 않은 첨단 로봇을 미국에서 수입·유통·판매할 수 없도록 제재를 가하고 있다. 휴머노이드로봇 ·사족보행로봇·AMR",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "미국 연방통신위원회(FCC)가 외국산 휴머노이드로봇·자율주행로봇(AMR) 수입을 규제함에 따라 국내 기업에 비상이 걸렸다. 일부 로봇 기업은 FCC 조치 이후 미",
+    "thumbnail": "https://img.etnews.com/news/article/2026/04/13/news-p.v1.20260413.58cf36d4e01e4156bf0f51d8e9faa7aa_P1.jpg",
+    "score": 2.853,
+    "engagement": 0,
+    "matched_keywords": [
+      "휴머노이드"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  }
+]
