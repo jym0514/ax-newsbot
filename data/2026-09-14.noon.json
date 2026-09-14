@@ -1,0 +1,614 @@
+[
+  {
+    "title": "사이버 위협 대응 역량 및 보안 주권 강화...S2W, 정부 주도 ‘보안 특화 AI 파운데이션 모델’ 개발 사업 참여",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41897",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-14T09:24:30+00:00",
+    "raw_excerpt": "빅데이터 분석 인공지능(AI) 기업 에스투더블유(이하 S2W)가 과학기술정보통신부와 정보통신산업진흥원(NIPA)이 주관하는 ‘특화 인공지능 파운데이션 모델 개발(사이버 보안 분야) 사업’에 참여한다고 14일 밝혔다.최근 AI가 사이버 위협의 속도와 정교함을 높이는 동시에 탐지와 대응 역량을 강화하는 핵심 기술로 부상하며 보안 산업 전반의 AI 전환(AX)가 빠르게 진행되고 있다.특히 앤트로픽(Anthropic)의 ‘클로드 미토스(Claude Mythos)’ 사례를 통해 확인할 수 있듯, AI가 취약점 탐색과 공격·방어를 직접 수행하",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "빅데이터 분석 인공지능(AI) 기업 에스투더블유(이하 S2W)가 과학기술정보통신부와 정보통신산업진흥원(NIPA)이 주관하는 ‘특화 인공지능 파운데이션 모델 개발(",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41897_63033_2414_v150.jpg",
+    "score": 9.479,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "파운데이션 모델",
+      "anthropic"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "의료 AI 안전성 점검한 '레드팀 챌린지'…국내외 LLM 12종 공격 검증",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215217",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-14T11:16:16+00:00",
+    "raw_excerpt": "의료 AI의 안전성과 신뢰성을 실제 환경에서 검증하는 ‘2026 첨단AI 디지털의료제품 레드팀 챌린지 및 기술 워크숍’이 지난 3~4일 서울 중구 노보텔 앰배서더 서울 동대문 그랜드볼룸에서 열렸다.국가인공지능전략위원회 이원태 보안특별위원장이 대회장을 맡은 이번 행사는 한국전자통신연구원(ETRI), 분당서울대학교병원, STA테스팅컨설팅, 한국화학융합시험연구원(KTR)이 공동 주관하고 한국인터넷진흥원(KISA), 한국보건산업진흥원, Upstage, 대한의료인공지능학회 등이 후원했다.첫날 열린 챌린지에는 삼성SDS, 카카오뱅크, SK쉴더",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "의료 AI의 안전성과 신뢰성을 실제 환경에서 검증하는 ‘2026 첨단AI 디지털의료제품 레드팀 챌린지 및 기술 워크숍’이 지난 3~4일 서울 중구 노보텔 앰배서더",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215217_219013_1336.jpg",
+    "score": 9.446,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "llm"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "LG AI연구원, 제조·금융·과학 ‘전문가 AI’ 공개…자율공장부터 신소재·신약·금융 예측까지",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41904",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-14T11:30:38+00:00",
+    "raw_excerpt": "LG AI연구원이 범용 인공지능(AI)을 넘어 제조·금융·과학 등 산업별 전문지식을 갖춘 ‘전문가 AI’를 공개하며 산업 현장 중심의 AI 전환에 속도를 낸다.14일, LG AI연구원은 서울 강서구 마곡 LG사이언스파크에서 ‘LG AI 토크 콘서트 2026’을 열고 제조·금융·과학 분야에서 개발·적용 중인 AI 기술과 성과를 소개했다.이날 임우형 LG AI연구원 공동 연구원장은 기조연설에서 “좋은 인공지능 모델을 만드는 것도 중요하지만, 오랫동안 산업 현장에서 풀지 못했던 어려운 문제를 해결하는 것이 LG AI연구원의 미션”이라며",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "LG AI연구원이 범용 인공지능(AI)을 넘어 제조·금융·과학 등 산업별 전문지식을 갖춘 ‘전문가 AI’를 공개하며 산업 현장 중심의 AI 전환에 속도를 낸다.1",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41904_63042_2949_v150.jpg",
+    "score": 7.837,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "딥엑스, 저전력 AI 추론 기술 ‘녹색기술’ 인증 획득...전력 소모 최대 26% 절감, 동작 온도도 20도 이상 낮춰",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41902",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-14T11:11:21+00:00",
+    "raw_excerpt": "초저전력 인공지능(AI) 반도체 기업 딥엑스(대표 김녹원)는 자사의 저전력 AI 추론 기술에 대해 정부의 ‘녹색기술 인증’을 획득했다고 14일 밝혔다. 해당 기술을 적용한 DX-M1·DX-H1 기반 AI 가속 모듈 4종도 ‘녹색기술제품 확인’을 받았다.이번에 녹색기술 인증을 받은 기술은 ‘저전력 엣지 컴퓨팅 가속용 AI 추론 기술’이다. 녹색기술제품으로 확인된 제품은 소형 엣지 AI 기기에 탑재되는 DX-M1 기반 M.2 가속 모듈 2종(DX-M1 M.2 LPDDR5x2, DX-M1M M.2(2GB))과 고성능 AI 추론용 DX-H",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "초저전력 인공지능(AI) 반도체 기업 딥엑스(대표 김녹원)는 자사의 저전력 AI 추론 기술에 대해 정부의 ‘녹색기술 인증’을 획득했다고 14일 밝혔다. 해당 기술",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41902_63040_1047_v150.jpg",
+    "score": 7.813,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "LG디스플레이, AI전문가 육성 위한 ‘AX 스쿼드’ 확대...AI 내재화 통한 기술 중심 회사 전환",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41900",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-14T10:48:59+00:00",
+    "raw_excerpt": "LG디스플레이가 ‘AX 스쿼드(SQUAD)’를 앞세워 전사 인공지능 전환(AX)에 속도를 낸다.‘AX 스쿼드’는 각 사업부의 실무자가 실제 업무 중 부딪히는 문제나 반복 업무를 직접 AI 과제로 수립하고 AI 도구를 통해 해결 방안을 개발하는 실행 중심의 전사 프로젝트다. 일반 사무직을 포함한 개발 및 생산 등 전임직원이 AI를 활용하여 과제를 해결해 나갈 수 있도록 전문성을 갖춘 AX 그룹 내 AI 전문가가 코치로 참여해 지원한다. LG디스플레이의 ‘AX 스쿼드’는 현업의 문제를 가장 정확하게 파악하고 있는 실무자와의 AI 도구에",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "LG디스플레이가 ‘AX 스쿼드(SQUAD)’를 앞세워 전사 인공지능 전환(AX)에 속도를 낸다.‘AX 스쿼드’는 각 사업부의 실무자가 실제 업무 중 부딪히는 문제",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41900_63038_4842_v150.jpg",
+    "score": 7.785,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "한컴, 세계 최초 AI 워크포스 플랫폼 '노마디안'...3D 업무 공간에 AI 직원 및 팀 구현",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41896",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-14T09:20:05+00:00",
+    "raw_excerpt": "한컴이 자체 에이전틱 OS를 기반으로 3D 업무 공간을 구현한 세계 최초 인공지능(AI) 워크포스 플랫폼 '노마디안(Nomadian)'을 출시한다. 직원을 채용해 업무를 맡기는 것처럼 AI 에이전트로 팀을 꾸려 운영하는 서비스를 시장에 내놓는다. 노마디안은 미국 1인 창업가들을 정조준한 글로벌 에이전틱 OS 제품이다.시장에서는 AI 기업으로 체질을 바꾼 한컴이 글로벌 에이전틱 OS 기업으로 한 단계 더 도약하게 됐다는 평가가 나온다. 한컴은 1인 창업가 층이 두텁게 형성된 미국에서 노마디안의 상품성과 실용성을 앞세워 시장을 빠르게",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "한컴이 자체 에이전틱 OS를 기반으로 3D 업무 공간을 구현한 세계 최초 인공지능(AI) 워크포스 플랫폼 '노마디안(Nomadian)'을 출시한다. 직원을 채용해",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41896_63032_1929_v150.jpg",
+    "score": 7.674,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "'AI 속도 조절'에 블랙 먼데이 오나...전문가들 \"반도체 장기 수요는 탄탄\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215211",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-14T11:31:44+00:00",
+    "raw_excerpt": "AI 업계 리더들이 기술 개발 속도를 늦추고 안전장치를 강화해야 한다고 촉구하고 나선 가운데, 이러한 움직임이 단기적으로는 반도체 및 공급망 관련 주가에 하락 압력을 가할 수 있으나 컴퓨팅 인프라에 대한 탄탄한 투자 수요 덕분에 장기적 파급력은 제한적일 것이라는 시장 전략가들의 분석이 나왔다. 13일(현지시간) 블룸버그에 따르면, AI 업계에서 최첨단 모델 개발 속도를 늦춰야 한다는 목소리가 잇따르면서 반도체와 전력·데이터센터 등 AI 공급망 관련주가 단기적인 매도 압력을 받을 수 있다는 전망이 나왔다. 특히 월요일 증시 개장을 앞",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "AI 업계 리더들이 기술 개발 속도를 늦추고 안전장치를 강화해야 한다고 촉구하고 나선 가운데, 이러한 움직임이 단기적으로는 반도체 및 공급망 관련 주가에 하락 압",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215211_219010_2328.jpg",
+    "score": 7.517,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "[AI리더의 서가] 클로드와 엑셀로 시작하는 AI 주식 투자",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215171",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-14T09:00:00+00:00",
+    "raw_excerpt": "클로드와 엑셀로 시작하는 AI 주식 투자LearnAI Team | 위키북스2026년 9월 15일상세보기 한국예탁결제원이 지난 3월 발표한 12월 결산 상장법인 주식 소유자 수는 1,456만 명으로 전년보다 2.3% 늘어 역대 최대를 기록했다. 연령별로는 50대가 23.1%로 가장 많았지만 40대 21.8%, 30대 19.1%로 직장인 연령대가 고르게 분포한다.추석 연휴를 앞둔 9월은 서점에서도 하반기 자산 점검을 위해 재테크 서가를 찾는 직장인이 늘어나는 시기다. 이 시기에 맞춰 오는 15일 출간되는 『클로드와 엑셀로 시작하는 AI",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "클로드와 엑셀로 시작하는 AI 주식 투자LearnAI Team | 위키북스2026년 9월 15일상세보기 한국예탁결제원이 지난 3월 발표한 12월 결산 상장법인 주",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215171_218950_3419.jpg",
+    "score": 7.311,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "[AI리더의 서가] AI 광고 콘텐츠 제작법",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215170",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-14T09:00:00+00:00",
+    "raw_excerpt": "AI 광고 콘텐츠 제작법김남훈·임성희·황성연 | 이은북2026년 8월 31일상세보기 광고 현장에서 생성 AI는 이미 '검토 대상'이 아니라 '사용 중인 도구'가 됐다. 한국콘텐츠진흥원이 지난해 10월 발표한 조사에 따르면 2025년 상반기 국내 콘텐츠 사업체의 생성 AI 활용률은 20.0%로 직전 반기보다 7.1%포인트 올랐고, 광고산업은 '마케팅·홍보 업무'를 최우선 활용 분야로 꼽았다.향후 활용 의향은 51.8%로 게임산업 다음으로 높았다. 해외에서도 미국 IT매체 더버지가 브랜드 마케터 1000명을 조사한 결과 절반 이상이 이",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AI 광고 콘텐츠 제작법김남훈·임성희·황성연 | 이은북2026년 8월 31일상세보기 광고 현장에서 생성 AI는 이미 '검토 대상'이 아니라 '사용 중인 도구'가",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215170_218949_3129.jpg",
+    "score": 7.311,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "[AI리더의 서가] AI 편집 디자인",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215168",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-14T09:00:00+00:00",
+    "raw_excerpt": "AI 편집 디자인이미정·유은진·강경희·신호진·앤미디어 | 길벗2026년 09월 21일상세보기 영풍문고 디자인·컴퓨터 실용서 서가에서 손님들의 질문이 바뀌고 있다. 지난해까지만 해도 \"AI로 이미지 만드는 법이 나온 책이 있느냐\"는 질문이 대부분이었다면, 요즘은 \"AI로 만든 이미지를 인디자인에 어떻게 얹어야 하느냐\", \"포토샵에서 배경을 늘린 다음 편집 파일에서 깨지지 않게 하려면 어떤 책을 봐야 하느냐\"처럼 한 단계 구체적인 질문이 늘었다는 것이 현장 MD들의 말이다.이원준 영풍문고 기술부문 MD는 \"생성 AI 입문서는 이미 여러",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AI 편집 디자인이미정·유은진·강경희·신호진·앤미디어 | 길벗2026년 09월 21일상세보기 영풍문고 디자인·컴퓨터 실용서 서가에서 손님들의 질문이 바뀌고 있다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215168_218947_242.jpg",
+    "score": 7.311,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "식약처, 긴급도입 의료기기 공급은 안정적으로...AI 허위광고 제재는 엄격하게",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41901",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-14T11:06:35+00:00",
+    "raw_excerpt": "식품의약품안전처(처장 오유경)는 긴급도입 의료기기 제도에 대한 법적근거 마련 등을 주요 내용으로 하는 의료기기법이 개정(‘26.6.9.)됨에 따라 총리령 위임사항을 규정하고 식의약 안심 60대 과제를 신속히 이행하기 위해 의료기기법 시행규칙 개정안을 14일 입법예고 했다.긴급도입 의료기기는 희귀·난치질환자 등에 대한 치료 기회 확대를 위해 국내 허가가 없는 의료기기를 국가가 직접 수입 등의 방법으로 공급하는 제도다. 개정안의 주요 내용은 긴급도입 의료기기 지정·공급 세부 절차 마련, 의료기기 해당 여부 사전검토 대상·범위 구체화,",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "식품의약품안전처(처장 오유경)는 긴급도입 의료기기 제도에 대한 법적근거 마련 등을 주요 내용으로 하는 의료기기법이 개정(‘26.6.9.)됨에 따라 총리령 위임사항",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41901_63039_619_v150.jpg",
+    "score": 6.907,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "KT, 산업별 AX 과제와 해법 담은 ‘AX 인사이트 리포트’ 발간",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41895",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-14T09:15:16+00:00",
+    "raw_excerpt": "KT(대표이사 박윤영)가 엄격한 규제와 높은 보안 수준이 요구되는 금융·공공 분야의 인공지능 전환(AX) 현황과 주요 과제를 분석한 ‘KT AX 인사이트 리포트’를 14일 발간했다.KT는 금융편과 공공편 등 2종의 리포트를 공개했다. 이번 리포트는 지난 7월 국내 은행·증권·보험·카드사 임직원 200명과 중앙부처·지자체·공공기관 임직원 200명 등 총 400명을 대상으로 실시한 설문조사를 바탕으로 제작됐다.리포트에는 금융·공공 분야의 AX 추진 현황과 주요 과제, 망분리 규제 완화와 AI 가이드라인 개정 등 제도 변화에 따른 대응",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "KT(대표이사 박윤영)가 엄격한 규제와 높은 보안 수준이 요구되는 금융·공공 분야의 인공지능 전환(AX) 현황과 주요 과제를 분석한 ‘KT AX 인사이트 리포트’",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41895_63031_1446_v150.jpg",
+    "score": 6.768,
+    "engagement": 0,
+    "matched_keywords": [
+      "ax"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "카카오임팩트-소풍벤처스, ‘한국기후위크’ 출범 선언…내년 9월 첫 개최",
+    "url": "https://zdnet.co.kr/view/?no=20260914111959",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-14T02:26:57+00:00",
+    "raw_excerpt": "[지디넷코리아]카카오 임팩트재단이 소풍벤처스와 공동으로 주최한 ‘기후테크 스타트업 서밋(CTSS)’을 지난 10일부터 12일까지 제주에서 개최했다.14일 재단에 따르면, 올해 서밋은 ‘기후를 움직이는 인공지능(AI), AI를 움직이는 에너지’를 주제로 카카오 제주 오피스 스페이스닷원과 엠버퓨어힐 호텔 앤 리조트에서 진행됐다. 기후테크 스타트업을 비롯해 투자·금융·정부·공공기관·연구·학계 전문가 150여 명이 참석해 기후 문제를 해결하는 AI 기술과 전력·에너지 확보 방안을 논의했다.서밋 5주년을 계기로 민·관·학 11개 기관이 참여하는 '한국기후위크' 출범 선언도 이어졌다. 한국기후위크는 기후 해법 모색과 국내 기후테크의 글로벌 연결을 위한 공동 플랫폼으로 2027년 9월 첫 개최를 목표로 한다. 3일간 진행된 서밋에서는 스타트업 챌린지 파이널 피칭과 세션 토론, 정책 스페셜 세션 등 다채로운 프로그램이 열렸다. 카카오는 2040년 넷제로 목표에 맞춰 제주 오피스 100% 재생에너지 전환과 데이터센터 안산의 태양광 직접 전력구매계약(PPA) 도입 등 친환경 경영을 확대해 나가고 있다.김성환 기후에너지환경부 장관은 “전 지구적 과제인 기후위기 해결에 한국이 앞장서야 할 때”라며 “특히 기후테크 스타트업이 그간 쌓아 올린 기술력이 그 가능성을 세계 무대로 확장할 수 있도록 기후에너지환경부도 든든한 기반을 만들고 책임을 다하겠다”고 말했다",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "[지디넷코리아]카카오 임팩트재단이 소풍벤처스와 공동으로 주최한 ‘기후테크 스타트업 서밋(CTSS)’을 지난 10일부터 12일까지 제주에서 개최했다.14일 재단에",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/14/9a389e19be0d17cd859875264ce53f6c.jpg",
+    "score": 5.368,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업",
+      "벤처"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "ICT 수출 역대최대 600억 달러 육박...국가 전체 수출 61% 차지",
+    "url": "https://zdnet.co.kr/view/?no=20260914103242",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-14T02:02:56+00:00",
+    "raw_excerpt": "[지디넷코리아]AI 인프라 투자 확대에 힘입어 지난달 ICT 수출액 규모가 600억 달러에 육박하며 역대 최대 기록을 갈아치웠다. 특히 반도체 수출이 전년보다 3배 이상으로 늘어난 466억 7000만 달러를 기록하며 전체 ICT 수출의 약 78%를 책임졌다.과학기술정보통신부가 14일 발표한 지난달 ICT 수출입 동향에 따르면 수출액은 599억 8000만 달러로 지난해보다 162.6% 증가했다.같은 기간 수입은 48.8% 늘어난 186억1000만 달러를 기록해 ICT 무역수지는 413억 7000만 달러 흑자로 잠정 집계됐다. 월간 ICT 무역수지로는 사상 처음 400억 달러를 넘어섰다.ICT 수출은 지난 6월 572억 8000만 달러, 7월 533억 6000만 달러에 이어 3개월 연속 500억 달러를 돌파했다. 8월에는 기존 최고치였던 6월 실적도 넘어섰다.전체 수출 982억 5000만 달러 가운데 ICT 비중은 61.0%로 처음 60%를 돌파했다.기록적인 수출 증가를 이끈 품목은 반도체다. 8월 반도체 수출은 466억 7000만 달러로 전년 동월 대비 209.0% 증가하며 월간 기준 역대 최대를 기록했다. ICT 수출 10달러 가운데 약 8달러가 반도체에서 나온 셈이다.글로벌 빅테크의 설비투자가 확대되면서 AI 인프라 수요가 이어진 데다 메모리 초과수요에 따른 가격 상승이 맞물렸다. 반도체 수출은 지난 5월 371억 6000만 달러에",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "[지디넷코리아]AI 인프라 투자 확대에 힘입어 지난달 ICT 수출액 규모가 600억 달러에 육박하며 역대 최대 기록을 갈아치웠다. 특히 반도체 수출이 전년보다 3",
+    "thumbnail": "https://image.zdnet.co.kr/2026/05/27/f67afa404ba27a9f17b733c106f0a348.jpg",
+    "score": 5.346,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "빅테크"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "플랫폼 '위험 관리' 의무화하나…온라인안전법 두 번째 공개토론",
+    "url": "https://zdnet.co.kr/view/?no=20260914104923",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-14T01:57:12+00:00",
+    "raw_excerpt": "[지디넷코리아]국회 과학기술정보방송통신위원회 소속 이주희 더불어민주당 의원은 대한변호사협회와 오는 16일 오후 3시 국회의원회관 제2간담회의실에서 ‘안전한 디지털공간, 권리와 책임의 새 기준 온라인안전법 제정 토론회’를 개최한다고 14일 밝혔다.이번 행사는 지난 4일 한국언론법학회와 진행한 ‘한국형 온라인안전법 입법 방향과 쟁점’ 세미나에 이은 두 번째 공개토론회다. 첫 토론회에서도 유럽연합(EU) 디지털서비스법(DSA)과 영국·호주 등의 규제 사례를 참고하되 국내 현실에 맞는 규율 체계를 마련해야 한다는 문제의식이 제시됐다.이번 토론회에서는 법률 전문가를 중심으로 플랫폼에 부과할 책임의 범위와 이용자 권리, 피해구제 절차 등을 살펴본다.논의의 핵심은 플랫폼의 책임을 개별 불법 게시물에 대한 사후 삭제·차단에서 서비스 전반의 위험 관리로 확대하는 것이다. 디지털 성범죄물과 사기·도박, 혐오·사이버폭력뿐 아니라 추천 알고리즘과 광고·수익화 구조, 중독을 유발할 수 있는 서비스 설계 등에 대해 플랫폼이 위험을 평가하고 완화하는 방안이 검토되고 있다.사업자 규모와 서비스 기능에 따른 차등 의무를 비롯해 아동·청소년 보호, 이용자의 신고와 이의제기 절차, 알고리즘·광고 투명성, 분쟁조정과 감독 체계 등도 주요 쟁점이다.반면 이용자 보호를 명분으로 플랫폼에 과도한 의무를 부과할 경우 표현의 자유를 위축시키거나 과잉규제로 이어질 수 있다는 우려",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "[지디넷코리아]국회 과학기술정보방송통신위원회 소속 이주희 더불어민주당 의원은 대한변호사협회와 오는 16일 오후 3시 국회의원회관 제2간담회의실에서 ‘안전한 디지털",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/14/938c6509d0e12e8f624b256283e0c261.png",
+    "score": 5.34,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제",
+      "입법"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "우오현 SM그룹, 배터리 기술영토 확장…에스엠벡셀, 美 완성차와 ‘차세대 LMR’ 협력",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=48938",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-14T09:49:25+00:00",
+    "raw_excerpt": "[스마트타임스]우오현 회장이 이끄는 SM그룹이 제조부문 계열사 에스엠벡셀을 앞세워 차세대 배터리 기술 경쟁력 강화에 나선다. 미국 소재 글로벌 자동차 기업과 손잡고 차세대 양극 소재인 LMR(Lithium Manganese Rich)을 적용한 원통형 이차전지 개발·검증 역량 확보에 나서면서 배터리 사업의 기술 영역을 넓히고 있다.에스엠벡셀은 미국 소재 글로벌 자동차 기업과 LMR을 적용한 원통형 이차전지의 설계·제작·평가 기술을 확보하고 신규 배터리 소재의 성능을 체계적으로 검증하기 위한 프로젝트를 진행하고 있다고 14일 밝혔다.이",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "[스마트타임스]우오현 회장이 이끄는 SM그룹이 제조부문 계열사 에스엠벡셀을 앞세워 차세대 배터리 기술 경쟁력 강화에 나선다. 미국 소재 글로벌 자동차 기업과 손잡",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202609/48938_47733_4752_v150.jpg",
+    "score": 5.108,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "스타트업을 강력하게 만드는 법",
+    "url": "https://news.hada.io/topic?id=33659",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-13T22:42:36+00:00",
+    "raw_excerpt": "매출을 늘리는 방법보다 회사를 더 강력하게 만드는 방법 을 물으면, 점진적 개선을 넘어 기업 가치를 몇 자릿수나 키울 수 있는 전환을 발견하기도 함 고객 관계와 자금 흐름 을 확보하고, 다른 기업이 제품 위에 사업을 구축하게 하거나 네트워크 효과를 만들면 회...",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "매출을 늘리는 방법보다 회사를 더 강력하게 만드는 방법 을 물으면, 점진적 개선을 넘어 기업 가치를 몇 자릿수나 키울 수 있는 전환을 발견하기도 함 고객 관계와",
+    "thumbnail": "https://social.news.hada.io/topic/33659?v=b28df5009461839c6aa3e57bea38f467",
+    "score": 4.981,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Windows에서 AMD GPU로 CUDA 실행하기",
+    "url": "https://news.hada.io/topic?id=33649",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-13T20:55:19+00:00",
+    "raw_excerpt": "ZLUDA와 AMD HIP/ROCm을 조합 해, NVIDIA CUDA용 Windows 프로그램을 AMD GPU에서 실행할 수 있도록 설치/진단/실행 스크립트를 제공하는 프로젝트 GPU와 드라이버를 확인하고 필요한 구성 요소를 내려받은 뒤, 대상 프로그램에 호환 DLL과 실행 경로를 설정 하는 과...",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "ZLUDA와 AMD HIP/ROCm을 조합 해, NVIDIA CUDA용 Windows 프로그램을 AMD GPU에서 실행할 수 있도록 설치/진단/실행 스크립트를 제",
+    "thumbnail": "https://social.news.hada.io/topic/33649?v=e63dc332fd00544b273aa70c026e25b1",
+    "score": 4.869,
+    "engagement": 0,
+    "matched_keywords": [
+      "gpu"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "오뚜기, 함태호 명예회장 서거 10주기 추모식",
+    "url": "https://zdnet.co.kr/view/?no=20260914104707",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-14T02:18:10+00:00",
+    "raw_excerpt": "[지디넷코리아]오뚜기가 고 함태호 명예회장 서거 10주기를 맞아 지난 11일 경기도 안양시 함태호홀에서 추모식을 진행했다고 14일 밝혔다.이번 추모식은 오뚜기를 창업해 국내 식품산업 발전을 이끈 함 명예회장의 삶과 발자취를 돌아보고, 품질제일주의와 식생활 향상을 위한 사명감, 나눔의 정신 등 창업자의 경영철학을 되새기기 위해 마련됐다.함 명예회장은 지난 1930년 함경남도 원산에서 태어나 6·25전쟁 당시 자원입대해 군 복무를 마친 뒤 식품산업에 뛰어들었다. 이후 식품원료 제조업체에서 경영 경험을 쌓은 뒤 1969년 오뚜기의 전신인 풍림상사를 설립했다.같은 해 ‘오뚜기 카레’를 시작으로 스프, 케챂, 마요네스, 식초 등 다양한 식품을 선보였으며 이후 ‘오뚜기 3분 카레’로 대표되는 즉석식품을 통해 국내 식문화 변화에도 영향을 미쳤다.함 명예회장은 “우리 가족이 먹는 음식이라는 마음가짐으로 제품을 만들어야 한다”고 강조하며 품질을 최우선 가치로 삼았다. 식품의 질을 높여 국가 발전에 기여한다는 ‘식품보국(食品輔國)’ 정신도 경영 철학으로 내세웠다.사회공헌 활동도 이어갔다. 함 명예회장은 1992년 한국심장재단을 통한 선천성 심장병 어린이 후원을 시작했고, 1996년에는 재단법인 오뚜기함태호재단의 기반을 마련해 장학사업과 학술지원에 나섰다.심장병 어린이 후원은 현재까지 이어지고 있다. 오뚜기에 따르면 2026년 8월 기준 누적 6783명",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "[지디넷코리아]오뚜기가 고 함태호 명예회장 서거 10주기를 맞아 지난 11일 경기도 안양시 함태호홀에서 추모식을 진행했다고 14일 밝혔다.이번 추모식은 오뚜기를",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/14/026479224b9e5aad594d0310e1d8d55f.jpg",
+    "score": 4.685,
+    "engagement": 0,
+    "matched_keywords": [
+      "창업"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "카페24, 청주서 컨퍼런스 개최…이머커스 온라인 판로 지원",
+    "url": "https://zdnet.co.kr/view/?no=20260914104226",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-14T02:10:07+00:00",
+    "raw_excerpt": "[지디넷코리아]카페24는 내달 21일 충북 청주에서 이커머스 운영 전략을 공유하는 '메이크 유어 브랜드(MAKE YOUR BRAND)! 제조에서 브랜드로, 창업에서 성장으로'를 연다고 14일 밝혔다.이번 행사는 제조기업의 소비자 직접 판매(D2C) 전환과 자사몰 중심의 브랜드 성장을 돕기 위해 추진 중인 'K-제조 스마트 이커머스 혁신 프로젝트'의 일환이다. 생산 중심의 사업 구조에서 벗어나 고객과 직접 연결되는 판매 채널을 만들고 브랜드 경쟁력을 높일 수 있도록 관련 전략과 사례를 소개한다.행사에는 ▲우정사업본부 ▲이노비즈협회 ▲충남경제진흥원 ▲충청북도기업진흥원 ▲스마트제조혁신협회 등이 참여한다. 각 기관은 제조기업이 활용할 수 있는 정책과 지원 사업을 안내할 예정이다.카페24는 올해 이미 두 차례 관련 컨퍼런스를 열었다. 지난 6월 첫 행사에는 모집 정원의 두 배에 가까운 신청이 몰렸고, 7월 행사에는 350명이 참석했다. 이번에는 지역 개최 요청 등을 반영해 청주에서 행사를 열고, 참가 규모도 1000명으로 늘렸다.컨퍼런스 주제도 기존의 D2C와 브랜드 운영 전략에서 제조기업의 사업 전반으로 확대한다. ▲생산 현장의 디지털 전환 ▲자사몰 구축·운영 ▲물류 ▲고객 확보와 관리 등 성장 과정에서 필요한 내용을 다룬다.카페24는 ▲자사몰 구축과 운영을 포함해 ▲브랜딩 ▲데이터 기반 마케팅 ▲글로벌 판매 ▲고객 응대 등 온라인 사업 역",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "[지디넷코리아]카페24는 내달 21일 충북 청주에서 이커머스 운영 전략을 공유하는 '메이크 유어 브랜드(MAKE YOUR BRAND)! 제조에서 브랜드로, 창업에",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/14/1febd1af703ec708babdcf8a0a852620.jpg",
+    "score": 4.677,
+    "engagement": 0,
+    "matched_keywords": [
+      "창업"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "macOS 패키지 관리자 Homebrew v7",
+    "url": "https://news.hada.io/topic?id=33618",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-13T10:04:30+00:00",
+    "raw_excerpt": "macOS 15 Sequoia, 26 Tahoe, 27 Golden Gate 까지만 Tier 1 지원 대상 Intel Mac은 Tier 3로 강등, 2027년 9월 이후 지원 중단 예정 brew install homebrew-app : 공식 GUI 앱 출시 brew vulns : npm audit과 비슷한 취약점 검사 기능 추가...",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "macOS 15 Sequoia, 26 Tahoe, 27 Golden Gate 까지만 Tier 1 지원 대상 Intel Mac은 Tier 3로 강등, 2027년 9",
+    "thumbnail": "https://social.news.hada.io/topic/33618?v=41e2c2197543b35dbf61b6e4dc52d61c",
+    "score": 4.191,
+    "engagement": 0,
+    "matched_keywords": [
+      "취약점"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "퇴로도 성장도 막힌 의료법인…“합병·기술사업화 허용해야”",
+    "url": "https://www.etnews.com/20260911000143",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-09-13T07:00:00+00:00",
+    "raw_excerpt": "지역 필수의료의 한 축을 담당하는 의료법인이 공공기관에 준하는 규제를 받으면서도 정부의 재정 지원과 연구개발(R D)·기술사업화에서는 '민간 사업자'로 분류돼 성장과 혁신의 사각지대에 놓였다는 지적이 제기됐다. 공공병원을 새로 짓는 방식에만 의존하지 말고 기존 의료법인을 지역 필수의료와 의료 혁신의 기반으로 활용할 수 있도록 제도를 개선해야 한다는 주장이다. 13일 대한의료법인연합회에 따르면 연합회는 의료법인에 적용되는 공적 규제와 재정 지원",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "지역 필수의료의 한 축을 담당하는 의료법인이 공공기관에 준하는 규제를 받으면서도 정부의 재정 지원과 연구개발(R D)·기술사업화에서는 '민간 사업자'로 분류돼 성",
+    "thumbnail": "https://img.etnews.com/news/article/2026/09/10/news-p.v1.20260910.072cc4086e9c4b83b6851d655e78c0d5_P1.png",
+    "score": 3.999,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Show HN: Is It Greg?",
+    "url": "https://github.com/antoineleclair/is-it-greg",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-14T01:58:41+00:00",
+    "raw_excerpt": "My friend Greg often posts incredible things he just made, just for fun. Often, I don't realize that it's something HE made and then I see the URL, AND IT'S MY FRIEND, GREG! A few things he made that I think are amazing: - ikea complexity index: https://ikea.greg.technology/ - Boing: https://boing.greg.technology/ I want to make sure I don't miss anything from him, so I created this Chrome extension that flags things posted by Greg, or linking to his website or a subdomain. I hope other people will install the extension and never miss anything Greg made. Comments URL: https://news.ycombinator.com/item?id=49690943 Points: 23 # Comments: 6",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "My friend Greg often posts incredible things he just made, just for fun. Often, I don't re",
+    "thumbnail": "https://opengraph.githubassets.com/3e99a1432c620ffc3355d24c966bcaaf655e8c5a80e5a3c1e6b6a8bb5869627f/antoineleclair/is-it-greg",
+    "score": 2.765,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Writing a better reality: The case for optimistic sci-fi",
+    "url": "https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-14T00:27:11+00:00",
+    "raw_excerpt": "Article URL: https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic-sci-fi/ Comments URL: https://news.ycombinator.com/item?id=49690279 Points: 9 # Comments: 4",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://honisoit.com/2022/03/writing-a-better-reality-the-case-for-optimistic",
+    "thumbnail": "",
+    "score": 2.715,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Apple's Dimensional Drawings",
+    "url": "https://developer.apple.com/accessories/dimensional-drawings/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-14T00:11:21+00:00",
+    "raw_excerpt": "Article URL: https://developer.apple.com/accessories/dimensional-drawings/ Comments URL: https://news.ycombinator.com/item?id=49690174 Points: 29 # Comments: 4",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://developer.apple.com/accessories/dimensional-drawings/ Comments URL: h",
+    "thumbnail": "https://developer.apple.com/news/images/og/accessories-og.jpg",
+    "score": 2.706,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "The Coming War on General Computation (2011)",
+    "url": "https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-13T23:54:55+00:00",
+    "raw_excerpt": "Article URL: https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation Comments URL: https://news.ycombinator.com/item?id=49690051 Points: 55 # Comments: 14",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation Comments",
+    "thumbnail": "",
+    "score": 2.697,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "The contagion of fear",
+    "url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-13T22:38:18+00:00",
+    "raw_excerpt": "Article URL: https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/ Comments URL: https://news.ycombinator.com/item?id=49689460 Points: 158 # Comments: 124",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/ Comments URL:",
+    "thumbnail": "",
+    "score": 2.654,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+    "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-13T21:47:04+00:00",
+    "raw_excerpt": "Article URL: https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10 Comments URL: https://news.ycombinator.com/item?id=49689048 Points: 105 # Comments: 49",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://community.signalusers.org/t/registration-without-a-phone-number/2222?",
+    "thumbnail": "https://community.signalusers.org/uploads/db3609/original/3X/2/a/2aae74b9e7c4af45dfcd09cfa6e9c90fb3b7534c.png",
+    "score": 2.626,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Why is privacy so hard?",
+    "url": "https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-13T21:13:43+00:00",
+    "raw_excerpt": "Article URL: https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/ Comments URL: https://news.ycombinator.com/item?id=49688766 Points: 32 # Comments: 35",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Article URL: https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/ Comments URL: https://n",
+    "thumbnail": "",
+    "score": 2.607,
+    "engagement": 0,
+    "matched_keywords": [
+      "privacy"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Mullenweg has returned as CEO after attempted board ouster",
+    "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-13T20:19:06+00:00",
+    "raw_excerpt": "Article URL: https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/ Comments URL: https://news.ycombinator.com/item?id=49688259 Points: 57 # Comments: 112",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/10/matt-mullenweg.jpg?resize=1200,799",
+    "score": 2.577,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  }
+]
