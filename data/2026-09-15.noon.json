@@ -1,0 +1,578 @@
+[
+  {
+    "title": "구글 클라우드, SK렌터카 전사에 구글 워크스페이스 통해 AI 기반 업무 환경 혁신",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41917",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-15T09:35:18+00:00",
+    "raw_excerpt": "구글 클라우드는 SK렌터카가 전사에 구글 워크스페이스(Google Workspace)를 도입해 생성형 AI 기반 클라우드 업무 환경을 구축했다고 15일 밝혔다.SK렌터카는 그동안 보안을 위해 폐쇄형 가상 데스크톱(VDI) 기반의 업무 환경을 운영해 왔다. 그러나 VDI 환경 특성상 접속 지연과 시스템 성능 저하로 직원들의 불편이 컸고, 최신인공지능 솔루션과 클라우드 기반 협업 도구를 도입하는 데 한계가 있었다.이에 SK렌터카는 강력한 보안 수준을 유지하면서도 최신 AI 기술을 빠르게 적용할 수 있는 유연한 업무 환경을 구축하기 위해",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "구글 클라우드는 SK렌터카가 전사에 구글 워크스페이스(Google Workspace)를 도입해 생성형 AI 기반 클라우드 업무 환경을 구축했다고 15일 밝혔다.S",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41917_63056_3510_v150.jpg",
+    "score": 8.593,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "생성형 ai"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "삼성SDS, 국내 최초 앤트로픽 클로드 파트너 네트워크 셀렉트 티어 획득",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41913",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-15T09:03:07+00:00",
+    "raw_excerpt": "삼성SDS가 국내 기업 최초로 앤트로픽(Anthropic)의 ‘클로드 파트너 네트워크(CPN, Claude Partner Network)’ 셀렉트 티어(Select Tier) 파트너 자격을 획득했다. 생성형 AI 기술을 실제 기업 업무에 적용해 온 경험을 바탕으로 클로드 기반 기업용 AI와 에이전트 사업 확대에 본격적으로 나선다는 전략이다.삼성SDS는 앞서 지난 7월 미국 샌프란시스코에서 열린 AI 서밋에서 앤트로픽과 전략적 파트너십을 체결한 데 이어 이번에 클로드 파트너 네트워크 셀렉트 티어 지위를 확보했다. 클로드 파트너 네트워",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "삼성SDS가 국내 기업 최초로 앤트로픽(Anthropic)의 ‘클로드 파트너 네트워크(CPN, Claude Partner Network)’ 셀렉트 티어(Selec",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41913_63052_23_v150.jpg",
+    "score": 8.552,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "anthropic",
+      "생성형 ai"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "시티아이랩, 현대건설 본사에 멀티모달 AI 융복합 기반 전기차 화재 예측 솔루션 구축",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41921",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-15T11:06:13+00:00",
+    "raw_excerpt": "인공지능(AI) 영상 분석과 복합센서 기술로 전기차 화재 위험 신호를 감지하는 안전 솔루션 전문기업 시티아이랩㈜이 현대건설 본사에 멀티모달 AI 융복합 기반 전기차 화재 예측·감지 솔루션을 구축했다고 15일 밝혔다.이번 구축은 전기차 화재의 조기 징후부터 실제 화재 발생까지 전주기 위험을 감지·대응할 수 있도록 설계된 것이 특징으로 솔루션은 오프가스 센서, 열화상 센서, 가시광 센서 등 세 가지 핵심 센서를 중심으로 구성된다. 오프가스 센서는 전기차 배터리 열폭주 과정에서 발생하는 주요 가스를 감지해, 화재 발생 이전의 전조 신호부",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "인공지능(AI) 영상 분석과 복합센서 기술로 전기차 화재 위험 신호를 감지하는 안전 솔루션 전문기업 시티아이랩㈜이 현대건설 본사에 멀티모달 AI 융복합 기반 전기",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41921_63063_538_v150.jpg",
+    "score": 7.806,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "삼성전자, 버라이즌과 AI로 6G 핵심기술 ‘ISAC’ 현장 실증…기존 장비 그대로",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41920",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-15T10:35:46+00:00",
+    "raw_excerpt": "삼성전자가 미국 이동통신사업자 버라이즌(Verizon)과 함께 차세대 6G 핵심 기술로 꼽히는 인공지능(AI) 기반 ISAC(Integrated Sensing and Communication, 통신·센싱 융합 기술)을 실제 대규모 행사 현장에서 실증하는 데 성공했다고 15일 밝혔다.특히 기존 네트워크 장비를 교체하거나 별도의 센서를 추가하지 않고 가상화 네트워크에 소프트웨어 방식으로 ISAC 기술을 구현했다는 점에서 향후 AI와 6G 기술을 기존 통신 인프라에 신속하게 적용할 수 있는 가능성을 보여줬다는 평가다.삼성전자와 버라이즌은",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "삼성전자가 미국 이동통신사업자 버라이즌(Verizon)과 함께 차세대 6G 핵심 기술로 꼽히는 인공지능(AI) 기반 ISAC(Integrated Sensing a",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41920_63062_356_v150.jpg",
+    "score": 7.768,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "애플, AI로 완전히 다시 만든 ‘시리 AI’ 공개…‘질문에 답하는 시리’에서 ‘일을 처리하는 AI’로",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41918",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-15T10:16:25+00:00",
+    "raw_excerpt": "애플의 음성비서 ‘시리(Siri)’가 인공지능(AI)을 기반으로 전면 재설계됐다. 단순히 질문에 답하는 음성비서를 넘어 사용자의 메시지와 이메일, 사진 등 개인 정보를 이해하고, 화면에 표시된 내용을 인식하며, 여러 앱을 넘나들며 실제 작업까지 수행하는 개인형 AI 비서로 진화한 것이다.애플은 14일(현지시간) 차세대 ‘애플 인텔리전스(Apple Intelligence)’를 공개하고, 이를 기반으로 완전히 새롭게 설계한 ‘시리 AI(Siri AI)’를 선보였다. 시리 AI는 개인 맥락 이해, 웹 기반 정보 검색, 화면 인식, 시스템",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "애플의 음성비서 ‘시리(Siri)’가 인공지능(AI)을 기반으로 전면 재설계됐다. 단순히 질문에 답하는 음성비서를 넘어 사용자의 메시지와 이메일, 사진 등 개인",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41918_63059_1518_v150.jpg",
+    "score": 7.744,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "AI 데이터센터 전력난에 ‘직류’ 뜬다…ABB·BCG, AC·DC 하이브리드 전력망 제시",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41916",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-15T09:31:00+00:00",
+    "raw_excerpt": "인공지능 데이터센터(AIDC)의 폭발적인 전력 수요가 기존 교류(AC) 중심의 전력 인프라에 새로운 변화를 요구하고 있다. 태양광과 배터리, 전기차, AI 데이터센터 등 전력 생산과 소비 영역에서 직류(DC) 기반 기술이 빠르게 늘어나면서 AC와 DC를 결합한 하이브리드 전력 구조가 차세대 전력 시스템의 핵심 아키텍처로 부상할 전망이다.글로벌 전기화·자동화 기업 ABB는 보스턴컨설팅그룹(BCG)과 공동으로 ‘AC/DC 하이브리드 전력의 전략적 가치: 차세대 전력 아키텍처로의 전환(The Strategic Case for Hybrid",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "인공지능 데이터센터(AIDC)의 폭발적인 전력 수요가 기존 교류(AC) 중심의 전력 인프라에 새로운 변화를 요구하고 있다. 태양광과 배터리, 전기차, AI 데이터",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41916_63055_3024_v150.jpg",
+    "score": 7.687,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "뉴엔AI, 뉴저지주에 북미 법인 설립… ‘뷰센스’로 북미 전역 비즈니스 본격화",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41915",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-15T09:20:17+00:00",
+    "raw_excerpt": "산업 맞춤형 인공지능(AI) 분석 기업 뉴엔AI(대표 배성환)가 자사의 뷰티 특화 온톨로지 AI 분석 플랫폼 ‘뷰센스(VUSSENS)’의 해외 비즈니스 확대를 위해 미국 뉴저지주에 100% 자회사인 북미 법인(VUSSENS Inc.)을 설립했다고 15일 밝혔다.북미 법인이 위치한 뉴저지는 글로벌 비즈니스와 유통의 중심지인 뉴욕과 인접해 풍부한 산업 인프라와 뛰어난 접근성을 갖춘 전략적 요충지다. 뉴엔AI는 뉴욕대학교(NYU) 스턴(Stern) 연계 네트워크와 뉴욕 소재 ‘글로벌 AI 프론티어랩’ 등 기존에 구축해 온 현지 파트너십을",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "산업 맞춤형 인공지능(AI) 분석 기업 뉴엔AI(대표 배성환)가 자사의 뷰티 특화 온톨로지 AI 분석 플랫폼 ‘뷰센스(VUSSENS)’의 해외 비즈니스 확대를 위",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41915_63054_204_v150.jpg",
+    "score": 7.674,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "GIST, 110억 원 규모 'AI 최고급 신진연구자 지원사업' 선정…차세대 의료 AI 원천기술 개발",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41914",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-15T09:07:56+00:00",
+    "raw_excerpt": "광주과학기술원(GIST·지스트, 총장 임기철)은 과학기술정보통신부와 정보통신기획평가원(IITP)이 추진하는 ‘2026년도 AI 최고급 신진연구자(박사후연구자 또는 최초 임용 7년 이내의 교원) 지원사업’의 학제연계형 과제에 선정됐다고 15일 밝혔다.이번 선정으로 GIST는 차세대 의료 인공지능(AI) 원천기술을 개발하고, 이를 주도할 최고급 신진연구자 양성에 나선다.본 사업의 연구기간은 2026년 7월부터 2031년 12월까지 5년 6개월이며, 총 정부지원 연구개발비는 110억 원이다. GIST가 주관하고 성균관대학교가 공동연구개발",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "광주과학기술원(GIST·지스트, 총장 임기철)은 과학기술정보통신부와 정보통신기획평가원(IITP)이 추진하는 ‘2026년도 AI 최고급 신진연구자(박사후연구자 또는",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41914_63053_739_v150.jpg",
+    "score": 7.658,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "SKT, AI 시대 맞아 ‘문자’ 역할 재정의한다...GSMA RCS 표준화 회의 개최",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41911",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-15T08:40:15+00:00",
+    "raw_excerpt": "SK텔레콤(대표이사 CEO 정재헌)이 인공지능 시대를 맞아 ‘문자’의 역할을 재정의한다. AI의 업무 수행 역량이 예약·결제 등 실제 행동으로 확장하는 점을 고려해, AI 에이전트가 실행을 앞두고 이용자의 최종 의사결정을 받는 채널로 메시징을 활용하겠다는 구상이다.SKT는 15일부터 18일까지 서울 SKT 타워에서 세계이동통신사업자연합회(GSMA) RCS(Rich Communication Services) 그룹 대면 표준화 회의를 개최하고, AI와 메시징 서비스의 결합 방안에 대해 논의한다고 밝혔다.GSMA RCS 그룹은 글로벌 통",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "SK텔레콤(대표이사 CEO 정재헌)이 인공지능 시대를 맞아 ‘문자’의 역할을 재정의한다. AI의 업무 수행 역량이 예약·결제 등 실제 행동으로 확장하는 점을 고려",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41911_63061_2931_v150.jpg",
+    "score": 7.624,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "베스핀글로벌·업스테이지 협력...울산 ‘우리 아이(AI)’ 고도화",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21560",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-09-15T11:36:09+00:00",
+    "raw_excerpt": "베스핀글로벌과 업스테이지가 교육 분야 AI 서비스를 고도화하고 울산광역시교육청에서 검증한 모델을 전국 시·도교육청과 교육 관련 공공기관으로 확산하기 위해 전략적 제휴를 맺었다고 15일 밝혔다. 첫 적용 대상은 울산교육청의 AI 교수학습 플랫폼 ‘우리 아이(AI)’다. 베스핀글로벌이 구축한 이 서비스에 업스테이지의 LLM과 에이전틱 AI 기술을 결합해 질의응답을 비롯해 학생의 질문과 학습 맥락을 바탕으로 다음 학습까지 지원하는 형태로 고도화한다는 계획이다.우리 아이는 이미 울산 지역 학교 현장에서 활용되고 있다. 울산교육청에 따르면",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "베스핀글로벌과 업스테이지가 교육 분야 AI 서비스를 고도화하고 울산광역시교육청에서 검증한 모델을 전국 시·도교육청과 교육 관련 공공기관으로 확산하기 위해 전략적",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202609/21560_22302_3333.jpg",
+    "score": 7.19,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "llm"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "왈라, 챗GPT 플러그인 공식 출시… 대화만으로 데이터 수집 환경 구축",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41912",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-15T08:50:59+00:00",
+    "raw_excerpt": "데이터 수집 및 설문 플랫폼 왈라(Walla)를 운영하는 (주)파프리카데이터랩이 ‘왈라 챗GPT 플러그인’을 15일 공식 출시했다. 사용자는 ChatGPT 안에서 왈라를 연결한 뒤 자연어로 요청해 설문과 신청서를 만들고, 질문과 조건부 로직을 수정하며, 수집된 데이터를 관리할 수 있다. 사용자는 ChatGPT의 플러그인 메뉴에서 Walla를 검색해 계정을 연결할 수 있다.기존에는 ChatGPT에 설문이나 신청서 제작을 요청해도 질문 목록과 코드 초안을 받는 데 그치는 경우가 많았다. 실제로 데이터를 받으려면 내용을 별도의 제작 도구",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "데이터 수집 및 설문 플랫폼 왈라(Walla)를 운영하는 (주)파프리카데이터랩이 ‘왈라 챗GPT 플러그인’을 15일 공식 출시했다. 사용자는 ChatGPT 안에서",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41912_63051_5022_v150.jpg",
+    "score": 6.737,
+    "engagement": 0,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "이소영 “규제 풀고 코스닥 살려 '국가창업시대' 열겠다”",
+    "url": "https://www.etnews.com/20260915000121",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-09-15T01:17:50+00:00",
+    "raw_excerpt": "이소영 중소벤처기업부 장관 후보자가 중소·벤처기업의 성장을 가로막는 규제에 대해 소관 부처를 가리지 않고 직접 해결에 나서겠다는 뜻을 밝혔다. 코스닥 시장의 신뢰 회복을 위해 금융당국에 적극적으로 목소리를 내고, 소상공인의 임대료·이자·배달앱 수수료 등 부담을 낮추기 위한 '비용구조 개선 로드맵'도 마련하겠다고 제시했다. 이 후보자는 15일 국회에서 열린 인사청문회 모두발언에서 “과감한 규제 합리화와 자본시장 신뢰 회복을 통해 모두가 도전하고",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "이소영 중소벤처기업부 장관 후보자가 중소·벤처기업의 성장을 가로막는 규제에 대해 소관 부처를 가리지 않고 직접 해결에 나서겠다는 뜻을 밝혔다. 코스닥 시장의 신뢰",
+    "thumbnail": "https://img.etnews.com/news/article/2026/09/15/rcv.YNA.20260915.PYH2026091504840001301_P2.jpg",
+    "score": 5.892,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처",
+      "창업"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "김준석 KT 상무 “에이전트 체계, 교육 메커니즘과 닮아”",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21554",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-09-14T15:54:18+00:00",
+    "raw_excerpt": "“에이전트는 목표를 스스로 인식해 계획을 세우고, 실행한 뒤 결과를 검증합니다. 이 작동 방식은 교육 구조와 상당히 닮았습니다.”9월 11일 부산 벡스코에서 열린 AI 컨퍼런스 ‘AI BUS 2026’ 교육AI 세션에서 나온 진단이다. 스페셜세션 발표자로 무대에 오른 김준석 KT AX미래기술원 에이전틱AI랩장(상무)은 KT가 통신 사업에서 쌓아온 개인화·추천 기술을 교육 현장에 어떻게 옮기는지에 대해 설명했다. 김 상무는 교육을 에이전틱 AI의 유망한 적용처로 꼽았다. 교육 현장은 오랫동안 디지털 전환을 거치면서 축적된 데이터가 풍",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "“에이전트는 목표를 스스로 인식해 계획을 세우고, 실행한 뒤 결과를 검증합니다. 이 작동 방식은 교육 구조와 상당히 닮았습니다.”9월 11일 부산 벡스코에서 열린",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202609/21554_22296_3131.jpg",
+    "score": 5.836,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "에이전틱"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "플래티어 \"AI 에이전트 전사 확산하려면 DX 운영 방식 버려야\"",
+    "url": "https://zdnet.co.kr/view/?no=20260915103823",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-15T01:41:56+00:00",
+    "raw_excerpt": "[지디넷코리아]\"기업 인공지능 전환(AX)이 파일럿 단계를 넘어 실제 업무로 확산하려면 기존 디지털 전환(DX)과 완전히 다른 평가·운영 체계를 갖춰야 합니다. AI 결과 정확성뿐 아니라 오류를 감지하고 통제할 수 있는 체계를 구축해야 할 것입니다.\"이상훈 플래티어 대표는 15일 한국인공지능산업협회(AIIA) 정기 조찬포럼에서 기업 AX 도입 전략을 이같이 밝혔다. 이 대표는 AX가 기존 DX와 달리 확률적 소프트웨어(SW)라고 주장했다. 기존 SW는 같은 입력에 같은 결과를 내지만 AI는 동일한 입력에도 다른 결과를 생성할 수 있다는 이유에서다. 이에 기존 SW와 같은 방식으로 성능과 안정성을 판단하기 어렵다는 설명이다.이 대표는 이런 문제가 여러 AI 에이전트를 기업 내부 시스템과 연결할수록 커진다고 봤다. 에이전트가 전사적자원관리(ERP)나 고객관계관리(CRM) 등 기존 시스템을 호출하는 과정에서 비용과 지연이 누적되고 오류가 다른 업무로 전파되거나 결과의 일관성이 떨어질 수 있다고 지적했다. 그는 특히 에이전트와 기존 시스템을 연결하는 도구 호출 과정을 주요 AX 실패 이유로 꼽았다. 존재하지 않는 필드나 형식으로 응용프로그램인터페이스(API)를 호출하는 파라미터 환각부터 응답 지연에 따른 타임아웃 누적과 권한 범위 오류, 잘못된 도구 선택 등이 발생할 수 있을 것으로 내다봤다. 실제 플래티어가 구축한 고객사 품질보증(QA) ",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "[지디넷코리아]\"기업 인공지능 전환(AX)이 파일럿 단계를 넘어 실제 업무로 확산하려면 기존 디지털 전환(DX)과 완전히 다른 평가·운영 체계를 갖춰야 합니다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/15/87f7d552ecc4338dd33349477a36ad36.jpg",
+    "score": 5.326,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Apple Siri의 AI를 Claude와 ChatGPT로 교체할 수 있는 코드 발견",
+    "url": "https://news.hada.io/topic?id=33695",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-14T14:36:47+00:00",
+    "raw_excerpt": "iOS 27과 macOS Golden Gate의 비공개 코드에서 Siri에 외부 AI를 연결하거나, 서버 측 모델 자체를 교체 할 수 있는 구조가 발견됨 Claude를 확장 기능으로 연결한 시연에서는 Claude가 요청을 해석하고 Siri가 미리 알림을 생성 했으며, Siri가 직접 처리하지 못하...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "iOS 27과 macOS Golden Gate의 비공개 코드에서 Siri에 외부 AI를 연결하거나, 서버 측 모델 자체를 교체 할 수 있는 구조가 발견됨 Clau",
+    "thumbnail": "https://social.news.hada.io/topic/33695?v=afa7df57ee1abd7d710117e9848ac9fd",
+    "score": 5.225,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "chatgpt"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "테슬라 '9년 만의 로드스터' 10월 1일 공개 예고에 '희망고문' 논란 고조",
+    "url": "https://www.etnews.com/20260915000103",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-09-15T01:03:43+00:00",
+    "raw_excerpt": "테슬라가 9년 전 처음 발표한 차세대 전기 하이퍼카 '2세대 로드스터'를 다음 달 1일 공개한다. 다만, 스페이스X 로켓 기술을 결합한 화려한 시연 예고에도 불구하고, 주요 외신은 실제 대량 생산이 2028년까지 밀릴 수 있다며 10년에 걸친 '베이퍼웨어(출시 미정 제품)' 논란과 소비자 기만 우려를 쏟아내고 있다. 로이터와 블룸버그 등에 따르면 테슬라는 공식 웹사이트에 카운트다운을 개시하고, 10월 1일 미국 텍사스주 웨이코(Waco)에서 현",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "테슬라가 9년 전 처음 발표한 차세대 전기 하이퍼카 '2세대 로드스터'를 다음 달 1일 공개한다. 다만, 스페이스X 로켓 기술을 결합한 화려한 시연 예고에도 불구",
+    "thumbnail": "https://img.etnews.com/news/article/2026/09/15/news-p.v1.20260915.08ac833cbb784d2ba4d81fb5d2f1057c_P1.jpg",
+    "score": 5.128,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Pinterest 임베딩 검색 플랫폼의 진화",
+    "url": "https://news.hada.io/topic?id=33719",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-15T00:40:07+00:00",
+    "raw_excerpt": "Pinterest는 검색과 추천을 담당하는 자체 플랫폼 Manas 를 개선해, 수백억 개로 늘어나는 임베딩의 처리 비용을 낮추고 더 세밀한 의미를 검색에 반영하려 함 벡터를 압축하는 양자화 를 주요 제품에 적용해 인덱스 메모리를 50% 이상, 서빙 비용을 20~30% 줄였으며...",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "Pinterest는 검색과 추천을 담당하는 자체 플랫폼 Manas 를 개선해, 수백억 개로 늘어나는 임베딩의 처리 비용을 낮추고 더 세밀한 의미를 검색에 반영하려",
+    "thumbnail": "https://social.news.hada.io/topic/33719?v=f406d1609e93339120e32f82e60ff377",
+    "score": 5.103,
+    "engagement": 0,
+    "matched_keywords": [
+      "양자"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "It turns out I've been pacing for months.",
+    "url": "https://x.com/omarsar0/status/2099480288871022935",
+    "source": "X @omarsar0",
+    "source_type": "x",
+    "published_at": "2026-09-14T12:48:01+00:00",
+    "raw_excerpt": "It turns out I've been pacing for months.\n\nFor day-to-day work, I still use a mix of Opus 5, GPT-5.6 Sol, and open models (e.g., DS4).\n\nAll possible with my custom harness.\n\nI rarely need Fable 5.1 or GPT -6 Astra. Sometimes for long-running tasks or flashy demos. But that's it.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "It turns out I've been pacing for months.\n\nFor day-to-day work, I still use a mix of Opus",
+    "thumbnail": "https://pbs.twimg.com/profile_images/939313677647282181/vZjFWtAn_400x400.jpg",
+    "score": 4.908,
+    "engagement": 7876,
+    "matched_keywords": [
+      "gpt-5"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "\"획일적 규제 그만”… 플랫폼 산업 경쟁력 모색 세미나 열린다",
+    "url": "https://zdnet.co.kr/view/?no=20260915111215",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-15T02:12:15+00:00",
+    "raw_excerpt": "[지디넷코리아]한국인터넷기업협회가 디지털플랫폼 정책포럼, 한국정보통신법학회와 공동으로 ‘플랫폼 산업 경쟁력 강화를 위한 전략 과제’를 주제로 세미나를 개최한다.15일 협회에 따르면, 이번 행사는 이달 22일 오후 2시 서울 중구 포스트타워 10층 대회의실에서 열린다. 최근 인공지능(AI) 등 첨단 기술의 급속한 발전으로 디지털 플랫폼이 경제 성장축으로 떠오른 반면, 강화되는 규제 환경이 산업 생태계 혁신을 저해하고 있다는 문제의식에서 마련됐다. 이번 세미나에서는 지속가능한 플랫폼 생태계 구축을 위한 혁신 과제를 점검하고 글로벌 경쟁 환경에 부합하는 합리적인 정책 방향과 경쟁력 강화 방안을 다각도로 논의한다.발제는 이경선 정보통신정책연구원 박사와 선지원 한양대 법학전문대학원 교수가 맡아 플랫폼 산업의 혁신과 산업 경쟁력을 위한 규제 개선 과제를 발표한다. 이어지는 종합토론은 이성엽 고려대 교수(한국정보통신법학회장)를 좌장으로 황용석 건국대 교수, 황혜선 김·장 법률사무소 변호사, 박성식 놀유니버스 대외협력 대표, 김용환 네이버 박사, 김성옥 정보통신정책연구원 박사, 조영기 한국인터넷기업협회 사무총장, 구희선 과학기술정보통신부 플랫폼·OTT 정책팀장 등 학계·산업계·정부 전문가 패널이 참여해 실질적인 전략 과제를 다룰 예정이다.박성호 한국인터넷기업협회 회장은 “글로벌 규제 지형이 완화로 전환되는 지금, 획일적 규제에서 벗어나 국내 기업의",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "[지디넷코리아]한국인터넷기업협회가 디지털플랫폼 정책포럼, 한국정보통신법학회와 공동으로 ‘플랫폼 산업 경쟁력 강화를 위한 전략 과제’를 주제로 세미나를 개최한다.1",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/15/3dcb185aa5a53448e2ecd2a226e1b784.png",
+    "score": 4.679,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "웨이비스, 방산 'RF GaN 반도체' 개발 본격화",
+    "url": "https://zdnet.co.kr/view/?no=20260915083601",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-15T02:00:55+00:00",
+    "raw_excerpt": "[지디넷코리아]무선주파수(RF) 질화갈륨(GaN) 반도체 기업 웨이비스가 장거리 지대공유도무기체계(L-SAM) 다기능레이더(MFR)에 적용되는 RF GaN (HEMT) 칩 국산화 기술 개발을 본격화한다고 15일 밝혔다. RF GaN 반도체는 레이더 송신부에서 높은 출력과 효율, 고전압 동작 특성을 구현하는 핵심 부품이다. 방산 분야에서는 장기간 안정적인 부품 공급과 후속 군수지원이 중요한 만큼, 해외 공급망 변화와 수출통제 등 조달 불확실성을 줄이기 위해 RF 반도체의 국내 공급 기반 확보가 중요하다.웨이비스는 지난 7월 일반부품 국산화 개발협약을 체결했다. 8월에는 국방기술진흥연구소 관계자들과 착수회의를 열고 개발 범위와 단계별 시험·검증 계획을 구체화했다.개발 대상은 L-SAM 다기능레이더 송신부 고출력증폭보드에 적용하는 S대역 고출력 RF GaN HEMT 칩이다. 현재 해외 부품에 의존하고 있는 핵심 RF 반도체를 국내 기술로 대체해 안정적 공급 기반을 확보하고, 장기간 운용하는 무기체계 후속 군수지원 역량을 강화하는 것이 목표다. 웨이비스는 국내 생산시설을 기반으로 RF GaN HEMT 칩 설계와 제조를 수행하고, 개발 칩을 적용한 내부정합형 트랜지스터(IMFET)와 고출력증폭보드를 제작해 실제 체계 적용 가능성을 검증할 계획이다. 검증은 p칩 단위 전기적·RF 특성 평가 pIMFET 출력 및 효율 검증 p고출력증폭보드 최적화",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "[지디넷코리아]무선주파수(RF) 질화갈륨(GaN) 반도체 기업 웨이비스가 장거리 지대공유도무기체계(L-SAM) 다기능레이더(MFR)에 적용되는 RF GaN (HE",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/15/74ada3aae04ec1f1b8aed506162c509a.jpg",
+    "score": 4.669,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "신설된 10만 달러 H-1B 비자 수수료가 기술 일자리를 해외로 밀어냄",
+    "url": "https://news.hada.io/topic?id=33698",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-14T16:39:20+00:00",
+    "raw_excerpt": "미국의 고숙련 이민 규제 강화 에 대응해 기술 기업들이 해외 사무실을 짓고 현지 채용을 늘리는 방식으로 인재 확보 전략을 바꾸고 있음 2025년 도입된 10만 달러 수수료 적용 대상 H-1B 신청 처리 건수는 전년보다 87% 감소 했으며, 신청 급감으로...",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "미국의 고숙련 이민 규제 강화 에 대응해 기술 기업들이 해외 사무실을 짓고 현지 채용을 늘리는 방식으로 인재 확보 전략을 바꾸고 있음 2025년 도입된 10만 달",
+    "thumbnail": "https://social.news.hada.io/topic/33698?v=7ac06e63931d0ca5cbe6cd57c15aebc0",
+    "score": 4.602,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "토스증권이 GPU-aware를 넘어 GPU-native 클러스터를 구축한 방법",
+    "url": "https://toss.tech/article/gpu-native-cluster",
+    "source": "토스 기술블로그",
+    "source_type": "rss",
+    "published_at": "2026-09-15T01:42:00+00:00",
+    "raw_excerpt": "토스증권이 Kubernetes GPU 클러스터의 운영 한계를 해결한 방법",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "토스증권이 Kubernetes GPU 클러스터의 운영 한계를 해결한 방법",
+    "thumbnail": "https://static.toss.im/disposables/contents/gpu_k8s.png",
+    "score": 4.134,
+    "engagement": 0,
+    "matched_keywords": [
+      "gpu"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "10억 명 이상의 ChatGPT 사용자를 지원하기 위한 온라인 스토리지의 빠른 확장",
+    "url": "https://news.hada.io/topic?id=33674",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-14T05:27:35+00:00",
+    "raw_excerpt": "OpenAI의 온라인 스토리지 플랫폼 Habitat 은 약 40개 지역에서 초당 7,000만 건 이상의 요청을 처리하며, 매주 10억 명 이상이 사용하는 제품에 500PB 이상의 데이터를 제공함 여러 서비스에 배포된 클라이언트 라이브러리를 독립 서비스 로 전환해, 배포와 관측성,...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "OpenAI의 온라인 스토리지 플랫폼 Habitat 은 약 40개 지역에서 초당 7,000만 건 이상의 요청을 처리하며, 매주 10억 명 이상이 사용하는 제품에",
+    "thumbnail": "https://social.news.hada.io/topic/33674?v=67708f576016d9df628fa9b60b1e8592",
+    "score": 3.903,
+    "engagement": 0,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+    "url": "https://github.com/JamesRyanATX/fcbnerd",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-14T23:01:36+00:00",
+    "raw_excerpt": "Article URL: https://github.com/JamesRyanATX/fcbnerd Comments URL: https://news.ycombinator.com/item?id=49705442 Points: 42 # Comments: 5",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://github.com/JamesRyanATX/fcbnerd Comments URL: https://news.ycombinato",
+    "thumbnail": "https://opengraph.githubassets.com/790b14456565081952d8334eb20b0a1c95cef4782bd215d239dbdcba7aac43f3/JamesRyanATX/fcbnerd",
+    "score": 2.667,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Charts built for Chat",
+    "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-14T21:22:54+00:00",
+    "raw_excerpt": "Article URL: https://dbtcharts.com/blog/charts-built-for-chat/ Comments URL: https://news.ycombinator.com/item?id=49704246 Points: 116 # Comments: 38",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://dbtcharts.com/blog/charts-built-for-chat/ Comments URL: https://news.",
+    "thumbnail": "https://dbtcharts.com/assets/social/background_hu_b580101c226cb278.png",
+    "score": 2.612,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "A Beginning for Mathematics",
+    "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-14T15:33:07+00:00",
+    "raw_excerpt": "Article URL: https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/ Comments URL: https://news.ycombinator.com/item?id=49698699 Points: 175 # Comments: 102",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/ Commen",
+    "thumbnail": "https://www.daniellitt.com/images/daniel-litt-social-diagram.png",
+    "score": 2.418,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Principles for Fast Tokio Applications",
+    "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-14T15:27:56+00:00",
+    "raw_excerpt": "Article URL: https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/ Comments URL: https://news.ycombinator.com/item?id=49698607 Points: 169 # Comments: 44",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/ Comme",
+    "thumbnail": "",
+    "score": 2.415,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Dario, Please",
+    "url": "https://pop.rdi.sh/dario-please/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-14T14:50:32+00:00",
+    "raw_excerpt": "Article URL: https://pop.rdi.sh/dario-please/ Comments URL: https://news.ycombinator.com/item?id=49697893 Points: 308 # Comments: 153",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://pop.rdi.sh/dario-please/ Comments URL: https://news.ycombinator.com/i",
+    "thumbnail": "",
+    "score": 2.394,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  }
+]
