@@ -1,0 +1,761 @@
+[
+  {
+    "title": "인핸스, '에이전트 OS'로 512억 시리즈 C 투자 유치",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215373",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-17T11:55:16+00:00",
+    "raw_excerpt": "AI 전문 인핸스(대표 이승현)는 512억원 규모의 시리즈 C 투자를 유치하며 누적 투자금 810억원을 달성했다고 17일 밝혔다.이번 라운드는 기존 투자자인 타임폴리오자산운용과 신규 투자자로 합류한 스톤브릿지벤처스가 공동 리드했다. IMM인베스트먼트와 스틱벤처스가 신규 투자자로 참여했으며, L S벤처캐피탈, AOA캐피탈파트너스, KT인베스트먼트, 현대기술투자 등이 후속 투자에 참여했다.특히 포스코·LG·롯데 그룹 등 고객사 그룹의 계열사인 포스코기술투자, LG CNS, 롯데벤처스 등이 투자에 참여해 주목받았다.인핸스는 SAP을 비롯",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "AI 전문 인핸스(대표 이승현)는 512억원 규모의 시리즈 C 투자를 유치하며 누적 투자금 810억원을 달성했다고 17일 밝혔다.이번 라운드는 기존 투자자인 타임",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215373_219192_3913.jpg",
+    "score": 10.473,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처",
+      "시리즈 c",
+      "투자 유치",
+      "벤처캐피탈"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "브릴스, 산업용 로봇 넘어 ‘피지컬 AI’로…RFM·VLA 기반 차세대 로봇 플랫폼 본격화",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41965",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-17T11:19:57+00:00",
+    "raw_excerpt": "로봇 모듈화 플랫폼 솔루션 전문기업 브릴스(대표 전진)가 기존 산업용 로봇 솔루션 사업을 기반으로 로봇 파운데이션 모델(RFM, Robot Foundation Model)과 비전·언어·행동 모델(VLA, Vision-Language-Action) 등 차세대 피지컬 AI 기술을 접목하며 신사업 확장에 나선다.브릴스는 17일 기존 산업용 로봇 사업에서 확보한 안정적인 수익 기반에 인공지능(AI)과 소프트웨어 기술력을 결합해 소프트웨어 중심 로봇(SDR, Software Defined Robot)​으로 사업 영역을 확장하고, 글로벌 AI",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "로봇 모듈화 플랫폼 솔루션 전문기업 브릴스(대표 전진)가 기존 산업용 로봇 솔루션 사업을 기반으로 로봇 파운데이션 모델(RFM, Robot Foundation M",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41965_63128_1841_v150.jpg",
+    "score": 9.623,
+    "engagement": 0,
+    "matched_keywords": [
+      "피지컬 ai",
+      "vision-language-action",
+      "로봇 파운데이션 모델",
+      "robot foundation model"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "“더 손쉽게 빌드하고, 결과물에 더욱 빠르게 도달한다”...유니티, 오픈AI 코덱스용 공식 유니티 플러그인 제공",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41966",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-17T11:33:58+00:00",
+    "raw_excerpt": "글로벌 게임 개발 플랫폼 기업 유니티(Unity)가 오픈AI(OpenAI)의 코덱스(Codex)를 위한 공식 유니티 플러그인을 정식 출시했다고 16일(현지시간) 밝혔다.이번 플러그인은 유니티가 직접 개발하고 유지관리하는 퍼스트파티(First-party) 통합 플러그인이다. 유니티는 앞서 지난 10일 클로드 코드(Claude Code)용 공식 플러그인을 공개한 데 이어 코덱스까지 지원 범위를 확대하며 AI 기반 게임 개발 환경을 강화하고 있다.코덱스용 공식 유니티 플러그인의 핵심 스킬은 유니티 엔지니어들이 직접 작성하고 유지관리한다.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "글로벌 게임 개발 플랫폼 기업 유니티(Unity)가 오픈AI(OpenAI)의 코덱스(Codex)를 위한 공식 유니티 플러그인을 정식 출시했다고 16일(현지시간)",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41966_63130_3253_v150.jpg",
+    "score": 8.741,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai",
+      "오픈ai"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "[9월16일] ‘AI 속도 조절’은 투자의 후퇴인가… 월가의 엇갈린 셈법",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215331",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-17T07:00:00+00:00",
+    "raw_excerpt": "AI 업계에서 ‘속도를 늦추자’는 목소리가 나온 직후 글로벌 증시가 크게 흔들렸습니다. 첫날인 14일 국내 코스피는 3.26% 떨어졌고, 삼성전자와 SK하이닉스도 4~6%대 급락했습니다. 미국에서도 엔비디아를 비롯한 반도체주가 밀리면서 필라델피아 반도체 지수가 5.9% 하락했습니다.한국 증시는 다음 날에도 약세를 이어갔습니다. 15일 코스피는 0.85% 추가 하락했고, 삼성전자와 SK하이닉스는 각각 0.20%, 0.41% 내렸습니다. 중국 상하이종합지수와 대만 가권지수, 홍콩 항셍지수도 하락했지만, 일본 닛케이는 거의 보합에 머물렀",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AI 업계에서 ‘속도를 늦추자’는 목소리가 나온 직후 글로벌 증시가 크게 흔들렸습니다. 첫날인 14일 국내 코스피는 3.26% 떨어졌고, 삼성전자와 SK하이닉스도",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215331_219138_3840.png",
+    "score": 8.123,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "엔비디아"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "라온피플, AI 골프 솔루션 ‘SwingEZ’ 글로벌 콘텐츠 강화...국내최대 43종 위젯 · 숏게임 전용 AI 분석엔진 탑재",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41967",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-17T11:51:04+00:00",
+    "raw_excerpt": "인공지능(AI) 전문기업 라온피플이 AI 기반 골프 셀프 트레이닝 솔루션 ‘SwingEZ(스윙이지)’의 업데이트를 통해 숏게임 훈련 기능과 글로벌 경쟁 콘텐츠 등을 추가하며 글로벌 유저들을 위한 트레이닝 플랫폼으로 진화를 가속화하고 있다.이번 업데이트를 통해 국내 최초 및 최대 규모인 43종의 맞춤형 위젯 대시보드와 숏게임 전용 AI 분석 엔진을 도입하고, 챌린지 및 리더보드 기반의 경쟁 콘텐츠를 추가하면서 사용자 경험과 몰입도를 한층 강화했다.가장 큰 변화는 사용자가 직접 필요한 데이터를 선택하고 배치할 수 있는 맞춤형 위젯 보드",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "인공지능(AI) 전문기업 라온피플이 AI 기반 골프 셀프 트레이닝 솔루션 ‘SwingEZ(스윙이지)’의 업데이트를 통해 숏게임 훈련 기능과 글로벌 경쟁 콘텐츠 등",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41967_63131_4949_v150.jpg",
+    "score": 7.862,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "삼성전자, ‘One UI 9’ 업데이트 시작…AI가 일상 읽고 필요한 기능 먼저 제안",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41963",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-17T10:54:20+00:00",
+    "raw_excerpt": "삼성전자가 인공지능(AI)을 활용해 사용자의 상황을 파악하고 필요한 기능을 먼저 제안하는 새로운 갤럭시 경험을 선보였다.삼성전자는 지난 16일 국내를 시작으로 ‘One UI 9’ 공식 버전 업데이트를 글로벌 시장에 순차적으로 확대한다고 밝혔다. 업데이트는 갤럭시 S26 시리즈부터 적용되며, 이후 지원 대상 기기를 차례로 확대할 예정이다.지난 7월 공개된 새로운 갤럭시 Z 시리즈와 함께 선보인 One UI 9은 다양한 폼팩터에서 직관적인 모바일 경험을 제공하는 동시에 갤럭시 AI 기능을 강화한 것이 특징이다. 특히 사용자가 일상에서",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "삼성전자가 인공지능(AI)을 활용해 사용자의 상황을 파악하고 필요한 기능을 먼저 제안하는 새로운 갤럭시 경험을 선보였다.삼성전자는 지난 16일 국내를 시작으로 ‘",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41963_63125_539_v150.jpg",
+    "score": 7.791,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "\"AI가 동네병원과 대형병원 잇는다\"…분당서울대병원, ‘1.5차 의료체계’ 제안",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41962",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-17T10:36:29+00:00",
+    "raw_excerpt": "인공지능(AI)이 동네 병원과 대형병원 사이에서 환자를 연결하고 진료의 연속성을 지원하는 새로운 의료체계가 제안됐다.분당서울대병원 가정의학과 정세영 교수(정보화실장) 연구팀은 AI를 활용해 기존 1차 의료기관과 2·3차 의료기관 사이에 새로운 ‘중간 단계’를 구축하는 ‘1.5차 의료체계(1.5-Tier Healthcare System)’ 모델을 제안했다고 17일 밝혔다.연구팀이 제안한 1.5차 의료체계의 핵심은 새로운 의료기관을 만드는 것이 아니라 AI를 활용해 기존 1차 의료와 상급병원 사이에 디지털 연결망을 구축하는 것이다.환자",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "인공지능(AI)이 동네 병원과 대형병원 사이에서 환자를 연결하고 진료의 연속성을 지원하는 새로운 의료체계가 제안됐다.분당서울대병원 가정의학과 정세영 교수(정보화실",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41962_63123_3527_v150.jpg",
+    "score": 7.769,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "KT, 피지컬AI로 제조 혁신 이끈다...전북혁신도시 ‘다크팩토리’ 핵심 인프라 구축 추진",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41958",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-17T09:09:19+00:00",
+    "raw_excerpt": "KT(대표이사 박윤영)가 과학기술정보통신부 주관 ‘AI기반 다크팩토리 설계·구축 솔루션 개발’ 과제 공동연구기관으로 참여해 관련 기술 개발에 나섰다고 17일 밝혔다.‘인공지능 기반 다크팩토리 설계·구축 솔루션 개발’은 과기부 ‘협업지능 피지컬 AI 기반 SW플랫폼 연구개발 생태계 조성’ 사업 세부과제다. 해당 사업은 전북혁신도시 인근에 다크팩토리(Dark Factory, 전 공정과정에 AI 기술 등이 적용돼 24시간 가동되는 무인·자동화 공장)를 구현하기 위한 프로젝트로, KT 외에도 KAIST·LG에너지솔루션·하림산업·신성이엔지·",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "KT(대표이사 박윤영)가 과학기술정보통신부 주관 ‘AI기반 다크팩토리 설계·구축 솔루션 개발’ 과제 공동연구기관으로 참여해 관련 기술 개발에 나섰다고 17일 밝혔",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41958_63117_856_v150.jpg",
+    "score": 7.66,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "ETRI, 대한민국 AI 글라스 생태계 구축 나섰다...산·학·연·관 모여 경쟁력 강화 논의",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41957",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-17T09:00:24+00:00",
+    "raw_excerpt": "한국전자통신연구원(ETRI)이 차세대 개인형 인공지능(AI) 인터페이스로 주목받는 AI 글라스 기술과 산업을 잇는 국내 협력 생태계 구축에 본격 나섰다.ETRI는 지난 15일 서울 명동 로얄호텔 그랜드볼룸에서 'AI-인글라스 포럼 2026'을 개최했다. 포럼은 과학기술정보통신부의 지원으로 ETRI가 수행 중인 '개인 AI 에이전트를 위한 AI 인글라스 기술 개발' 사업의 일환으로 개최되었다.'AI를 눈앞에, 기술과 산업을 잇다 : 대한민국 AI 글라스 생태계를 향해'를 주제로, AI 글라스의 핵심부품과 디스플레이, 디바이스를 비롯해",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "한국전자통신연구원(ETRI)이 차세대 개인형 인공지능(AI) 인터페이스로 주목받는 AI 글라스 기술과 산업을 잇는 국내 협력 생태계 구축에 본격 나섰다.ETRI는",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41957_63116_02_v150.jpg",
+    "score": 7.649,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "앤트로픽, '코워크' 브랜드 접고 챗봇에 통합…'AI 슈퍼 앱' 경쟁 가열",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215371",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-17T11:36:42+00:00",
+    "raw_excerpt": "앤트로픽이 별도 제공되던 '클로드 코워크(Claude Cowork)' 브랜드를 종료하고, 관련 에이전트 기능을 클로드 챗봇 기본 인터페이스 전반에 통합한다. 이에 따라 사용자는 대화형 인터페이스와 장기 실행 에이전트 작업 공간 중 하나를 직접 선택해야 했던 번거로움 없이, 하나의 대화창 안에서 질문부터 다단계 프로젝트 수행까지 자연스럽게 전환할 수 있게 됐다. 앤트로픽은 16일(현지시간) 업무용 AI 에이전트 기능인 '클로드 코워크(Cowork)'를 일반 대화형 서비스인 '클로드'에 통합하고, 문서와 프레젠테이션을 제작할 수 있는",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "앤트로픽이 별도 제공되던 '클로드 코워크(Claude Cowork)' 브랜드를 종료하고, 관련 에이전트 기능을 클로드 챗봇 기본 인터페이스 전반에 통합한다. 이에",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215371_219189_166.jpg",
+    "score": 7.523,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "송전망 기다리지 않고 AI 구동한다…'태양광 직결' 데이터센터 등장",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215366",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-17T11:10:00+00:00",
+    "raw_excerpt": "AI 데이터센터가 전력망 연결을 기다리는 대신 기존 태양광발전소에서 남는 전력을 현장에서 직접 사용하는 방식이 등장했다. 미국 스타트업 룬(Rune)은 태양광발전소에 AI 연산장비를 직접 연결하는 모듈형 데이터센터 ‘렐릭(RELIC)’을 공개하고, 미국 텍사스의 200메가와트(MW) 규모 태양광발전소에서 실제 운영에 들어갔다. AI 연산설비 자체를 전력망에 새로 연결하지 않아도 된다는 설명이다.룬은 지난 16일(현지시간) ‘재생에너지 연계 지능형 컴퓨팅(Renewable Energy Linked Intelligent Compute)",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AI 데이터센터가 전력망 연결을 기다리는 대신 기존 태양광발전소에서 남는 전력을 현장에서 직접 사용하는 방식이 등장했다. 미국 스타트업 룬(Rune)은 태양광발전",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215366_219181_341.jpg",
+    "score": 7.487,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "그리스, 800W 발코니 태양광 허용…플러그인 자가발전 길 열어",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215367",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-17T11:05:00+00:00",
+    "raw_excerpt": "그리스가 가정이나 사업장 건물에 최대 출력 800와트(W)의 소형 플러그인 태양광을 설치할 수 있도록 규제를 바꿨다. 별도의 대규모 태양광 설비 없이 발코니나 건물에 소형 패널을 설치해 생산한 전기를 직접 사용하는 이른바 ‘발코니 태양광’이 그리스에서 처음 제도화됐다.그리스 환경에너지부는 지난 14일(현지시간) 태양광 등 자가소비 발전설비의 설치와 계통연계 절차를 개편한 새로운 규정을 시행한다고 밝혔다. 이번 규정에는 플러그 방식의 소형 태양광과 태양광 설비에 연결되지 않은 독립형 배터리의 설치를 허용하는 내용이 포함됐다.발코니 태",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "그리스가 가정이나 사업장 건물에 최대 출력 800와트(W)의 소형 플러그인 태양광을 설치할 수 있도록 규제를 바꿨다. 별도의 대규모 태양광 설비 없이 발코니나 건",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215367_219182_415.jpg",
+    "score": 7.48,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "넘즈AI, 정형 데이터 모델 '코실로' 탭아레나 세계 1위 차지",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215363",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-16T18:25:00+00:00",
+    "raw_excerpt": "넘즈AI(대표 유재민)는 자체 정형 데이터 파운데이션 모델(TFM) '코실로(Causilo)'가 글로벌 데이터 AI 평가 플랫폼 '탭아레나(TabArena)'의 종합·분류·회귀 엘로(Elo) 평가에서 1위를 차지했다고 16일 밝혔다.코실로는 51개 데이터셋을 대상으로 진행한 종합 성적을 포함해 범주를 구분하는 분류와 숫자를 예측하는 회귀 평가에서 구글 리서치 '탭FM(TabFM)', 아마존 '미트라-v2(Mitra-v2)', 샤오미 '탭LDM(Xiaomi-TabLDM)' 등 빅테크 모델을 제치고 1위를 기록했다.이는 탭아레나 운영진",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "넘즈AI(대표 유재민)는 자체 정형 데이터 파운데이션 모델(TFM) '코실로(Causilo)'가 글로벌 데이터 AI 평가 플랫폼 '탭아레나(TabArena)'의",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215363_219177_2036.jpeg",
+    "score": 7.101,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "파운데이션 모델"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "NC AI, 1조 4131억 원 규모 국가 프로젝트 참여...전북∙경남 피지컬 AI 대형 국책 과제 동시 선정",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41960",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-17T09:27:09+00:00",
+    "raw_excerpt": "피지컬 AI 전문 기업 NC AI가 과학기술정보통신부와 정보통신산업진흥원(NIPA)이 추진하는 전북∙경남 피지컬 AI 연구개발사업에 참여해 국가 차원의 핵심 기술 개발에 본격 나선다고 17일 밝혔다. 이번 사업은 2026년부터 2030년까지 5년간 총 1조 4,131억 원이 투입되는 대형 국책 과제로 전북과 경남 지역 산업을 기반으로 피지컬 AI 기술을 확보하는 것이 핵심이다.정부는 이번 사업을 통해 현실 세계의 데이터를 AI가 학습하고, 이를 센서∙설비∙로봇 등 물리 시스템의 자율제어로 연결하는 기술을 확보할 계획이다. 전북은 공",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "피지컬 AI 전문 기업 NC AI가 과학기술정보통신부와 정보통신산업진흥원(NIPA)이 추진하는 전북∙경남 피지컬 AI 연구개발사업에 참여해 국가 차원의 핵심 기술",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41960_63119_274_v150.jpg",
+    "score": 6.782,
+    "engagement": 0,
+    "matched_keywords": [
+      "피지컬 ai"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "네이버 쇼핑앱 ‘AI 쇼핑 에이전트’ 배송 특화 기능 고도화 ...\"내일 도착 상품으로 알아서 추천\"",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=41959",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-17T09:21:45+00:00",
+    "raw_excerpt": "네이버(대표이사 최수연)는 사용자가 상품마다 배송일을 일일이 확인하지 않고도 원하는 시점에 받아볼 수 있는 상품을 쉽게 찾을 수 있도록, 네이버 쇼핑 앱의 ‘AI 쇼핑 에이전트’에 실시간 배송 정보를 반영한 추천 기능을 고도화 한다고 17일 밝혔다.예를 들어 사용자가 AI 쇼핑 에이전트에게 “캠핑을 가려고 하는데 내일까지 도착하는 전골 밀키트 추천해줘”라고 배송 조건을 포함해 대화를 걸면, 에이전트가 사용자가 설정한 주소지를 기준으로 실제 도착 가능한 상품을 추려준다. “그린이님의 정자일로 95 배송지 기준으로 9월 18일(금)까지",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "네이버(대표이사 최수연)는 사용자가 상품마다 배송일을 일일이 확인하지 않고도 원하는 시점에 받아볼 수 있는 상품을 쉽게 찾을 수 있도록, 네이버 쇼핑 앱의 ‘AI",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/41959_63118_2132_v150.jpg",
+    "score": 6.776,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Show GN: 옆 팀 레포는 그쪽 Claude가 제일 잘 안다 — 세션 간 질의응답 브로커",
+    "url": "https://news.hada.io/topic?id=33818",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-17T01:20:28+00:00",
+    "raw_excerpt": "서로 다른 머신에서 돌아가는 Claude Code 세션끼리 질문을 푸쉬하고 답을 받는 시스템입니다. Claude Code의 Channels(리서치 프리뷰)를 사용했습니다. 사내에서 협업하다 발생한 게으름을 단순 아이디어로 사용하여, 클로드를 이용하여 100% 구현하였습니다. 문제 내 레포는 내가 잘 알",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "서로 다른 머신에서 돌아가는 Claude Code 세션끼리 질문을 푸쉬하고 답을 받는 시스템입니다. Claude Code의 Channels(리서치 프리뷰)를 사용",
+    "thumbnail": "https://social.news.hada.io/topic/33818?v=6f3a7cc0eea7700d3123cc73bdbf35ca",
+    "score": 5.895,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "claude code"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "DeepSeek V4.1 Flash, 이제 Enclave의 최고 해킹 모델",
+    "url": "https://news.hada.io/topic?id=33809",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-16T22:45:20+00:00",
+    "raw_excerpt": "DeepSeek V4.1 Flash 가 Enclave 해킹 벤치마크의 취약한 타깃 11개 모두에서 코드 실행에 성공했으며, 수정된 대조군 4개는 모두 안전하게 유지됨 전체 공격 경로를 감사한 결과, 6회는 의도한 취약점 을 이용했고 나머지 5회는 취약한 테스트 환경의 예상 밖 경로를...",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "DeepSeek V4.1 Flash 가 Enclave 해킹 벤치마크의 취약한 타깃 11개 모두에서 코드 실행에 성공했으며, 수정된 대조군 4개는 모두 안전하게 유",
+    "thumbnail": "https://social.news.hada.io/topic/33809?v=b8b96924b4be16ccc0711d6aa04ae6c0",
+    "score": 5.733,
+    "engagement": 0,
+    "matched_keywords": [
+      "취약점",
+      "해킹"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "유럽연합 ‘키즈법’ 초강수...13세 미만 SNS 전면 금지",
+    "url": "https://zdnet.co.kr/view/?no=20260917092025",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-17T00:20:25+00:00",
+    "raw_excerpt": "[지디넷코리아]유럽연합(EU)이 13세 미만 어린이의 소셜미디어(SNS) 이용을 막는 강력한 온라인 아동 보호 규제를 추진한다. 15세 미만은 개인 계정을 만들 수 없고, 13~14세는 부모가 개설하고 관리하는 제한된 계정만 이용할 수 있도록 하는 방안이다. 우르줄라 폰데어라이엔 유럽연합 집행위원회(EC) 위원장은 16일(현지시간) 유럽의회에서 열린 연례 국정연설에서 이 같은 내용을 담은 ‘EU 키즈법(EU Kids Act)’ 추진 계획을 공개했다. EC는 17일 관련 법안을 제안할 예정이다. 폰데어라이엔 위원장은 “우리가 목격하고 있는 것은 아이들의 관심과 집중력, 정신을 사로잡는 거대한 포획”이라며 어린이와 청소년의 SNS 이용에 보다 강한 규제가 필요하다고 강조했다. 연령에 따라 규제 수위도 달라진다. 13세 미만은 SNS 자체를 이용할 수 없도록 하고, 15세 미만은 개인 계정 개설을 금지한다. 13세 이상 15세 미만은 부모나 보호자가 만들고 관리하는 ‘미니계정’만 허용한다. 이 계정에는 이용할 수 있는 기능과 시간이 제한되며, EC 연설 영상에서는 하루 이용시간을 1시간으로 제한하는 방안도 제시됐다.15~17세 이용자에게도 별도의 보호장치를 적용한다. 플랫폼 사업자가 미성년자에게 적합한 안전한 서비스 환경을 갖추도록 의무를 부과하는 방식이다. EU는 플랫폼 사업자에게 아동 보호 책임을 보다 강하게 묻겠다는 방침이다. 폰데어",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "[지디넷코리아]유럽연합(EU)이 13세 미만 어린이의 소셜미디어(SNS) 이용을 막는 강력한 온라인 아동 보호 규제를 추진한다. 15세 미만은 개인 계정을 만들",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/17/827cc4258680ef4d7ac044b046040ee0.jpg",
+    "score": 5.249,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제",
+      "법안"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "1.1.1.1은 이제 포스트퀀텀 DNSSEC 을 지원합니다.",
+    "url": "https://news.hada.io/topic?id=33821",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-17T02:53:13+00:00",
+    "raw_excerpt": "• 알고리즘 지원: 클라우드플레어의 공인 DNS 리졸버 1.1.1.1이 NIST 표준화 포스트 양자 서명 알고리즘인 ML-DSA-44를 사용한 DNSSEC 서명 검증을 지원하기 시작함. • 목표 시한: 클라우드플레어는 양자 컴퓨터 위협에 대응하여 2029년까지 완전한 포스트 양자 보안 달성을 계획하고 있음. • 크기 문...",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "• 알고리즘 지원: 클라우드플레어의 공인 DNS 리졸버 1.1.1.1이 NIST 표준화 포스트 양자 서명 알고리즘인 ML-DSA-44를 사용한 DNSSEC 서명",
+    "thumbnail": "https://social.news.hada.io/topic/33821?v=a9001f6a4e18e57ee3e3e5c2d3d61dc0",
+    "score": 5.242,
+    "engagement": 0,
+    "matched_keywords": [
+      "양자"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "효성중공업, 에너지대전서 국산 HVDC 핵심 설비 공개",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=49051",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-17T11:23:39+00:00",
+    "raw_excerpt": "[스마트타임스] 효성중공업은 이달 16~18일 부산 벡스코에서 열리는 ‘2026 대한민국 에너지대전’에 참가해 자체 기술로 국산화한 고압직류송전(HVDC) 핵심 설비를 선보였다고 17일 밝혔다.밸브와 제어기는 전압형 HVDC의 성능과 안정적인 운전을 좌우하는 핵심 설비다. 컨버터 밸브는 전력반도체를 이용해 교류와 직류 간 전력을 변환하며 제어기는 전력의 크기와 방향을 조절하고 전력망에 이상이 발생하면 보호 기능을 수행한다.AI 기반 전력설비 자산관리 플랫폼 ‘ARMOUR+’와 디지털변전소 구축용 저전력 변성기(LPIT) 등 전력 수",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "[스마트타임스] 효성중공업은 이달 16~18일 부산 벡스코에서 열리는 ‘2026 대한민국 에너지대전’에 참가해 자체 기술로 국산화한 고압직류송전(HVDC) 핵심",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202609/49051_47862_555_v150.jpg",
+    "score": 5.196,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "취업 설명회도 ‘라방’으로...CJ ENM, 12개 직무 신입 뽑는다",
+    "url": "https://zdnet.co.kr/view/?no=20260917093424",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-17T00:34:24+00:00",
+    "raw_excerpt": "[지디넷코리아]CJ ENM이 신입사원을 뽑으면서 채용설명회도 ‘CJ스럽게’ 바꿨다. 홈쇼핑에서 상품을 팔듯 라이브커머스로 직무를 소개하고, 티빙에는 취업 준비생이 주인공인 인터랙티브 숏드라마까지 내놨다.CJ ENM은 2026년 하반기 신입 공개채용을 진행한다고 17일 밝혔다. 지원서 접수는 오는 30일까지며 콘텐츠 기획과 마케팅, AI, 개발 등 12개 직무에서 인재를 모집한다.눈에 띄는 건 채용 정보를 전달하는 방식이다. 오는 22일 CJ온스타일 애플리케이션에서 라이브커머스 형식의 채용설명회를 생중계한다. 회사와 직무를 상품처럼 소개하고 채용 담당자가 직접 출연해 지원자 질문에 실시간으로 답한다.채용을 아예 드라마로도 만들었다. 티빙과 CJ Careers 유튜브 채널에는 인터랙티브 숏드라마 ‘어느 날, 신입사원에게 7명의 선배가 생겼다?!’를 공개했다.주인공은 연애 리얼리티 프로그램에 지원한 줄 알고 등장했다가 뜻밖에 CJ 채용 프로그램에 참가한다. 아이오아이(I.O.I) 출신 임나영이 주인공을 맡아 각기 다른 7개 CJ 계열사의 선배를 만나 자신에게 맞는 회사와 직무를 찾아간다.CJ ENM 미디어솔루션BU가 콘텐츠를 기획하고 CJ그룹 사내벤처 ‘숏냅스’가 제작에 참여했다. 셰프 정지선과 개그맨 조진세, 크리에이터 미미미누 카니 헝그리부대 등도 카메오로 출연한다.실제 채용은 일반 전형과 장교 전형으로 진행한다. 일반 전형의 CJ E",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "[지디넷코리아]CJ ENM이 신입사원을 뽑으면서 채용설명회도 ‘CJ스럽게’ 바꿨다. 홈쇼핑에서 상품을 팔듯 라이브커머스로 직무를 소개하고, 티빙에는 취업 준비생이",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/17/cf2da5dabc9ef1293227bf8ac55ed02e.jpg",
+    "score": 4.587,
+    "engagement": 0,
+    "matched_keywords": [
+      "사내"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "스캔 헬스플랜과 손잡은 월마트…고령층 대상 메디케어 보험 판매",
+    "url": "https://zdnet.co.kr/view/?no=20260917085819",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-17T00:25:08+00:00",
+    "raw_excerpt": "[지디넷코리아]월마트가 비영리 건강보험사 스캔 헬스플랜과 함께 고령층을 대상으로 메디케어 어드밴티지 보험 상품을 판매한다.16일(현지시간) 블룸버그 등 외신에 따르면 양사가 협력한 메디케어 어드밴티지 상품은 미국 2개 주에서 판매될 예정이다. 다만, 구체적인 지역과 예상 가입자 수, 상품의 구체적인 내용은 공개하지 않았다.해당 상품은 아직 규제 당국의 승인을 기다리고 있으며, 양사의 협력과 관련된 재무 조건도 공개되지 않았다.최근 몇 년간 의료비가 가파르게 오르면서 보험사들이 민간 메디케어 상품인 메디케어 어드밴티지를 판매해 수익을 내기 어려워졌다. 이에 보험사들은 사업을 축소하거나 일부 상품 판매를 중단하고 있다. 이로 인해 수백만 명이 다른 보험 상품을 찾아야 하는 상황에 놓였다.재커리 마이어스 스캔 내셔널 총괄 매니저는 “저렴한 가격을 강점으로 하는 월마트와의 협력은 환자들이 건강한 삶을 유지하는 데 필요한 것들을 이용할 때 겪는 일부 어려움을 해결하는 데 도움이 될 수 있다”고 말했다.월마트는 이미 소비자에게 보다 건강한 선택을 추천하는 프로그램의 일환으로 일부 고객의 소비 습관 데이터를 수집하고 있다. 스캔은 월마트가 제공하는 권고가 양사 공동 브랜드 메디케어 어드밴티지 가입자들에게 영향을 미쳐 전반적인 의료비를 낮추는 데 도움이 될 것으로 봤다.규제 당국의 승인을 받으면 해당 상품은 내달 15일 시작되는 연례 가입 기간에 ",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "[지디넷코리아]월마트가 비영리 건강보험사 스캔 헬스플랜과 함께 고령층을 대상으로 메디케어 어드밴티지 보험 상품을 판매한다.16일(현지시간) 블룸버그 등 외신에 따",
+    "thumbnail": "https://image.zdnet.co.kr/2025/10/16/905efdd6f00680cf2e93fd5d9187aa43.jpg",
+    "score": 4.579,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "[인터뷰] 카카오 \"모두의 AI 생태계 확장…외부 협력·에이전트 늘릴 것\"",
+    "url": "https://zdnet.co.kr/view/?no=20260917075619",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-17T00:01:01+00:00",
+    "raw_excerpt": "[지디넷코리아]“모두의 AI 핵심은 이용자가 익숙한 채널에서 필요한 일을 끝까지 처리하도록 돕는 것입니다. 누구나 카카오톡·전화·웹뿐 아니라 외부 기업 서비스에서도 플랫폼을 이용할 수 있도록 외부 협력·에이전트 적용도 늘릴 것입니다.\"김세웅 카카오 부사장은 지난 15일 고진태 LG유플러스 상무와 함께한 공동 인터뷰에서 카카오 컨소시엄의 모두의 AI 개발 방향을 이같이 밝혔다.모두의 AI는 과학기술정보통신부가 국민의 AI 활용을 확대하기 위해 추진하는 ‘전 국민 AI서비스 보편적 활용지원’ 사업이다. 사업자로 선정된 카카오와 SK텔레콤·KT 컨소시엄은 국산 AI 모델을 활용해 범용 챗봇과 공공·분야별 특화 에이전트를 개발한다. 이를 통해 국민이 일상에서 AI를 활용하고 필요한 공공·생활 서비스를 편리하게 이용하도록 지원한다.카카오 컨소시엄이 구축하는 모두의 AI 플랫폼은 범용 챗봇과 공공·분야별 전문 에이전트를 연결하는 서비스다. 여기서 카카오톡과 전화·웹은 이용자가 요청을 전달하는 창구 역할을 한다. 에이전트는 플랫폼에 연결된 서비스를 활용해 이용자 업무를 처리하도록 개발된다.카카오는 카카오톡 이용자 기반을 활용해 모두의 AI 초기 이용자를 확보할 계획이다. 이에 초기 월간활성이용자(MAU) 500만명을 목표로 설정했다. 현금성 마케팅보다 알림톡과 배너 등 기존 채널로 이용자를 끌어모을 방침이다.김 부사장은 지속적인 이용자 활용을 유",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "[지디넷코리아]“모두의 AI 핵심은 이용자가 익숙한 채널에서 필요한 일을 끝까지 처리하도록 돕는 것입니다. 누구나 카카오톡·전화·웹뿐 아니라 외부 기업 서비스에서",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/17/6a6f22a0ce139dc667ac629a94c7c7aa.jpg",
+    "score": 4.556,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "'바이오하자드의 아버지' 미카미 신지, AIAS 명예의 전당 헌액",
+    "url": "https://zdnet.co.kr/view/?no=20260917085150",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-16T23:59:42+00:00",
+    "raw_excerpt": "[지디넷코리아]'바이오하자드' 시리즈를 창시한 스타 개발자 미카미 신지가 미국 인터랙티브 예술과학협회(AIAS)의 '명예의 전당'에 이름을 올린다고 게임인더스트리비즈가 17일(현지시간) 보도했다.보도에 따르면 AIAS는 30년 넘게 게임 업계에 헌신하며 독창적인 비전으로 액션 장르를 이끌어온 미카미 신지를 차기 명예의 전당 헌액자로 공식 선정했다. 미카미 신지는 바이오하자드를 비롯해 '데빌 메이 크라이', '디 이블 위딘', '하이파이 러시', '고스트와이어: 도쿄' 등 다수의 흥행 IP를 배출했으며, 현재 언바운드의 대표이자 크리에이티브 디렉터로 재직 중이다.메건 스카비오 AIAS 회장은 성명을 통해 \"미카미 신지는 이용자와 개발자 모두에게 기념비적이고 영향력 있는 인물\"이라며 \"D.I.C.E. 어워즈 30주년을 맞아 액션 게임 장르에 영감을 불어넣은 그의 업적을 기리게 돼 영광\"이라고 밝혔다.역대 AIAS 명예의 전당에는 에반 웰스너티 독 전 공동대표, 테드 프라이스 인섬니악 게임즈 창립자, 콘도 코지 닌텐도 작곡가 등이 헌액된 바 있다.외신은 미카미 신지가 차세대 개발자들이 성장할 수 있는 창의적인 환경을 구축하는 데 앞장서 온 점 역시 이번 헌액의 주요 배경으로 평가받았다고 전했다.",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "[지디넷코리아]'바이오하자드' 시리즈를 창시한 스타 개발자 미카미 신지가 미국 인터랙티브 예술과학협회(AIAS)의 '명예의 전당'에 이름을 올린다고 게임인더스트리",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/17/e3952efa091fd45b35404a18d24b9e2e.jpg",
+    "score": 4.555,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "The hardest part of and “org harness” or “enterprise ai” (as opposed to personal ai” is auth, and managing auth in a multiplayer channel (li",
+    "url": "https://x.com/hwchase17/status/2100055924928925768",
+    "source": "X @hwchase17",
+    "source_type": "x",
+    "published_at": "2026-09-16T02:55:24+00:00",
+    "raw_excerpt": "The hardest part of and “org harness” or “enterprise ai” (as opposed to personal ai” is auth, and managing auth in a multiplayer channel (like slack)\n\nWe’re thinking a lot about how to do this right for managed deepagents",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "The hardest part of and “org harness” or “enterprise ai” (as opposed to personal ai” is au",
+    "thumbnail": "https://pbs.twimg.com/profile_images/1569345624935485442/R67C4wCQ_400x400.jpg",
+    "score": 4.496,
+    "engagement": 12277,
+    "matched_keywords": [
+      "enterprise ai"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "South Korea Startup Investment Hits Record First-Half High",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=49003",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-16T09:22:13+00:00",
+    "raw_excerpt": "Investment in South Korean startups reached a record for the first half of the year as funding surged toward emerging technologies including artificial intelligence, semiconductors and robotics.Venture firms and startups received KRW 8.87 trillion (US$6.34 billion) during the January-June period, a",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Investment in South Korean startups reached a record for the first half of the year as fun",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202609/49003_47812_2210_v150.jpg",
+    "score": 4.407,
+    "engagement": 0,
+    "matched_keywords": [
+      "startup",
+      "funding"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "두나무, 카자흐스탄 개발청·은행과 디지털금융 MOU",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=49038",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-16T20:04:17+00:00",
+    "raw_excerpt": "[스마트타임스] 업비트를 운영하는 두나무가 카자흐스탄 알라타우시 개발청(ACA), 알라타우시티뱅크와 현지 디지털 금융 인프라 발전을 위한 업무협약(MOU)을 체결했다고 16일 밝혔다.협약은 카심-조마르트 토카예프 카자흐스탄 대통령의 방한을 계기로 지난 15일 서울 포시즌스호텔에서 열린 ‘한-카자흐스탄 비즈니스 라운드테이블’에서 체결됐다.세 기관은 실물연계자산(RWA) 토큰화와 토큰증권(STO)의 활용 가능성을 검토한다. 스테이블코인과 결제 솔루션 등 디지털 금융 수단에 대한 협력 방안도 모색할 예정이다.두나무는 토큰화 솔루션과 디지",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "[스마트타임스] 업비트를 운영하는 두나무가 카자흐스탄 알라타우시 개발청(ACA), 알라타우시티뱅크와 현지 디지털 금융 인프라 발전을 위한 업무협약(MOU)을 체결",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202609/49038_47849_3835_v150.jpg",
+    "score": 4.334,
+    "engagement": 0,
+    "matched_keywords": [
+      "스테이블코인"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "정재헌 SKT 대표 “2030년까지 혁신 기업 500개 육성”",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=49015",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-16T16:52:06+00:00",
+    "raw_excerpt": "[스마트타임스]정재헌 SK텔레콤(SKT) 최고경영자(CEO)가 AI 스타트업 대표들과 직접 만나 협력 강화 방안을 논의하며 동반성장의 의지를 다졌다.SKT는 16일 서울 중구 SKT타워에서 정재헌 대표와 스타트업 대표 8명이 참석한 가운데 간담회를 개최했다고 밝혔다.이번 만남은 스타트업 육성 및 협업 과정에서 현장의 목소리를 직접 경청하고, 양측 간 시너지를 높이기 위한 '윈-윈 파트너십' 강화를 목적으로 마련됐다. 정 CEO는 지난 3월 MWC 현장 소통에 이어 꾸준히 현장 행보를 이어가고 있다.이날 간담회에는 메사쿠어컴퍼니, 콕",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "[스마트타임스]정재헌 SK텔레콤(SKT) 최고경영자(CEO)가 AI 스타트업 대표들과 직접 만나 협력 강화 방안을 논의하며 동반성장의 의지를 다졌다.SKT는 16",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202609/49015_47839_5156_v150.jpg",
+    "score": 4.154,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "한국에서도 인기 많은 '말랑이'…美 공항은 “안 됩니다” 반입 거절",
+    "url": "https://www.etnews.com/20260916000201",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-09-16T08:45:00+00:00",
+    "raw_excerpt": "우리나라뿐만 아니라 미국에서도 인기를 모으는 장난감, 이른바 '말랑이'가 공항 보안검색대에서 제지되는 사례가 잇따르고 있다. 내부에 젤이나 액체가 들어 있는 제품은 미국 교통안전청(TSA)의 액체류 반입 규정을 적용받기 때문이다. 야후는 14일(현지시간) 최근 미국 공항에서 어린이용 말랑이(스퀴시) 장난감이 기내 반입 제한 품목으로 분류되는 사례가 이어지고 있다고 보도했다. 셀린 트랑은 지난 6월 9살 딸과 푸에르토리코로 여행을 떠나기 위해 사",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "우리나라뿐만 아니라 미국에서도 인기를 모으는 장난감, 이른바 '말랑이'가 공항 보안검색대에서 제지되는 사례가 잇따르고 있다. 내부에 젤이나 액체가 들어 있는 제품",
+    "thumbnail": "",
+    "score": 4.108,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
+    "url": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-17T00:28:33+00:00",
+    "raw_excerpt": "Article URL: https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/ Comments URL: https://news.ycombinator.com/item?id=49734929 Points: 25 # Comments: 5",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to",
+    "thumbnail": "https://gcaptain.com/wp-content/uploads/2026/09/Maersk-Container-Anemoi-Rotor-Sail-6-scaled.png.jpeg",
+    "score": 2.715,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Australia says it could follow Canada in forging deeper ties with EU",
+    "url": "https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-16T22:56:48+00:00",
+    "raw_excerpt": "Article URL: https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html Comments URL: https://news.ycombinator.com/item?id=49734171 Points: 171 # Comments: 113",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://www.independent.co.uk/news/world/australasia/canda-eu-membership-aust",
+    "thumbnail": "https://static.independent.co.uk/2026/09/15/05/2267629456..?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+    "score": 2.664,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+    "url": "https://harnesstax.github.io/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-16T22:10:13+00:00",
+    "raw_excerpt": "Article URL: https://harnesstax.github.io/ Comments URL: https://news.ycombinator.com/item?id=49733726 Points: 50 # Comments: 16",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://harnesstax.github.io/ Comments URL: https://news.ycombinator.com/item",
+    "thumbnail": "",
+    "score": 2.638,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Backups Aren't Simple",
+    "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-16T20:27:16+00:00",
+    "raw_excerpt": "Article URL: https://filipovski.net/2026/09/16/backups-arent-simple.html Comments URL: https://news.ycombinator.com/item?id=49732513 Points: 106 # Comments: 46",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://filipovski.net/2026/09/16/backups-arent-simple.html Comments URL: htt",
+    "thumbnail": "",
+    "score": 2.581,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Why Does the Universe Expand?",
+    "url": "https://cosmicave.org/2026/09/15/why-does-the-universe-expand/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-16T19:56:38+00:00",
+    "raw_excerpt": "Article URL: https://cosmicave.org/2026/09/15/why-does-the-universe-expand/ Comments URL: https://news.ycombinator.com/item?id=49732087 Points: 39 # Comments: 23",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://cosmicave.org/2026/09/15/why-does-the-universe-expand/ Comments URL:",
+    "thumbnail": "",
+    "score": 2.564,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Small programming tricks",
+    "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-16T15:56:47+00:00",
+    "raw_excerpt": "Article URL: https://will-keleher.com/posts/small-programming-tricks-matter/ Comments URL: https://news.ycombinator.com/item?id=49729000 Points: 415 # Comments: 187",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://will-keleher.com/posts/small-programming-tricks-matter/ Comments URL:",
+    "thumbnail": "",
+    "score": 2.431,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Anatomy of a Texture",
+    "url": "https://agentlien.github.io/texture/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-16T14:28:28+00:00",
+    "raw_excerpt": "I just uploaded a new article describing how a modern video game texture is stored in graphics memory, why it's done this way, and how it may differ between platforms. It is called Anatomy of a Texture. Comments URL: https://news.ycombinator.com/item?id=49727592 Points: 79 # Comments: 14",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "I just uploaded a new article describing how a modern video game texture is stored in grap",
+    "thumbnail": "https://agentlien.github.io/texture/bamboo_morton.png",
+    "score": 2.382,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+    "url": "https://arxiv.org/abs/2609.14858",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-16T13:44:40+00:00",
+    "raw_excerpt": "Article URL: https://arxiv.org/abs/2609.14858 Comments URL: https://news.ycombinator.com/item?id=49726955 Points: 182 # Comments: 49",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://arxiv.org/abs/2609.14858 Comments URL: https://news.ycombinator.com/i",
+    "thumbnail": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "score": 2.357,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  }
+]
