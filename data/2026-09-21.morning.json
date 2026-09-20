@@ -1,0 +1,822 @@
+[
+  {
+    "title": "No one is surprised that Nvidia s Jensen Huang thinks AI fears are overblown.",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-09-20T18:50:18+00:00",
+    "raw_excerpt": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there was a \"0% chance\" of AI being the end of the [ ]",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "The man who may stand to make the most money from the AI boom seems to think he knows bett",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/STKP210_JENSEN_HUANG_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "score": 5.77,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "nvidia"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Following OpenAI, Anthropic is also reportedly postponing its IPO",
+    "url": "https://the-decoder.com/following-openai-anthropic-is-also-reportedly-postponing-its-ipo/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-09-20T08:35:25+00:00",
+    "raw_excerpt": "Anthropic is reportedly delaying its IPO from October to November 2026 to present strong Q3 results. Investors expect a roughly $2 trillion valuation, but rising infrastructure costs, including $1.25 billion a month for its SpaceX deal alone, and unresolved security risks complicate the listing. The article Following OpenAI, Anthropic is also reportedly postponing its IPO appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Anthropic is reportedly delaying its IPO from October to November 2026 to present strong Q",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/07/claude_logo_money.png",
+    "score": 5.642,
+    "engagement": 0,
+    "matched_keywords": [
+      "openai",
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "World model companies are keeping a lot of secrets",
+    "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-09-20T20:29:07+00:00",
+    "raw_excerpt": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but goo",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/09/ALLIN_16-09-AM_melanieolmsteadphotographe-635.jpg?w=1024",
+    "score": 5.635,
+    "engagement": 0,
+    "matched_keywords": [
+      "world model"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Is the AI industry really ready to slow down?",
+    "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-09-20T18:56:04+00:00",
+    "raw_excerpt": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
+    "score": 5.528,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+    "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-09-20T18:32:52+00:00",
+    "raw_excerpt": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/09/Vocci-feat.jpg?resize=1200,675",
+    "score": 5.502,
+    "engagement": 0,
+    "matched_keywords": [
+      "privacy"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "ScrollEd wants to turn textbooks into TikTok",
+    "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-09-20T18:00:00+00:00",
+    "raw_excerpt": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and qui",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/09/Socrates-as-Tik-Tok-feed.png?resize=1200,800",
+    "score": 5.464,
+    "engagement": 0,
+    "matched_keywords": [
+      "startup"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "트럼프 \"새 'AI 차르' 임명할 것…인공지능 명칭 바꿔야\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215499",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-20T09:25:42+00:00",
+    "raw_excerpt": "도널드 트럼프 미국 대통령이 AI 산업의 주도권을 확보하고 성장 속도를 올리기 위한 국정 구상을 발표했다. 최근 주요 기술 기업 경영진과 정치권에서 AI 안전성과 데이터센터 전력 소비를 둘러싼 우려가 커지는 가운데 나온 조치다.트럼프 대통령은 19일(현지시간) 소셜미디어 트루스 소셜을 통해 정부 AI 정책을 총괄할 책임자인 'AI 차르(AI Czar)'를 조만간 새로 임명하고 첫 임기 당시 창설했던 우주군(Space Force) 모델을 본뜬 'AI 포스(AI Force)' 결성하겠다고 밝혔다. 이어 '인공지능'이라는 명칭을 개편하자",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "도널드 트럼프 미국 대통령이 AI 산업의 주도권을 확보하고 성장 속도를 올리기 위한 국정 구상을 발표했다. 최근 주요 기술 기업 경영진과 정치권에서 AI 안전성과",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215499_219358_2137.jpg",
+    "score": 5.141,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "ai 정책"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Daily AI usage in the U.S. has more than doubled in just six months",
+    "url": "https://the-decoder.com/daily-ai-usage-in-the-u-s-has-more-than-doubled-in-just-six-months/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-09-20T10:03:29+00:00",
+    "raw_excerpt": "Surveys by Epoch AI and Ipsos suggest AI is becoming part of everyday life for more Americans. The share of US adults using AI almost daily more than doubled between March and August 2026, rising from 8 percent to 19 percent. Meanwhile, the share using it just once a week fell from 17 percent to 10 percent. The article Daily AI usage in the U.S. has more than doubled in just six months appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Surveys by Epoch AI and Ipsos suggest AI is becoming part of everyday life for more Americ",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/chatgpt_office-1.png",
+    "score": 4.918,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Simulated students that make realistic mistakes help AI tutors learn faster",
+    "url": "https://the-decoder.com/simulated-students-that-make-realistic-mistakes-help-ai-tutors-learn-faster/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-09-20T09:50:32+00:00",
+    "raw_excerpt": "Microsoft and the University of Illinois built StudentSim to replicate individual students from limited data and give AI tutors fast, low-cost feedback. In tests covering 60 students across chess, English, and math, it outperformed GPT-5.4. A chess tutor trained with StudentSim also earned the highest expert ratings among three versions tested. The article Simulated students that make realistic mistakes help AI tutors learn faster appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Microsoft and the University of Illinois built StudentSim to replicate individual students",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/ai-tutors-microsoft-nano-banana-pro.jpg",
+    "score": 4.903,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "카카오모빌리티, 태국·체코 교통부 차관 요청에 ‘자율주행 기술 역량’ 직접 선보여",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215507",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-20T16:45:00+00:00",
+    "raw_excerpt": "카카오모빌리티(대표 류긍선)가 태국과 체코의 교통부 인사들을 대상으로 시승 및 이용 과정 체험 등을 제공하며 국내 자율주행 서비스를 직접 선보였다고 20일 밝혔다. 먼저, 17일에는 시리퐁 앙카사쿨키앗 태국 교통부 차관을 비롯한 태국 정부 관계자로 구성된 대표단이 경기도 성남시 카카오모빌리티 판교 사옥을 방문했다. 이번 방문은 태국 교통부 측의 요청으로 마련됐다.태국은 최근 자율주행 기술 도입을 위한 제도적 기반 마련에 속도를 내고 있다. 태국 교통부는 지난 7월 레벨 3~5 자율주행 시스템을 대상으로 규제 샌드박스를 추진해 법률,",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "카카오모빌리티(대표 류긍선)가 태국과 체코의 교통부 인사들을 대상으로 시승 및 이용 과정 체험 등을 제공하며 국내 자율주행 서비스를 직접 선보였다고 20일 밝혔다",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215507_219372_4915.jpeg",
+    "score": 4.887,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제",
+      "규제 샌드박스"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Trump announces \"AI Force\" and plans for an \"AI czar\" as he pushes unchecked AI growth",
+    "url": "https://the-decoder.com/trump-announces-ai-force-and-plans-for-an-ai-czar-as-he-pushes-unchecked-ai-growth/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-09-20T08:52:06+00:00",
+    "raw_excerpt": "Trump announces an \"AI Force\" modeled after the Space Force and plans to appoint an \"AI czar\" with a \"high IQ.\" He claims AI could reach 25 percent of US economic output, rejects new regulation, and frames criticism of data centers as a left-wing attack. The article Trump announces AI Force and plans for an AI czar as he pushes unchecked AI growth appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Trump announces an \"AI Force\" modeled after the Space Force and plans to appoint an \"AI cz",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2024/04/us_flag_neural_network.png",
+    "score": 4.836,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "젠슨 황, AI 종말론 또 일축... \"2030년 세계 끝날 확률 0%\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215496",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-20T15:31:42+00:00",
+    "raw_excerpt": "젠슨 황 엔비디아 CEO가 AI로 인해 인류가 멸종하거나 2030년 세계가 끝날 가능성은 없다고 다시 한번 강조했다. 최근 AI 업계 일각에서 제기된 종말론적 우려에 대해 거듭 강하게 반박한 것이다.황 CEO는 18일(현지시간) CBS 뉴스의 '선데이 모닝' 인터뷰에서 AI가 초래할 수 있는 종말론적 시나리오와 관련해 “어떻게 표현하든 2030년이 세계의 종말이 되는 일은 없을 것”이라며 “세계가 끝날 가능성은 0%”라고 말했다.이번 인터뷰는 앤트로픽 출신 연구진이 \"AI를 만드는 사람들은 이번 10년이 끝날 때까지(by the e",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "젠슨 황 엔비디아 CEO가 AI로 인해 인류가 멸종하거나 2030년 세계가 끝날 가능성은 없다고 다시 한번 강조했다. 최근 AI 업계 일각에서 제기된 종말론적 우",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215496_219366_3023.jpg",
+    "score": 4.821,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "엔비디아"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "샘 알트먼, 유엔 안보리서 'AI와 국제 안보' 브리핑 예정",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215498",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-20T11:30:19+00:00",
+    "raw_excerpt": "샘 알트먼 오픈AI CEO가 이번 주 미국 뉴욕에서 열리는 유엔총회 기간에 유엔 안전보장이사회에 참석해 AI와 국제 안보 문제를 주제로 연설할 예정이다. 오픈AI 대변인은 18일(현지시간) 알트먼 CEO가 안전보장이사회의 공개회의에서 직접 발언할 예정이라고 로이터에 밝혔다.15개 이사국으로 구성된 안전보장이사회는 오는 23일 AI와 국제 안보를 주제로 회의를 개최한다. 이번에는 AI 기술의 급속한 발전과 악용 가능성, 인간의 통제를 벗어날 위험 등이 주요 의제로 다뤄질 전망이다.오픈AI에 따르면, 알트먼의 발언은 국제적 협력과 공동",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "샘 알트먼 오픈AI CEO가 이번 주 미국 뉴욕에서 열리는 유엔총회 기간에 유엔 안전보장이사회에 참석해 AI와 국제 안보 문제를 주제로 연설할 예정이다. 오픈AI",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215498_219357_624.jpg",
+    "score": 4.603,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+    "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-09-20T12:00:00+00:00",
+    "raw_excerpt": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey. We were just kind of surviving at the appetite of our predators,\" Joshua Corman, executive in residence for public safety and resilience at [ ]",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" o",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/akrales_220309_4977_0292.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "score": 4.592,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "구글 '제미나이', 보안 테스트 환경 오류로 기업 3곳 침투 사고 발생",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215493",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-19T19:06:23+00:00",
+    "raw_excerpt": "구글의 '제미나이'가 사이버 보안 평가 도중 기업 시스템 3곳에 무단 침투한 사실이 확인됐다. 월스트리트저널(WSJ)이 18일(현지시간) 해당 사실을 보도한 직후, 구글은 자율적 침투 발생을 인정했다.다만 이번 사건은 AI 모델의 자체 결함이나 불량 작동이 아닌, 외주 평가업체의 테스트 환경 관리 소홀에서 비롯된 사고라는 점이 드러났다.사고는 지난 5월 AI 보안 평가 전문 스타트업 이레귤러(Irregular)가 진행한 모의 침투 훈련 과정에서 일어났다. 가상 환경 내 격리된 기업 시스템을 공격하도록 설계된 시뮬레이션이었으나, 평가",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "구글의 '제미나이'가 사이버 보안 평가 도중 기업 시스템 3곳에 무단 침투한 사실이 확인됐다. 월스트리트저널(WSJ)이 18일(현지시간) 해당 사실을 보도한 직후",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215493_219352_255.png",
+    "score": 4.365,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai 보안",
+      "보안",
+      "사이버 보안"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "중국, 앤트로픽 겨냥 “미 정보기관에 사용자 데이터 넘길 수도”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215495",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-20T16:00:24+00:00",
+    "raw_excerpt": "앤트로픽의 개인정보 보호정책 개정으로 사용자 데이터가 미국 정보기관에 공유될 위험이 커졌다는 중국 측 주장이 나왔다.블룸버그에 따르면, 관영매체인 중국중앙TV(CCTV) 계열 소셜미디어 계정 위위안탄톈은 19일(현지시간) 게시물을 통해 앤트로픽이 필요하다고 판단할 경우 법적 절차 없이 사용자 정보를 미국 정보기관과 공유할 수 있도록 개인정보 정책을 변경했다고 주장했다.위위안탄톈에 따르면 앤트로픽은 2023년 이후 개인정보 보호정책을 13차례 개정했다. 이 과정에서 캐나다와 브라질, 한국, 유럽연합(EU) 사용자의 데이터를 미국으로",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "앤트로픽의 개인정보 보호정책 개정으로 사용자 데이터가 미국 정보기관에 공유될 위험이 커졌다는 중국 측 주장이 나왔다.블룸버그에 따르면, 관영매체인 중국중앙TV(C",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215495_219354_2859.jpg",
+    "score": 4.197,
+    "engagement": 0,
+    "matched_keywords": [
+      "개인정보"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Nipple tattooist 'frustrated' by online censorship",
+    "url": "https://www.bbc.com/news/articles/cx2z7ejn891o",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-20T21:51:09+00:00",
+    "raw_excerpt": "Article URL: https://www.bbc.com/news/articles/cx2z7ejn891o Comments URL: https://news.ycombinator.com/item?id=49780466 Points: 9 # Comments: 5",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://www.bbc.com/news/articles/cx2z7ejn891o Comments URL: https://news.yco",
+    "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/4a81/live/4af47810-ad15-11f1-826f-933990eae6f0.jpg",
+    "score": 4.167,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Nobody pays for FOSS, we can force them to",
+    "url": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-20T21:04:32+00:00",
+    "raw_excerpt": "Article URL: https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/ Comments URL: https://news.ycombinator.com/item?id=49780064 Points: 45 # Comments: 20",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/ Com",
+    "thumbnail": "",
+    "score": 4.128,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Ogre Battle 64 Recompiled Project at 99.05%",
+    "url": "https://github.com/lfarroco/ogre-battle-64-recomp",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-20T20:59:02+00:00",
+    "raw_excerpt": "Article URL: https://github.com/lfarroco/ogre-battle-64-recomp Comments URL: https://news.ycombinator.com/item?id=49780022 Points: 7 # Comments: 3",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://github.com/lfarroco/ogre-battle-64-recomp Comments URL: https://news.",
+    "thumbnail": "https://opengraph.githubassets.com/1619a148e06d0f63a690af8ce689207d23579bc8fba5519f3054d3ab5703b715/lfarroco/ogre-battle-64-recomp",
+    "score": 4.123,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Frontier Labs Are Selling Garbage to Fools in Washington",
+    "url": "https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-20T19:55:36+00:00",
+    "raw_excerpt": "Article URL: https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage Comments URL: https://news.ycombinator.com/item?id=49779432 Points: 82 # Comments: 23",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage Comments",
+    "thumbnail": "",
+    "score": 4.07,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "The Hierarchy of Money",
+    "url": "https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-20T19:37:43+00:00",
+    "raw_excerpt": "Article URL: https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/ Comments URL: https://news.ycombinator.com/item?id=49779253 Points: 45 # Comments: 12",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/ Comments URL",
+    "thumbnail": "",
+    "score": 4.055,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Software Sandboxing: The Basics (2025)",
+    "url": "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-20T18:42:47+00:00",
+    "raw_excerpt": "Article URL: https://blog.emilua.org/2025/01/12/software-sandboxing-basics/ Comments URL: https://news.ycombinator.com/item?id=49778670 Points: 44 # Comments: 4",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://blog.emilua.org/2025/01/12/software-sandboxing-basics/ Comments URL:",
+    "thumbnail": "",
+    "score": 4.01,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "A Necessary History of the Oddest Letter: W",
+    "url": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-20T17:55:57+00:00",
+    "raw_excerpt": "Article URL: https://lithub.com/a-necessary-history-of-the-oddest-letter-w/ Comments URL: https://news.ycombinator.com/item?id=49778195 Points: 73 # Comments: 43",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://lithub.com/a-necessary-history-of-the-oddest-letter-w/ Comments URL:",
+    "thumbnail": "https://s26162.pcdn.co/wp-content/uploads/2026/06/W.jpg",
+    "score": 3.971,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Resident Evil 4 (GameCube) – complete byte-identical decompilation to C/C++",
+    "url": "https://github.com/adonis-singh/re4",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-20T17:38:27+00:00",
+    "raw_excerpt": "Article URL: https://github.com/adonis-singh/re4 Comments URL: https://news.ycombinator.com/item?id=49778022 Points: 69 # Comments: 41",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://github.com/adonis-singh/re4 Comments URL: https://news.ycombinator.co",
+    "thumbnail": "https://opengraph.githubassets.com/a68343d482dadb67a924befbee7aa86608065eae2345c69fcd3c11aed199e477/adonis-singh/re4",
+    "score": 3.956,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Trying the Software Factory Pattern",
+    "url": "https://lethain.com/software-factory-experiment/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-20T17:27:11+00:00",
+    "raw_excerpt": "Article URL: https://lethain.com/software-factory-experiment/ Comments URL: https://news.ycombinator.com/item?id=49777913 Points: 53 # Comments: 31",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://lethain.com/software-factory-experiment/ Comments URL: https://news.y",
+    "thumbnail": "https://lethain.com/static/author.png",
+    "score": 3.947,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "'애플 인수설' 프리즘ML, 270억 매개변수 모델 5.9GB로 압축",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215479",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-19T17:36:34+00:00",
+    "raw_excerpt": "애플의 인수 검토설로 주목받은 AI 스타트업 프리즘ML(PrismML)이 한층 진화한 온디바이스 AI 압축 모델을 선보였다. 270억 매개변수급 대형언어모델(LLM)을 5.9기가바이트(GB) 수준으로 압축해 일반 PC와 노트북, 고성능 스마트폰에서도 원활하게 작동하는 신규 모델을 공개했다.캘리포니아 공과대학(Caltech) 스핀오프 기업인 프리즘ML은 지난 7월 54GB 크기의 모델을 4GB 미만으로 줄여 아이폰 17 프로에서 구동하는 데 성공하며 애플 등 빅테크의 인수 및 협력 검토 대상으로 떠오른 바 있다. 이어 17일(현지시간",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "애플의 인수 검토설로 주목받은 AI 스타트업 프리즘ML(PrismML)이 한층 진화한 온디바이스 AI 압축 모델을 선보였다. 270억 매개변수급 대형언어모델(LL",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215479_219327_4011.jpg",
+    "score": 3.634,
+    "engagement": 0,
+    "matched_keywords": [
+      "빅테크",
+      "스타트업"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "AI 챗봇이 사람들의 생각을 바꾸는 데 전문가가 되고 있음",
+    "url": "https://news.hada.io/topic?id=33967",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-20T01:02:24+00:00",
+    "raw_excerpt": "ChatGPT, Gemini, Claude가 정치적 쟁점에 관한 대화에서 세계 챔피언을 포함한 전문 토론자보다 높은 설득력 을 보인 연구 결과가 나옴 챗봇은 감정적 호소보다 사실과 근거를 제시하는 방식 으로 생각을 바꾸지만, 그 안에는 허위 정보도 섞이며 설득력을 높이도록...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "ChatGPT, Gemini, Claude가 정치적 쟁점에 관한 대화에서 세계 챔피언을 포함한 전문 토론자보다 높은 설득력 을 보인 연구 결과가 나옴 챗봇은 감정",
+    "thumbnail": "https://social.news.hada.io/topic/33967?v=8a1f6077d54e2c0b8b4a4b9a4723461e",
+    "score": 3.605,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "gemini",
+      "chatgpt"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "메타, 에이전트 '뮤즈' 맥으로 확대…앱스토어 1위 인기 속 '보안' 부각",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215478",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-19T17:03:03+00:00",
+    "raw_excerpt": "메타의 개인용 AI 에이전트 ‘뮤즈(Muse)’가 맥(Mac)으로 서비스를 확대하면서 AI가 사용자의 컴퓨터에서 직접 작업을 수행하는 시대가 본격화하고 있다. 또 뮤즈는 모바일 버전이 앱스토어 1위에 오르며 폭발적인 인기를 끌고 있지만, 사용자 데이터 접근에 따른 개인정보 보호와 보안 문제는 넘어야 할 최대 과제로 꼽힌다.메타는 17일(현지시간) 맥용 뮤즈를 공식 출시했다. 모바일과 웹에 이어 맥 데스크톱 환경으로 영역을 넓혀 파일, 메시지, 캘린더, 메모, 이메일 등 PC 내 주요 애플리케이션 및 시스템 파일과 직접 연동된다.이를",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "메타의 개인용 AI 에이전트 ‘뮤즈(Muse)’가 맥(Mac)으로 서비스를 확대하면서 AI가 사용자의 컴퓨터에서 직접 작업을 수행하는 시대가 본격화하고 있다. 또",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215478_219325_328.png",
+    "score": 3.604,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "국정원, 내년 공급망보안 통합관리 시스템 만든다",
+    "url": "https://zdnet.co.kr/view/?no=20260920154521",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-20T06:45:21+00:00",
+    "raw_excerpt": "[지디넷코리아]소프트웨어(SW) 공급망 보안 기반을 마련하기 위해 국정원이 내년까지 '공급망보안 통합 관리시스템'을 개발한다. 또 오는 2028년까지 국가 취약점 데이터베이스(DB)도 구축한다. 국가사이버보안기본지침을 내년에 개정, SW보안취약점관리 담당관도 지정하게할 계획이다. SW 공급망 보안은 소프트웨어가 만들어져 배포·사용하는 전 과정에서 악성코드나 취약점이 몰래 들어오지 않도록 관리·보호하는 걸 말한다. 협력사와 제 3자에 의한 해킹을 막는데 유용하다.국가정보원(국정원·NIS)은 지난 17일 국가보안기술연구소(NSR)와 공동으로 서울 코엑스에서 개최한 글로벌 사이버안보 행사 ‘사이버 서밋 코리아(CSK 2026)’에서 이 같은 사실을 공개했다.국정원이 개발을 추진하는 '공급망 보안 통합 관리시스템'은 국가와 공공기관이 도입하는 SW 제품 을 대상으로 SW구성요소명세서(SBOM)를 등록 및 관리하는 시스템이다. 시스템을 구축하면 공급망 침해사고 및 위협 정보 공유를 자동 및 일원화 할 수 있다. 공공과 민간에 침해 여부를 신속히 전파하는 효과도 기대된다. 오는 2028년까지 구축하려는 '국가취약점 DB'는 국내외서 유통되는 상용 및 공개SW에 대한 취약점 정보를 모아놓은 것이다. 여기에는 CVE(Common Vulnerabilities and Exposures, 공통 취약점 및 노출) 등 공개정보가 들어간다. DB를 구축하면 ",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "[지디넷코리아]소프트웨어(SW) 공급망 보안 기반을 마련하기 위해 국정원이 내년까지 '공급망보안 통합 관리시스템'을 개발한다. 또 오는 2028년까지 국가 취약점",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/20/59dedc6917b2d2dfb571b09a93d197d0.jpg",
+    "score": 3.459,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "취약점",
+      "해킹"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Ask GN: 3주간 코딩 에이전트에게 보낸 제 메시지를 분석해 봤습니다. 40%는 실제 작업이 아니었어요. 다른 분들...",
+    "url": "https://news.hada.io/topic?id=34012",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-20T19:11:12+00:00",
+    "raw_excerpt": "여러 코딩 에이전트를 동시에 돌리고 있습니다. 주로 Claude Code와 Kimi를 쓰고, 가끔 Cursor와 Copilot도 씁니다. 요즘 작업 속도가 느리다는 느낌이 들어서, 지난 3주 동안 에이전트에게 보낸 메시지를 전부 내보낸 뒤, 모델이 메시지를 하나씩 읽고 용도별로 분류하게 했습니다. 키워드 검색은 쓰지 않았습니다. ...",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "여러 코딩 에이전트를 동시에 돌리고 있습니다. 주로 Claude Code와 Kimi를 쓰고, 가끔 Cursor와 Copilot도 씁니다. 요즘 작업 속도가 느리다",
+    "thumbnail": "https://social.news.hada.io/topic/34012?v=d8f78a0df3d9e1f134115be1ef0221c1",
+    "score": 3.361,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "경쟁 해자와 진입 장벽에 관하여",
+    "url": "https://news.hada.io/topic?id=33986",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-20T06:42:24+00:00",
+    "raw_excerpt": "AI로 비슷한 제품을 만들기는 쉬워져도 기존 고객을 데려오기까지 쉬워지는 것은 아님 . 시장 진입 장벽이 낮아지는 것과 경쟁 해자가 사라지는 것은 서로 다른 문제임 개인용 AI 에이전트에 작업, 선호도와 계정 정보를 쌓을수록 다른 제품으로 옮기는 수고도 커짐 ...",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "AI로 비슷한 제품을 만들기는 쉬워져도 기존 고객을 데려오기까지 쉬워지는 것은 아님 . 시장 진입 장벽이 낮아지는 것과 경쟁 해자가 사라지는 것은 서로 다른 문제",
+    "thumbnail": "https://social.news.hada.io/topic/33986?v=315563cd72965e4da29ceb3e111cceab",
+    "score": 3.341,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "촌 \"사람과 사람 신뢰, 플랫폼 없이 직접 연결 첫 회사\"",
+    "url": "https://zdnet.co.kr/view/?no=20260920223212",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-20T13:32:12+00:00",
+    "raw_excerpt": "[지디넷코리아]AI가 사람의 얼굴과 목소리를 복제하고 AI 에이전트가 사람 대신 온라인에서 활동하는 시대, 화면 너머의 상대가 진짜 사람인지 어떻게 확인할까. 블록체인 기반 분산신원인증(DID) 전문기업 촌(대표 신근영)이 그 답으로 사람과 사람 사이의 '관계'를 제시했다.촌은 지난 16일 오후 서울 코엑스 컨퍼런스룸에서 '투자자 데이 2026(CHON Investor Day 2026)' 사업설명회를 열고, 6년여 준비해 온 관계 기반 상호인증 기술과 사업 전략을 처음으로 공개했다. 행사에는 벤처캐피탈과 신기술사업금융회사 투자심사역, 파트너 기업, 초기 사용자 그룹, 종중 관계자, 학계 인사 등 100여 명이 참석했다. 조석준 전 기상청장이 사회를 맡아 행사를 진행했다. 행사의 발표 주제는 '플랫폼이 사라지는 세상'이다. 인터넷 발명 이후 이메일로 대표되는 초기 Web1 시대를 지나, 인류는 지금 거대 플랫폼이 사람과 사람의 연결을 독점하고 이용자의 개인정보와 관계 데이터를 서버에 쌓아 자산으로 삼는 Web2 플랫폼 전성시대를 살고 있다.촌은 이 구조를 뒤집었다. 촌 앱을 설치한 이용자가 가장 먼저 하는 일은 가까운 사람과 서로의 관계를 인증하는 것이며, 양쪽의 상호인증이 있어야만 관계가 성립한다. 관계의 주인이 플랫폼이 아니라 당사자가 되는 것이다.이렇게 상호인증으로 신뢰가 검증되면 팬덤 운영자, 식당 주인, 동호회 회장, 종중과 ",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "[지디넷코리아]AI가 사람의 얼굴과 목소리를 복제하고 AI 에이전트가 사람 대신 온라인에서 활동하는 시대, 화면 너머의 상대가 진짜 사람인지 어떻게 확인할까. 블",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/20/2538a200155d470cc6e2dceb2424f825.jpg",
+    "score": 3.263,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Step 5 Preview: 파레토 경계 확장",
+    "url": "https://news.hada.io/topic?id=34006",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-20T15:52:28+00:00",
+    "raw_excerpt": "StepFun이 에이전트 작업용 플래그십 모델 Step 5 Preview 를 공개함. 소프트웨어 엔지니어링과 전문 지식 업무, 특히 금융에 초점을 맞췄으며, 비슷한 지능 수준의 모델보다 작업 비용이 상당히 낮다고 밝힘 희소 MoE 구조로 전체 파라미터 6,000억 개 중 토큰당 2...",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "StepFun이 에이전트 작업용 플래그십 모델 Step 5 Preview 를 공개함. 소프트웨어 엔지니어링과 전문 지식 업무, 특히 금융에 초점을 맞췄으며, 비슷",
+    "thumbnail": "https://social.news.hada.io/topic/34006?v=f050ee4a5fc2d57aeb140a0fbfc2898f",
+    "score": 3.223,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Brood War Bench",
+    "url": "https://news.hada.io/topic?id=33966",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-20T01:02:23+00:00",
+    "raw_excerpt": "에이전트가 Brood War를 얼마나 독립적으로 플레이할 수 있는지 평가하기 위해 모델과 추론 노력 설정 19개 조합 을 서로 대전시켰으며, 초보 수준을 넘어선 모델은 없었음 Codex Astra / xhigh 가 18승 무패로 1위를 차지했고, Astra / medium과 Claude Fable이 각각...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "에이전트가 Brood War를 얼마나 독립적으로 플레이할 수 있는지 평가하기 위해 모델과 추론 노력 설정 19개 조합 을 서로 대전시켰으며, 초보 수준을 넘어선",
+    "thumbnail": "https://social.news.hada.io/topic/33966?v=e9be49b76e4e0391a02fee7fb8b71b09",
+    "score": 3.105,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "codex"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "초고속 APK 역컴파일러인 ASC를 새로 개발했다.",
+    "url": "https://news.hada.io/topic?id=33995",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-20T12:05:52+00:00",
+    "raw_excerpt": "개발자 MG193_7는 Jadx보다 월등히 빠르고 병렬 분석이 가능한 역컴파일러 ASC를 개발해 실제 원격 코드 실행 취약점을 발견했으며, 해당 도구가 Black Hat Europe Arsenal에 채택되었다고 발표했다. 전문 번역 초고속 안드로이드 역컴파일러인 ASC를 새로 개발했다. 이",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "개발자 MG193_7는 Jadx보다 월등히 빠르고 병렬 분석이 가능한 역컴파일러 ASC를 개발해 실제 원격 코드 실행 취약점을 발견했으며, 해당 도구가 Black",
+    "thumbnail": "https://social.news.hada.io/topic/33995?v=00751d44e92f0f8082767b77240316fb",
+    "score": 3.066,
+    "engagement": 0,
+    "matched_keywords": [
+      "취약점"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Stagehand v4, Playwright보다 2배 빠르고 토큰 효율 80% 높은 브라우저 자동화",
+    "url": "https://news.hada.io/topic?id=33959",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-19T22:52:25+00:00",
+    "raw_excerpt": "AI 에이전트가 웹사이트를 조작하고 데이터를 추출하는 오픈소스 SDK 로, Playwright와 비슷한 코드에 자연어 명령을 함께 사용할 수 있음 브라우저를 제어할 때마다 외부 스크립트와 통신하던 구조를 바꿔, 브라우저 안의 확장 프로그램에서 명령을 처리 하고 여러 ...",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "AI 에이전트가 웹사이트를 조작하고 데이터를 추출하는 오픈소스 SDK 로, Playwright와 비슷한 코드에 자연어 명령을 함께 사용할 수 있음 브라우저를 제어",
+    "thumbnail": "https://social.news.hada.io/topic/33959?v=321db5110f0275a5aeb97e304b2b4c5e",
+    "score": 3.015,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "[ST PICK] DS·DX로 쪼개진 삼성전자 노조…징계·불신임에 탄원전까지",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=49119",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-20T18:09:22+00:00",
+    "raw_excerpt": "[스마트타임스]삼성전자 노동조합이 반도체 사업을 담당하는 DS(디바이스솔루션)부문과 가전·스마트폰·TV 등을 맡는 DX(디바이스경험)부문을 중심으로 사실상 양분되고 있다. 내년도 임금·단체협상 방식을 둘러싼 노조 간 충돌에 집행부 내부 징계와 불신임, 각종 의혹까지 겹치면서 노조 내홍이 깊어지는 모습이다.20일 업계에 따르면 DX부문 중심의 삼성전자 노동조합 동행(동행노조)은 지난 18일 전국 지부장의 업무를 중지하고 사무국장과 일부 대의원에게 해임·제명 징계 예정 통지를 보냈다.징계 대상자들은 하루 전인 17일 위원장 직무대행의",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "[스마트타임스]삼성전자 노동조합이 반도체 사업을 담당하는 DS(디바이스솔루션)부문과 가전·스마트폰·TV 등을 맡는 DX(디바이스경험)부문을 중심으로 사실상 양분되",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202609/49119_47933_829_v150.jpg",
+    "score": 2.986,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "\"BOE, 반도체 패키징 전략 분명...삼성·LGD 관심은 중간\"",
+    "url": "https://zdnet.co.kr/view/?no=20260921014801",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-20T17:16:26+00:00",
+    "raw_excerpt": "[지디넷코리아]전 세계 주요 패널 업체 중 BOE와 이노룩스만 첨단 반도체 패키징 전략이 분명하다는 관측이 나왔다. 시장조사업체 옴디아는 이달 중순 중국에서 개최한 컨퍼런스에서 \"대부분의 패널 업체가 첨단 반도체 패키징 시장을 어느 정도 평가했다\"며 이처럼 밝혔다. 삼성디스플레이와 LG디스플레이의 반도체 패키징 기술에 대한 관심은 '중간'(medium)으로 분류했다. 여기서 말하는 첨단 반도체 패키징 기술은 팬아웃(FO)-패널레벨패키징(PLP)과 반도체 유리기판 등을 말한다. 최근 수익성이 떨어졌거나 가동을 중단한 액정표시장치(LCD) 팹을 다시 활용하기 위해, 또는 신사업을 모색하기 위해 국내외 패널 업체는 반도체 패키징에 관심을 보이고 있다. 반도체 패키징 기술에 관심이 '높음'(high)으로 분류된 패널 업체는 BOE와 이노룩스, 한스타, JDI 4곳이다. 이들 기업 중 BOE와 이노룩스 2곳은 관련 전략이 분명하다고 평가됐다. 옴디아는 BOE가 510x515mm 기판을 사용하는 파일럿 라인을 구축했고, 유리 코어 등 일부 제품 샘플을 잠재 고객에 보냈다고 밝혔다. 양산 시기는 빨라야 2028년 이후로 추정됐다. BOE는 510x515mm 라인을 여러 단계에 걸쳐 확대하는 것을 포함해 장기 전략을 수립했다고 평가됐다. BOE는 ES윈(ESWIN) 지분을 보유하고 있다. ES윈의 자회사 이친트(Echint)는 현재 600x600m",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "[지디넷코리아]전 세계 주요 패널 업체 중 BOE와 이노룩스만 첨단 반도체 패키징 전략이 분명하다는 관측이 나왔다. 시장조사업체 옴디아는 이달 중순 중국에서 개최",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/21/2f88f6047209473129b2d97de10de6c3.png",
+    "score": 2.953,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "[ZD브리핑] 미중 정상회담·김범수 항소심 결심…추석 앞 산업·IT 이슈는",
+    "url": "https://zdnet.co.kr/view/?no=20260920130102",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-20T04:15:07+00:00",
+    "raw_excerpt": "[지디넷코리아]지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 제공합니다. '꼭 챙길 뉴스'는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠, 플랫폼, e커머스, 금융, 디지털 헬스케어, 게임, 블록체인, 과학 등의 소식을 담았습니다. 바쁜 현대인들의 월요병을 조금이나마 덜어 줄 '꼭 챙길 뉴스'를 통해 한 주 동안 발생할 IT 이슈를 미리 확인해 보시기 바랍니다. [편집자주]이번 주 산업·IT 업계의 시선은 미국 워싱턴으로 향합니다. 도널드 트럼프 미국 대통령과 시진핑 중국 국가주석이 24일 백악관에서 정상회담을 갖고 무역과 희토류, 인공지능(AI) 등 주요 현안을 논의할 예정입니다. 만찬에는 미국 주요 빅테크 경영진도 초청돼 미중 기술 패권 경쟁 속 AI와 반도체 문제가 어떤 방식으로 다뤄질지 관심이 쏠립니다.국내에서는 수소와 전기차·배터리 산업의 새로운 정책 방향을 모색하는 자리가 잇따라 열립니다. 국회 과학기술정보방송통신위원회는 국정감사 준비에 속도를 내고, AI 신뢰성 국제표준과 클라우드·사이버보안 전략을 논의하는 행사도 예정돼 있습니다. 의료계에서는 의약품 배송과 비급여 관리 정책을 둘러싼 움직임이 이어지며, 김범수 카카오 창업주의 자본시장법 위반 혐의 항소심도 결심 절차에 들어갑니다.24일 미국 백악관에서 트럼프 대통령과 시진핑 주석이 정상회담을 갖습니다. 지난 5월 회동 ",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "[지디넷코리아]지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 제공합니다. '꼭 챙길 뉴스'는 정보통신, 소프트웨어(SW),",
+    "thumbnail": "https://image.zdnet.co.kr/2026/05/14/949f52c9fa2a2b9890a0e89488dbfaf0.jpg",
+    "score": 2.915,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "빅테크"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "RSA-896",
+    "url": "https://news.hada.io/topic?id=33987",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-20T07:42:24+00:00",
+    "raw_excerpt": "RSA-896을 소인수분해했다는 결과 가 공개됨 대상은 RSA 챌린지 수 인 RSA-896임 소인수분해에는 Claude 를 사용했다고 함 작업 날짜는 2026년 9월 19일 임 RSA-896의 전체 값과 두 인수 p, q...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "RSA-896을 소인수분해했다는 결과 가 공개됨 대상은 RSA 챌린지 수 인 RSA-896임 소인수분해에는 Claude 를 사용했다고 함 작업 날짜는 2026년",
+    "thumbnail": "https://social.news.hada.io/topic/33987?v=926a297ee6213982418db34044de727c",
+    "score": 2.883,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  }
+]
