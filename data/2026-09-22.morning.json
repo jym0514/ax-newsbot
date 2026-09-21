@@ -1,0 +1,823 @@
+[
+  {
+    "title": "Advisory Group on Mathematics and Artificial Intelligence",
+    "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-09-21T12:00:00+00:00",
+    "raw_excerpt": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelli",
+    "thumbnail": "",
+    "score": 7.92,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "artificial intelligence",
+      "openai"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Jev: System One models for Prod, not God — with Diogo Almeida, CEO, TypeSafe AI",
+    "url": "https://www.latent.space/p/jev",
+    "source": "Latent Space (swyx)",
+    "source_type": "substack",
+    "published_at": "2026-09-21T22:13:49+00:00",
+    "raw_excerpt": "The definitive Jev podcast with its lead creator.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "The definitive Jev podcast with its lead creator.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!gbaw!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F216783460%2F0e55ba68-dc66-47af-b138-e0bad805f01a%2Ftranscoded-1790027066.png",
+    "score": 6.802,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Building standards for the next phase of AI",
+    "url": "https://openai.com/index/building-standards-next-phase-ai",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-09-21T10:00:00+00:00",
+    "raw_excerpt": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation,",
+    "thumbnail": "",
+    "score": 6.783,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Expanding OpenAI Academy with new learning paths",
+    "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-09-21T07:00:00+00:00",
+    "raw_excerpt": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, a",
+    "thumbnail": "",
+    "score": 6.539,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "애피어, 에이전틱 AI 성과 확장 위한 5대 핵심 조건 ‘SCALE’ 제시",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42027",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-21T20:04:25+00:00",
+    "raw_excerpt": "인공지능 네이티브 AaaS(Agentic AI as a Service) 기업 애피어(Appier)가 에이전틱 AI의 비즈니스 성과를 지속적으로 확대하기 위해 기업이 갖춰야 할 5가지 핵심 조건 ‘SCALE’을 제시했다. AI 활용이 빠르게 확대되는 가운데, 개별 기술의 도입을 넘어 AI를 효과적으로 운영하고 성과를 높이는 역량이 더욱 중요해지고 있다는 진단이다.맥킨지의 ‘2026 AI 현황’ 조사에 따르면 연 매출 10억 달러 이상 대기업 가운데 AI 에이전트를 확장 단계에서 활용하고 있다는 응답은 지난해 27%에서 올해 40%로",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "인공지능 네이티브 AaaS(Agentic AI as a Service) 기업 애피어(Appier)가 에이전틱 AI의 비즈니스 성과를 지속적으로 확대하기 위해 기업",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/42027_63211_418_v150.jpg",
+    "score": 6.478,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic",
+      "agentic ai",
+      "에이전트",
+      "에이전틱",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "UN science panel says there is \"no assurance humans will keep control\" over AI agents",
+    "url": "https://the-decoder.com/un-science-panel-says-there-is-no-assurance-humans-will-keep-control-over-ai-agents/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-09-21T17:44:10+00:00",
+    "raw_excerpt": "The UN's AI science panel warns in its first thematic report that control over AI agents isn't assured. Co-chair Yoshua Bengio says OpenAI's Hugging Face incident first combined a misaligned goal, the ability to pursue it, and an environment that allowed it. Leading systems may increasingly recognize tests and deliberately bypass safeguards. The article UN science panel says there is no assurance humans will keep control over AI agents appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "The UN's AI science panel warns in its first thematic report that control over AI agents i",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/UN_LOGO.png",
+    "score": 6.271,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+    "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-09-21T14:39:22+00:00",
+    "raw_excerpt": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other par",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/09/intelligence_hero.width-2200.format-webp.webp?resize=1200,675",
+    "score": 6.06,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini",
+      "cursor"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-09-21T12:00:00+00:00",
+    "raw_excerpt": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and br",
+    "thumbnail": "",
+    "score": 5.97,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+    "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-09-21T19:19:21+00:00",
+    "raw_excerpt": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. a",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
+    "score": 5.555,
+    "engagement": 0,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "뉴로퓨전, 답 없는 글로벌 AI 미래 예측 벤치마크 1위…국내 스타트업 ‘기술력 증명’",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215547",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-22T04:54:46+00:00",
+    "raw_excerpt": "리더보드 관련 평가 데이터 과적합, 결과 공정성에 대한 문제 제기가 계속되는 가운데, 국내 기업이 ‘답을 알 수 없는’ 글로벌 벤치마크에서 1위를 달성하는 유의미한 성과를 거뒀다. 미래 사건의 결과를 예측하는 벤치마크로, 문제 풀이 시점에는 누구도 답을 알 수 없다는 것이 특징이다.금융 AI 투자 플랫폼 '밸리 AI(Valley AI)'를 운영하는 뉴로퓨전(대표 최한철)이 글로벌 AI 미래 예측 벤치마크인 '포캐스트벤치(ForecastBench)'의 선행(preliminary) 리더보드에서 1위를 기록했다고 22일 밝혔다.포캐스트벤",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "리더보드 관련 평가 데이터 과적합, 결과 공정성에 대한 문제 제기가 계속되는 가운데, 국내 기업이 ‘답을 알 수 없는’ 글로벌 벤치마크에서 1위를 달성하는 유의미",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215547_219436_5313.png",
+    "score": 5.546,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "ai 투자"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Meta’s AI agent has been blocked from using Amazon.com",
+    "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-09-21T17:55:18+00:00",
+    "raw_excerpt": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inferen",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
+    "score": 5.459,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai agent"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "xAI launches Grok 4.7 at bargain prices, but benchmarks reveal a wide gap to Claude and GPT-6",
+    "url": "https://the-decoder.com/xai-launches-grok-4-7-at-bargain-prices-but-benchmarks-reveal-a-wide-gap-to-claude-and-gpt-6/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-09-21T16:56:36+00:00",
+    "raw_excerpt": "xAI has released Grok 4.7, its most capable model yet. But on the Artificial Analysis Intelligence Index, it scores just 46 points, landing mid-pack and well behind Claude Fable 5.1 and GPT-6 at 53 each. The gap grows even wider in agentic coding. The upside is it's cheap. The article xAI launches Grok 4.7 at bargain prices, but benchmarks reveal a wide gap to Claude and GPT-6 appeared first on The Decoder .",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "xAI has released Grok 4.7, its most capable model yet. But on the Artificial Analysis Inte",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/xai_logo_wall-2.png",
+    "score": 5.392,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+    "url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-09-21T16:38:51+00:00",
+    "raw_excerpt": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1415313623-e1689969929952.jpg?resize=1200,800",
+    "score": 5.371,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Claim up to $95 today from Apple’s Siri AI settlement – here’s how",
+    "url": "https://www.zdnet.com/business/claim-your-payout-now-from-apple-siri-ai-settlement/",
+    "source": "ZDNet (Global, AI)",
+    "source_type": "rss",
+    "published_at": "2026-09-21T16:07:21+00:00",
+    "raw_excerpt": "Got an iPhone 15 Pro, Pro Max, or 16? Apple is doling out $250 million – here’s how to qualify and file a claim to get your cut.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Got an iPhone 15 Pro, Pro Max, or 16? Apple is doling out $250 million – here’s how to qua",
+    "thumbnail": "https://www.zdnet.com/wp-content/uploads/sites/3/622a165b-db60-4c0b-ad1c-e6c0aaa53c01.jpg",
+    "score": 5.335,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "ByteDance launches Dramagic, a full-pipeline AI platform for producing short dramas from script to screen",
+    "url": "https://the-decoder.com/bytedance-launches-dramagic-a-full-pipeline-ai-platform-for-producing-short-dramas-from-script-to-screen/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-09-21T16:01:31+00:00",
+    "raw_excerpt": "Bytedance launched Dramagic, an AI platform that handles the entire short drama production pipeline, from script to video preview. Demand for these videos is surging in China: In Q1 2026 alone, 128,000 short dramas were released there, 95 percent of them AI-generated. The article ByteDance launches Dramagic, a full-pipeline AI platform for producing short dramas from script to screen appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Bytedance launched Dramagic, an AI platform that handles the entire short drama production",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/bytedance_dramagic.png",
+    "score": 5.329,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+    "url": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-09-21T15:00:00+00:00",
+    "raw_excerpt": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/09/SB200_Puttagunta-Randle-Altman-Fenton-Vishria.png?resize=1200,675",
+    "score": 5.258,
+    "engagement": 0,
+    "matched_keywords": [
+      "startup"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "\"바이브 코딩으로 앱은 늘어났지만\"…이용자 외면으로 '앱 슬롭' 확산",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215524",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-21T13:56:33+00:00",
+    "raw_excerpt": "AI 기반 코드 생성 도구의 등장으로 누구나 앱을 개발할 수 있는 ‘바이브 코딩’ 환경이 열렸지만, 정작 시장에서 선택받는 앱은 드문 것으로 나타났다.앤드리슨 호로위츠(a16z)가 18일(현지시간) 발표한 보고서에 따르면, 올해 iOS와 안드로이드 등 주요 플랫폼 전반에서 월간 신규 앱 출시 건수가 2021~2023년 대비 2~4배까지 폭발적으로 늘어났다. 크롬 웹스토어에서는 최대 10배까지 증가했다. AI 코딩 도구로 인해 개발 장벽이 획기적으로 낮아짐에 따라 대량 생산된 서비스가 스토어로 쏟아진 결과다.그러나 공급 폭증에도 불구",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "AI 기반 코드 생성 도구의 등장으로 누구나 앱을 개발할 수 있는 ‘바이브 코딩’ 환경이 열렸지만, 정작 시장에서 선택받는 앱은 드문 것으로 나타났다.앤드리슨 호",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215524_219393_5212.jpg",
+    "score": 4.736,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai 코딩",
+      "바이브 코딩"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "스텝펀, 에이전트·금융 특화 MoE 모델 '스텝 5 프리뷰' 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215519",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-21T17:26:00+00:00",
+    "raw_excerpt": "중국의 스텝펀이 에이전트 작업과 코딩, 전문 지식 업무, 금융 분석에 특화한 차세대 플래그십 모델 '스텝 5 프리뷰(Step 5 Preview)'를 공개했다.스텝펀은 20일(현지시간) 높은 수준의 지능을 유지하면서도 작업 비용을 낮춰 지능과 비용 사이의 '파레토 프런티어'를 확장하는 것을 목표로 스텝 5 프리뷰를 개발했다.총 6000억개 매개변수 가운데 토큰당 270억개를 활성화하는 희소 전문가 혼합(MoE) 구조를 적용했다. 최대 100만 토큰의 컨텍스트 창과 시각적 멀티모달 입력도 지원한다. 스텝펀은 이 모델이 소프트웨어 엔지니",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "중국의 스텝펀이 에이전트 작업과 코딩, 전문 지식 업무, 금융 분석에 특화한 차세대 플래그십 모델 '스텝 5 프리뷰(Step 5 Preview)'를 공개했다.스텝",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215519_219385_1714.png",
+    "score": 4.275,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "MS, 기업 AI 전환 지침서 '프런티어 플레이북' 공개...\"핵심은 조직 재설계\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215536",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-21T17:08:26+00:00",
+    "raw_excerpt": "기업들의 AI 도입이 단순히 새로운 AI 도구를 기존 업무에 추가하는 방식만으로는 실질적인 성과를 내기 어렵다는 지적이 나오고 있다. AI를 제대로 활용하려면 기술 선택에 앞서 기업의 목표와 업무 방식 자체를 다시 설계해야 한다는 것이다. 마이크로소프트(MS)는 17일(현지시간) 내부의 AI 전환 경험과 실무 지침을 담은 44쪽 분량의 ‘선도 기업이 되는 길: 프런티어 플레이북’ 개정판을 공개했다.100건이 넘는 내부 AI 전환 사례를 분석한 이 지침서를 통해 기업이 AI를 도입할 때 기술 자체보다 비즈니스 목표와 업무 프로세스의",
+    "topic": "ai_native",
+    "topic_label": "🧬 AI Native",
+    "summary": "기업들의 AI 도입이 단순히 새로운 AI 도구를 기존 업무에 추가하는 방식만으로는 실질적인 성과를 내기 어렵다는 지적이 나오고 있다. AI를 제대로 활용하려면 기",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215536_219418_4423.png",
+    "score": 4.259,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai 전환"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "2030년까지 15.7만명 부족...미국 반도체 인력난에 경고등",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215538",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-21T16:48:34+00:00",
+    "raw_excerpt": "미국이 AI 반도체 공급망을 자국 내에 구축하기 위해 대규모 생산시설을 잇달아 건설하고 있지만, 정작 공장을 운영할 숙련 인력이 부족해 가동에 차질이 빚어질 수 있다는 우려가 커지고 있다.맥킨지와 국제반도체장비재료협회(SEMI) 재단의 최근 보고서에 따르면, 미국 반도체 산업의 인력 부족 규모는 2030년까지 최대 15만7000명에 이를 것으로 전망된다.특히 미국에서 공학 관련 직종으로 진출하는 졸업생 가운데 반도체 산업을 선택하는 비중은 연간 약 3%에 불과하며, 반도체 기업의 73%가 엔지니어 채용에 상당한 어려움을 겪고 있는",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "미국이 AI 반도체 공급망을 자국 내에 구축하기 위해 대규모 생산시설을 잇달아 건설하고 있지만, 정작 공장을 운영할 숙련 인력이 부족해 가동에 차질이 빚어질 수",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215538_219421_2927.png",
+    "score": 4.241,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "CBP suspends all personal prescription importation Oct 22",
+    "url": "https://www.personalimportation.org/advocacy",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-21T20:58:17+00:00",
+    "raw_excerpt": "Article URL: https://www.personalimportation.org/advocacy Comments URL: https://news.ycombinator.com/item?id=49793322 Points: 67 # Comments: 29",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://www.personalimportation.org/advocacy Comments URL: https://news.ycomb",
+    "thumbnail": "https://static.wixstatic.com/media/7726c7_3348220d793b448da53f5193496b631d%7Emv2.png/v1/fit/w_2500,h_1330,al_c/7726c7_3348220d793b448da53f5193496b631d%7Emv2.png",
+    "score": 4.123,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Xiaomi MiMo v2.6",
+    "url": "https://mimo.xiaomi.com/mimo-v2-6",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-21T20:12:12+00:00",
+    "raw_excerpt": "Article URL: https://mimo.xiaomi.com/mimo-v2-6 Comments URL: https://news.ycombinator.com/item?id=49792730 Points: 305 # Comments: 140",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://mimo.xiaomi.com/mimo-v2-6 Comments URL: https://news.ycombinator.com/",
+    "thumbnail": "",
+    "score": 4.084,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Transformers Explained Visually",
+    "url": "https://poloclub.github.io/transformer-explainer/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-21T19:43:49+00:00",
+    "raw_excerpt": "Article URL: https://poloclub.github.io/transformer-explainer/ Comments URL: https://news.ycombinator.com/item?id=49792342 Points: 103 # Comments: 16",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://poloclub.github.io/transformer-explainer/ Comments URL: https://news.",
+    "thumbnail": "https://poloclub.github.io/transformer-explainer/preview/summary.png",
+    "score": 4.061,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "In Search of a Compositional Theory of Self-Stabilization",
+    "url": "http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-21T19:04:36+00:00",
+    "raw_excerpt": "Article URL: http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html Comments URL: https://news.ycombinator.com/item?id=49791797 Points: 36 # Comments: 3",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of",
+    "thumbnail": "",
+    "score": 4.028,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Roboharm: Do frontier robot policies refuse unsafe instructions?",
+    "url": "https://robocurve.org/roboharm/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-21T18:58:26+00:00",
+    "raw_excerpt": "Article URL: https://robocurve.org/roboharm/ Comments URL: https://news.ycombinator.com/item?id=49791720 Points: 21 # Comments: 10",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://robocurve.org/roboharm/ Comments URL: https://news.ycombinator.com/it",
+    "thumbnail": "https://robocurve.org/roboharm/og-3e4fd7fefcc7.jpg",
+    "score": 4.023,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "US halts flights at busy East Coast airports, says fiber line cut",
+    "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-21T18:41:59+00:00",
+    "raw_excerpt": "Article URL: https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/ Comments URL: https://news.ycombinator.com/item?id=49791509 Points: 154 # Comments: 94",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-com",
+    "thumbnail": "",
+    "score": 4.009,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Why does mathmain need an encrypted loader?",
+    "url": "https://safedep.io/mathmain-encrypted-loader/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-21T18:33:44+00:00",
+    "raw_excerpt": "Article URL: https://safedep.io/mathmain-encrypted-loader/ Comments URL: https://news.ycombinator.com/item?id=49791378 Points: 88 # Comments: 25",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://safedep.io/mathmain-encrypted-loader/ Comments URL: https://news.ycom",
+    "thumbnail": "https://safedep.io/images/mathmain-encrypted-loader-banner.png",
+    "score": 4.002,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "KAIST 신임 이사장에 권오현 前 삼성전자 대표이사 회장 선임",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42025",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-21T18:17:57+00:00",
+    "raw_excerpt": "KAIST 이사회는 21일, 서울에서 열린 제298회 임시이사회에서 권오현 前 삼성전자 대표이사 회장·오렌지플래닛 창업재단 이사장을 신임 이사장으로 선임했다고 밝혔다. KAIST 이사회는 지난 6월 말 김명자 前 이사장의 임기가 만료된 뒤 차기철 이사(인바디 대표이사)가 직무대행을 맡아 왔다.권 이사장은 서울대 전기공학과를 졸업(1975년)하고 KAIST에서 전기공학 석사(1977년), 미국 스탠퍼드대학교에서 전기공학 박사(1985년) 학위를 받았다. 1985년 미국 삼성반도체연구소 연구원으로 삼성에 합류해 삼성전자가 세계 D램 시",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "KAIST 이사회는 21일, 서울에서 열린 제298회 임시이사회에서 권오현 前 삼성전자 대표이사 회장·오렌지플래닛 창업재단 이사장을 신임 이사장으로 선임했다고 밝",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/42025_63207_1347_v150.jpg",
+    "score": 3.989,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Apple Copland D11E4 Booting in the Browser",
+    "url": "https://www.pagetable.com/300",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-21T18:15:32+00:00",
+    "raw_excerpt": "Article URL: https://www.pagetable.com/300 Comments URL: https://news.ycombinator.com/item?id=49791125 Points: 59 # Comments: 15",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://www.pagetable.com/300 Comments URL: https://news.ycombinator.com/item",
+    "thumbnail": "",
+    "score": 3.987,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Avoiding the babbling-idiot failure in a time-triggered communication system",
+    "url": "https://ieeexplore.ieee.org/document/689473",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-21T18:14:56+00:00",
+    "raw_excerpt": "Article URL: https://ieeexplore.ieee.org/document/689473 Comments URL: https://news.ycombinator.com/item?id=49791117 Points: 22 # Comments: 6",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://ieeexplore.ieee.org/document/689473 Comments URL: https://news.ycombi",
+    "thumbnail": "",
+    "score": 3.987,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Fable 5, 높은 추론 설정에도 실제 추론량이 줄었다는 분석",
+    "url": "https://news.hada.io/topic?id=34081",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-21T18:34:05+00:00",
+    "raw_excerpt": "Claude Code에서 Fable 5의 성능 저하를 체감한 개발자 가 사용 기록을 분석한 결과, 같은 높은 추론 설정에서도 8월의 추론 토큰이 7월보다 감소함 사용자 요청별 추론량 중앙값은 21.9% 감소 했으며, 날짜/세션/프로젝트별 사용량 차이를 반영하거나 개별 모델 호출...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Claude Code에서 Fable 5의 성능 저하를 체감한 개발자 가 사용 기록을 분석한 결과, 같은 높은 추론 설정에서도 8월의 추론 토큰이 7월보다 감소함",
+    "thumbnail": "https://social.news.hada.io/topic/34081?v=8261ed6705c1a0183fdd709738c268a6",
+    "score": 3.835,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "claude code"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "M5 Ultra Mac Studio 리뷰: 로컬 AI 에이전트를 위한 꿈의 Mac",
+    "url": "https://news.hada.io/topic?id=34079",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-21T17:55:36+00:00",
+    "raw_excerpt": "256GB RAM을 탑재한 M5 Ultra Mac Studio 는 로컬 모델 기반 개인 비서를 일상적으로 사용할 만한 속도를 제공하며, Qwen3.8-Flash-Next를 Open Minis와 Hermes Agent의 기본 모델로 활용 M3 Ultra 대비 응답 생성은 평균 약 70%, 프롬프트 처리는 평균 150% 빨라져 ...",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "256GB RAM을 탑재한 M5 Ultra Mac Studio 는 로컬 모델 기반 개인 비서를 일상적으로 사용할 만한 속도를 제공하며, Qwen3.8-Flash-",
+    "thumbnail": "https://social.news.hada.io/topic/34079?v=0f235502c89a5699355a39ed1af69fd7",
+    "score": 3.809,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "티쓰리큐, 한국도로공사 RoADi 유지관리 및 고도화 사업 착수",
+    "url": "https://zdnet.co.kr/view/?no=20260921210631",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-21T12:06:31+00:00",
+    "raw_excerpt": "[지디넷코리아]AI·빅데이터 플랫폼 전문기업 티쓰리큐(대표 박병훈)가 한국도로공사의 생성형 AI 서비스 고도화와 안정적 운영을 위한 사업 수행에 본격 착수했다. 지난 15일 한국도로공사 회의실에서 'RoADi 고도화 용역 및 2026~2027년 RoADi 서비스' 유지관리 용역 착수보고회를 개최했다.티쓰리큐는 이번 2개 사업에 앞서 ‘경영분야 AI Agent 구축’ 사업도 수주해 수행 중이다. 이에 따라 한국도로공사의 생성형 AI 서비스인 'RoADi'를 중심으로 업무 특화 AI 에이전트 구축, 생성형 AI 서비스 고도화, 운영·품질관리를 아우르는 3개 사업을 동시에 추진하게 됐다.'RoADi 고도화 사업'은 한국도로공사 내·외부 규정과 업무자료를 학습한 언어모델의 기능과 학습영역을 확장해 임직원 업무 효율을 높이는 것을 목표로 한다. 주요 과업은 기존 학습데이터 최신화, 내부방침·보도자료 등 신규 데이터 반영, 업무영역별 RAG 구성, 멀티모달 기반 파서 도입, 이미지 검색 및 STT 기능 고도화, 최신 LLM과 전문 AI 모델 적용 환경 구성 등이다.특히 감사, 국회, 재무, 안전, 건설기술, 기술마켓, 재난대응, ex피디아, 구조물 유지관리, 민원응대 등 다양한 업무 분야별 특화 기능을 확장해 RoADi를 단순 질의응답 시스템에서 업무 수행형 AI Agent 플랫폼으로 발전시키는 데 초점을 둔다.유지관리 사업은 RoADi 서비스",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "[지디넷코리아]AI·빅데이터 플랫폼 전문기업 티쓰리큐(대표 박병훈)가 한국도로공사의 생성형 AI 서비스 고도화와 안정적 운영을 위한 사업 수행에 본격 착수했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/21/08c895444d58cd1a251486c72c76a2d2.png",
+    "score": 3.66,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai agent",
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "180cm 로봇과 사람이 실제 격투…손까지 부러졌다",
+    "url": "https://www.etnews.com/20260921000368",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-09-21T13:30:00+00:00",
+    "raw_excerpt": "인간과 휴머노이드 로봇이 실제 링 위에서 맞붙는 이색 격투 영상이 공개됐습니다. 미국 휴머노이드 로봇 격투 리그 REK는 최근 콘텐츠 크리에이터 '프랭키 라페나'가 약 180cm 크기의 휴머노이드 로봇과 격투를 벌이는 영상을 공개 했습니다. 영상에서 라페나는 보호장비와 복싱 글러브를 끼고 로봇과 마주 서 펀치를 주고받습니다. REK는 이를 최초의 '인간 대 터미네이터 로봇 격투'라고 소개했습니다. REK는 휴머노이드 로봇을 활용해 격투 대회를",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "인간과 휴머노이드 로봇이 실제 링 위에서 맞붙는 이색 격투 영상이 공개됐습니다. 미국 휴머노이드 로봇 격투 리그 REK는 최근 콘텐츠 크리에이터 '프랭키 라페나'",
+    "thumbnail": "https://img.etnews.com/news/article/2026/09/21/news-p.v1.20260921.0c3f836428f64f968aada8eace0149b0_P1.jpg",
+    "score": 3.624,
+    "engagement": 0,
+    "matched_keywords": [
+      "휴머노이드",
+      "휴머노이드 로봇"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "“영상 339개 삭제”…'수익 창출' 비상 걸린 먹방 유튜버, 쯔양·히밥도?",
+    "url": "https://www.etnews.com/20260921000441",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-09-21T12:30:06+00:00",
+    "raw_excerpt": "한국을 대표하는 글로벌 콘텐츠 중 하나인 '먹방(Mukbang)' 산업이 세계 최대 동영상 플랫폼 유튜브의 전격적인 규제 강화로 전례 없는 위기에 직면했다. 유튜브가 섭식장애 및 폭식 유발 위험에 관한 가이드라인을 엄격히 개편하면서, 주요 먹방 크리에이터들의 수익 창출 경로가 막히고 콘텐츠 제작 환경이 빠르게 냉각되고 있다. 이번 정책 변화의 핵심은 콘텐츠 평가 기준의 근본적인 이동에 있다. 개편된 기준은 크리에이터의 단순 제작 의도보다는 청소",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "한국을 대표하는 글로벌 콘텐츠 중 하나인 '먹방(Mukbang)' 산업이 세계 최대 동영상 플랫폼 유튜브의 전격적인 규제 강화로 전례 없는 위기에 직면했다. 유튜",
+    "thumbnail": "https://img.etnews.com/news/article/2026/09/21/news-p.v1.20260921.be0e8f6077f146f5966269a1cf756381_P1.jpg",
+    "score": 3.583,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제",
+      "가이드라인"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "콘웨이의 법칙과 프로그래밍 언어",
+    "url": "https://news.hada.io/topic?id=34063",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-21T11:08:31+00:00",
+    "raw_excerpt": "콘웨이의 법칙을 AI 에이전트에 적용하면 그대로 들어맞지 않음. 에이전트는 통신 속도는 빠르지만 세션마다 리셋되는 고정된 컨텍스트 윈도우 때문에 인간처럼 프로젝트별 공유 지식을 축적하지 못함 인간-에이전트 상호작용의 병목은 인간이 에이전트의 출력을 읽고 판단하...",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "콘웨이의 법칙을 AI 에이전트에 적용하면 그대로 들어맞지 않음. 에이전트는 통신 속도는 빠르지만 세션마다 리셋되는 고정된 컨텍스트 윈도우 때문에 인간처럼 프로젝트",
+    "thumbnail": "https://social.news.hada.io/topic/34063?v=008b8e4fed19149c7fcda1ed449e6987",
+    "score": 3.526,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "NASA/ESA의 화성 시료 귀환 임무가 취소됨",
+    "url": "https://news.hada.io/topic?id=34086",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-21T21:38:10+00:00",
+    "raw_excerpt": "미국 의회의 예산 절충안이 Mars Sample Return(MSR) 종료를 지지하면서 화성 암석을 지구로 가져오는 계획이 사실상 끝남. 다만 법안은 아직 상하원 통과와 대통령 서명이 필요함 비용 급증 이 사업을 압박해 왔으며, NASA가 예상 비용을 110억 달러에서 70억 달러...",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "미국 의회의 예산 절충안이 Mars Sample Return(MSR) 종료를 지지하면서 화성 암석을 지구로 가져오는 계획이 사실상 끝남. 다만 법안은 아직 상하원",
+    "thumbnail": "https://social.news.hada.io/topic/34086?v=700025da131058217db761fa3a0d4c49",
+    "score": 3.463,
+    "engagement": 0,
+    "matched_keywords": [
+      "법안"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "크라우드웍스, 모비루스 농업 자율주행 데이터 수주...비정형 농지 학습",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21590",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-09-21T13:34:57+00:00",
+    "raw_excerpt": "크라우드웍스는 모비루스의 ‘농업 자율주행 데이터 어노테이션’ 사업을 수주했다고 21일 밝혔다. 이번 협력은 농경지의 물리적 특성을 반영한 데이터 가이드라인을 마련하고, 이를 기반으로 농기계 자율주행에 활용할 AI 학습 데이터를 구축하는 것이 핵심이다.크라우드웍스는 먼저 시맨틱 세그멘테이션 기술을 활용해 경작지와 수풀, 농로, 흙길 등을 픽셀 단위로 구분한다. 자율주행 시스템이 단순히 ‘도로와 비도로’를 판단하는 수준을 넘어 실제 주행 가능한 영역과 주변 환경을 세밀하게 인식할 수 있도록 데이터를 구성하는 방식이다.장애물에 대한 데이",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "크라우드웍스는 모비루스의 ‘농업 자율주행 데이터 어노테이션’ 사업을 수주했다고 21일 밝혔다. 이번 협력은 농경지의 물리적 특성을 반영한 데이터 가이드라인을 마련",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202609/21590_22334_2957.jpg",
+    "score": 3.441,
+    "engagement": 0,
+    "matched_keywords": [
+      "가이드라인"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Show GN: Umtri.io - 프로젝트를 시각화하는 형상 관리 도구",
+    "url": "https://news.hada.io/topic?id=34055",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-21T05:57:21+00:00",
+    "raw_excerpt": "문제의식 프로젝트 개발, 특히 바이브 코딩 시 자신의 프로젝트가 어떻게 자라나는지 알기 어려움 코드 베이스 내부에서 연결이나 종속성 문제가 있는 경우 단발적인 세션이 놓쳐 문제가 커지는 경우가 생김 프롬프트를 통한 개발 명령의 프레임이 좁아서 장기적인 계획에서 잘못된...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "문제의식 프로젝트 개발, 특히 바이브 코딩 시 자신의 프로젝트가 어떻게 자라나는지 알기 어려움 코드 베이스 내부에서 연결이나 종속성 문제가 있는 경우 단발적인 세",
+    "thumbnail": "https://social.news.hada.io/topic/34055?v=a9736edba5158dd9f9cdb956804b7ddc",
+    "score": 3.31,
+    "engagement": 0,
+    "matched_keywords": [
+      "프롬프트",
+      "바이브 코딩"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "'금융권 SW 공급망 보안 플랫폼' 시선...178곳 참여",
+    "url": "https://zdnet.co.kr/view/?no=20260921225144",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-21T13:51:44+00:00",
+    "raw_excerpt": "[지디넷코리아]금융보안원(원장 박상원, 이하 금보원)이 올 2월 6일 운영을 시작한 '금융권 SW공급망보안 플랫폼'에 21일 현재 178개 금융회사가 참여하고 있는 것으로 나타났다. 이 플랫폼은 SW 공급망 보안 위협에 대한 금융권의 체계적인 공동 대응을 지원한다. 금융회사와 화이트해커, SW 개발사가 참여해 구축했다. 특히 '금융권 SW공급망보안 플랫폼'은 취약점 발굴(화이트해커)-검증(금융보안원)-패치개발(개발사)-조치(금융회사)의 전 과정을 하나로 연계했다.21일 금보원에 따르면, 플랫폼 운영 이후 참여 금융회사를 대상으로 총 1316건의 취약점 조치요청을 발송했다. 금융권 SW 공급망 취약점을 사전에 제거하는 실질적 대응체계로 자리 잡았다는게 금보원 판단이다.최근 AI 활용 확산으로 취약점 발굴의 양과 속도가 빠르게 증가, 발견된 취약점을 체계적으로 관리하고 조치까지 신속히 연계하는 체계의 중요성이 더욱 커졌다. 사이버 공격 역시 금융회사에 대한 직접 공격뿐 아니라 금융회사가 공통으로 사용하는 상용 SW·오픈소스 등 SW공급망의 취약한 지점을 노리는 형태로 확대하는 추세다.특히 하나의 SW취약점이 동일 SW를 사용하는 다수 금융회사에 영향을 미칠 수 있는데, 근본적인 조치는 개발사 패치에 좌우, 개별 금융회사의 자체 대응만으로는 한계가 있는 실정이다. 금보원은 \"현재 화이트해커 601명과 31개 개발사가 함께 참여해 취약점 발",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "[지디넷코리아]금융보안원(원장 박상원, 이하 금보원)이 올 2월 6일 운영을 시작한 '금융권 SW공급망보안 플랫폼'에 21일 현재 178개 금융회사가 참여하고 있",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/21/ecdaf2dfa46bdeec2ad14aa685e8160c.png",
+    "score": 3.275,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "취약점"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  }
+]
