@@ -1,0 +1,820 @@
+[
+  {
+    "title": "트럼프 \"AI 명칭 '초지능'으로 변경\"…글로벌 규약도 거부",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215609",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-23T11:56:45+00:00",
+    "raw_excerpt": "도널드 트럼프 미국 대통령이 AI라는 명칭을 공식 문서에서 '초지능(Super Intelligence)'으로 변경하겠다고 선언했다. 이와 함께 AI 위험 관리를 위한 국제 협력 체계 구축 시도를 거부하는 한편, 필요시 미국 법무부를 통한 자체 기업 규제 가능성을 내비쳤다.트럼프 대통령은 22일(현지시간) 뉴욕에서 열린 제81차 유엔총회 연설에서 \"인공(Artificial)이라는 단어는 기술이 진짜가 아닌 가짜처럼 느끼게 만든다\"며 \"앞으로 미국 정부의 모든 문서에서 인공지능을 훨씬 정확한 표현인 '초지능(SI)'으로 바꿔 부르겠다\"",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "도널드 트럼프 미국 대통령이 AI라는 명칭을 공식 문서에서 '초지능(Super Intelligence)'으로 변경하겠다고 선언했다. 이와 함께 AI 위험 관리를",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215609_219508_526.jpg",
+    "score": 8.525,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "알리바바, 10조 매개변수 초대형 모델 내놓는다...중국 최강 칩도 선보여",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215594",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-23T11:12:50+00:00",
+    "raw_excerpt": "알리바바가 최대 10조개 매개변수에 달하는 초대형 AI 모델 개발을 추진하고 차세대 AI 가속기까지 공개하는 등 AI 모델부터 반도체, 클라우드 인프라까지 아우르는 ‘풀스택 AI’ 전략을 본격화했다.알리바바는 22일(현지시간) 중국 항저우에서 열린 연례 기술 행사 ‘아스파라 컨퍼런스’에서 차세대 AI 모델 ‘큐원(Qwen) 4’가 현재 학습 단계에 들어갔다고 밝혔다.이어 ‘큐원 4.5’와 ‘큐원 5’로 이어지는 로드맵을 공개하며 앞으로 모델의 매개변수 규모를 5조~10조개까지 확대할 계획이라고 설명했다. 이는 지난 7월 공개한 2조",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "알리바바가 최대 10조개 매개변수에 달하는 초대형 AI 모델 개발을 추진하고 차세대 AI 가속기까지 공개하는 등 AI 모델부터 반도체, 클라우드 인프라까지 아우르",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215594_219498_1519.png",
+    "score": 8.466,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "차세대"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "[AI리더의 서가] LLM 마스터: 모델 × 시스템 엔지니어링",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215467",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-23T09:00:00+00:00",
+    "raw_excerpt": "LLM 마스터: 모델 × 시스템 엔지니어링에디 유·양기빈·장지선·조수현 | 프리렉2026년 9월 28일추천이유독자는 API 활용을 넘어 트랜스포머의 원리부터 파인튜닝, 서빙 최적화, 고급 RAG와 에이전트까지 LLM 개발의 전체 흐름을 익혀 실제 서비스를 구현하는 역량을 갖추게 됩니다.상세보기올 하반기 들어 서점에서 감지되는 흐름이 하나 있다. LLM을 '가져다 쓰는' 법을 찾던 개발자들이, 이제 '직접 손보고 서빙까지 책임지는' 쪽으로 질문을 옮긴다는 것이다. 기업들이 자체 모델과 사내 AI 서비스를 꾸리기 시작하면서 생긴 변화다",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "LLM 마스터: 모델 × 시스템 엔지니어링에디 유·양기빈·장지선·조수현 | 프리렉2026년 9월 28일추천이유독자는 API 활용을 넘어 트랜스포머의 원리부터 파인",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215467_219307_3047.jpg",
+    "score": 8.286,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "llm"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "오픈AI, 'GPT-6 솔·루나' 공개…\"필요한 성능만 올리고 가격은 반값\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215584",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-23T06:09:40+00:00",
+    "raw_excerpt": "오픈AI가 단순한 최고 성능 경쟁에서 벗어나 실무에 필요한 핵심 기능의 효율성을 극대화한 'GPT-6 솔(Sol)'과 'GPT-6 루나(Luna)'를 공개하며 API 이용료를 기존 대비 절반 이하로 내렸다.22일(현지시간) 출시된 GPT-6 솔과 루나는 최첨단 모델의 대중화를 목표로 비용 효율성을 극대화한 것이 핵심이다.오픈AI는 기존 'GPT-5.6' 프로모션 가격 대비 API 비용을 50% 인하했다. 이에 따라 GPT-6 솔의 API 가격은 100만 토큰당 입력 2달러·출력 10달러, GPT-6 루나는 입력 0.10달러·출력 0",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "오픈AI가 단순한 최고 성능 경쟁에서 벗어나 실무에 필요한 핵심 기능의 효율성을 극대화한 'GPT-6 솔(Sol)'과 'GPT-6 루나(Luna)'를 공개하며 A",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215584_219480_5722.jpeg",
+    "score": 8.055,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "구글, 전 세계 80개국에 AI 무료 교육 10만 개 푼다…유엔과 글로벌 인재 양성",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42053",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-23T11:01:58+00:00",
+    "raw_excerpt": "구글이 국제전기통신연합(ITU)과 협력해 전 세계 80여 개국에 AI 교육 혜택 10만 개를 지원한다. 학생과 교사, 구직자, 공무원 등이 실무 중심의 인공지능(AI) 교육을 받고 인증서를 취득할 수 있도록 지원해 글로벌 AI 인재를 양성하고 디지털 역량 격차를 줄인다는 목표다.구글은 9월 22일(현지시간) 유엔(UN) 산하 국제전기통신연합과 함께 80여 개국을 대상으로 AI 교육 장학금 10만 개를 제공한다고 발표했다.이번 사업은 국제전기통신연합의 'AI 포 굿(AI for Good)' 프로그램 아래 운영되는 'AI 스킬 연합(A",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "구글이 국제전기통신연합(ITU)과 협력해 전 세계 80여 개국에 AI 교육 혜택 10만 개를 지원한다. 학생과 교사, 구직자, 공무원 등이 실무 중심의 인공지능(",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/42053_63248_143_v150.jpg",
+    "score": 7.801,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "구테흐스 UN 사무총장, “AI에 생사 결정 맡겨선 안 돼”…킬러 로봇 금지 촉구",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42052",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-23T10:38:55+00:00",
+    "raw_excerpt": "안토니우 구테흐스(António Guterres) 유엔(UN) 사무총장이 인공지능(AI)과 자율무기 확산에 따른 위험을 경고하며, AI의 생사 결정 관여를 차단하고 독립적 감독을 갖춘 국제 AI 위험관리 체계를 마련해야 한다고 촉구했다.구테흐스 사무총장은 22일(현지시간) 유엔총회에서 연례 유엔 활동 보고서를 발표하며 전쟁과 평화, 불평등, 기후변화, AI를 인류가 직면한 ‘권력의 4대 시험대’로 제시했다. 이들 위기에 어떻게 대응하느냐에 따라 국제사회가 협력의 새 시대로 나아갈지, 더 깊은 분열에 빠질지가 결정된다는 설명이다.그는",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "안토니우 구테흐스(António Guterres) 유엔(UN) 사무총장이 인공지능(AI)과 자율무기 확산에 따른 위험을 경고하며, AI의 생사 결정 관여를 차단하",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/42052_63247_3728_v150.jpg",
+    "score": 7.772,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "LG전자-SK엔무브, AI 데이터센터 위한 차세대 열관리 핵심 소재 공동 개발",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42050",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-23T10:06:25+00:00",
+    "raw_excerpt": "LG전자(대표이사 류재철)가 글로벌 냉매 규제 강화와 고효율 냉각 수요 확대에 대응해 SK엔무브와 인공지능 데이터센터(AIDC)를 비롯한 다양한 산업을 위한 차세대 열관리 기술 협력에 나선다.LG전자는 지난 21일 서울 종로구 SK서린빌딩에서 SK엔무브와 함께 ‘가전·상업·산업용 신규 냉매, 냉동기유 및 액침냉각 기술 공동 선행 개발’을 위한 업무협약(MOU)을 체결했다. 협약식에는 LG전자 ES사업본부장 이재성 사장과 SK엔무브 김원기 사장 등 주요 관계자가 참석했다.최근 AIDC를 비롯해 다양한 산업에서 고효율 열관리 기술의 중",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "LG전자(대표이사 류재철)가 글로벌 냉매 규제 강화와 고효율 냉각 수요 확대에 대응해 SK엔무브와 인공지능 데이터센터(AIDC)를 비롯한 다양한 산업을 위한 차세",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/42050_63244_521_v150.jpg",
+    "score": 6.831,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "코오롱베니트, 뉴타닉스 쿠버네티스 플랫폼(NKP) 구축 파트너 생태계 본격 확장",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42048",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-23T09:52:07+00:00",
+    "raw_excerpt": "코오롱그룹 AX(AI Transformation) 전문기업 코오롱베니트(대표이사 강이구)가 뉴타닉스 쿠버네티스 플랫폼(Nutanix Kubernetes Platform, 이하 NKP) 사업을 본격 확대하고, 이를 뒷받침할 파트너사 기술 역량 체계를 구축하고 있다고 밝혔다.코오롱베니트는 지난 9월 15일 서울 강남에서 파트너사 엔지니어를 대상으로 ‘컨테이너 & 쿠버네티스 파운데이션’ 교육을 진행했다. 외부 전문 강사를 초빙해 컨테이너 기술의 개념과 쿠버네티스 운영 구조를 다뤘으며, NKP 도입을 검토하는 고객사에 파트너가 직접 기술을",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "코오롱그룹 AX(AI Transformation) 전문기업 코오롱베니트(대표이사 강이구)가 뉴타닉스 쿠버네티스 플랫폼(Nutanix Kubernetes Platf",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/42048_63242_5134_v150.jpg",
+    "score": 6.814,
+    "engagement": 0,
+    "matched_keywords": [
+      "ax"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "LG전자·LG엔솔, 엔비디아 AI 팩토리 인프라 ‘DSX 레디’ 합류",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215551",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-22T13:18:06+00:00",
+    "raw_excerpt": "LG전자(대표 류재철)는 AI 데이터센터에 탑재되는 대용량 냉각수 분배장치(CDU)가 엔비디아 규격 승인을 받았다고 22일 밝혔다.엔비디아는 AI 팩토리 설계 및 운영을 통합한 ‘엔비디아 DSX AI 팩토리 플랫폼’을 갖추고 있으며, 관련 요건을 충족하는 제품을 ‘DSX 레디’ 제품으로 승인하고 있다. LG전자는 앞서 600킬로와트(kW)급과 1메가와트(MW)급 CDU에 이어 이번 2.5MW급 CDU까지 엔비디아 ‘DSX 레디’ 인증을 획득했다. 2.5MW급 CDU는 여러 랙을 행 단위로 묶어 한 번에 냉각하는 ‘인로우’ 방식을 적",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "LG전자(대표 류재철)는 AI 데이터센터에 탑재되는 대용량 냉각수 분배장치(CDU)가 엔비디아 규격 승인을 받았다고 22일 밝혔다.엔비디아는 AI 팩토리 설계 및",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215551_219448_239.jpg",
+    "score": 6.685,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "엔비디아"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "[AI 고속도로] AI 데이터센터 투자 열기 식나…SB에너지, 500억 달러 IPO 속도조절",
+    "url": "https://zdnet.co.kr/view/?no=20260923084137",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-23T00:48:05+00:00",
+    "raw_excerpt": "[지디넷코리아]인공지능(AI) 인프라 투자 열풍을 타고 몸집을 키워온 미국 데이터센터 개발업체 SB에너지가 기업공개(IPO) 속도 조절에 나섰다. AI 모델 개발 속도가 늦어질 경우 폭발적으로 늘어날 것으로 예상했던 컴퓨팅 수요도 영향을 받을 수 있다는 우려가 투자시장으로 번지면서 데이터센터 기업의 대규모 자금조달에도 경계감이 커지는 모습이다.22일(현지시간) 파이낸셜타임즈에 따르면 SB에너지는 약 500억 달러(약 67조원)의 기업가치를 목표로 IPO를 추진하고 있지만 최근 상장 절차의 속도를 늦췄다. 컴퓨팅 수요와 데이터센터 시장을 둘러싼 투자자들의 불안이 커지자 시장 심리가 안정될 때까지 기다리기로 한 것으로 전해졌다.SB에너지는 손정의 회장이 이끄는 소프트뱅크그룹을 비롯해 오픈AI와 엔비디아의 투자를 받은 데이터센터 개발업체다. 아직 실제 가동에 들어간 데이터센터가 한 곳도 없는 상황이지만 높은 기업가치를 목표로 하고 있다. 회사는 IPO 계획 자체를 철회한 것은 아니며 시장 상황을 살피면서 상장 절차를 이어갈 방침이다.최근 AI 데이터센터 관련 기업들의 자금조달에는 잇따라 제동이 걸리고 있다. AI 데이터센터에 전력을 공급할 계획인 미국 원자력에너지 기업 홀텍인터내셔널도 시장 상황을 이유로 IPO를 최소 3개월 연기했다.시장에선 주요 AI 기업의 모델 개발 속도 조절 움직임이 향후 컴퓨팅 수요에 어떤 영향을 미칠지 주목하고 ",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "[지디넷코리아]인공지능(AI) 인프라 투자 열풍을 타고 몸집을 키워온 미국 데이터센터 개발업체 SB에너지가 기업공개(IPO) 속도 조절에 나섰다. AI 모델 개발",
+    "thumbnail": "https://image.zdnet.co.kr/2022/02/08/4d5c501116ed85e78e0ac5dcd786a886.jpg",
+    "score": 6.625,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "오픈ai",
+      "엔비디아"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "EU 데이터센터 절반, 에너지·물 효율 권고 기준 초과…최소 성능 기준 추진",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42047",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-22T18:33:17+00:00",
+    "raw_excerpt": "유럽연합(EU) 데이터센터의 약 절반이 에너지 또는 용수 효율 관련 권고 기준선을 초과한 것으로 나타났다. 인공지능(AI) 확산과 디지털 서비스 성장으로 데이터센터의 전력 수요가 증가하는 가운데, 유럽연합 집행위원회(European Commission)가 데이터센터 지속가능성 공통 등급제를 채택하고 최소 성능 기준 마련을 추진하고 있다.집행위는 21일(현지시간) 유럽의회와 유럽연합 이사회에 제출한 공식 보고서 ‘EU 데이터센터의 에너지 효율성에 관한 보고서(Report on the energy efficiency of data ce",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "유럽연합(EU) 데이터센터의 약 절반이 에너지 또는 용수 효율 관련 권고 기준선을 초과한 것으로 나타났다. 인공지능(AI) 확산과 디지털 서비스 성장으로 데이터센",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/42047_63241_3249_v150.jpg",
+    "score": 6.565,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "수학과 인공지능 자문그룹",
+    "url": "https://news.hada.io/topic?id=34144",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-22T23:33:03+00:00",
+    "raw_excerpt": "AI 기업과 수학계의 소통, 수학 연구 결과의 책임 있는 발표와 공개 를 자문하는 독립 그룹이 프린스턴의 Institute for Advanced Study를 거점으로 출범함 현재는 OpenAI 가 내부 모델로 산출했다고 밝힌 다수의 중요한 수학 연구 결과를 어떻게 조율해 공개할지 자...",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AI 기업과 수학계의 소통, 수학 연구 결과의 책임 있는 발표와 공개 를 자문하는 독립 그룹이 프린스턴의 Institute for Advanced Study를 거",
+    "thumbnail": "https://social.news.hada.io/topic/34144?v=6c60d37e006bd896e091d3823d3001fa",
+    "score": 6.533,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "openai"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "앤트로픽, ‘클로드 오퍼스 5.5’ 출시...토큰값 내리고 코딩 효율 올려",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21606",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-09-23T11:29:56+00:00",
+    "raw_excerpt": "앤트로픽이 22일(현지시간) 새 AI 모델 ‘클로드 오퍼스 5.5’를 공개했다. 클로드 5.5 제품군의 첫 모델이다. 대부분의 업무에서 한 단계 위 등급인 ‘클로드 페이블 5.1’에 버금가는 성능을 내면서, 일반적인 업무량 기준 운영 비용은 직전 모델 오퍼스 5보다 40% 적게 든다는 것이 회사 측 설명이다. 지난 7월 24일 오퍼스 5를 내놓은 지 두 달 만이다. 성능보다 비용에 무게를 둔 데는 시장 사정이 있다. 미국 기업 지출관리 플랫폼 램프의 9월 AI 인덱스에 따르면, 기업들이 실제로 지불한 토큰 100만 개당 실효 가격은",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "앤트로픽이 22일(현지시간) 새 AI 모델 ‘클로드 오퍼스 5.5’를 공개했다. 클로드 5.5 제품군의 첫 모델이다. 대부분의 업무에서 한 단계 위 등급인 ‘클로",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202609/21606_22351_1356.jpg",
+    "score": 6.358,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "DigitalOcean Managed Agents are here!  ",
+    "url": "https://help.x.com/rules-and-policies/paid-partnerships-policy",
+    "source": "X @omarsar0",
+    "source_type": "x",
+    "published_at": "2026-09-22T16:10:08+00:00",
+    "raw_excerpt": "DigitalOcean Managed Agents are here!  \n\nThey work with major harnesses like Claude Code and Codex.   \n\n16,000+ tools. Idle agents stop using CPU.  \n\nOptimized to help builders scale agents in production.  Worth checking out.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "DigitalOcean Managed Agents are here!  \n\nThey work with major harnesses like Claude Code a",
+    "thumbnail": "",
+    "score": 6.048,
+    "engagement": 5500,
+    "matched_keywords": [
+      "claude",
+      "codex",
+      "claude code"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "토스인슈어런스 등 GA 11곳 금보원 회원사 가입",
+    "url": "https://zdnet.co.kr/view/?no=20260923100620",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-23T01:06:20+00:00",
+    "raw_excerpt": "[지디넷코리아]금융보안원(원장 박상원)은 법인보험대리점(GA, General Agency) 11개사가 신규 사원(멤버)으로 가입, 사원사가 222개사에서 총 233개사로 확대됐다고 23일 밝혔다. 신규 멤버는 삼성화재금융서비스, 아너스금융서비스, 엠금융서비스, 영진에셋, 지에이스타금융서비스, 토스인슈어런스, 사랑모아금융서비스, 스카이블루에셋, 아이에프씨그룹, 아이에프에이, 에이비에이금융서비스 등이다.지난해 초대형 GA 14개사가 사원으로 가입한 데 이어 올해 11개사가 추가로 가입함에 따라 GA 사원사는 총 25개사로 늘었다. 사원으로 가입한 GA는 통합보안관제, 침해사고 예방·대응, 침해사고 대응훈련, 취약점 점검, 침투 테스트, 금융보안 전문교육 등 금융회사와 동일한 수준의 보안 업무를 제공받는다.GA는 대규모 개인신용정보를 수집 및 처리하는 보험 판매의 핵심 채널이다. 지난해 외부 협력업체를 경유한 해킹 사고로 고객 정보가 유출되는 등 위험이 가시화되면서 보안 강화 필요성이 높아졌다. 이에 금융보안원은 지난해 사원으로 가입한 GA 14개사를 대상으로 정보보호 컨설팅, 맞춤형 보안 프레임워크 제공, 기술 진단, 교육 지원 등 GA 고유의 업무 특성을 반영한 특화 서비스를 제공했다.특히, 현장점검 지원 중심의 맞춤형 정보보호 컨설팅은 개별 GA사의 전반적인 보안 수준을 점검하고 개선 사항을 도출 및 분석 함으로써 GA 정보보호 체계",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "[지디넷코리아]금융보안원(원장 박상원)은 법인보험대리점(GA, General Agency) 11개사가 신규 사원(멤버)으로 가입, 사원사가 222개사에서 총 23",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/23/d8038f7c683d3dd625843384b3e181c4.jpg",
+    "score": 5.967,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "취약점",
+      "해킹"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "인섹시큐리티 “N2SF의 크로스도메인 보안, 옵스왓 단일 플랫폼으로 구현”",
+    "url": "https://byline.network/2026/09/22-611/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-09-23T01:13:53+00:00",
+    "raw_excerpt": "옵스왓(OPSWAT) 국내 총판 인섹시큐리티(대표 김종광)가 국가망보안체계(N2SF)에서 보안 등급이 다른 영역 사이의 파일 이동을 안전하게 통제하는 방안을 제시했다. 옵스왓의 ‘메타디펜더(MetaDefender)’를 중심으로 일방향 전송, 악성코드 검사, 파일 검증, ‘콘텐트 무해화(CDR)’기술을 묶어 등급 간 데이터 이동을 통제하는 전략이다.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "옵스왓(OPSWAT) 국내 총판 인섹시큐리티(대표 김종광)가 국가망보안체계(N2SF)에서 보안 등급이 다른 영역 사이의 파일 이동을 안전하게 통제하는 방안을 제시",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/09/INSEC1-1.jpg",
+    "score": 5.652,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "경콘진, 콘텐츠 기업 9곳에 민간 투자 95억원 유치",
+    "url": "https://zdnet.co.kr/view/?no=20260923094834",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-23T00:48:34+00:00",
+    "raw_excerpt": "[지디넷코리아]경기콘텐츠진흥원(이하 경콘진)은 민간 투자사와 협력해 올해 상반기 경기도 콘텐츠 기업 9개사에 총 95억원의 투자를 유치했다고 23일 밝혔다. 일본 투자사 3곳과 신규 협약도 체결하며 해외 투자 네트워크를 확대한다.경콘진은 콘텐츠 전문 투자사 연합체인 ‘경기 레벨업 인베스트 파트너스(G-VIP)’를 통해 도내 유망 콘텐츠 기업의 발굴부터 육성, 투자 유치까지 지원하는 민관협력 체계를 운영하고 있다.G-VIP는 콘텐츠 분야 전문 투자사들이 참여하는 협력 네트워크다. 경콘진은 파트너사를 투자유치 행사에 초청하고, 지원 기업에는 투자 컨설팅과 해외 진출 자문, 중견·대기업 연계 기술 실증(PoC) 등을 제공하고 있다.올해 상반기에는 G-VIP 파트너사가 추천한 도내 콘텐츠 기업 9개사에 총 95억원의 민간 투자가 이뤄졌다.경콘진은 해당 기업에 각각 1000만원의 사업화 자금을 매칭 지원하는 협약도 체결했다. 민간 투자사가 유망 기업을 발굴하고 복수의 투자사가 공동 투자하는 클럽딜 방식의 협력도 활성화할 계획이다.해외 투자 유치를 위한 공동사업도 추진하고 있다. 경콘진은 지난 16일부터 18일까지 일본 도쿄에서 G-VIP 파트너사와 함께 '2026 경기 레벨업 글로벌 로드쇼'를 개최했다.이번 행사에는 일본 시장 진출을 희망하는 도내 콘텐츠 기업 14개사가 참가했다. 이들은 현지 투자자를 대상으로 사업을 소개하는 데모데이와 투자",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "[지디넷코리아]경기콘텐츠진흥원(이하 경콘진)은 민간 투자사와 협력해 올해 상반기 경기도 콘텐츠 기업 9개사에 총 95억원의 투자를 유치했다고 23일 밝혔다. 일본",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/23/d2d5df743f17beecbdbba5b56475bd27.jpg",
+    "score": 5.276,
+    "engagement": 0,
+    "matched_keywords": [
+      "투자 유치",
+      "투자유치"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "WordPress: 인증 없이 악용 가능한 경로 순회 취약점, 조건 충족 시 원격 코드 실행으로 이어짐",
+    "url": "https://news.hada.io/topic?id=34160",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-23T02:42:55+00:00",
+    "raw_excerpt": "WordPress의 get_page_template() 에서 인증 없는 공격자가 활성 테마 디렉터리 밖의 읽기 가능한 로컬 .php 파일을 포함시킬 수 있는 취약점이 발견됨 원격 코드 실행(RCE) 으로 이어지려면 활성 테마의 디렉터리 구조와 서버의 파일 및...",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "WordPress의 get_page_template() 에서 인증 없는 공격자가 활성 테마 디렉터리 밖의 읽기 가능한 로컬 .php 파일을 포함시킬 수 있는 취약",
+    "thumbnail": "https://social.news.hada.io/topic/34160?v=c31d98c930f3d7e39c2b98cdecb55f85",
+    "score": 5.231,
+    "engagement": 0,
+    "matched_keywords": [
+      "취약점"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "9월 소비심리 한 달 만에 반등…소득 기대↑·금리 전망 3년來 최고",
+    "url": "https://www.etnews.com/20260923000012",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-09-23T02:00:00+00:00",
+    "raw_excerpt": "9월 소비자심리가 한 달 만에 반등했다. 반도체 수출 호조와 소비 개선 등 양호한 실물경제 흐름이 이어지면서 가계의 소득여건 개선 기대가 커진 영향이다. 다만 향후 금리 상승 전망은 약 3년 만에 가장 높은 수준으로 치솟고 주택가격 상승 기대도 높은 수준을 유지해 가계 심리에는 긴축 부담이 여전히 남아 있는 것으로 나타났다. 한국은행이 23일 발표한 '2026년 9월 소비자동향조사'에 따르면 이달 소비자심리지수(CCSI)는 106.6으로 전월보",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "9월 소비자심리가 한 달 만에 반등했다. 반도체 수출 호조와 소비 개선 등 양호한 실물경제 흐름이 이어지면서 가계의 소득여건 개선 기대가 커진 영향이다. 다만 향",
+    "thumbnail": "https://img.etnews.com/news/article/2026/07/16/news-p.v1.20260716.bd3ab54223c345159976115b087d590a_P1.jpg",
+    "score": 5.186,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Prompt in Claude Tag",
+    "url": "https://x.com/alexalbert__/status/2102466524934271381",
+    "source": "X @alexalbert__",
+    "source_type": "x",
+    "published_at": "2026-09-22T18:34:16+00:00",
+    "raw_excerpt": "Prompt in Claude Tag\n\n\"Recreate Market Street, San Francisco as it stood on April 17, 1906, the afternoon before the earthquake, in Blender.\n\nScope: the Ferry Building up Market to Fifth Street, including the Palace Hotel, the Call Building, the Chronicle Building, Lotta's",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Prompt in Claude Tag\n\n\"Recreate Market Street, San Francisco as it stood on April 17, 1906",
+    "thumbnail": "https://pbs.twimg.com/profile_images/1856486626072915968/JEQpB9CW_400x400.jpg",
+    "score": 5.148,
+    "engagement": 4332,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "I just realized Opus 5.5 can use Blender to make claymations with just a single prompt in claude dot ai now",
+    "url": "https://x.com/alexalbert__/status/2102458348511879448",
+    "source": "X @alexalbert__",
+    "source_type": "x",
+    "published_at": "2026-09-22T18:01:46+00:00",
+    "raw_excerpt": "I just realized Opus 5.5 can use Blender to make claymations with just a single prompt in claude dot ai now",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "I just realized Opus 5.5 can use Blender to make claymations with just a single prompt in",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2102457816820916224/img/UNnuG_dYWVbvKNZu?format=webp&name=large",
+    "score": 5.125,
+    "engagement": 71884,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "‘KAI 사업 참여’ 펀진, 국산 AI 반도체로 무인기 자율임무 고도화",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21601",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-09-22T17:15:13+00:00",
+    "raw_excerpt": "펀진이 한국항공우주산업(KAI)이 주관하는 국책 연구개발 사업에 참여해 국산 AI 반도체를 탑재한 소모성 공중 무인기의 자율임무 AI 기술 개발에 나선다.펀진은 산업통상부가 추진하는 ‘K-온디바이스 AI 반도체 기술개발사업’의 방산 분야 3세부 과제인 ‘고성능 AI반도체 적용 소모성 공중 무인기 자율 제어 시스템 개발’에 참여한다고 22일 밝혔다. 해당 과제는 KAI가 주관하며 연구기간은 2026년 7월부터 2030년 12월까지다. 국가 R D 자료상 총 연구비는 31억4000만 원으로 책정됐다. 이번 사업은 국산 AI 반도체를 실",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "펀진이 한국항공우주산업(KAI)이 주관하는 국책 연구개발 사업에 참여해 국산 AI 반도체를 탑재한 소모성 공중 무인기의 자율임무 AI 기술 개발에 나선다.펀진은",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202609/21601_22346_1137.jpg",
+    "score": 5.103,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Drop - gVisor를 지원하는 루트 권한 없는 Linux 샌드박스",
+    "url": "https://news.hada.io/topic?id=34151",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-23T00:37:52+00:00",
+    "raw_excerpt": "Drop 은 익숙한 작업 환경을 유지하면서 프로그램과 코딩 에이전트를 격리하는 Linux 샌드박스로, 기존 배포판과 설치된 프로그램을 그대로 사용함 환경마다 별도의 홈 디렉터리 를 제공하고 원래 홈은 숨김 처리해, 에이전트의 잘못된 삭제 명령이나 비밀 정보 접근...",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Drop 은 익숙한 작업 환경을 유지하면서 프로그램과 코딩 에이전트를 격리하는 Linux 샌드박스로, 기존 배포판과 설치된 프로그램을 그대로 사용함 환경마다 별도",
+    "thumbnail": "https://social.news.hada.io/topic/34151?v=51f5eb3ee1c0caebb233957a5b632fbf",
+    "score": 5.101,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "인자를 둘러싼 논쟁",
+    "url": "https://news.hada.io/topic?id=34147",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-23T00:07:46+00:00",
+    "raw_excerpt": "코딩 에이전트 가 코드를 작성하면서, Steve Klabnik의 Rust 이름 있는 매개변수 도입에 대한 오랜 반대가 조건부 수용으로 바뀜. 직접 입력하는 부담은 줄고 호출부의 명확성은 여전히 가치가 있음 이름 있는 인자 는 같은 타입의 값 여러 개를 전달할 때 각 값의 역...",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "코딩 에이전트 가 코드를 작성하면서, Steve Klabnik의 Rust 이름 있는 매개변수 도입에 대한 오랜 반대가 조건부 수용으로 바뀜. 직접 입력하는 부담은",
+    "thumbnail": "https://social.news.hada.io/topic/34147?v=fc7beafd408751612aca7fd0330493e2",
+    "score": 5.069,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Claude Opus 5.5 is available today.",
+    "url": "https://x.com/AnthropicAI/status/2102435703535939725",
+    "source": "X @AnthropicAI",
+    "source_type": "x",
+    "published_at": "2026-09-22T16:31:47+00:00",
+    "raw_excerpt": "Claude Opus 5.5 is available today.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Claude Opus 5.5 is available today.",
+    "thumbnail": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_400x400.jpg",
+    "score": 5.063,
+    "engagement": 703648,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "“우리가 FBI를 해킹했다”, 해커 그룹이 FBI 전체 직원의 정보 탈취 주장",
+    "url": "https://news.hada.io/topic?id=34143",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-22T22:33:11+00:00",
+    "raw_excerpt": "해킹 그룹 ShinyHunters 가 여러 FBI 관련 서비스에 침입해 모든 직원과 지원자의 데이터를 훔쳤다고 주장함. 요원의 이름, 집 주소, 전화번호, 배우자 정보가 포함됐다고 밝힘 404 Media가 확보한 직원 5,000명 규모의 샘플 에서 일부 이름과 전화번호가 일치하고 미...",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "해킹 그룹 ShinyHunters 가 여러 FBI 관련 서비스에 침입해 모든 직원과 지원자의 데이터를 훔쳤다고 주장함. 요원의 이름, 집 주소, 전화번호, 배우자",
+    "thumbnail": "https://social.news.hada.io/topic/34143?v=8a8bf8ebe8c88d13731d14b4850ecdab",
+    "score": 4.971,
+    "engagement": 0,
+    "matched_keywords": [
+      "해킹"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Meta의 Muse에 파일시스템을 요청했더니 6.8GB를 보내왔다",
+    "url": "https://news.hada.io/topic?id=34136",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-22T17:49:07+00:00",
+    "raw_excerpt": "Muse 에게 접근 가능한 파일을 압축해 Google Drive로 보내 달라고 요청하자, 세션에 할당된 Linux 실행 환경의 파일 이 전송됨. 압축 해제 후 6.8GB로 내부 문서, 통합 코드, 앱 템플릿과 에이전트 기록이 포함됨 약 68개 스킬과 20개 Markdown 안내 문서...",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Muse 에게 접근 가능한 파일을 압축해 Google Drive로 보내 달라고 요청하자, 세션에 할당된 Linux 실행 환경의 파일 이 전송됨. 압축 해제 후 6",
+    "thumbnail": "https://social.news.hada.io/topic/34136?v=d12d764079b5c1d892c8df59e59b9b76",
+    "score": 4.675,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Claude Opus 5.5 출시",
+    "url": "https://news.hada.io/topic?id=34135",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-22T17:43:06+00:00",
+    "raw_excerpt": "Claude 5.5 제품군의 첫 모델로, 대부분의 작업에서 Fable 5.1 수준의 성능 을 내며 코딩, 컴퓨터 사용과 문서 작성 등 전문 업무 능력을 높임 기본 설정의 일반적인 작업 비용은 Opus 5보다 40% 낮고, 출력 생성은 30% 이상 빨라짐 . 토큰 단가와 작업에 필요한 토큰...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Claude 5.5 제품군의 첫 모델로, 대부분의 작업에서 Fable 5.1 수준의 성능 을 내며 코딩, 컴퓨터 사용과 문서 작성 등 전문 업무 능력을 높임 기본",
+    "thumbnail": "https://social.news.hada.io/topic/34135?v=1ca68dc53ce06f880f99688f282ec2d1",
+    "score": 4.669,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "1천만장 '데더다' 모바일 출격…넥슨, 검증된 IP로 영토 넓힌다",
+    "url": "https://zdnet.co.kr/view/?no=20260923094520",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-23T01:28:06+00:00",
+    "raw_excerpt": "[지디넷코리아]민트로켓의 하이브리드 해양 어드벤처 '데이브 더 다이버'가 글로벌 누적 판매량 1000만장을 돌파한 데 이어, 지난 17일 모바일 버전을 글로벌 시장에 정식 출시했다. 국내 싱글 패키지 게임 최초의 누적 최대 판매 기록을 세운 '데이브 더 다이버'의 모바일 진출은 단순한 플랫폼 확장을 넘어, 넥슨이 전사 차원에서 추진 중인 'IP 종·횡적 확장' 전략의 최신 결과물로 꼽힌다.23일 게임업계에 따르면 넥슨은 검증된 핵심 IP를 다양한 장르와 플랫폼으로 다변화하는 '프랜차이즈 생태계 구축'에 속도를 내고 있다. 한 번 형성된 이용자층과의 관계를 지속시키고, 변화하는 이용 환경에 맞춰 접점을 넓혀가는 전략이다.이러한 확장 전략의 대표적 롤모델이자 선구 사례는 '메이플스토리'다. 넥슨은 메이플스토리 IP를 ▲코어(Core) ▲클래식(Classic) ▲라이트(Light) ▲프론티어(Frontier) ▲데피니티브(Definitive) 등 5개 축으로 재편한 확장 매트릭스를 구축해 이용자 생애주기별 공략을 전개해 왔다. PC 본편의 라이브 서비스 고도화와 함께 UGC, 방치형, 블록체인 등 새로운 시도를 유기적으로 결합한 것이 골자다.성과는 실적으로 즉각 증명됐다. 메이플스토리 프랜차이즈는 지난해 1204억엔(약 1조 1000억원)의 매출을 기록하며 전년 대비 43% 성장, 22년 역사상 연간 최대 실적을 경신했다. 특히 UGC 플",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "[지디넷코리아]민트로켓의 하이브리드 해양 어드벤처 '데이브 더 다이버'가 글로벌 누적 판매량 1000만장을 돌파한 데 이어, 지난 17일 모바일 버전을 글로벌 시",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/17/dfa6accab4eec37086059daeab7634a1.jpg",
+    "score": 4.638,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "윤호영이 이끄는 카카오 스테이블코인…그랩·SCBX로 동맹 확대",
+    "url": "https://zdnet.co.kr/view/?no=20260923095455",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-23T00:54:55+00:00",
+    "raw_excerpt": "[지디넷코리아]카카오그룹이 국내외 주요 플랫폼·금융·디지털자산 기업과 연합전선을 구축하며 디지털자산 생태계 조성에 속도를 내고 있다. 특히 카카오뱅크를 중심으로 원화 스테이블코인 발행·유통을 아우르는 사업 전략을 구체화하고 있다.카카오·카카오뱅크·카카오페이가 속한 카카오그룹은 동남아시아 플랫폼 기업 그랩, 태국 금융지주사 SCBX, 교보생명, 보난자팩토리 등 국내외 기업과 디지털자산 사업 협력을 위한 업무협약(MOU)을 체결했다고 23일 밝혔다.카카오그룹은 관련 법제화와 제도 정비가 이뤄지는대로 디지털자산 서비스를 상용화하기 위해 지난해부터 국내외 기업과 파트너십을 확대하고 있다. 원화 스테이블코인 발행·유통부터 결제·송금까지 이어지는 협업 체계를 구축하는 것이 핵심이다.그랩과는 원화 스테이블코인 발행·유통을 비롯해 관련 서비스 개발, 지역 확장 전략 수립, 기술·운영 역량 교류 등을 추진할 방침이다.SCBX와는 해외 결제·송금 등 디지털자산 서비스 개발과 기술·운영 역량 교류 등 다양한 분야에서 협력한다. 향후 새로운 비즈니스 모델을 발굴하고 한국과 동남아시아를 대상으로 서비스 확장도 추진할 계획이다.카카오그룹은 지난해부터 카카오·카카오뱅크·카카오페이가 참여하는 스테이블코인 태스크포스(TF)를 운영하고 있다. 특히 카카오뱅크는 은행 라이선스와 플랫폼 경쟁력을 기반으로 원화 스테이블코인 발행·유통을 중심으로 사업 전략을 구체화하고 있",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "[지디넷코리아]카카오그룹이 국내외 주요 플랫폼·금융·디지털자산 기업과 연합전선을 구축하며 디지털자산 생태계 조성에 속도를 내고 있다. 특히 카카오뱅크를 중심으로",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/23/b58380fea7c002920a7662f35d4a8e9b.jpg",
+    "score": 4.607,
+    "engagement": 0,
+    "matched_keywords": [
+      "스테이블코인"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "가상자산 앱 월렛도 불안…거래소로 이동한다",
+    "url": "https://zdnet.co.kr/view/?no=20260923082614",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-23T00:48:20+00:00",
+    "raw_excerpt": "[지디넷코리아]가상자산 월렛 앱 '디센트'에서 비정상적인 자산 이동이 벌어지면서, 투자자 보호 조치를 잘 갖춘 가상자산 거래소로 디지털 자산을 옮기는 이용자들이 있다.23일 가상자산 업계에 따르면 월렛 앱에서 해킹 추정 사건이 벌어지자 불안감을 느낀 금융소비자들이 앱뿐만 아니라 하드월렛에서도 가상자산을 빼고 있다. 오히려 가상자산 해킹 사고 시 이용자 보호 조치를 잘 갖춘 가상자산 거래소를 택하는게 낫겠다는 판단에서다.실제 가상자산 업계 관계자는 \"월렛 앱 이용자인데 가상자산 거래소로 이동한 수치를 따로 집계할 순 없지만, 해당 사건이 있던 이후 어느 정도 맡기려는 가상자산이 유입된 건 사실\"이라고 설명했다.디센트뿐만 아니라 하드월렛 '코인카이트'에서도 가상자산이 탈취되는 사건이 벌어진 바 있다. 특히 국내 이용자가 가장 많은 업비트를 택하는 것으로 추정된다. 업비트의 경우 2025년에 있었던 해킹 사건 시 별도 보상 신청없이도 투자자에게 전액을 보전해준 사례가 있어, 투자자들이 상대적으로 안심하고 있는 것으로 풀이된다. 앞서 업비트 운영사 두나무는 해킹으로 발생한 회원 장부상 손실을 자체 보유 자산으로 전액 보전(386억원 규모)하기로 했다.이밖에 2021년 12월부터 '업비트 투자자 보호센터'를 운영하고 있다. ▲투자자 보호 ▲디지털 자산 교육 ▲업비트케어를 제공하는데, 투자자 보호 분야서는 투자 사기 유형과 예방, 대응 방법 안",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "[지디넷코리아]가상자산 월렛 앱 '디센트'에서 비정상적인 자산 이동이 벌어지면서, 투자자 보호 조치를 잘 갖춘 가상자산 거래소로 디지털 자산을 옮기는 이용자들이",
+    "thumbnail": "https://image.zdnet.co.kr/2021/02/23/89dd3ebd577df3b4a63e799f9c3287e2.jpg",
+    "score": 4.6,
+    "engagement": 0,
+    "matched_keywords": [
+      "해킹"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "WorldCrafter",
+    "url": "https://t.co/lUHlMZWXSN",
+    "source": "X @_akhaliq",
+    "source_type": "x",
+    "published_at": "2026-09-22T05:19:37+00:00",
+    "raw_excerpt": "WorldCrafter\n\nConsistent Video World Model with Implicit 3D-aware Memory\n\npaper: \nhttps://\nhuggingface.co/papers/2609.24\n984\n…",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "WorldCrafter\n\nConsistent Video World Model with Implicit 3D-aware Memory\n\npaper: \nhttps://",
+    "thumbnail": "",
+    "score": 4.596,
+    "engagement": 16158,
+    "matched_keywords": [
+      "world model"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "스팀 인기작 '피플 플레이그라운드', 창작마당 긴급 폐쇄...악성코드 반복 유포",
+    "url": "https://zdnet.co.kr/view/?no=20260923093036",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-23T00:38:32+00:00",
+    "raw_excerpt": "[지디넷코리아]스팀의 인기 인디 게임 '피플 플레이그라운드'가 창작마당을 통해 유포된 악성 모드로 인해 올해 들어 두 번째 보안 피해를 입었다. 개발자는 사태 파악 즉시 창작마당 기능을 비활성화하고 이용 주의를 당부했다.22일(현지시간) 코타쿠 등 외신에 따르면, 피플 플레이그라운드 개발자 메스티에즈는 스팀 커뮤니티 공지를 통해 악성 모드가 발견돼 창작마당을 긴급 차단했다고 밝혔다.개발자가 공개한 상세 피해 양상에 따르면, 해당 악성코드는 이용자 PC의 상당량의 개인 데이터를 영구 삭제하고, 타 게임을 포함한 스팀 설정 및 스팀 클라우드 데이터(보관함, 창작마당 등)를 훼손한다.아울러 디스코드 사용자 이름 등 식별 가능한 정보를 무단 수집해 창작마당에 노출시키며, 스스로를 창작마당에 재등록해 악성코드를 확산시키는 동작을 수행한다.이에 개발사 측은 잠재적인 위협에 대비해 디스코드 등 주요 계정의 비밀번호를 즉시 변경할 것을 권고했다는 것이 외신의 설명이다.특히 중앙유럽 서머타임(CEST) 기준 이달 21일 오후 6시부터 8시 사이에 모드를 활성화한 상태로 게임을 실행한 이용자에게는 백신 검사를 강력히 권고했다. 이와 함께 모드 폴더 내 파일을 삭제하고, 추가 공지가 나오기 전까지 게임 실행을 중단해 달라고 요청했다.공격 주체에 대해서는 아직 밝혀진 바가 없다. 개발자는 \"이번 사태는 전적으로 나의 책임\"이라며 \"특정인을 비난하거나 근거",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "[지디넷코리아]스팀의 인기 인디 게임 '피플 플레이그라운드'가 창작마당을 통해 유포된 악성 모드로 인해 올해 들어 두 번째 보안 피해를 입었다. 개발자는 사태 파",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/23/9b9b772e43a129830703ad55c757b0d2.jpg",
+    "score": 4.591,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "인도 정부, 스팸 규제 강화...메시징앱·SNS까지 범위 확대",
+    "url": "https://zdnet.co.kr/view/?no=20260923091848",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-23T00:29:11+00:00",
+    "raw_excerpt": "[지디넷코리아]인도 정부가 스팸 근절을 위해 메시징앱과 SNS 등으로 상업적 메시지 규제 범위를 확대하는 방안을 검토하고 있다.23일(현지시간) 인도 매체 고엠파콘에 따르면, 인도 정부는 스팸과 원치 않는 상업적 메시지 근절을 위해 기존 전화와 문자메시지 중심이었던 규제 범위를 메시징앱, OTT, SNS, 푸시 알림 등으로 확대한다. 수신자가 인도에 있다면 해외 기업과 플랫폼도 규제 대상에 포함된다.규제 초안 핵심은 '명시적 동의'와 '수신 거부 보장'이다. 상업적 메시지를 보내려면 브랜드나 제품과 연계된 구체적이고 자유로운 동의를 디지털 기록으로 남겨야 하며, 무단으로 홍보용 채널에 추가하는 행위는 금지된다.기업은 무료 수신 거부 방법을 제공하고 처리해야 한다. AI를 활용한 상업적 메시지는 대화 시작 시 AI 생성 콘텐츠임을 밝혀야 한다.기업과 플랫폼은 제3자 대행사나 사칭 메시지에 대해 더 큰 책임을 지며, 고충 처리 담당자 지정 관련 기록, 보관 의무를 진다. 규제 체계는 현재 초안 단계로 기존 통신 소비자 보호법 등과 병행해 운영될 예정이다.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "[지디넷코리아]인도 정부가 스팸 근절을 위해 메시징앱과 SNS 등으로 상업적 메시지 규제 범위를 확대하는 방안을 검토하고 있다.23일(현지시간) 인도 매체 고엠파",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/23/a985e2fef59d14db0c481ffc1aa695ea.jpg",
+    "score": 4.582,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "이재명 대통령, 이소영 중기부 장관 임명안 재가",
+    "url": "https://www.etnews.com/20260923000001",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-09-22T15:17:39+00:00",
+    "raw_excerpt": "이재명 대통령이 이소영 중소벤처기업부 장관에 대한 임명안에 사인했다. 강유정 청와대 수석대변인은 22일 “이 장관에 대한 임명안을 재가했다”고 말했다. 유엔총회 참석과 멕시코 국빈 방문을 위해 출국한 이 대통령은 현재 미국 뉴욕에서 머물고 있다. 한편 이 대통령은 이날 이정현 대검찰청 차장에 대한 임명안도 재가했다.",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "이재명 대통령이 이소영 중소벤처기업부 장관에 대한 임명안에 사인했다. 강유정 청와대 수석대변인은 22일 “이 장관에 대한 임명안을 재가했다”고 말했다. 유엔총회",
+    "thumbnail": "https://img.etnews.com/news/article/2026/09/22/rcv.YNA.20260922.PYH2026092200940001300_P1.jpg",
+    "score": 4.517,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Show GN: FBO 파티클 데모 - Three.js로 구현한 GPU 파티클 데모",
+    "url": "https://news.hada.io/topic?id=34129",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-22T15:09:18+00:00",
+    "raw_excerpt": "Three.js (React Three Fiber) 와 셰이더 코드를 작성하여 구현한 FBO (Framebuffer Object) 파티클 데모입니다. FBO (Framebuffer Object) GPU 연산 결과를 texture 형태로 저장하고, 이후 연산의 입력값으로 다시 활용할 수 있게함 GPU의 빠른 병렬 연산을 활용할 수 있어 많은 양의",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "Three.js (React Three Fiber) 와 셰이더 코드를 작성하여 구현한 FBO (Framebuffer Object) 파티클 데모입니다. FBO (F",
+    "thumbnail": "https://social.news.hada.io/topic/34129?v=afb3d402ff9863915cae7f423c4b2846",
+    "score": 4.508,
+    "engagement": 0,
+    "matched_keywords": [
+      "gpu"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Show GN: NCP External Access 비공식 TS·Go 인증 라이브러리를 만들었습니다",
+    "url": "https://news.hada.io/topic?id=34125",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-22T14:08:40+00:00",
+    "raw_excerpt": "NCP External Access의 X.509 인증을 사용하는 비공식 TS·Go 라이브러리를 만들었습니다. 사용하던 공식 Signing Helper에서 구형 Go 런타임 관련 취약점 경고가 나온 것이 계기였습니다. 필요한 기능을 직접 관리할 수 있도록 구현했습니다. 기능: 인증서·개인키로 요청에 서명하고 NCP 임시 인",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "NCP External Access의 X.509 인증을 사용하는 비공식 TS·Go 라이브러리를 만들었습니다. 사용하던 공식 Signing Helper에서 구형 G",
+    "thumbnail": "https://social.news.hada.io/topic/34125?v=c1be4785e6e3e34ddc4925b0c8a309c5",
+    "score": 4.445,
+    "engagement": 0,
+    "matched_keywords": [
+      "취약점"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "CodeMidas",
+    "url": "https://t.co/18V8SeXomn",
+    "source": "X @_akhaliq",
+    "source_type": "x",
+    "published_at": "2026-09-22T01:16:21+00:00",
+    "raw_excerpt": "CodeMidas\n\nScaling Agentic Coding RL Environments from Code Itself\n\npaper: \nhttps://\nhuggingface.co/papers/2609.22\n068\n…",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "CodeMidas\n\nScaling Agentic Coding RL Environments from Code Itself\n\npaper: \nhttps://\nhuggi",
+    "thumbnail": "",
+    "score": 4.427,
+    "engagement": 15774,
+    "matched_keywords": [
+      "agentic"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "GS건설, 로봇 투입 전 ‘모의 현장’서 검증…사전검증센터 구축",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=49180",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-22T20:39:40+00:00",
+    "raw_excerpt": "[스마트타임스]GS건설이 건설로봇과 인공지능(AI) 기술을 실제 현장에 투입하기 전 성능과 운영 가능성을 검증하는 전용 시설을 구축했다. 비정형적인 건설 환경에서 발생할 수 있는 변수까지 사전에 점검해 피지컬 AI의 현장 적용 속도를 높이겠다는 전략이다.GS건설은 경기도 용인시 기술연구소 내 일부 공간을 리모델링해 ‘사전검증센터(PoC센터)’를 마련했다고 22일 밝혔다.센터는 개별 로봇의 성능을 시험하는 데 그치지 않고 실제 건설현장에 필요한 작업 프로세스를 설계하는 역할을 맡는다. 작업자와 로봇의 역할 분담을 비롯해 작업 순서와",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "[스마트타임스]GS건설이 건설로봇과 인공지능(AI) 기술을 실제 현장에 투입하기 전 성능과 운영 가능성을 검증하는 전용 시설을 구축했다. 비정형적인 건설 환경에서",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202609/49180_48061_3930_v150.jpg",
+    "score": 4.367,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
+    "url": "https://www.bbc.com/news/articles/cqj3dgy8x3vro",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-23T02:13:52+00:00",
+    "raw_excerpt": "Article URL: https://www.bbc.com/news/articles/cqj3dgy8x3vro Comments URL: https://news.ycombinator.com/item?id=49810829 Points: 4 # Comments: 1",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://www.bbc.com/news/articles/cqj3dgy8x3vro Comments URL: https://news.yc",
+    "thumbnail": "https://ichef.bbci.co.uk/news/1024/branded_news/2286/live/6cf9eb00-b6e5-11f1-8900-3ddc42cc49ef.jpg",
+    "score": 2.774,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  }
+]
