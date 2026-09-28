@@ -1,0 +1,681 @@
+[
+  {
+    "title": "반디캠컴퍼니, AI 영상툴 ‘반디캠 AI 스튜디오’ 출시",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42083",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-28T10:56:17+00:00",
+    "raw_excerpt": "화면 녹화 프로그램 ‘반디캠’ 개발사 반디캠컴퍼니가 인공지능(AI) 영상툴 ‘반디캠 AI 스튜디오’를 국내외 시장에 정식 출시하고 생성형 AI 사업에 진출한다고 28일 밝혔다.반디캠 AI 스튜디오는 영상 기획부터 생성, 편집까지 하나의 환경에서 처리할 수 있도록 설계한 올인원 AI 영상 제작 플랫폼이다. 복잡한 프롬프트를 직접 작성하지 않아도 사용자가 원하는 영상의 아이디어를 입력하면 장면 구성과 스토리보드, 영상 생성에 필요한 프롬프트를 자동으로 만들어 주는 ‘AI 디렉터’를 핵심 기능으로 탑재했다.AI 디렉터는 대화형 인터페이스",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "화면 녹화 프로그램 ‘반디캠’ 개발사 반디캠컴퍼니가 인공지능(AI) 영상툴 ‘반디캠 AI 스튜디오’를 국내외 시장에 정식 출시하고 생성형 AI 사업에 진출한다고",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/42083_63283_5519_v150.jpg",
+    "score": 8.694,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "생성형 ai"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "마이크로소프트 '글로벌 AI 확산 보고서', 한국 AI 사용률 40.6%…세계 12위",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42080",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-28T09:23:03+00:00",
+    "raw_excerpt": "마이크로소프트의 싱크탱크인 인공지능 이코노미 인스티튜트(AI Economy Institute)가 ‘AI 확산 보고서: 2026년 2분기 트렌드와 인사이트(Global AI Diffusion: Q2 2026 Trends and Insights)’를 발표하고, 전 세계 생성형 AI 사용 현황과 지역별 활용 방식, 오픈 웨이트 모델의 성장세를 분석했다.보고서는 집계·비식별화된 마이크로소프트 텔레메트리 데이터를 기반으로 15~64세 인구 가운데 해당 기간 생성형 AI 제품을 사용한 비율을 AI 확산 지표로 측정했다. 산출 과정에는 운영체제",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "마이크로소프트의 싱크탱크인 인공지능 이코노미 인스티튜트(AI Economy Institute)가 ‘AI 확산 보고서: 2026년 2분기 트렌드와 인사이트(Glob",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/42080_63278_2023_v150.jpg",
+    "score": 8.577,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "생성형 ai"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "'AI 칩 부족' 중국, 엔비디아 PC용 GPU 구매 허용하나",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215701",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-28T11:34:27+00:00",
+    "raw_excerpt": "중국 정부가 자국 IT 기업들의 엔비디아 'RTX 프로 5500' 구매를 제한적으로 허용하는 방안을 검토 중인 것으로 알려졌다. 화웨이 등 중국 반도체 기업들이 급증하는 AI 컴퓨팅 수요를 충분히 감당하지 못하면서, 그동안 제한해 온 미국산 칩까지 대안으로 활용하려는 움직임으로 풀이된다.26일(현지시간) 디 인포메이션에 따르면, 중국 공업정보화부는 최근 바이트댄스와 알리바바 등 주요 IT 기업에 RTX 프로 5500의 구매 계획을 제출하도록 요청했다.필요한 칩 수량과 구체적인 활용 목적을 함께 보고하도록 했으며, 일부 기업에는 당국",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "중국 정부가 자국 IT 기업들의 엔비디아 'RTX 프로 5500' 구매를 제한적으로 허용하는 방안을 검토 중인 것으로 알려졌다. 화웨이 등 중국 반도체 기업들이",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215701_219647_14.jpg",
+    "score": 8.495,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "엔비디아"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "앤트로픽, '클로드 소네트 5.5' 출시 임박...오픈AI '데브데이' 견제하나",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215700",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-28T11:10:46+00:00",
+    "raw_excerpt": "앤트로픽이 ‘클로드 소네트 5.5(Claude Sonnet 5.5)’의 기습 출시를 준비하고 있다는 정황이 잇따라 나오고 있다. 오픈AI의 개발자 행사 ‘데브데이’를 앞두고 출시 시점을 앞당길 가능성이 제기되면서, 양사의 개발자용 AI 모델 경쟁이 한층 치열해질 전망이다.26일(현지시간) AI 정보 유출 전문 계정 라이라(Lyra)에 따르면, 앤트로픽은 최근 파트너사들을 대상으로 소네트 5.5의 두 번째 체크포인트 빌드를 배포하고 스텔스 테스트를 진행하고 있다.라이라는 이르면 28일 오전 중 정식 출시될 가능성을 언급했다. 이는 2",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "앤트로픽이 ‘클로드 소네트 5.5(Claude Sonnet 5.5)’의 기습 출시를 준비하고 있다는 정황이 잇따라 나오고 있다. 오픈AI의 개발자 행사 ‘데브데이",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215700_219644_3933.jpg",
+    "score": 8.463,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "[AI리더의 서가] 한 땀 한 땀 나의 첫 AI 에이전트",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215621",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-28T09:00:00+00:00",
+    "raw_excerpt": "한 땀 한 땀 나의 첫 AI 에이전트허정준·송영희 | 책만2026년 9월 29일추천이유이 책은 프레임워크 없이 파이썬으로 AI 에이전트를 처음부터 끝까지 직접 구현하며 에이전트의 본질과 설계 원리를 완전히 이해하도록 합니다. 독자는 기초부터 RAG, 메모리, 멀티 에이전트 오케스트레이션까지 체계적으로 학습하며 프로덕션 환경에서 에이전트를 안정적으로 운영할 수 있게 됩니다.상세보기AI 에이전트를 공부하려고 책을 펼치면 낯선 이름부터 쏟아진다. 프레임워크와 라이브러리, 각종 도구가 등장하고, 코드를 따라 하다 보면 어느새 '무엇을 만들",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "한 땀 한 땀 나의 첫 AI 에이전트허정준·송영희 | 책만2026년 9월 29일추천이유이 책은 프레임워크 없이 파이썬으로 AI 에이전트를 처음부터 끝까지 직접 구",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215621_219521_5859.jpg",
+    "score": 8.286,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "“AI 아바타가 인력 공백 채운다”...딥브레인AI, 중소기업용 ‘고객 응대 AI 아바타’ 도입 추진",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42082",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-28T10:16:02+00:00",
+    "raw_excerpt": "생성형 인공지능(AI) 전문 기업 딥브레인AI(대표 장세영)는 국내 주요 은행에 공급해 온 대화형 AI 아바타 기술을 기반으로 중소기업의 고객 응대 효율화를 지원하는 서비스 개발에 착수했다고 28일 밝혔다.이번 서비스는 고객 문의가 집중되거나 상시 응대 인력을 확보하기 어려운 중소기업의 고객 접점 업무를 지원하기 위해 추진됐다. 가구 쇼룸의 방문객 안내부터 교육기관의 시험 관련 문의, 식품 기업의 고객 상담, 산업 현장의 기술 지원까지 업종별 업무 특성에 맞춰 AI 아바타를 활용하는 것이 핵심이다.딥브레인AI는 올해 서비스 요구사항",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "생성형 인공지능(AI) 전문 기업 딥브레인AI(대표 장세영)는 국내 주요 은행에 공급해 온 대화형 AI 아바타 기술을 기반으로 중소기업의 고객 응대 효율화를 지원",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/42082_63282_1456_v150.jpg",
+    "score": 7.743,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Arm, 클라우드·엣지·피지컬 AI 아우르는 ‘AI 포털’ 공개",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42081",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-28T10:08:14+00:00",
+    "raw_excerpt": "Arm이 클라우드부터 엣지, 피지컬 AI에 이르는 Arm 컴퓨팅 플랫폼 전반에서 최적화된 인공지능(AI) 모델과 개발 리소스를 탐색하고 배포할 수 있는 ‘Arm AI 포털(Arm AI Portal)’​을 공개했다.이 포털은 AI 에이전트가 클라우드를 넘어 스마트폰과 엣지 디바이스, 로봇 등 물리적 환경으로 확산되면서 모델과 런타임, 하드웨어를 함께 고려해야 하는 AI 애플리케이션 개발의 복잡성을 낮추기 위한 플랫폼이다.Arm은 2,200만 명 이상의 개발자가 자사 컴퓨팅 플랫폼을 기반으로 소프트웨어를 개발하고 있으며, AI 포털을",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Arm이 클라우드부터 엣지, 피지컬 AI에 이르는 Arm 컴퓨팅 플랫폼 전반에서 최적화된 인공지능(AI) 모델과 개발 리소스를 탐색하고 배포할 수 있는 ‘Arm",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/42081_63281_618_v150.jpg",
+    "score": 7.733,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "스캐터랩, AI 엔터테인먼트 플랫폼 ‘제타’에 ‘비주얼 노벨 모드’ 출시",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42078",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-28T08:58:15+00:00",
+    "raw_excerpt": "생성형 인공지능(AI) 스타트업 스캐터랩(대표 김종윤, 박세웅)이 인공지능(AI) 인터랙티브 엔터테인먼트 플랫폼 ‘제타(zeta)’에 새로운 플레이 모드인 ‘비주얼 노벨 모드’를 28일 공식 출시했다.2024년 4월 출시된 제타는 사용자가 캐릭터와 세계관을 직접 만들고 AI로 실시간 상호작용을 하며 자신만의 콘텐츠를 즐길 수 있는 AI 엔터테인먼트 플랫폼이다. 한국과 일본, 미국 등 글로벌 시장에서 서비스를 제공하고 있으며, 2026년 9월 기준 글로벌 누적 가입자 수가 1,300만 명을 돌파했다.이번에 출시한 ‘비주얼 노벨 모드’",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "생성형 인공지능(AI) 스타트업 스캐터랩(대표 김종윤, 박세웅)이 인공지능(AI) 인터랙티브 엔터테인먼트 플랫폼 ‘제타(zeta)’에 새로운 플레이 모드인 ‘비주",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/42078_63276_5535_v150.jpg",
+    "score": 7.646,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "마키나락스, 군 ‘전장망 최초’ AI 운영환경 적용...2026 UFS 통해 첫 실증",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42077",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-28T08:34:35+00:00",
+    "raw_excerpt": "피지컬 AI 기업 마키나락스(대표 윤성호)가 합동참모본부와 함께 자사 인공지능 운영체제(AI OS) ’런웨이(Runway)’를 한국군합동지휘통제체계(Korea Joint Command and Control System, KJCCS)에 적용하고, 2026 을지 자유의 방패(UFS) 연습 기간 실제 군 운용 환경에서 실증했다고 28일 밝혔다.KJCCS는 합동작전을 지원하는 우리 군의 주요 지휘통제체계다. KJCCS가 운용되는 전장망은 일반 행정 및 보급, 인사 업무를 처리하는 ‘국방망'보다 높은 수준의 보안통제가 적용되는 폐쇄망이다.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "피지컬 AI 기업 마키나락스(대표 윤성호)가 합동참모본부와 함께 자사 인공지능 운영체제(AI OS) ’런웨이(Runway)’를 한국군합동지휘통제체계(Korea J",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/42077_63275_3354_v150.jpg",
+    "score": 7.616,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "세계경제포럼, AI 지속가능성 논의…“컴퓨트·에너지·인재 투자 필요”",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42075",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-28T07:22:59+00:00",
+    "raw_excerpt": "세계경제포럼(WEF)이 인공지능(AI)과 프런티어 기술의 확산에 대응해 컴퓨팅과 에너지, 인프라, 인재에 대한 투자를 확대하고 AI 접근성과 거버넌스, 신뢰 격차를 줄여야 한다고 강조했다.세계경제포럼은 지난 24일(현지시간) 미국 뉴욕에서 열린 ‘지속가능개발 영향 회의 2026(Sustainable Development Impact Meetings 2026, SDIM26)’ 결과를 발표했다. 현지시간 21일부터 24일까지 열린 이번 회의에는 기업 경영진 600명, 정부 및 국제기구 고위 관계자 100여 명, 시민사회 지도자 100여",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "세계경제포럼(WEF)이 인공지능(AI)과 프런티어 기술의 확산에 대응해 컴퓨팅과 에너지, 인프라, 인재에 대한 투자를 확대하고 AI 접근성과 거버넌스, 신뢰 격차",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/42075_63274_5547_v150.jpg",
+    "score": 7.527,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "셀렉트스타, EMNLP서 안전성 연구 발표 “AI가 틀리는 방식 확인”",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21616",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-09-28T10:31:01+00:00",
+    "raw_excerpt": "셀렉트스타는 자사 연구진이 참여한 AI 신뢰성·안전성 관련 논문 5편이 ‘EMNLP 2026’에 채택됐다고 28일 밝혔다.EMNLP는 전산언어학회(ACL)가 주관하는 주요 자연어처리 학술대회 가운데 하나다. 올해 행사는 10월 24일부터 29일까지 헝가리 부다페스트에서 열린다. 셀렉트스타가 이번에 발표하는 연구는 메인 컨퍼런스 1편, Findings 1편, 워크숍 3편이다.메인 컨퍼런스 논문 ‘When Accuracy Aligns and Fails : Diagnosing Human–LLM Response Alignment at Po",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "셀렉트스타는 자사 연구진이 참여한 AI 신뢰성·안전성 관련 논문 5편이 ‘EMNLP 2026’에 채택됐다고 28일 밝혔다.EMNLP는 전산언어학회(ACL)가 주관",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202609/21616_22364_2453.jpg",
+    "score": 7.115,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "llm"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "‘GWDC 2026 Korea’ 29일 서울 개막… 구윤철 전 부총리부터 WLFI 잭 위트코프까지",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42084",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-09-28T11:23:39+00:00",
+    "raw_excerpt": "개발자·해커톤 중심의 Web3 행사 ‘GWDC(Global Web3 Dev Con) 2026 KOREA’가 9월 29일, 30일 양일간 서울 서초구 aT센터에서 열린다. Web3Labs와 하이파이랩스 by 315 Partners가 공동 주최하고, GWDC 2026 Korea 조직위원회가 한국 운영을 맡는다.이번 행사에서 가장 눈에 띄는 변화는 월드리버티파이낸셜(WLFI) 공동창업자 겸 CEO 잭 위트코프(Zach Witkoff)의 기조연설 합류다.GWDC는 정책 입안자와 글로벌·국내 산업 리더가 한 무대에 서는 라인업에 총 15만달",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "개발자·해커톤 중심의 Web3 행사 ‘GWDC(Global Web3 Dev Con) 2026 KOREA’가 9월 29일, 30일 양일간 서울 서초구 aT센터에서",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202609/42084_63284_2011_v150.jpg",
+    "score": 6.928,
+    "engagement": 0,
+    "matched_keywords": [
+      "창업"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "AI 도입 빨라지는데…韓 기업 54%, 업무 노하우 보존에 AI 활용",
+    "url": "https://zdnet.co.kr/view/?no=20260928110343",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-28T02:03:43+00:00",
+    "raw_excerpt": "[지디넷코리아]아시아 산업계에 인공지능(AI) 도입이 빨라졌지만 AI를 활용할 인력 역량과 전문 지식 관리가 부족하다는 조사 결과가 나왔다. 28일 옥타브인텔리전스가 공개한 보고서에 따르면 아시아 기업 절반 이상은 2028년까지 현장 근로자가 여러 팀이나 조직에서 AI 기반 시스템을 관리·감독하게 될 것으로 분석됐다. 이번 조사는 전 세계 매출 10억 달러 이상 기업에서 근무하는 산업 기술 의사결정권자 750명 이상을 대상으로 이뤄졌다.AI 활용이 확대되면서 산업계가 요구하는 인력 역량도 달라지고 있는 것으로 나타났다. 아시아 지역 응답자 38%는 미래 산업 인력에게 가장 중요한 능력으로 시스템 사고와 운영 관리를 꼽았다. 기술·비기술 인력 간 커뮤니케이션은 34%였으며 사이버보안·데이터 거버넌스는 32%를 기록했다.한국에서는 시스템 사고 중요성이 더욱 두드러졌다. 한국 응답자 59%가 이를 미래 산업 인력에게 가장 중요한 역량으로 꼽았다. 옥타브는 산업 운영과 디지털 생태계가 복잡해지는 상황을 반영한 결과라고 봤다.기업들은 숙련 인력이 보유한 전문 지식을 AI로 보존하는 데도 속도를 내고 있다. 아시아 기업 48%는 이미 AI 기반 지식 수집·전수 도구를 활용해 전문 지식을 보존하고 이를 미래 인력이 활용할 수 있도록 돕는 것으로 나타났다. 한국 기업의 AI 활용 비중은 아시아 평균보다 높은 것으로 집계됐다. 한국 기업의 54%가 ",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "[지디넷코리아]아시아 산업계에 인공지능(AI) 도입이 빨라졌지만 AI를 활용할 인력 역량과 전문 지식 관리가 부족하다는 조사 결과가 나왔다. 28일 옥타브인텔리전",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/28/241cead84f4df02dabaabc82aa09aa04.jpg",
+    "score": 6.021,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직",
+      "현장",
+      "ai 도입"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "[인터뷰] 델 \"韓도 베라 루빈 벌써 찾는다…엔드투엔드 지원 앞장설 것\"",
+    "url": "https://zdnet.co.kr/view/?no=20260928101518",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-28T02:00:15+00:00",
+    "raw_excerpt": "[지디넷코리아]\"인공지능(AI) 서버를 구매하는 국내 고객은 매 분기 늘고 있습니다. 이제는 대기업과 클라우드서비스제공사(CSP)를 넘어 소규모라도 자체 AI 인프라를 확보하려는 기업들이 계속 증가하는 추세입니다. 엔비디아의 차세대 베라 루빈 기반 제품도 정식 출시 전부터 국내 주요 고객들이 상담과 발주를 준비하고 있습니다.\"양원석 한국 델 테크놀로지스 전무는 28일 서울 강남구 본사에서 지디넷코리아와 만나 국내 AI 인프라 시장 동향에 대해 이같이 밝혔다.그는 기업의 AI 활용이 개념검증(PoC)을 넘어 실제 업무와 운영 단계로 진입하면서 그래픽처리장치(GPU)뿐 아니라 서버·스토리지·네트워크·냉각을 함께 고려하는 인프라 투자가 본격화되고 있다고 진단했다.국내 AI 인프라 수요는 지속 증가하고 있다. 초기에는 대규모 투자가 가능한 기업을 중심으로 시장이 형성됐지만 최근에는 도입 규모가 작은 스타트업까지 자체 AI 서버 구매에 나서는 분위기다.양 전무는 \"AI 서버를 구매하는 고객 수는 매 분기 늘어나는 추세\"라며 \"정부의 GPU 투자와 국가 AI 컴퓨팅 인프라 구축도 국내 시장에서 큰 수요처가 되고 있다\"고 말했다.네오클라우드 시장의 성장도 새로운 사업 기회로 꼽았다. 코어위브를 비롯해 대규모 GPU 인프라를 기반으로 컴퓨팅 서비스를 제공하는 사업자가 글로벌 시장에서 빠르게 성장한 데 이어, 국내에서도 대규모 AI 팩토리와 GPU ",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "[지디넷코리아]\"인공지능(AI) 서버를 구매하는 국내 고객은 매 분기 늘고 있습니다. 이제는 대기업과 클라우드서비스제공사(CSP)를 넘어 소규모라도 자체 AI 인",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/28/e5406a700f2c8425112189a61b87e830.jpg",
+    "score": 6.018,
+    "engagement": 0,
+    "matched_keywords": [
+      "gpu",
+      "스타트업",
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "바이브 코딩 현실: 셀프테스트는 통과했는데 실데이터는 261편 중 6편만 맞았다",
+    "url": "https://news.hada.io/topic?id=34399",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-28T01:17:11+00:00",
+    "raw_excerpt": "AI 코딩 에이전트에게 블로그 운영 자동화를 맡기면서 셀프테스트가 통과(GATE_OK)했는데 실데이터에서는 틀린 도구 세 개를 겪은 기록입니다. 서치콘솔 수집기는 표 셀의 innerText 에 호버 버튼 문구가 딸려 와 글 261편 중 6편만 매칭했고, 광고 점검 도구는 산술 하나로 렌더 실패를 단정했다가 브라우저 확인에서...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "AI 코딩 에이전트에게 블로그 운영 자동화를 맡기면서 셀프테스트가 통과(GATE_OK)했는데 실데이터에서는 틀린 도구 세 개를 겪은 기록입니다. 서치콘솔 수집기는",
+    "thumbnail": "https://social.news.hada.io/topic/34399?v=7a96992370237e1483f573fb08f6dbb0",
+    "score": 5.891,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai 코딩",
+      "바이브 코딩"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "앤트로픽, 클로드 플러그인 개발 포털 공개...제출·검토·분석 통합 지원",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215685",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-27T15:14:31+00:00",
+    "raw_excerpt": "'클로드'가 외부 앱과 업무 도구, 데이터에 연결되는 사례가 늘면서 서드파티 확장 기능을 개발하려는 수요도 커지고 있다. 앤트로픽은 개발자들이 이런 확장 기능을 간편하게 만들고 실제 사용자에게 배포할 수 있도록 플러그인 개발과 관리 환경을 강화했다. 앤트로픽은 25일(현지시간) 클로드용 플러그인을 더 쉽게 개발하고 배포할 수 있도록 새로운 포털을 공개했다. 개발자는 이곳에서 플러그인을 제출하고 안전성 검토 진행 상황과 피드백을 확인하며, 승인된 플러그인의 사용량과 검색 데이터를 한곳에서 관리할 수 있다.플러그인은 MCP 커넥터와 에",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "'클로드'가 외부 앱과 업무 도구, 데이터에 연결되는 사례가 늘면서 서드파티 확장 기능을 개발하려는 수요도 커지고 있다. 앤트로픽은 개발자들이 이런 확장 기능을",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202609/215685_219624_026.jpg",
+    "score": 5.868,
+    "engagement": 0,
+    "matched_keywords": [
+      "mcp"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "개인정보 보호주간…공공·민간 763개 기관 참여",
+    "url": "https://byline.network/2026/09/28-653/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-09-28T01:24:38+00:00",
+    "raw_excerpt": "개인정보보호위원회(이하 개인정보위)는 28일부터 10월 2일까지 ‘2026 개인정보 보호주간’을 운영한다고 28일 밝혔다. 올해는 공공·민간 763개 기관이 개인정보 보호 교육과 캠페인 등 자체 프로그램을 진행한다.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "개인정보보호위원회(이하 개인정보위)는 28일부터 10월 2일까지 ‘2026 개인정보 보호주간’을 운영한다고 28일 밝혔다. 올해는 공공·민간 763개 기관이 개인",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/04/privacy1122.jpg",
+    "score": 5.664,
+    "engagement": 0,
+    "matched_keywords": [
+      "개인정보"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "\"늘어나는 AI 한곳서 관리\"…데이터이쿠, '에이전트 매니지먼트' 출시",
+    "url": "https://zdnet.co.kr/view/?no=20260928105414",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-28T01:54:14+00:00",
+    "raw_excerpt": "[지디넷코리아]데이터이쿠가 기업에서 빠르게 늘어나는 인공지능(AI) 에이전트를 한곳에서 관리할 수 있는 통합 관리 도구를 출시한다. 데이터이쿠는 기업용 AI 에이전트 통합 관리 기능 '에이전트 매니지먼트'를 오는 10월 정식 출시한다고 28일 밝혔다.에이전트 매니지먼트는 기업이 사용하는 여러 AI 플랫폼을 연결해 각 환경에 구축된 에이전트를 하나의 목록으로 통합하는 도구다. 데이터이쿠뿐 아니라 아마존웹서비스(AWS) '아마존 베드록'과 데이터브릭스 '에이전트'·구글 '버텍스' 등을 지원한다.사용자는 마이크로소프트 '코파일럿 스튜디오'와 '애저 파운드리'를 비롯해 세일즈포스 '에이전트포스', 스노우플레이크 '코텍스'도 연결할 수 있다. 자체 구축 환경에서는 '오픈텔레메트리'를 지원한다.이 도구는 통합된 에이전트 구조도 자동으로 파악한다. 각 에이전트가 어떤 도구와 AI 모델을 사용하는지 확인할 수 있어, 관리자는 에이전트의 존재 여부뿐 아니라 실제 작동 방식까지 파악할 수 있다.에이전트 매니지먼트는 위험도 높은 AI 에이전트는 별도 추적한다. 고객 서비스를 제공하거나 민감한 데이터를 처리하고 실시간 거래를 수행하는 에이전트의 인증 상태와 위험 요소·정기 테스트 결과를 지속 기록한다. 관리자와 감사 담당자·규제기관이 요구하면 관련 근거 자료를 확인할 수 있다.기존 에이전트 관리 도구가 특정 업체 기술 환경에 집중했다면 에이전트 매니지먼트",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "[지디넷코리아]데이터이쿠가 기업에서 빠르게 늘어나는 인공지능(AI) 에이전트를 한곳에서 관리할 수 있는 통합 관리 도구를 출시한다. 데이터이쿠는 기업용 AI 에이",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/28/66144b554aaeb744617dd791fed27bf5.png",
+    "score": 5.337,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Palantir 공동창업자, 이란 학교 공습 참사에 대한 비판 자제 요구",
+    "url": "https://news.hada.io/topic?id=34404",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-09-28T02:33:00+00:00",
+    "raw_excerpt": "Palantir 공동창업자 Joe Lonsdale 은 150명 넘게 숨진 이란 학교 공습을 비극으로 인정하면서도, 외부에서 판단하기는 쉽다며 비판에 신중해야 한다는 태도를 보임 미 국방부 관계자들은 Palantir 기술에 대한 과도한 의존 이 공습에 영향을 줬다고 Bloomberg에 밝혔...",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Palantir 공동창업자 Joe Lonsdale 은 150명 넘게 숨진 이란 학교 공습을 비극으로 인정하면서도, 외부에서 판단하기는 쉽다며 비판에 신중해야 한다",
+    "thumbnail": "https://social.news.hada.io/topic/34404?v=2d3d169a7245d21d415a88e34b94bb4f",
+    "score": 5.22,
+    "engagement": 0,
+    "matched_keywords": [
+      "창업"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "KB국민카드, CU 오프라인 매장서 스테이블코인 결제 실증 완료",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=49276",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-28T10:54:21+00:00",
+    "raw_excerpt": "[스마트타임스]KB국민카드는 스테이블코인을 활용한 오프라인 결제 실증을 CU 매장에서 완료했다고 28일 밝혔다.이번 실증에서는 고객이 보유한 디지털 지갑의 스테이블코인을 활용해 상품을 구매하는 QR 기반 결제 방식을 적용했다. 고객이 CU 매장에서 상품을 선택한 후 결제 과정에서 생성된 QR코드를 자신의 디지털 지갑으로 스캔하면 스테이블코인 결제 요청과 전송이 이뤄지고 거래 결과가 결제 시스템으로 전달돼 결제 완료 여부가 매장에 반영되는 방식이다.KB국민카드는 이번 실증을 통해 기존 오프라인 가맹점 인프라와 블록체인 기반 디지털 지",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "[스마트타임스]KB국민카드는 스테이블코인을 활용한 오프라인 결제 실증을 CU 매장에서 완료했다고 28일 밝혔다.이번 실증에서는 고객이 보유한 디지털 지갑의 스테이",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202609/49276_48137_5411_v150.jpg",
+    "score": 5.168,
+    "engagement": 0,
+    "matched_keywords": [
+      "스테이블코인"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Circle And Tether Freeze Stablecoins Linked To Bitget Exploit",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=49261",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-09-28T07:52:35+00:00",
+    "raw_excerpt": "Circle and Tether have frozen stablecoins held in a wallet linked to Thursday’s US$351.6 million Bitget security breach, although only a small portion of the stolen assets was affected.Circle blacklisted the wallet, identified by Etherscan as Bitget Exploiter 8, at 05:00 UTC Friday, according to onc",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Circle and Tether have frozen stablecoins held in a wallet linked to Thursday’s US$351.6 m",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202609/49261_48119_5222_v150.jpg",
+    "score": 4.998,
+    "engagement": 0,
+    "matched_keywords": [
+      "exploit"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "SKT, 전국 7개 대학 찾아간다...진로·취업 멘토링 '찾아가는 캠퍼스' 진행",
+    "url": "https://zdnet.co.kr/view/?no=20260928104312",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-09-28T01:47:29+00:00",
+    "raw_excerpt": "[지디넷코리아]SK텔레콤이 전국 대학을 순회하며 청년들의 진로, 취업 고민을 듣고 AI 서비스 체험과 핸드폰 케어 등을 제공한다.SK텔레콤은 전국 대학교를 직접 찾아 대학생 진로 상담부터 휴대폰 케어 서비스까지 제공하는 ‘찾아가는 캠퍼스’를 운영한다고 28일 밝혔다.찾아가는 캠퍼스는 오는 30일부터 11월4일까지 진행된다. 30일 충남대를 시작으로 충북대, 전남대, 대구대, 육군 부사관학교, 서울시립대와 부산대까지 전국 총 7개 학교를 순차적으로 방문할 예정이다.SK텔레콤은 캠퍼스에 찾아가 대학생 고민을 직접 듣고 진로상담을 제공한다. 커피차, 이동형 AS 버스, 서비스 체험존도 운영한다. 현장에서 서비스 개선 관련 설문 조사를 진행해 서비스 불편 사항, 개선점 등을 듣고 가입자 경험 제고 계획에 반영할 방침이다.캠퍼스 내 강의실에선 열린 상담실을 운영한다. SK아카데미 코칭위원이 학업, 진로, 취업 준비 과정에서 대학생이 겪는 고민과 스트레스에 대한 상담을 진행한다.각 캠퍼스 주요 이동 동선에 커피차 찾아가는 카페도 운영한다. 설문조사에 참여한 학생은 누구나 무료로 커피를 받을 수 있으며, 설문을 통해 브랜드 신뢰도, 서비스 개선사항, 디지털 커뮤니케이션 방식에 대한 의견을 수렴한다.캠퍼스 내 설치된 AI 서비스 체험존에서 에이닷 전화 녹음, 요약, 안심 기능과 T우주 구독 서비스를 통한 편의점, 카페 등 실생활 할인을 게임 형태로",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "[지디넷코리아]SK텔레콤이 전국 대학을 순회하며 청년들의 진로, 취업 고민을 듣고 AI 서비스 체험과 핸드폰 케어 등을 제공한다.SK텔레콤은 전국 대학교를 직접",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/28/85b5a1a50088056a570cf58470410c73.jpg",
+    "score": 4.656,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Prompt and transcripts here ",
+    "url": "https://t.co/QI1dIenQsW",
+    "source": "X @simonw",
+    "source_type": "x",
+    "published_at": "2026-09-27T00:19:59+00:00",
+    "raw_excerpt": "Prompt and transcripts here \nhttps://\nsimonwillison.net/2026/Sep/26/ka\nkapo-party/\n… - or you can load the HTML page Claude built to see the interactive version before it became a video \nhttps://\ntools.simonwillison.net/kakapo-party",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Prompt and transcripts here \nhttps://\nsimonwillison.net/2026/Sep/26/ka\nkapo-party/\n… - or",
+    "thumbnail": "",
+    "score": 4.388,
+    "engagement": 8400,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "I included a few references to this year's record-breaking Kākāpō breeding season in a talk I gave yesterday, and since Claude Opus 5.5 is s",
+    "url": "https://x.com/simonw/status/2104002636513206422",
+    "source": "X @simonw",
+    "source_type": "x",
+    "published_at": "2026-09-27T00:18:13+00:00",
+    "raw_excerpt": "I included a few references to this year's record-breaking Kākāpō breeding season in a talk I gave yesterday, and since Claude Opus 5.5 is surprisingly capable at pixel art animation I had it create this celebratory video for my closing slide",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "I included a few references to this year's record-breaking Kākāpō breeding season in a tal",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2104002605764718592/img/noO-mt0Fhs-rEggi?format=webp&name=large",
+    "score": 4.387,
+    "engagement": 20320,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Microsoft drops Copilot+ branding from its new laptops",
+    "url": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-28T02:46:27+00:00",
+    "raw_excerpt": "Article URL: https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding Comments URL: https://news.ycombinator.com/item?id=49872980 Points: 3 # Comments: 0",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Article URL: https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drop",
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/v2uUzE5t6r2NM3ndNX2jdU-1920-80.jpg",
+    "score": 2.792,
+    "engagement": 0,
+    "matched_keywords": [
+      "copilot"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "As A.I. Makes Law Firms More Efficient, Clients Ask: 'Where's My Discount?'",
+    "url": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-28T01:30:17+00:00",
+    "raw_excerpt": "Article URL: https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html Comments URL: https://news.ycombinator.com/item?id=49872522 Points: 28 # Comments: 8",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable",
+    "thumbnail": "",
+    "score": 2.749,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Research finds 485 chemicals in US pesticide products linked to breast cancer",
+    "url": "https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-28T01:27:21+00:00",
+    "raw_excerpt": "Article URL: https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products Comments URL: https://news.ycombinator.com/item?id=49872497 Points: 44 # Comments: 14",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-pr",
+    "thumbnail": "https://i.guim.co.uk/img/media/32eccf934e9631dee75792a9a27d4aa1f759765d/0_828_2131_1705/master/2131.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=98d3bf4c0ead6942e93c4f542d59c664",
+    "score": 2.748,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Self-parking car using genetic algorithm (2021)",
+    "url": "https://trekhleb.dev/blog/2021/self-parking-car-evolution/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-28T01:21:32+00:00",
+    "raw_excerpt": "Article URL: https://trekhleb.dev/blog/2021/self-parking-car-evolution/ Comments URL: https://news.ycombinator.com/item?id=49872472 Points: 39 # Comments: 4",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://trekhleb.dev/blog/2021/self-parking-car-evolution/ Comments URL: http",
+    "thumbnail": "https://trekhleb.dev/static/14b49be9f15dfe3fccf2e51520529e6c/42e7f/01-cover-00.jpg",
+    "score": 2.744,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "My Recent Woodworking Projects",
+    "url": "https://notoriousbfg.com/recent-woodworking-projects/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-27T20:33:55+00:00",
+    "raw_excerpt": "Article URL: https://notoriousbfg.com/recent-woodworking-projects/ Comments URL: https://news.ycombinator.com/item?id=49870541 Points: 36 # Comments: 17",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://notoriousbfg.com/recent-woodworking-projects/ Comments URL: https://n",
+    "thumbnail": "",
+    "score": 2.585,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Self-Hosting on the Dark Web",
+    "url": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-27T20:03:36+00:00",
+    "raw_excerpt": "Article URL: https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/ Comments URL: https://news.ycombinator.com/item?id=49870295 Points: 75 # Comments: 27",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/ Comments UR",
+    "thumbnail": "https://david.alvarezrosa.com/images/home-illustration.png",
+    "score": 2.568,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Malleable software: Restoring user agency in a world of locked-down apps (2025)",
+    "url": "https://www.inkandswitch.com/essay/malleable-software/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-27T19:01:31+00:00",
+    "raw_excerpt": "Article URL: https://www.inkandswitch.com/essay/malleable-software/ Comments URL: https://news.ycombinator.com/item?id=49869755 Points: 6 # Comments: 1",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://www.inkandswitch.com/essay/malleable-software/ Comments URL: https://",
+    "thumbnail": "https://inkandswitch.com/essay/malleable-software/guitar.jpg",
+    "score": 2.533,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Fragment of oldest known peace treaty found in Turkey",
+    "url": "https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-27T14:35:10+00:00",
+    "raw_excerpt": "Article URL: https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey Comments URL: https://news.ycombinator.com/item?id=49866988 Points: 68 # Comments: 9",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-trace",
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/4do6hQ6xfWKfiYNMLtPppC-1129-80.png",
+    "score": 2.385,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Replacing the old battery on rechargeable bike lights",
+    "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-09-27T13:30:11+00:00",
+    "raw_excerpt": "Article URL: https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/ Comments URL: https://news.ycombinator.com/item?id=49866515 Points: 142 # Comments: 76",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bik",
+    "thumbnail": "",
+    "score": 2.349,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "noon"
+  }
+]
