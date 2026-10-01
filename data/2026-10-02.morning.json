@@ -1,0 +1,817 @@
+[
+  {
+    "title": "The eternal complement",
+    "url": "https://openai.com/index/the-eternal-complement",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-10-01T17:00:00+00:00",
+    "raw_excerpt": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why ex",
+    "thumbnail": "",
+    "score": 6.376,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "How Albertsons Companies is reimagining retail from the inside out",
+    "url": "https://openai.com/index/albertsons-reimagining-retail",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-10-01T16:00:00+00:00",
+    "raw_excerpt": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster a",
+    "thumbnail": "",
+    "score": 6.295,
+    "engagement": 0,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "최대선 센터장 \"사이버보안 특화 모델 AI 기본법 사각지대...기준 마련 시급\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215867",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-02T04:56:01+00:00",
+    "raw_excerpt": "최대선 숭실대 AI안전성연구센터장이 정부 주도로 개발 중인 '사이버보안 특화 AI 파운데이션 모델'이 정작 안전성을 규율하는 'AI 기본법'의 법적 규제와 관리 체계에서 벗어나 있어 명확한 기준과 평가 체계 마련이 시급하다고 지적했다.최대선 센터장은 1일 오후 국가AI전략위원회에서 열린 'AI 개발 속도조절론' 세미나에 참석해 보안 특화 모델은 현행 AI 기본법상 별도 관리 대상인 고영향 AI 영역에 사이버보안이 포함되지 않는 실정이라고 지적했다.안전성 확보 의무가 부과되는 최첨단 AI(제32조) 기준도 누적 연산량 10²⁶ FLO",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "최대선 숭실대 AI안전성연구센터장이 정부 주도로 개발 중인 '사이버보안 특화 AI 파운데이션 모델'이 정작 안전성을 규율하는 'AI 기본법'의 법적 규제와 관리",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/215867_219836_839.jpg",
+    "score": 6.197,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "규제",
+      "ai 기본법"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "AI beats Stratego's greatest player, ending one of the last human strongholds in board games",
+    "url": "https://the-decoder.com/ai-beats-strategos-greatest-player-ending-one-of-the-last-human-strongholds-in-board-games/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-10-01T12:58:02+00:00",
+    "raw_excerpt": "The AI system Ataraxos has decisively beaten the best Stratego player of all time. The board game is a tough test for AI because both sides set up their pieces face down. Google Deepmind fell short in 2023 despite a multimillion-dollar budget. Researchers from Carnegie Mellon, NYU, Stanford, and MIT built Ataraxos for less than $8,000. The article AI beats Stratego s greatest player, ending one of the last human strongholds in board games appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "The AI system Ataraxos has decisively beaten the best Stratego player of all time. The boa",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/Stratego-Ataraxos-title-1200x675.png",
+    "score": 5.943,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "deepmind"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "OpenAI says it stopped a campaign to steal its models' reasoning, but the trick still worked on Azure",
+    "url": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-10-01T12:05:49+00:00",
+    "raw_excerpt": "OpenAI says it stopped a coordinated campaign in which more than 15,000 accounts tried to copy the hidden reasoning of its models. The company ties part of the activity to people connected to Moonshot AI. But researchers found that the same attack kept working on Microsoft Azure for weeks, even against the new GPT-6 Astra. So far, OpenAI's protections don't seem to extend to the cloud platforms that also sell its models. The article OpenAI says it stopped a campaign to steal its models reasoning, but the trick still worked on Azure appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI says it stopped a coordinated campaign in which more than 15,000 accounts tried to",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/openai_gpt_6_stars_astra.png",
+    "score": 5.883,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+    "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-10-01T21:08:11+00:00",
+    "raw_excerpt": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturin",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297722687.jpg?w=1024",
+    "score": 5.68,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "ChatGPT can now virtually try on clothes for you",
+    "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-10-01T19:21:53+00:00",
+    "raw_excerpt": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on cl",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/Virtual-Try-On.jpg?resize=1200,675",
+    "score": 5.558,
+    "engagement": 0,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "[AINews] Gemini 4 Argon: GDM’s answer to Astra/Fable, with 1M output",
+    "url": "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
+    "source": "Latent Space (swyx)",
+    "source_type": "substack",
+    "published_at": "2026-10-01T06:45:05+00:00",
+    "raw_excerpt": "... but you can t try it yet unless you are government users and trusted cyber defenders in the Fairwind Program",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "... but you can t try it yet unless you are government users and trusted cyber defenders i",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!wmoR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHTfV52SWgAIlX3W.png",
+    "score": 5.544,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "국가AI전략위 \"AI 속도조절보다 RSI 초지능 완성 전 기술 추격 우선\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215868",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-02T04:46:46+00:00",
+    "raw_excerpt": "국가인공지능전략위원회가 글로벌 미·중 패권 경쟁 속에서 대두된 'AI 개발 속도조절론'에 휩쓸리지 않고, 한국이 기술 격차 축소와 글로벌 규범 제정을 동시에 주도해야 한다는 방안을 제시했다. 국가인공지능전략위원회는 1일 오후 서울 종로구 광화문 KT빌딩에서 'AI 개발 속도조절론' 세미나를 개최하고 AI 경쟁력 확보와 안전 통제 사이에서 한국이 취해야 할 해법을 다각도로 논의했다. 이날 세미나에서 환영사를 맡은 하정우 상근 부위원장은 \"AI 위험성이 증가했지만 속도조절로 한국의 AI 역량까지 조절하는 게 적합한지는 의견이 많다\"며",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "국가인공지능전략위원회가 글로벌 미·중 패권 경쟁 속에서 대두된 'AI 개발 속도조절론'에 휩쓸리지 않고, 한국이 기술 격차 축소와 글로벌 규범 제정을 동시에 주도",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/215868_219842_541.png",
+    "score": 5.539,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+    "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-10-01T18:14:42+00:00",
+    "raw_excerpt": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+    "score": 5.481,
+    "engagement": 0,
+    "matched_keywords": [
+      "openai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Nearly half of test subjects mistook Tavus' AI video avatar for a real person on a one-minute call",
+    "url": "https://the-decoder.com/nearly-half-of-test-subjects-mistook-tavus-ai-video-avatar-for-a-real-person-on-a-one-minute-call/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-10-01T18:03:40+00:00",
+    "raw_excerpt": "Tavus has introduced Griffin, what the company calls the first \"Human Interaction Model.\" The AI holds video calls in real time, processing facial expressions, tone of voice, and gestures. In a Tavus study, 48 percent of participants believed Griffin was a real person after a one-minute call. Previous systems maxed out at two percent. The article Nearly half of test subjects mistook Tavus AI video avatar for a real person on a one-minute call appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Tavus has introduced Griffin, what the company calls the first \"Human Interaction Model.\"",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/griffin_demo-1200x675.png",
+    "score": 5.468,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+    "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-10-01T17:50:19+00:00",
+    "raw_excerpt": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than i",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/10/notebook-getty.jpg?w=1200",
+    "score": 5.453,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+    "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-10-01T16:44:35+00:00",
+    "raw_excerpt": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Shopify’s new Canvas site builder lets merchants create and customize their online stores",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/canvas-shopify.webp?resize=1200,517",
+    "score": 5.378,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Show HN: Rhun, an open-source code editor written in assembly",
+    "url": "https://rhun.app/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-01T20:32:18+00:00",
+    "raw_excerpt": "I found that I'm not using even 1/3 of vim/vscode features anymore. That's wht I'm building rhun - a small code editor for Linux, Windows and Apple silicon Macs. It obviously has Vim mode, a terminal, Git diffs and a panel for Claude Code or Codex sessions. The editor and pixel renderer share an x86-64 assembly core. For Apple silicon, a build-time translator converts that core to AArch64, with separate platform adapters around it. The latest release can draft commit messages using a local Ollama model or an existing Claude Code or Codex subscription. It's a solo project, MIT licensed and still early. Comments URL: https://news.ycombinator.com/item?id=49926726 Points: 12 # Comments: 2",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "I found that I'm not using even 1/3 of vim/vscode features anymore. That's wht I'm buildin",
+    "thumbnail": "https://rhun.app/img/card.png",
+    "score": 5.301,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "codex",
+      "claude code"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Brian Chesky interview: AI agents need their own operating system",
+    "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-10-01T15:12:00+00:00",
+    "raw_excerpt": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/09/Brian-Chesky-Environmental-Headshot-3.jpg?resize=1200,675",
+    "score": 5.271,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Anthropic brings Claude to civilian agencies as its fight with the Pentagon drags on",
+    "url": "https://the-decoder.com/anthropic-brings-claude-to-civilian-agencies-as-its-fight-with-the-pentagon-drags-on/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-10-01T14:26:54+00:00",
+    "raw_excerpt": "Anthropic is now offering Claude for Government to US federal and state agencies. The platform runs in a FedRAMP High environment, the strictest US security level for cloud services. Agencies get the same features as enterprise customers, pay for what they use with fixed spending caps, and can set budgets for each department. The Pentagon won't be using it because it still classifies Anthropic as a supply chain risk. The article Anthropic brings Claude to civilian agencies as its fight with the Pentagon drags on appeared first on The Decoder .",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Anthropic is now offering Claude for Government to US federal and state agencies. The plat",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/claude_government-1200x670.png",
+    "score": 5.22,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Security startup finds more than 13,000 internal company screenshots that AI agents uploaded publicly",
+    "url": "https://the-decoder.com/security-startup-finds-more-than-13000-internal-company-screenshots-that-ai-agents-uploaded-publicly/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-10-01T13:19:33+00:00",
+    "raw_excerpt": "AI agents quietly posted more than 13,000 internal screenshots from 343 organizations, including Fortune 500 companies, to public GitHub repos. Because the platform didn't offer a protected way to upload them, the agents came up with a workaround on their own. The exposed images showed customer data, login credentials, and details about unreleased products. The article Security startup finds more than 13,000 internal company screenshots that AI agents uploaded publicly appeared first on The Decoder .",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "AI agents quietly posted more than 13,000 internal screenshots from 343 organizations, inc",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/glow_github.png",
+    "score": 5.143,
+    "engagement": 0,
+    "matched_keywords": [
+      "startup"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Hearing tech startup Legato launches its AI hearing glasses",
+    "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-10-01T13:00:00+00:00",
+    "raw_excerpt": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "The glasses stem from the startup’s goal of making hearing care more accessible by address",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/09/Symphony-Lifestyle-Image-2.png?resize=1200,670",
+    "score": 5.12,
+    "engagement": 0,
+    "matched_keywords": [
+      "startup"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Google’s new Guided Vision feature can help you read the fine print",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-10-01T19:47:51+00:00",
+    "raw_excerpt": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surroundings, finding or identifying objects around [ ]",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "score": 5.08,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+    "url": "https://openai.com/index/the-den-family-social",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-10-01T00:00:00+00:00",
+    "raw_excerpt": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead",
+    "thumbnail": "",
+    "score": 4.995,
+    "engagement": 0,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "오픈클로, 기업용 AI 에이전트 제어 플랫폼 'OCE' 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215847",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-01T18:21:43+00:00",
+    "raw_excerpt": "오픈소스 AI 에이전트 오픈클로(OpenClaw)가 기업 환경에서 지속형 AI 에이전트를 안전하게 운영할 수 있도록 지원하는 기업용 제어 플랫폼을 공개했다.오픈클로는 29일(현지시간) 보안과 권한 관리, 감사, 인프라 통제를 기업이 중앙에서 관리할 수 있도록 설계된 ‘오픈클로 엔터프라이즈(OCE)’를 공개했다.MIT 라이선스로 무료 제공되며, 깃허브에서 다운로드할 수 있다. 특정 AI 모델이나 공급업체에 종속되지 않는 구조를 채택했으며, 기업은 자체적으로 사용하는 AI 모델과 에이전트 하네스, 샌드박스 등을 필요에 따라 교체할 수",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "오픈소스 AI 에이전트 오픈클로(OpenClaw)가 기업 환경에서 지속형 AI 에이전트를 안전하게 운영할 수 있도록 지원하는 기업용 제어 플랫폼을 공개했다.오픈클",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/215847_219814_5917.png",
+    "score": 4.975,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Inside Microsoft’s big Copilot rethink",
+    "url": "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-10-01T16:00:00+00:00",
+    "raw_excerpt": "Last week, Microsoft CEO Satya Nadella hosted an intimate, invite-only event for leaders from some of its key enterprise customers. Instead of a flashy media event, Nadella outlined the future of Copilot directly to the customers Microsoft really cares about, pitching its latest rethink of the AI assistant as the \"OS for work.\" Microsoft is [ ]",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Last week, Microsoft CEO Satya Nadella hosted an intimate, invite-only event for leaders f",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Satya-Nadella-September-Copilot-Event.png?quality=90&strip=all&crop=0%2C10.889260556288%2C100%2C78.221478887424&w=1200",
+    "score": 4.842,
+    "engagement": 0,
+    "matched_keywords": [
+      "copilot"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "메타, '뮤즈' 흥행에 월간 주가 29% 껑충…실제 사용성·수익성은 시험대",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215838",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-01T12:16:29+00:00",
+    "raw_excerpt": "메타가 지난 9월8일 선보인 개인용 AI 에이전트 '뮤즈(Muse)'의 돌풍에 힘입어 2013년 이후 13년 만에 최고의 월간 주가 상승률을 기록할 전망이다. 9월 한 달 동안 주가가 29%가량 폭등하며 시장의 시선을 사로잡은 가운데, 초기 다운로드 열풍이 실제 장기 사용 및 유료화로 이어질지는 여전히 불투명하다는 관측이 나온다.30일(현지시간) CNBC에 따르면, 메타 주가는 뮤즈 출시 이후 급등세를 보이며 장중 740달러 선을 넘어서기도 했다. 모건스탠리와 웰스파고 등 주요 투자은행은 메타의 목표 주가를 상향 조정했다.특히 웰스",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "메타가 지난 9월8일 선보인 개인용 AI 에이전트 '뮤즈(Muse)'의 돌풍에 힘입어 2013년 이후 13년 만에 최고의 월간 주가 상승률을 기록할 전망이다. 9",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/215838_219800_222.png",
+    "score": 4.645,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
+    "url": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
+    "source": "Ars Technica",
+    "source_type": "rss",
+    "published_at": "2026-10-01T20:28:45+00:00",
+    "raw_excerpt": "It has been a bad month for federal government cybersecurity.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "It has been a bad month for federal government cybersecurity.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/data-leak-1000x648.jpeg",
+    "score": 4.61,
+    "engagement": 0,
+    "matched_keywords": [
+      "cybersecurity"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "현대차그룹, 한국도로공사와 차세대 충전 인프라 및 피지컬 AI 실증 협력",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42154",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-10-01T18:28:29+00:00",
+    "raw_excerpt": "현대차그룹이 한국도로공사와 함께 전국 고속도로 네트워크를 활용해 차세대 전동화 차량 충전 인프라를 확보하고 피지컬 AI (Physical AI) 기술을 연구·실증한다.현대차그룹은 지난달 30일 현대차·기아 양재사옥에서 한국도로공사와 ‘고속도로 기반 차세대 지능형 충전 인프라 및 Physical AI 기술 연구·실증 협력’ 업무협약(MOU)을 체결했다고 1일 밝혔다.이날 협약식에는 현대차그룹 미래전략본부장 정호근 부사장과 한국도로공사 조성민 도로교통연구원장 등이 참석했다.최근 전동화 차량으로의 전환이 가속화되면서 고속도로 분야에서는",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "현대차그룹이 한국도로공사와 함께 전국 고속도로 네트워크를 활용해 차세대 전동화 차량 충전 인프라를 확보하고 피지컬 AI (Physical AI) 기술을 연구·실증",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202610/42154_63382_2817_v150.jpg",
+    "score": 4.598,
+    "engagement": 0,
+    "matched_keywords": [
+      "physical ai",
+      "피지컬 ai"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Identity Management for Agentic AI [pdf] (2025)",
+    "url": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-01T15:11:10+00:00",
+    "raw_excerpt": "Article URL: https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf Comments URL: https://news.ycombinator.com/item?id=49922736 Points: 65 # Comments: 21",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Article URL: https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic",
+    "thumbnail": "",
+    "score": 4.433,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic",
+      "agentic ai"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "래블업 \"AI 지능도 측정하는 시대…1인 1에이전트 인프라 구축\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215865",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-01T18:52:34+00:00",
+    "raw_excerpt": "래블업이 'AI 팩토리' 비전을 중심으로 1인 1에이전트 시대를 실현하겠다고 밝혔다.래블업(대표 신정규)은 29일 서울 코엑스에서 연례 기술 컨퍼런스 ‘lab | up > /conf/6’을 개최하고 기술 개발 현황과 사업 계획을 발표했다.2015년 설립, GPU 가상화 기술 및 ML옵스 등 AI 플랫폼 기술로 모델 학습과 배포를 지원해 왔다. 창업 초기 기업의 AI 도입 지원에 집중해 왔으며, 2024년 말부터 추론 효율화로 영역을 확장해 AI 작업 범위에 맞춘 '컴포저블(Composable)' 인프라 제공 전략을 구축했다.이번 행",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "래블업이 'AI 팩토리' 비전을 중심으로 1인 1에이전트 시대를 실현하겠다고 밝혔다.래블업(대표 신정규)은 29일 서울 코엑스에서 연례 기술 컨퍼런스 ‘lab |",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/215865_219834_928.jpg",
+    "score": 4.352,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "인셉션, 음성 에이전트 ‘머큐리 보이스’ 출시…'확산 모델'로 지연시간 한계 깼다",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=215864",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-01T18:14:11+00:00",
+    "raw_excerpt": "AI 음성 에이전트 시장에서 반응 속도와 지능을 동시에 확보하려는 시도가 이어지는 가운데, 확산(Diffusion) 기반 언어모델(dLLM)을 개발해 온 인셉션(Inception)이 음성 전용 모델을 내놓았다. 기존 자율주행·이미지 생성 등에 주로 쓰이던 확산 방식을 언어와 음성 영역으로 확장해 기존 모델의 한계를 극복하겠다는 취지다.인셉션은 2026년 9월 29일(현지시간) 음성 에이전트에 특화된 확산 언어모델 ‘머큐리 보이스(Mercury Voice)’를 기업 고객을 대상으로 정식 출시했다.기존 순차적 토큰 생성 방식(Autor",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "AI 음성 에이전트 시장에서 반응 속도와 지능을 동시에 확보하려는 시도가 이어지는 가운데, 확산(Diffusion) 기반 언어모델(dLLM)을 개발해 온 인셉션(",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/215864_219832_3150.png",
+    "score": 4.318,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "OpenRadioss is not open anymore",
+    "url": "https://www.siemens.com/en-us/products/simcenter/mechanical-simulation/radioss/rd/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-01T21:41:36+00:00",
+    "raw_excerpt": "Article URL: https://www.siemens.com/en-us/products/simcenter/mechanical-simulation/radioss/rd/ Comments URL: https://news.ycombinator.com/item?id=49927392 Points: 11 # Comments: 10",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://www.siemens.com/en-us/products/simcenter/mechanical-simulation/radios",
+    "thumbnail": "https://assets.new.siemens.com/dam-asset/ee7d8437-a668-448a-8d57-ac564e829d85/simcenter-radioss-hero-2560x1440.jpg?auto=format%2Ccompress&w=1200&h=630&fit=crop&crop=faces%2Cedges&q=60",
+    "score": 4.158,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
+    "url": "https://www.cssbed.com",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-01T21:21:32+00:00",
+    "raw_excerpt": "Article URL: https://www.cssbed.com Comments URL: https://news.ycombinator.com/item?id=49927212 Points: 17 # Comments: 3",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://www.cssbed.com Comments URL: https://news.ycombinator.com/item?id=499",
+    "thumbnail": "",
+    "score": 4.142,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Car Is a Smartphone on Wheels. Here's Who's Listening",
+    "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-01T20:23:27+00:00",
+    "raw_excerpt": "Article URL: https://automatictransmission.khoury.northeastern.edu/index.html Comments URL: https://news.ycombinator.com/item?id=49926628 Points: 107 # Comments: 93",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://automatictransmission.khoury.northeastern.edu/index.html Comments URL",
+    "thumbnail": "",
+    "score": 4.093,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "SvelteKit 3 Is Here",
+    "url": "https://svelte.dev/blog/sveltekit-3-is-here",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-01T20:14:23+00:00",
+    "raw_excerpt": "Article URL: https://svelte.dev/blog/sveltekit-3-is-here Comments URL: https://news.ycombinator.com/item?id=49926536 Points: 27 # Comments: 2",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://svelte.dev/blog/sveltekit-3-is-here Comments URL: https://news.ycombi",
+    "thumbnail": "https://svelte.dev/blog/sveltekit-3-is-here/card.png",
+    "score": 4.086,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "ArXiv's Updated Rate Limit Policy",
+    "url": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-01T20:12:15+00:00",
+    "raw_excerpt": "Article URL: https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/ Comments URL: https://news.ycombinator.com/item?id=49926512 Points: 35 # Comments: 12",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/ Comments URL: ht",
+    "thumbnail": "",
+    "score": 4.084,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Pi 1.0",
+    "url": "https://earendil.com/posts/pi-1-0/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-01T19:33:05+00:00",
+    "raw_excerpt": "Article URL: https://earendil.com/posts/pi-1-0/ Comments URL: https://news.ycombinator.com/item?id=49926069 Points: 501 # Comments: 176",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://earendil.com/posts/pi-1-0/ Comments URL: https://news.ycombinator.com",
+    "thumbnail": "https://earendil.com/static/og/posts/pi-1-0.png",
+    "score": 4.051,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Pi Durable",
+    "url": "https://earendil.com/posts/pi-durable/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-01T19:24:08+00:00",
+    "raw_excerpt": "Article URL: https://earendil.com/posts/pi-durable/ Comments URL: https://news.ycombinator.com/item?id=49925969 Points: 146 # Comments: 14",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://earendil.com/posts/pi-durable/ Comments URL: https://news.ycombinator",
+    "thumbnail": "https://earendil.com/static/og/posts/pi-durable.png",
+    "score": 4.044,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Effect 4.0",
+    "url": "https://effect.website/blog/releases/effect/40",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-01T19:10:07+00:00",
+    "raw_excerpt": "Article URL: https://effect.website/blog/releases/effect/40 Comments URL: https://news.ycombinator.com/item?id=49925812 Points: 26 # Comments: 12",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://effect.website/blog/releases/effect/40 Comments URL: https://news.yco",
+    "thumbnail": "https://effect.website/og/blog/releases/effect/40.png?v=74ae348585b613bcf8a5bbec80108948fe769c1b",
+    "score": 4.032,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Pi 1.0",
+    "url": "https://news.hada.io/topic?id=34632",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-10-01T20:38:34+00:00",
+    "raw_excerpt": "Pi 1.0 이 출시됨. 매주 전 세계 수십만 명이 사용하는 최소주의 기반의 확장 가능한 에이전트 하네스로, 수개월간 사용자 피드백을 반영해 안정성을 강화함 Codemode 를 통해 MCP와 Jev 같은 비LLM 모델, 이미지 모델을 기본 지원하며, 확장 기능에서 가상 ...",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Pi 1.0 이 출시됨. 매주 전 세계 수십만 명이 사용하는 최소주의 기반의 확장 가능한 에이전트 하네스로, 수개월간 사용자 피드백을 반영해 안정성을 강화함 Co",
+    "thumbnail": "https://social.news.hada.io/topic/34632?v=0e5a2715de73122c68f40832abf02963",
+    "score": 3.922,
+    "engagement": 0,
+    "matched_keywords": [
+      "mcp",
+      "에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "로크웰 오토메이션 신규 보고서: 생명과학 제조기업의 90%, 디지털 트랜스포메이션을 비즈니스의 핵심 요소로 인식",
+    "url": "https://zdnet.co.kr/view/?no=20261002011002",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-10-01T16:10:02+00:00",
+    "raw_excerpt": "[지디넷코리아] 새로운 조사 결과 제조기업은 품질 향상, 규제 대응 태세 강화 및 운영 성과 제고를 위해 연결된 데이터, 사이버보안 및 인공 지능에 투자 중 밀워키, 2026년 10월 1일 /PRNewswire/ -- 산업 자동화 및 디지털 트랜스포메이션 분야의 글로벌 선도 기업인 로크웰 오토메이션(Rockwell Automation, Inc., NYSE: ROK)은 오늘 생명과학 분야 제조 및 산업 운영 의사결정권자들의 의견을 바탕으로 한 업계 인사이트 보고서인 \"생명과학 제조를 위한 새로운 운영 모델: 규제 준수에서 지속적인 준비 태세로 전환\"을 발표했습니다. 새로운 보고서는 제조기업들이 빠르게 변화하는 산업에 발맞추기 위해 어떻게 디지털 기반을 구축하고 있는지 조사합니다. 90% of Life Sciences Manufacturers Say Digital Transformation Is Now Business-Critical, According to New Rockwell Automation Report 로크웰 오토메이션의 스마트 제조 현황 연구에 따르면, 생명과학 제조기업의 90%가 디지털 전환이 필수적이라고 답했으며, 58%는 스마트 제조 기술을 대규모 또는 일부 운영 부문에 도입한 것으로 나타났습니다. 이 보고서는 제조기업들이 지속적으로 현대화함에 따라, 연결된 데이터, 사이버 보안, 검증된 AI 애플리케이션이 어떻게 가시",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "[지디넷코리아] 새로운 조사 결과 제조기업은 품질 향상, 규제 대응 태세 강화 및 운영 성과 제고를 위해 연결된 데이터, 사이버보안 및 인공 지능에 투자 중 밀워",
+    "thumbnail": "https://mmx.prnasia.com/media/MS2000379/LIFE-BR023A-EN-P_Thumbnail_v0-1-1.jpg?id=OA2981718&p=medium600",
+    "score": 3.812,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "사이버 보안",
+      "규제"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "구글, 출력 토큰 100만개 품은 ‘제미나이 4 아르곤’ 공개",
+    "url": "https://byline.network/2026/10/1001-8/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-10-01T07:06:47+00:00",
+    "raw_excerpt": "구글은 최대 100만개의 출력 토큰을 처리하고 소프트웨어 엔지니어링과 창의적 글쓰기, 사이버 보안 업무 등 기업 업무를 자율적으로 수행하는 차세대 인공지능(AI) 모델 ‘제미나이 4 아르곤(Gemini 4 Argon)’을 2026년 9월 30일(현지시간) 공개했다.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "구글은 최대 100만개의 출력 토큰을 처리하고 소프트웨어 엔지니어링과 창의적 글쓰기, 사이버 보안 업무 등 기업 업무를 자율적으로 수행하는 차세대 인공지능(AI)",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/10/gemini.webp",
+    "score": 3.694,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "사이버 보안"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "인텔리빅스, 싱가포르 보안·인프라 기업 10곳과 연쇄 협력",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21657",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-10-01T17:03:00+00:00",
+    "raw_excerpt": "인텔리빅스는 9월 29일과 30일 양일간 싱가포르 마리나 베이 샌즈에서 열린 ‘테크 위크 싱가포르 2026’에서 현지 기업 6곳과 추가 업무협약을 체결했다고 1일 밝혔다. 앞서 행사 첫날 4개 기업과 협력 관계를 구축하면서 이틀간 총 10개 기업과 파트너십을 맺었다. 테크 위크 싱가포르는 클라우드·AI 인프라, 사이버보안, 빅데이터·AI, 데이터센터 등을 다루는 아시아 기술 전시회다. 올해 행사는 29~30일 개최됐으며 500개 이상의 전시 기업과 2만9000명 이상의 비즈니스 리더가 참가하는 규모로 진행됐다. 추가로 협약을 맺은",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "인텔리빅스는 9월 29일과 30일 양일간 싱가포르 마리나 베이 샌즈에서 열린 ‘테크 위크 싱가포르 2026’에서 현지 기업 6곳과 추가 업무협약을 체결했다고 1일",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202610/21657_22411_5849.jpg",
+    "score": 3.599,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  }
+]
