@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>AX 전략실 오늘의 뉴스 · {{ date }}</title>
+<title>LIFE CANVAS Lab실 오늘의 뉴스 · {{ date }}</title>
 <style>
   :root{
     --ink:#17171a; --sub:#8a8a90; --bg:#f5f5f3; --card:#ffffff;
@@ -141,7 +141,7 @@
 <body>
 <header>
   <div class="wrap">
-    <h1 class="brand">AX 전략실</h1>
+    <h1 class="brand">LIFE CANVAS Lab실</h1>
     <h2 class="title">오늘의 뉴스 - {{ date.replace('-', '.') }}</h2>
   </div>
 </header>
@@ -228,7 +228,7 @@
 
 <section class="feedback">
   <div class="fb-card">
-    <h2>AX 전략실 뉴스봇 개선사항을 남겨주세요!</h2>
+    <h2>LIFE CANVAS Lab실 뉴스봇 개선사항을 남겨주세요!</h2>
     {% if feedback_ready %}
     <p>주제·소스·요약 형식 등 개선 아이디어를 자유롭게 남겨 주세요.
        팀의 의견이 다음 업데이트에 반영됩니다.</p>
@@ -240,7 +240,7 @@
   </div>
 </section>
 
-<footer>AX 전략실 · 평일 하루 3회(아침·점심·저녁) 자동 발행 · 데이터 출처는 각 기사 원문 매체에 있습니다</footer>
+<footer>LIFE CANVAS Lab실 · 평일 하루 3회(아침·점심·저녁) 자동 발행 · 데이터 출처는 각 기사 원문 매체에 있습니다</footer>
 <script>
   // LNB 링크 클릭 시 접혀 있는 카테고리도 자동 펼친 뒤 스크롤
   document.querySelectorAll('aside.lnb a[href^="#"]').forEach(function(a){

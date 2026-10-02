@@ -8,6 +8,7 @@
 """
 from __future__ import annotations
 
+import hashlib
 import html
 import logging
 import time
@@ -22,7 +23,26 @@ log = logging.getLogger("axnewsbot.telegram")
 _API = "https://api.telegram.org/bot{token}/sendMessage"
 _TG_LIMIT = 4096         # 텔레그램 메시지 1건 최대 길이(UTF-16 코드유닛)
 _DIVIDER = "━━━━━━━━━━━━━━━━"
-_TITLE = "📰 <b>AX 전략실 오늘의 뉴스</b>"
+_TITLE = "📰 <b>LIFE CANVAS Lab실 오늘의 뉴스</b>"
+
+# 타이틀 바로 아래 한 줄 격려 문구 — 날짜 기준으로 고정(같은 날 회차끼리는 같은 문구).
+_ENCOURAGEMENTS = [
+    "오늘도 한 걸음씩, 꾸준함이 결국 이깁니다 💪",
+    "잘하고 있어요. 오늘 하루도 당신을 응원합니다 🌱",
+    "작은 진전도 진전입니다. 오늘도 화이팅!",
+    "애쓴 오늘, 수고했다고 스스로에게 말해주세요 ☕",
+    "바쁜 와중에도 여기까지 와줘서 고마워요. 좋은 하루 되세요 ✨",
+    "완벽하지 않아도 괜찮아요, 오늘도 충분히 잘하고 있어요",
+    "지치지 않게, 틈틈이 숨 고르며 가요 🍃",
+    "오늘의 작은 성취가 내일의 큰 변화를 만듭니다",
+    "당신의 하루를 응원합니다. 오늘도 좋은 일만 가득하길 🌤️",
+    "포기하지 않고 여기까지 온 당신, 이미 멋져요",
+]
+
+
+def _daily_encouragement(date_str: str) -> str:
+    idx = int(hashlib.md5(date_str.encode("utf-8")).hexdigest(), 16) % len(_ENCOURAGEMENTS)
+    return _ENCOURAGEMENTS[idx]
 
 
 def _esc(s: str) -> str:
@@ -73,7 +93,11 @@ def build_messages(
     기존처럼 랭크 순 첫 등장 순서로 정렬한다.
     """
     title = f"{_TITLE}\n{_esc(slot_label)}" if slot_label else _TITLE
-    head_lines = [title, f"🗓️ {_esc(date_str)} · 총 {len(articles)}건"]
+    head_lines = [
+        title,
+        f"<i>{_esc(_daily_encouragement(date_str))}</i>",
+        f"🗓️ {_esc(date_str)} · 총 {len(articles)}건",
+    ]
     tags = _hashtags(articles)
     if tags:
         head_lines.append(_esc(tags))
