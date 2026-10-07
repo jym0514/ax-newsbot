@@ -1,0 +1,820 @@
+[
+  {
+    "title": "Google says 180 billion images and videos now carry SynthID watermarks as detector goes public",
+    "url": "https://the-decoder.com/google-says-180-billion-images-and-videos-now-carry-synthid-watermarks-as-detector-goes-public/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-10-07T17:50:17+00:00",
+    "raw_excerpt": "Google's AI watermark detector SynthID is now public. Anyone can check whether images, videos, or audio were created by Google's AI or partners like OpenAI and Nvidia. More than 180 billion pieces of content already carry the watermark, but the tool only identifies SynthID-tagged content, not AI-generated media in general. The article Google says 180 billion images and videos now carry SynthID watermarks as detector goes public appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Google's AI watermark detector SynthID is now public. Anyone can check whether images, vid",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/google_synthid.png",
+    "score": 7.103,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai",
+      "nvidia"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+    "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-10-07T20:22:37+00:00",
+    "raw_excerpt": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nv",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677",
+    "score": 6.453,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "nvidia"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over",
+    "url": "https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-10-07T18:49:23+00:00",
+    "raw_excerpt": "Anthropic's new Claude Haiku 5.5 crushes its predecessor in benchmarks, jumping from 15.7 to 72.4 percent on the OSWorld computer use test. Token prices drop by up to 90 percent, though a new tokenizer eats into some of those savings by consuming more tokens per task. The article Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Anthropic's new Claude Haiku 5.5 crushes its predecessor in benchmarks, jumping from 15.7",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/claude_55.png",
+    "score": 6.346,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Zuckerberg's Biohub leads a $1.8 billion push to build AI models that predict cell behavior",
+    "url": "https://the-decoder.com/zuckerbergs-biohub-leads-a-1-8-billion-push-to-build-ai-models-that-predict-cell-behavior/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-10-07T17:58:20+00:00",
+    "raw_excerpt": "Biohub, the research organization backed by Mark Zuckerberg and Priscilla Chan, is coordinating a $1.8 billion initiative to train AI models that predict cell behavior. Meta, Google DeepMind, Isomorphic Labs, and the US Department of Energy are funding data, lab equipment, and compute. A first dataset should be ready in about a year. The article Zuckerberg s Biohub leads a $1.8 billion push to build AI models that predict cell behavior appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Biohub, the research organization backed by Mark Zuckerberg and Priscilla Chan, is coordin",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/biohub_investment.png",
+    "score": 6.287,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "deepmind"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+    "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-10-07T14:30:00+00:00",
+    "raw_excerpt": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just da",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?resize=1200,800",
+    "score": 6.049,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Helping teens learn, plan, and shape the future of AI",
+    "url": "https://openai.com/index/teens-learn-and-plan",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-10-07T12:00:00+00:00",
+    "raw_excerpt": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "College Planner is coming to ChatGPT for Teens to help students manage college application",
+    "thumbnail": "",
+    "score": 5.97,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Managers are using AI to write performance reviews – and it shows",
+    "url": "https://www.zdnet.com/innovation/manager-ai-use-highwire-survey/",
+    "source": "ZDNet (Global, AI)",
+    "source_type": "rss",
+    "published_at": "2026-10-07T21:47:48+00:00",
+    "raw_excerpt": "Does AI use help or hurt feedback at work? Here’s what one survey found.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Does AI use help or hurt feedback at work? Here’s what one survey found.",
+    "thumbnail": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2151843972.jpg",
+    "score": 5.725,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "OpenAI dumps 372 AI-generated math proofs on GitHub, telling the academic world to keep up",
+    "url": "https://the-decoder.com/openai-dumps-372-ai-generated-math-proofs-on-github-telling-the-academic-world-to-keep-up/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-10-07T08:54:43+00:00",
+    "raw_excerpt": "OpenAI has published 372 AI-generated mathematical results on GitHub, including Lean formalizations for machine verification. Each result consumed about three hours of ChatGPT Pro compute on average. But 25 Fields Medal winners warn that mass-producing mathematical truths could destroy fertile ground rather than bring new ideas to life. The article OpenAI dumps 372 AI-generated math proofs on GitHub, telling the academic world to keep up appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI has published 372 AI-generated mathematical results on GitHub, including Lean forma",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/openai_logo_numbers-1200x670.png",
+    "score": 5.665,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "[10월7일] “비싸다던 클로드, 실제로는 챗GPT보다 5배 더 쓸 수 있었다”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216025",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-08T07:00:00+00:00",
+    "raw_excerpt": "그동안 앤트로픽의 '클로드'는 오픈AI보다 상대적으로 비싸다는 평가를 받아왔지만, 실제 사용량을 따져보면 오히려 더 높은 가치를 제공한다는 분석이 나왔습니다. AI 분석 전문 세미애널리시스(semianalysis)가 6일(현지시간) 주요 AI 구독 서비스의 사용 한도를 직접 측정한 결과, 같은 월 200달러 요금제에서 '클로드 오퍼스 5.5'의 API 환산 사용 가치는 오픈AI 'GPT-6.1 솔'보다 5배 이상 높은 것으로 나타났습니다.단순히 각 회사가 공개한 요금표를 비교한 결과가 아닙니다. 사용자는 클로드 맥스나 챗GPT 프로",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "그동안 앤트로픽의 '클로드'는 오픈AI보다 상대적으로 비싸다는 평가를 받아왔지만, 실제 사용량을 따져보면 오히려 더 높은 가치를 제공한다는 분석이 나왔습니다. A",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216025_220010_222.png",
+    "score": 5.659,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+    "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-10-07T20:48:45+00:00",
+    "raw_excerpt": "The developer of Hermes Agent raised a $90 million Series B.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "The developer of Hermes Agent raised a $90 million Series B.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/02/GjsjauvbsAAgUtD.jpeg?w=900",
+    "score": 5.658,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+    "url": "https://openai.com/index/radisson",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-10-07T07:00:00+00:00",
+    "raw_excerpt": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helpi",
+    "thumbnail": "",
+    "score": 5.564,
+    "engagement": 0,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "ChatGPT with GPT-6 ditches mostly text output for interactive UI with charts, buttons, and mini apps",
+    "url": "https://the-decoder.com/chatgpt-with-gpt-6-ditches-mostly-text-output-for-interactive-ui-with-charts-buttons-and-mini-apps/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-10-07T19:06:40+00:00",
+    "raw_excerpt": "OpenAI is rolling out GPT-6 with \"Intelligent UI,\" a feature that turns answers into interactive interfaces with charts, buttons, and forms. The model can now respond while still thinking, cutting wait times by 44 percent. Paying customers get GPT-6 Sol, free users get GPT-6 Luna. The article ChatGPT with GPT-6 ditches mostly text output for interactive UI with charts, buttons, and mini apps appeared first on The Decoder .",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "OpenAI is rolling out GPT-6 with \"Intelligent UI,\" a feature that turns answers into inter",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_chatgpt-2-1200x675.png",
+    "score": 5.541,
+    "engagement": 0,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+    "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-10-07T18:15:28+00:00",
+    "raw_excerpt": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2268195606.jpg?w=1024",
+    "score": 5.482,
+    "engagement": 0,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+    "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-10-07T18:00:19+00:00",
+    "raw_excerpt": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/Intelligent-UI.png?resize=1200,675",
+    "score": 5.465,
+    "engagement": 0,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "인텔 제온6, 에이전틱 AI CPU 성능 입증…AMD EPYC 대비 최대 1.67배 처리량",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42213",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-10-07T20:54:05+00:00",
+    "raw_excerpt": "인공지능의 중심이 단순한 모델 추론에서 여러 작업을 스스로 수행하는 에이전틱 인공지능(Agentic AI)​로 이동하면서 데이터센터에서 중앙처리장치(CPU)의 역할이 다시 중요해지고 있다.에이전틱 AI는 사용자의 요청에 답변하는 데 그치지 않고 작업을 계획하고, 데이터를 검색하며, 외부 도구를 호출하고, 프로그램을 실행한 뒤 결과를 검증하고 필요하면 다시 작업을 수행한다. 이 과정에서 모델 추론 외에도 메모리 접근, 데이터 처리, 스토리지와 입출력, 작업 오케스트레이션 등 다양한 CPU 기반 작업이 동시에 발생한다.인텔(Intel)",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "인공지능의 중심이 단순한 모델 추론에서 여러 작업을 스스로 수행하는 에이전틱 인공지능(Agentic AI)​로 이동하면서 데이터센터에서 중앙처리장치(CPU)의 역",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202610/42213_63481_5310_v150.jpg",
+    "score": 5.319,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic",
+      "agentic ai",
+      "에이전틱"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Google bets Gemini can turn casual players into game developers with new Playground feature",
+    "url": "https://the-decoder.com/google-bets-gemini-can-turn-casual-players-into-game-developers-with-new-playground-feature/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-10-07T14:44:42+00:00",
+    "raw_excerpt": "Google launched Playground, a browser-based platform that lets users create their own games using nothing but text prompts and no coding skills. The platform runs on Gemini, Nano Banana, and Lyria. Alongside Playground, Google and Unity announced Unity Spark, a more professional AI tool with a beta planned for 2026. The article Google bets Gemini can turn casual players into game developers with new Playground feature appeared first on The Decoder .",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Google launched Playground, a browser-based platform that lets users create their own game",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/google_playground-1200x670.png",
+    "score": 5.241,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Anthropic gives more security teams access to Claude with fewer safety restrictions",
+    "url": "https://the-decoder.com/anthropic-gives-more-security-teams-access-to-claude-with-fewer-safety-restrictions/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-10-07T12:05:20+00:00",
+    "raw_excerpt": "Anthropic is expanding its Cyber Verification Program, giving more security professionals access to Claude models with fewer safety restrictions for penetration testing, malware analysis, and vulnerability research. Anthropic says partners in its predecessor program found at least 129,000 confirmed vulnerabilities from April through July 2026, including more than 33,000 rated high-severity or critical. The article Anthropic gives more security teams access to Claude with fewer safety restrictions appeared first on The Decoder .",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Anthropic is expanding its Cyber Verification Program, giving more security professionals",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/cyber_verification_program.png",
+    "score": 5.058,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Microsoft is giving Copilot more control over Windows and your files",
+    "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-10-07T18:01:20+00:00",
+    "raw_excerpt": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It's part of an idea Microsoft is calling \"Hybrid Intelligence,\" where apps and tools rely on a mix of [ ]",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI sy",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lcimg-e4e44609-0bf6-40b2-8c24-2e8c3ce7cee8.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "score": 4.969,
+    "engagement": 0,
+    "matched_keywords": [
+      "copilot"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Polygon taps TRON’s $94 billion stablecoin supply for seamless cross-border transfers",
+    "url": "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails",
+    "source": "CoinDesk",
+    "source_type": "rss",
+    "published_at": "2026-10-07T16:30:00+00:00",
+    "raw_excerpt": "",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Polygon taps TRON’s $94 billion stablecoin supply for seamless cross-border transfers",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/668ddf0a6700461c079e904e028b81fb43904882-2044x1150.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "score": 4.874,
+    "engagement": 0,
+    "matched_keywords": [
+      "stablecoin"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Crypto Long & Short: Zcash and the case for privacy in the age of AI",
+    "url": "https://www.coindesk.com/coindesk-indices/2026/10/07/crypto-long-and-short-zcash-and-the-case-for-privacy-in-the-age-of-ai",
+    "source": "CoinDesk",
+    "source_type": "rss",
+    "published_at": "2026-10-07T15:03:54+00:00",
+    "raw_excerpt": "",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Crypto Long & Short: Zcash and the case for privacy in the age of AI",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/4194d43220448d79587beee0fb55642b52881a6b-2352x1200.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "score": 4.784,
+    "engagement": 0,
+    "matched_keywords": [
+      "privacy"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Tether tapped by Kazakhstan’s central bank to explore stablecoin and tokenization",
+    "url": "https://www.coindesk.com/business/2026/10/07/tether-tapped-by-kazakhstan-s-central-bank-to-explore-stablecoin-and-tokenization",
+    "source": "CoinDesk",
+    "source_type": "rss",
+    "published_at": "2026-10-07T14:27:37+00:00",
+    "raw_excerpt": "",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "Tether tapped by Kazakhstan’s central bank to explore stablecoin and tokenization",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/4c12c0da5096c612dda6d9ed83011bcd03b607f0-5184x3456.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "score": 4.746,
+    "engagement": 0,
+    "matched_keywords": [
+      "tokenization"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Quantum computers threaten exposed private keys rather than blockchains, Europol warns",
+    "url": "https://www.coindesk.com/tech/2026/10/07/quantum-computers-threaten-exposed-private-keys-rather-than-blockchains-europol-warns",
+    "source": "CoinDesk",
+    "source_type": "rss",
+    "published_at": "2026-10-07T13:20:54+00:00",
+    "raw_excerpt": "",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "Quantum computers threaten exposed private keys rather than blockchains, Europol warns",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/0a7b286155b50450ecbce550b4b98e7f0e786e98-2766x1556.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "score": 4.677,
+    "engagement": 0,
+    "matched_keywords": [
+      "quantum"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "AI 탈옥·정보 유출 막는다…아이티센클로잇, 기업용 '가드레일' 공개",
+    "url": "https://zdnet.co.kr/view/?no=20261007171429",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-10-07T08:35:22+00:00",
+    "raw_excerpt": "[지디넷코리아]아이티센클로잇이 기존 사내 챗봇과 인공지능(AI) 에이전트를 바꾸지 않고도 질문과 답변 양쪽에 보안 장치를 적용할 수 있는 솔루션을 선보였다.아이티센클로잇은 7일 서울 코엑스에서 열린 'AI 페스타 2026'에서 기업용 AI 보안 솔루션 '에이전트고 가드'를 공개했다. 현장에서는 AI가 사용자의 질문을 받기 전과 답변을 내보내기 전에 위험 요소를 검사하고 차단하는 과정을 시연했다.에이전트고 가드는 기업이 이미 사용하고 있는 사내 챗봇과 검색증강생성(RAG), 사내 거대언어모델(LLM)을 교체하지 않고 보안 기능을 추가할 수 있도록 설계됐다. 아이티센클로잇은 이를 '지금 쓰는 AI는 그대로, 보안만 더하세요'라는 문구로 소개했다.에이전트고 가드는 사용자의 질문이 AI에 전달되기 전에 개인정보와 금칙어를 검사하고 프롬프트 인젝션이나 탈옥처럼 안전장치를 우회하려는 시도를 탐지한다. 답변이 생성된 뒤에도 내용을 다시 검사해 개인정보 노출과 유해 콘텐츠, 내부 정책 위반 여부를 확인한다.기업별 보안 기준도 직접 설정할 수 있다. 관리자는 혐오 표현과 성희롱, 욕설 등 금칙어를 지정하고 이를 각 AI 서비스에 적용할 수 있다. 부스에서는 금칙어와 차단 정책을 설정하고 관리하는 화면을 시연했다.여러 AI 서비스의 이용 현황도 한곳에서 관리한다. 대시보드에서 서비스별 사용량과 차단 내역, API 호출 기록을 확인하고 문제가 발생한 시",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "[지디넷코리아]아이티센클로잇이 기존 사내 챗봇과 인공지능(AI) 에이전트를 바꾸지 않고도 질문과 답변 양쪽에 보안 장치를 적용할 수 있는 솔루션을 선보였다.아이티",
+    "thumbnail": "https://image.zdnet.co.kr/2026/10/07/d570055136d43c497f124a91c1c50fb3.jpg",
+    "score": 4.428,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai 보안",
+      "보안",
+      "프롬프트 인젝션",
+      "탈옥",
+      "개인정보"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Margaret Hamilton, who led software development for Apollo program, dies at 90",
+    "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-07T21:16:18+00:00",
+    "raw_excerpt": "Article URL: https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007 Comments URL: https://news.ycombinator.com/item?id=49998895 Points: 101 # Comments: 5",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007 Comme",
+    "thumbnail": "",
+    "score": 4.138,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "\"1인칭 영상을 로봇 학습 데이터로\"...트웰브랩스 '페가수스 1.6' 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216022",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-07T14:29:19+00:00",
+    "raw_excerpt": "트웰브랩스가 엔터테인먼트, 스포츠, 공공 분야에 적용해온 영상 이해 기술을 로봇 등 피지컬 AI 분야로 확대한다.트웰브랩스는 피지컬 AI 학습 데이터 수집에 특화된 비전언어모델(VLM) '페가수스 1.6'을 출시했다고 밝혔다. 페가수스 1.6은 '에고센트릭 데이터(Egocentric Data)' 이해 및 라벨링 자동화가 특징이다.에고센트릭 데이터는 1인칭 영상 데이터를 말하는 것으로, 작업자가 액션캠이나 스마트 글래스를 착용한 채 특정 동작을 수행하는 모습을 촬영, 수집할 수 있다는 설명이다.여기에 ▲행동 분할 및 라벨링 ▲상세 캡",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "트웰브랩스가 엔터테인먼트, 스포츠, 공공 분야에 적용해온 영상 이해 기술을 로봇 등 피지컬 AI 분야로 확대한다.트웰브랩스는 피지컬 AI 학습 데이터 수집에 특화",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216022_220005_3050.png",
+    "score": 4.115,
+    "engagement": 0,
+    "matched_keywords": [
+      "피지컬 ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "The Mathocalypse",
+    "url": "https://scottaaronson.blog/?p=10169",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-07T19:33:40+00:00",
+    "raw_excerpt": "Article URL: https://scottaaronson.blog/?p=10169 Comments URL: https://news.ycombinator.com/item?id=49997718 Points: 153 # Comments: 160",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://scottaaronson.blog/?p=10169 Comments URL: https://news.ycombinator.co",
+    "thumbnail": "",
+    "score": 4.052,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "ICANN Reveals 2026 Round Applications for New Generic Top-Level Domains",
+    "url": "https://www.icann.org/en/announcements/details/icann-reveals-2026-round-applications-for-new-generic-top-level-domains-07-10-2026-en",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-07T19:01:45+00:00",
+    "raw_excerpt": "Article URL: https://www.icann.org/en/announcements/details/icann-reveals-2026-round-applications-for-new-generic-top-level-domains-07-10-2026-en Comments URL: https://news.ycombinator.com/item?id=49997301 Points: 29 # Comments: 34",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://www.icann.org/en/announcements/details/icann-reveals-2026-round-appli",
+    "thumbnail": "https://itp.cdn.icann.org/en/files/homepage/icann-logo-on-blue-536x302-13-02-2023-en-large.jpg",
+    "score": 4.026,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+    "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-07T18:49:40+00:00",
+    "raw_excerpt": "Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/ Comments URL: https://news.ycombinator.com/item?id=49997161 Points: 194 # Comments: 205",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employ",
+    "thumbnail": "https://cdn.rswebsols.com/wp-content/uploads/2025/10/otr1by4mkru.jpg",
+    "score": 4.015,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
+    "url": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-07T18:43:18+00:00",
+    "raw_excerpt": "Article URL: https://debasishg.github.io/blog/push-ifs-up-fors-down/ Comments URL: https://news.ycombinator.com/item?id=49997073 Points: 63 # Comments: 24",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://debasishg.github.io/blog/push-ifs-up-fors-down/ Comments URL: https:/",
+    "thumbnail": "",
+    "score": 4.01,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "대화로 업무용 AI 만든다…와이즈넛, 에이전트 대중화 속도",
+    "url": "https://zdnet.co.kr/view/?no=20261007171449",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-10-07T08:39:26+00:00",
+    "raw_excerpt": "[지디넷코리아]복잡한 개발 과정 없이 대화만으로 업무에 필요한 인공지능(AI) 에이전트를 만들고 수정한다. 와이즈넛이 기업과 공공기관의 AI 에이전트 도입 문턱을 낮추기 위해 제시한 방식이다.와이즈넛은 6일부터 8일까지 서울 강남구 코엑스 C홀에서 열리는 'AI페스타26' 에이전틱 AI+X 특별관에 참가해 업무용 AI 에이전트 제작·운영 기술을 선보인다. 행사 이틀째인 7일 찾은 부스에서는 별도의 코딩 없이 대화를 통해 필요한 에이전트를 직접 생성하고 수정해 볼 수 있는 체험 공간을 운영하고 있었다.와이즈넛이 이번 전시에서 강조한 것은 AI 에이전트의 쉬운 제작과 실제 업무 적용이다. 개발자가 복잡한 설정이나 코드를 작성하는 대신 업무 담당자가 대화를 통해 필요한 기능을 구체화하고 에이전트를 만들어 활용할 수 있도록 하는 데 초점을 맞췄다.이를 뒷받침하는 제품이 AI 에이전트 제작 통합 도구 '와이즈 에이전트 랩스(WISE Agent Labs)'다. 에이전트 설계부터 개발, 학습, 검증, 운영·관리, 개선까지 전 과정을 하나의 환경에서 지원한다. 워크플로우 기반 에이전트 빌더를 통해 전문적인 코딩 없이도 에이전트를 구성할 수 있다.멀티 거대언어모델(LLM)과 검색증강생성(RAG), 모델 컨텍스트 프로토콜(MCP) 등 다양한 모델과 외부 도구도 연동할 수 있다. 학습·운영 성능을 실시간으로 검증하고 모니터링하는 기능도 갖췄다. 와이즈 ",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "[지디넷코리아]복잡한 개발 과정 없이 대화만으로 업무에 필요한 인공지능(AI) 에이전트를 만들고 수정한다. 와이즈넛이 기업과 공공기관의 AI 에이전트 도입 문턱을",
+    "thumbnail": "https://image.zdnet.co.kr/2026/10/07/4189b00deb9dd9f34b3cb50bc4ef06f0.jpg",
+    "score": 3.98,
+    "engagement": 0,
+    "matched_keywords": [
+      "mcp",
+      "에이전트",
+      "에이전틱",
+      "ai 에이전트"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Claude Haiku 5.5",
+    "url": "https://www.anthropic.com/claude-haiku-5-5",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-07T18:01:32+00:00",
+    "raw_excerpt": "Article URL: https://www.anthropic.com/claude-haiku-5-5 Comments URL: https://news.ycombinator.com/item?id=49996437 Points: 553 # Comments: 258",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Article URL: https://www.anthropic.com/claude-haiku-5-5 Comments URL: https://news.ycombin",
+    "thumbnail": "https://www-cdn.anthropic.com/images/4zrzovbb/website/89e9b0fbfe0181f6ca565d913686ce8e49b5e9c2-1200x630.jpg",
+    "score": 3.975,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "GPT‑6 and Intelligent UI for everyone",
+    "url": "https://openai.com/index/gpt-6-for-everyone/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-07T18:00:58+00:00",
+    "raw_excerpt": "Article URL: https://openai.com/index/gpt-6-for-everyone/ Comments URL: https://news.ycombinator.com/item?id=49996425 Points: 396 # Comments: 194",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://openai.com/index/gpt-6-for-everyone/ Comments URL: https://news.ycomb",
+    "thumbnail": "",
+    "score": 3.975,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Docker Agent",
+    "url": "https://github.com/docker/docker-agent",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-07T17:48:38+00:00",
+    "raw_excerpt": "Article URL: https://github.com/docker/docker-agent Comments URL: https://news.ycombinator.com/item?id=49996259 Points: 137 # Comments: 56",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://github.com/docker/docker-agent Comments URL: https://news.ycombinator",
+    "thumbnail": "https://opengraph.githubassets.com/fff0f3b7b0cce0674c2d8a350a5097adb68d70e620792947d344b42bbf8fa587/docker/docker-agent",
+    "score": 3.965,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Navier–Stokes Lost in Translation",
+    "url": "https://arxiv.org/abs/2610.08144",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-07T15:24:38+00:00",
+    "raw_excerpt": "Article URL: https://arxiv.org/abs/2610.08144 Comments URL: https://news.ycombinator.com/item?id=49994145 Points: 203 # Comments: 138",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://arxiv.org/abs/2610.08144 Comments URL: https://news.ycombinator.com/i",
+    "thumbnail": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "score": 3.845,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Claude Haiku 5.5 출시 - 평균 실행 비용 75% 절감, Max·Team에 API 크레딧 제공",
+    "url": "https://news.hada.io/topic?id=34958",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-10-07T18:43:26+00:00",
+    "raw_excerpt": "Anthropic이 더 빠르고 저렴한 소형 모델 Claude Haiku 5.5 를 출시함. 요약, 문맥 압축, 데이터베이스 질의, 분류와 코딩 보조 에이전트처럼 대량으로 반복하는 작업에 최적화 프롬프트 10만 토큰 이하에서 입력·출력 가격을 Haiku 4.5 대비 90% 인하 함. 100만 토큰...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Anthropic이 더 빠르고 저렴한 소형 모델 Claude Haiku 5.5 를 출시함. 요약, 문맥 압축, 데이터베이스 질의, 분류와 코딩 보조 에이전트처럼",
+    "thumbnail": "https://social.news.hada.io/topic/34958?v=55d99ba19304b5b8161dfaa921c4abbd",
+    "score": 3.842,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "프롬프트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees",
+    "url": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-07T15:09:59+00:00",
+    "raw_excerpt": "Article URL: https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees Comments URL: https://news.ycombinator.com/item?id=49993914 Points: 434 # Comments: 294",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litig",
+    "thumbnail": "https://www.classaction.org/media/twitter-newswire-default.png",
+    "score": 3.832,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Animated ASCII Art for Web Pages",
+    "url": "https://ascii.rest/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-07T15:05:37+00:00",
+    "raw_excerpt": "Article URL: https://ascii.rest/ Comments URL: https://news.ycombinator.com/item?id=49993857 Points: 244 # Comments: 55",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://ascii.rest/ Comments URL: https://news.ycombinator.com/item?id=499938",
+    "thumbnail": "https://ascii.rest/og.png",
+    "score": 3.829,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "혁신형제약부터 CSO 60% 수수료까지…복지위 국감이 짚은 '빈틈'",
+    "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79734",
+    "source": "히트뉴스",
+    "source_type": "rss",
+    "published_at": "2026-10-08T06:07:00+00:00",
+    "raw_excerpt": "[히트뉴스=이현주 기자] 제22대 국회 보건복지위원회의 보건복지부·질병관리청 국정감사 첫날은 제약·바이오와 보건의료 현안의 세부 제도를 점검하는 데 무게가 실렸다. 혁신형 제약기업 지원체계, 의약품 영업대행사(CSO) 수수료, 임신중지약 도입, 인체조직 유래 ECM, 비급여 관리 등이 잇달아 질의 테이블에 올랐다.여야가 특정 현안을 두고 거세게 충돌하거나 정부의 즉각적인 정책 전환을 끌어낸 장면은 많지 않았다. 제약·의료 현장의 규제 공백과 제도 설계의 미비점을 짚고, 정부가 검토·분석·협의를 약속하는 흐름이 이어졌다. 또한 이번",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "[히트뉴스=이현주 기자] 제22대 국회 보건복지위원회의 보건복지부·질병관리청 국정감사 첫날은 제약·바이오와 보건의료 현안의 세부 제도를 점검하는 데 무게가 실렸다",
+    "thumbnail": "https://cdn.hitnews.co.kr/news/thumbnail/202610/79734_108585_1726_v150.jpg",
+    "score": 3.817,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "[히트뉴스] 취재기자 모집… 제약바이오·코스메틱·금융 3개 분야",
+    "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79711",
+    "source": "히트뉴스",
+    "source_type": "rss",
+    "published_at": "2026-10-08T06:02:00+00:00",
+    "raw_excerpt": "[히트뉴스=김민지 기자] 히트미디어/히트뉴스는 제약바이오와 헬스케어 산업의 변화를 함께 기록할 취재기자를 채용한다.모집 분야는 ①제약바이오 ②메디컬 코스메틱·뷰티 ③헬스케어 금융·자본시장 등 3개 분야다.제약바이오는 신입과 경력 기자를 채용한다. 경력직은 관련 분야 경력 2년 이상이 대상이다. 신약개발과 임상시험, 기술수출, 정책 및 시장 동향 등 제약바이오 산업 전반을 취재한다.메디컬 코스메틱·뷰티는 관련 분야 경력 5년 이상인 기자를 채용한다. 병·의원과 약국을 비롯해 더마코스메틱, 기능성 화장품, 미용의료 및 유통시장 등을 취",
+    "topic": "senior_healthtech",
+    "topic_label": "🏥 시니어 헬스케어테크",
+    "summary": "[히트뉴스=김민지 기자] 히트미디어/히트뉴스는 제약바이오와 헬스케어 산업의 변화를 함께 기록할 취재기자를 채용한다.모집 분야는 ①제약바이오 ②메디컬 코스메틱·뷰티",
+    "thumbnail": "https://cdn.hitnews.co.kr/news/thumbnail/202610/79711_108560_2426_v150.jpg",
+    "score": 3.813,
+    "engagement": 0,
+    "matched_keywords": [
+      "헬스케어"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "SynthID Detector",
+    "url": "https://synthid.com/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-07T14:16:44+00:00",
+    "raw_excerpt": "https://blog.google/innovation-and-ai/models-and-research/go... Comments URL: https://news.ycombinator.com/item?id=49993188 Points: 78 # Comments: 67",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "https://blog.google/innovation-and-ai/models-and-research/go... Comments URL: https://news",
+    "thumbnail": "",
+    "score": 3.788,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  }
+]
