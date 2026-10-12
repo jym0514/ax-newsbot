@@ -1,0 +1,821 @@
+[
+  {
+    "title": "게임·배달 기업까지 가세…중국 AI 모델 경쟁, 다시 격화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216174",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-12T17:07:50+00:00",
+    "raw_excerpt": "중국의 AI 모델 경쟁에 게임과 음식 배달 분야의 대기업들까지 가세하고 있다. 기존 빅테크와 AI 전문 스타트업이 경쟁하는 가운데, 자금력과 자체 서비스 기반을 갖춘 기업들이 독자 모델 개발을 확대하며 경쟁 구도가 더 치열해지는 모습이다.디인포메이션은 9일(현지시간) 미호요와 메이투안이 자체 대형언어모델(LLM) 개발을 강화하고 있다고 보도했다. 외부 AI 서비스를 활용하는 데 그치지 않고 핵심 기술을 직접 확보해 기존 사업과 미래 서비스의 경쟁력을 높이겠다는 전략이다.‘원신’ 개발사인 미호요는 향후 수년 안에 중국 최고 수준의 A",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "중국의 AI 모델 경쟁에 게임과 음식 배달 분야의 대기업들까지 가세하고 있다. 기존 빅테크와 AI 전문 스타트업이 경쟁하는 가운데, 자금력과 자체 서비스 기반을",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216174_220188_5424.jpg",
+    "score": 8.459,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "llm"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "미국, 영국의 AI 모델 사전 안전 테스트 허용...트럼프 행정부 입장 번복",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216153",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-12T12:17:14+00:00",
+    "raw_excerpt": "도널드 트럼프 행정부가 영국 정부의 AI 모델 사전 안전성 테스트와 관련해 기존 입장을 번복했다. 오픈AI와 앤트로픽 등 미국 기업들이 AI 모델 정식 출시 전 영국에 최신형 AI 모델을 제공해 안전성 평가를 받을 수 있도록 길을 열어준 것이다.텔레그래프는 11일(현지시간) 미국 AI 개발사들이 트럼프 행정부의 제재 우려 없이 영국 AI 안전 연구 기관에 신형 모델을 사전 제공할 수 있게 됐다고 보도했다.앞서 트럼프 행정부는 오픈AI와 앤트로픽 등 미국 기업에 출시 전 AI 모델을 영국 AI 안전연구소(UK AISI)와 공유하지 말",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "도널드 트럼프 행정부가 영국 정부의 AI 모델 사전 안전성 테스트와 관련해 기존 입장을 번복했다. 오픈AI와 앤트로픽 등 미국 기업들이 AI 모델 정식 출시 전",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216153_220165_517.jpg",
+    "score": 8.065,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "'데이터센터=수익'…IPO 앞둔 앤트로픽이 대규모 인프라에 사활 건 이유",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216168",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-12T17:44:41+00:00",
+    "raw_excerpt": "기업공개(IPO)를 앞두고 대규모 데이터센터 투자로 우려를 사온 앤트로픽이 이에 매달리는 명확한 이유가 있다는 분석이 제기됐다. AI 모델을 운영하는 데 필요한 컴퓨팅 인프라를 일찍 확보할수록 매출을 빠르게 늘릴 수 있기 때문이다. 서버 공급 부족으로 AI 연산 수요가 공급을 웃도는 상황에서 데이터센터 가동 시점을 앞당기는 것만으로도 수십억달러 규모의 추가 수익을 기대할 수 있다는 내용이다.10일(현지시간) 디 인포메이션에 따르면, 앤트로픽이 루이지애나주에 구축 중인 데이터센터가 예정일보다 한 달 일찍 가동되면 13억달러(약 1조7",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "기업공개(IPO)를 앞두고 대규모 데이터센터 투자로 우려를 사온 앤트로픽이 이에 매달리는 명확한 이유가 있다는 분석이 제기됐다. AI 모델을 운영하는 데 필요한",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216168_220187_4111.jpg",
+    "score": 7.534,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "국감서 \"AI 캐릭터 챗봇, 청소년 보호 구멍\" 지적...규제 법제화 급물살 타나",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216164",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-12T17:23:14+00:00",
+    "raw_excerpt": "AI 캐릭터 챗봇의 청소년 유해 콘텐츠 노출 문제가 국정감사에서 제기되며 관련 규제 제도화에 속도가 붙을 전망이다.국회의 잇따른 지적에 관련 서비스 업체들도 필터링 기준 강화, 청소년 보호를 위한 이용정책 수정 등 안전 대책 마련을 서두르고 있다. ■ 국감서도 규제 법제화 촉구...방미통위원장 \"관계 부처와 협의\"12일 열린 국회 과학기술정보방송통신위원회의 방송미디어통신위원회 국정감사에서 이주희 더불어민주당 의원은 스캐터랩의 AI 캐릭터 챗봇 서비스 ‘제타’ 사례를 통해 청소년의 AI 사용시 발생하는 선정성 노출, 과몰입 등 문제를",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "AI 캐릭터 챗봇의 청소년 유해 콘텐츠 노출 문제가 국정감사에서 제기되며 관련 규제 제도화에 속도가 붙을 전망이다.국회의 잇따른 지적에 관련 서비스 업체들도 필터",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216164_220176_2218.jpeg",
+    "score": 7.505,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "\"AI 대신 SI 써라\"...트럼프 압박에 실리콘밸리 굴복",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216161",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-12T17:19:53+00:00",
+    "raw_excerpt": "도널드 트럼프 미국 대통령이 AI를 '초지능(SI)'으로 바꾸려는 캠페인에 실리콘밸리의 주요 빅테크 경영진이 잇달아 동참하고 있다. 연방 정부의 공식 용어를 바꾸라는 행정명령이 나온 가운데, 민간 기업들도 제품명과 공식 발언에서 새 용어를 채택하는 모습이다.마크 베니오프 세일즈포스 CEO는 9일(현지시간) X를 통해 자사의 AI 에이전트 플랫폼 'AI포스(AIForce)'를 'SI포스(SIForce)'로 변경한다고 발표했다. 그는 \"초지능의 시대가 왔다. AI포스는 공식적으로 SI포스가 된다\"고 밝혔다.일론 머스크 CEO도 앞서 '",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "도널드 트럼프 미국 대통령이 AI를 '초지능(SI)'으로 바꾸려는 캠페인에 실리콘밸리의 주요 빅테크 경영진이 잇달아 동참하고 있다. 연방 정부의 공식 용어를 바꾸",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216161_220175_457.jpeg",
+    "score": 7.5,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[게시판] KT '모두의 AI' 연내 출시 앞두고 중간 점검 등 단신",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216172",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-12T17:00:00+00:00",
+    "raw_excerpt": "■ KT(대표 박윤영)는 서울 광화문빌딩에서 컨소시엄 참여사와 '모두의 AI 커넥트 서밋 2026'을 개최했다고 밝혔다. 업스테이지, 리벨리온, 래블업, 베슬AI, 모티프테크놀로지스, NC AI 등 17개 기업이 참석해 12월 정식 출시 예정인 '모두의 AI'의 개발 현황과 고도화 전략을 논의했다. 컨소시엄은 참여사의 AI 기술을 연계해 검색, 교육, 금융, 콘텐츠, 부동산 등에서 통합 AI 경험을 제공할 계획이다.■ 메가존클라우드(대표 염동훈)는 오는 21~24일 대구 엑스코에서 열리는 'FIX 2026'에 참가해 미래 모빌리티와",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "■ KT(대표 박윤영)는 서울 광화문빌딩에서 컨소시엄 참여사와 '모두의 AI 커넥트 서밋 2026'을 개최했다고 밝혔다. 업스테이지, 리벨리온, 래블업, 베슬AI",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216172_220192_3430.jpg",
+    "score": 7.473,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "\"음성 AI, 아직 '챗GPT 모멘트' 오지 않았다\"...기술 과제 지적",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216159",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-12T15:56:40+00:00",
+    "raw_excerpt": "음성 AI가 차세대 인터페이스로 주목받으며 관련 스타트업에 대규모 투자가 이어지고 있지만, 아직 대중적인 전환점을 맞이하지는 못했다는 진단이 나왔다. 대화 속도와 음성 인식 정확도, 감정 표현, 사용자 신뢰 등 해결해야 할 과제가 남아 있다는 분석이다.테크크런치에 따르면, 기업용 음성 AI 플랫폼 폴리AI(PolyAI)의 숀 웬 최고 기술책임자(CTO)와 회의록 작성 전문 오터(Otter)의 알렉스 게이 최고 마케팅책임자(CMO)는 최근 열린 '휴먼X' 컨퍼런스에서 음성 AI 기술의 발전과 한계를 짚었다.웬 CTO는 \"음성 AI는",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "음성 AI가 차세대 인터페이스로 주목받으며 관련 스타트업에 대규모 투자가 이어지고 있지만, 아직 대중적인 전환점을 맞이하지는 못했다는 진단이 나왔다. 대화 속도와",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216159_220174_5232.jpg",
+    "score": 7.387,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "AI가 인간 상담사를 대체하기 어려운 이유...“말로 하는 위로에는 한계”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216165",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-12T15:30:58+00:00",
+    "raw_excerpt": "정신 건강 상담에 AI 챗봇을 활용하는 사람이 늘고 있지만, 챗봇이 인간 상담사를 대체하기는 어렵다는 지적이 나왔다. 언어로 구성된 설명과 위로만으로는 복잡한 감정을 충분히 다루거나, 실제 인간관계에서 이뤄지는 깊은 성찰과 치유를 이끌어내기 어렵다는 이유다.11일(현지시간) 파이낸셜타임스(FT)는 칼럼을 통해 AI 상담이 제공하는 즉각적인 위안과 인간관계에서 얻는 치유 사이에 차이가 있다고 지적했다. 챗봇이 생각을 정리하고 마음을 진정시키는 데 도움을 줄 수는 있지만, 사람과 관계를 맺고 감정을 주고받는 경험까지 대신하기는 어렵다는",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "정신 건강 상담에 AI 챗봇을 활용하는 사람이 늘고 있지만, 챗봇이 인간 상담사를 대체하기는 어렵다는 지적이 나왔다. 언어로 구성된 설명과 위로만으로는 복잡한 감",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216165_220179_2617.png",
+    "score": 7.353,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "네이버지도, AI 안경 연동 길안내 서비스 개시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216157",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-12T15:00:35+00:00",
+    "raw_excerpt": "안경에 말을 걸면 길을 알려주는 AI 비서가 국내 지도 서비스에도 첫선을 보인다.네이버(대표 최수연)는 국내 지도 서비스 중 최초로 네이버지도의 길안내 기능을 AI 글래스로 확장한다고 12일 밝혔다.메타의 '레이밴 메타'와 '오클리 메타'에 탑재되며, 연내 출시 예정인 구글·삼성의 '인텔리전트 아이웨어'에도 적용된다. 안드로이드에서 우선 지원하고 iOS로 순차 확대할 예정이다.이용자는 스마트폰 화면을 확인하지 않고도 AI 글래스로 음성 길안내를 받을 수 있다. 이동 방향과 계단·에스컬레이터 유무 등 경로 정보도 함께 제공된다.전용",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "안경에 말을 걸면 길을 알려주는 AI 비서가 국내 지도 서비스에도 첫선을 보인다.네이버(대표 최수연)는 국내 지도 서비스 중 최초로 네이버지도의 길안내 기능을 A",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216157_220171_4952.png",
+    "score": 7.312,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[식음료 소식] KT&Gㆍ빙그레",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=49649",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-12T17:51:54+00:00",
+    "raw_excerpt": "◇ KT G, 상상스타트업캠프 성과공유회…청년 창업팀 10곳 참여KT G는 지난 8일 서울 성수동 KT G 상상플래닛에서 청년 창업가 육성 프로그램 ‘상상스타트업캠프 10기’ 성과공유회를 개최했다고 12일 밝혔다.지난 6월 선발된 10개 팀은 약 4개월간 전문가 멘토링과 역량교육을 거쳐 마련한 사업 모델과 성과를 벤처투자자들에게 발표했다. 전문가 평가에서 우수팀으로 선정된 상위 3개 팀에는 일대일 맞춤형 투자유치 전략자문이 제공됐다.올해 프로그램 출범 10주년을 맞아 그간의 활동을 돌아보고 향후 청년 창업 지원 방향도 논의했다.KT",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "◇ KT G, 상상스타트업캠프 성과공유회…청년 창업팀 10곳 참여KT G는 지난 8일 서울 성수동 KT G 상상플래닛에서 청년 창업가 육성 프로그램 ‘상상스타트업",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202610/49649_48615_4033_v150.jpg",
+    "score": 7.247,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업",
+      "벤처",
+      "투자유치",
+      "창업"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "여수 소호동동다리서 16~17일 ‘달빛 테라스’…밤바다 공연",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216154",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-12T13:17:12+00:00",
+    "raw_excerpt": "AI 생성 영상여수 소호동동다리에서 밤바다와 공연을 함께 즐기는 야간관광 프로그램이 열린다.여수는 오는 10월16일부터 17일까지 소호동동다리 광장에서 ‘소호 달빛 테라스’를 운영한다고 12일 밝혔다.이번 행사는 소호 해안의 야간경관을 배경으로 버스킹과 창작뮤지컬, 체험 프로그램 등을 선보이는 방식으로 진행된다.행사장에서는 오후 6시부터 웰컴음료 제공과 체험 프로그램 등 부대행사를 운영한다. 오후 7시에는 버스킹 공연이 시작되며 오후 7시45분부터 45분 동안 창작뮤지컬 ‘다시 여기 밤바다’가 무대에 오른다. 뮤지컬은 사전예약과 현",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AI 생성 영상여수 소호동동다리에서 밤바다와 공연을 함께 즐기는 야간관광 프로그램이 열린다.여수는 오는 10월16일부터 17일까지 소호동동다리 광장에서 ‘소호 달",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216154_220166_5947.jpg",
+    "score": 7.172,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "목포, 12~16일 은행나무 열매 집중 채취…악취·보행 불편 줄인다",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216148",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-12T13:14:18+00:00",
+    "raw_excerpt": "AI 생성 영상목포시가 가을철 은행나무 열매 낙과로 인한 악취와 보행 불편을 줄이기 위해 주요 생활권을 중심으로 열매 채취에 나선다.목포는 10월12일부터 16일까지 은행나무 열매 채취공사를 추진한다고 밝혔다.현재 목포에는 은행나무를 포함해 17종 2만여주의 가로수가 식재돼 있다. 이 가운데 은행나무는 3760주이며, 열매가 열리는 암그루는 1170주로 전체 은행나무의 약 30%를 차지한다.목포는 은행나무 열매가 본격적으로 익어 떨어지는 시기에 맞춰 상가와 주택가 등 시민 이용이 많은 생활권을 중심으로 열매를 집중 채취할 계획이다.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AI 생성 영상목포시가 가을철 은행나무 열매 낙과로 인한 악취와 보행 불편을 줄이기 위해 주요 생활권을 중심으로 열매 채취에 나선다.목포는 10월12일부터 16일",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216148_220162_1256.jpg",
+    "score": 7.168,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "일레븐랩스, 기업가치 220억 달러 인정...AI 음성 에이전트 수요 확대",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21695",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-10-12T17:06:57+00:00",
+    "raw_excerpt": "일레븐랩스는 3억 달러 규모의 임직원 공개매수를 마무리했다고 12일 밝혔다. 이번 거래에서 평가된 기업가치는 220억 달러로, 지난 2월 시리즈D 투자 당시의 110억달러보다 두 배 높아졌다. 웰링턴 매니지먼트와 T. 로우 프라이스가 거래를 주도했다. 이번 공개매수는 임직원 등이 보유한 기존 주식을 투자자에게 매각하도록 한 거래다. 회사가 신규 자금을 직접 조달하는 일반적인 투자 유치와는 구분된다. 성장을 이끈 핵심 사업은 대화형 AI 에이전트 플랫폼 ‘일레븐에이전트’다. 기업이 보유한 지식과 시스템을 연동해 고객 문의를 처리하고,",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "일레븐랩스는 3억 달러 규모의 임직원 공개매수를 마무리했다고 12일 밝혔다. 이번 거래에서 평가된 기업가치는 220억 달러로, 지난 2월 시리즈D 투자 당시의 1",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202610/21695_22462_133.jpg",
+    "score": 7.156,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "EU, 태양광 사이버보안 강화 논의…고위험 공급업체 제한 권고",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216140",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-12T11:30:00+00:00",
+    "raw_excerpt": "유럽연합(EU) 에너지 분야 전문가들이 사이버보안 위험이 높은 공급업체의 태양광 부품과 소프트웨어 사용을 제한할 것을 권고했다. 소형 플러그인 태양광부터 주택용, 상업·산업용, 대규모 발전소까지 전체 태양광 시장을 대상으로 공급망 보안을 강화하자는 내용이다.EU 집행위원회 산하 스마트에너지전문가그룹(SEEG) 사이버보안 작업반은 ‘태양광 발전의 사이버보안 위험 대응 권고’ 보고서에서 이같이 권고했다. 보고서는 2025~2026년 전문가 논의를 토대로 작성됐으며, 전문가그룹의 합의 결과로 EU 집행위원회의 공식 입장을 의미하지는 않는",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "유럽연합(EU) 에너지 분야 전문가들이 사이버보안 위험이 높은 공급업체의 태양광 부품과 소프트웨어 사용을 제한할 것을 권고했다. 소형 플러그인 태양광부터 주택용,",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216140_220155_4237.jpg",
+    "score": 7.026,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "지슨, 보안 수혜주 부상… 망분리로 못 막는 무선백도어로 시선",
+    "url": "https://zdnet.co.kr/view/?no=20261012141837",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-10-12T05:18:37+00:00",
+    "raw_excerpt": "[지디넷코리아]인터넷을 끊어도 전파로 새는 ‘무선백도어’…망분리 강화해도 남는 마지막 빈틈5대 은행 모두 도입, 상반기 관련 매출 약 7배…미국·영국 등 5개국 수출탄탄한 기술력과 실적 뒷받침되며 최근 20거래일간 주가 18% 이상 상승세 기록금융권에서 개인정보 유출 사고가 잇따르고 있다. 공격에 AI까지 악용되면서 보안의 빈틈을 줄이는 일이 금융권의 과제로 떠올랐다. 이런 가운데 코스닥 상장사 지슨이 ‘AI 해킹 시대의 보안 수혜주’중 한 곳으로 부상했다. 지슨 주가는 지난 9월 7일 종가 3010원에서 10월 7일 3555원으로 한 달간 약 18.1% 상승했다. 최근 20거래일간 주가 18% 이상 상승세를 기록했다. 지슨은 망분리를 강화해도 남는 마지막 빈틈인 ‘무선백도어’를 잡아내는 탐지 시스템을 국내 5대 은행에 모두 공급한 회사다. 증권사 보고서에서 국내 유일의 공급업체로 평가받았다.망분리를 아무리 강화해도 남는 단 하나의 빈틈, ‘무선백도어’AI 해킹에 맞서는 금융권의 대책은 결국 한 방향으로 모인다. 고객 정보와 핵심 시스템이 있는 내부망을 바깥 인터넷과 더 철저히 떼어 놓는 ‘망분리’ 강화다. 금융당국은 AI 활용을 위해 망분리 규제를 일부 풀어 주는 대신, 정보가 새 나가지 않도록 다른 통제 수단을 갖추라고 요구하고 있다. 민감한 정보를 다루는 업무일수록 불필요한 외부 접속을 끊고, 필요한 AI는 아예 내부에 구축해 ",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "[지디넷코리아]인터넷을 끊어도 전파로 새는 ‘무선백도어’…망분리 강화해도 남는 마지막 빈틈5대 은행 모두 도입, 상반기 관련 매출 약 7배…미국·영국 등 5개국",
+    "thumbnail": "https://image.zdnet.co.kr/2026/10/12/2e2c36c51cc7c7d323b2ccc8bcf593a5.jpg",
+    "score": 6.541,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "해킹",
+      "규제",
+      "개인정보"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "서틱, 브랜드 개편…디지털자산 신뢰 인프라 강화",
+    "url": "https://www.blockmedia.co.kr/archives/1150349?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-10-12T08:05:29+00:00",
+    "raw_excerpt": "[블록미디어 황효준 에디터] 블록체인 보안 기업 서틱(CertiK)이 브랜드 개편을 발표하고 디지털 경제 전반으로 사업 영역을 확대한다. 기존 웹3(Web3) 보안 사업에서 나아가 금융기관과 규제 당국을 대상으로 보안 및 리스크 관리 서비스를 강화한다는 전략이다. 서틱은 지난 7일(현지시각) 싱가포르에서 열린 토큰2049(TOKEN2049) 행사에서 새로운 브랜드 비전인 ‘디지털 가치의 신뢰 계층(The Trust Layer for Digital Value)’을 공개했다. 제이슨 장(Jason Jiang) [...]",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[블록미디어 황효준 에디터] 블록체인 보안 기업 서틱(CertiK)이 브랜드 개편을 발표하고 디지털 경제 전반으로 사업 영역을 확대한다. 기존 웹3(Web3) 보",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/10/20261012-134214.jpg",
+    "score": 6.023,
+    "engagement": 0,
+    "matched_keywords": [
+      "블록체인",
+      "web3",
+      "웹3"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "집단지능을 통한 재귀적 자기개선",
+    "url": "https://news.hada.io/topic?id=35231",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-10-12T07:34:42+00:00",
+    "raw_excerpt": "MASS(Multi-Agent Self-Supervision) 는 같은 모델이 작업 실행자, 워크플로 최적화기, 평가자를 맡아 팀의 협업 방식을 개선하고, 선별한 팀 실행 기록으로 자신을 다시 학습하는 재귀적 자기개선 방식임 내부 루프 에서는 모델 가중치를 고정한 채 에이전트 간 역...",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "MASS(Multi-Agent Self-Supervision) 는 같은 모델이 작업 실행자, 워크플로 최적화기, 평가자를 맡아 팀의 협업 방식을 개선하고, 선별한",
+    "thumbnail": "https://social.news.hada.io/topic/35231?v=cbca0d92e1b31ddba7e8df488ebe53a5",
+    "score": 5.91,
+    "engagement": 0,
+    "matched_keywords": [
+      "multi-agent",
+      "에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "中 휴머노이드 톱10 중 8곳, 韓 진출 채비…KC·상표·판매망 확보",
+    "url": "https://www.etnews.com/20261012000274",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-10-12T07:00:00+00:00",
+    "raw_excerpt": "중국 휴머노이드 판매 상위 10개 기업 중 8곳이 한국에서 인증·상표·판매처를 1개 이상 확보한 것으로 나타났다. 초기 단계인 국내 휴머노이드 시장에서 중국 업체들이 제품 인증과 브랜드 권리, 유통망을 선제적으로 확보하려는 움직임이 빨라졌다. 12일 산업 분석 보고서 '랩스딥리포트'에 따르면 중국 주요 휴머노이드 로봇 기업이 국내에서 KC 전파인증과 상표권, 판매 채널을 잇따라 확보하며 한국 시장 진입을 타진하고 있다. 세계 시장 출하 기준 상",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "중국 휴머노이드 판매 상위 10개 기업 중 8곳이 한국에서 인증·상표·판매처를 1개 이상 확보한 것으로 나타났다. 초기 단계인 국내 휴머노이드 시장에서 중국 업체",
+    "thumbnail": "https://img.etnews.com/news/article/2026/10/12/news-p.v1.20261012.fb304b3a390248f7ba04adec206e0180_P1.jpg",
+    "score": 5.874,
+    "engagement": 0,
+    "matched_keywords": [
+      "휴머노이드",
+      "휴머노이드 로봇"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "스텔란티스 CEO, 유럽 생산 완성차에 인센티브 촉구",
+    "url": "https://www.tokenpost.kr/news/policy/421385",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-10-12T08:49:49+00:00",
+    "raw_excerpt": "스텔란티스($STLA) 최고경영자(CEO) 안토니오 필로사(Antonio Filosa)가 중국 자동차 업체와의 경쟁이 거세지는 가운데 유럽에서 차량을 생산하는 완성차 업체에 인센티브를 제공해야 한다고 촉구했다. 필로사는 파리모터쇼 개막을 앞두고 CNBC와 인터뷰에서 유럽 내 자동차 설계·엔지니어링·생산을 장려하고 보호하는 규제가 필요하다고 말했다. EU 집행위원회가 마련 중인 ‘메이드 인 유럽’ 입법안은 역내 판매 차량에 최소 현지 부품·생산 요건을 두는 방안을 담고 있다. 중국 브랜드의 유럽 시장 점유율은 빠르게 커졌다. CNBC는 독일 데이터 업체 데이터포스 집계를 인용해 유럽 자동차 시장에서 중국 브랜드가 차지하는 비중이 2020년... 더보기",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "스텔란티스($STLA) 최고경영자(CEO) 안토니오 필로사(Antonio Filosa)가 중국 자동차 업체와의 경쟁이 거세지는 가운데 유럽에서 차량을 생산하는 완",
+    "thumbnail": "https://f1.tokenpost.kr/2026/10/7qnfo5pezq.jpg",
+    "score": 5.39,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제",
+      "법안",
+      "입법"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "스테이블코인 법 부재에 실증만 반복하는 韓…기업·시장 모두 해외에 뺏길 판",
+    "url": "https://www.blockmedia.co.kr/archives/1150386?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-10-12T08:01:28+00:00",
+    "raw_excerpt": "[블록미디어 오수환 기자] 국내 금융·결제 기업들이 스테이블코인 결제·송금 기술을 잇달아 검증했지만, 관련 입법이 지연되면서 상용화에는 속도를 내지 못하고 있다. 해외에서는 실제 서비스 출시와 유통망 확보가 본격화하면서 국내 기업들이 기술력을 갖추고도 사업 기회를 놓칠 수 있다는 우려가 나온다. 12일 업계에 따르면 삼성전자 미국법인은 지난 7일 삼성월렛에 스테이블코인 송금 기능을 도입한다고 발표했다. 미국 갤럭시 이용자를 대상으로 이달 [...]",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "[블록미디어 오수환 기자] 국내 금융·결제 기업들이 스테이블코인 결제·송금 기술을 잇달아 검증했지만, 관련 입법이 지연되면서 상용화에는 속도를 내지 못하고 있다.",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/10/20261012-151622.png",
+    "score": 5.344,
+    "engagement": 0,
+    "matched_keywords": [
+      "입법",
+      "스테이블코인"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "클래리티 법안 심의 동의안 부결…스미스 “규칙 변경엔 절차 필요”",
+    "url": "https://www.tokenpost.kr/news/policy/421314",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-10-12T05:53:54+00:00",
+    "raw_excerpt": "미국 규제기관이 가상자산 규칙을 확정하면 이를 바꾸는 데 다시 절차를 밟아야 하고, 업계 운영 기준으로 자리 잡은 뒤에는 변경 과정에서 혼란이 생길 수 있다. 크리스틴 스미스(Kristin Smith) 솔라나 정책연구소(Solana Policy Institute) 회장은 규칙 변경의 부담을 지적하면서도 의회 입법이 더 지속적인 법적 기반을 제공한다고 말했다. 스미스 회장은 10월 6일 블룸버그 인터뷰에서 증권거래위원회(SEC)와 상품선물거래위원회(CFTC)의 규칙 제정에 수개월에서 수년이 걸릴 수 있다고 설명했다. 확정된 규칙을 바꾸려면 절차를 다시 밟아야 한다는 취지다. 발언의 배경에는 시장구조 법안의 의회 논의가 막힌 상황이 있다. 미 상원은... 더보기",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "미국 규제기관이 가상자산 규칙을 확정하면 이를 바꾸는 데 다시 절차를 밟아야 하고, 업계 운영 기준으로 자리 잡은 뒤에는 변경 과정에서 혼란이 생길 수 있다. 크",
+    "thumbnail": "https://f1.tokenpost.kr/2026/10/93ual494xf.jpg",
+    "score": 5.244,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제",
+      "법안",
+      "입법"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[주간 리포트] 국회로 간 해킹 사고들",
+    "url": "https://byline.network/2026/10/12-643/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-10-12T00:39:43+00:00",
+    "raw_excerpt": "바이라인네트워크는 매일 생산해내는 기사와는 별도로 주간 트렌드 리포트를 발간하고 있습니다. IT 산업에서 한 주간 전해진 소식 가운데 기업 경영자, IT 종사자들이라면 놓치지 말아야 하는 내용을 큐레이션해, 전문기자들의 관점을 담은 콘텐츠로 제공합니다. 이 서비스 받아보시려면 별도로 가입(구독) 신청하셔야 합니다.(메일 하단 참고) 이번 호 딥다이브에서는 ‘국회로 간 해킹 사고들’을 다뤘습니다. 지난 한 주 동안 놓치지 말았어야 할 국내외 IT 이슈들이 무엇이 있었는지 ▲전기·전자 ▲인터넷·콘텐츠·게임 ▲커머스 물류 ▲디지털 금융 ▲인공지능 ▲엔터프라이즈 IT 등 분야별 핫토픽과 옐로스토리, 딥다이브에서 확인하세요.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "바이라인네트워크는 매일 생산해내는 기사와는 별도로 주간 트렌드 리포트를 발간하고 있습니다. IT 산업에서 한 주간 전해진 소식 가운데 기업 경영자, IT 종사자들",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/10/IT1111.jpg",
+    "score": 5.2,
+    "engagement": 0,
+    "matched_keywords": [
+      "해킹"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "현대제철, H형강 통합 브랜드 ‘H ONE’ 론칭…고부가 건축시장 공략",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=49644",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-12T16:53:18+00:00",
+    "raw_excerpt": "[스마트타임스] 현대제철이 압연 H형강(RH)과 용접 H형강(BH)을 아우르는 통합 브랜드 ‘H ONE’을 론칭하고 고부가 건축시장 공략에 나섰다.현대제철은 최근 경기도 성남시 판교테크원 타운홀에서 건설사·유통사·철골제작사 등 주요 고객사와 구조설계사, 학·협회 관계자 등이 참석한 가운데 브랜드 론칭 행사를 열었다고 12일 밝혔다.이번 브랜드 출범은 인공지능 데이터센터(AIDC), 반도체 팹, 초고층 건축물, 대형 물류센터 등의 다양한 설계 조건에 대응하기 위한 것이다. 기존 RH 중심의 사업을 BH까지 확대해 표준 규격부터 프로젝",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "[스마트타임스] 현대제철이 압연 H형강(RH)과 용접 H형강(BH)을 아우르는 통합 브랜드 ‘H ONE’을 론칭하고 고부가 건축시장 공략에 나섰다.현대제철은 최근",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202610/49644_48610_733_v150.jpg",
+    "score": 5.168,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "삼성전자 호실적도 못 막은 매도세…코스피 3.65% 급락, 6400선 붕괴",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=49645",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-12T16:50:17+00:00",
+    "raw_excerpt": "[스마트타임스]삼성전자의 역대급 실적 발표에도 외국인의 대규모 매도세가 이어지면서 코스피가 두 달 만에 6,300대로 내려앉았다. 반도체 대형주가 동반 급락한 가운데 코스닥도 5% 가까이 하락했다.12일 한국거래소에 따르면 코스피는 전 거래일보다 241.69포인트(3.65%) 내린 6,384.24에 거래를 마쳤다. 지난달 2일(-3.99%) 이후 가장 큰 하락률이다. 종가 기준 6,300대를 기록한 것은 지난 8월 11일(6,345.53) 이후 약 두 달 만이다.이날 코스피는 47.76포인트(0.72%) 하락한 6,578.17로 출",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "[스마트타임스]삼성전자의 역대급 실적 발표에도 외국인의 대규모 매도세가 이어지면서 코스피가 두 달 만에 6,300대로 내려앉았다. 반도체 대형주가 동반 급락한 가",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202610/49645_48611_4833_v150.jpg",
+    "score": 5.165,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "국가 사이버안보 맡겨놨더니…근무 중 단체로 '스타크래프트' 90시간",
+    "url": "https://www.etnews.com/20261012000308",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-10-12T06:48:13+00:00",
+    "raw_excerpt": "국가 사이버안보를 담당하는 정부출연연구기관 직원들이 근무시간에 업무용 PC 등으로 온라인 게임에 반복 접속했다가 적발됐다. 일부 직원은 접속이 차단된 뒤에도 다른 내부망을 이용해 게임 서버에 다시 접속한 것으로 드러났다. 12일 국회 과학기술정보방송통신위원회 소속 황정아 더불어민주당 의원이 국가보안기술연구소(국보연)에서 제출받은 자료에 따르면 사이버안보훈련센터 직원 5명은 2024년 9~12월 근무시간에 스타크래프트 게임 서버인 '배틀넷'에 반",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "국가 사이버안보를 담당하는 정부출연연구기관 직원들이 근무시간에 업무용 PC 등으로 온라인 게임에 반복 접속했다가 적발됐다. 일부 직원은 접속이 차단된 뒤에도 다른",
+    "thumbnail": "https://img.etnews.com/news/article/2026/10/12/news-p.v1.20261012.fad7cce842ac46c8a89d364caaf24e4f_P1.png",
+    "score": 5.111,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "국세청, 구글코리아 1540억원대 법인세 취소소송에서 패소",
+    "url": "https://www.etnews.com/20261012000299",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-10-12T06:31:52+00:00",
+    "raw_excerpt": "구글코리아가 1540억원대 법인세 부과에 불복해 낸 소송에서 과세당국이 최종 패소, 과세 처분이 취소된다. 구글은 1조 5000억원이 넘는 수익을 국내 광고 판매로 올렸지만 이는 구글코리아가 아니라 구글아시아퍼시픽의 사업소득이라는 구글의 주장을 대법원이 받아들인 것이다. 해외 빅테크의 사업소득에 과세하려면 국내 고정사업장이 있어야 하는 현행 조세 체계를 두고 디지털 기업의 조세회피를 막기 위한 제도 개선이 필요하다는 목소리가 커지고 있다. 12",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "구글코리아가 1540억원대 법인세 부과에 불복해 낸 소송에서 과세당국이 최종 패소, 과세 처분이 취소된다. 구글은 1조 5000억원이 넘는 수익을 국내 광고 판매",
+    "thumbnail": "https://img.etnews.com/news/article/2026/10/07/news-p.v1.20261007.cbae19b1390142f99788a40cf1e516e6_P1.png",
+    "score": 5.094,
+    "engagement": 0,
+    "matched_keywords": [
+      "빅테크"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[2026 국감]호남 반도체, 전력망 비용은 기업 몫?…한전은 20%만 부담",
+    "url": "https://www.etnews.com/20261012000283",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-10-12T06:04:25+00:00",
+    "raw_excerpt": "호남 반도체 클러스터 1단계 전력 공급을 위한 재원 중 80%를 삼성전자와 SK하이닉스가 부담하는 것으로 나타났다. 한국전력은 나머지 20%만 담당한다. 앞서 한전이 두 기업에 25조원 규모 전기요금 선납을 요청했다 거절당했던 것에 대해선 부채 해소를 위한 방안이었다고 해명했다. 전기요금 인상 필요성도 강조했다. 김동철 한전 사장은 12일 국회 산업통상자원중소벤처기업위원회 국정감사에서 출석해 김도읍 국민의힘 의원의 송전설비 예산 관련 질의에 “",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "호남 반도체 클러스터 1단계 전력 공급을 위한 재원 중 80%를 삼성전자와 SK하이닉스가 부담하는 것으로 나타났다. 한국전력은 나머지 20%만 담당한다. 앞서 한",
+    "thumbnail": "https://img.etnews.com/news/article/2026/10/12/rcv.YNA.20261012.PYH2026101206440001300_P1.jpg",
+    "score": 5.066,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "질소가스 공급난에 정부 중재 나서…제조 4사·반도체 대기업과 수급 조정 논의",
+    "url": "https://www.etnews.com/20261012000281",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-10-12T06:02:22+00:00",
+    "raw_excerpt": "반도체 산업 호황으로 촉발된 산업용 질소가스 공급난이 장기화하면서 정부가 가스 제조사와 반도체 대기업을 대상으로 수급 조정에 나선다. 중소기업 옴부즈만의 중재로 산업통상부와 중소 가스충전업계 간 협의가 시작된 데 이어 이달 중 주요 가스 제조사 4곳과 대기업 수요처까지 논의를 확대한다. 산업부가 민관 합동 비상수급협의체 구성도 긍정적으로 검토하면서 연내 출범 가능성도 제기된다. 12일 중소기업 옴부즈만과 한국고압가스공업협동조합연합회 등에 따르면",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "반도체 산업 호황으로 촉발된 산업용 질소가스 공급난이 장기화하면서 정부가 가스 제조사와 반도체 대기업을 대상으로 수급 조정에 나선다. 중소기업 옴부즈만의 중재로",
+    "thumbnail": "https://img.etnews.com/news/article/2026/08/11/news-p.v1.20260811.cddca27dcf3840a1b31b95d840f24dcd_P1.png",
+    "score": 5.064,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "김정관, 5극3특 현장 행보…서남권 800조 반도체 '속도전'",
+    "url": "https://www.etnews.com/20261012000161",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-10-12T06:00:00+00:00",
+    "raw_excerpt": "정부가 800조원대 반도체 클러스터와 조선업 제조 혁신 중심지인 서남권을 '5극3특' 첫 현장 행보지로 낙점하고, 지역 성장엔진 육성 속도전에 돌입했다. 김정관 산업통상부 장관은 '5극3특 권역별 현장행보' 첫 일정으로 12일 광주 군공항과 HD현대삼호 영암조선소를 차례로 방문해 대규모 민간 투자를 뒷받침할 핵심 인프라 조성 계획을 점검했다. 첫 현장 점검은 서남권 반도체 산업단지 후보지인 광주 군공항에서 이뤄졌다. 이 사업은 서남권을 재생에너",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "정부가 800조원대 반도체 클러스터와 조선업 제조 혁신 중심지인 서남권을 '5극3특' 첫 현장 행보지로 낙점하고, 지역 성장엔진 육성 속도전에 돌입했다. 김정관",
+    "thumbnail": "https://img.etnews.com/news/article/2026/10/12/news-p.v1.20261012.5104da0d540c4684bb6575cce5b9a641_P1.jpg",
+    "score": 5.061,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "반도체 1조달러 이후 시대 전망…세미콘 웨스트 2026 '첨단 패키징·이종집적' 방점",
+    "url": "https://www.etnews.com/20261012000248",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-10-12T05:19:08+00:00",
+    "raw_excerpt": "반도체 산업이 연매출 1조달러를 돌파한 후 열리는 첫 '세미콘 웨스트(SEMICON West)' 행사가 오는 13일(현지시간)부터 미국 샌프란시스코 모스콘센터에서 개최된다. 주최 측 국제반도체장비재료협회(SEMI)는 이번 행사를 1조달러 돌파를 기념하고 2조달러 시대로의 투자·기술 과제를 점검하는 자리로 규정했다. 테마는 '트랜스폼 투모로우(Transform Tomorrow)'다. 세계반도체무역통계(WSTS)에 따르면 2026년 8월에 연초부터",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "반도체 산업이 연매출 1조달러를 돌파한 후 열리는 첫 '세미콘 웨스트(SEMICON West)' 행사가 오는 13일(현지시간)부터 미국 샌프란시스코 모스콘센터에서",
+    "thumbnail": "https://img.etnews.com/news/article/2026/10/12/news-p.v1.20261012.7ce8c9a79c4a41a1bc71f6cfbe84242b_P1.jpg",
+    "score": 5.019,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "“공공기관 10곳 중 8곳, 동의 없이 개인정보 수집”",
+    "url": "https://www.etnews.com/20261012000239",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-10-12T05:17:06+00:00",
+    "raw_excerpt": "공공기관이 온라인 설문조사에 외부 플랫폼을 광범위하게 활용하고 있지만 개인정보 수집 동의 절차는 충분히 갖추지 못한 것으로 나타났다. 외부 플랫폼을 이용할 때 개인정보 수집 근거와 위탁·국외이전 여부, 설문 종료 후 데이터 파기까지 전 과정에 대한 관리가 필요하다는 지적이 나온다. 장보윤 개인정보보호진흥원 고문변호사는 최근 진행된 '2026 개인정보보호 실무 웨비나'를 통해 “자체 설문을 실시한 공공기관의 대다수가 구글 폼과 같은 외부 플랫폼을",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "공공기관이 온라인 설문조사에 외부 플랫폼을 광범위하게 활용하고 있지만 개인정보 수집 동의 절차는 충분히 갖추지 못한 것으로 나타났다. 외부 플랫폼을 이용할 때 개",
+    "thumbnail": "https://img.etnews.com/news/article/2026/10/01/news-p.v1.20261001.681e6ee2a8ca424fbefeaecb5b4f7e37_P1.png",
+    "score": 5.016,
+    "engagement": 0,
+    "matched_keywords": [
+      "개인정보"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "서틱, 금융기관·규제 당국 보안 관리로 사업 확대",
+    "url": "https://www.tokenpost.kr/news/blockchain/421377",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-10-12T08:36:46+00:00",
+    "raw_excerpt": "서틱(CertiK)이 스마트컨트랙트 감사에서 금융기관과 규제 당국을 대상으로 한 보안·위험 관리로 사업 범위를 넓힌다. 회사는 ‘디지털 가치의 신뢰 계층’을 새 브랜드 비전으로 내걸었다. 서틱은 10월 7일 싱가포르에서 열린 토큰2049(TOKEN2049)에서 브랜드 개편을 발표했다. 제이슨 장(Jason Jiang) 서틱 최고사업책임자(CBO)는 “디지털자산 서비스를 제공하는 기관과 이를 감독하는 규제 당국은 보안과 컴플라이언스 관리를 통합하고 리스크 현황을 명확하게 파악할 수 있어야 한다”고 말했다. 이번 개편은 기존 웹3 보안 사업을 금융기관과 규제 당국, 기업 대상 보안·위험 관리로 확장하는 데 초점을 맞췄다. 서틱은 실시간 보안... 더보기",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "서틱(CertiK)이 스마트컨트랙트 감사에서 금융기관과 규제 당국을 대상으로 한 보안·위험 관리로 사업 범위를 넓힌다. 회사는 ‘디지털 가치의 신뢰 계층’을 새",
+    "thumbnail": "https://f1.tokenpost.kr/2026/10/0gha0ndtco.jpg",
+    "score": 4.78,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "규제"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "이준석 “프로젝트 한강, 지갑 특정되면 거래내역 추적”…신현송 “당사자만 열람”",
+    "url": "https://www.blockmedia.co.kr/archives/1150426?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-10-12T07:38:39+00:00",
+    "raw_excerpt": "[블록미디어 오수환 기자] 한국은행이 추진하는 디지털화폐 실험에서 개인의 금융거래 내역이 다른 은행에 노출될 수 있다는 우려가 국회에서 제기됐다. 여러 은행이 동일한 블록체인 원장에 참여하는 만큼 특정 이용자의 지갑 주소가 확인되면 거래내역을 추적할 수 있다는 지적이다. 한국은행은 거래 당사자가 아닌 금융기관은 관련 정보에 접근할 수 없다며 개인정보 유출 가능성에 선을 그었다. 이준석 개혁신당 의원은 12일 한국은행에서 [...]",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[블록미디어 오수환 기자] 한국은행이 추진하는 디지털화폐 실험에서 개인의 금융거래 내역이 다른 은행에 노출될 수 있다는 우려가 국회에서 제기됐다. 여러 은행이 동",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/10/20261012-161342-scaled.png",
+    "score": 4.648,
+    "engagement": 0,
+    "matched_keywords": [
+      "블록체인"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "저스틴 선 “트론, 양자컴퓨터 위협 대비”…메인넷 적용 시점은 미정",
+    "url": "https://www.blockmedia.co.kr/archives/1150398?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-10-12T06:53:53+00:00",
+    "raw_excerpt": "[블록미디어 명정선 기자] 트론이 양자컴퓨터의 암호 해독 위협에 대비하기 위해 양자내성 암호 기술을 시험망에 도입했다. 양자컴퓨팅 기술 발전으로 기존 블록체인 보안체계가 위협받을 가능성이 제기되자 실제 서비스망에 적용하기에 앞서 새로운 전자서명 기술의 안정성을 검증하는 작업에 나선 것이다. 저스틴 선 트론 창업자는 11일(현지시각) 엑스(X)를 통해 트론의 포스트퀀텀(양자내성) 암호 기술이 테스트넷에서 가동되고 있다고 밝혔다. 그는 개발팀이 양자컴퓨팅과 인공지능(AI)의 [...]",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "[블록미디어 명정선 기자] 트론이 양자컴퓨터의 암호 해독 위협에 대비하기 위해 양자내성 암호 기술을 시험망에 도입했다. 양자컴퓨팅 기술 발전으로 기존 블록체인 보",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/09/reuters-rc2v6naxu8au.jpg",
+    "score": 4.606,
+    "engagement": 0,
+    "matched_keywords": [
+      "양자"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "스타크넷, 4주 새 328% 폭등…‘이더리움 독립’ 기대에 거래량 11배 급증",
+    "url": "https://www.blockmedia.co.kr/archives/1150333?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-10-12T05:00:04+00:00",
+    "raw_excerpt": "[블록미디어 양원모 기자] 스타크넷(STRK)이 레이어1 블록체인으로 독립 전환을 추진하면서 300% 이상 폭등했다. 다만 단기 급등에 따른 차익실현 가능성과 대규모 토큰 잠금해제가 새로운 변수로 떠올랐다. 12일 디지털자산 시세 플랫폼 차트익스체인지에 따르면 STRK는 지난달 14일 0.0288달러에서 지난 11일 0.1232달러로 4주 만에 약 327.8% 상승했다. 현재는 약 0.1102달러(약 147원)선을 유지하고 있다. 거래량도 폭발적으로 증가했다. 지난달 14일 약 1억4231만개였던 [...]",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[블록미디어 양원모 기자] 스타크넷(STRK)이 레이어1 블록체인으로 독립 전환을 추진하면서 300% 이상 폭등했다. 다만 단기 급등에 따른 차익실현 가능성과 대",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/10/20261012-130005-scaled.jpg",
+    "score": 4.499,
+    "engagement": 0,
+    "matched_keywords": [
+      "블록체인"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "안유성 셰프 요리 보고 김치도 만든다…'NS푸드페스타' 16일 개막",
+    "url": "https://zdnet.co.kr/view/?no=20261012121228",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-10-12T03:16:01+00:00",
+    "raw_excerpt": "[지디넷코리아]안유성 셰프의 요리 시연부터 김치 만들기 체험, 방송인 서경석의 음식문화강연까지 다양한 먹거리 프로그램을 즐길 수 있는 식품문화축제가 전북 익산에서 열린다.NS홈쇼핑은 익산시와 공동으로 오는 16일부터 17일까지 이틀간 전북 익산시 함열읍 하림 퍼스트키친 일원에서 'NS푸드페스타 2026 익산'을 개최한다고 12일 밝혔다.NS푸드페스타는 전국 요리경연대회를 중심으로 식품기업과 청년 창업기업, 지역 먹거리를 소개하는 행사다. 올해는 유명 셰프와 방송인이 참여하는 프로그램을 비롯해 관람객이 직접 체험할 수 있는 행사를 마련했다.첫날인 16일 오전 11시에는 대한민국 16대 조리명장 안유성 셰프가 쿠킹쇼를 진행한다. 직접 요리를 시연하며 조리법과 노하우를 소개하고, 행사 후에는 관람객을 대상으로 사진 촬영과 사인회도 연다.같은 날 오후 3시에는 신승주 익산 제1호 김치명인과 함께하는 김치 만들기 체험이 진행된다. 참가자들은 닭가슴살을 활용한 오이소박이 김치를 직접 만들며 지역 식문화를 경험할 수 있다.17일 오전 11시에는 방송인 서경석이 '익산의 음식'을 주제로 강연한다. 익산 지역 음식에 얽힌 이야기를 소개하고 관람객과 소통하는 시간을 가질 예정이다.청년 식품 창업기업을 위한 행사도 열린다. '청년창업페스타'에는 창업기업 14곳이 참여하며 총 28개 부스가 운영된다.참여 기업들은 돈가스와 수육, 소금빵, 익산기차샌드, 과",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "[지디넷코리아]안유성 셰프의 요리 시연부터 김치 만들기 체험, 방송인 서경석의 음식문화강연까지 다양한 먹거리 프로그램을 즐길 수 있는 식품문화축제가 전북 익산에서",
+    "thumbnail": "https://image.zdnet.co.kr/2026/10/12/753ccceee71761a7ce3a83be3a43c7e9.png",
+    "score": 4.401,
+    "engagement": 0,
+    "matched_keywords": [
+      "창업"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "USDD 유통량 18억1000만개·TVL 25억1000만달러 사상 최고",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/421389",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-10-12T08:56:17+00:00",
+    "raw_excerpt": "USDD 유통량이 18억1000만개, 프로토콜 총예치자산(TVL)이 25억1000만달러(약 3조3689억원)를 넘어 각각 사상 최고치를 기록했다. 직전 이정표를 세운 지 나흘 만이다. 오데일리(Odaily)는 12일 공식 발표를 인용해 이같이 전했다. 발표 시각은 이날 오후 5시52분(한국시간)이다. USDD는 여러 블록체인에서 유통되는 달러 연동 스테이블코인이다. 트론(TRX) 네트워크의 USDD 유통량은 13억개를 넘어섰다. 이더리움(ETH)에서는 4억5000만개, BNB 체인에서는 2100만개를 웃돌았다. 오데일리는 세 네트워크에서 유통량이 함께 늘었다고 전했다. 유통량은 시장에 나온 USDD 수량이고, 총예치자산은 프로토콜에 예치된 자산의 가치다. 두 수치가... 더보기",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "USDD 유통량이 18억1000만개, 프로토콜 총예치자산(TVL)이 25억1000만달러(약 3조3689억원)를 넘어 각각 사상 최고치를 기록했다. 직전 이정표를",
+    "thumbnail": "https://f1.tokenpost.kr/2026/10/u4hgzs6pg4.jpg",
+    "score": 4.196,
+    "engagement": 0,
+    "matched_keywords": [
+      "블록체인"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "솔라나 샌드위치 공격 685만건…비용 전 수익 2970만달러",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/421383",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-10-12T08:47:27+00:00",
+    "raw_excerpt": "솔라나(SOL)에서 11개월 동안 샌드위치 공격 685만144건이 탐지됐고, 비용 차감 전 총수익은 2970만달러(약 398억원)로 추정됐다. 탐지된 공격의 96%는 펌프펀(Pump.fun)의 토큰 출시 곡선이나 자체 거래소 펌프스왑에서 발생했다. 블록체인 데이터업체 비트쿼리(Bitquery)는 솔라나 거래를 분석해 이 같은 결과를 내놨다. 공격에 쓰인 지갑은 2545개, 영향을 받은 지갑은 215만4994개였다. 지갑 수는 실제 개인 수를 뜻하지 않는다. 샌드위치 공격은 봇이 이용자의 토큰 교환(스왑) 직전에 먼저 매수해 거래 풀의 가격을 올린 뒤, 이용자의 거래가 체결되면 매도하는 방식이다. 이용자는 거래가 성공해도 예상보다 불리한 가격에 토큰을... 더보기",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "솔라나(SOL)에서 11개월 동안 샌드위치 공격 685만144건이 탐지됐고, 비용 차감 전 총수익은 2970만달러(약 398억원)로 추정됐다. 탐지된 공격의 96",
+    "thumbnail": "https://f1.tokenpost.kr/2026/10/j464omc8vz.jpg",
+    "score": 4.188,
+    "engagement": 0,
+    "matched_keywords": [
+      "블록체인"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "“하드포크도 자산 동결도 없다”… 심버스랩스, 블록체인 ‘양자 무중단 연착륙’ 특허 출원",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/421374",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-10-12T08:35:01+00:00",
+    "raw_excerpt": "글로벌 블록체인 기술 기업 심버스랩스(SymVerse Labs)가 양자컴퓨터 상용화에 대비해 기존 블록체인 서비스를 중단하거나 이용자 자산을 이동하지 않고 양자내성암호(PQC) 체계로 전환할 수 있는 거래 인증 기술 특허를 출원했다고 12일 밝혔다. 이번 특허의 정식 명칭은 복수 전자서명 알고리즘 및 양자내성 전자서명의 단계적 전환과 정책 선택형 공개키 등록을 지원하는 블록체인 거래 인증 방법 및 시스템이다. 기존 컴퓨터보다 수억 배 빠른 양자컴퓨터의 상용화에 선제적으로 대응하고, 서비스 중단이나 자산 유실 없이 디지털 자산을 보호하는 것을 목표로 한다. 최근 블록체인 업계에서는 양자컴퓨터가 기존 타원곡선... 더보기",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "글로벌 블록체인 기술 기업 심버스랩스(SymVerse Labs)가 양자컴퓨터 상용화에 대비해 기존 블록체인 서비스를 중단하거나 이용자 자산을 이동하지 않고 양자내",
+    "thumbnail": "https://f1.tokenpost.kr/2026/10/cocyzfstur.png",
+    "score": 4.178,
+    "engagement": 0,
+    "matched_keywords": [
+      "블록체인"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "에이다 0.2507달러 거래…선물 롱·숏 비율 1.004",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/421369",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-10-12T08:27:28+00:00",
+    "raw_excerpt": "에이다(ADA)가 12일 0.25달러 안팎에서 거래됐다. 선물시장 지표는 롱 포지션 우위를 나타냈지만, 현물 매수세가 가격 회복을 뒷받침하는지는 확인되지 않았다. 코인글래스(Coinglass)는 이날 에이다 가격을 0.2507달러(약 336원)로 집계했다. 코인저널(CoinJournal)이 소개한 기술적 분석은 0.245달러를 가까운 지지선, 0.299달러를 주요 저항선으로 제시했다. 코인글래스가 집계한 에이다 롱·숏 비율은 월요일 1.004였다. 롱 포지션 비중이 숏보다 소폭 높았지만, 중립 기준인 1에서 크게 벗어나지 않았다. 펀딩비는 일요일 양수로 전환한 뒤 월요일 0.0061%까지 올랐다. 무기한 선물에서 펀딩비가 양수면 롱 포지션 보유자가 숏 포지션... 더보기",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "에이다(ADA)가 12일 0.25달러 안팎에서 거래됐다. 선물시장 지표는 롱 포지션 우위를 나타냈지만, 현물 매수세가 가격 회복을 뒷받침하는지는 확인되지 않았다.",
+    "thumbnail": "https://f1.tokenpost.kr/2026/10/lapo74gp22.jpg",
+    "score": 4.172,
+    "engagement": 0,
+    "matched_keywords": [
+      "펀딩"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "evening"
+  }
+]
