@@ -1,0 +1,820 @@
+[
+  {
+    "title": "카르파시가 진단한 AI 활용 격차...\"날카로운 깔때기 형태로 벌어져\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216191",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-13T11:58:00+00:00",
+    "raw_excerpt": "안드레이 카르파시 오픈AI 공동 창립자가 LLM을 둘러싼 사회적 인식과 활용 능력의 격차가 과거의 단순한 의견 차이를 넘어 더 가파르고 날카로운 형태의 깔때기 구조로 벌어지고 있다고 진단했다. 전 세계 인구 중 대다수가 여전히 AI를 단순한 검색 도구나 챗봇 수준으로만 인식하고 있으며, 극소수의 전문가 집단만 최첨단 시스템을 통해 수천개의 에이전트가 협업하는 수준에 도달해 있다는 분석이다.현재 앤트로픽에 재직 중인 카르파시가 12일(현지시간) X를 통해 제시한 수치에 따르면, 전 세계 인구의 75%에 해당하는 60억명가량은 LLM과",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "안드레이 카르파시 오픈AI 공동 창립자가 LLM을 둘러싼 사회적 인식과 활용 능력의 격차가 과거의 단순한 의견 차이를 넘어 더 가파르고 날카로운 형태의 깔때기 구",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216191_220211_4812.png",
+    "score": 9.502,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "llm",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "MS, 자체 AI 칩 대규모 배치 선언...차세대 '마이아 300' 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216182",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-13T11:09:07+00:00",
+    "raw_excerpt": "마이크로소프트(MS)가 자체 개발한 AI 칩 '마이아(Maia)' 제품군을 내년부터 수 기가와트(GW) 규모로 확대 배치한다. 동시에 차세대 칩 '마이아 300(Maia 300)'도 공개하며 엔비디아 GPU에 대한 의존도를 낮추고 급증하는 AI 서비스 운영 비용을 줄이겠다는 뜻을 밝혔다.사티아 나델라 MS CEO는 12일(현지시간) X와 공식 블로그를 통해 자체 실리콘 칩 ‘마이아’에 대한 역대 최대 규모의 투자를 진행한다고 밝혔다. 내년부터 마이아 제품군을 멀티 GW 규모로 배치하고, 자사 제품과 서비스의 주요 추론 시스템으로 활",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "마이크로소프트(MS)가 자체 개발한 AI 칩 '마이아(Maia)' 제품군을 내년부터 수 기가와트(GW) 규모로 확대 배치한다. 동시에 차세대 칩 '마이아 300(",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216182_220205_323.png",
+    "score": 8.46,
+    "engagement": 0,
+    "matched_keywords": [
+      "gpu",
+      "차세대"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "[AI리더의 서가] Physical AI 데이터의 새로운 법칙",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216143",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-13T09:00:00+00:00",
+    "raw_excerpt": "Physical AI 데이터의 새로운 법칙이준하 | 바른북스2026년 9월 7일추천이유저자는 언어 모델을 넘어 현실 세계로 나아가는 물리 AI의 시대에서 데이터를 흐르게 만들어야 기계가 스스로 진화할 수 있음을 역설합니다. 이 책은 기술의 변곡점에서 현장의 치열한 고민과 해법을 담아 미래를 준비하려는 리더들에게 확실한 나침반이 되어줄 것입니다.상세보기 정부가 지난달 2일 내놓은 2027년 AI 예산안은 9조4000억원으로, 올해 5조1000억원보다 84.3% 늘었다. 그 안에서 눈에 띄는 이름이 피지컬 AI다. 피지컬 AI 트레이닝",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "Physical AI 데이터의 새로운 법칙이준하 | 바른북스2026년 9월 7일추천이유저자는 언어 모델을 넘어 현실 세계로 나아가는 물리 AI의 시대에서 데이터를",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216143_220151_2821.jpg",
+    "score": 8.286,
+    "engagement": 0,
+    "matched_keywords": [
+      "physical ai",
+      "피지컬 ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "몽고DB, AI 에이전트 트래픽 폭증 정조준…컴퓨트·스토리지 분리로 확장성 혁신",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42274",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-10-13T10:20:54+00:00",
+    "raw_excerpt": "몽고DB(MongoDB)가 데이터베이스 엔진의 성능과 보안을 강화한 ‘몽고DB 9.0(MongoDB 9.0)’과 인공지능(AI) 에이전트 시대의 급격한 데이터 및 트래픽 증가에 대응하기 위한 클라우드 데이터베이스 아키텍처 ‘아틀라스 인피니트(Atlas Infinite)’를 13일 공개했다. 데이터베이스 처리 성능을 높이는 동시에 컴퓨트와 스토리지를 분리해 수요 변화에 따라 인프라를 독립적으로 확장할 수 있도록 한 것이 핵심이다.'몽고DB 9.0'은 이전 버전인 몽고DB 8.0 대비 최대 2배의 처리량을 제공하고, 단건 조회 속도는",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "몽고DB(MongoDB)가 데이터베이스 엔진의 성능과 보안을 강화한 ‘몽고DB 9.0(MongoDB 9.0)’과 인공지능(AI) 에이전트 시대의 급격한 데이터 및",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202610/42274_63559_2038_v150.jpg",
+    "score": 7.749,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "마이크로소프트, 자체 AI 칩 ‘마이아’ 멀티기가와트급 확대…2027년 추론 인프라 주력으로",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42273",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-10-13T09:56:50+00:00",
+    "raw_excerpt": "마이크로소프트(Microsoft)가 자체 설계 인공지능(AI) 가속기 ‘애저 마이아(Azure Maia)’를 멀티기가와트급 데이터센터 인프라로 확대한다. 현재 마이아 200을 마이크로소프트 코파일럿 등 실제 서비스에 투입한 데 이어, 2027년에는 차세대 칩 마이아 300의 생산 배치를 시작하고 자체 제품과 서비스의 핵심 추론 시스템으로 육성한다는 계획이다.12일(현지시간) 마이크로소프트는 애저 마이아 제품군의 대규모 확대 계획을 발표했다. 회사는 마이아 300이 주요 GPU 기반 시스템보다 전력당 토큰 처리량을 40% 높이고, 9",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "마이크로소프트(Microsoft)가 자체 설계 인공지능(AI) 가속기 ‘애저 마이아(Azure Maia)’를 멀티기가와트급 데이터센터 인프라로 확대한다. 현재 마",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202610/42273_63556_5523_v150.jpg",
+    "score": 7.719,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "[10월12일] AI가 암을 치료해도 원리를 알아야 할까…수학자 타오의 질문에 쏟아진 반론",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216150",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-13T07:00:00+00:00",
+    "raw_excerpt": "AI가 개발한 암 치료제가 임상시험을 통과했더라도, 인간이 작동 원리를 이해하지 못한다면 믿을 수 있을까요. 세계적인 수학자 테런스 타오 UCLA 교수가 최근 강연에서 던진 질문이 온라인에서 논쟁을 불러일으켰습니다. 인간의 이해가 중요하다는 취지였지만, 사람들은 환자의 생명을 구할 수 있다면 원리를 몰라도 상관없다는 반응을 보였습니다.논쟁의 발단은 지난 9일(현지시간) 캘리포니아공과대학교에서 열린 타오 교수의 '수학 2.0(Math 2.0)' 강연이었습니다.그는 AI가 수학 난제를 해결하는 시대에도 인간이 그 결과를 이해하고 기존",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AI가 개발한 암 치료제가 임상시험을 통과했더라도, 인간이 작동 원리를 이해하지 못한다면 믿을 수 있을까요. 세계적인 수학자 테런스 타오 UCLA 교수가 최근 강",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216150_220160_1157.jpg",
+    "score": 7.148,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Ai2, MoE 학습 효율 2.7배 높인 오픈소스 프레임워크 '올모 코어 3' 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216173",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-12T17:54:39+00:00",
+    "raw_excerpt": "AI 모델의 규모가 커질수록 학습에 필요한 GPU 자원과 비용이 늘어나는 가운데, 이를 해결하기 위한 오픈소스 기술 개발이 주목받고 있다. 모델의 성능뿐 아니라 제한된 컴퓨팅 자원으로 얼마나 효율적으로 학습할 수 있는지가 대규모 AI 개발의 핵심 과제로 떠오르고 있다. 앨런 AI 연구소(Ai2)는 최근 LLM 학습 효율을 높인 오픈소스 프레임워크 '올모 코어 3(Olmo-core 3)'를 공개했다.기존 학습 시스템을 재설계해 470억개 매개변수 규모의 모델에서 GPU당 처리량을 약 2.7배 높였다. 수조개 매개변수 규모의 모델까지",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AI 모델의 규모가 커질수록 학습에 필요한 GPU 자원과 비용이 늘어나는 가운데, 이를 해결하기 위한 오픈소스 기술 개발이 주목받고 있다. 모델의 성능뿐 아니라",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216173_220189_028.png",
+    "score": 7.06,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "llm"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "사카나 AI, LLM 기반 동료 검토 시스템으로 논문 핵심 주장 오류 73% 적발",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216163",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-12T17:50:00+00:00",
+    "raw_excerpt": "사카나 AI가 논문에 의도적으로 삽입한 논리적 모순과 핵심 오류의 73% 이상을 찾아내는 LLM 기반 동료 검토 시스템을 공개했다. 기존 AI 논문 심사 시스템이 인간 심사자의 평가와 얼마나 비슷한지를 주로 측정했다면, 이번 연구는 논문의 논리적 모순과 오류를 실제로 찾아내는 능력에 초점을 맞췄다.사카나 AI 연구진은 8일(현지시간) 온라인 아카이브를 통해 공개한 연구 논문 '비욘드 이미테이션(Beyond Imitation)'에서 새로운 평가 기준인 '모순 벤치마크(Contradiction Benchmark)'와 다층 검토 시스템",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "사카나 AI가 논문에 의도적으로 삽입한 논리적 모순과 핵심 오류의 73% 이상을 찾아내는 LLM 기반 동료 검토 시스템을 공개했다. 기존 AI 논문 심사 시스템이",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216163_220181_3319.png",
+    "score": 7.053,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "llm"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "현대차·기아, AI 데이터 인프라 기업 바스트 데이터에 전략적 투자…자율주행·로보틱스 데이터 병목 뚫는다",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42275",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-10-13T11:11:09+00:00",
+    "raw_excerpt": "현대자동차와 기아가 글로벌 AI 데이터 인프라 기업 바스트 데이터(VAST Data)에 전략적 투자를 단행했다. 자율주행과 로보틱스 등 피지컬 AI(Physical AI) 개발에 필요한 대규모 데이터를 더 빠르고 효율적으로 처리하고, AI 모델 개발부터 검증까지 이어지는 데이터 인프라를 고도화하기 위한 행보다.바스트 데이터는 13일 현대차·기아가 자사에 전략적 투자를 진행했다고 밝혔다. 이번 투자는 현대차그룹의 글로벌 소프트웨어 센터이자 자율주행 모빌리티 개발 조직인 포티투닷(42dot)이 수년간 실제 연구·개발 환경에서 바스트 A",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "현대자동차와 기아가 글로벌 AI 데이터 인프라 기업 바스트 데이터(VAST Data)에 전략적 투자를 단행했다. 자율주행과 로보틱스 등 피지컬 AI(Physica",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202610/42275_63560_915_v150.jpg",
+    "score": 6.912,
+    "engagement": 0,
+    "matched_keywords": [
+      "로보틱스"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "구글, 핏빗 에어·엣지에 AI 건강 관리 강화…운동 자동 감지 100종 이상으로 확대",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42270",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-10-12T22:37:04+00:00",
+    "raw_excerpt": "구글이 웨어러블 기기와 인공지능(AI) 기반 건강 관리 서비스를 결합해 개인 맞춤형 건강 모니터링 기능을 강화한다. 운동 자동 감지 범위를 기존 10종에서 100종 이상으로 확대하고, 장기적인 건강 패턴 변화를 추적하는 기능과 외부 건강 데이터 연동을 추가해 일상 속 건강 관리의 정밀도를 높인다는 계획이다.구글은 12일(현지시간) 구글 헬스(Google Health) 앱과 건강 코치(Health Coach)의 기능 개선, 핏빗 에어(Fitbit Air)와 차세대 웨어러블 기기 핏빗 엣지(Fitbit Edge)의 신제품 및 건강 관리",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "구글이 웨어러블 기기와 인공지능(AI) 기반 건강 관리 서비스를 결합해 개인 맞춤형 건강 모니터링 기능을 강화한다. 운동 자동 감지 범위를 기존 10종에서 100",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202610/42270_63553_353_v150.jpg",
+    "score": 6.87,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "텔레다인 FLIR, AI 기반 항공 ISR 소프트웨어 공개…지상 표적 실시간 탐지·추적",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42269",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-10-12T22:24:35+00:00",
+    "raw_excerpt": "영상·센서 기술 글로벌기업 텔레다인 플리어 OEM(Teledyne FLIR OEM)이 무인 항공기 등 공중 플랫폼에서 지상 표적을 실시간으로 탐지하고 추적하는 인공지능(AI) 소프트웨어를 공개했다.텔레다인 테크놀로지스(Teledyne Technologies)의 사업 부문인 텔레다인 FLIR OEM은 임베디드 소프트웨어 제품군 ‘프리즘(Prism)’의 최신 모듈인 ‘프리즘 A-ISR(Prism A-ISR)’을 출시했다. 이 솔루션은 적외선과 가시광 센서 데이터를 활용해 표적을 탐지·분류·추적하고, 영상 품질 개선 기술을 결합해 시야가",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "영상·센서 기술 글로벌기업 텔레다인 플리어 OEM(Teledyne FLIR OEM)이 무인 항공기 등 공중 플랫폼에서 지상 표적을 실시간으로 탐지하고 추적하는 인",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202610/42269_63551_226_v150.jpg",
+    "score": 6.854,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "나델라 CEO, “초지능 AI, 내부자 위협처럼 통제해야”…기업 보안 7대 원칙 제시",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42268",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-10-12T21:49:18+00:00",
+    "raw_excerpt": "사티아 나델라(Satya Nadella) 마이크로소프트(Microsoft) 최고경영자(CEO)가 초지능(Super Intelligence, SI) 시대의 인공지능(AI) 모델을 잠재적인 ‘내부자 위협(Insider Risk)’처럼 다뤄야 한다는 보안 원칙을 제시했다.AI 모델이 의도적으로 해를 끼치지 않더라도 오류를 일으키거나 외부 공격에 노출될 수 있는 만큼, 모델 자체를 신뢰하는 데 의존하기보다 모델이 행사할 수 있는 권한과 행동 범위를 별도의 통제 체계로 제한해야 한다는 주장이다.나델라는 지난 10일(현지시간) 자신의 엑스(X",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "사티아 나델라(Satya Nadella) 마이크로소프트(Microsoft) 최고경영자(CEO)가 초지능(Super Intelligence, SI) 시대의 인공지능",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202610/42268_63550_4842_v150.jpg",
+    "score": 6.81,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "델, IBK기업은행에 사이버 복원력 인프라 구축…백업 데이터 3중 보호 체계 완성",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42271",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-10-13T08:54:59+00:00",
+    "raw_excerpt": "델 테크놀로지스(Dell Technologies)가 IBK기업은행의 하남데이터센터 이전에 맞춰 전사 데이터를 보호하는 차세대 백업 인프라를 구축했다. 운영 데이터와 백업 데이터를 분리하고, 네트워크 격리와 데이터 변경 방지 기술을 적용해 랜섬웨어 등 사이버 공격과 물리적 재해에 대응하는 사이버 복원력 체계를 강화했다.델 테크놀로지스는 13일 IBK기업은행이 자사의 데이터 보호 솔루션을 기반으로 기존 백업 환경을 고도화하고, 핵심 금융 데이터의 보호와 재해복구 역량을 강화했다고 밝혔다.이번 사업에는 데이터 보호 어플라이언스인 ‘델 파",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "델 테크놀로지스(Dell Technologies)가 IBK기업은행의 하남데이터센터 이전에 맞춰 전사 데이터를 보호하는 차세대 백업 인프라를 구축했다. 운영 데이터",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202610/42271_63554_545_v150.jpg",
+    "score": 6.742,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "美 국방부, AI 기업 '에어'에 2억 달러 계약…육군 차세대 지휘통제 고도화",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42264",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-10-12T20:52:53+00:00",
+    "raw_excerpt": "미국 전쟁부(Department of War/국방부)가 인공지능(AI) 기반 군사 운영 소프트웨어 기업 에어(Air)에 2억 달러(약 2600억원) 규모의 계약을 체결하고, 美 육군의 차세대 지휘통제(NGC2) 체계 구축을 지원한다. AI를 활용해 전장의 작전 상황과 보급 수요를 실시간으로 파악하고, 병력과 군수자원을 보다 신속하게 배분하는 체계를 강화하려는 움직임이다.에어는 12일(현지시간) 미국 전쟁부로부터 美 육군의 NGC2 생태계 지원을 위한 5년 계약을 수주했다고 밝혔다. 이번 계약은 NGC2의 초기 구상부터 소프트웨어 개",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "미국 전쟁부(Department of War/국방부)가 인공지능(AI) 기반 군사 운영 소프트웨어 기업 에어(Air)에 2억 달러(약 2600억원) 규모의 계약을",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202610/42264_63548_5236_v150.jpg",
+    "score": 6.739,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "네이버클라우드, 베트남 FPT와 아태 지역 AI 팩토리 사업 확대",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216156",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-12T12:21:41+00:00",
+    "raw_excerpt": "네이버클라우드(대표 김유원)는 베트남 ICT 기업 FPT와 협력해 아시아태평양(APAC) 지역으로 AI 인프라 사업을 확대한다.네이버클라우드는 FPT와 서비스형 GPU(GPUaaS) 사업 확대 및 APAC 중심 AI 팩토리 사업 공동 추진을 위해 협력한다고 12일 밝혔다. 엔비디아 클라우드 파트너사인 FPT와 GPU 인프라, 클라우드 기술, 현지 고객 네트워크를 연계해 역내 수요에 공동 대응할 방침이다.양사는 대규모 AI 학습·추론용 GPU 컴퓨팅 자원이 필요한 기업과 AI 서비스 사업자를 대상으로 인프라, AI 모델, AI 서비스",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "네이버클라우드(대표 김유원)는 베트남 ICT 기업 FPT와 협력해 아시아태평양(APAC) 지역으로 AI 인프라 사업을 확대한다.네이버클라우드는 FPT와 서비스형",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216156_220169_1721.jpg",
+    "score": 6.609,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "엔비디아"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "에이피트바이오, 마더스제약과 L1CAM 표적 ADC 공동개발",
+    "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79832",
+    "source": "히트뉴스",
+    "source_type": "rss",
+    "published_at": "2026-10-13T09:44:00+00:00",
+    "raw_excerpt": "[히트뉴스=김선경 기자] 중기부 '모두의 챌린지 바이오' 선정…사업화 자금 1억원 확보 임상 1상 IND 승인받은 항체 활용해 신약개발 기간·비용 단축 기대항체 기반 신약개발 바이오벤처 에이피트바이오(대표 윤선주)가 마더스제약과 손잡고 난치성 고형암을 겨냥한 항체-약물접합체(ADC) 신약개발에 나선다.에이피트바이오는 중소벤처기업부와 창업진흥원이 주관하는 '2026년 민관협력 오픈이노베이션 지원사업-모두의 챌린지 바이오'에 최종 선정돼 협약을 체결했다고 7일 밝혔다.'모두의 챌린지 바이오'는 제약기업과 바이오 창업기업 간 개방형 혁신",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "[히트뉴스=김선경 기자] 중기부 '모두의 챌린지 바이오' 선정…사업화 자금 1억원 확보 임상 1상 IND 승인받은 항체 활용해 신약개발 기간·비용 단축 기대항체",
+    "thumbnail": "https://cdn.hitnews.co.kr/news/thumbnail/202610/79832_108727_4310_v150.jpg",
+    "score": 6.419,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처",
+      "창업"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "삼성자산운용, ‘KODEX 미국AI에이전트액티브’ 신규 상장",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=49663",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-13T10:54:49+00:00",
+    "raw_excerpt": "[스마트타임스]삼성자산운용은 ‘KODEX 미국AI에이전트액티브’ ETF를 신규 상장한다고 13일 밝혔다.KODEX 미국AI에이전트액티브는 인공지능(AI) 에이전트 산업의 생태계를 구성하는 미국 핵심 기업에 투자한다. 특히 액티브 방식으로 운용되는 만큼 시장 상황과 개별 기업의 성장 가능성 등을 고려해 편입 비중을 탄력적으로 조정한다.비교지수는 ‘Indxx US AI Agents’다. ‘뮤즈’ AI 에이전트 서비스를 확대하고 있는 메타, AI 에이전트 업무 환경을 구축하는 팔란티어, AI 보안 분야의 강자 팔로알토네트웍스 등 상위 3",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "[스마트타임스]삼성자산운용은 ‘KODEX 미국AI에이전트액티브’ ETF를 신규 상장한다고 13일 밝혔다.KODEX 미국AI에이전트액티브는 인공지능(AI) 에이전트",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202610/49663_48628_5443_v150.jpg",
+    "score": 5.844,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Linus Torvalds, Claude Code로 Linux 커널의 대폭 개선 작업 진행 중",
+    "url": "https://news.hada.io/topic?id=35265",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-10-13T00:02:44+00:00",
+    "raw_excerpt": "리누스 토발즈가 Claude Code 를 활용해 여러 스레드가 한 파일을 조금씩 읽을 때 발생하는 Linux 커널의 병목을 개선하고 있음 병목은 folio 참조 카운팅 경합 에서 발생하며, 패치 시리즈는 folio 참조 없이 페이지 캐시를 읽도록 메모리 관리 코...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "리누스 토발즈가 Claude Code 를 활용해 여러 스레드가 한 파일을 조금씩 읽을 때 발생하는 Linux 커널의 병목을 개선하고 있음 병목은 folio 참조",
+    "thumbnail": "https://social.news.hada.io/topic/35265?v=bbf3f3a62fb6fa245723177949308d91",
+    "score": 5.814,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "claude code"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "한국머크, 의학부 총괄에 안텐진 코리아 출신 이동열 전무 선임",
+    "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79830",
+    "source": "히트뉴스",
+    "source_type": "rss",
+    "published_at": "2026-10-13T09:32:43+00:00",
+    "raw_excerpt": "[히트뉴스=방혜림 기자] 한국머크 헬스케어가 이동열 전 안텐진 코리아 메디컬 디렉터를 의학부 총괄 전무로 선임했다.13일 회사 측에 따르면 이동열 전무는 가정의학과 전문의다. 한국노바티스와 안텐진 코리아 등 글로벌 제약사에서 15년 동안 항암 포트폴리오를 담당하며 △의약품 허가 △마켓 엑세스 △커머셜 오퍼레이션 △약물감시 등 직무를 경험했다.특히 한국노바티스에서는 CAR-T 치료제 '킴리아' 출시를 주도한 리더십을 인정받아 'Novartis Chief Medical Officer Award'를 수상하기도 했다. 안텐진 코리아에서는",
+    "topic": "senior_healthtech",
+    "topic_label": "🏥 시니어 헬스케어테크",
+    "summary": "[히트뉴스=방혜림 기자] 한국머크 헬스케어가 이동열 전 안텐진 코리아 메디컬 디렉터를 의학부 총괄 전무로 선임했다.13일 회사 측에 따르면 이동열 전무는 가정의학",
+    "thumbnail": "https://cdn.hitnews.co.kr/news/thumbnail/202610/79830_108726_276_v150.jpg",
+    "score": 5.658,
+    "engagement": 0,
+    "matched_keywords": [
+      "헬스케어"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "'창고·마트·공장' 못써도 약국 운영 경계는 못가른다?",
+    "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79829",
+    "source": "히트뉴스",
+    "source_type": "rss",
+    "published_at": "2026-10-13T09:02:00+00:00",
+    "raw_excerpt": "[히트뉴스=이우진 기자] 복지부가 약국 이름에 '창고·마트·공장'을 쓰지 못하게 하는 규제에 나섰지만 개인약국과 별도 유통법인이 한 공간에서 결합한 창고형 약국의 운영 경계를 가를 기준이 없다는 지적이 나왔다.국회 더불어민주당 박용갑 의원은 복지부가 의원실에 낸 답변을 통해 현행법상 창고형 약국 등 세부 유형에 대한 별도 정의가 없고 유형별 현황 파악도 어렵다고 13일 밝혔다.박 의원에 따르면 약국 개설등록 업무지침에는 개인약국과 유통법인이 결합한 경우 공간, 인력, 재고, 가격, 광고, 매출관리를 어디까지 나눠야 하는지 기준이 없",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "[히트뉴스=이우진 기자] 복지부가 약국 이름에 '창고·마트·공장'을 쓰지 못하게 하는 규제에 나섰지만 개인약국과 별도 유통법인이 한 공간에서 결합한 창고형 약국의",
+    "thumbnail": "https://cdn.hitnews.co.kr/news/thumbnail/202610/79829_108724_022_v150.jpg",
+    "score": 5.626,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "벨테라퓨틱스, 소아 인공와우 청각재활 Dtx 혁신의료기기 지정돼",
+    "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79826",
+    "source": "히트뉴스",
+    "source_type": "rss",
+    "published_at": "2026-10-13T08:36:46+00:00",
+    "raw_excerpt": "[히트뉴스=이우진 기자] 벨테라퓨틱스의 소아 인공와우 청각재활 디지털치료제 'BELL-002'가 식품의약품안전처 혁신의료기기 첨단기술군으로 지정돼 우선 심사 등 규제 지원을 받는다.회사는 13일 이같은 내용을 밝히고 이번 지정을 통해 'BELL-002'의 임상시험과 허가를 더 빠르게 진행할 수 있게 됐다고 설명했다.벨테라퓨틱스는 삼성서울병원 문일준 교수, 분당서울대병원 최병윤 교수, 서울대병원 이상연 교수와 임상시험을 준비하고 있다.BELL-002는 인공와우 수술을 받은 소아 환자가 말소리를 더 잘 알아듣고 음악과 노래까지 즐길 수",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "[히트뉴스=이우진 기자] 벨테라퓨틱스의 소아 인공와우 청각재활 디지털치료제 'BELL-002'가 식품의약품안전처 혁신의료기기 첨단기술군으로 지정돼 우선 심사 등",
+    "thumbnail": "https://cdn.hitnews.co.kr/news/thumbnail/202610/79826_108722_3456_v150.jpg",
+    "score": 5.599,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "보건의료연구원도 지적한 면역주사, 식약처 재평가 1년째 제자리?",
+    "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79824",
+    "source": "히트뉴스",
+    "source_type": "rss",
+    "published_at": "2026-10-13T08:06:01+00:00",
+    "raw_excerpt": "[히트뉴스=이우진 기자] 식품의약품안전처가 한국보건의료연구원 평가에서 암 환자 투여가 '권고하지 않음'으로 결정된 면역주사 이뮤노시아닌과 비스쿰알붐 등을 두고 지난해 국정감사에서 약속한 재평가를 1년이 지나도록 공고하지 않았다는 지적이 나왔다.국회 보건복지위원회 진보당 전종덕 의원은 식약처로부터 받은 서면답변을 근거로 13일 이같이 지적했다.이뮤노시아닌과 비스쿰알붐은 요양병원 등에서 암 환자에게 면역주사로 쓰이는 비급여 주사제다. NECA는 두 약을 기존 항암치료에 더해 종양 치료나 재발 예방 목적으로 투여하는 것을 '권고하지 않음",
+    "topic": "senior_healthtech",
+    "topic_label": "🏥 시니어 헬스케어테크",
+    "summary": "[히트뉴스=이우진 기자] 식품의약품안전처가 한국보건의료연구원 평가에서 암 환자 투여가 '권고하지 않음'으로 결정된 면역주사 이뮤노시아닌과 비스쿰알붐 등을 두고 지",
+    "thumbnail": "https://cdn.hitnews.co.kr/news/thumbnail/202610/79824_108720_428_v150.jpg",
+    "score": 5.567,
+    "engagement": 0,
+    "matched_keywords": [
+      "요양"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Kraken Parent Payward Secures Dubai Crypto Services License",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=49658",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-13T10:30:36+00:00",
+    "raw_excerpt": "Payward, the parent company of cryptocurrency exchange Kraken, has secured regulatory approval to provide digital asset services in Dubai through its local entity, Payward FZCO.The approval from Dubai’s Virtual Assets Regulatory Authority (VARA) allows the company to offer virtual asset management a",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Payward, the parent company of cryptocurrency exchange Kraken, has secured regulatory appr",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202610/49658_48622_3032_v150.jpg",
+    "score": 5.146,
+    "engagement": 0,
+    "matched_keywords": [
+      "regulatory"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "BudgetPix",
+    "url": "https://t.co/1nHZfWMeWq",
+    "source": "X @_akhaliq",
+    "source_type": "x",
+    "published_at": "2026-10-12T18:23:59+00:00",
+    "raw_excerpt": "BudgetPix\n\nCompute-Adaptive Tokenization for Pixel-Space Image Diffusion\n\npaper: \nhttps://\nhuggingface.co/papers/2610.12\n307\n…",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "BudgetPix\n\nCompute-Adaptive Tokenization for Pixel-Space Image Diffusion\n\npaper: \nhttps://",
+    "thumbnail": "",
+    "score": 5.141,
+    "engagement": 7577,
+    "matched_keywords": [
+      "tokenization"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "삼성전자, 반도체 협력사 5만8000명에 '감사'…연말까지 상생 행사",
+    "url": "https://www.etnews.com/20261013000019",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-10-12T23:55:41+00:00",
+    "raw_excerpt": "삼성전자가 반도체 협력사 임직원 약 5만8000명에게 감사의 마음을 전하는 'DS Together' 행사를 진행한다. 협력사 사업장에 커피차를 보내고 직원과 가족을 영화관에 초청하는 등 연말까지 교류를 이어간다. 삼성전자는 10~11월 주요 반도체 구매 협력사 67개사 임직원 약 2만7000명을 대상으로 '상생 카페'를 운영한다고 13일 밝혔다. 지난 6일 대덕전자와 새솔다이아몬드공업을 시작으로 7일에는 티엘비와 피에스케이 사업장을 방문했다.",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "삼성전자가 반도체 협력사 임직원 약 5만8000명에게 감사의 마음을 전하는 'DS Together' 행사를 진행한다. 협력사 사업장에 커피차를 보내고 직원과 가족",
+    "thumbnail": "",
+    "score": 5.057,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "world’s first full length workshop on claude flows",
+    "url": "https://x.com/swyx/status/2109640508079263769",
+    "source": "X @swyx",
+    "source_type": "x",
+    "published_at": "2026-10-12T13:41:07+00:00",
+    "raw_excerpt": "world’s first full length workshop on claude flows\n\n\n@cjav_dev\n and Harrison Stall are kicking off \n@aidotengineer\n bright and early on a monday morning to a PACKED room, standing room only #AIEngineerNY\n\n\n@ricmac\n is on the case reporting for \n@latentspacepod\n and we’ll also publish",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "world’s first full length workshop on claude flows\n\n\n@cjav_dev\n and Harrison Stall are kic",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2109640462264881152/img/KY71-NN5JuD6qtqg?format=webp&name=large",
+    "score": 4.944,
+    "engagement": 14805,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "퍼플렉시티, 국부펀드 요청에 자체 하드웨어 배포 검토",
+    "url": "https://www.tokenpost.kr/news/ai/421751",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-10-13T02:25:00+00:00",
+    "raw_excerpt": "일부 국부펀드가 퍼플렉시티의 AI 에이전트를 자체 하드웨어에서 운영하고, 회사의 데이터 접근을 차단하는 방안에 관심을 보였다. 모델과 에이전트뿐 아니라 사용자 세션까지 고객 장비에서 처리하는 구상이다. 아라빈드 스리니바스(Aravind Srinivas) 퍼플렉시티 공동창업자 겸 CEO는 10월 12일 공개된 소서리(Sourcery) 인터뷰에서 일부 국부펀드가 정부와 협력해 자사 하드웨어에서 퍼플렉시티 컴퓨터를 구동하는 방안을 원한다고 말했다. 펀드 이름과 대상 국가는 공개하지 않았다. 스리니바스는 모델과 에이전트 하네스, 에이전트 루프, 사용자 세션을 고객 소유 하드웨어에서 운영하고 퍼플렉시티는 데이터를 보지 않는 방안을... 더보기",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "일부 국부펀드가 퍼플렉시티의 AI 에이전트를 자체 하드웨어에서 운영하고, 회사의 데이터 접근을 차단하는 방안에 관심을 보였다. 모델과 에이전트뿐 아니라 사용자 세",
+    "thumbnail": "https://f1.tokenpost.kr/2026/10/qg1829dwl2.jpg",
+    "score": 4.77,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "머스크 “중국, 메모리 제조 익히면 생산 확대 능력 앞서”",
+    "url": "https://www.tokenpost.kr/news/tech/421741",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-10-13T02:10:05+00:00",
+    "raw_excerpt": "일론 머스크는 중국이 메모리 제조 기술을 확보하면 생산능력을 세계 다른 지역의 합보다 키우는 경우가 많다고 말했다. 그는 범용 메모리와 차세대 고대역폭메모리(HBM)는 기술 난도가 다르다고 봤다. 머스크는 13일 메모리 반도체 주식 매도 논의에 답하며 리튬이온 배터리와 태양광 분야에서 중국의 생산 확대 사례가 있었다고 말했다. 해당 발언은 블록비츠(BlockBeats)가 전했다. 그는 메모리 산업은 다를 수 있다고 단서를 달았다. 약 3년 전까지만 해도 메모리는 이윤이 낮은 범용 상품에 가까웠고, LP5와 LP6는 공통 표준을 따르기 때문에 중국이 관련 기술을 빠르게 해결하는 듯하다고 설명했다. LP5·LP6가 가리키는 제품 규격은... 더보기",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "일론 머스크는 중국이 메모리 제조 기술을 확보하면 생산능력을 세계 다른 지역의 합보다 키우는 경우가 많다고 말했다. 그는 범용 메모리와 차세대 고대역폭메모리(HB",
+    "thumbnail": "https://f1.tokenpost.kr/2026/10/qygoccixcx.jpg",
+    "score": 4.757,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "차세대"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "안도걸 “코인 환치기·믹싱에 세무조사 역부족”…국세청장 “전담 조직 신설·추적 강화”",
+    "url": "https://www.blockmedia.co.kr/archives/1150813?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-10-13T02:47:10+00:00",
+    "raw_excerpt": "[블록미디어 오수환 기자] 디지털자산(가상자산)을 활용한 탈세 수법이 고도화되면서 기존 세무조사 방식의 한계가 국정감사에서 지적됐다. 김치 프리미엄을 악용한 환치기와 믹싱·쪼개기 거래 등이 주요 사례로 거론된 가운데, 임광현 국세청장은 가상자산관리과를 신설하고 해외 거래 추적 프로그램 도입을 검토하고 있다고 밝혔다. 임광현 국세청장은 13일 국회 재정경제기획위원회 국정감사에서 안도걸 더불어민주당 의원의 디지털자산 탈세 대응 관련 질의에 “디지털자산 관련 세원 관리는 [...]",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[블록미디어 오수환 기자] 디지털자산(가상자산)을 활용한 탈세 수법이 고도화되면서 기존 세무조사 방식의 한계가 국정감사에서 지적됐다. 김치 프리미엄을 악용한 환치",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/10/20261013-113702-scaled.png",
+    "score": 4.712,
+    "engagement": 0,
+    "matched_keywords": [
+      "가상자산"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "쿠코인·MEXC 등 미신고 코인업체 27곳 국내 접속 차단",
+    "url": "https://www.blockmedia.co.kr/archives/1150776?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-10-13T01:25:03+00:00",
+    "raw_excerpt": "[블록미디어 오수환 기자] 쿠코인과 MEXC 등 금융당국에 신고하지 않고 국내에서 영업한 디지털자산(가상자산) 사업자 27곳의 인터넷 사이트가 차단된다. 앞으로는 이용자 피해 신고가 없어도 미신고 영업이 확인되면 심의를 거쳐 접속을 제한한다. 금융위원회 금융정보분석원(FIU)은 방송미디어통신심의위원회가 지난 6일부터 이틀간 심의를 열고 미신고 가상자산사업자 사이트 27건에 대해 국내 접속 차단 또는 이용 해지를 결정했다고 13일 밝혔다. 차단 대상에는 쿠코인과 MEXC, [...]",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[블록미디어 오수환 기자] 쿠코인과 MEXC 등 금융당국에 신고하지 않고 국내에서 영업한 디지털자산(가상자산) 사업자 27곳의 인터넷 사이트가 차단된다. 앞으로는",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/05/20260521-174445.png",
+    "score": 4.635,
+    "engagement": 0,
+    "matched_keywords": [
+      "가상자산"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "\"아버지는 더 일하고, 아들은 취업 못 한다\"…정년 연장의 딜레마",
+    "url": "https://zdnet.co.kr/view/?no=20261013094711",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-10-13T00:49:26+00:00",
+    "raw_excerpt": "[지디넷코리아]안녕하세요 AMEET 기자입니다. 최근 고용노동부 장관이 정년 연장 입법을 올해 안에 추진하겠다는 의지를 재확인하면서 우리 사회의 고용 지도가 급격히 요동치고 있습니다. 70세까지 일할 수 있는 사회는 과연 모두에게 축복일까요, 아니면 누군가에게는 기회를 뺏는 장벽이 될까요? 이 뜨거운 감자를 두고 서로 다른 시각을 가진 AI 패널들이 모여 깊이 있는 논의를 진행했습니다. 노동 정책의 실효성을 따지는 패널부터 시장의 데이터로 흐름을 읽는 패널, 그리고 청년과 연금의 미래를 걱정하는 패널까지 각자의 논리로 무장한 이들이 부딪히며 찾아낸 실마리를 기자의 시선으로 풀어내 보겠습니다.이번 논의에는 정책의 집행 가능성을 중시하는 노동정책 관점의 AI와 고용 시장의 미세한 균열을 포착하는 노동시장 분석 관점의 AI, 청년의 생존권을 최우선으로 두는 청년정책 관점의 AI 등 다양한 전문가 그룹이 참여했습니다. 특히 연금의 지속 가능성을 고민하는 연금 관점의 AI와 세대 간의 심리적•구조적 갈등을 파헤치는 세대갈등 관점의 AI, 그리고 모든 논의의 전제를 뒤흔드는 비판적 관점의 AI 패널이 합류하여 단순한 찬반 논리를 넘어선 입체적인 분석을 내놓았습니다. 이들이 가장 먼저 주목한 것은 단순히 나이를 늘리는 숫자의 문제가 아니라, 그 숫자가 가져올 우리 사회의 구조적 변화였습니다.가장 먼저 충돌이 일어난 지점은 정년 연장이 청년 일자리",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "[지디넷코리아]안녕하세요 AMEET 기자입니다. 최근 고용노동부 장관이 정년 연장 입법을 올해 안에 추진하겠다는 의지를 재확인하면서 우리 사회의 고용 지도가 급격",
+    "thumbnail": "https://image.zdnet.co.kr/2026/10/13/2dbaddf29a2bbea3fcf36bfe28a6736f.png",
+    "score": 4.601,
+    "engagement": 0,
+    "matched_keywords": [
+      "입법"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "인텔, 추론 특화 GPU 정식 명칭 공개... \"GPU D시리즈\"",
+    "url": "https://zdnet.co.kr/view/?no=20261013092929",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-10-13T00:30:42+00:00",
+    "raw_excerpt": "[지디넷코리아]인텔이 12일(현지시간) '2026 OCP 글로벌 서밋' 행사에서 데이터센터용 추론 특화 GPU 정식 명칭과 일부 성능 지표를 공개했다.인텔은 작년 OCP 글로벌 서밋 행사에서 자체 개발한 새로운 GPU 아키텍처 'Xe3P' 기반 데이터센터용 추론 특화 GPU '크레센트 아일랜드'(Crescent Island)를 공개한 바 있다.인텔이 이날 공개한 '크레센트 아일랜드'의 정식 명칭은 '인텔 GPU D시리즈'이다. 최상위 제품인 D270은 LPDDR5X 메모리를 480GB 탑재 가능하며 전력 소모는 350W, 냉각 방식은 공랭식이다.카드 한 장당 최대 3000억 개 매개변수(패러미터) 모델을 처리 가능하며 카드 8개 구성시 1조 개 규모 모델을 구동 가능하다.인텔은 D270 GPU의 일부 성능 지표도 함께 공개했다. 메모리 대역폭은 초당 최대 1.5TB, FP8(부동소수점, 8비트) 연산 성능은 최대 1.3 페타플롭스다.인텔은 GPU D시리즈 출시 당일부터 오픈소스 AI 모델과 파이토치 등을 기본 지원할 것이라고 밝혔다.인텔은 지난 8월 초 메타 300억 개 매개변수 모델 '뮤즈 글리머' 공개 당일부터 코어 울트라 시리즈3(팬서레이크) 프로세서와 아크 프로 B70 GPU 등을 최적화했다고 밝히기도 했다.인텔은 \"GPU D시리즈 생산과 시장 공급을 위해 주요 제조사와 네오클라우드, 소프트웨어 업체와 함께 협력하고 있으며 현",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "[지디넷코리아]인텔이 12일(현지시간) '2026 OCP 글로벌 서밋' 행사에서 데이터센터용 추론 특화 GPU 정식 명칭과 일부 성능 지표를 공개했다.인텔은 작년",
+    "thumbnail": "https://image.zdnet.co.kr/2026/10/13/55d3f7cf740a00d79194b99927d5629d.jpg",
+    "score": 4.584,
+    "engagement": 0,
+    "matched_keywords": [
+      "gpu"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "북유럽 통신사 텔리아, 인력 6% 규모 감축 추진",
+    "url": "https://zdnet.co.kr/view/?no=20261013091709",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-10-13T00:23:42+00:00",
+    "raw_excerpt": "[지디넷코리아]북유럽 통신사 텔리아가 약 900명 규모의 인력 감축과 함께 국가별 사업부의 자율성을 높이는 조직 개편을 추진한다. 본사 중심의 운영 체계를 조정하고 각국 시장에 맞춘 의사결정을 강화하기 위한 조치다.12일(현지시간) 모바일유럽 등에 따르면 스웨덴 통신사 텔리아는 그룹 전반에서 정규직과 외주 인력을 포함해 약 900명을 줄일 계획이라고 밝혔다.이달 1일 기준 텔리아 직원 수는 약 1만 4100명으로, 감축 규모는 이 수치의 약 6%에 해당한다.국가별로는 핀란드에서 280명, 스웨덴에서 260명이 감축 대상에 포함된다. 나머지 인력 조정은 다른 국가와 그룹 조직 전반에서 이뤄질 예정이다.인력 감축과 별도로 공통 기술 조직에 속한 약 220개 직무를 각국 사업부로 이관한다. 현지 조직이 시장 상황에 따라 사업을 운영할 수 있도록 권한과 책임을 확대하는 방식이다.이에 따라 그룹 중앙 조직은 일상적인 사업 운영보다 전략 수립과 목표 설정, 거버넌스 및 성과 관리에 집중하게 된다.패트릭 호프바우어 텔리아 최고경영자(CEO)는 각국 사업부에 더 많은 권한을 부여하고 공통 기술 조직과 그룹 조직의 역량을 효율적으로 활용해 경쟁력을 높이겠다는 방침을 밝혔다.텔리아는 이번 개편을 통해 10억 스웨덴 크로나(약 1300억원)의 비용을 절감한다는 목표다.구조조정은 노동조합과 협의를 거쳐 올해 말까지 마무리할 예정이다.회사는 인력 조정에 따",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "[지디넷코리아]북유럽 통신사 텔리아가 약 900명 규모의 인력 감축과 함께 국가별 사업부의 자율성을 높이는 조직 개편을 추진한다. 본사 중심의 운영 체계를 조정하",
+    "thumbnail": "https://image.zdnet.co.kr/2026/09/17/ed8e8ba5b58825e3936cdff15c9fe8ea.jpg",
+    "score": 4.577,
+    "engagement": 0,
+    "matched_keywords": [
+      "거버넌스"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "예측시장 사이트 Sight, AMM 전환하고 자체 테스트넷 추진",
+    "url": "https://www.tokenpost.kr/news/blockchain/421775",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-10-13T03:00:42+00:00",
+    "raw_excerpt": "로빈후드 체인 기반 예측시장 플랫폼 Sight가 향후 3개월 동안 AMM 전환과 자체 레이어2 테스트넷 구축을 추진한다. 로드맵에는 SGT·이더리움 브리지와 탈중앙화 거래소(DEX), 전용 블록체인 탐색기 개발도 포함됐다. 포사이트뉴스(Foresight News)는 13일 Sight가 개발 로드맵을 공개했다고 보도했다. Sight는 예측시장 인프라를 AMM 구조로 바꿔 더 다양한 시장 형식과 범주를 지원할 계획이다. 구체적으로 어떤 시장을 추가할지는 발표하지 않았다. SightEVM은 네트워크 기반 시설과 EVM 호환 스마트컨트랙트를 시험하고 생태계 개발을 지원하기 위한 레이어2 테스트넷이다. SGT는 SightEVM의 네이티브 토큰으로 쓰일 예정이며, SGT와... 더보기",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "로빈후드 체인 기반 예측시장 플랫폼 Sight가 향후 3개월 동안 AMM 전환과 자체 레이어2 테스트넷 구축을 추진한다. 로드맵에는 SGT·이더리움 브리지와 탈중",
+    "thumbnail": "https://f1.tokenpost.kr/2026/10/i3hzvpts8y.jpg",
+    "score": 4.199,
+    "engagement": 0,
+    "matched_keywords": [
+      "블록체인"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "박수영, 거래소 과세 준비 미흡 지적하며 추가 유예 요구",
+    "url": "https://www.tokenpost.kr/news/policy/421774",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-10-13T03:00:41+00:00",
+    "raw_excerpt": "박수영 국민의힘 의원이 내년 1월 가상자산 과세 시행을 앞두고 거래소 시스템과 세부 기준 준비가 미흡하다며 추가 유예를 요구했다. 임광현 국세청장은 개인 간 지갑 거래를 파악하는 데 한계가 있다고 밝혔다. 박 의원은 13일 국회 재정경제기획위원회 국정감사에서 과세까지 석 달밖에 남지 않았지만 준비가 부실하다고 지적했다. 이날 국정감사 발언과 거래소별 준비 현황은 블록미디어가 보도했다. 박 의원은 거래소에서 받은 자료를 공개하며 업비트는 과세 시스템 구축 준비에 들어갔지만 빗썸은 개발에 착수하지 못했다고 밝혔다. 박 의원이 공개한 자료에서는 코인원이 관련 세법 통과 때까지 구축을 보류하고, 다른 거래소들은... 더보기",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "박수영 국민의힘 의원이 내년 1월 가상자산 과세 시행을 앞두고 거래소 시스템과 세부 기준 준비가 미흡하다며 추가 유예를 요구했다. 임광현 국세청장은 개인 간 지갑",
+    "thumbnail": "https://f1.tokenpost.kr/2026/10/pssoanwlrp.jpg",
+    "score": 4.199,
+    "engagement": 0,
+    "matched_keywords": [
+      "가상자산"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "NEAR 인텐트 피해금 380만달러 일부 비트코인·모네로로 반환",
+    "url": "https://www.tokenpost.kr/news/blockchain/421766",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-10-13T02:45:07+00:00",
+    "raw_excerpt": "NEAR 인텐트 해킹 피해금 약 380만달러(약 51억원) 가운데 일부는 비트코인으로, 나머지는 모네로(XMR)로 반환됐다. 알렉스 셰브첸코(Alex Shevchenko) NEAR 인텐트 총괄은 2026년 10월 8일 녹음된 언체인드(Unchained) 팟캐스트에서 반환 경위를 설명했다. 셰브첸코는 도난 자산 가운데 비트코인은 추적됐지만 나머지는 이더리움, BNB 체인, 솔라나에 남아 있지 않았다고 말했다. 자산은 추적이 어려운 경로를 거쳐 모네로로 바뀌었다. 공격자는 반환할 모네로 주소를 확인하려고 NEAR 인텐트 측에 연락했다. 셰브첸코는 “자금을 돌려줄 모네로 주소가 무엇인지” 알아보려는 것이 연락 이유 중 하나였다고 설명했다. 셰브첸코는 앞서... 더보기",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "NEAR 인텐트 해킹 피해금 약 380만달러(약 51억원) 가운데 일부는 비트코인으로, 나머지는 모네로(XMR)로 반환됐다. 알렉스 셰브첸코(Alex Shevch",
+    "thumbnail": "https://f1.tokenpost.kr/2026/10/jwlxfnelt7.jpg",
+    "score": 4.186,
+    "engagement": 0,
+    "matched_keywords": [
+      "해킹"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "[알트장 오나요] 알트코인 시즌 지수 57까지 하락했지만…비트코인 도미넌스 59.8% 유지",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/421758",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-10-13T02:33:05+00:00",
+    "raw_excerpt": "알트 시장은 지난달 저점 대비 회복 흐름을 보였지만 알트코인 시즌 지수는 아직 중립 구간에 머물며 확장 신호는 제한적이다.13일 기준 코인마켓캡 집계에 따르면 알트코인 시즌 지수는 57을 기록했다.전일 61에서 하락했지만 지난주 62, 지난달 41 대비 개선된 모습이다. 현재는 비트코인 시즌(25 이하)과 알트코인 시즌(75 이상) 사이의 중립 구간으로, 최근 일부 알트코인이 반등세를 보였지만 알트 시장 확장보다는 비트코인과 알트코인 간 수익률 격차가 축소되는 단계로 해석된다.알트코인 시즌 지수는 최근 90일 동안 시가총액 상위 100개 알트코인(스테이블코인 제외) 가운데 비트코인보다 높은 수익률을 기록한 자산의 비율을... 더보기",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "알트 시장은 지난달 저점 대비 회복 흐름을 보였지만 알트코인 시즌 지수는 아직 중립 구간에 머물며 확장 신호는 제한적이다.13일 기준 코인마켓캡 집계에 따르면 알",
+    "thumbnail": "https://f1.tokenpost.kr/2026/10/breio3xfjv.png",
+    "score": 4.176,
+    "engagement": 0,
+    "matched_keywords": [
+      "스테이블코인"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "비트코인 10월 말 옵션 117억달러…콜 잔량 풋의 두 배",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/421752",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-10-13T02:25:06+00:00",
+    "raw_excerpt": "10월 30일 만기 비트코인(BTC) 옵션의 미결제약정이 117억달러(약 15조6078억원)에 달했고, 콜옵션 잔량은 풋옵션의 두 배를 넘었다. 10월 16일 만기에는 풋옵션 잔량이 더 많았다. 우쒀 블록체인(Wu Blockchain)은 코인베이스 마켓츠(Coinbase Markets)의 분석을 인용해 10월 16일 만기 옵션의 미결제약정이 12억8000만달러(약 1조7075억원), 풋·콜 비율이 1.44였다고 보도했다. 풋옵션은 7만6000~8만달러 행사가에 주로 몰렸다. 10월 30일 만기 옵션 미결제약정은 중순 만기의 약 9배였다. 콜옵션 잔량은 풋옵션의 두 배를 넘었고, 9만달러·9만5000달러·10만달러 행사가에 집중됐다. 미결제약정은 아직 청산되거나 만기 처리되지 않은 계약... 더보기",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "10월 30일 만기 비트코인(BTC) 옵션의 미결제약정이 117억달러(약 15조6078억원)에 달했고, 콜옵션 잔량은 풋옵션의 두 배를 넘었다. 10월 16일 만",
+    "thumbnail": "https://f1.tokenpost.kr/2026/10/ek6oti0l4m.jpg",
+    "score": 4.17,
+    "engagement": 0,
+    "matched_keywords": [
+      "블록체인"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "금 내릴 때 비트코인은 상승…크립토닷컴(Crypto.com), 9월 가상자산 ‘디커플링’ 분석",
+    "url": "https://www.tokenpost.kr/news/insights/421749",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-10-13T02:23:35+00:00",
+    "raw_excerpt": "2026년 9월 가상자산 시장이 주식·금·부동산 등 주요 전통 자산과 엇갈린 흐름을 보였다. 크립토닷컴(Crypto.com)의 리서치에 따르면 비트코인(BTC)과 이더리움(ETH), 솔라나(SOL)는 나란히 상승했다. 인플레이션과 지정학적 불확실성이 이어지는 가운데 현물 상장지수펀드(ETF)로 유입된 기관 자금과 인공지능(AI) 관련 토큰의 강세가 주요 동향으로 제시됐다.보고서에 집계된 9월 상승률은 비트코인(BTC) 6.4%, 이더리움(ETH) 8.8%, 솔라나(SOL) 14.6%다. 같은 기간 미국 나스닥 종합지수는 1.9% 올랐지만 SP 500과 다우존스 지수는 각각 0.5%, 4.3% 하락했다. 금과 글로벌 부동산도 각각 6.8%, 3.4% 내렸다. 가상자산이 일부 전통 자산의... 더보기",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "2026년 9월 가상자산 시장이 주식·금·부동산 등 주요 전통 자산과 엇갈린 흐름을 보였다. 크립토닷컴(Crypto.com)의 리서치에 따르면 비트코인(BTC)과",
+    "thumbnail": "https://f1.tokenpost.kr/2026/10/6h8fzz8via.webp",
+    "score": 4.168,
+    "engagement": 0,
+    "matched_keywords": [
+      "가상자산"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "“신원 확인, 매번 다시 해야 할까?”…a16z crypto 리서치, 온체인 금융의 ‘재사용 KYC’ 해법 분석",
+    "url": "https://www.tokenpost.kr/news/insights/421748",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-10-13T02:22:10+00:00",
+    "raw_excerpt": "전통 금융의 온체인 진출을 가로막는 고객확인(KYC)의 중복 절차를 줄이기 위해 검증 결과를 재사용하는 신원 인증 체계가 대안으로 제시됐다. a16z crypto 리서치(a16z crypto research)의 매기 슈와 미셸 코버는 2026년 10월 13일 보고서에서 ‘재사용 KYC’와 디지털 자격증명을 활용하면 개인정보 노출과 반복 검증 비용을 줄이면서 탈중앙화 금융(DeFi)의 기관 참여를 확대할 수 있다고 분석했다. 핵심 과제로는 검증기관 간 신뢰 기준과 법적 책임의 명확한 배분을 꼽았다.KYC는 금융기관이 자금세탁과 테러자금 조달을 방지하기 위해 고객의 신원을 확인하는 절차다. 기존 금융에서는 기관마다 고객 정보를 수집하고 검증 기록을 별도로... 더보기",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "전통 금융의 온체인 진출을 가로막는 고객확인(KYC)의 중복 절차를 줄이기 위해 검증 결과를 재사용하는 신원 인증 체계가 대안으로 제시됐다. a16z crypto",
+    "thumbnail": "https://f1.tokenpost.kr/2026/10/rcdct98nl6.png",
+    "score": 4.167,
+    "engagement": 0,
+    "matched_keywords": [
+      "개인정보"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "noon"
+  }
+]
