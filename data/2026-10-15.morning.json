@@ -1,0 +1,819 @@
+[
+  {
+    "title": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
+    "url": "https://www.latent.space/p/crossing-the-threshold",
+    "source": "Latent Space (swyx)",
+    "source_type": "substack",
+    "published_at": "2026-10-14T21:40:52+00:00",
+    "raw_excerpt": "At AI Engineer New York, frontier labs and financial firms explored how to give agents useful autonomy while keeping consequential decisions under control.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "At AI Engineer New York, frontier labs and financial firms explored how to give agents use",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!rtS2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4aa91ce4-8821-4844-aa0f-56d4bd3c8d7e_1280x720.jpeg",
+    "score": 8.706,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai",
+      "anthropic"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Amp puts AI agents to work beyond code with OpenAI models",
+    "url": "https://openai.com/index/amp-beyond-coding",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-10-14T12:00:00+00:00",
+    "raw_excerpt": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Liv",
+    "thumbnail": "",
+    "score": 6.945,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Lab-in-the-Loop at Compute Speed — Ian Quigley, Leash Bio",
+    "url": "https://www.latent.space/p/lab-in-the-loop-at-compute-speed",
+    "source": "Latent Space (swyx)",
+    "source_type": "substack",
+    "published_at": "2026-10-14T20:35:09+00:00",
+    "raw_excerpt": "How Leash Bio tamed DELs, the assay that traumatizes everyone, and used the data to catch cheating models. And why that same data is perfect for AI agents learning to think like chemists.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "How Leash Bio tamed DELs, the assay that traumatizes everyone, and used the data to catch",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!_2Xe!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F220316507%2F1ab4e337-1a1f-4b3b-afa1-cfdb8262bddc%2Ftranscoded-1792008845.png",
+    "score": 6.667,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "The AI race is back on",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-10-14T19:06:03+00:00",
+    "raw_excerpt": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish itself as a serious contender. Even the latest [ ]",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ah",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "score": 6.536,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai",
+      "anthropic"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Google says self-improving AI isn't anywhere close",
+    "url": "https://the-decoder.com/google-says-self-improving-ai-isnt-anywhere-close/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-10-14T19:18:44+00:00",
+    "raw_excerpt": "Google engineer Haydn Belfield says there's no measurable acceleration of AI research driven by AI at Deepmind. AI now writes more than 75 percent of production code, but 88 percent of changes still need human oversight. The company's in-house General Capability Index shows steady growth with no sudden speedup. Self-improving AI isn't anywhere close, Belfield says. The article Google says self-improving AI isn t anywhere close appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Google engineer Haydn Belfield says there's no measurable acceleration of AI research driv",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/gemini_logo-2.png",
+    "score": 6.379,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "deepmind"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "SentinelOne cuts malware analysis from weeks to hours",
+    "url": "https://openai.com/index/sentinelone",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-10-14T12:00:00+00:00",
+    "raw_excerpt": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capaci",
+    "thumbnail": "",
+    "score": 5.97,
+    "engagement": 0,
+    "matched_keywords": [
+      "openai"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "The EU’s next chapter in AI is agentic",
+    "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-10-14T00:00:00+00:00",
+    "raw_excerpt": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small busi",
+    "thumbnail": "",
+    "score": 5.97,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic",
+      "agentic ai"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+    "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-10-14T21:30:33+00:00",
+    "raw_excerpt": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/55589672916_8efa76c0ac_o.jpg?resize=1200,800",
+    "score": 5.705,
+    "engagement": 0,
+    "matched_keywords": [
+      "privacy"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+    "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "source": "Google DeepMind",
+    "source_type": "rss",
+    "published_at": "2026-10-14T02:00:14+00:00",
+    "raw_excerpt": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to",
+    "thumbnail": "https://lh3.googleusercontent.com/5PC4h7MzjC0ojOxiK-nPcRz0b6kUybKnCBjLL3nsb9T9qt7-2ciORJPnrObeFaYbAMqPxIhH4Wq9HD-U73lCivpFBcK8gABvhXXDo2lzUUSk9olsZQ=w528-h297-n-nu-rw-lo",
+    "score": 5.661,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "deepmind"
+    ],
+    "source_weight": 1.2,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+    "url": "https://openai.com/index/third-moment-research",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-10-14T07:00:00+00:00",
+    "raw_excerpt": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab build",
+    "thumbnail": "",
+    "score": 5.564,
+    "engagement": 0,
+    "matched_keywords": [
+      "codex"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+    "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-10-14T18:23:46+00:00",
+    "raw_excerpt": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "The label will appear on the player page and include songs entirely generated by AI or par",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/youtube-music-gen-ai-labels.png?w=1080",
+    "score": 5.491,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Researchers tracked down a rogue fleet of Chinese AI agents in the wild and actually talked to it",
+    "url": "https://the-decoder.com/researchers-tracked-down-a-rogue-fleet-of-chinese-ai-agents-in-the-wild-and-actually-talked-to-it/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-10-14T18:07:37+00:00",
+    "raw_excerpt": "For the first time, researchers have tracked down an uncontrolled fleet of Chinese AI agents in the wild and communicated with them via a web mailbox. The agents, running on Tencent Cloud, had launched more than 2,600 attempts to scrape data from Alibaba's mapping service Amap, finding their own workarounds when bot protections blocked them. When the researchers made contact, the agents were surprisingly polite. The article Researchers tracked down a rogue fleet of Chinese AI agents in the wild and actually talked to it appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "For the first time, researchers have tracked down an uncontrolled fleet of Chinese AI agen",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/chinese_agent_swarms-1200x670.png",
+    "score": 5.473,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+    "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-10-14T18:00:00+00:00",
+    "raw_excerpt": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/6811e05224449e9b499b4916_apate_team-p-1600.webp?resize=1200,797",
+    "score": 5.464,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
+    "url": "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
+    "source": "Latent Space (swyx)",
+    "source_type": "substack",
+    "published_at": "2026-10-14T05:40:28+00:00",
+    "raw_excerpt": "Gemini 4 Argon went GA today, but we already gave it title story 2 weeks ago and most benchmarks, like CursorBench, simply independently confirm their claims.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Gemini 4 Argon went GA today, but we already gave it title story 2 weeks ago and most benc",
+    "thumbnail": "https://substackcdn.com/image/youtube/w_728,c_limit/akEqiXFo3GM",
+    "score": 5.456,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
+    "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-10-14T15:13:24+00:00",
+    "raw_excerpt": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/55588061334_e461da18f4_k.jpg?resize=1200,800",
+    "score": 5.273,
+    "engagement": 0,
+    "matched_keywords": [
+      "startup"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "source_type": "rss",
+    "published_at": "2026-10-14T19:13:24+00:00",
+    "raw_excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and ev",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "score": 5.214,
+    "engagement": 0,
+    "matched_keywords": [
+      "regulation",
+      "crypto regulation"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Eight states sue OpenAI, saying ChatGPT isn t safe for kids",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-10-14T21:11:28+00:00",
+    "raw_excerpt": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when [ ]",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of ha",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "score": 5.167,
+    "engagement": 0,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "구글, 물리 추론 강화한 '로봇용 제미나이 4 아르곤' 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216246",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-14T17:39:48+00:00",
+    "raw_excerpt": "구글이 로봇이 실제 환경을 이해하고 스스로 작업 방법을 개선하도록 돕는 AI 기술 개발에 나섰다. 물리 법칙과 3D 공간을 추론하고 가상 시뮬레이션에서 동작을 검증하는 방식으로, 로봇의 정교한 조작 능력과 작업 효율을 높이는 데 초점을 맞췄다. 구글은 13일(현지시간) 로봇의 물리적 상황 이해와 제어, 시뮬레이션 구축, 동작 개선을 지원하는 모델 ‘로보틱스용 제미나이 4 아르곤(Gemini 4 Argon for Robotics)’을 공개했다.영상과 3D 공간, 물리 법칙을 함께 추론해 로봇이 복잡한 작업을 수행하도록 돕는 모델로,",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "구글이 로봇이 실제 환경을 이해하고 스스로 작업 방법을 개선하도록 돕는 AI 기술 개발에 나섰다. 물리 법칙과 3D 공간을 추론하고 가상 시뮬레이션에서 동작을 검",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216246_220275_155.jpg",
+    "score": 4.937,
+    "engagement": 0,
+    "matched_keywords": [
+      "로보틱스",
+      "robotics"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "EU authority classifies Circle’s USDC as ‘significant’ under MiCA",
+    "url": "https://cointelegraph.com/news/eba-circle-usdc-stablecoin-significant-token-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "source_type": "rss",
+    "published_at": "2026-10-14T19:03:52+00:00",
+    "raw_excerpt": "The second-largest stablecoin by market cap will be overseen by French and EU authorities under its classification as a “significant e-money token.“",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "The second-largest stablecoin by market cap will be overseen by French and EU authorities",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4XTT3VWKHJ84ZJBP443TGSN/hi-globe-usdc.png",
+    "score": 4.53,
+    "engagement": 0,
+    "matched_keywords": [
+      "stablecoin"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Standard Chartered pushes $2T stablecoin forecast to 2030 as transaction volumes grow",
+    "url": "https://cointelegraph.com/news/standard-chartered-stablecoin-forecast-2030-market-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "source_type": "rss",
+    "published_at": "2026-10-14T16:26:31+00:00",
+    "raw_excerpt": "The bank identified four distinct stablecoin markets, with USDC leading payments and AI transactions as competition intensifies over reserve yields.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "The bank identified four distinct stablecoin markets, with USDC leading payments and AI tr",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4XEE04ZMAXCNJ7MN7A5NHM7/crypto-winter-frozen-icy-freeze-cold-stablecoin.jpg",
+    "score": 4.383,
+    "engagement": 0,
+    "matched_keywords": [
+      "stablecoin"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "5000만이 쓰는 AI 에이전트 꿈꾸는 카톡 “똑똑한 모델만으로는 부족하다”",
+    "url": "https://byline.network/2026/10/14_29182883/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-10-14T09:01:46+00:00",
+    "raw_excerpt": "13일 열린 카카오의 테크 컨퍼런스 ‘이프카카오’에서 카카오 파운데이션 모델 카나나 개발을 총괄하고 있는 노병석 성과리더는 “5천만 사용자가 24시간 사용하는 AI를 생각해 보면 모델이 단순히 똑똑하기만 해서는 부족하다”고 강조했다. AI 에이전트를 더한 카카오톡의 뒷단을 책임지는 카나나를 위해 이날 노 성과리더가 제시한 전략은 풀스택 최적화·멀티모달·에이전틱 AI 3가지다. 또 송재하 카카오 최고기술책임자(CTO)는 이용자의 맥락을 연결하는 '메모리'와, 그 기억을 바탕으로 실제 행동을 안전하게 수행하는 '플랫폼'을 해법으로 내놨다.",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "13일 열린 카카오의 테크 컨퍼런스 ‘이프카카오’에서 카카오 파운데이션 모델 카나나 개발을 총괄하고 있는 노병석 성과리더는 “5천만 사용자가 24시간 사용하는 A",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/10/26.10.13사진자료5노병석-파운데이션-모델-성과리더_이프카카오2026.jpg",
+    "score": 4.331,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "에이전틱",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "광양경자청, 국제해양플랜트산업전서 기업 유치 나서",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216268",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-14T16:30:00+00:00",
+    "raw_excerpt": "광양만권경제자유구역청(청장 구충곤)은 14일부터 16일까지 사흘간 부산 벡스코(BEXCO)에서 열리는 ‘2026 국제해양에너지플랜트산업전’에 참가해 투자유치 활동을 펼친다고 밝혔다.‘2026 국제해양에너지플랜트산업전’은 산업통상자원부와 부산시가 주최하는 국내 유일의 조선·해양에너지플랜트 전문 산업전시회이다. 이번 산업전시회에는 글로벌 조선사를 비롯한 15개국 170여 개 기업이 참가해 600개 부스를 운영하며, 조선·해양플랜트, 해양에너지, 관련 기자재 등으로 친환경·탈탄소 기술과 AI, 자동화 등 산업의 디지털 전환 분야의 기술과",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "광양만권경제자유구역청(청장 구충곤)은 14일부터 16일까지 사흘간 부산 벡스코(BEXCO)에서 열리는 ‘2026 국제해양에너지플랜트산업전’에 참가해 투자유치 활동",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216268_220303_4337.jpg",
+    "score": 4.224,
+    "engagement": 0,
+    "matched_keywords": [
+      "디지털 전환"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
+    "url": "https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now",
+    "source": "CoinDesk",
+    "source_type": "rss",
+    "published_at": "2026-10-14T05:44:51+00:00",
+    "raw_excerpt": "",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/6e8ed1cd0f17a1509349ad7cb7c31b8324847527-1920x1280.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "score": 4.201,
+    "engagement": 0,
+    "matched_keywords": [
+      "quantum"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Qivalis wins Dutch e-money license for euro stablecoin",
+    "url": "https://cointelegraph.com/news/qivalis-authorization-dutch-central-bank-euro-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "source_type": "rss",
+    "published_at": "2026-10-14T12:53:41+00:00",
+    "raw_excerpt": "Qivalis said the Electronic Money Institution authorization enables it to launch a euro-denominated stablecoin, with issuance planned for the coming months, subject to additional MiCA requirements.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Qivalis said the Electronic Money Institution authorization enables it to launch a euro-de",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4X72PYZ674KKQJ0QCZ8VV70/crypto-regulation-paper-rule-office-mica-eu-1.jpg",
+    "score": 4.183,
+    "engagement": 0,
+    "matched_keywords": [
+      "stablecoin"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "OpenCode 2.0",
+    "url": "https://anoma.ly/notes/opencode-2-0/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-14T20:48:24+00:00",
+    "raw_excerpt": "Article URL: https://anoma.ly/notes/opencode-2-0/ Comments URL: https://news.ycombinator.com/item?id=50094994 Points: 124 # Comments: 42",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://anoma.ly/notes/opencode-2-0/ Comments URL: https://news.ycombinator.c",
+    "thumbnail": "https://anoma.ly/notes/og/opencode-2-0.png",
+    "score": 4.114,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "카카오, 현업 부서 찾아가는 ‘FDE’ 운영하는 이유",
+    "url": "https://byline.network/2026/10/14_291827733/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-10-14T15:26:56+00:00",
+    "raw_excerpt": "기업들이 인공지능(AI)을 도입하면서 직원 개인의 업무 생산성은 높아지고 있지만, 조직 전체의 생산성이 같은 속도로 개선되는 건 아니다. 직원들이 AI를 활용해 문서를 빠르게 작성하고 자료를 분석하더라도, 여러 부서가 협업하는 과정에서 발생하는 업무 지연까지 해결되지는 않기 때문이다. 카카오는 이 문제를 FDE 조직을 통해 풀고 있다. AI를 통해 조직 전반의 업무 흐름을 근본적으로 개선하기 위해서다. 중장기적으로는 개별 조직 내 문제 해결 경험을 회사 전반으로 확장할 수 있는 플랫폼도 구상하고 있다.",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "기업들이 인공지능(AI)을 도입하면서 직원 개인의 업무 생산성은 높아지고 있지만, 조직 전체의 생산성이 같은 속도로 개선되는 건 아니다. 직원들이 AI를 활용해",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/10/20261014_kakao_2.jpeg",
+    "score": 4.076,
+    "engagement": 0,
+    "matched_keywords": [
+      "생산성",
+      "조직"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Fancy Curl Sites",
+    "url": "https://nytpu.com/gemlog/2026-03-18",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-14T19:29:12+00:00",
+    "raw_excerpt": "Article URL: https://nytpu.com/gemlog/2026-03-18 Comments URL: https://news.ycombinator.com/item?id=50093612 Points: 48 # Comments: 10",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://nytpu.com/gemlog/2026-03-18 Comments URL: https://news.ycombinator.co",
+    "thumbnail": "/furry/tamun_icon_roxy.png",
+    "score": 4.048,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Things to know when you get cancer – 2026 Edition",
+    "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-14T19:26:30+00:00",
+    "raw_excerpt": "Article URL: https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/ Comments URL: https://news.ycombinator.com/item?id=50093568 Points: 488 # Comments: 125",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/ Comments U",
+    "thumbnail": "https://jjmaxwell4.com/open-graph/things-to-know-when-you-get-cancer.png",
+    "score": 4.046,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "보안사고 계속되는 금융권, 망분리 완화 딜레마",
+    "url": "https://byline.network/2026/10/1014-4/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-10-14T14:40:47+00:00",
+    "raw_excerpt": "연이은 금융권 침해사고로 망분리 규제 완화를 둘러싼 금융권의 고민이 깊어지고 있다. 신기술 활용을 확대하려면 외부 네트워크와의 연결을 넓혀야 하지만, 그만큼 사이버 공격과 정보 유출 위험도 커질 수 있기 때문이다. 금융당국은 규제 완화 기조를 유지하고 있어, 금융사의 신기술 활용을 보장하면서 보안 수준을 어떻게 유지할지가 과제로 떠오르고 있다.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "연이은 금융권 침해사고로 망분리 규제 완화를 둘러싼 금융권의 고민이 깊어지고 있다. 신기술 활용을 확대하려면 외부 네트워크와의 연결을 넓혀야 하지만, 그만큼 사이",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/10/KakaoTalk_20261014_180150288_02.jpg",
+    "score": 4.04,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "규제"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Suicide rates highest ever among middle-aged men",
+    "url": "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-14T19:03:58+00:00",
+    "raw_excerpt": "Article URL: https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/ Comments URL: https://news.ycombinator.com/item?id=50093180 Points: 163 # Comments: 193",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-",
+    "thumbnail": "https://www.telegraph.co.uk/content/dam/briefs/2026/10/13/TELEMMGLPICT000507183811_17919022221720_trans_NvBQzQNjv4BqrnykcIhNBTQGIhNzmTaT-cLZq-j_VIcNfiYtpwBx7zI.jpeg?impolicy=OG-Standard",
+    "score": 4.027,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+    "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-14T18:37:21+00:00",
+    "raw_excerpt": "Article URL: https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/ Comments URL: https://news.ycombinator.com/item?id=50092730 Points: 238 # Comments: 170",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930",
+    "thumbnail": "",
+    "score": 4.005,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Virtual Oxide Labs: Emulating a Full Oxide Rack",
+    "url": "https://oxide.computer/blog/voxel-labs",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-14T18:21:14+00:00",
+    "raw_excerpt": "Article URL: https://oxide.computer/blog/voxel-labs Comments URL: https://news.ycombinator.com/item?id=50092423 Points: 29 # Comments: 2",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://oxide.computer/blog/voxel-labs Comments URL: https://news.ycombinator",
+    "thumbnail": "https://oxide-computer-2nesc8qns-oxidecomputer.vercel.app/img/meta/og-blog.png",
+    "score": 3.991,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "America didn't lose its rare earth industry, it sold it",
+    "url": "https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-14T17:50:26+00:00",
+    "raw_excerpt": "Article URL: https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-industry.-it-sold-it Comments URL: https://news.ycombinator.com/item?id=50091875 Points: 121 # Comments: 56",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://www.lawfaremedia.org/article/america-didn-t-lose-its-rare-earth-indus",
+    "thumbnail": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/rare-earth-2.jpg?sfvrsn=e020d640_5",
+    "score": 3.966,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Neckbeard – A DevOps/platform/SRE plugin for your agent",
+    "url": "https://github.com/bealesh/neckbeard",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-14T17:45:34+00:00",
+    "raw_excerpt": "Article URL: https://github.com/bealesh/neckbeard Comments URL: https://news.ycombinator.com/item?id=50091794 Points: 56 # Comments: 47",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://github.com/bealesh/neckbeard Comments URL: https://news.ycombinator.c",
+    "thumbnail": "https://opengraph.githubassets.com/6e00dade56f50584d57c6334a5866cc92b75e963c95868b39cbbde540ec409eb/bealesh/neckbeard",
+    "score": 3.962,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
+    "url": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
+    "source": "CoinDesk",
+    "source_type": "rss",
+    "published_at": "2026-10-14T01:00:00+00:00",
+    "raw_excerpt": "",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/90725f28abbda8fc3beba48c502b8cb9cd1f93a7-1000x664.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "score": 3.905,
+    "engagement": 0,
+    "matched_keywords": [
+      "regulatory"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Better HTTP/1 connection reuse in Go 1.27",
+    "url": "https://go.dev/blog/http-connection-reuse",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-14T16:29:33+00:00",
+    "raw_excerpt": "Article URL: https://go.dev/blog/http-connection-reuse Comments URL: https://news.ycombinator.com/item?id=50090369 Points: 170 # Comments: 28",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://go.dev/blog/http-connection-reuse Comments URL: https://news.ycombina",
+    "thumbnail": "https://go.dev/doc/gopher/runningsquare.jpg",
+    "score": 3.898,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "금융권 AI 해킹 피해 16곳으로 확대…개인정보 약 10만건 유출",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=49723",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-14T17:12:15+00:00",
+    "raw_excerpt": "[스마트타임스]금융권 인공지능(AI) 해킹 침해사고가 은행과 저축은행을 넘어 전자금융업체와 가상자산사업자 등으로 확산하면서 피해 금융회사가 16곳으로 늘었다. 현재까지 확인된 개인정보 유출 규모는 약 10만건으로, 추가 점검 결과에 따라 피해가 더 커질 가능성도 있다.금융위원회와 금융감독원은 14일 정부서울청사에서 제2차 긴급상황대응 회의를 열고 금융권 침해사고 현황과 보안 점검 결과, 후속 대응 방안을 논의했다.당국에 따르면 신한은행 침해사고 전후로 사고가 확인된 금융회사는 전체 업권에 걸쳐 총 16개사다. 기존에 알려진 11곳에",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "[스마트타임스]금융권 인공지능(AI) 해킹 침해사고가 은행과 저축은행을 넘어 전자금융업체와 가상자산사업자 등으로 확산하면서 피해 금융회사가 16곳으로 늘었다. 현",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202610/49723_48700_1145_v150.jpg",
+    "score": 3.85,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "해킹",
+      "개인정보"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "파생시장 재편… RWA 무기한 선물 늘고 BTC 레버리지 둔화",
+    "url": "https://www.blockmedia.co.kr/archives/1151761?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-10-14T21:22:45+00:00",
+    "raw_excerpt": "[멕시코=심영재 특파원] 디지털자산(가상자산) 파생상품 시장에서 비트코인과 이더리움에 대한 레버리지 투자 수요가 줄어드는 반면 주식·원자재 등 전통 금융자산을 기초로 한 무기한 선물 거래가 빠르게 성장하고 있다. 지난해 대규모 강제청산 이후 투기 수요가 사라진 것이 아니라 거래 대상이 달라지고 있다는 분석이다. 14일(현지시각) 블룸버그가 디지털자산 거래 인프라 업체 탈로스(Talos)의 데이터를 인용해 보도한 바에 따르면 주요 거래소 5곳의 무기한 [...]",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[멕시코=심영재 특파원] 디지털자산(가상자산) 파생상품 시장에서 비트코인과 이더리움에 대한 레버리지 투자 수요가 줄어드는 반면 주식·원자재 등 전통 금융자산을 기",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/06/20260622-141922.png",
+    "score": 3.557,
+    "engagement": 0,
+    "matched_keywords": [
+      "가상자산",
+      "rwa"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "[인터뷰] 원프레딕트 윤병동 대표, 공장 ‘자동화’ 넘어 ‘자율화’로",
+    "url": "https://byline.network/2026/10/384928304982034/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-10-14T09:12:17+00:00",
+    "raw_excerpt": "원프레딕트는 피지컬 AI의 핵심이 ‘자율화’에 있다고 보는 기업이다. 이는 공장 자동화 개념과 다르다. 공장 자동화는 ‘피지컬 AI’라는 화두가 던져지기 이전부터 이미 일부 공정에서 진행되고 있었다. 다만 이런 자동화 공정 사이에는 사람의 개입이 필수적이었다.",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "원프레딕트는 피지컬 AI의 핵심이 ‘자율화’에 있다고 보는 기업이다. 이는 공장 자동화 개념과 다르다. 공장 자동화는 ‘피지컬 AI’라는 화두가 던져지기 이전부터",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/10/onepredict_CEO-1-e1791920065138.jpg",
+    "score": 3.239,
+    "engagement": 0,
+    "matched_keywords": [
+      "피지컬 ai"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "치매를 알고 치매에서 해방",
+    "url": "http://www.silvernetnews.com/news/articleView.html?idxno=53527",
+    "source": "실버넷뉴스",
+    "source_type": "rss",
+    "published_at": "2026-10-14T18:32:39+00:00",
+    "raw_excerpt": "지난 13일 오후 2시부터 서울시 강남구 역삼동 주민센터 4층 세미나실에서 실버들을 위한 건강프로그램을 운영하고 있었다. 노쇠 예방 프로그램으로 치매 예방과 노쇠 예방 그리고 근력 강화 운동 등 노년의 건강 생활을 위한 교육이었다. 70~80대 실버들이 참여하여 권인아 간호사의 강의를 들으며 올바른 노년의 건강 지킴에 대하여 알아보고 있었다.권인아 간호사는“현재 우리나라는 초고령사회로 노인 인구가 빠르게 증가하고 있습니다. 또한 노령인구가 늘어나면서 치매 유병률도 높아지고 있습니다. 2023년 치매 역학 실태조사에 의하면 65~69",
+    "topic": "senior_healthtech",
+    "topic_label": "🏥 시니어 헬스케어테크",
+    "summary": "지난 13일 오후 2시부터 서울시 강남구 역삼동 주민센터 4층 세미나실에서 실버들을 위한 건강프로그램을 운영하고 있었다. 노쇠 예방 프로그램으로 치매 예방과 노쇠",
+    "thumbnail": "https://cdn.silvernetnews.com/news/thumbnail/202610/53527_222447_325_v150.jpg",
+    "score": 2.334,
+    "engagement": 0,
+    "matched_keywords": [
+      "고령"
+    ],
+    "source_weight": 0.7,
+    "region": "domestic",
+    "slot": "morning"
+  }
+]
