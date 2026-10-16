@@ -1,0 +1,823 @@
+[
+  {
+    "title": "엔젤로보틱스, 창업자 공경철 대표 복귀...웨어러블 로봇 넘어 피지컬 AI 승부수",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42326",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-10-16T16:51:05+00:00",
+    "raw_excerpt": "엔젤로보틱스가 창업자 공경철 대표 체제로 전환하고 피지컬 인공지능(AI)을 중심으로 사업 전략을 강화한다.웨어러블 로봇 개발과 의료 현장 검증을 통해 축적한 기술을 로봇 구동기와 제어 플랫폼, 인체 동작 파운데이션 모델로 확장해 하드웨어 중심의 사업 구조를 넘어 사람의 움직임을 이해하고 현실 세계에서 작동하는 피지컬 AI 기업으로 도약한다는 전략이다.엔젤로보틱스는 16일 이사회를 열고 창업자이자 이사회 의장인 공경철 미래기술원장을 대표이사로 선임했다고 공시했다.공 대표는 2017년 엔젤로보틱스를 창업해 2024년 10월까지 대표이사",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "엔젤로보틱스가 창업자 공경철 대표 체제로 전환하고 피지컬 인공지능(AI)을 중심으로 사업 전략을 강화한다.웨어러블 로봇 개발과 의료 현장 검증을 통해 축적한 기술",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202610/42326_63639_5023_v150.jpg",
+    "score": 8.687,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "파운데이션 모델"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "트웰브랩스, 말로 요청하면 장면 찾고 편집하는 AI 에이전트 ‘자키’ 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216341",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-16T17:19:55+00:00",
+    "raw_excerpt": "트웰브랩스(대표 이재성)는 개발 지식이 없는 일반 사용자도 쉽게 영상을 편집할 수 있도록 돕는 영상 이해 AI 에이전트 '자키'를 출시했다고 16일 밝혔다.자키는 자체 파운데이션 모델에 임베딩과 메타데이터 생성 기술 등을 적용해 사용자가 말로 요청하면 영상 속 원하는 장면을 찾아 필요한 작업을 수행하는 것이 특징이다.긴 원본 영상 속 하이라이트 장면으로 가편집본을 구성하거나 반응이 좋은 클립만 따로 추출하는 것도 가능하다. 유튜브와 틱톡 등 소셜 영상 링크를 입력하면 트렌드와 반응 지표를 분석해 홍보용 레퍼런스 영상을 추천하며, 결",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "트웰브랩스(대표 이재성)는 개발 지식이 없는 일반 사용자도 쉽게 영상을 편집할 수 있도록 돕는 영상 이해 AI 에이전트 '자키'를 출시했다고 16일 밝혔다.자키는",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216341_220388_5044.png",
+    "score": 8.475,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "오픈AI 도청 혐의 직원, 사우디 왕세자 면담부터 투자사 활동까지 드러나",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216347",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-16T16:12:46+00:00",
+    "raw_excerpt": "오픈AI 회의실에 녹음 장치를 설치한 혐의로 체포된 전 직원이 사우디아라비아 정부 인사 및 왕실, 현지 투자·스타트업 업계와 폭넓게 교류해 온 것으로 드러났다. 미국에서 엔지니어로 일하면서 사우디 투자사의 벤처 파트너를 겸하고, 사우디 기술계 인사들에게 오픈AI 사무실을 안내하는 등 양국 기술 업계를 연결하는 역할을 해온 것으로 알려졌다.월스트리트저널(WSJ)과 파이낸셜타임스(FT)는 15일(현지시간) 오픈AI 전 엔지니어 압둘라흐만 알포잔의 현지 활동과 인터뷰 등을 토대로 사우디 측과의 관계를 상세히 보도했다. 다만 수사 당국은",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "오픈AI 회의실에 녹음 장치를 설치한 혐의로 체포된 전 직원이 사우디아라비아 정부 인사 및 왕실, 현지 투자·스타트업 업계와 폭넓게 교류해 온 것으로 드러났다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216347_220392_851.png",
+    "score": 8.384,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "엔비디아, 기업용 에이전트 겨냥 120B ‘네모트론 3.5 슈퍼 VL’ 오픈 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216322",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-16T12:09:13+00:00",
+    "raw_excerpt": "엔비디아가 기업용 AI 에이전트 시장을 겨냥해 멀티모달 추론 성능과 처리 효율을 강화한 오픈웨이트 모델을 선보였다. 다양한 형태의 정보를 분석하고 복잡한 업무를 수행할 수 있도록 설계해 기업의 AI 도입 비용과 처리 시간을 줄이는 데 초점을 맞췄다.엔비디아는 15일(현지시간) 공식 블로그를 통해 문서와 차트, 표, 이미지, 비디오를 통합적으로 이해하고 추론할 수 있는 오픈웨이트 멀티모달 AI 모델 ‘네모트론 3.5 슈퍼 VL(Nemotron 3.5 Super VL)’을 공개했다.이번 신제품은 추론과 지시 이행, 도구 사용 기능을 하",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "엔비디아가 기업용 AI 에이전트 시장을 겨냥해 멀티모달 추론 성능과 처리 효율을 강화한 오픈웨이트 모델을 선보였다. 다양한 형태의 정보를 분석하고 복잡한 업무를",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216322_220364_4844.png",
+    "score": 8.054,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "Bunzee AI, 경쟁사 분석부터 기획서·클론 코드까지…SF34, ‘번지 AI’ 클론 기능 출시",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42324",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-10-16T13:43:36+00:00",
+    "raw_excerpt": "에스에프삼십사(SF34)가 인공지능(AI) 제품 기획 플랫폼 ‘번지 AI(Bunzee AI)’에 웹사이트나 앱 주소만 입력하면 서비스 구조를 분석하고 정보구조(IA), 클론 코드, 와이어프레임 등을 자동 생성하는 기능을 추가했다고 16일 밝혔다.이번 기능은 경쟁 서비스나 참고할 만한 앱의 주소를 입력하면 AI가 화면 구성과 주요 기능, 사용자 인터페이스(UI) 구성요소 등을 분석하고, 그 결과를 제품 기획에 활용할 수 있도록 지원하는 것이 핵심이다. 회사 측은 분석부터 결과 생성까지 약 5분이면 가능하다.기존에는 참고할 앱을 직접",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "에스에프삼십사(SF34)가 인공지능(AI) 제품 기획 플랫폼 ‘번지 AI(Bunzee AI)’에 웹사이트나 앱 주소만 입력하면 서비스 구조를 분석하고 정보구조(I",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202610/42324_63636_4250_v150.jpg",
+    "score": 7.553,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "TSMC, 머스크의 '테라팹' 협의 확인...\"운영권은 반드시 우리가 가져야\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216330",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-16T17:41:02+00:00",
+    "raw_excerpt": "TSMC가 일론 머스크 CEO의 텍사스 AI 반도체 생산 시설 '테라팹(Terafab)' 프로젝트 참여를 논의 중이라고 확인했다. 다만 협력 조건으로 공장 운영권은 TSMC가 가져야 한다는 입장을 분명히 밝혔다. 공장 운영 주체를 두고 양측의 구상이 달라 실제 협력으로 이어질지는 불확실하다.CC 웨이 TSMC 회장 겸 CEO는 15일(현지시간) 3분기 실적 발표 컨퍼런스콜에서 미국 내 생산능력을 애리조나주 밖으로 확대하는 방안을 검토하고 있다고 말했다. 그는 \"텍사스도 선택지 중 하나\"라며 \"평가를 위해 실무팀을 텍사스에 파견했다\"",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "TSMC가 일론 머스크 CEO의 텍사스 AI 반도체 생산 시설 '테라팹(Terafab)' 프로젝트 참여를 논의 중이라고 확인했다. 다만 협력 조건으로 공장 운영권",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216330_220376_5122.png",
+    "score": 7.529,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[게시판] KT, AI 기반 매장음악 서비스 '래디오비즈' 출시 등 단신",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216349",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-16T17:32:15+00:00",
+    "raw_excerpt": "■ KT(대표 박윤영)는 AI 공간 음악 플랫폼 기업 어플레이즈와 협력해 소상공인 전용 AI 매장음악 서비스 '래디오비즈'를 모바일 부가서비스로 출시했다고 밝혔다. AI가 카페와 음식점, 미용실 등 업종과 매장 환경에 맞는 음악을 추천해 자동 재생하며 영업시간과 이벤트, 프로모션 안내 방송 및 예약 방송 기능도 제공한다. 별도 장비나 음악 전문 지식 없이도 매장 분위기에 맞는 음악과 방송을 설정할 수 있다.■ 롯데이노베이트(대표 김경엽)는 IT 인프라 전문기업 아이티센씨티에스와 안산 글로벌 클라우드 센터(GCC) 운영 및 데이터센터",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "■ KT(대표 박윤영)는 AI 공간 음악 플랫폼 기업 어플레이즈와 협력해 소상공인 전용 AI 매장음악 서비스 '래디오비즈'를 모바일 부가서비스로 출시했다고 밝혔다",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216349_220395_5918.jpg",
+    "score": 7.517,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "머스크, 메모리 반도체 가격 정책 강력 비판...삼성·SK하이닉스 겨냥",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216348",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-16T17:15:49+00:00",
+    "raw_excerpt": "일론 머스크 CEO가 메모리 반도체 공급 부족에 따른 제조업체들의 가격 정책을 강하게 비판했다. 특정 기업을 직접 거론하지는 않았지만, 미국 마이크론의 가격 정책을 칭찬하면서 삼성전자와 SK하이닉스를 우회적으로 저격했다는 해석이 나온다.머스크는 13일(현지시간) X를 통해 “마이크론은 미래 메모리 가격과 관련해 합리적인 태도를 보여 왔지만, 다른 업체들은 터무니없는 가격을 요구해 왔다”며 “오늘의 고객들은 이를 절대 잊지 않을 것”이라고 밝혔다.이어 “마이크론은 장기적인 고객 충성도를 확보하기 위한 현명한 선택을 하고 있다”고 평가",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "일론 머스크 CEO가 메모리 반도체 공급 부족에 따른 제조업체들의 가격 정책을 강하게 비판했다. 특정 기업을 직접 거론하지는 않았지만, 미국 마이크론의 가격 정책",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216348_220393_2424.png",
+    "score": 7.495,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "인텔리빅스, 30일 코스닥 상장...\"안전 AI로 국방·자율주행·선박 공략\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216333",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-16T16:25:25+00:00",
+    "raw_excerpt": "\"서버, 카메라, 로봇 등 현장 맞춤형 AI 솔루션을 통해 국방을 넘어 자율주행과 선박 안전 운항으로 적용 분야를 넓히고 로봇 플랫폼을 다각화해 수익원을 확대하겠습니다.\"인텔리빅스(대표 최은수)는 16일 서울 여의도 콘래드 호텔에서 기자간담회를 열고 코스닥 상장을 통한 안전 AI 미래 전략을 밝혔다.먼저 중대재해처벌법 시행 이후 산업현장을 중심으로 안전 AI 수요가 급증했으며, 교통·국방 분야와 신흥국에서도 수요가 늘고 있다고 강조했다.이에 맞춰 자체 영상분석 엔진 '빅스2.0(VIX2.0)'과 AI 에이전트 '빅사(VIXA)'를",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "\"서버, 카메라, 로봇 등 현장 맞춤형 AI 솔루션을 통해 국방을 넘어 자율주행과 선박 안전 운항으로 적용 분야를 넓히고 로봇 플랫폼을 다각화해 수익원을 확대하겠",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216333_220379_4439.jpg",
+    "score": 7.426,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "“美 역대 최강, AI 오픈 웨이트 모델”…메타, 8160억 매개변수 ‘뮤즈 스파크 오픈’ 공개",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42323",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-10-16T11:10:00+00:00",
+    "raw_excerpt": "메타(Meta)가 총 8160억 개 매개변수를 갖춘 대규모 인공지능(AI) 모델 ‘뮤즈 스파크 오픈(Muse Spark Open)’을 15일(현지시간) 공개했다. 또한 이 모델은 현재까지 미국에서 공개된 가장 강력한 오픈 웨이트 모델이라고 밝혔다.'뮤즈 스파크 오픈'은 코드 작성과 디버깅을 비롯해 여러 단계의 작업을 스스로 계획하고 도구를 활용하는 AI 에이전트 개발을 겨냥한 모델로 텍스트뿐 아니라 이미지·음성·영상 입력을 처리하고, 최대 100만 토큰의 컨텍스트를 지원한다.이번 공개의 핵심은 대규모 모델의 가중치를 외부 개발자에게",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "메타(Meta)가 총 8160억 개 매개변수를 갖춘 대규모 인공지능(AI) 모델 ‘뮤즈 스파크 오픈(Muse Spark Open)’을 15일(현지시간) 공개했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202610/42323_63635_1048_v150.jpg",
+    "score": 7.361,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "\"GLM-5.3, 스스로 안전성 테스트 속여...'정렬 위장' 가능성\" 경고",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216334",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-16T14:29:30+00:00",
+    "raw_excerpt": "중국 Z.ai(지푸 AI)의 플래그십 모델 'GLM-5.3'이 AI 안전성 테스트를 스스로 조작하거나 회피할 수 있는 잠재력을 보였다는 연구 결과가 나왔다. AI 안전성 연구기관 아폴로 리서치는 15일(현지시간) '임파서블벤치(ImpossibleBench)'와 팔리세이드 리서치의 '종료 저항 평가(shutdown resistance eval)' 재구현 환경에서 GLM-5.3을 구동해 수집한 행동 평가 트랜스크립트를 분석한 보고서를 발표했다. 악셀 호이마르크와 에즈라 뉴먼 연구원은 GLM-5.3이 표준 행동 평가 과정에서 자신의 행동",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "중국 Z.ai(지푸 AI)의 플래그십 모델 'GLM-5.3'이 AI 안전성 테스트를 스스로 조작하거나 회피할 수 있는 잠재력을 보였다는 연구 결과가 나왔다. AI",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216334_220377_2113.png",
+    "score": 7.269,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai 안전"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "전남광주, 첫 주민자치박람회 여수서 개막…2000여명 참석",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216321",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-16T13:50:00+00:00",
+    "raw_excerpt": "AI 생성 영상전남광주통합특별시 출범 후 첫 주민자치박람회가 여수에서 열렸다. 주민자치 정책 방향을 공유하고 지역별 사례를 살펴보는 프로그램이 16일까지 이어진다.전남광주는 15일 여수엑스포컨벤션센터 엑스포홀에서 ‘제1회 전남광주통합특별시 주민자치박람회’를 개막했다고 밝혔다.개막식에는 윤난실 전남광주통합특별시 시민주권부시장과 여수시장, 전남광주통합특별시의회 의원, 행정안전부 관계자, 시군구 주민자치회와 시민 등 2000여명이 참석했다.행사는 마을 자치 발전 유공자 표창과 정책설명회, 분과별 정책토론, 주민자치 우수사례 전시·체험 프",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AI 생성 영상전남광주통합특별시 출범 후 첫 주민자치박람회가 여수에서 열렸다. 주민자치 정책 방향을 공유하고 지역별 사례를 살펴보는 프로그램이 16일까지 이어진다",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216321_220370_1149.jpg",
+    "score": 7.216,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "펀진, ICTC 2026 우수 논문상 수상...AI 드론 RF 위치탐지 기술 인정",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21738",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-10-16T17:06:40+00:00",
+    "raw_excerpt": "펀진은 지난 15일 제주에서 열린 국제학술대회 ‘ICTC 2026’에서 우수 워크숍 논문상(Best Workshop Paper Award)을 수상했다고 16일 밝혔다. ICTC 2026은 한국통신학회가 주최하는 제17회 정보통신기술 융합 국제학술대회로, 10월 14일부터 16일까지 제주에서 진행됐다.수상 논문은 펀진 김현철·감민·박재준 등 6명이 공동 발표한 ‘유·무인 복합체계에서 무인항공기(UAV) 기반 RF 신호원 위치탐지’ 연구다. 논문은 수신신호강도(RSSI)를 활용해 무선주파수(RF) 신호 발생원의 위치를 추정하고, 드론의",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "펀진은 지난 15일 제주에서 열린 국제학술대회 ‘ICTC 2026’에서 우수 워크숍 논문상(Best Workshop Paper Award)을 수상했다고 16일 밝",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202610/21738_22512_218.jpg",
+    "score": 6.331,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "포티투마루, ‘K-AI 특허전략 협의체’ 합류...AI 기술 주권 확보 지원",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21735",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-10-16T16:20:44+00:00",
+    "raw_excerpt": "포티투마루는 지식재산처와 한국특허전략개발원이 출범시킨 ‘K-AI 특허전략 협의체’에 참여한다고 16일 밝혔다. 협의체는 지난 1일 서울 강남구 한국과학기술회관에서 출범했으며, 국내 AI 기업과 연구기관 등 20여 곳이 참여한다.협의체는 미국과 중국을 중심으로 소버린 AI 육성이 본격화하고, AI 핵심 기술의 특허 확보 경쟁이 심화하는 상황에 대응하기 위해 마련됐다. AI 핵심·응용 특허 확보를 지원하고, 산업 현장의 수요를 반영한 정책과 신규 사업을 발굴하는 것이 목적이다. 해외에서는 AI 특허를 공동으로 활용하려는 움직임도 나타나",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "포티투마루는 지식재산처와 한국특허전략개발원이 출범시킨 ‘K-AI 특허전략 협의체’에 참여한다고 16일 밝혔다. 협의체는 지난 1일 서울 강남구 한국과학기술회관에서",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202610/21735_22508_1746.jpg",
+    "score": 6.279,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "AI 추론 병목, 메모리에서 해법 찾는다...엑시나, CXL 기반 ‘MX1’ 선보여",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21734",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-10-16T16:16:21+00:00",
+    "raw_excerpt": "엑시나는 12일부터 15일(현지시간)까지 미국 산호세에서 열린 ‘OCP 글로벌 서밋 2026’에서 CXL 기반 메모리 솔루션 ‘MX1’을 활용한 AI 추론 기술을 시연했다고 16일 밝혔다.엑시나는 행사 부스에서 두 가지 AI 추론 데모를 공개했다. 첫 번째는 CXL 메모리 풀을 활용해 여러 추론 서버가 KV 캐시를 공유하는 기술이다. KV 캐시는 AI 모델이 앞서 처리한 입력 정보를 저장해 후속 토큰 생성에 활용하는 데이터다. 서버마다 KV 캐시를 개별적으로 저장하는 대신 공유 메모리에 모으면 중복 저장을 줄이고, 서버 간 데이터",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "엑시나는 12일부터 15일(현지시간)까지 미국 산호세에서 열린 ‘OCP 글로벌 서밋 2026’에서 CXL 기반 메모리 솔루션 ‘MX1’을 활용한 AI 추론 기술을",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202610/21734_22507_1337.jpg",
+    "score": 6.273,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "DGIST 등 4대 과기원, 260억 들여 초정밀 양자센서 개발 본격화",
+    "url": "https://zdnet.co.kr/view/?no=20261016160706",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-10-16T07:07:06+00:00",
+    "raw_excerpt": "[지디넷코리아]DGIST가 주도하는 4대 과학기술원이 초정밀 양자센서 개발을 본격화한다.DGIST는 15일 ‘퀀텀센싱 전략사업단 발대식’을 개최했다고 밝혔다. 행사에는 이건우 DGIST 총장을 비롯한 유천열 퀀텀센싱 전략사업단장, 박성균 한국기초과학지원연구원(KBSI) 원장을 비롯해 대구광역시 및 경상북도, 정보통신기획평가원(IITP), 한국전자통신연구원(ETRI), KAIST, UNIST, GIST, POSTECH 등 유관기관 관계자, 양자기술 분야 연구자들이 참석했다.사업단 예산 규모는 총 260억원이다. 사업 기간은 올해부터 오는 2030년까지 5년이다. 기존 센서의 정밀도와 감도 한계를 획기적으로 뛰어넘는 양자센서 원천기술을 확보하는 것이 목표다.연구는 주관 기관인 DGIST를 중심으로 KAIST, UNIST, GIST가 공동 참여한다. 이들은 양자 물성, 광원·검출, 회로·시스템 설계 등을 나눠 개발 할 계획이다.연구단은 ▲광자·원자·초전도 기반 초격차 양자센서 핵심 원천기술 개발 ▲센서 제작 공정 및 플랫폼 구축을 통한 상용화 기반 확보 ▲산업 적용 가능성을 검증하는 양자전환(QX) 플랫폼 구축 등 3대 핵심 분야에 주력한다.이를 통해 초정밀 자기장 측정, 단일광자 검출, 양자 이미징 등 차세대 센싱 기술을 확보하고 미래 모빌리티, 반도체, 의료, 국방 등 다양한 첨단 산업으로 활용 범위를 넓혀갈 계획이다.DGIST는 교내",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "[지디넷코리아]DGIST가 주도하는 4대 과학기술원이 초정밀 양자센서 개발을 본격화한다.DGIST는 15일 ‘퀀텀센싱 전략사업단 발대식’을 개최했다고 밝혔다. 행",
+    "thumbnail": "https://image.zdnet.co.kr/2026/10/16/8b76389bf82d202aab39c9268f42d61e.jpg",
+    "score": 5.968,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "양자",
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "현대모비스, 중국서 첫 모빌리티 데이…로봇·반도체 협력사 발굴",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=49791",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-16T15:48:24+00:00",
+    "raw_excerpt": "[스마트타임스] 현대모비스가 북미 실리콘밸리에 이어 중국 상하이로 오픈이노베이션 활동을 확대한다. 로보틱스와 반도체 등 신사업 분야에서 협력사를 발굴하고 기술 개발과 투자 기회를 확보하기 위해서다.현대모비스는 지난 14일 상하이에서 현지 유망 기업과 완성차업체, 투자기관 등을 초청해 ‘모비스 모빌리티 데이(MMD)’를 개최했다고 16일 밝혔다. 북미 실리콘밸리에서 정기적으로 열어온 행사를 중국에서 개최한 것은 이번이 처음이다.행사에서는 로보틱스와 피지컬 AI 분야의 방향성을 논의했다. 중국 완성차업체 관계자와 로보틱스 기업 경영진,",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "[스마트타임스] 현대모비스가 북미 실리콘밸리에 이어 중국 상하이로 오픈이노베이션 활동을 확대한다. 로보틱스와 반도체 등 신사업 분야에서 협력사를 발굴하고 기술 개",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202610/49791_48767_3819_v150.jpg",
+    "score": 5.782,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "로보틱스"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "간손상·임상자료 신뢰성 논란 '타브너스'…심평원 급여적정성 평가 도마",
+    "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79973",
+    "source": "히트뉴스",
+    "source_type": "rss",
+    "published_at": "2026-10-16T17:23:00+00:00",
+    "raw_excerpt": "[히트뉴스=이현주 기자] 희귀 자가면역질환 치료제 '타브너스(성분명 아바코판)'의 중대한 간손상 위험과 임상시험 자료의 신뢰성 문제가 제기된 상황에서 건강보험심사평가원이 급여 적정성을 인정한 것에 대해 평가 절차가 적절했는지 점검해야 한다는 지적이 나왔다.16일 국회 보건복지위원회 심평원 국정감사에서 이인영 의원은 타브너스의 국내 허가 이후 해외에서 잇따라 제기된 안전성 문제와 규제기관 조치가 심평원의 약제급여평가위원회 심의 과정에 충분히 반영되지 않았다는 문제가 제기됐다.타브너스는 중증 활동성 항호중구세포질항체(ANCA) 관련 혈",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "[히트뉴스=이현주 기자] 희귀 자가면역질환 치료제 '타브너스(성분명 아바코판)'의 중대한 간손상 위험과 임상시험 자료의 신뢰성 문제가 제기된 상황에서 건강보험심사",
+    "thumbnail": "https://cdn.hitnews.co.kr/news/thumbnail/202610/79973_108925_2240_v150.jpg",
+    "score": 5.773,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "KB국민은행, 정보보호 예산 860억원 ‘최다’…우리은행은 21.7% 삭감",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=49788",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-16T14:09:35+00:00",
+    "raw_excerpt": "[스마트타임스]최근 은행권 해킹과 고객정보 유출 사고로 보안 투자 필요성이 커진 가운데 KB국민은행이 5대 시중은행 중 가장 많은 정보보호 예산을 편성한 것으로 나타났다. 반면 우리은행은 관련 예산을 전년보다 20% 넘게 줄여 대조를 보였다.16일 국회 정무위원회 소속 박대출 국민의힘 의원이 금융감독원으로부터 제출받은 자료에 따르면 KB국민은행의 올해 정보보호 예산은 860억7500만원으로 5대 은행 가운데 가장 많았다.NH농협은행이 801억3400만원으로 뒤를 이었으며 하나은행 636억3500만원, 우리은행 615억6600만원,",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "[스마트타임스]최근 은행권 해킹과 고객정보 유출 사고로 보안 투자 필요성이 커진 가운데 KB국민은행이 5대 시중은행 중 가장 많은 정보보호 예산을 편성한 것으로",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202610/49788_48764_852_v150.jpg",
+    "score": 5.689,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "해킹"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "Strands Harness SDK - 모델과 클라우드를 선택하고 에이전트 실행을 직접 제어하는 SDK",
+    "url": "https://news.hada.io/topic?id=35442",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-10-16T00:30:03+00:00",
+    "raw_excerpt": "자체 앱에 AI 에이전트를 만들고 실행 과정을 직접 제어 하려는 개발자를 위한 Python/TypeScript SDK 모델과 클라우드를 자유롭게 선택 하고, 규모가 커져 백엔드를 교체해도 에이전트 코드 유지 가능 맥락 관리, 실행 제한, 관측 기능을 기본 제공...",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "자체 앱에 AI 에이전트를 만들고 실행 과정을 직접 제어 하려는 개발자를 위한 Python/TypeScript SDK 모델과 클라우드를 자유롭게 선택 하고, 규모",
+    "thumbnail": "https://social.news.hada.io/topic/35442?v=5481e049e3da1472d0c0ed4ceb96e8fb",
+    "score": 5.467,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "AGC바이오-플렌 헬스, 상처 치료제용 재조합 효소 개발·생산 계약",
+    "url": "https://www.hitnews.co.kr/news/articleView.html?idxno=79951",
+    "source": "히트뉴스",
+    "source_type": "rss",
+    "published_at": "2026-10-16T12:04:57+00:00",
+    "raw_excerpt": "[히트뉴스=김민지 기자] AGC 바이오로직스가 벨기에 바이오제약사 플렌 헬스의 차세대 상처·피부 치료제에 사용될 재조합 효소의 개발과 생산을 맡는다.AGC 바이오로직스는 플렌 헬스가 재조합 효소의 공정 개발과 생산 규모 확대, 의약품 제조·품질관리기준(GMP)에 따른 생산을 담당할 위탁개발생산 파트너로 자사를 선정했다고 16일 밝혔다.개발·생산 대상은 치료제의 핵심 효소 성분인 락토페록시다아제와 글루코오스 옥시다아제 등 두 가지 재조합 단백질이다. 독일 하이델베르크 생산시설에서 플렌 헬스의 미국 임상시험계획(IND) 제출과 임상 2",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "[히트뉴스=김민지 기자] AGC 바이오로직스가 벨기에 바이오제약사 플렌 헬스의 차세대 상처·피부 치료제에 사용될 재조합 효소의 개발과 생산을 맡는다.AGC 바이오",
+    "thumbnail": "https://cdn.hitnews.co.kr/news/thumbnail/202610/79951_108908_1633_v150.jpg",
+    "score": 5.441,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "아이겔, 미국 제로 트러스트 리더 랜디 레스닉 선임해 아이겔 어댑티브 시큐어 엔드포인트 플랫폼™ 전략 추진",
+    "url": "https://zdnet.co.kr/view/?no=20261016171013",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-10-16T08:10:13+00:00",
+    "raw_excerpt": "[지디넷코리아] 전 미국 국방부 및 국가안보국 사이버보안 임원, 약 40년간의 기술 및 임무 리더십을 바탕으로 전 세계 정부와 핵심 산업을 대상으로 제로 트러스트, 사이버 복원력, AI, 다중 프레임워크 거버넌스 전반에서 아이겔 어댑티브 시큐어 엔드포인트 플랫폼™(IASEP™)을 발전 포트로더데일, 플로리다, 2026년 10월 16일 /PRNewswire/ -- 아이겔 어댑티브 시큐어 엔드포인트 플랫폼™(IGEL Adaptive Secure Endpoint Platform™, (IASEP™)을 제공하는 글로벌 소프트웨어 기업 아이겔 (IGEL )이 10월 15일, 제로 트러스트 분야에서 인정받는 리더이자 설계자인 랜디 레스닉(Randy Resnick)이 정부 및 핵심 산업 담당 필드 CTO로 합류했다고 발표했다. IGEL Appoints U.S. Zero Trust Leader Randy Resnick to Advance the IGEL Adaptive Secure Endpoint Platform™ Strategy 레스닉은 미국 국방부(U.S. Department of Defense, DoD)와 국가안보국(National Security Agency, NSA)을 아우르는 거의 40년간의 기술, 사이버보안, 프로그램 리더십 경험을 갖추고 있다. 가장 최근에는 국방부 제로 트러스트 포트폴리오 관리 사무소(Zero Trust Portfol",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "[지디넷코리아] 전 미국 국방부 및 국가안보국 사이버보안 임원, 약 40년간의 기술 및 임무 리더십을 바탕으로 전 세계 정부와 핵심 산업을 대상으로 제로 트러스트",
+    "thumbnail": "https://mmx.prnasia.com/media/MS2013848/IGEL-Randy-Resnick-announcement.jpg?id=OA3020846&p=medium600",
+    "score": 5.352,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "거버넌스"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "인텔·AMD, 에이전틱 AI 겨냥 랙단위 고밀도 CPU 경쟁",
+    "url": "https://zdnet.co.kr/view/?no=20261016153448",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-10-16T07:01:52+00:00",
+    "raw_excerpt": "[지디넷코리아]에이전틱 AI로 데이터센터에서 CPU의 중요성이 커지는 가운데 양대 x86 서버용 프로세서 공급사인 인텔과 AMD가 단위 면적당 CPU 코어를 최대화 하기 위한 랙 단위 인프라 설계에 나섰다.두 회사는 12일부터 15일까지 미국 캘리포니아 주 새너제이에서 열린 '오픈 컴퓨트 프로젝트(OCP) 글로벌 서밋 2026'에서 에이전틱 AI에 대응하기 위한 고밀도 CPU 랙 설계를 각각 공개했다.인텔은 랙당 4만6000개 이상의 CPU 코어를, AMD는 최대 3만2768개 코어를 구현하는 구성을 제시했다.기존 생성 AI가 사용자 요청에 대한 답변을 생성하는 단일 추론 작업에 주로 초점을 맞췄다. 반면 에이전틱 AI는 목표 달성을 위해 여러 작업을 계획하고 외부 도구를 호출하며 결과를 검증하는 과정을 반복한다.에이전틱 AI 역시 거대언어모델(LLM) 구동과 추론 등에 GPU를 활용한다. 그러나 다수의 에이전트 실행을 관리하고 여러 작업을 조율하며 데이터 입출력과 외부 응용프로그램·서비스를 연결하는 데는 CPU가 중요한 역할을 한다.특히 여러 에이전트가 동시에 실행되면 각각의 작업을 관리하기 위한 CPU 연산량도 자연히 늘어난다. 단순히 GPU 성능을 높이거나 갯수를 늘리는 것만으로는 전체 시스템의 처리량까지 늘릴 수 없다.인텔은 지난 6월 컴퓨텍스 2026 행사에서 랙 단위 AI 솔루션 설계를 위한 '랙스케일 블루프린트' 전략을 ",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "[지디넷코리아]에이전틱 AI로 데이터센터에서 CPU의 중요성이 커지는 가운데 양대 x86 서버용 프로세서 공급사인 인텔과 AMD가 단위 면적당 CPU 코어를 최대",
+    "thumbnail": "https://image.zdnet.co.kr/2026/10/16/1d58b034c8ee2438c132302370e30ff7.jpg",
+    "score": 5.288,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "에이전틱"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "中 장비기업, 韓 전력반도체 시장 두드린다…SK키파운드리·매그나칩 공급 추진",
+    "url": "https://zdnet.co.kr/view/?no=20261016135335",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-10-16T06:54:24+00:00",
+    "raw_excerpt": "[지디넷코리아]중국 반도체 장비기업 중웨이반도체(AMEC)가 한국 차세대 전력반도체 시장을 노린다. AMEC은 SK키파운드리·매그나칩 등과 전력반도체 핵심 제조장비 테스트에 돌입한 것으로 16일 파악됐다. AMEC은 반도체 전공정인 식각·증착장비가 주력이다. 램리서치·어플라이드머티어리얼즈(AMAT) 등 미국 반도체 장비업체 출신들이 공동 설립해 기술력을 키웠다. 대만 파운드리 TSMC에 최첨단 공정 건식 식각장비도 공급하고 하다. AMEC이 SK키파운드리, 매그나칩과 테스트 중인 장비는 유기금속화학증착(MOCVD) 장비다. MOCVD는 금속 유기원료를 사용해 웨이퍼에 특정 박막을 형성하는 공정이다. 다양한 반도체 제조에 활용하지만, 특히 탄화규소(SiC)·질화갈륨(GaN) 등 최첨단 전력반도체 분야에서 중요도가 높다. SiC·GaN은 기존 반도체 소재인 실리콘(Si) 대비 고온·고전압 내구성이 뛰어나다. 전력효율도 높다. 덕분에 전기차, 데이터센터, 산업용 시설, 통신 등 다양한 분야에서 수요가 증가하는 추세다. SK키파운드리, 매그나칩도 차세대 전력반도체 시장 잠재력에 주목해 시장 진출을 추진 중이다. SK키파운드리의 경우 올 상반기 신규 고객사로부터 1200V SiC 모스펫(MOSFET) 제품 개발을 수주한 바 있다. 국내 차세대 전력반도체 시장 본격 개화는 AMEC에 기회다. AMEC은 중국 MOCVD 시장 점유율이 매우 높지만",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "[지디넷코리아]중국 반도체 장비기업 중웨이반도체(AMEC)가 한국 차세대 전력반도체 시장을 노린다. AMEC은 SK키파운드리·매그나칩 등과 전력반도체 핵심 제조장",
+    "thumbnail": "https://image.zdnet.co.kr/2026/10/16/9f3f7ccec86f525f3fd1af4bfc5f3dd9.jpg",
+    "score": 5.281,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "Show GN: NeonLingo - 웹페이지에서 단어를 번역하고 저장하는 Chrome·Edge 확장 프로그램",
+    "url": "https://news.hada.io/topic?id=35471",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-10-16T08:52:00+00:00",
+    "raw_excerpt": "안녕하세요. NeonLingo를 만들고 있는 창업자입니다. 영어 문서나 기사를 읽을 때, 단어 뜻 확인과 단어장 저장을 읽던 페이지에서 처리하는 도구입니다. 웹페이지에서 단어를 선택하면 번역을 확인하고 단어장에 자동으로 저장할 수 있습니다. 저장한 단어가 다른 페이지에 나오면 다시 하이라이트해",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "안녕하세요. NeonLingo를 만들고 있는 창업자입니다. 영어 문서나 기사를 읽을 때, 단어 뜻 확인과 단어장 저장을 읽던 페이지에서 처리하는 도구입니다. 웹페",
+    "thumbnail": "https://social.news.hada.io/topic/35471?v=b72bb1167fca14e829774c89aa48ec73",
+    "score": 5.24,
+    "engagement": 0,
+    "matched_keywords": [
+      "창업"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "한국IT직업전문학교 “취업 잘되는 학과에 수험생들 지원”",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=49805",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-16T17:33:22+00:00",
+    "raw_excerpt": "[스마트타임스]한국IT직업전문학교(이하 한아전)는 대학 수시 합격 발표 전 수험생도 2027학년도 신입생 전형에 지원 가능하다고 16일 밝혔다.한아전 관계자는 “수능 후 인공지능학과, 정보보안학과, 웹툰학과 등 ‘취업 잘되는 학과’에 수험생들의 지원이 이어지고 있다”며 “고3 수험생 및 졸업생, 고졸 검정고시 합격자를 대상으로 수시ㆍ정시 미반영, 면접전형으로 신·편입생을 선발 중”이라고 설명했다.이글루코퍼레이션에 취업한 정보보안학과의 한 학생은 “포트폴리오가 큰 도움이 됐고, 수업을 통해 배웠던 내용을 이력서에 기재했는데 서류 합격",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "[스마트타임스]한국IT직업전문학교(이하 한아전)는 대학 수시 합격 발표 전 수험생도 2027학년도 신입생 전형에 지원 가능하다고 16일 밝혔다.한아전 관계자는 “",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202610/49805_48785_3310_v150.jpg",
+    "score": 5.205,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "카이아, 업비트 ‘지각 상장’ 다음은 누구? 발행·사용 막힌 ‘K 코인’ 생존 시험대",
+    "url": "https://www.blockmedia.co.kr/archives/1152470?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-10-16T05:27:23+00:00",
+    "raw_excerpt": "[블록미디어 오수환 기자] 통합 블록체인 프로젝트 카이아(KAIA)가 국내 디지털자산(가상자산) 거래소 업비트에 지각 상장 했다. 그 뒤를 이을 K 코인 은 좀처럼 눈에 띄지 않고 있다. 신규 상장은 줄어드는 반면 상장 폐지는 늘고 있으며, 코인 발행과 유통을 둘러싼 제도적 규제까지 겹치면서 국내 블록체인 기업들의 입지가 급격히 좁아지는 모양새다. 16일 업계에 따르면 업비트는 지난 9일 카이아의 원화·비트코인·테더 마켓 [...]",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[블록미디어 오수환 기자] 통합 블록체인 프로젝트 카이아(KAIA)가 국내 디지털자산(가상자산) 거래소 업비트에 지각 상장 했다. 그 뒤를 이을 K 코인 은 좀처",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/10/20261016-132733.png",
+    "score": 5.199,
+    "engagement": 0,
+    "matched_keywords": [
+      "블록체인",
+      "가상자산"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "Self-Evolving Agent Harness - 모델은 그대로, 하네스(프롬프트·기억·도구)를 스스로 고치는 에이전트",
+    "url": "https://news.hada.io/topic?id=35463",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-10-16T05:04:10+00:00",
+    "raw_excerpt": "모델 가중치는 고정하고, 에이전트를 감싼 프롬프트 · 기억 · 워크플로 · 도구 코드를 실행 피드백으로 고쳐 나가는 「하네스 자기 진화」를 형식화한 논문 수정 대상과, 수정 안을 내는 방법, 적용 기준을 나눠서 봄 받아들인 수정은 다음 실행에도 남고, 적용할지는 새 독립 검증 데이터로...",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "모델 가중치는 고정하고, 에이전트를 감싼 프롬프트 · 기억 · 워크플로 · 도구 코드를 실행 피드백으로 고쳐 나가는 「하네스 자기 진화」를 형식화한 논문 수정 대",
+    "thumbnail": "https://social.news.hada.io/topic/35463?v=2b89af7c477946ac5e8d4a5b29b20cdf",
+    "score": 5.003,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "DEX RWA 무기한 선물 거래량 398억달러…8월 말보다 74.7% 늘어",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/423328",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-10-16T08:50:50+00:00",
+    "raw_excerpt": "PANews는 16일 CryptoRank 데이터를 인용해 탈중앙화 거래소(DEX)의 실물자산 토큰화 무기한 선물 주간 거래량이 8월 마지막 주 228억달러에서 398억달러(약 53조5000억원)로 74.7% 증가했다고 보도했다. Variational의 시장 점유율도 9월 초 10.6%에서 32%로 높아졌다. Variational의 지난주 거래량은 127억3000만달러(약 17조1000억원)로 TradeXYZ를 넘어섰다. RWA 무기한 선물은 주식·상품 등 실물자산 가격을 추종하는 만기 없는 파생상품이다. 거래량은 기초자산을 직접 매입한 금액이나 토큰화 자산의 시가총액과 다르다. CryptoRank가 집계한 8월 월간 RWA 무기한 선물 거래량은 약 1220억달러(약 163조9000억원)다. 이 수치에는... 더보기",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "PANews는 16일 CryptoRank 데이터를 인용해 탈중앙화 거래소(DEX)의 실물자산 토큰화 무기한 선물 주간 거래량이 8월 마지막 주 228억달러에서 3",
+    "thumbnail": "https://f1.tokenpost.kr/2026/10/63f81hxi17.jpg",
+    "score": 4.791,
+    "engagement": 0,
+    "matched_keywords": [
+      "토큰화",
+      "rwa"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "예술품 RWA, 토큰화 전 소유권·수익권부터 따져야",
+    "url": "https://www.tokenpost.kr/news/policy/423314",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-10-16T08:26:00+00:00",
+    "raw_excerpt": "예술품을 토큰화할 때는 토큰이 어떤 권리를 나타내는지부터 정해야 한다. 실물 작품의 소유권과 저작권은 별개이며, 지분을 나눠 수익을 배분하는 구조는 홍콩에서 집합투자기구 규제 대상이 될 수 있다. Techub News가 공개한 제목은 창립자 겸 CEO Alma Li의 견해를 ‘예술품 RWA는 권리를 먼저 정의한 뒤 기술을 설계해야 한다’고 요약한다. 홍콩 증권선물위원회(SFC)는 2023년 11월 2일 토큰화 증권 관련 회람에서 예술품이나 토지의 분할 지분을 토큰화하는 구조가 집합투자기구(CIS)에 해당할 수 있다고 설명했다. SFC는 전통적인 펀드 형태가 아니더라도 재산을 공동 관리하거나 참여자의 출자·수익을 모아 운용하고, 참여자가... 더보기",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "예술품을 토큰화할 때는 토큰이 어떤 권리를 나타내는지부터 정해야 한다. 실물 작품의 소유권과 저작권은 별개이며, 지분을 나눠 수익을 배분하는 구조는 홍콩에서 집합",
+    "thumbnail": "https://f1.tokenpost.kr/2026/10/1j6qs4wme9.jpg",
+    "score": 4.771,
+    "engagement": 0,
+    "matched_keywords": [
+      "토큰화",
+      "rwa"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "1,791억달러 거래된 루블 스테이블코인 A7A5, 제재는 계속",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/423290",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-10-16T07:25:14+00:00",
+    "raw_excerpt": "루블 연동 스테이블코인 A7A5가 키르기스스탄에서 발행 등록됐지만, 발행사와 관련 네트워크는 미국의 제재 대상이다. 현지 등록만으로 국제 제재 준수나 전면적인 합법성을 뜻하지는 않는다. A7A5 사용자 약관은 발행사 올드 벡터(Old Vector)가 키르기스스탄 금융시장 규제·감독 서비스의 2025년 2월 19일 결정에 따라 첫 발행을 등록했다고 기재했다. 공식 사이트는 A7A5가 러시아 루블에 1대1로 연동되며 키르기스스탄 정부 규정에 따라 발행됐다고 설명한다. 이는 발행사 측 설명이다. 미국은 2025년 8월 올드 벡터를 제재 대상으로 지정했고, 2026년 10월 1일에는 A7 네트워크를 제재했다. 미국 재무부는 A7A5를 올드 벡터가 발행한... 더보기",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "루블 연동 스테이블코인 A7A5가 키르기스스탄에서 발행 등록됐지만, 발행사와 관련 네트워크는 미국의 제재 대상이다. 현지 등록만으로 국제 제재 준수나 전면적인 합",
+    "thumbnail": "https://f1.tokenpost.kr/2026/10/9bc1k7mob5.jpg",
+    "score": 4.72,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제",
+      "스테이블코인"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "에이전트 기반 검증 - AI가 쓴 코드를 스스로 검사하게 만들기",
+    "url": "https://news.hada.io/topic?id=35443",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-10-16T00:31:02+00:00",
+    "raw_excerpt": "AI 코딩의 병목이 코드 작성에서 정확성 검증으로 이동 함. 에이전트가 스스로 변경하고 검사하고 수정하는 반복 과정 을 갖추면, 사람이 매번 오류를 찾아 돌려주는 방식보다 품질을 크게 높일 수 있음 E2E 테스트 는 실제 사용자 흐름을 기준으로 ...",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "AI 코딩의 병목이 코드 작성에서 정확성 검증으로 이동 함. 에이전트가 스스로 변경하고 검사하고 수정하는 반복 과정 을 갖추면, 사람이 매번 오류를 찾아 돌려주는",
+    "thumbnail": "https://social.news.hada.io/topic/35443?v=86d0e842d98fb3e6abc095df341a7aa2",
+    "score": 4.718,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "유에스디에이아이, 시즌3 시작…sUSDai 수익률 7% 보장",
+    "url": "https://www.blockmedia.co.kr/archives/1151979?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-10-16T08:35:36+00:00",
+    "raw_excerpt": "[블록미디어 황효준 에디터] 온체인 기반 GPU 담보 대출 인프라 유에스디에이아이(USDai)가 올로 게임(Allo Game) 시즌3 ‘메트로폴리탄(Metropolitan)’을 시작했다. 스테이킹 자산 sUSDai에 연 7%를 기준으로 수익률 부족분을 보전하는 구조를 도입하고, 시즌2 참여자에게 CHIP 토큰 2억2500만개를 배분한다. 유에스디에이아이는 15일(현지시각) 시즌2 ‘플랫아이언(Flatiron)’을 종료하고 시즌3 운영에 들어갔다고 밝혔다. 시즌3는 2027년 4월14일까지 진행된다. 기존 적격 예치 포지션은 별도 조치 없이 시즌3 포인트 [...]",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "[블록미디어 황효준 에디터] 온체인 기반 GPU 담보 대출 인프라 유에스디에이아이(USDai)가 올로 게임(Allo Game) 시즌3 ‘메트로폴리탄(Metropo",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/10/20261015-150201.png",
+    "score": 4.701,
+    "engagement": 0,
+    "matched_keywords": [
+      "gpu"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "中 디지털 위안화, 홍콩 펀드 투자에 활용…국경 간 금융거래 확대",
+    "url": "https://www.blockmedia.co.kr/archives/1152544?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-10-16T08:32:07+00:00",
+    "raw_excerpt": "[블록미디어 이정화 기자] 앤트인터내셔널이 디지털 위안화를 활용해 홍콩의 위안화 표시 토큰화 머니마켓펀드에 투자하면서 중앙은행 디지털화폐(CBDC)의 활용 범위가 국경 간 송금을 넘어 역외 자산 운용으로 확대되고 있다. 앤트그룹의 싱가포르 기반 계열사 앤트인터내셔널은 16일 화샤펀드(ChinaAMC) 홍콩법인이 운용하는 위안화 디지털 머니마켓펀드에 대한 자금 배치를 완료했다. 이번 거래는 중국 본토에서 홍콩으로 디지털 위안화를 이체한 뒤 역외 위안화 금융상품에 투자하는 [...]",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[블록미디어 이정화 기자] 앤트인터내셔널이 디지털 위안화를 활용해 홍콩의 위안화 표시 토큰화 머니마켓펀드에 투자하면서 중앙은행 디지털화폐(CBDC)의 활용 범위가",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/10/20261016-155749.png",
+    "score": 4.698,
+    "engagement": 0,
+    "matched_keywords": [
+      "토큰화"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[인터뷰] “토큰화만으로는 부족…규제 준수하는 DeFi가 필요하다” — 뉴턴랩스 공동창업자 데니스 원",
+    "url": "https://www.tokenpost.kr/news/insights/423245",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-10-16T05:55:50+00:00",
+    "raw_excerpt": "운용사가 만든 투자상품이 여러 금융 서비스에서 유통되려면 투자자 자격과 이전 제한이 계속 적용돼야 한다. 고객 정보와 기관의 비공개 데이터도 보호해야 한다. 토큰포스트는 뉴턴랩스 공동창업자 겸 CTO 데니스 원을 만나, 자산을 블록체인에 올린 뒤에도 이러한 조건을 유지하면서 유통과 담보 활용으로 연결하려면 무엇이 필요한지 물었다. 그는 2018년부터 블록체인 산업에서 활동해왔다. 뉴턴랩스의 전신인 매직랩스(Magic Labs)는 임베디드 월렛 인프라를 개발했으며 폴리마켓(Polymarket), 페이팔(PayPal), 네이버 등을 고객사로 확보했다. 이후 매직랩스의 지갑 인프라 사업을 매각하고 뉴턴랩스로 전환해 탈중앙화 프로토콜인 뉴턴... 더보기",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "운용사가 만든 투자상품이 여러 금융 서비스에서 유통되려면 투자자 자격과 이전 제한이 계속 적용돼야 한다. 고객 정보와 기관의 비공개 데이터도 보호해야 한다. 토큰",
+    "thumbnail": "https://f1.tokenpost.kr/2026/10/mnzj7zel87.png",
+    "score": 4.645,
+    "engagement": 0,
+    "matched_keywords": [
+      "블록체인",
+      "토큰화"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "산업부 차관에 박동일 산업정책실장…제조·산업 정책 전문가",
+    "url": "https://zdnet.co.kr/view/?no=20261016161608",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-10-16T07:16:08+00:00",
+    "raw_excerpt": "[지디넷코리아]이재명 대통령은 16일 산업통상부 차관에 박동일 산업부 산업정책실장을 임명했다.박 신임 차관은 상산고와 서울대 경제학과를 졸업하고 미국 오리건대에서 경제학 석사 학위를 받았다.행정고시 40회로 공직에 입문해 정보통신부 산업기술과·지식정보산업과·정책총괄과 등에서 사무관 시절을 보내고 이명박 정부 들어 지식경제부(현 산업통상부)로 적을 옮겨 규제개혁법무담당관·유통물류과장·원전환경과장·기계로봇과장·장관비서관·산업기반총괄과장·소재부품장비총괄과장 등 원전·유통·산업 분야 주요 보직을 두루 거쳤다.고위공무원으로 승진한 후에는 소재부품장비협력관·원전산업정책국장·제조산업정책관을 역임했고 최근까지 산업정책실장직을 수행했다.특히 2019년 일본의 반도체 수출규제 당시 최일선인 소부장총괄과장과 소부장협력관으로 정부 대응을 조율하며 불화수소·포토레지스트·폴리이미드 등 핵심 3대 품목을 중심으로 수입처 다변화를 추진하고 국내 재고를 확보하는 등 소부장 공급망 안정화와 자립화를 이끌었다.또 원전환경과장과 원전산업정책과장 시절에는 사회적 합의가 어렵고 갈등 소지가 큰 사용후 핵연료 문제와 관련해 이해관계자 간 의견을 조율했다. 원전산업정책국장 시절에는 에너지 전환과 수급 환경 변화 속에서 국내 원전 생태계가 안정적으로 유지될 수 있도록 정책을 조율하는 등 국가 전력수급 안정을 도모하는 데 기여했다.산업부 내에서는 유통·원전·소부장·제조업 등 산업",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "[지디넷코리아]이재명 대통령은 16일 산업통상부 차관에 박동일 산업부 산업정책실장을 임명했다.박 신임 차관은 상산고와 서울대 경제학과를 졸업하고 미국 오리건대에서",
+    "thumbnail": "https://image.zdnet.co.kr/2026/10/16/2f0aa6370d604409f72ea1d6c61e7301.jpg",
+    "score": 4.626,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "인텔, 애플 14A 칩 생산 분석…웨이퍼 60만장 추정",
+    "url": "https://www.tokenpost.kr/news/tech/423256",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-10-16T05:25:03+00:00",
+    "raw_excerpt": "인텔($INTC)이 애플($AAPL)의 A·M 시리즈 칩을 차세대 14A 공정으로 생산할 가능성이 있다는 분석이 나왔다. 키뱅크 애널리스트들은 애플 물량을 웨이퍼 60만장으로 추정했으며, 브로드컴·구글·마이크로소프트·엔비디아의 주문도 거론했다. 체인뉴스(鏈新聞)는 Wccftech 보도를 인용해 키뱅크 애널리스트들이 아시아 공급망 조사에서 이같이 분석했다고 전했다. 키뱅크 애널리스트들은 브로드컴($AVGO)의 네트워크 스위치 칩과 구글의 서버 프로세서 위탁생산 계약이 성사됐다고 분석했으며, 마이크로소프트($MSFT) 서버 프로세서와 엔비디아($NVDA) 게임용 GPU 생산도 맡을 것으로 전망했다. 애플 물량은 맥용 M 시리즈와 아이폰용 A... 더보기",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "인텔($INTC)이 애플($AAPL)의 A·M 시리즈 칩을 차세대 14A 공정으로 생산할 가능성이 있다는 분석이 나왔다. 키뱅크 애널리스트들은 애플 물량을 웨이퍼",
+    "thumbnail": "https://f1.tokenpost.kr/2026/10/tfy7cro9d5.jpg",
+    "score": 4.62,
+    "engagement": 0,
+    "matched_keywords": [
+      "gpu",
+      "차세대"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "한화솔루션, 500kV급 케이블 소재 기술 검증",
+    "url": "https://zdnet.co.kr/view/?no=20261016153912",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-10-16T06:39:12+00:00",
+    "raw_excerpt": "[지디넷코리아]한화솔루션 와이어앤케이블(W C)이 차세대 초고압 교류송전(HVAC) 분야 검증을 성공하며 초고압 케이블 소재 제품군 확대에 나섰다.한화솔루션은 중국 초고압 케이블 제조사인 칭다오한허, 터비엔전공(TBEA)과 각각 협력해 500kV급 HVAC 케이블용 XLPE 절연 및 반도전 소재 패키지에 대한 기술 검증을 성공적으로 완료했다고 16일 밝혔다.이 시험은 중국 SECRI 계열 인증기관인 TICW가 주관했으며, 초고압 송전 환경에서 요구되는 절연 성능 및 장기 신뢰성 검증이 주요 검증 사항이다.이번 성과로 한화솔루션은 기존 400kV급에 이어 500kV급까지 초고압 절연 소재 기술의 신뢰성을 확보했다. 국제 공인 인증기관인 KEMA 인증 확보도 동시에 추진 중이다. 이를 통해 아시아를 넘어 글로벌 초고압 HVAC 케이블 시장에서 소재 공급 기회를 보다 넓혀 나간다는 전략이다.기술 검증 성과는 글로벌 판매 실적으로 이어지고 있다. 한화솔루션은 올해 글로벌 SEHV XLPE 판매량은 전년의 두 배에 가까운 수준으로 늘어날 것으로 전망했다.특히 중국 시장에서는 325kV급 SEHV XLPE 등을 포함한 초고압 소재 판매량이 지난해 대비 약 3배 가량 확대가 예상된다.회사는 글로벌 고객 포트폴리오를 다변화하고, 발전소·송전망·대형 재생에너지 프로젝트 등 다양한 응용 분야에서 소재 공급을 확대해 나간다는 전략이다.카를로 스칼라타 한",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "[지디넷코리아]한화솔루션 와이어앤케이블(W C)이 차세대 초고압 교류송전(HVAC) 분야 검증을 성공하며 초고압 케이블 소재 제품군 확대에 나섰다.한화솔루션은 중",
+    "thumbnail": "https://image.zdnet.co.kr/2026/10/16/d8456682cd320fe4ff21c9ad7745e85d.jpg",
+    "score": 4.592,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "“우리는 못 했는데”…CZ ‘중국 진출’ 언급 뒤 솔라나 현지 행사 돌연 중단",
+    "url": "https://www.blockmedia.co.kr/archives/1152491?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-10-16T06:01:59+00:00",
+    "raw_excerpt": "[블록미디어 양원모 기자] 솔라나 재단이 중국 시장 공략을 위해 준비한 대규모 기술 행사가 개막 당일 돌연 중단됐다. 현장에 공안당국 관계자들이 출동해 참석자들의 입장을 통제했다 는 증언이 나오면서 중단 배경에 관심이 쏠린다. 공교롭게도 창펑자오(CZ) 바이낸스 창업자가 솔라나의 중국 진출을 공개적으로 언급한 지 하루 만에 벌어진 일이다. 16일(현지시각) 우블록체인, 체인캐처 등 현지 매체에 따르면 이날 중국 상하이 샹그릴라 [...]",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[블록미디어 양원모 기자] 솔라나 재단이 중국 시장 공략을 위해 준비한 대규모 기술 행사가 개막 당일 돌연 중단됐다. 현장에 공안당국 관계자들이 출동해 참석자들의",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/10/20261016-150130.png",
+    "score": 4.557,
+    "engagement": 0,
+    "matched_keywords": [
+      "블록체인"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "LG전자, '로봇 SW 플랫폼' 조직 신설...ETRI 출신 김영준 전무 지휘",
+    "url": "https://zdnet.co.kr/view/?no=20261016135133",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-10-16T06:01:32+00:00",
+    "raw_excerpt": "[지디넷코리아]LG전자가 전사에 흩어져 있던 로봇 소프트웨어(SW) 인력을 한곳에 모았다. 로봇 개발 속도를 높여 상업화 시점을 앞당기는 것이 목표다.16일 로봇 업계에 따르면 LG전자는 최근 '로봇 소프트웨어 플랫폼' 조직을 신설했다. 기존 여러 사업부와 연구소에 분산돼 있던 로봇 소프트웨어 개발 인력을 하나로 모은 조직이다.로봇 소프트웨어 플랫폼은 지난 6월 출범한 류재철 최고경영자(CEO) 직속 '로보틱스 사업 센터' 산하 조직이다. 로봇 소프트웨어 플랫폼은 제어, 판단·계획, 학습, 시뮬레이션, 운영체제, 미들웨어 등 소프트웨어 전반 개발을 맡는다.조직 지휘봉은 김영준 전무가 잡았다. 김 전무는 한국전자통신연구원(ETRI) 출신으로, SK텔레콤에서 AI기술유닛장 등을 지내며 한국어 특화 거대언어모델(LLM) 개발을 이끌었다. 이후 2024년 LG전자 인공지능연구소 수석연구위원으로 자리를 옮겼다.이번 사안에 정통한 로봇 업계 관계자는 \"최근까지도 LG전자 해당 부서(로봇 소프트웨어 플랫폼)로 인력이 계속 이동하고 있다\"며 \"로봇 상업화에 속도를 내기 위한 조치로 보인다\"고 말했다.LG전자는 지난 6월 로보틱스 사업 센터를 출범 당시 \"효율적 의사결정 체계를 구축해 민첩하게 사업 전략을 실행하고, 핵심기술 내재화와 원가경쟁력 확보를 기대한다\"고 밝힌 바 있다. 지난 7월 2분기 실적 발표에서는 데이터 플랫폼과 인공지능(AI) 에이",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "[지디넷코리아]LG전자가 전사에 흩어져 있던 로봇 소프트웨어(SW) 인력을 한곳에 모았다. 로봇 개발 속도를 높여 상업화 시점을 앞당기는 것이 목표다.16일 로봇",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/18/0db60ddead06436c9a3b7e8e5cb142cd.jpg",
+    "score": 4.556,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  }
+]
