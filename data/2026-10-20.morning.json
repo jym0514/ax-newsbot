@@ -1,0 +1,640 @@
+[
+  {
+    "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+    "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-10-19T22:04:28+00:00",
+    "raw_excerpt": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Microsoft wants enterprises to closely watch the agents employees use with systems not con",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
+    "score": 7.394,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai",
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+    "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-10-19T20:09:24+00:00",
+    "raw_excerpt": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI app",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205217071.jpg?resize=1200,800",
+    "score": 6.438,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "nvidia"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+    "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-10-19T18:37:27+00:00",
+    "raw_excerpt": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 bi",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2023/08/rnuUXh8kprc7HfoRAGgTvZ-1200-80.jpg?w=970",
+    "score": 6.332,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "nvidia"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+    "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-10-19T15:37:09+00:00",
+    "raw_excerpt": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own ope",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2183848501.jpg?resize=1200,800",
+    "score": 6.126,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "nvidia"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Advancing Coding in Low-Resource Programming Languages",
+    "url": "https://openai.com/index/low-resource-programming-languages",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-10-19T12:00:00+00:00",
+    "raw_excerpt": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new",
+    "thumbnail": "",
+    "score": 5.97,
+    "engagement": 0,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "개인정보 유출 막으려면…개인은 2단계 인증, 기업은 방치된 시스템부터 점검해야",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42338",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-10-19T10:20:04+00:00",
+    "raw_excerpt": "인공지능(AI)을 악용해 보안 취약점을 노리는 해킹에 대한 우려가 커지는 가운데, 개인정보 유출과 이를 악용한 2차 피해를 예방하기 위해 개인의 보안 습관과 기업·기관의 사전 점검이 중요해지고 있다.개인정보보호위원회(위원장 송경희)는 19일, 개인은 2단계 인증을 활용하고 계정 도용 여부를 주기적으로 확인해야 하며, 기업과 기관은 방치된 시스템과 계정을 정리하고 외부 연계 서비스의 취약점을 점검해야 한다며, 국민이 일상에서 실천할 개인정보 보호수칙과 유출 피해 발생 시 대처 방법, 기업·기관이 사전에 이행해야 할 보호조치를 안내했다",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "인공지능(AI)을 악용해 보안 취약점을 노리는 해킹에 대한 우려가 커지는 가운데, 개인정보 유출과 이를 악용한 2차 피해를 예방하기 위해 개인의 보안 습관과 기업",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202610/42338_63657_1942_v150.jpg",
+    "score": 5.391,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "취약점",
+      "해킹",
+      "개인정보"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+    "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-10-19T12:30:00+00:00",
+    "raw_excerpt": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulat",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840",
+    "score": 5.086,
+    "engagement": 0,
+    "matched_keywords": [
+      "startup"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Mastercard launches Stablecoin Security",
+    "url": "https://www.finextra.com/pressarticle/111350/mastercard-launches-stablecoin-security?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-10-19T18:47:00+00:00",
+    "raw_excerpt": "Today at Money20/20 USA, Mastercard announced Stablecoin Security, a new risk intelligence solution, with Borderless.xyz and Keyrails as initial partners.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Today at Money20/20 USA, Mastercard announced Stablecoin Security, a new risk intelligence",
+    "thumbnail": "",
+    "score": 5.017,
+    "engagement": 0,
+    "matched_keywords": [
+      "stablecoin"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Mesh makes stablecoin and crypto balances spendable across Visa network",
+    "url": "https://www.finextra.com/pressarticle/111346/mesh-makes-stablecoin-and-crypto-balances-spendable-across-visa-network?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-10-19T16:52:00+00:00",
+    "raw_excerpt": "Mesh, the leading crypto payments network, today announced a strategic partnership with Visa to make crypto and stablecoin balances spendable across Visa's global acceptance network.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Mesh, the leading crypto payments network, today announced a strategic partnership with Vi",
+    "thumbnail": "",
+    "score": 4.897,
+    "engagement": 0,
+    "matched_keywords": [
+      "stablecoin"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+    "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+    "source": "MIT Tech Review",
+    "source_type": "rss",
+    "published_at": "2026-10-19T09:08:05+00:00",
+    "raw_excerpt": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like pl",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland.jpg?resize=1200,600",
+    "score": 4.855,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Euronet and Fireblocks team on stablecoin-funded card issuing",
+    "url": "https://www.finextra.com/pressarticle/111344/euronet-and-fireblocks-team-on-stablecoin-funded-card-issuing?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-10-19T16:12:00+00:00",
+    "raw_excerpt": "Euronet (NASDAQ: EEFT), a global payments infrastructure company and leader in payments processing and cross-border transactions, and Fireblocks, the digital asset infrastructure company, today announced an extension of their partnership to bring stablecoins into card issuing.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Euronet (NASDAQ: EEFT), a global payments infrastructure company and leader in payments pr",
+    "thumbnail": "",
+    "score": 4.855,
+    "engagement": 0,
+    "matched_keywords": [
+      "stablecoin"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Amazon is funding a new nuclear plant in Indiana",
+    "url": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-10-19T15:44:20+00:00",
+    "raw_excerpt": "Amazon has signed an agreement with X-energy and American Electric Power (AEP) to fund the building of a new nuclear energy facility in Indiana. The proposed plant, which would replace the now defunct coal-fueled Breed Generating Station in Fairbanks, Sullivan County, aims to provide up to 960 megawatts of carbon-free energy for both the regional [ ]",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Amazon has signed an agreement with X-energy and American Electric Power (AEP) to fund the",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Amazon-nuclear-power-plant-Indiana-.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "score": 4.826,
+    "engagement": 0,
+    "matched_keywords": [
+      "funding"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Kansas City Fed Flags Funding Challenges From Tokenized Deposits",
+    "url": "https://www.pymnts.com/news/banking/2026/kansas-city-fed-flags-funding-challenges-from-tokenized-deposits/",
+    "source": "PYMNTS",
+    "source_type": "rss",
+    "published_at": "2026-10-19T21:55:27+00:00",
+    "raw_excerpt": "Banks are developing tokenized deposits to give corporate customers faster access to their money. In doing so, they are making the deposits they use for funding easier to move. A research briefing from the Federal Reserve Bank of Kansas City published Friday (Oct. 16) examined the implications for bank liquidity as tokenized deposits move toward [ ] The post Kansas City Fed Flags Funding Challenges From Tokenized Deposits appeared first on PYMNTS.com .",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Banks are developing tokenized deposits to give corporate customers faster access to their",
+    "thumbnail": "https://www.pymnts.com/wp-content/uploads/2026/09/tokenized-deposits-blockchain-digital-transformation.jpeg?w=457",
+    "score": 4.692,
+    "engagement": 0,
+    "matched_keywords": [
+      "funding"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
+    "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+    "source": "Ars Technica",
+    "source_type": "rss",
+    "published_at": "2026-10-19T19:27:24+00:00",
+    "raw_excerpt": "Can undersea geothermal power help Pacific Rim nations cut down on oil imports?",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Can undersea geothermal power help Pacific Rim nations cut down on oil imports?",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Endurance-Energy-rockhopper-drill-1152x648.jpeg",
+    "score": 4.553,
+    "engagement": 0,
+    "matched_keywords": [
+      "startup"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "tmux와 Claude Code: 세션, send-keys, 그리고 한계",
+    "url": "https://news.hada.io/topic?id=35650",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-10-19T17:41:11+00:00",
+    "raw_excerpt": "tmux 는 AI 코딩 에이전트를 이름 있는 세션에 유지해 터미널을 닫거나 SSH 연결이 끊겨도 작업을 계속하게 하며, 여러 에이전트를 한 창에서 관리할 수 있게 함 최근 Claude Code의 claude --worktree --tmux 는 단일 브랜치에서 작업할 에이전트의 작...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "tmux 는 AI 코딩 에이전트를 이름 있는 세션에 유지해 터미널을 닫거나 SSH 연결이 끊겨도 작업을 계속하게 하며, 여러 에이전트를 한 창에서 관리할 수 있게",
+    "thumbnail": "https://social.news.hada.io/topic/35650?v=bbc6933dbf46302d30893f3ded5ae87a",
+    "score": 4.299,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "claude code",
+      "ai 코딩"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Zcash developers plan a fix to keep ZEC swaps private from future quantum computers",
+    "url": "https://www.coindesk.com/tech/2026/10/19/zcash-developers-plan-a-fix-to-keep-zec-swaps-private-from-future-quantum-computers",
+    "source": "CoinDesk",
+    "source_type": "rss",
+    "published_at": "2026-10-19T05:23:02+00:00",
+    "raw_excerpt": "",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "Zcash developers plan a fix to keep ZEC swaps private from future quantum computers",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/6359a9ff83ee7ba7465c0ff2289cb8ae23e7ac43-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "score": 4.179,
+    "engagement": 0,
+    "matched_keywords": [
+      "quantum"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Show HN: Cloudflare에서 무료로 실행하는 WhatsApp MCP",
+    "url": "https://news.hada.io/topic?id=35643",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-10-19T13:38:17+00:00",
+    "raw_excerpt": "whatsapp-mcp 는 개인 Cloudflare 계정에 배포해 AI 에이전트가 WhatsApp 대화를 읽고 검색하게 하는 서버이며, 메시지 전송은 지원하지 않음 연결된 기기 로 동작하면서 요청 시와 하루 한 번 WhatsApp에 접속해 새 메시지를 수집하고 연결을 끊으며, 데이터는 자신...",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "whatsapp-mcp 는 개인 Cloudflare 계정에 배포해 AI 에이전트가 WhatsApp 대화를 읽고 검색하게 하는 서버이며, 메시지 전송은 지원하지 않",
+    "thumbnail": "https://social.news.hada.io/topic/35643?v=e2f399512dc7b656e1d1ee345cdb2980",
+    "score": 4.13,
+    "engagement": 0,
+    "matched_keywords": [
+      "mcp",
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "마키나락스, 도면 AI 솔루션으로 제조업 AX 수요 견인 나서",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216397",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-19T14:10:11+00:00",
+    "raw_excerpt": "마키나락스(대표 윤성호)가 제조 인프라 구축시 필요한 도면 검토에서 생산확정에 이르는 과정을 지원하는 도면 AI 솔루션으로 제조업 AX 시장공략에 나섰다.마키나락스의 도면 AI 솔루션 '드로우엑스(DrawX)'는 PC와 이메일, 공유 폴더 등에 산재한 도면을 AI가 이해할 수 있는 데이터로 전환해 검색·비교·분석·판단까지 지원하는 도면 기반 AI 분석 솔루션이다.도면을 업로드하면 AI가 재질·치수·형상 등 주요 정보를 추출·구조화하고, 연관 파일과 버전 정보까지 함께 정리한다. ▲키워드·조건·맥락을 결합해 자연어로 도면을 찾는 ‘스",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "마키나락스(대표 윤성호)가 제조 인프라 구축시 필요한 도면 검토에서 생산확정에 이르는 과정을 지원하는 도면 AI 솔루션으로 제조업 AX 시장공략에 나섰다.마키나락",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216397_220463_3438.png",
+    "score": 4.098,
+    "engagement": 0,
+    "matched_keywords": [
+      "ax"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "두 팔로 500kg 든다…4m 초대형 산업용 로봇",
+    "url": "https://www.etnews.com/20261019000350",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-10-19T21:00:00+00:00",
+    "raw_excerpt": "높이 4m에 달하는 초대형 휴머노이드 로봇이 등장했습니다. 중국 로봇기업 네오드라 다이내믹스가 개발한 'Neo1'은 높이 약 4m, 무게 약 1.2톤에 달하는 대형 로봇입니다. Neo1은 팔과 다리, 몸통 등 41개의 움직임 축을 갖췄습니다. 이 가운데 39개는 강한 힘을 낼 수 있는 유압 방식으로 움직이고, 팔뚝을 회전시키는 2개 부분에는 전기 모터를 사용했습니다. 약 1kg짜리 유압 구동장치를 사용해 두 팔로 최대 500kg의 하중을 다룰",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "높이 4m에 달하는 초대형 휴머노이드 로봇이 등장했습니다. 중국 로봇기업 네오드라 다이내믹스가 개발한 'Neo1'은 높이 약 4m, 무게 약 1.2톤에 달하는 대",
+    "thumbnail": "https://img.etnews.com/news/article/2026/10/19/news-p.v1.20261019.c845dc433fbc44bcb0f0dac4c7bd157f_P1.jpg",
+    "score": 3.937,
+    "engagement": 0,
+    "matched_keywords": [
+      "휴머노이드",
+      "휴머노이드 로봇"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Harness Engineering 101 - Python 약 300줄로 배우는 AI 에이전트 구현",
+    "url": "https://news.hada.io/topic?id=35651",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-10-19T17:44:11+00:00",
+    "raw_excerpt": "순수 Python으로 약 300줄의 AI 에이전트를 만들며 작동 원리를 배우는 입문서 . 프레임워크나 SDK 없이 HTTP 요청부터 시작해, 16개 장에 걸쳐 실행 가능한 작은 코딩 에이전트로 확장 LLM은 두뇌, 하네스는 몸 이라는 비유에서 출발. 모델에 전달할 대화를 관리하고...",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "순수 Python으로 약 300줄의 AI 에이전트를 만들며 작동 원리를 배우는 입문서 . 프레임워크나 SDK 없이 HTTP 요청부터 시작해, 16개 장에 걸쳐 실",
+    "thumbnail": "https://social.news.hada.io/topic/35651?v=fbfd1deb1fbc23a2fa5542e73ca69f83",
+    "score": 3.801,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Detecting model weight tampering in GPU memory (Rome attacks)",
+    "url": "https://stealthium.io/blog/hands-off-detecting-model-weight-tampering",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-19T14:31:27+00:00",
+    "raw_excerpt": "Article URL: https://stealthium.io/blog/hands-off-detecting-model-weight-tampering Comments URL: https://news.ycombinator.com/item?id=50152976 Points: 12 # Comments: 2",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "Article URL: https://stealthium.io/blog/hands-off-detecting-model-weight-tampering Comment",
+    "thumbnail": "https://stealthium.io/images/banners/moon.webp",
+    "score": 3.8,
+    "engagement": 0,
+    "matched_keywords": [
+      "gpu"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "코그니전트, 올해 직원 10만명에 제미나이 배치…20만명이 목표",
+    "url": "https://www.tokenpost.kr/news/ai/424511",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-10-19T19:28:49+00:00",
+    "raw_excerpt": "코그니전트($CTSH)가 구글($GOOGL) 클라우드와 인공지능(AI) 협력을 확대하고, 올해 안에 직원 10만명에게 AI 도구 제미나이(Gemini)를 배치하기로 했다. 이후 대상을 20만명까지 늘리는 것이 목표다. 양사가 앞세운 것은 제미나이 프런티어 역량 그룹(Gemini Frontier Capability Group)이다. 코그니전트 직원 1만8000명 이상이 이 조직에 배치된다. 구글의 AI 도구와 코그니전트의 산업 지식을 결합해 고객사의 AI 프로젝트를 시범 단계(파일럿)에서 보안을 갖춘 실운영 시스템으로 옮기는 것이 목표라고 크립토브리핑은 19일(현지시간) 전했다. 이번 협력은 사용자를 대신해 여러 단계의 작업을 수행하는 에이전틱 AI(agentic AI)에 무게를... 더보기",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "코그니전트($CTSH)가 구글($GOOGL) 클라우드와 인공지능(AI) 협력을 확대하고, 올해 안에 직원 10만명에게 AI 도구 제미나이(Gemini)를 배치하기",
+    "thumbnail": "https://f1.tokenpost.kr/2026/10/hkruvogouz.png",
+    "score": 3.499,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic",
+      "agentic ai",
+      "에이전틱"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "래블업, GPU 비효율 잡고 코스닥 상장 도전",
+    "url": "https://byline.network/2026/10/1019-4/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-10-19T09:01:32+00:00",
+    "raw_excerpt": "래블업이 GPU 자원 분할 가상화와 자동 장애 복구 기술을 앞세워 AI 인프라 운영 효율화 시장 공략에 나선다. 실제 고객사 적용 사례에서 GPU 활용률을 30%에서 85%로 높이고, 대규모 AI 모델 학습 기간을 120일에서 66일로 단축하는 성과를 거뒀다. 코스닥 상장을 통해 확보한 공모 자금은 하드웨어 인프라 확충과 글로벌 네오클라우드 시장 진출에 투입할 계획이다.",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "래블업이 GPU 자원 분할 가상화와 자동 장애 복구 기술을 앞세워 AI 인프라 운영 효율화 시장 공략에 나선다. 실제 고객사 적용 사례에서 GPU 활용률을 30%",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/10/lablup.jpg",
+    "score": 3.232,
+    "engagement": 0,
+    "matched_keywords": [
+      "gpu"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "미 가상자산 사기 피해 114억달러…캘리포니아, 압수 자산 환수 허용",
+    "url": "https://www.tokenpost.kr/news/policy/424552",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-10-19T21:43:35+00:00",
+    "raw_excerpt": "지난해 미국의 가상자산 사기 피해액이 114억달러(약 15조1506억원)에 달했다. 캘리포니아주는 피의자가 미국 사법 관할권 밖에 있어 유죄 판결이 어려운 경우에도 수사 중 압수한 가상자산을 법원 절차를 거쳐 피해자에게 돌려줄 수 있도록 하는 SB 1208에 최근 서명했다. 롭 본타(Rob Bonta) 캘리포니아주 법무장관은 19일 가상자산 사기 경고문을 내고 2025년 미국 온라인 사기 피해액이 209억달러(약 27조7761억원)였다고 밝혔다. 이 가운데 가상자산 사기 피해액은 114억달러였다. 이 내용은 우블록체인(Wu Blockchain)이 전했다. 본타 장관이 경고문에서 꼽은 사기 수법은 △AI 딥페이크 △가짜 유동성 채굴 △악성 스마트컨트랙트 △투자... 더보기",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "지난해 미국의 가상자산 사기 피해액이 114억달러(약 15조1506억원)에 달했다. 캘리포니아주는 피의자가 미국 사법 관할권 밖에 있어 유죄 판결이 어려운 경우에",
+    "thumbnail": "https://f1.tokenpost.kr/2026/10/t9vtqhag9n.jpg",
+    "score": 3.174,
+    "engagement": 0,
+    "matched_keywords": [
+      "블록체인",
+      "가상자산"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "트론, 한 달 수익 2341만달러로 이더리움·솔라나 제쳐…가격은 0.48% 하락",
+    "url": "https://www.blockmedia.co.kr/archives/1153585?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-10-19T22:11:40+00:00",
+    "raw_excerpt": "[블록미디어 명정선 기자] 블록체인 네트워크 트론(TRON)이 최근 한 달간 2300만달러가 넘는 수익을 기록하며 이더리움과 솔라나를 제치고 주요 블록체인 가운데 수익 1위에 올랐다. 테더(USDT)를 중심으로 한 스테이블코인 송금 수요가 네트워크 수익을 뒷받침한 것으로 분석된다. 다만 자체 디지털자산인 트론(TRX) 가격은 약세를 보이며 네트워크 실적과 엇갈린 흐름을 나타냈다. 19일(현지시각) 디파이라마(DeFiLlama)에 따르면 트론의 최근 30일간 네트워크 수익은 2341만달러로 집계됐다. [...]",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[블록미디어 명정선 기자] 블록체인 네트워크 트론(TRON)이 최근 한 달간 2300만달러가 넘는 수익을 기록하며 이더리움과 솔라나를 제치고 주요 블록체인 가운데",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2025/06/20250602_트론-지갑.png",
+    "score": 3.138,
+    "engagement": 0,
+    "matched_keywords": [
+      "블록체인"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "카드·환전 없이 지갑 그대로…비자·메시, 1.75억 가맹점 코인 결제 추진",
+    "url": "https://www.blockmedia.co.kr/archives/1153580?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-10-19T21:50:30+00:00",
+    "raw_excerpt": "[멕시코=심영재 특파원] 비자가 디지털자산(가상자산) 결제 인프라 기업 메시(Mesh)와 손잡고 별도의 디지털자산 전용 카드 없이 기존 지갑 잔액으로 결제하는 서비스를 추진한다. 이용자가 보유한 비트코인과 스테이블코인 등을 직접 현금화하거나 다른 계좌로 옮기지 않고도 비자 가맹점에서 사용할 수 있도록 한다는 구상이다. 더블록은 19일(현지시각) 메시가 비자와 파트너십을 체결하고 전 세계 1억7500만개 이상 가맹점에서 디지털자산 결제를 지원할 계획이라고 보도했다. 비트코인닷컴도 [...]",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[멕시코=심영재 특파원] 비자가 디지털자산(가상자산) 결제 인프라 기업 메시(Mesh)와 손잡고 별도의 디지털자산 전용 카드 없이 기존 지갑 잔액으로 결제하는 서",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2025/11/20251112-184951.png",
+    "score": 3.125,
+    "engagement": 0,
+    "matched_keywords": [
+      "가상자산"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "브레이브, BAT 보상 광고 연말까지 줄인다…AI 에이전트 결제 지원",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/424527",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-10-19T20:13:53+00:00",
+    "raw_excerpt": "브레이브(Brave)가 베이직어텐션토큰(BAT)으로 보상하는 광고 단위를 올해 말까지 단계적으로 줄이고, 결제와 AI 에이전트용 검색으로 사업 축을 옮기겠다는 계획을 내놨다. 브레이브는 7월 9일 공개한 BAT 로드맵 4.0에서 베이직어텐션토큰을 거래형 주목경제(transactional attention economy)로 이끌겠다고 밝혔다. 광고를 보면 보상을 받는 구조에서, 사람이 일일이 승인하지 않아도 소프트웨어가 대금을 치르는 결제로 무게를 옮기겠다는 취지다. 이 내용은 크립토브리핑이 전했다. 로드맵의 중심은 결제다. 브레이브는 자율 거래를 위해 설계된 x402와 머신 페이먼츠 프로토콜(MPP, Machine Payments Protocol)을 지원하겠다고 밝혔다.... 더보기",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "브레이브(Brave)가 베이직어텐션토큰(BAT)으로 보상하는 광고 단위를 올해 말까지 단계적으로 줄이고, 결제와 AI 에이전트용 검색으로 사업 축을 옮기겠다는 계",
+    "thumbnail": "https://f1.tokenpost.kr/2026/10/eiv5x9h9qf.jpg",
+    "score": 3.124,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "[HK이노엔 성장 과제]⑥ 곽달원 “비만치료제 상용화 남은 시간 2년”",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=676028",
+    "source": "블로터",
+    "source_type": "rss",
+    "published_at": "2026-10-19T17:44:28+00:00",
+    "raw_excerpt": "곽달원 HK이노엔 대표이사 사장(65)이 내년 3월 임기 만료를 앞두고 있다. 그는 HK이노엔의 캐시카우인 위식도역류질환 치료제 ‘케이캡’의 처방액을 확대하며 연매출 1조원에 진입하는 경영성과를 냈다. 더불어 회사가 내년을 기점으로 케이캡의 미국 식품의약국(FDA) 승인을 앞두고 있는 만큼 시장에서 그의 연임 가능성은 매우 높게 평가된다. 곽 대표는 차세대 신약으로 임상 3상에 진입한 비만치료제가 2028년 초 상업화를 앞두고 있다고도 밝혔다. 국내 비만치료제 시장에서 한미약품의 ‘에페’에 이어 후발주자로 진입하는 만큼 약물 자체의",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "곽달원 HK이노엔 대표이사 사장(65)이 내년 3월 임기 만료를 앞두고 있다. 그는 HK이노엔의 캐시카우인 위식도역류질환 치료제 ‘케이캡’의 처방액을 확대하며 연",
+    "thumbnail": "https://cdn.bloter.net/news/thumbnail/202610/676028_290056_149_v150.jpg",
+    "score": 2.971,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "롯데이노베이트가 강릉ITS총회 '다이아몬드스폰서'로 나선 이유[현장+]",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=675998",
+    "source": "블로터",
+    "source_type": "rss",
+    "published_at": "2026-10-19T17:03:27+00:00",
+    "raw_excerpt": "롯데그룹의 정보기술(IT) 서비스 계열사 롯데이노베이트가 강릉 지능형교통체계(ITS) 세계총회에 최고 등급인 '다이아몬드 스폰서'로 단독 참여하며 모빌리티 사업 확대에 나섰다. 그동안 축적한 교통 인프라 구축 경험과 인공지능(AI) 기술을 기반으로 해외 시장 진출에 속도를 내기 위해서다. 실증 단계에 있는 차세대 지능형교통체계(C-ITS)와 자율주행 사업의 상용화를 추진하고 AI 스마트톨링을 새로운 수출 사업으로 육성한다는 전략이다. 매출 비중 10% 미만에도 최고 후원 등급 참여한 까닭은김경엽 롯데이노베이트 대표와 윤태은 모빌리티",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "롯데그룹의 정보기술(IT) 서비스 계열사 롯데이노베이트가 강릉 지능형교통체계(ITS) 세계총회에 최고 등급인 '다이아몬드 스폰서'로 단독 참여하며 모빌리티 사업",
+    "thumbnail": "https://cdn.bloter.net/news/thumbnail/202610/675998_290059_98_v150.jpg",
+    "score": 2.945,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "[아침 시황] 비트코인 1억1,055만원…상승 종목 62%",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/424570",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-10-19T22:30:14+00:00",
+    "raw_excerpt": "10월 20일 오전 7시 30분 오늘 아침 국내 암호화폐 시장은 위험 자산 선호가 살아났다. 24시간 거래대금(업비트·빗썸)은 1.4조원을 기록했으며 거래대금 50억원 이상 종목 34개 중 21개만 올라 상승 종목 비율이 62%에 그쳤다. 대장주는 나란히 올랐다. 비트코인은 1억1,055만원으로 24시간 전보다 0.0% 올랐으며, 이더리움은 324만원으로 0.2% 올랐다. 가장 많이 오른 종목은 빗썸에 상장된 베드록으로, 916원까지 35.7% 뛰며 거래대금 227억원을 끌어모았다. 깃코인은 33.7%, 아지트는 29.4% 올랐다. 하락 쪽에서는 임파서블클라우드네트워크가 9.0% 내렸고 콘크리트는 8.3% 하락했다. 절대 거래대금 기준으로는 깃코인이 742억원으로... 더보기",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "10월 20일 오전 7시 30분 오늘 아침 국내 암호화폐 시장은 위험 자산 선호가 살아났다. 24시간 거래대금(업비트·빗썸)은 1.4조원을 기록했으며 거래대금 5",
+    "thumbnail": "https://f1.tokenpost.kr/2026/10/blzlghht2k.png",
+    "score": 2.8,
+    "engagement": 0,
+    "matched_keywords": [
+      "암호화폐"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "XRP, 공식 X 계정 개설 몇 시간 만에 팔로워 4만7000명",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/424550",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-10-19T21:35:34+00:00",
+    "raw_excerpt": "XRP가 19일(현지시간) 공식 X 계정을 열고 첫 게시물을 올렸다. 계정은 개설 몇 시간 만에 팔로워 4만7000명을 넘겼다. 첫 게시물은 “hello, world. It’s about time.”였다. ‘hello, world’는 프로그래밍을 처음 배울 때 사용하는 대표적인 예제 문구로, 새 출발을 상징하는 표현으로도 쓰인다. XRP는 2012년 등장한 가상자산이다. 관련 소식은 리플의 기업 공식 계정이나 XRP 커뮤니티를 중심으로 퍼져 왔지만, XRP 자체를 대표하는 전용 소통 창구는 없었다. 새 계정이 열리자 브래드 갈링하우스(Brad Garlinghouse) 리플 CEO가 환영 메시지를 올렸다. 제미니(Gemini), 업홀드(Uphold), 문페이(MoonPay), 플레어(Flare) 등 기업 계정과 XRP... 더보기",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "XRP가 19일(현지시간) 공식 X 계정을 열고 첫 게시물을 올렸다. 계정은 개설 몇 시간 만에 팔로워 4만7000명을 넘겼다. 첫 게시물은 “hello, wor",
+    "thumbnail": "https://f1.tokenpost.kr/2026/10/oxjy972udb.jpg",
+    "score": 2.769,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "morning"
+  }
+]
