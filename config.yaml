@@ -8,7 +8,7 @@ settings:
   time_window_hours: 30
   # 다이제스트에 담을 하루 최대 기사 수 / 주제별 상한
   max_articles_total: 40
-  max_articles_per_topic: 10
+  max_articles_per_topic: 4
   # 기사가 다이제스트에 포함되려면 넘어야 하는 최소 점수
   min_score: 1.0
   # 내용(맥락) 기반 중복제거 — 같은 사건을 다른 제목/매체로 보도한 기사를 LLM(summary_model)이
@@ -54,113 +54,102 @@ slots:
 # priority 값이 작을수록 동점 시 우선. (catch-all 인 ai_ax_trends 를 마지막에 둠)
 # ============================================================================
 topics:
-  - key: blockchain_identity
-    label: "🔗 블록체인 신원·자산관리"
-    # priority 0 — 최상단 고정(텔레그램은 4096자 제한으로 뒷부분이 잘리는 경우가 있어,
-    # 니치 토픽일수록 앞쪽에 둬야 실제로 메시지에 노출된다).
+  - key: personal_ai_agent
+    label: "🧑‍💼 개인 AI 에이전트 · 금융비서"
+    # priority 0 — 최상단 고정. 팀 관심사(Meta Muse·Instinct 같은 개인용 에이전트,
+    # 투자/운용 개인금융비서 에이전트) 기사를 다이제스트 맨 위에 노출한다.
     priority: 0
-    # 범용 AI 토픽(ai_ax_trends/ai_agent 등)에 점수 경쟁에서 밀려 0건이 되는 걸 막는다.
     guarantee_min_per_slot: 1
+    # 키워드 점수 2배 — "개인용 AI 에이전트" 기사가 ai_agent 의 범용 '에이전트' 매치에 밀리지 않게.
+    score_multiplier: 2
+    # 에이전트/비서 신호 게이트 — '마이데이터', '로보어드바이저' 단독 기사(일반 금융 뉴스)는
+    # 이 주제로 보지 않는다. 에이전트·비서 맥락이 함께 있어야 인정.
+    require_any:
+      - "agent"
+      - "agents"
+      - "agentic"
+      - "assistant"
+      - "에이전트"
+      - "에이전틱"
+      - "비서"
+      - "어시스턴트"
     keywords:
-      - "decentralized identity"
-      - "분산신원인증"
-      - "탈중앙 신원"
-      - "verifiable credential"
-      - "소울바운드 토큰"
-      - "soulbound token"
-      - "self-sovereign identity"
-      - "셀프소버린아이덴티티"
-      - "블록체인 신탁"
-      - "디지털 유언장"
-      - "digital inheritance"
-      - "디지털 상속"
-      - "온체인 자산관리"
-      - "가족 신탁"
-      - "family trust"
-      - "스마트 컨트랙트 상속"
-      - "패밀리오피스"
-      - "family office"
-      - "블록체인"
-      - "가상자산"
-      - "암호화폐"
-      - "web3"
-      - "웹3"
-      - "토큰화"
-      - "tokenization"
-      - "rwa"
+      # --- 팀이 주목하는 제품/회사 ---
+      - "meta muse"
+      - "muse spark"
+      - "메타 뮤즈"
+      - "뮤즈"
+      - "spear street"
+      - "spear street technology"
+      - "instinct ai"
+      - "인스팅트"
+      - "openclaw"
+      - "오픈클로"
+      # --- 개인용 AI 에이전트 일반 ---
+      - "personal ai agent"
+      - "personal agent"
+      - "personal ai assistant"
+      - "personal assistant"
+      - "ai companion"
+      - "proactive agent"
+      - "consumer agent"
+      - "개인용 ai 에이전트"
+      - "개인용 에이전트"
+      - "개인 에이전트"
+      - "개인화 에이전트"
+      - "개인 비서"
+      - "ai 비서"
+      - "초개인화"
+      # --- 투자/운용 · 개인금융비서 에이전트 ---
+      - "financial agent"
+      - "finance agent"
+      - "ai financial advisor"
+      - "ai wealth"
+      - "wealth management ai"
+      - "ai wealth management"
+      - "robo-advisor"
+      - "robo advisor"
+      - "robo-adviser"
+      - "agentic commerce"
+      - "agentic payments"
+      - "agentic finance"
+      - "agentic banking"
+      - "ai 금융비서"
+      - "금융비서"
+      - "금융 비서"
+      - "금융 에이전트"
+      - "투자 에이전트"
+      - "자산관리 에이전트"
+      - "ai 자산관리"
+      - "자산관리 ai"
+      - "로보어드바이저"
+      - "ai 투자자문"
+      - "ai pb"
+      - "마이데이터"
+      - "투자일임"
+      - "혁신금융서비스"
 
-  - key: senior_healthtech
-    label: "🏥 시니어 헬스케어테크"
+  - key: tech_trends
+    label: "🔥 핫 테크 트렌드"
     priority: 1
-    guarantee_min_per_slot: 1
     keywords:
-      - "마이헬스웨이"
-      - "마이데이터 헬스케어"
-      - "건강정보 고속도로"
-      - "phr"
-      - "personal health record"
-      - "fhir"
-      - "헬스케어 데이터 상호운용성"
-      - "ehr 연동"
-      - "의료 마이데이터"
-      - "시니어테크"
-      - "에이징테크"
-      - "aging in place"
-      - "원격모니터링"
-      - "디지털 효도"
-      - "독거노인 안전"
-      - "낙상 감지"
-      - "돌봄로봇"
-      - "고령자 복약관리"
-      - "가족 건강공유"
-      - "핀헬스"
-      - "fintech healthcare"
-      - "헬스케어 핀테크"
-      - "간병보험"
-      - "패밀리월렛"
-      - "family wallet"
-      - "헬스케어"
-      - "고령"
-      - "독거노인"
-      - "요양"
-
-  - key: physical_ai
-    label: "🦾 피지컬 AI (Physical AI)"
-    priority: 2
-    # 이 주제로 분류된 후보가 있는데도 상한/최소점수에 밀려 회차에서 0건이 되지 않도록,
-    # 후보가 하나라도 있으면 회차마다 최소 이 건수만큼 강제 포함한다(filter.select 참고).
-    guarantee_min_per_slot: 1
-    keywords:
-      - "physical ai"
-      - "physical-ai"
-      - "피지컬 ai"
-      - "피지컬에이아이"
-      - "피지컬ai"
-      - "embodied ai"
-      - "임바디드 ai"
-      - "world model"
-      - "월드 모델"
-      - "휴머노이드"
-      - "휴머노이드 로봇"
-      - "humanoid"
-      - "humanoid robot"
-      - "vision-language-action"
-      - "vla model"
-      - "로봇 파운데이션 모델"
-      - "robot foundation model"
-      - "sim-to-real"
-      - "보스턴 다이내믹스"
-      - "boston dynamics"
-      - "figure ai"
-      - "1x technologies"
-      - "agility robotics"
-      - "unitree"
-      - "테슬라 옵티머스"
-      - "optimus"
+      - "tech trend"
+      - "테크 트렌드"
+      - "기술 트렌드"
+      - "반도체"
+      - "gpu"
+      - "양자"
+      - "quantum"
+      - "로보틱스"
+      - "robotics"
+      - "빅테크"
+      - "스타트업"
+      - "혁신 기술"
+      - "차세대"
 
   - key: ai_agent
     label: "🤖 AI Agent / Agentic AI"
-    priority: 3
+    priority: 2
     keywords:
       - "ai agent"
       - "agentic"
@@ -176,6 +165,19 @@ topics:
       - "멀티에이전트"
       - "자율 에이전트"
       - "ai 에이전트"
+
+  - key: ai_native
+    label: "🧬 AI Native"
+    priority: 3
+    keywords:
+      - "ai native"
+      - "ai-native"
+      - "ai 네이티브"
+      - "ai-first"
+      - "ai first"
+      - "ai 전환"
+      - "ai 우선"
+      - "reinvent"
 
   - key: ai_tools
     label: "🛠️ AI 툴 동향 & 활용"
@@ -202,22 +204,9 @@ topics:
       - "ai 툴"
       - "생성형 ai 도구"
 
-  - key: ai_native
-    label: "🧬 AI Native"
-    priority: 5
-    keywords:
-      - "ai native"
-      - "ai-native"
-      - "ai 네이티브"
-      - "ai-first"
-      - "ai first"
-      - "ai 전환"
-      - "ai 우선"
-      - "reinvent"
-
   - key: enterprise_ai
     label: "🏢 기업의 AI 도입 & 업무 변화"
-    priority: 6
+    priority: 5
     # AI 신호 게이트 — 아래 키워드가 하나도 없으면(=AI 없는 일반 업무변화 기사) 이 주제로 보지 않는다.
     # 'AI를 도입' 하거나 'AI로 업무가 바뀌는' AI Native 향 기사만 남기기 위함.
     require_any:
@@ -256,27 +245,9 @@ topics:
       - "ai 도입"
       - "일하는 방식"
 
-  - key: tech_trends
-    label: "🔥 핫 테크 트렌드"
-    priority: 7
-    keywords:
-      - "tech trend"
-      - "테크 트렌드"
-      - "기술 트렌드"
-      - "반도체"
-      - "gpu"
-      - "양자"
-      - "quantum"
-      - "로보틱스"
-      - "robotics"
-      - "빅테크"
-      - "스타트업"
-      - "혁신 기술"
-      - "차세대"
-
   - key: ai_startups
     label: "🚀 스타트업 AI 활용 동향"
-    priority: 8
+    priority: 6
     keywords:
       - "스타트업"
       - "startup"
@@ -299,6 +270,73 @@ topics:
       - "ycombinator"
       - "창업"
       - "스케일업"
+
+  - key: physical_ai
+    label: "🦾 피지컬 AI (Physical AI)"
+    priority: 7
+    # 이 주제로 분류된 후보가 있는데도 상한/최소점수에 밀려 회차에서 0건이 되지 않도록,
+    # 후보가 하나라도 있으면 회차마다 최소 이 건수만큼 강제 포함한다(filter.select 참고).
+    guarantee_min_per_slot: 1
+    keywords:
+      - "physical ai"
+      - "physical-ai"
+      - "피지컬 ai"
+      - "피지컬에이아이"
+      - "피지컬ai"
+      - "embodied ai"
+      - "임바디드 ai"
+      - "world model"
+      - "월드 모델"
+      - "휴머노이드"
+      - "휴머노이드 로봇"
+      - "humanoid"
+      - "humanoid robot"
+      - "vision-language-action"
+      - "vla model"
+      - "로봇 파운데이션 모델"
+      - "robot foundation model"
+      - "sim-to-real"
+      - "보스턴 다이내믹스"
+      - "boston dynamics"
+      - "figure ai"
+      - "1x technologies"
+      - "agility robotics"
+      - "unitree"
+      - "테슬라 옵티머스"
+      - "optimus"
+
+  - key: blockchain_identity
+    label: "🔗 블록체인 신원·자산관리"
+    priority: 8
+    # 범용 AI 토픽(ai_ax_trends/ai_agent 등)에 점수 경쟁에서 밀려 0건이 되는 걸 막는다.
+    guarantee_min_per_slot: 1
+    keywords:
+      - "decentralized identity"
+      - "분산신원인증"
+      - "탈중앙 신원"
+      - "verifiable credential"
+      - "소울바운드 토큰"
+      - "soulbound token"
+      - "self-sovereign identity"
+      - "셀프소버린아이덴티티"
+      - "블록체인 신탁"
+      - "디지털 유언장"
+      - "digital inheritance"
+      - "디지털 상속"
+      - "온체인 자산관리"
+      - "가족 신탁"
+      - "family trust"
+      - "스마트 컨트랙트 상속"
+      - "패밀리오피스"
+      - "family office"
+      - "블록체인"
+      - "가상자산"
+      - "암호화폐"
+      - "web3"
+      - "웹3"
+      - "토큰화"
+      - "tokenization"
+      - "rwa"
 
   - key: security_regulation
     label: "🔐 AI·블록체인 보안 & 국내외 규제"
@@ -469,18 +507,18 @@ sources:
     - { name: "카카오 Tech",         url: "https://tech.kakao.com/feed/", weight: 0.8, kind: rss, region: domestic }
     - { name: "토스 기술블로그",       url: "https://toss.tech/rss.xml", weight: 0.8, kind: rss, region: domestic }
 
+    # 금융·핀테크 매체 (personal_ai_agent 주제의 개인금융비서·투자 에이전트 기사용)
+    - { name: "Finextra",            url: "https://www.finextra.com/rss/headlines.aspx", weight: 1.0, kind: rss, region: global }
+    - { name: "PYMNTS",              url: "https://www.pymnts.com/feed/", weight: 0.9, kind: rss, region: global }
+    - { name: "Tearsheet",           url: "https://tearsheet.co/feed/", weight: 0.9, kind: rss, region: global }
+    - { name: "파이낸셜뉴스 금융",      url: "https://www.fnnews.com/rss/r20/fn_realnews_finance.xml", weight: 0.9, kind: rss, region: domestic }
+    - { name: "블로터",               url: "https://www.bloter.net/rss/allArticle.xml", weight: 0.9, kind: rss, region: domestic }
+
     # 블록체인/디지털자산 매체 (blockchain_identity 주제용)
     - { name: "CoinDesk",           url: "https://www.coindesk.com/arc/outboundfeeds/rss/", weight: 1.0, kind: rss, region: global }
     - { name: "Cointelegraph",      url: "https://cointelegraph.com/rss", weight: 0.9, kind: rss, region: global }
     - { name: "토큰포스트",           url: "https://www.tokenpost.kr/rss", weight: 0.8, kind: rss, region: domestic }
     - { name: "블록미디어",           url: "https://www.blockmedia.co.kr/feed", weight: 0.9, kind: rss, region: domestic }
-
-    # 헬스케어/시니어케어 매체 (senior_healthtech 주제용)
-    - { name: "Aging and Health Technology Watch", url: "https://www.ageinplacetech.com/rss.xml", weight: 1.0, kind: rss, region: global }
-    - { name: "Home Health Care News", url: "https://homehealthcarenews.com/feed/", weight: 0.8, kind: rss, region: global }
-    - { name: "히트뉴스",             url: "https://www.hitnews.co.kr/rss/allArticle.xml", weight: 1.0, kind: rss, region: domestic }
-    - { name: "청년의사",             url: "https://www.docdocdoc.co.kr/rss/allArticle.xml", weight: 0.7, kind: rss, region: domestic }
-    - { name: "실버넷뉴스",           url: "https://www.silvernetnews.com/rss/allArticle.xml", weight: 0.7, kind: rss, region: domestic }
 
   # --- Bluesky (X 보조; AT Protocol 공개 API, 인증 불필요) -------------------
   # handle 은 bsky.app 프로필의 핸들(@ 제외). 잘못된 핸들은 그냥 건너뛴다.

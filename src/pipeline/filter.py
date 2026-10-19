@@ -79,6 +79,8 @@ def classify(articles: list[Article], config: Config) -> list[Article]:
         best_matched: list[str] = []
         for t in topics:  # priority 오름차순 → 동점이면 먼저 만난(더 구체적인) 주제 유지
             score, matched = _score_topic(a, t.get("keywords", []))
+            # 주제별 점수 배수 — 구체적 주제가 범용 주제(예: ai_agent 의 '에이전트')에 밀리지 않도록.
+            score *= t.get("score_multiplier", 1)
             if score <= 0:
                 continue
             # AI 신호 게이트 — require_any 가 있으면 그 중 하나는 반드시 있어야 함.

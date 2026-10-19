@@ -62,7 +62,8 @@ def _group_by_topic(articles: list[dict], config: Config) -> list[dict]:
         buckets.setdefault(a.get("topic", ""), []).append(a)
     groups = []
     for key, items in buckets.items():
-        prio, label = order.get(key, (99, key or "기타"))
+        # config 에서 빠진 주제(과거 아카이브)는 기사에 저장된 topic_label 로 표기
+        prio, label = order.get(key, (99, items[0].get("topic_label") or key or "기타"))
         items.sort(key=lambda x: x.get("score", 0), reverse=True)
         groups.append({"key": key, "label": label, "priority": prio, "articles": items})
     groups.sort(key=lambda g: g["priority"])
