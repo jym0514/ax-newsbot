@@ -1,0 +1,783 @@
+[
+  {
+    "title": "Deepseek open-sources the inference engine that powers its fastest and cheapest AI model",
+    "url": "https://the-decoder.com/deepseek-open-sources-the-inference-engine-that-powers-its-fastest-and-cheapest-ai-model/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-10-20T18:56:15+00:00",
+    "raw_excerpt": "Deepseek is open-sourcing DeepInfer, the inference framework behind its fast V4.1-Flash model. The vLLM-based system cuts compute costs and energy use when running AI models. The release adds more pricing pressure on Western providers like OpenAI and Anthropic. The article Deepseek open-sources the inference engine that powers its fastest and cheapest AI model appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Deepseek is open-sourcing DeepInfer, the inference framework behind its fast V4.1-Flash mo",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/deepseek_deepseek_logo.png",
+    "score": 7.179,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai",
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+    "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-10-20T22:24:02+00:00",
+    "raw_excerpt": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/11/clem-delangue.png?resize=1200,789",
+    "score": 6.592,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "The Programmable Data Center — Evan Conrad, SF Compute",
+    "url": "https://www.latent.space/p/sfcompute2",
+    "source": "Latent Space (swyx)",
+    "source_type": "substack",
+    "published_at": "2026-10-20T19:31:57+00:00",
+    "raw_excerpt": "From GPU trading to physical settlement, independent markets, and programmable compute",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "From GPU trading to physical settlement, independent markets, and programmable compute",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!uXAL!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F221372257%2F628fa070-efc0-490c-a5b8-048f7daa656e%2Ftranscoded-1792523882.png",
+    "score": 6.582,
+    "engagement": 0,
+    "matched_keywords": [
+      "gpu"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+    "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-10-20T20:35:10+00:00",
+    "raw_excerpt": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/pills-GettyImages-157287767.jpg?resize=1200,800",
+    "score": 6.467,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+    "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-10-20T18:38:24+00:00",
+    "raw_excerpt": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch user",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2215577882.jpg?resize=1200,800",
+    "score": 6.333,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "nvidia"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "MS “AI 에이전트는 믿을 수 없는 내부자...24시간 감시하는 AI 필요”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216425",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-20T12:39:42+00:00",
+    "raw_excerpt": "마이크로소프트(MS)가 기업 내부에서 활동하는 AI 에이전트를 새로운 보안 위협으로 규정하고, 이들의 행동을 24시간 감시하는 AI 보안 체계를 제시했다. 기업이 직접 도입한 AI 에이전트도 예측하기 어려운 행동으로 보안 사고를 일으킬 수 있는 만큼, 외부 해커뿐 아니라 내부 에이전트까지 실시간으로 감시하고 통제해야 한다는 주장이다.MS는 19일(현지시간) 보안 기술 블로그를 통해 AI 에이전트를 신뢰할 수 없는 '에이전틱 내부자(Agentic Insider)’로 정의하고, 이들의 행동을 감시하는 ‘가디언 에이전트(Guardian",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "마이크로소프트(MS)가 기업 내부에서 활동하는 AI 에이전트를 새로운 보안 위협으로 규정하고, 이들의 행동을 24시간 감시하는 AI 보안 체계를 제시했다. 기업이",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216425_220500_3419.png",
+    "score": 5.966,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic",
+      "에이전트",
+      "에이전틱",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Latest open artifacts (#25): DeepSeek V4.1 Flash 1017, American-made models, and new regulatory controls in the US & China",
+    "url": "https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek",
+    "source": "Interconnects (Nathan Lambert)",
+    "source_type": "substack",
+    "published_at": "2026-10-20T17:04:21+00:00",
+    "raw_excerpt": "Western open models strike back",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Western open models strike back",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!ptGw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd500e8ff-94e8-4cf5-b99d-5d9aac7f0a8a_1024x768.png",
+    "score": 5.892,
+    "engagement": 0,
+    "matched_keywords": [
+      "regulatory"
+    ],
+    "source_weight": 1.2,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Evervault launches Browser Tokens, enabling secure agentic payments",
+    "url": "https://www.finextra.com/pressarticle/111376/evervault-launches-browser-tokens-enabling-secure-agentic-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-10-20T20:40:00+00:00",
+    "raw_excerpt": "Evervault today announced the launch of Browser Tokens at Money20/20, giving developers building agentic commerce products a secure way for AI agents and browser automations to make purchases, log in to accounts and complete sensitive online workflows without exposing payment cards, passwords or personal data to the agent or browser provider.",
+    "topic": "personal_ai_agent",
+    "topic_label": "🧑‍💼 개인 AI 에이전트 · 금융비서",
+    "summary": "Evervault today announced the launch of Browser Tokens at Money20/20, giving developers bu",
+    "thumbnail": "",
+    "score": 5.884,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic commerce",
+      "agentic payments"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+    "url": "https://openai.com/index/ted-taylor-restaurant",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-10-20T10:00:00+00:00",
+    "raw_excerpt": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and bui",
+    "thumbnail": "",
+    "score": 5.808,
+    "engagement": 0,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Taking a swing at a pickleball startup",
+    "url": "https://www.technologyreview.com/2026/10/20/1145287/taking-a-swing-at-a-pickleball-startup/",
+    "source": "MIT Tech Review",
+    "source_type": "rss",
+    "published_at": "2026-10-20T21:00:00+00:00",
+    "raw_excerpt": "In corporate America, Stanley Anderson ’79 says, executives often assume that their peers grew up in privileged circumstances. He did not. “I spent my early years trying not to get recruited into gangs, getting shot at, watching my friends get murdered, and thinking that if I don’t leave, I will die,” says Anderson, who was",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "In corporate America, Stanley Anderson ’79 says, executives often assume that their peers",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Anderson_IMG_9876-thumb.jpg?resize=1200,600",
+    "score": 5.671,
+    "engagement": 0,
+    "matched_keywords": [
+      "startup"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Gemini on Android Auto can access my photos, emails, and calendar now – why I’m OK with that (mostly)",
+    "url": "https://www.zdnet.com/tech/gemini-on-android-auto-can-look-through-my-photos-emails-and-calendar-now-im-cautiously-optimistic/",
+    "source": "ZDNet (Global, AI)",
+    "source_type": "rss",
+    "published_at": "2026-10-20T20:00:00+00:00",
+    "raw_excerpt": "The latest Android Auto update lets the AI assistant tap into your Google services for context-based responses.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "The latest Android Auto update lets the AI assistant tap into your Google services for con",
+    "thumbnail": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_4285.jpeg",
+    "score": 5.602,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "ChatGPT now lets you lock your chats",
+    "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-10-20T18:36:53+00:00",
+    "raw_excerpt": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in another chat.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "The company says the feature is designed for situations where users might be discussing so",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+    "score": 5.507,
+    "engagement": 0,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Agentic AI and Instant Payments: How Can Banks Reduce Fragmentation?",
+    "url": "https://www.finextra.com/videoarticle/3621/agentic-ai-and-instant-payments-how-can-banks-reduce-fragmentation?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-10-20T11:00:00+00:00",
+    "raw_excerpt": "At Sibos 2026, the Euro Banking Association shares the ways in which banks can combat agentic AI disintermediation and reduce European payment fragmentation. How agentic AI could reshape bank brands and customer loyalty.",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "At Sibos 2026, the Euro Banking Association shares the ways in which banks can combat agen",
+    "thumbnail": "",
+    "score": 5.28,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic",
+      "agentic ai"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Google’s more personalized Gemini AI is heading to your car",
+    "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-10-20T22:11:34+00:00",
+    "raw_excerpt": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you're driving [ ]",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemin",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/google-gemini-personal-intelligence.png?quality=90&strip=all&crop=1.0809792843691%2C0%2C97.838041431262%2C100&w=1200",
+    "score": 5.23,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+    "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-10-20T14:13:32+00:00",
+    "raw_excerpt": "Figma said it plans to support as many standards as possible without exposing all of its data.",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Figma said it plans to support as many standards as possible without exposing all of its d",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1233645802.jpg?resize=1200,800",
+    "score": 5.205,
+    "engagement": 0,
+    "matched_keywords": [
+      "mcp"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
+    "url": "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance",
+    "source": "CoinDesk",
+    "source_type": "rss",
+    "published_at": "2026-10-20T21:12:21+00:00",
+    "raw_excerpt": "",
+    "topic": "personal_ai_agent",
+    "topic_label": "🧑‍💼 개인 AI 에이전트 · 금융비서",
+    "summary": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/2ea663e27b7a8aedacb15a99a17ec144f1ef72ac-4928x2772.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "score": 5.168,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic finance"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+    "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-10-20T13:00:00+00:00",
+    "raw_excerpt": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-19-at-1.21.23-PM.png?resize=1200,974",
+    "score": 5.121,
+    "engagement": 0,
+    "matched_keywords": [
+      "physical ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Injective, BDACS plan Korean won stablecoin settlement for tokenized assets",
+    "url": "https://cointelegraph.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "source_type": "rss",
+    "published_at": "2026-10-20T16:47:48+00:00",
+    "raw_excerpt": "Injective and BDACS plan to bring won-backed stablecoin KRW1 to tokenized asset markets as South Korea develops a regulatory framework for local currency stablecoins.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Injective and BDACS plan to bring won-backed stablecoin KRW1 to tokenized asset markets as",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5CY3MR3WZ537VDFZE18DZR5/south-korea-coin2.jpg",
+    "score": 5.078,
+    "engagement": 0,
+    "matched_keywords": [
+      "regulatory",
+      "stablecoin"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "텐스토렌트, 8조 가치로 대규모 투자 유치...\"인수 대신 독자 노선\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216444",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-20T18:14:45+00:00",
+    "raw_excerpt": "캐나다의 AI 칩 스타트업 텐스토렌트(Tenstorrent)가 15억달러(약 2조원) 규모의 신규 투자를 유치하며 기업가치를 62억달러(약 8조원)로 끌어올렸다. 인텔과 퀄컴의 인수 가능성이 거론된 지 약 5개월 만에 매각 대신 독자 성장에 나서기로 했다.텐스토렌트는 19일(현지시간) 시리즈E 투자 라운드에서 15억달러(약 2조원)를 조달했다고 밝혔다. 이번 기업가치는 2024년 투자 당시 평가받은 26억달러(약 3조4000억원)의 두 배를 웃돈다.이번 투자는 트레이스 캐피털이 주도했으며, 이노베이션X를 비롯해 아고스티넬리 그룹,",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "캐나다의 AI 칩 스타트업 텐스토렌트(Tenstorrent)가 15억달러(약 2조원) 규모의 신규 투자를 유치하며 기업가치를 62억달러(약 8조원)로 끌어올렸다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216444_220516_162.png",
+    "score": 4.969,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업",
+      "투자 유치"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "The Coinbase allegations expose Bitcoin's corporate governance gap",
+    "url": "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap",
+    "source": "CoinDesk",
+    "source_type": "rss",
+    "published_at": "2026-10-20T17:02:31+00:00",
+    "raw_excerpt": "",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "The Coinbase allegations expose Bitcoin's corporate governance gap",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/ada6e352fb7da116d4661c898ba82b9fde8e5e95-8192x5464.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "score": 4.908,
+    "engagement": 0,
+    "matched_keywords": [
+      "governance"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "“모델 가중치 그대로 두고 ‘AI 에이전트’ 스스로 진화시킨다”...구글, ‘하네스²’ 오픈소스로 공개",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42369",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-10-20T22:48:02+00:00",
+    "raw_excerpt": "구글 리서치(Google Research)가 대형언어모델(LLM)의 가중치를 변경하지 않고도 인공지능(AI) 에이전트의 실행 환경을 반복적으로 개선하는 오픈소스 프레임워크 ‘하네스²(Harness²·Harness Squared)’를 공개했다.모델 자체를 재학습하는 대신 프롬프트, 도구 사용법, 메모리, 작업 절차 등 주변 구성 요소를 진화시켜 에이전트의 실제 수행 능력을 높이는 접근법이다. 이 프레임워크는 AI 성능 향상의 초점을 모델 내부에서 외부 실행 체계로 확장한다는 점에서 주목된다.에이전트가 복잡한 업무를 수행할 때는 모델의",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "구글 리서치(Google Research)가 대형언어모델(LLM)의 가중치를 변경하지 않고도 인공지능(AI) 에이전트의 실행 환경을 반복적으로 개선하는 오픈소스",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202610/42369_63701_4717_v150.jpg",
+    "score": 4.814,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Finsei selects Thredd to power new debit offering",
+    "url": "https://www.finextra.com/pressarticle/111366/finsei-selects-thredd-to-power-new-debit-offering?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-10-20T13:32:00+00:00",
+    "raw_excerpt": "Thredd, the AI-first issuer processing platform, today announced a new partnership with Finsei, a London-based payments company, to power the processing infrastructure behind Finsei’s new Mastercard debit offering.",
+    "topic": "ai_native",
+    "topic_label": "🧬 AI Native",
+    "summary": "Thredd, the AI-first issuer processing platform, today announced a new partnership with Fi",
+    "thumbnail": "",
+    "score": 4.688,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai-first"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Crypto’s 2026 shutdown wave claims 82 projects. What went wrong?",
+    "url": "https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "source_type": "rss",
+    "published_at": "2026-10-20T19:59:39+00:00",
+    "raw_excerpt": "Crypto projects are struggling to survive as falling revenues, depleted funding and security breaches force closures across DeFi, blockchain infrastructure and gaming.",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Crypto projects are struggling to survive as falling revenues, depleted funding and securi",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1H2YME5WK16MEE643RQSSVQ/layoffs-fired-human-resource-hr-leaving-quit-closing-breaking-news-3.jpg",
+    "score": 4.583,
+    "engagement": 0,
+    "matched_keywords": [
+      "funding"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "France's parliament approves vote to hit stablecoin trades with 31% capital gains tax",
+    "url": "https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy",
+    "source": "CoinDesk",
+    "source_type": "rss",
+    "published_at": "2026-10-20T11:25:00+00:00",
+    "raw_excerpt": "",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "France's parliament approves vote to hit stablecoin trades with 31% capital gains tax",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/878176819e13d700e6a3e6c6561c28fff13b2e51-4794x3595.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "score": 4.556,
+    "engagement": 0,
+    "matched_keywords": [
+      "stablecoin"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Quantum error correction goes well beyond breakeven",
+    "url": "https://arstechnica.com/science/2026/10/quantum-error-correction-goes-well-beyond-breakeven/",
+    "source": "Ars Technica",
+    "source_type": "rss",
+    "published_at": "2026-10-20T18:08:57+00:00",
+    "raw_excerpt": "A demo of error-corrected qubits shows big reductions in errors as they grow.",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "A demo of error-corrected qubits shows big reductions in errors as they grow.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/helios-chip_top-1152x648.jpg",
+    "score": 4.479,
+    "engagement": 0,
+    "matched_keywords": [
+      "quantum"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "AI 도입했더니 업무시간 90% 줄었다…산업별 AX 성과 가시화",
+    "url": "https://zdnet.co.kr/view/?no=20261020180309",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-10-20T09:03:09+00:00",
+    "raw_excerpt": "[지디넷코리아]인공지능(AI) 도입이 기업의 업무 효율 개선을 넘어 실질적인 비용 절감과 매출 증대로 이어지고 있는 것으로 나타났다.국내 원전 분야에선 기술서류 검토 시간이 90% 단축됐으며 해외 유통 분야에서도 AI 기반 상품 콘텐츠 자동화로 60일 만에 1700만 달러의 추가 매출을 거둔 것으로 조사됐다.20일 베스핀글로벌이 발간한 '2026 산업별 AX 고객 사례집'에 따르면 금융·공공·제조·유통·서비스 등 주요 산업에서 AI를 활용한 업무 자동화와 생산성 개선 성과가 확인됐다.이번 사례집에는 글로벌 선도 기업과 국내 기업·기관의 실제 적용 사례, 베스핀글로벌의 자체 AI 전환(AX) 성과 등 총 34건이 수록됐다.사례집은 글로벌 기업들의 AI 활용 성과와 국내 현장 적용 사례를 비교해 산업별 도입 방식과 기대 효과를 제시했다. 특히 국내에선 KB라이프와 우리금융지주, 한국수력원자력, 산림청 등 14개 프로젝트를 통해 AI가 실제 업무에 적용되는 과정을 소개했다.금융 분야에선 고객 상담과 보험 심사, 규제 대응 업무에 AI를 활용하는 사례가 두드러졌다. KB라이프는 수천 페이지에 달하는 보험 약관을 AI가 분석하는 시스템을 구축해 심사자가 자연어로 질문하면 관련 약관과 지급 기준을 확인할 수 있도록 했다.우리금융지주는 규제 준수 업무를 지원하는 AI 플랫폼을 마련해 금융 업무에 특화된 AI 에이전트 활용 기반을 구축했다.공공 분",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "[지디넷코리아]인공지능(AI) 도입이 기업의 업무 효율 개선을 넘어 실질적인 비용 절감과 매출 증대로 이어지고 있는 것으로 나타났다.국내 원전 분야에선 기술서류",
+    "thumbnail": "https://image.zdnet.co.kr/2026/10/20/37ccdfeafb5aa47d2dcd23da2c14fd83.jpg",
+    "score": 4.445,
+    "engagement": 0,
+    "matched_keywords": [
+      "업무 자동화",
+      "생산성",
+      "현장",
+      "ax",
+      "ai 도입"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "KT, 아크릴과 의료기관 맞춤형 AX 사업 공조",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216440",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-20T17:18:36+00:00",
+    "raw_excerpt": "KT(대표 박윤영)는 의료 AI 전문 아크릴(대표 박외진)과 의료기관의 데이터 활용 및 AI 서비스 도입을 위한 의료 AX 사업을 공동 추진한다고 20일 밝혔다.두 회사는 KT의 AI·클라우드·데이터 기반 통합구축 역량과 의료 AX사업 추진 경험에 아크릴의 의료 데이터·AI 기술 및 병원 구축·실증 경험을 결합, 의료기관 맞춤형 AX 사업 모델을 공동 발굴할 계획이다.또 의료기관별 공동 제안과 실증을 추진하고, 기술 검증에서 실제 사업화까지 이어지는 협력 체계를 마련하는 한편, 정부·공공 연구과제와 신규 사업 기회도 공동 모색할 방",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "KT(대표 박윤영)는 의료 AI 전문 아크릴(대표 박외진)과 의료기관의 데이터 활용 및 AI 서비스 도입을 위한 의료 AX 사업을 공동 추진한다고 20일 밝혔다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216440_220506_2226.jpg",
+    "score": 4.268,
+    "engagement": 0,
+    "matched_keywords": [
+      "ax"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
+    "url": "https://cointelegraph.com/news/tx-ustx-stablecoin-rwa-liquidity-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "source_type": "rss",
+    "published_at": "2026-10-20T12:30:00+00:00",
+    "raw_excerpt": "The Brale-issued token can be minted with USDC from eight networks and is designed to settle tokenized stocks and other assets on tx.",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "The Brale-issued token can be minted with USDC from eight networks and is designed to sett",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5CB3DG99Z15CC7ASVQCSCA8/hi-you-cant-talk-about-blockchain-and-not-bring-up-rwas-and-stablecoins.jpg",
+    "score": 4.161,
+    "engagement": 0,
+    "matched_keywords": [
+      "rwa"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
+    "url": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-20T18:51:40+00:00",
+    "raw_excerpt": "Article URL: https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/ Comments URL: https://news.ycombinator.com/item?id=50170917 Points: 38 # Comments: 13",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-du",
+    "thumbnail": "https://blogsmedia.lse.ac.uk/blogs.dir/9/files/2026/10/Wikipedia-Academia-Animated-LSE-Impact.gif",
+    "score": 4.017,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "9일째 러닝머신 걷는 로봇…560km·120만 걸음 돌파",
+    "url": "https://www.etnews.com/20261020000291",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-10-20T13:30:00+00:00",
+    "raw_excerpt": "휴머노이드 로봇이 러닝머신 위에서 9일째 계속 걷는 영상이 화제가 되고 있습니다. 미국 로봇 스타트업 피규어 AI의 최고경영자(CEO) 브렛 애드콕은 지난 19일 자사 휴머노이드 로봇 '피규어 03'의 장기 보행 영상을 공개했습니다. 로봇은 러닝머신 위에서 9일 연속 걸으며 약 560km, 120만 걸음을 기록했습니다. 이 영상은 로봇을 장시간 반복해서 걷게 하며 관절과 구동계 등 하드웨어가 얼마나 오래 버티는지, 어떤 지점에서 고장이 발생하는",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "휴머노이드 로봇이 러닝머신 위에서 9일째 계속 걷는 영상이 화제가 되고 있습니다. 미국 로봇 스타트업 피규어 AI의 최고경영자(CEO) 브렛 애드콕은 지난 19일",
+    "thumbnail": "https://img.etnews.com/news/article/2026/10/20/news-p.v1.20261020.00310bcbb7cd477ea9acc8175e651daa_P1.jpg",
+    "score": 3.624,
+    "engagement": 0,
+    "matched_keywords": [
+      "휴머노이드",
+      "휴머노이드 로봇"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "거래 1건 온체인 기록 96바이트, 후양자 블록체인 설계 제안",
+    "url": "https://www.tokenpost.kr/news/blockchain/425192",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-10-20T22:13:10+00:00",
+    "raw_excerpt": "단일 입력 거래의 온체인 기록을 해시 3개, 96바이트로 제한하는 후양자 블록체인 설계가 제안됐다. 거래 증명의 부담을 네트워크 전체가 아니라 거래 당사자의 지갑으로 옮기는 구조다. 논문은 9월 25일 공개됐다. 드라고스 일리에(Dragos I. Ilie)와 임페리얼 칼리지 런던(Imperial College London) 연구진은 논문 Compact Shielded CSV: Post-Quantum, Private, Lightweight Client-Side Validation Blockchain에서 컴팩트 실드 CSV 구조를 제시했다. 이 구조는 서명과 대형 암호학적 증명을 체인 밖에서 주고받고, 온체인에는 널리파이어·디그리퍼·거래 커밋먼트 해시만 남긴다. 후양자 암호로 전환하면 서명과 영지식 증명의 크기가 커져... 더보기",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "단일 입력 거래의 온체인 기록을 해시 3개, 96바이트로 제한하는 후양자 블록체인 설계가 제안됐다. 거래 증명의 부담을 네트워크 전체가 아니라 거래 당사자의 지갑",
+    "thumbnail": "https://f1.tokenpost.kr/2026/10/dqzcofbd4b.jpg",
+    "score": 3.19,
+    "engagement": 0,
+    "matched_keywords": [
+      "양자",
+      "quantum"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "인젝티브·비댁스, KRW1 원화 결제 MOU 발표",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/425187",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-10-20T21:52:41+00:00",
+    "raw_excerpt": "인젝티브(INJ)와 비댁스(BDACS)가 20일 원화 담보 스테이블코인 KRW1을 인젝티브 생태계의 실물연계자산(RWA)·토큰화 거래에서 원화 결제 자산으로 활용하는 양해각서(MOU)를 발표했다. 양사는 KRW1을 생태계 내 최초 원화 표시 결제 자산으로 구축하기 위해 협력한다. 토큰화된 RWA를 달러 스테이블코인을 거치지 않고 원화로 거래·결제하는 방향이다. 일부 보도는 KRW1을 유일한 원화 결제 자산으로 소개했지만, 공식 발표 문구는 최초다. 독점 조건은 공개되지 않았다. ◇ 발행·상환은 승인된 기관 파트너 대상 KRW1은 원화로 1대 1 담보된다. 발행과 상환은 규제 승인에 따라 승인된 기관 파트너에게만 제공된다. 일반 이용자의 이용... 더보기",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "인젝티브(INJ)와 비댁스(BDACS)가 20일 원화 담보 스테이블코인 KRW1을 인젝티브 생태계의 실물연계자산(RWA)·토큰화 거래에서 원화 결제 자산으로 활용",
+    "thumbnail": "https://f1.tokenpost.kr/2026/10/cizcu6w6j8.jpg",
+    "score": 3.179,
+    "engagement": 0,
+    "matched_keywords": [
+      "토큰화",
+      "rwa"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "블록체인닷컴, 비트코인·이더리움 옵션 거래 출시…파생상품 확대 나선 이유는?",
+    "url": "https://www.blockmedia.co.kr/archives/1154102?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-10-20T21:37:06+00:00",
+    "raw_excerpt": "[블록미디어 명정선 기자] 글로벌 디지털자산 플랫폼 블록체인닷컴(Blockchain.com)이 비트코인과 이더리움 등 주요 디지털자산을 대상으로 옵션 거래 서비스를 출시했다. 지난 4월 무기한 선물 거래를 도입한 지 약 6개월 만에 파생상품 사업을 확대한 것이다. 복잡한 옵션 거래 과정을 간소화해 개인투자자의 접근성을 높이는 동시에 미국 규제시장 진출까지 추진하고 있다는 점에서 주목된다. 디지털자산 거래 플랫폼 간 경쟁이 현물 거래를 넘어 [...]",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[블록미디어 명정선 기자] 글로벌 디지털자산 플랫폼 블록체인닷컴(Blockchain.com)이 비트코인과 이더리움 등 주요 디지털자산을 대상으로 옵션 거래 서비스",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/10/20261021-062825.png",
+    "score": 3.116,
+    "engagement": 0,
+    "matched_keywords": [
+      "블록체인"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "JB금융, 업스테이지에 400억 투자",
+    "url": "https://www.fnnews.com/news/202610201816302413",
+    "source": "파이낸셜뉴스 금융",
+    "source_type": "rss",
+    "published_at": "2026-10-20T09:16:33+00:00",
+    "raw_excerpt": "JB금융그룹 계열사인 전북은행과 광주은행, JB우리캐피탈이 국내 인공지능(AI) 기술 기업 업스테이지에 총 400억원을 투자한다. 20일 금융권에 따르면 JB금융은 이번 투자를 통해 업스테이지 지분 약 2%를 확보하게 됐다. 이번 투자는 지난달 14일 JB금융과 업스테이지가 체결한 '금융·AI 기술 및 사업 협력을 위한 전략적 파트너십(MOU)'의 후속 조치다. JB금융그룹은 올해부터 그룹 차원의 AI전환(AX)을 본격화하고 있다. 정보기술(IT) 개발과 컴플라이언스, 기업여신 등 주요 업무 프로세스에 AI를 적용해 생산성을 높이는 작업을 진행 중이다. coddy@fnnews.com 예병정 기자",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "JB금융그룹 계열사인 전북은행과 광주은행, JB우리캐피탈이 국내 인공지능(AI) 기술 기업 업스테이지에 총 400억원을 투자한다. 20일 금융권에 따르면 JB금융",
+    "thumbnail": "https://static.fnnews.com/resources/img/logo/fnnews_og.jpg",
+    "score": 3.103,
+    "engagement": 0,
+    "matched_keywords": [
+      "생산성",
+      "ax"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "[뉴욕 코인시황/마감] 유가 하락·숏 청산에 BTC 반등…8.3만달러 돌파 후 숨고르기",
+    "url": "https://www.blockmedia.co.kr/archives/1154083?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-10-20T20:34:13+00:00",
+    "raw_excerpt": "[멕시코=심영재 특파원] 뉴욕 디지털자산(가상자산) 시장이 국제유가 하락에 따른 투자심리 개선에 힘입어 반등하고 있다. 비트코인은 장중 8만3000달러를 회복하며 상승세를 이끌었고, 알트코인 또한 강세를 보이고 있다. 다만 파생상품 시장의 대규모 숏 포지션 청산이 상승세를 자극한 가운데 현물 수요 부진과 레버리지 확대에 따른 추가 변동성 우려도 이어지고 있다. 20일(현지시각) 코인마켓캡에 따르면 글로벌 디지털자산 시가총액은 2조7600억달러로 전일 대비 1.12% [...]",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[멕시코=심영재 특파원] 뉴욕 디지털자산(가상자산) 시장이 국제유가 하락에 따른 투자심리 개선에 힘입어 반등하고 있다. 비트코인은 장중 8만3000달러를 회복하며",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/10/20261021-053256.jpg",
+    "score": 3.077,
+    "engagement": 0,
+    "matched_keywords": [
+      "가상자산"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "모두 다 던진 날, “470만닉스 간다”는 노무라…“67만전자” 파격 제시",
+    "url": "https://www.etnews.com/20261020000418",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-10-20T11:54:37+00:00",
+    "raw_excerpt": "SK하이닉스 주가가 외국인과 기관에 이어 개인 투자자들의 매도세까지 겹치며 급락했다. 그동안 주가 하락을 방어해 온 자사주 매입도 종료를 앞두고 있어 수급 부담이 커지는 모습이다. 다만 증권가에서는 메모리 반도체의 중장기 업황에 대한 기대가 여전히 유효하다는 분석도 나온다. 노무라증권은 메모리 수요가 최소 2028년까지 공급을 웃돌 것으로 전망하며 SK하이닉스의 목표주가를 470만원으로 제시했다. 20일 유가증권시장에서 SK하이닉스는 전 거래일",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "SK하이닉스 주가가 외국인과 기관에 이어 개인 투자자들의 매도세까지 겹치며 급락했다. 그동안 주가 하락을 방어해 온 자사주 매입도 종료를 앞두고 있어 수급 부담이",
+    "thumbnail": "https://img.etnews.com/news/article/2026/10/20/news-p.v1.20261020.e2c328801096499988211cbbce7c82d0_P1.jpg",
+    "score": 3.058,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "소액주주 만난 카카오…\"경영진 블록딜·자회사 매각 없다\" [현장+]",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=676129",
+    "source": "블로터",
+    "source_type": "rss",
+    "published_at": "2026-10-20T18:04:12+00:00",
+    "raw_excerpt": "카카오가 인공지능(AI) 사업과 투자 및 계열사 관리를 분리하는 창사 이래 최대 규모의 지배구조 개편에 나선 가운데 김도영 카카오X(존속법인) 대표 내정자를 비롯한 주요 경영진들이 소액주주들을 직접 만나 설득에 나섰다.회사는 사업별 전문성을 높이고 기업가치 할인 문제를 해소하겠다는 입장이지만 일각에서는 인적분할 이후 주요 계열사를 거느리게 되는 카카오X가 저평가를 받을 수 있다는 우려가 커지고 있는 데다 일부 계열사에 대한 매각 가능성까지 제기되자 이를 조기에 진화하기 위한 조치로 풀이된다. \"왜 굳이 나누나\"…분할비율·주가 하락에",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "카카오가 인공지능(AI) 사업과 투자 및 계열사 관리를 분리하는 창사 이래 최대 규모의 지배구조 개편에 나선 가운데 김도영 카카오X(존속법인) 대표 내정자를 비롯",
+    "thumbnail": "https://cdn.bloter.net/news/thumbnail/202610/676129_290222_134_v150.jpg",
+    "score": 2.983,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "레플리카 창업자의 AI 비서 앱 '와비 2.0', 모든 이용자에 공개",
+    "url": "https://zdnet.co.kr/view/?no=20261020223758",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-10-20T13:37:58+00:00",
+    "raw_excerpt": "[지디넷코리아]AI 챗봇 레플리카를 창업한 유지니아 쿠이다가 현지 시각 10월 19일 새 AI 비서 앱 '와비 2.0(Wabi 2.0)'을 모든 이용자에게 공개했다. 와비는 지난 9월 말 앱 제작 플랫폼에서 메신저 형태의 AI 비서로 서비스를 전환했으며, 그동안은 초대 코드를 받은 이용자만 사용할 수 있었다. 와비는 무료로 제공되며, 와비 측은 아직 수익 모델을 정하지 않았다. 앱은 와비 공식 웹사이트에서 내려받을 수 있다.와비는 메신저처럼 대화방 형태로 작동한다. 이용자는 운동이나 육아, 여행 계획 등 목적별로 여러 대화방을 개설하고, 대화방마다 AI 비서에게 작업을 맡길 수 있다. 대화방에는 필요한 앱도 추가할 수 있어, 건강 관리 대화방에는 칼로리 기록과 체중 기록 앱을, 가족 대화방에는 아이 활동 일정과 지역 행사 안내 앱을 추가할 수 있다. 와비 2.0에서는 어떤 앱이 필요한지 AI가 직접 판단해 제작하며, 이메일 계정을 연결하면 기본 대화방과 앱이 자동으로 생성된다. 대화방은 다른 사람과 공유해 단체 대화방처럼 사용할 수 있다.쿠이다는 한 대화방에서 모든 일을 처리하는 AI 비서는 대화가 길어질수록 참고할 내용이 지나치게 많아져 성능이 떨어진다며, 작업별로 대화방을 나누는 방식을 택했다고 설명했다. 이용자가 앱을 직접 제작하는 데 시간을 들이고 싶어 하지 않는다는 점도 서비스 전환 이유로 들었다.쿠이다는 2014년 테크크런",
+    "topic": "personal_ai_agent",
+    "topic_label": "🧑‍💼 개인 AI 에이전트 · 금융비서",
+    "summary": "[지디넷코리아]AI 챗봇 레플리카를 창업한 유지니아 쿠이다가 현지 시각 10월 19일 새 AI 비서 앱 '와비 2.0(Wabi 2.0)'을 모든 이용자에게 공개했",
+    "thumbnail": "https://image.zdnet.co.kr/2026/10/20/ai9d9a1a7bfd26a497786ff1fd50512489.jpg",
+    "score": 2.817,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai 비서"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  }
+]
