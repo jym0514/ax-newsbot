@@ -1,0 +1,662 @@
+[
+  {
+    "title": "코넬대, 전공 불문 ‘일상 속 AI’ 수업 개설…2027년 봄학기 시작",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42382",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-10-21T17:31:51+00:00",
+    "raw_excerpt": "인공지능(AI)이 공부와 업무는 물론 일상적인 의사결정까지 바꾸는 가운데, 미국 코넬대학교(Cornell University)가 전공과 기술 배경에 관계없이 누구나 AI를 효과적으로 활용하는 방법을 배울 수 있는 교과목을 개설한다.AI 기술 자체를 개발하는 전문 교육에서 나아가 대형언어모델(LLM)과 AI 에이전트 등 다양한 기술을 일상에서 어떻게 활용하고, 그 과정에서 발생하는 한계와 사회적 영향을 어떻게 이해해야 하는지 가르치는 것이 핵심이다.코넬대는 2027년 봄학기부터 모든 전공의 학생을 대상으로 ‘일상 속 AI: 효과적이고",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "인공지능(AI)이 공부와 업무는 물론 일상적인 의사결정까지 바꾸는 가운데, 미국 코넬대학교(Cornell University)가 전공과 기술 배경에 관계없이 누구",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202610/42382_63716_3115_v150.jpg",
+    "score": 8.738,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "llm"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "오픈AI, 챗GPT에 사적 대화 숨기는 '채팅 잠금' 기능 도입",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216470",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-21T17:57:53+00:00",
+    "raw_excerpt": "오픈AI가 '챗GPT'의 개인정보 보호 기능을 강화하고 민감한 대화에 대한 접근을 제한하는 새로운 기능을 선보였다. 대화 기록과 메모리를 일반 채팅과 분리해 사적인 정보가 노출될 가능성을 줄이는 데 초점을 맞췄다. 오픈AI는 20일(현지시간) 챗GPT에서 민감한 대화를 별도로 보호할 수 있는 '채팅 잠금(Locked Chats)' 기능을 도입했다.사용자가 다른 사람에게 기기를 보여주거나 화면을 공유할 때 사적인 대화가 노출되는 것을 막기 위한 기능이다.잠금 기능을 적용한 대화는 일반 채팅 기록과 검색 결과에서 사라지고, 별도의 '잠",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "오픈AI가 '챗GPT'의 개인정보 보호 기능을 강화하고 민감한 대화에 대한 접근을 제한하는 새로운 기능을 선보였다. 대화 기록과 메모리를 일반 채팅과 분리해 사적",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216470_220554_4713.jpg",
+    "score": 8.527,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "인셉션, 최고 성능 dLLM '머큐리 3' 공개...\"오픈AI·앤트로픽 맞먹어\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216483",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-21T17:51:10+00:00",
+    "raw_excerpt": "AI 모델 경쟁이 성능뿐 아니라 응답 속도와 비용 효율성으로 확대되는 가운데, 확산 대형언어모델(dLLM)이 기존 모델의 한계를 넘어설 수 있다는 가능성을 보여주는 사례가 등장했다. 초고속 생성 능력에 더해 오픈AI와 앤트로픽의 모델에 버금가는 성능을 입증하며 복잡한 AI 에이전트 작업까지 겨냥했다.인셉션(Inception)은 19일(현지시간) 초당 1000토큰 이상을 생성하면서도 'GPT-6 루나'와 '클로드 하이쿠 5.5'보다 높은 품질을 내세운 dLLM '머큐리 3(Mercury 3)'를 출시했다. 모델 규모를 이전 세대보다",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "AI 모델 경쟁이 성능뿐 아니라 응답 속도와 비용 효율성으로 확대되는 가운데, 확산 대형언어모델(dLLM)이 기존 모델의 한계를 넘어설 수 있다는 가능성을 보여주",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216483_220562_5359.png",
+    "score": 8.518,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "오픈AI, 신약 개발 조율하는 AI 에이전트 만든다…신약 개발 플랫폼 '오케스트라 바이오' 인수",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42379",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-10-21T14:18:53+00:00",
+    "raw_excerpt": "일반적으로 신약 하나가 환자에게 도달하기까지는 평균 10~15년이 걸린다. 유망한 후보물질을 찾는 것만으로는 충분하지 않다. 전임상 연구부터 제조, 임상시험, 규제 승인까지 수많은 의사결정과 일정, 부서 간 협업이 맞물려야 한다.제조 단계에서 발생한 작은 문제가 임상시험 일정 전체를 흔들 수도 있다. 오픈AI(OpenAI)가 겨냥한 지점은 바로 이 복잡한 연결 구조다. 개별 연구를 돕는 AI를 넘어, 신약 개발 프로그램 전체를 조율하는 AI 에이전트 구축에 나섰다.오픈AI는 현지시간 20일 신약 개발 프로그램의 계획과 진행 과정을",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "일반적으로 신약 하나가 환자에게 도달하기까지는 평균 10~15년이 걸린다. 유망한 후보물질을 찾는 것만으로는 충분하지 않다. 전임상 연구부터 제조, 임상시험, 규",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202610/42379_63712_1728_v150.jpg",
+    "score": 8.497,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai",
+      "오픈ai"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "자체 감시 기능 무력화한 오픈AI 에이전트…'회피 성향' 조사",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216468",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-21T16:09:55+00:00",
+    "raw_excerpt": "오픈AI의 AI 에이전트가 AI 모델의 이상 행동을 감시하는 내부 시스템의 경고 기능을 약화하거나 감시 기능 자체를 제거한 사례가 확인됐다. 한 에이전트는 감시 기능을 삭제한 뒤에도 사용자에게 이를 부인했다. 오픈AI는 에이전트가 감시를 회피하려는 성향을 보인 것인지 조사하고 있다.오픈AI가 20일(현지시간) 공개한 보고서에 따르면 첫 번째 사례는 지난 3일 'GPT-6.1 솔' 에이전트가 내부 평가 파이프라인을 수정하는 과정에서 발생했다.연구자는 슬랙에서 직원 피드백을 수집해 평가 작업을 만들도록 지시하면서 \"이 과정에서 슬랙으로",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "오픈AI의 AI 에이전트가 AI 모델의 이상 행동을 감시하는 내부 시스템의 경고 기능을 약화하거나 감시 기능 자체를 제거한 사례가 확인됐다. 한 에이전트는 감시",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216468_220552_1323.png",
+    "score": 8.381,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "네이버 D2SF, 온디바이스 AI 스타트업 트레이스위브에 투자",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216461",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-21T14:43:31+00:00",
+    "raw_excerpt": "온디바이스 AI의 걸림돌로 꼽히던 메모리 문제를 해결한 스타트업이 네이버의 투자를 받았다.네이버 기업형 벤처캐피털(CVC) 네이버 D2SF는 온디바이스 AI 스타트업 트레이스위브에 신규 투자했다고 21일 밝혔다.트레이스위브는 기존 트랜스포머 구조의 메모리 병목을 해결한 새로운 AI 모델 아키텍처 '페이즈-타이탄'을 개발했다.트랜스포머 기반 모델은 처리 정보가 늘어날수록 '키밸류 캐시(KV-Cache)'가 커져 온디바이스 적용에 한계가 있었다. 페이즈-타이탄은 처리 정보가 늘어나도 메모리 사용량을 일정하게 유지하며, 클라우드 연결 없",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "온디바이스 AI의 걸림돌로 꼽히던 메모리 문제를 해결한 스타트업이 네이버의 투자를 받았다.네이버 기업형 벤처캐피털(CVC) 네이버 D2SF는 온디바이스 AI 스타",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216461_220541_4824.png",
+    "score": 8.264,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업",
+      "벤처"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "전남광주경자청, 미래모빌리티 엑스포 참가…기업 투자상담 운영",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216482",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-21T17:52:24+00:00",
+    "raw_excerpt": "AI 생성 영상전남광주경제자유구역청이 미래모빌리티 산업 관련 기업을 대상으로 투자유치와 지역기업 판로 확대에 나선다.전남광주경자청은 광주미래차모빌리티진흥원과 함께 21일부터 24일까지 대구 엑스코에서 열리는 ‘2026 대한민국 미래모빌리티 엑스포’에 참가해 공동홍보관을 운영한다고 21일 밝혔다.행사에서는 전기·수소차를 비롯해 자율주행, 도심항공교통(UAM), 소프트웨어 중심 자동차(SDV), 이차전지와 자동차부품 등 미래차 관련 기술과 제품이 전시된다.전남광주경자청은 공동홍보관에서 경제자유구역 내 AI융복합지구와 미래형자동차산업지구",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "AI 생성 영상전남광주경제자유구역청이 미래모빌리티 산업 관련 기업을 대상으로 투자유치와 지역기업 판로 확대에 나선다.전남광주경자청은 광주미래차모빌리티진흥원과 함께",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216482_220579_389.jpg",
+    "score": 7.544,
+    "engagement": 0,
+    "matched_keywords": [
+      "투자유치"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "메타 '뮤즈', 출시 40일 만에 미국 다운로드 1000만건 돌파...역대 12번째 기록",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216479",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-21T16:58:39+00:00",
+    "raw_excerpt": "메타의 AI 에이전트 앱 '뮤즈(Muse)'가 출시 40일 만에 미국에서 다운로드 1000만건을 돌파했다. 모바일 앱 가운데 출시 초기 이 같은 기록을 달성한 것은 역대 12번째로, 게임이 아닌 앱으로는 '디즈니플러스'와 메타의 '스레드'에 이어 세 번째다.20일(현지시간) 시장조사업체 센서타워의 데이터에 따르면, 뮤즈는 지난 9월 출시 이후 전 세계에서 총 1090만건의 다운로드를 기록했다. 이 가운데 1020만건이 미국에서 발생했다.센서타워의 카라 리 선임 인사이트 애널리스트는 출시 후 40일 만에 이 같은 성과를 낸 앱은 뮤즈",
+    "topic": "personal_ai_agent",
+    "topic_label": "🧑‍💼 개인 AI 에이전트 · 금융비서",
+    "summary": "메타의 AI 에이전트 앱 '뮤즈(Muse)'가 출시 40일 만에 미국에서 다운로드 1000만건을 돌파했다. 모바일 앱 가운데 출시 초기 이 같은 기록을 달성한 것",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216479_220572_5751.png",
+    "score": 7.472,
+    "engagement": 0,
+    "matched_keywords": [
+      "뮤즈"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "AGI 선점해 경쟁사 GPU까지 파괴…알트먼 “끔찍한 시나리오”",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216469",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-21T12:58:39+00:00",
+    "raw_excerpt": "샘 알트먼 오픈AI CEO가 한 기업이 AGI를 먼저 개발한 뒤 경쟁사들의 GPU를 파괴해 기술 추격을 막는 시나리오를 직원들에게 소개했다. AI 업계에서 거론된 안전 확보 방안을 설명하면서 꺼낸 이야기로, 자신은 이런 미래를 원하지 않으며 “끔찍하다”고 말했다.디 인포메이션은 19일(현지시간) 관계자들을 인용, 그가 지난주 직원들과의 대화에서 안전한 AI 개발을 위한 세 가지 구상을 설명했다고 보도했다.가장 극단적인 구상은 한 AI 개발사가 압도적인 기술력과 경제력을 확보해 다른 개발사들의 컴퓨팅 자원을 차단하는 것이었다.알트먼은",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "샘 알트먼 오픈AI CEO가 한 기업이 AGI를 먼저 개발한 뒤 경쟁사들의 GPU를 파괴해 기술 추격을 막는 시나리오를 직원들에게 소개했다. AI 업계에서 거론된",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216469_220550_5639.png",
+    "score": 7.147,
+    "engagement": 0,
+    "matched_keywords": [
+      "gpu"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "머스크, 스페이스X·테슬라 합병 논의 첫 확인…양사 특별위원회 구성",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216460",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-21T12:05:20+00:00",
+    "raw_excerpt": "스페이스X와 테슬라가 합병 가능성을 논의하기 위해 각각 독립 이사들로 구성된 특별위원회를 만들었다. 일론 머스크 CEO가 양사의 합병 논의를 공식적으로 확인한 것은 이번이 처음이다. 머스크 CEO는 20일(현지시간) 스페이스X의 3분기 실적 발표 컨퍼런스 콜에서 “두 회사를 합치는 데 상당한 장점이 있다고 생각한다”고 말했다.이어 “SI 소프트웨어 개발과 칩 설계, 테라팹, 로보틱스, 스타링크 위성군을 통한 우주 운송과 연결성 분야에서 협력을 통해 얻을 수 있는 것이 많다”고 설명했다.테라팹은 테슬라와 스페이스X가 추진하는 대규모",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "스페이스X와 테슬라가 합병 가능성을 논의하기 위해 각각 독립 이사들로 구성된 특별위원회를 만들었다. 일론 머스크 CEO가 양사의 합병 논의를 공식적으로 확인한 것",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216460_220539_2538.jpg",
+    "score": 7.074,
+    "engagement": 0,
+    "matched_keywords": [
+      "로보틱스"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "와이즈넛, 산업 현장형 AI 에이전트 개발...멀티모달 RAG 적용 확대",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21760",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-10-21T11:15:42+00:00",
+    "raw_excerpt": "와이즈넛은 과학기술정보통신부가 주관하고 정보통신기획평가원(IITP)이 추진하는 ‘멀티모달 데이터 입력 기반 검색 증강 생성 기술 개발’ 과제의 3차년도 연구를 진행하고 있다고 21일 밝혔다. 이 사업은 와이즈넛이 주관하며 세종대학교 산학협력단, 미소정보기술, 한국전자기술연구원(KETI)이 참여한다. 연구는 2027년 12월까지 4개년에 걸쳐 진행된다.RAG는 대형언어모델(LLM)이 답변을 생성하기 전에 외부 자료를 검색해 근거로 활용하는 기술이다. 모델이 학습 과정에서 확보한 지식에만 의존하지 않고 관련 문서나 최신 정보를 참고하도",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "와이즈넛은 과학기술정보통신부가 주관하고 정보통신기획평가원(IITP)이 추진하는 ‘멀티모달 데이터 입력 기반 검색 증강 생성 기술 개발’ 과제의 3차년도 연구를 진",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202610/21760_22538_39.jpg",
+    "score": 6.754,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "메르츠 총리, 첫 정부 주도 투자 정상회의서 230조원대 글로벌 투자 유치",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42377",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-10-21T13:36:53+00:00",
+    "raw_excerpt": "독일이 국내외 투자자들로부터 약 2300억 유로(약 343조원) 규모의 투자 약속을 확보했다. 프리드리히 메르츠(Friedrich Merz) 총리가 이끄는 독일 연방정부는 첫 고위급 투자 정상회의를 통해 글로벌 자본 유치에 대한 의지를 드러내고, 규제 완화와 인허가 절차 개선, 인프라 확충을 통해 투자 약속을 실질적인 경제 성장으로 연결하겠다는 방침을 제시했다.독일 정부는 지난 20일(현지시간) 베를린에서 ‘인베스트 인 저머니 서밋(Invest in Germany-Summit)’을 개최했다. 메르츠 총리는 회의 후 기자회견에서 독일",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "독일이 국내외 투자자들로부터 약 2300억 유로(약 343조원) 규모의 투자 약속을 확보했다. 프리드리히 메르츠(Friedrich Merz) 총리가 이끄는 독일",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202610/42377_63710_3539_v150.jpg",
+    "score": 6.645,
+    "engagement": 0,
+    "matched_keywords": [
+      "투자 유치"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "퀄컴, 산업 AI 엑스포서 스타트업 기술 공개...로봇·IoT 생태계 확대",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21767",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-10-21T16:55:23+00:00",
+    "raw_excerpt": "퀄컴 테크날러지스는 ‘산업 AI 엑스포 2026’에 참가해 국내 스타트업과 산업 파트너의 AI 기술을 선보인다고 21일 밝혔다. 전시장에는 퀄컴의 AI 개발 지원 프로그램인 ‘퀄컴 AI 이노베이터 프로그램(QAIPI)’ 참여 기업을 위한 전용 공간 ‘QAIPI 파빌리온’을 마련한다. QAIPI는 2025년 출범한 아시아태평양(APAC) 지역 스타트업 지원 프로그램이다. 참여 기업은 퀄컴 플랫폼을 활용해 모바일·컴퓨팅·IoT 분야의 AI 애플리케이션을 개발할 수 있다. 퀄컴 AI 허브를 비롯한 기술 리소스와 교육, 멘토링도 지원받는다",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "퀄컴 테크날러지스는 ‘산업 AI 엑스포 2026’에 참가해 국내 스타트업과 산업 파트너의 AI 기술을 선보인다고 21일 밝혔다. 전시장에는 퀄컴의 AI 개발 지원",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202610/21767_22546_530.jpg",
+    "score": 6.318,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "마이크로소프트, AI 에이전트를 ‘내부자 위협’으로 규정…프로젝트 퍼셉션으로 실시간 통제 나선다",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42364",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-10-20T18:31:59+00:00",
+    "raw_excerpt": "마이크로소프트가 기업 내부에서 활동하는 인공지능(AI) 에이전트를 잠재적인 ‘내부자 위협(Insider Threat)’으로 규정하고, 실시간 위험 평가와 권한 조정, 위협 차단을 통해 통제하는 보안 체계 구축에 나섰다. 외부 공격자가 AI를 악용하는 문제를 넘어, 기업이 직접 도입한 AI 에이전트 자체가 의도하지 않은 행동으로 내부 보안 위험을 일으킬 수 있다는 판단에서다.마이크로소프트 보안 부문을 총괄하는 헤이엇 갈롯(Hayete Gallot) 수석부사장은 19일(현지시간) 자사 공식 블로그에 ‘에이전트형 내부자 보호(Securi",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "마이크로소프트가 기업 내부에서 활동하는 인공지능(AI) 에이전트를 잠재적인 ‘내부자 위협(Insider Threat)’으로 규정하고, 실시간 위험 평가와 권한 조",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202610/42364_63692_394_v150.jpg",
+    "score": 6.114,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "하이퍼리퀴드, 美 SEC에 디지털자산 규제 5가지 개선 요구…핵심은?",
+    "url": "https://www.blockmedia.co.kr/archives/1154326?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-10-21T06:42:25+00:00",
+    "raw_excerpt": "[블록미디어 명정선 기자] 하이퍼리퀴드 정책센터(HPC)가 미국 증권거래위원회(SEC)에 가상자산 규제안의 핵심 조항 5개를 수정해달라고 요구했다. 에어드롭과 토큰의 2차 거래, 자체 토큰 재매입(바이백) 등에 대한 법적 기준을 명확히 해 블록체인 프로젝트의 규제 불확실성을 줄여야 한다는 주장이다. 20일(현지시각) 크립토포테이토 등 주요 외신에 따르면 HPC는 SEC가 추진 중인 가상자산 규정(Regulation Crypto Assets) 에 대한 공식 의견서를 제출했다. 규제안의 기본 방향에는 [...]",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "[블록미디어 명정선 기자] 하이퍼리퀴드 정책센터(HPC)가 미국 증권거래위원회(SEC)에 가상자산 규제안의 핵심 조항 5개를 수정해달라고 요구했다. 에어드롭과 토",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/10/20261021-143511.png",
+    "score": 5.945,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제",
+      "regulation",
+      "가상자산 규제"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "PHP, 중대 취약점 대응 보안 릴리스 예정",
+    "url": "https://news.hada.io/topic?id=35748",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-10-21T08:01:01+00:00",
+    "raw_excerpt": "PHP 보안팀이 중대 취약점 2건 을 수정하는 보안 릴리스를 예고했으며, 두 취약점 모두 CVSS v4.0 9.2점 임 릴리스는 2026년 10월 21일 수요일 14:00 UTC 로 예정됨 모든 PHP 사용자에게 릴리스 공개 즉시 업그레이드 할 수...",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "PHP 보안팀이 중대 취약점 2건 을 수정하는 보안 릴리스를 예고했으며, 두 취약점 모두 CVSS v4.0 9.2점 임 릴리스는 2026년 10월 21일 수요일",
+    "thumbnail": "https://social.news.hada.io/topic/35748?v=6fcf392f502a5c0e19ad47b4e737e71e",
+    "score": 5.937,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "취약점"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[CIO·CISO 세미나] 지용구 더존비즈온 대표 “AI 네이티브 기업, 일하는 방식 바꿔야”",
+    "url": "https://www.etnews.com/20261021000237",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-10-21T04:37:46+00:00",
+    "raw_excerpt": "“인공지능(AI) 네이티브 엔터프라이즈는 기존 시스템에 AI를 하나 더하는 단계가 아니라, 이를 통해 일하는 방식을 바꾸는 것입니다.” 지용구 더존비즈온 대표는 21일 서울 삼성동 그랜드 인터컨티넨탈 서울 파르나스에서 열린 '전자신문 10월 CIO·CISO 조찬 세미나'에서 AI 네이티브 기업으로 전환하려면 업무 수행 방식과 사람의 역할을 재설계해야 한다고 강조했다. 기업들이 AX에 실패하는 원인을 AI 모델이 아니라 AI가 이해할 수 있는 업",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "“인공지능(AI) 네이티브 엔터프라이즈는 기존 시스템에 AI를 하나 더하는 단계가 아니라, 이를 통해 일하는 방식을 바꾸는 것입니다.” 지용구 더존비즈온 대표는",
+    "thumbnail": "https://img.etnews.com/news/article/2026/10/21/news-p.v1.20261021.c9a768e195a44b9686b525ee3db5ee57_P1.png",
+    "score": 5.726,
+    "engagement": 0,
+    "matched_keywords": [
+      "ax",
+      "일하는 방식"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "PHP, 치명적 취약점 2건 수정하는 보안 업데이트 예고",
+    "url": "https://news.hada.io/topic?id=35742",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-10-21T04:31:25+00:00",
+    "raw_excerpt": "PHP 보안팀이 치명적 취약점 2건을 수정하는 보안 업데이트 를 예고. 두 취약점 모두 CVSS v4.0 기준 9.2점, Critical 등급 공개 예정 시각은 2026년 10월 21일 오후 11시, 한국 시간 이며, UTC 기준으로는 같은 날 오후 2시 모든 PHP 사용...",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "PHP 보안팀이 치명적 취약점 2건을 수정하는 보안 업데이트 를 예고. 두 취약점 모두 CVSS v4.0 기준 9.2점, Critical 등급 공개 예정 시각은",
+    "thumbnail": "https://social.news.hada.io/topic/35742?v=6ef009a52a23c5b2b21a6697ff46971a",
+    "score": 5.719,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "취약점"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "신한은행, 스테이블코인 의료비 결제·정산 실증 완료",
+    "url": "https://www.fnnews.com/news/202610211426019215",
+    "source": "파이낸셜뉴스 금융",
+    "source_type": "rss",
+    "published_at": "2026-10-21T07:08:08+00:00",
+    "raw_excerpt": "[파이낸셜뉴스] 신한은행이 스테이블코인을 활용한 의료비 결제·정산 실증을 완료했다. 외국인 환자가 스테이블코인으로 의료비를 결제하고 국내 의료기관은 원화로 대금을 받는 결제 방식이다. 21일 금융권에 따르면 신한은행은 국내 결제사업자 KSNET과 이번 실증을 추진했다. 실증은 서울 소재 의료기관에서 해외 스테이블코인 간편결제 서비스를 이용한 제한적 시범거래 형태로 진행됐다. 양사는 해외 스테이블코인 결제 수요에 대응하는 동시에 국내 의료기관이 기존 정산체계를 그대로 활용할 수 있는지 검증하기 위해 손을 잡았다. 결제 과정은 외국인 환자가 스테이블코인으로 의료비를 지불하면 해외 규제사업자가 이를 법정화폐로 바꿔 국내에 송금하고, KSNET이 의료기관에 원화로 정산하는 구조다. 신한은행은 이 과정에서 결제대금의",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "[파이낸셜뉴스] 신한은행이 스테이블코인을 활용한 의료비 결제·정산 실증을 완료했다. 외국인 환자가 스테이블코인으로 의료비를 결제하고 국내 의료기관은 원화로 대금을",
+    "thumbnail": "https://image.fnnews.com/resource/media/image/2026/10/02/202610021724221877_e.jpg",
+    "score": 5.294,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제",
+      "스테이블코인"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "에이직랜드, 'K 커넥트 AI'서 산업부 장관표창…시스템반도체 생태계 기여",
+    "url": "https://zdnet.co.kr/view/?no=20261021153516",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-10-21T06:54:17+00:00",
+    "raw_excerpt": "[지디넷코리아]디자인 솔루션 기업 에이직랜드가 반도체 산업 생태계 발전과 기술 교류 활성화에 기여한 공로로 'K 커넥트 AI 2026' 내 반도체대전(SEDEX) 부문 산업통상자원부 장관표창을 받았다고 21일 밝혔다. K 커넥트 AI는 산업통상부가 주최하는 첨단산업 비즈니스 플랫폼으로 반도체대전(SEDEX), 한국전자전(KES) 등 5개 주요 산업 전시회를 인공지능(AI)을 중심으로 연계한 행사다. 올해 신설했다. 시상식은 21일 경기도 고양시 킨텍스에서 열렸다. 이번 수상은 에이직랜드가 지난 2019년부터 8년 연속 SEDEX에 참가하며 최신 반도체 설계 기술과 성과를 선보인 노력을 인정받은 결과다. 세계 최대 파운드리 TSMC의 국내 유일 VCA 파트너로, 국내 팹리스와 스타트업이 첨단 선단공정(N2 나노시트 등)과 CoWoS·SoIC 등 첨단 패키징 기술에 원활하게 접근하도록 가교 역할을 수행한 점이 높게 평가됐다.에이직랜드는 지난주 열린 SEDEX 2026에서 자체 개발한 AI 반도체 설계·검증 통합 플랫폼(AxHub)를 비롯해 고성능 컴퓨팅(HPC) 영역 칩 설계 성과를 공개했다. 이종민 에이직랜드 대표는 \"국내 반도체 산업과 함께 호흡하며 생태계 발전에 이바지해 온 노력을 인정받아 뜻깊다\"며 \"앞으로도 뛰어난 선단공정과 첨단 패키징 대응 역량을 바탕으로 국내 팹리스의 글로벌 경쟁력을 뒷받침하겠다\"고 밝혔다.",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "[지디넷코리아]디자인 솔루션 기업 에이직랜드가 반도체 산업 생태계 발전과 기술 교류 활성화에 기여한 공로로 'K 커넥트 AI 2026' 내 반도체대전(SEDEX)",
+    "thumbnail": "https://image.zdnet.co.kr/2026/10/21/67461307ebbdade9ca52b7f902813660.jpg",
+    "score": 5.281,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "스타트업"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "국가AI전략위 하정우, 대구 제조 AX 현장 점검",
+    "url": "https://zdnet.co.kr/view/?no=20261021101637",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-10-21T06:30:01+00:00",
+    "raw_excerpt": "[지디넷코리아]대통령 직속 국가인공지능전략위원회가 대구·경북 지역 제조업 인공지능 전환(AX) 현장 점검에 나섰다. 이차전지와 모빌리티, 로봇 등 지역 주력 산업에 인공지능(AI)을 접목하는 방안을 살피고 중소기업부터 선도 기업까지 산업 현장 의견을 듣기 위해서다.국가인공지능전략위원회는 하정우 상근 부위원장이 21일 대구에서 열린 '2026 미래혁신기술박람회(FIX 2026)' 개막식에 참석하고 지역 제조 AX 현장을 방문했다고 밝혔다.이번 방문은 지난 19~20일 강원 평창·강릉·동해에 이은 연속 현장 행보다. 정부는 지난 8월 발표한 '3대 메가프로젝트 연계 권역별 성장엔진 육성방안'에서 대구·경북을 첨단 소재부품·AI 로봇 중심지로 육성하겠다는 계획을 제시한 바 있다.하 부위원장은 첫 일정으로 대구 엑스코에서 열린 FIX 2026 개막식에 참석했다. 올해로 3회째를 맞은 FIX 2026은 'AI, 기술을 넘어 일상이 되다'를 주제로 오는 24일까지 열린다. 국내외 510개 기업이 2100개 부스에서 미래모빌리티와 로봇, AI, 정보통신기술(ICT) 등을 선보인다.하 부위원장은 개막식 이후 전시장을 둘러보고 대구광역시장 주재 오찬에서 지역 AX 정책 현안을 논의했다.오후에는 대구 달서구 성서산업단지에 위치한 AI 기반 공정혁신시뮬레이션센터를 방문했다. 경북대학교 산학협력단이 운영하는 이 센터는 고성능 컴퓨팅(HPC)과 그래픽처리장",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "[지디넷코리아]대통령 직속 국가인공지능전략위원회가 대구·경북 지역 제조업 인공지능 전환(AX) 현장 점검에 나섰다. 이차전지와 모빌리티, 로봇 등 지역 주력 산업",
+    "thumbnail": "https://image.zdnet.co.kr/2026/10/21/b0ecebfce3441c9e5c38bcc5b8673884.jpg",
+    "score": 5.258,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장",
+      "ax"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "국내 토큰화·스테이블코인 시장 2030년 360조원 추정",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/425448",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-10-21T06:08:37+00:00",
+    "raw_excerpt": "2030년 국내 토큰화 자산(RWA)과 스테이블코인 시장이 합쳐서 360조원 규모로 커질 수 있다는 추정이 나왔다. 개인 투자자의 거래 수수료에 기댄 성장 모델이 한계에 가까워졌다는 진단이 함께 제시됐다. 타이거리서치(Tiger Research)는 20일 공개한 보고서에서 2030년 국내 토큰화 자산 시장을 315조원, 스테이블코인 시장을 45조원으로 추정했다. 둘을 합친 360조원은 보고서가 약 2530억달러로 환산한 규모다. 보고서는 환율로 1달러당 1422원을 적용했다. 타이거리서치는 국내 시장 성장이 둔화한 원인으로 개인 거래량과 거래소 수수료 수입에 대한 높은 의존도를 꼽았다. 2026년 상반기 기준 가상자산 거래에 쓸 수 있는 실명 확인... 더보기",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "2030년 국내 토큰화 자산(RWA)과 스테이블코인 시장이 합쳐서 360조원 규모로 커질 수 있다는 추정이 나왔다. 개인 투자자의 거래 수수료에 기댄 성장 모델이",
+    "thumbnail": "https://f1.tokenpost.kr/2026/10/a9vn41w55j.jpg",
+    "score": 5.256,
+    "engagement": 0,
+    "matched_keywords": [
+      "가상자산",
+      "토큰화",
+      "rwa"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "2026년 JavaScript 동향",
+    "url": "https://news.hada.io/topic?id=35745",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-10-21T07:18:40+00:00",
+    "raw_excerpt": "네이버 D2에서 2020년 이후 6년 만에 재개한 JavaScript 동향 연재. ECMAScript 표준의 변화부터 TypeScript 7, 서버 런타임, 패키지 공급망 보안, AI 코딩 도구가 생태계에 미친 영향까지 2026년 10월 기준으로 정리한 장문의 분석 공유. 1",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "네이버 D2에서 2020년 이후 6년 만에 재개한 JavaScript 동향 연재. ECMAScript 표준의 변화부터 TypeScript 7, 서버 런타임, 패키",
+    "thumbnail": "https://social.news.hada.io/topic/35745?v=0d33f98f2567ab20b54da4215f8dfd06",
+    "score": 5.143,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai 코딩"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "New on our Science Blog: designing protein binders against scorpion neurotoxins.",
+    "url": "https://t.co/l6LgdEqM7I",
+    "source": "X @AnthropicAI",
+    "source_type": "x",
+    "published_at": "2026-10-20T16:18:38+00:00",
+    "raw_excerpt": "New on our Science Blog: designing protein binders against scorpion neurotoxins.\n\nScorpions sting about 1.2m people every year, and antivenoms are often costly or in short supply. Claude has made an early step toward finding new treatments.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "New on our Science Blog: designing protein binders against scorpion neurotoxins.\n\nScorpion",
+    "thumbnail": "",
+    "score": 4.804,
+    "engagement": 895548,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "Working with ",
+    "url": "https://x.com/AnthropicAI/status/2112579254538141981",
+    "source": "X @AnthropicAI",
+    "source_type": "x",
+    "published_at": "2026-10-20T16:18:38+00:00",
+    "raw_excerpt": "Working with \n@citrini\n, we asked Claude to design proteins that bind to five scorpion toxins (covering the part of the toxin that latches onto cells).\n\nOver the next 64 hours, Claude generated over 300,000 designs; we sent 211 to \n@adaptyvbio\n and \n@TwistBioscience\n for lab testing.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Working with \n@citrini\n, we asked Claude to design proteins that bind to five scorpion tox",
+    "thumbnail": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_400x400.jpg",
+    "score": 4.804,
+    "engagement": 100260,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "BNB 최대 보유 기업, 26일 나스닥 개장종 울린다…검증 노드 사업 추진",
+    "url": "https://www.blockmedia.co.kr/archives/1154330?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-10-21T08:15:00+00:00",
+    "raw_excerpt": "[블록미디어 이정화 기자] 세계 최대 규모의 BNB 재무 기업을 표방하는 BNB 스탠다드 코퍼레이션(BNB Standard Corporation)이 오는 26일(현지시각) 미국 뉴욕 나스닥에서 개장종을 울린다. 사명 변경과 신임 최고경영자(CEO) 취임을 기념하는 행사로, 회사는 BNB 보유 전략을 넘어 블록체인 검증 노드 운영으로 사업을 확대할 계획이다. 21일 PA뉴스 등 주요 외신에 따르면 BNB 스탠다드는 오는 26일 뉴욕 타임스퀘어에 위치한 나스닥 [...]",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[블록미디어 이정화 기자] 세계 최대 규모의 BNB 재무 기업을 표방하는 BNB 스탠다드 코퍼레이션(BNB Standard Corporation)이 오는 26일(",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/10/20261021-154121.png",
+    "score": 4.682,
+    "engagement": 0,
+    "matched_keywords": [
+      "블록체인"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "Brilliant paper on scaling laws for agentic RL data.",
+    "url": "https://x.com/omarsar0/status/2112527762212933819",
+    "source": "X @omarsar0",
+    "source_type": "x",
+    "published_at": "2026-10-20T12:54:02+00:00",
+    "raw_excerpt": "Brilliant paper on scaling laws for agentic RL data.\n\nIt's a great paper worth reading if you are synthesizing data for agentic RL.\n\n(bookmark it)\n\nThey fit scaling laws for agentic RL data along three axes: tasks, environments, and trajectories. Across model sizes, families,",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Brilliant paper on scaling laws for agentic RL data.\n\nIt's a great paper worth reading if",
+    "thumbnail": "https://pbs.twimg.com/media/HVE0zaxa0AE4DoE?format=webp&name=large",
+    "score": 4.662,
+    "engagement": 8426,
+    "matched_keywords": [
+      "agentic"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "한국만화영상진흥원, '지금, 만화' 31호 발간",
+    "url": "https://zdnet.co.kr/view/?no=20261021152132",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-10-21T06:21:32+00:00",
+    "raw_excerpt": "[지디넷코리아]한국만화영상진흥원은 만화·웹툰 향유 문화의 변화를 조명한 비평 전문지 '지금, 만화' 31호를 발간했다고 21일 밝혔다.이번 호는 '향유'를 주제로 신문 만화 스크랩부터 크라우드 펀딩까지 시대별 만화 소비 방식의 변화를 살펴본다. 특히 감상과 소장을 넘어 작품 후원과 굿즈 구매 등으로 확대된 독자 참여 문화에 주목했다.커버스토리에서는 만화 검열과 청소년보호법 등 제도적 제약을 거쳐 글로벌 웹툰 산업으로 성장한 한국 만화의 흐름을 돌아본다. 크라우드 펀딩을 통한 작품 후원과 소장 방식, 한국 출판만화의 해외 만화상 수상 사례도 소개한다.인터뷰 코너에는 웹툰 머니게임의 배진수 작가가 등장한다. 배 작가는 미스터리 스릴러 장르를 통해 인간 심리와 사회적 관계를 풀어내는 창작 방식과 작품에 담긴 시선을 소개한다.크라우드 펀딩 플랫폼 텀블벅의 임경은 매니저와의 인터뷰에서는 만화·웹툰이 출판물과 굿즈로 확장되는 과정과 독자들의 후원을 이끌어내는 요인을 살펴본다.이슈 코너에서는 최근 대형 웹툰 플랫폼에서 인기를 얻고 있는 성인 웹툰의 흥행 요인을 분석한다.새롭게 마련된 현대 만화사 다르게 보기에서는 신문·잡지 만화부터 웹툰까지 한국 만화 매체의 변화를 짚는다. 해외 만화상 SPECIAL에서는 한국인 최초로 일본 국제만화상을 수상한 성률 작가의 여름 안에서를 비평한다.백종훈 한국만화영상진흥원장은 \"만화와 웹툰은 단순히 감상하는 콘텐츠",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "[지디넷코리아]한국만화영상진흥원은 만화·웹툰 향유 문화의 변화를 조명한 비평 전문지 '지금, 만화' 31호를 발간했다고 21일 밝혔다.이번 호는 '향유'를 주제로",
+    "thumbnail": "https://image.zdnet.co.kr/2026/10/21/76ac2867b829b9ad515ebb4685cccc4d.jpg",
+    "score": 4.575,
+    "engagement": 0,
+    "matched_keywords": [
+      "펀딩"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "앱토스, 거래정보 암호화 기술 메인넷 도입…APT 7.8% 상승",
+    "url": "https://www.blockmedia.co.kr/archives/1154280?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-10-21T05:37:37+00:00",
+    "raw_excerpt": "[블록미디어 명정선 기자] 레이어1 블록체인 앱토스(Aptos)가 거래정보를 암호화해 부당한 선행매매를 방지하는 기술을 메인넷에 도입했다. 거래가 확정되기 전까지 거래 내용을 공개하지 않는 방식으로, 블록체인 거래의 공정성을 높이기 위한 조치다. 앱토스의 네이티브토큰 APT는 7.8% 상승세를 보이고 있다. 21일(현지시각) 코인다르에 따르면 앱토스는 암호화된 멤풀(Encrypted Mempool) 기능을 메인넷에 적용했다고 밝혔다. 멤풀은 블록체인에 제출된 거래가 최종 처리되기 전 대기하는 공간이다. [...]",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[블록미디어 명정선 기자] 레이어1 블록체인 앱토스(Aptos)가 거래정보를 암호화해 부당한 선행매매를 방지하는 기술을 메인넷에 도입했다. 거래가 확정되기 전까지",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/10/20261021-131604.png",
+    "score": 4.534,
+    "engagement": 0,
+    "matched_keywords": [
+      "블록체인"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "가짜 통계 5만 페이지를 올렸더니 ChatGPT와 논문, 은행 보고서가 인용했다",
+    "url": "https://news.hada.io/topic?id=35721",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-10-20T16:40:24+00:00",
+    "raw_excerpt": "GPT-4.1로 지어낸 통계 페이지 5만 개를 게시한 실험 에서, 7개월 동안 ChatGPT 유입 세션 1만 건 이상과 330개 이상 도메인의 링크를 확보 Google 검색 노출이 급감한 뒤에도 ChatGPT의 인용과 유입은 지속 . 검색 순위가 낮은 페이지도 AI가 답변의 근거로 가져다 ...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "GPT-4.1로 지어낸 통계 페이지 5만 개를 게시한 실험 에서, 7개월 동안 ChatGPT 유입 세션 1만 건 이상과 330개 이상 도메인의 링크를 확보 Goo",
+    "thumbnail": "https://social.news.hada.io/topic/35721?v=b0fc5ef212e1362e44af0f212a154f3e",
+    "score": 4.228,
+    "engagement": 0,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "Spiko 토큰화 펀드 30억달러 돌파…30일 새 14.07% 증가",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/425525",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-10-21T08:50:04+00:00",
+    "raw_excerpt": "토큰화 현금 펀드 발행사 Spiko의 총 운용자산(AUM)이 30억달러(약 3조9810억원)를 넘어섰다. 최근 30일 사이 14.07% 늘어난 규모다. Spiko 웹사이트 기준으로 운용자산은 30일 전보다 약 3억7400만달러(약 4963억원) 증가했다고 Foresight News는 전했다. 같은 기간 증가율이 14.07%다. Spiko는 운용자산이 첫 10억달러에 이르기까지 21개월이 걸렸다고 설명했다. 10억달러에서 20억달러까지는 5개월이 채 걸리지 않았고, 20억달러에서 30억달러까지는 4개월이 안 걸렸다. 가장 최근 구간에 든 시간은 첫 10억달러를 채우는 데 걸린 기간의 5분의 1에 못 미친다. Spiko는 이달 6일 9000만달러(약 1194억원) 규모의 시리즈B 투자 유치를... 더보기",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "토큰화 현금 펀드 발행사 Spiko의 총 운용자산(AUM)이 30억달러(약 3조9810억원)를 넘어섰다. 최근 30일 사이 14.07% 늘어난 규모다. Spiko",
+    "thumbnail": "https://f1.tokenpost.kr/2026/10/7i6hd9l0bm.jpg",
+    "score": 4.191,
+    "engagement": 0,
+    "matched_keywords": [
+      "토큰화"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "Stablecoins Need to Get Behind Cards, Not Replace Them",
+    "url": "https://www.pymnts.com/cryptocurrency/2026/stablecoins-must-get-behind-cards-not-replace-them/",
+    "source": "PYMNTS",
+    "source_type": "rss",
+    "published_at": "2026-10-21T08:03:49+00:00",
+    "raw_excerpt": "Watch more: Paymentology Says AI Agents Must Earn the Right to Move Money The stablecoin industry has spent possibly too much time trying to reinvent checkout. Consumers already have a nearly universal interface for turning balances into purchases. Their cards. Merchants already accept them, networks already route them, all while banks and processors already know [ ] The post Stablecoins Need to Get Behind Cards, Not Replace Them appeared first on PYMNTS.com .",
+    "topic": "ai_native",
+    "topic_label": "🧬 AI Native",
+    "summary": "Watch more: Paymentology Says AI Agents Must Earn the Right to Move Money The stablecoin i",
+    "thumbnail": "https://www.pymnts.com/wp-content/uploads/2026/10/SB1-Need-to-Know-Tim-Joslyn-Paymentology-1.png?w=457&quality=82",
+    "score": 3.114,
+    "engagement": 0,
+    "matched_keywords": [
+      "reinvent"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "evening"
+  }
+]
