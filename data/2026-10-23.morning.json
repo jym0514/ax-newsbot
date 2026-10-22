@@ -1,0 +1,660 @@
+[
+  {
+    "title": "Anthropic takes on Grok Bot, Meta's Muse, and OpenAI's Dots with its always-on agent \"Claude Duet\"",
+    "url": "https://the-decoder.com/anthropic-takes-on-grok-bot-metas-muse-and-openais-dots-with-its-always-on-agent-claude-duet/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-10-22T08:35:22+00:00",
+    "raw_excerpt": "Anthropic has launched Claude Duet, a proactive AI agent that handles tasks on its own, even when the user is offline. The app is built on Claude Opus 5.5 and connects to services like Gmail, Slack, and Stripe through more than 6,000 connectors. It asks for approval before sensitive actions like payments. With Duet, Anthropic is responding to similar products from xAI, Meta, and OpenAI. The article Anthropic takes on Grok Bot, Meta s Muse, and OpenAI s Dots with its always-on agent Claude Duet appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Anthropic has launched Claude Duet, a proactive AI agent that handles tasks on its own, ev",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/Claude-Duet.png",
+    "score": 6.467,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai",
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
+    "url": "https://www.latent.space/p/modal-d",
+    "source": "Latent Space (swyx)",
+    "source_type": "substack",
+    "published_at": "2026-10-22T17:40:57+00:00",
+    "raw_excerpt": "Elastic GPUs, sandbox growth, and the economics of the agent cloud",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Elastic GPUs, sandbox growth, and the economics of the agent cloud",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!le3e!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F221647996%2F673aa54c-dde5-4192-be14-189872df655b%2Ftranscoded-1792686563.png",
+    "score": 6.432,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "You are the Team — Anekha Sokhal, Moshi",
+    "url": "https://www.latent.space/p/moshi",
+    "source": "Latent Space (swyx)",
+    "source_type": "substack",
+    "published_at": "2026-10-22T14:03:40+00:00",
+    "raw_excerpt": "How Moshi turns market data into actionable insights, and why AI tools have to fit the trader s workflow.",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "How Moshi turns market data into actionable insights, and why AI tools have to fit the tra",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!U_nh!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-video.s3.amazonaws.com%2Fvideo_upload%2Fpost%2F221404681%2F7532ee0a-716c-45b3-8a1a-8f6a791659de%2Ftranscoded-1792540372.png",
+    "score": 6.138,
+    "engagement": 0,
+    "matched_keywords": [
+      "workflow"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Recursive shows first result of its AI-driven research process with Flint",
+    "url": "https://the-decoder.com/recursive-shows-first-result-of-its-ai-driven-research-process-with-flint/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-10-22T14:40:16+00:00",
+    "raw_excerpt": "The AI startup Recursive is unveiling Flint, its first language model, a 40-billion-parameter MoE for local coding developed by former DeepMind researchers. It was created in four months using the company's in-house AI system, \"Eureka Machine,\" which independently tests and optimizes architectures. Recursive has yet to prove whether this approach will actually lead to self-improving AI. The article Recursive shows first result of its AI-driven research process with Flint appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "The AI startup Recursive is unveiling Flint, its first language model, a 40-billion-parame",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/recursive-flint-header-1.jpg",
+    "score": 6.06,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "deepmind"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Canva’s first AI image model plans designs before generating them",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-10-22T21:51:25+00:00",
+    "raw_excerpt": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precision, consistency and control,\" according to an [ ]",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Canva is diving even deeper into AI with the launch of an image generation model that comp",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+    "score": 5.959,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
+    "url": "https://www.latent.space/p/ainews-openais-patch-the-planet-program",
+    "source": "Latent Space (swyx)",
+    "source_type": "substack",
+    "published_at": "2026-10-22T07:42:44+00:00",
+    "raw_excerpt": "The Big Hardening begins",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "The Big Hardening begins",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!Ak4o!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f193200-5a32-4d16-8cef-d36ab44b0848_1440x1290.png",
+    "score": 5.622,
+    "engagement": 0,
+    "matched_keywords": [
+      "gpt-5"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Google's Agent Compute Engine gives every Gemini agent its own hardware-isolated micro virtual machine",
+    "url": "https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-10-22T17:50:09+00:00",
+    "raw_excerpt": "With Agent Compute Engine, Google is introducing a runtime environment designed specifically for AI agents, while also expanding the governance capabilities that enable companies to manage agents in cloud, hybrid, and on-premises environments. The article Google s Agent Compute Engine gives every Gemini agent its own hardware-isolated micro virtual machine appeared first on The Decoder .",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "With Agent Compute Engine, Google is introducing a runtime environment designed specifical",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/06/google_logo_wall-2.png",
+    "score": 5.453,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+    "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-10-22T16:47:17+00:00",
+    "raw_excerpt": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relie",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-591881449.jpg?resize=1200,799",
+    "score": 5.381,
+    "engagement": 0,
+    "matched_keywords": [
+      "hack"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Uber puts all 30,000 employees on ChatGPT Work",
+    "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-10-22T16:00:00+00:00",
+    "raw_excerpt": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/06/wayve-uber-uk.jpg?resize=1200,800",
+    "score": 5.327,
+    "engagement": 0,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "테슬라, 캘리포니아 공장서 옵티머스 휴머노이드 로봇 양산 돌입",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216512",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-22T12:14:43+00:00",
+    "raw_excerpt": "테슬라가 미국 캘리포니아주 프리몬트 공장에서 휴머노이드 로봇 '옵티머스(Optimus)' 생산을 시작했다. 일론 머스크 CEO는 2027년 말까지 주당 2만대 생산을 목표로 제시했지만, 초기 생산 확대가 쉽지만은 않을 것이라는 신중한 입장을 내놓았다.테슬라는 21일(현지시간) 공개한 3분기 실적 보고서에서 옵티머스 생산 개시를 발표했다. 전기차 생산에 사용하던 공간을 로봇 제조 시설로 전환해 상업용 제품 생산에 들어갔다는 내용이다.\"이번 생산 라인에서 나오는 로봇은 우리가 제조한 최초의 양산 품질 로봇\"이라며 \"현재의 옵티머스 제조",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "테슬라가 미국 캘리포니아주 프리몬트 공장에서 휴머노이드 로봇 '옵티머스(Optimus)' 생산을 시작했다. 일론 머스크 CEO는 2027년 말까지 주당 2만대 생",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216512_220595_430.jpg",
+    "score": 5.293,
+    "engagement": 0,
+    "matched_keywords": [
+      "휴머노이드",
+      "휴머노이드 로봇",
+      "optimus"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "\"비밀번호 없이 서버 뚫린다\"…PHP 해킹 초비상, 그 해결책은?",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42401",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-10-22T19:13:00+00:00",
+    "raw_excerpt": "국내 기업과 공공기관, 온라인 쇼핑몰 등에서 널리 사용되는 웹 개발 언어 PHP에서 인증 절차 없이 서버 명령을 실행할 수 있는 심각한 보안 취약점 2건이 공개되면서 대규모 사이버 공격 가능성에 대한 경고가 나왔다.공격자가 관리자 계정이나 비밀번호를 확보하지 않고도 취약한 서버를 장악할 가능성이 제기되자 정부는 민간 분야 사이버위기 경보를 '관심'에서 '주의'로 상향했다.과학기술정보통신부와 한국인터넷진흥원(KISA)은 22일 PHP 보안 취약점에 대한 긴급 대응을 요청하고, 이날 정오부터 민간 분야 사이버위기 '주의' 경보를 발령했",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "국내 기업과 공공기관, 온라인 쇼핑몰 등에서 널리 사용되는 웹 개발 언어 PHP에서 인증 절차 없이 서버 명령을 실행할 수 있는 심각한 보안 취약점 2건이 공개되",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202610/42401_63739_2330_v150.jpg",
+    "score": 5.235,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "취약점",
+      "해킹"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "When Cybersecurity Takes a Website Offline: How AI Can Detect PHP Vulnerabilities",
+    "url": "https://www.finextra.com/blogposting/33265/when-cybersecurity-takes-a-website-offline-how-ai-can-detect-php-vulnerabilities?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-10-22T21:35:07+00:00",
+    "raw_excerpt": "Author: A finextra community member",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Author: A finextra community member",
+    "thumbnail": "",
+    "score": 5.192,
+    "engagement": 0,
+    "matched_keywords": [
+      "cybersecurity"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "DeepSeek reportedly raises $15B days after US restrictions",
+    "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-10-22T13:11:13+00:00",
+    "raw_excerpt": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/01/deepseek-2.jpg?resize=1200,800",
+    "score": 5.133,
+    "engagement": 0,
+    "matched_keywords": [
+      "funding"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Fireblocks pours cold water on reports of $2.5bn acquisition talks with Visa",
+    "url": "https://www.finextra.com/newsarticle/48636/fireblocks-pours-cold-water-on-reports-of-25bn-acquisition-talks-with-visa?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-10-22T15:46:00+00:00",
+    "raw_excerpt": "Digital asset and stablecoin infrastructure provider Fireblocks says that reports that it is in talks to be acquired by Visa for $2.5 billion are \"news to us\".",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Digital asset and stablecoin infrastructure provider Fireblocks says that reports that it",
+    "thumbnail": "",
+    "score": 4.828,
+    "engagement": 0,
+    "matched_keywords": [
+      "stablecoin"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "앤트로픽, 메타 '뮤즈' 대항마 AI 에이전트 '클로드 듀엣' 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216510",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-22T12:41:20+00:00",
+    "raw_excerpt": "앤트로픽이 업무용 AI 에이전트 '클로드 듀엣(Claude Duet)'을 공개하며 메타의 '뮤즈(Muse)' 및 오픈AI의 '닷츠(Dots)'와 경쟁에 나섰다. 연결된 애플리케이션을 주기적으로 확인해 중요한 업무를 먼저 알려주고, 사용자가 자리를 비운 동안에도 각종 작업을 수행하는 능동형 AI 비서다.앤트로픽은 21일(현지시간) 클로드 듀엣의 연구용 미리보기 버전을 공개했다. 미국 내 클로드 프로와 맥스 요금제 가입자를 대상으로 대기자 명단을 통해 차례로 제공한다. 별도 요금 없이 기존 구독에 포함되지만, 다른 클로드 기능과 사용량",
+    "topic": "personal_ai_agent",
+    "topic_label": "🧑‍💼 개인 AI 에이전트 · 금융비서",
+    "summary": "앤트로픽이 업무용 AI 에이전트 '클로드 듀엣(Claude Duet)'을 공개하며 메타의 '뮤즈(Muse)' 및 오픈AI의 '닷츠(Dots)'와 경쟁에 나섰다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216510_220652_212.png",
+    "score": 4.668,
+    "engagement": 0,
+    "matched_keywords": [
+      "뮤즈",
+      "ai 비서"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Show HN: agent-usage-guard – a Claude Code mod to protect your usage window",
+    "url": "https://github.com/rbartoli/agent-usage-guard",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-22T18:02:38+00:00",
+    "raw_excerpt": "Article URL: https://github.com/rbartoli/agent-usage-guard Comments URL: https://news.ycombinator.com/item?id=50198936 Points: 20 # Comments: 7",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Article URL: https://github.com/rbartoli/agent-usage-guard Comments URL: https://news.ycom",
+    "thumbnail": "https://opengraph.githubassets.com/6e6efdba31abaac155bd83b3ccc637bc8c432158a14601b2eea94517782c4cb4/rbartoli/agent-usage-guard",
+    "score": 4.576,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "claude code"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "델 AI 팩토리 고객 6500곳 돌파...AI 에이전트 상용화 지원 확대",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21775",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-10-22T13:38:58+00:00",
+    "raw_excerpt": "델 테크놀로지스는 21일(현지시간) ‘엔비디아 기반 델 AI 팩토리’의 솔루션과 파트너 생태계를 강화하고, 데스크사이드 에이전틱 AI 제품군과 AI 전용 인프라를 확대한다고 밝혔다. 델에 따르면, 해당 AI 팩토리를 도입한 고객은 지난 분기 5000곳에서 6500곳 이상으로 늘었다. 델은 AI 모델과 애플리케이션, 운영체제를 아우르는 검증 솔루션을 추가했다. 소프트웨어 엔지니어링과 장기 에이전트 작업에 특화된 리플렉션의 ‘빔’ 오픈 웨이트 모델을 지원하며, 다이나트레이스의 AI 관측성, 미스트랄의 지식 어시스턴트 및 에이전틱 AI",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "델 테크놀로지스는 21일(현지시간) ‘엔비디아 기반 델 AI 팩토리’의 솔루션과 파트너 생태계를 강화하고, 데스크사이드 에이전틱 AI 제품군과 AI 전용 인프라를",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202610/21775_22555_3618.jpg",
+    "score": 4.543,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "에이전틱",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Coast Secures $35 Million to Expand Financial Platform for Physical Economy",
+    "url": "https://www.pymnts.com/news/investment-tracker/2026/coast-secures-35-million-to-expand-financial-platform-for-physical-economy/",
+    "source": "PYMNTS",
+    "source_type": "rss",
+    "published_at": "2026-10-22T18:15:13+00:00",
+    "raw_excerpt": "Financial technology firm Coast announced in a Thursday (Oct. 22) press release that it has raised $35 million in a new growth equity funding round to expand its payment and expense management platform built for physical economy businesses. Thomvest Ventures led the growth round. New investors Intuit Ventures, Small World Capital and Alpha Square Group [ ] The post Coast Secures $35 Million to Expand Financial Platform for Physical Economy appeared first on PYMNTS.com .",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Financial technology firm Coast announced in a Thursday (Oct. 22) press release that it ha",
+    "thumbnail": "https://www.pymnts.com/wp-content/uploads/2025/03/FinTech-investments-funding-startups.jpg?w=457",
+    "score": 4.485,
+    "engagement": 0,
+    "matched_keywords": [
+      "funding"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Underdog taps zerohash to bring crypto deposits to prediction markets",
+    "url": "https://cointelegraph.com/news/underdog-taps-zerohash-to-bring-crypto-deposits-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "source_type": "rss",
+    "published_at": "2026-10-22T17:24:49+00:00",
+    "raw_excerpt": "The new funding option, expected to launch later this year, will allow eligible Underdog users to deposit digital assets around the clock.",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "The new funding option, expected to launch later this year, will allow eligible Underdog u",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5J8K4B5TT5MGQN65E52S1DC/hi-when-will-the-prediction-market-take-place-and-what-effect-is-it-having-on-crypto-1.png",
+    "score": 4.438,
+    "engagement": 0,
+    "matched_keywords": [
+      "funding"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "미스트랄, 실시간 음성 에이전트 지원 '복스트랄 3' 제품군 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216544",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-22T17:30:49+00:00",
+    "raw_excerpt": "미스트랄 AI가 다국어 음성 인식과 자연스러운 음성 생성을 지원하는 새 AI 모델 제품군을 공개했다. 음성 인식부터 생성까지 아우르는 모델과 소프트웨어 개발 키트(SDK)를 함께 제공해 실시간 음성 에이전트 개발을 지원한다. 이를 통해 기업의 고객 상담과 음성 기반 업무 자동화, 대화형 서비스 구축에 필요한 개발 과정을 단순화한다는 계획이다. 미스트랄은 20일(현지시간) 음성-텍스트 변환(STT)과 텍스트-음성 변환(TTS) 모델을 결합한 새로운 음성 AI 제품군 '복스트랄 3(Voxtral 3)'을 출시했다.음성 인식부터 추론,",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "미스트랄 AI가 다국어 음성 인식과 자연스러운 음성 생성을 지원하는 새 AI 모델 제품군을 공개했다. 음성 인식부터 생성까지 아우르는 모델과 소프트웨어 개발 키트",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216544_220645_3156.png",
+    "score": 4.279,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Railpass",
+    "url": "https://train.samismith.com/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-22T21:38:32+00:00",
+    "raw_excerpt": "Article URL: https://train.samismith.com/ Comments URL: https://news.ycombinator.com/item?id=50201414 Points: 7 # Comments: 3",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://train.samismith.com/ Comments URL: https://news.ycombinator.com/item?",
+    "thumbnail": "https://train.samismith.com/img/railpass-card.jpg",
+    "score": 4.156,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "씽크포비엘, 누말리스·에이전트슈어와 AI 신뢰성 사업화 추진",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21772",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-10-22T13:21:29+00:00",
+    "raw_excerpt": "인공지능(AI)이 실제 환경에서 얼마나 안정적으로 작동하는지, AI 에이전트가 부여된 권한과 업무 규칙을 지키는지를 검증하는 기술이 주목받고 있다. 씽크포비엘은 프랑스 누말리스, 싱가포르 에이전트슈어와 협력해 데이터 진단부터 모델 강건성 평가, 에이전트 보안까지 기술 범위를 넓히고 있다.씽크포비엘은 2025년부터 누말리스와 AI 신뢰성 기술 공동 개발을 추진해 왔으며, 올해는 에이전트슈어와 협력에 나섰다. 10월 열린 ‘AI 페스타’와 ‘산업 AI 엑스포’에서는 해외 기술 협력과 함께 AI 신뢰성 거버넌스 컨설팅, 전문인력 교육,",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "인공지능(AI)이 실제 환경에서 얼마나 안정적으로 작동하는지, AI 에이전트가 부여된 권한과 업무 규칙을 지키는지를 검증하는 기술이 주목받고 있다. 씽크포비엘은",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202610/21772_22552_1856.jpg",
+    "score": 3.98,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "OpenShell - AI 에이전트의 파일과 네트워크 접근을 제어하는 NVIDIA 런타임",
+    "url": "https://news.hada.io/topic?id=35833",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-10-22T21:40:00+00:00",
+    "raw_excerpt": "AI 에이전트에게 작업 권한을 주면서도 파일과 비밀정보, 네트워크 접근 범위를 제한 하는 NVIDIA의 오픈소스 런타임. 에이전트별 정책을 선언하고 실행 중 강제 적용 각 에이전트를 격리된 샌드박스에서 실행 하며, 커널 수준에서 파일 접근과 시스템 호출을 제한. ...",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "AI 에이전트에게 작업 권한을 주면서도 파일과 비밀정보, 네트워크 접근 범위를 제한 하는 NVIDIA의 오픈소스 런타임. 에이전트별 정책을 선언하고 실행 중 강제",
+    "thumbnail": "https://social.news.hada.io/topic/35833?v=82cabe0dd928e6853dc638f5984c0b31",
+    "score": 3.964,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "LG CNS, 기업용 챗GPT 이용자 3만명 확보…공급부터 업무 적용 지원",
+    "url": "https://zdnet.co.kr/view/?no=20261022191127",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-10-22T10:20:43+00:00",
+    "raw_excerpt": "[지디넷코리아]LG CNS가 기업용 인공지능(AI) 서비스 '챗GPT 엔터프라이즈' 국내 이용자 약 3만 명을 확보했다고 밝혔다.LG CNS는 22일 서울 강남구 라움 아트센터에서 열린 '오픈AI 데브데이 익스체인지: 서울'에서 챗GPT 엔터프라이즈 공급 현황을 공개했다. 올해 2월 시작한 오픈AI 리셀러 사업을 통해 금융과 유통, 바이오, 제조 등 고객사 임직원 약 3만 명이 챗GPT 엔터프라이즈 서비스를 사용하고 있다고 했다.이날 발표에 나선 진요한 LG CNS AI센터장 상무는 기업 고객에게 제품 공급뿐 아니라 업무 적용과 직원 교육, 보안·비용 관리도 지원한다고 설명했다. 기업에서는 챗GPT를 사내 데이터와 업무 시스템에 연결하고 직원별 접근 권한과 사용 비용도 관리해야 하기 때문이다.LG CNS는 고객사에서 챗GPT를 활용할 업무를 찾는 작업도 맡는다. 한 법무법인에서는 업무를 수십 개 영역으로 나눠 챗GPT를 어디에, 어느 정도까지 적용할 수 있는지 분석했다. 이후 법무법인과 함께 업무별 활용 사례를 만들며 조직 내 사용을 확대했다.진 상무는 개인에게 익숙한 챗GPT라도 기업에 적용하려면 별도 준비가 필요하다고 강조했다. 개인용과 기업용 서비스 화면이 비슷해 도입이 쉬울 것이라는 기대가 생기지만 실제로는 기업마다 다른 시스템과 보안 환경을 고려해야 한다고 지적했다.AI가 질문에 답하는 단계를 넘어 직접 업무를 처리하면서 관",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "[지디넷코리아]LG CNS가 기업용 인공지능(AI) 서비스 '챗GPT 엔터프라이즈' 국내 이용자 약 3만 명을 확보했다고 밝혔다.LG CNS는 22일 서울 강남구",
+    "thumbnail": "https://image.zdnet.co.kr/2026/10/22/ee4e4df4736d2ed94b8a6331b64ee049.jpg",
+    "score": 3.593,
+    "engagement": 0,
+    "matched_keywords": [
+      "사내",
+      "조직",
+      "활용 사례"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "토큰화 주식·ETF 거래 폭증…3분기 거래액 370억달러 돌파",
+    "url": "https://www.blockmedia.co.kr/archives/1155163?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-10-22T20:29:58+00:00",
+    "raw_excerpt": "[블록미디어 명정선 기자] 전통 금융시장과 블록체인 기술의 결합이 가속화되면서 토큰화 주식과 상장지수펀드(ETF) 거래가 빠르게 늘고 있다. 미국의 규제 완화와 주요 금융회사의 시장 진출이 맞물리면서 온체인(Onchain·블록체인 기반) 증권 거래가 새로운 성장 분야로 부상하는 모습이다. 22일(현지시각) 블록체인 데이터 분석업체 듄애널리틱스(Dune Analytics)는 올해 3분기 토큰화 주식과 ETF의 온체인 거래액이 370억달러(약 53조원)를 넘어섰다고 밝혔다. 이는 지난 1월 대비 18배 [...]",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[블록미디어 명정선 기자] 전통 금융시장과 블록체인 기술의 결합이 가속화되면서 토큰화 주식과 상장지수펀드(ETF) 거래가 빠르게 늘고 있다. 미국의 규제 완화와",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/10/20261023-050307.png",
+    "score": 3.524,
+    "engagement": 0,
+    "matched_keywords": [
+      "블록체인",
+      "토큰화"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "모빌린트, 휴머노이드용 AI 플랫폼 개발...NPU부터 SW까지 통합",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21773",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-10-22T13:26:32+00:00",
+    "raw_excerpt": "모빌린트는 휴머노이드용 고성능·저전력 NPU와 AI 가속 반도체를 설계하고, 이를 로봇에 탑재할 모듈과 AI 모델 변환·최적화·실행을 지원하는 소프트웨어 환경을 함께 개발한다고 22일 밝혔다.이번 과제는 산업통상자원부의 ‘K-온디바이스 AI 반도체 기술개발사업’의 일환으로 추진되며, 모빌린트가 ‘휴머노이드를 위한 온디바이스 AI 가속기 개발’ 세부 과제의 주관연구개발기관을 맡는다. 전문기관은 한국산업기술기획평가원이다. 모빌린트는 여러 AI가 동시에 작동할 때 연산 자원을 효율적으로 배분하도록 NPU와 소프트웨어를 함께 최적화하고,",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "모빌린트는 휴머노이드용 고성능·저전력 NPU와 AI 가속 반도체를 설계하고, 이를 로봇에 탑재할 모듈과 AI 모델 변환·최적화·실행을 지원하는 소프트웨어 환경을",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202610/21773_22553_2318.jpg",
+    "score": 3.434,
+    "engagement": 0,
+    "matched_keywords": [
+      "휴머노이드"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "SWIFT 원장서 DBS·HSBC 등 토큰화 예금 24시간 결제 시험",
+    "url": "https://www.tokenpost.kr/news/blockchain/426031",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-10-22T21:15:58+00:00",
+    "raw_excerpt": "SWIFT가 구축한 블록체인 원장에서 DBS, BNP파리바, HSBC, 씨티, 스탠다드차타드 등 주요 은행이 토큰화 예금을 이용한 24시간 국경 간 결제를 시험하고 있다. 첫 번째 실사용 사례는 은행이 발행한 토큰화 예금을 활용한 결제다. SWIFT는 20일(현지시간) 공식 X 계정에서 DBS가 이 원장을 토큰화 예금, 디지털 자산, 국경 간 결제를 하나의 고객 경험으로 잇는 핵심 요소로 본다고 밝혔다. SWIFT는 게시물에서 금융의 미래는 디지털 자산과 결제 중 하나를 고르는 일이 아니다. 둘을 연결하는 일이라고 적었다. 데일리코인은 이 사업이 개념 단계에서 운영 테스트 단계로 넘어오는 데 1년이 걸리지 않았다고 전했다. SWIFT가 설계한 이... 더보기",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "SWIFT가 구축한 블록체인 원장에서 DBS, BNP파리바, HSBC, 씨티, 스탠다드차타드 등 주요 은행이 토큰화 예금을 이용한 24시간 국경 간 결제를 시험하",
+    "thumbnail": "https://f1.tokenpost.kr/2026/10/lrhcn7iano.png",
+    "score": 3.158,
+    "engagement": 0,
+    "matched_keywords": [
+      "블록체인",
+      "토큰화"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "유니스왑, 21% 급락 후 10달러 회복 난망…선물 상장 효과 미미",
+    "url": "https://www.blockmedia.co.kr/archives/1155207?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-10-22T21:55:53+00:00",
+    "raw_excerpt": "[멕시코=심영재 특파원] 탈중앙화 거래소(DEX) 유니스왑(UNI)의 거버넌스 토큰 유니(UNI)가 한 달 새 20% 넘게 급락하며 10달러 선 회복에 난항을 겪고 있다. 지난달 22일 이후 10달러를 넘어서지 못하고 있는 유니는 현재 7달러 초반대에서 거래되며 주요 디지털자산(가상자산) 중 가장 부진한 흐름을 보이고 있다. 유니는 지난달 22일 시카고상품거래소(CME) 그룹의 유니 선물 상장 발표 당시 10.22달러를 기록하며 투자자들의 기대를 모았다. [...]",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[멕시코=심영재 특파원] 탈중앙화 거래소(DEX) 유니스왑(UNI)의 거버넌스 토큰 유니(UNI)가 한 달 새 20% 넘게 급락하며 10달러 선 회복에 난항을 겪",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2025/11/유니스왑-uniswap.png",
+    "score": 3.128,
+    "engagement": 0,
+    "matched_keywords": [
+      "가상자산"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "“UAE 자금으로 부당 이득”… 트럼프·월드리버티, 헌법 위반 혐의 피소",
+    "url": "https://www.blockmedia.co.kr/archives/1155199?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-10-22T21:43:37+00:00",
+    "raw_excerpt": "[멕시코=심영재 특파원] 도널드 트럼프 미국 대통령과 가족이 공동 설립한 디지털자산(가상자산) 기업 월드리버티파이낸셜이 아랍에미리트(UAE) 정부 관련 자금을 통해 부당한 이익을 얻었다는 혐의로 소송을 당했다. 경쟁사 써클의 주주가 미국 헌법 위반을 주장하며 이익 환수와 손해배상을 요구했다. 22일(현지시각) 블룸버그에 따르면 써클 주주 J. 벤저민 그린버그는 워싱턴DC 연방법원에 트럼프 대통령과 월드리버티를 상대로 소송을 제기했다. 월드리버티의 불법적인 경쟁으로 써클 투자자들이 [...]",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[멕시코=심영재 특파원] 도널드 트럼프 미국 대통령과 가족이 공동 설립한 디지털자산(가상자산) 기업 월드리버티파이낸셜이 아랍에미리트(UAE) 정부 관련 자금을 통",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/08/20260819-003025.jpg",
+    "score": 3.12,
+    "engagement": 0,
+    "matched_keywords": [
+      "가상자산"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "한솔PNS, AJ솔루션테크 렌탈 자산관리 시스템 구축",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=49971",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-22T18:33:46+00:00",
+    "raw_excerpt": "[스마트타임스] 한솔PNS는 AJ솔루션테크의 자산관리 시스템 ‘SAM(Solutiontech Asset Management)’ 구축을 완료했다고 22일 밝혔다.AJ솔루션테크는 B2B 렌탈 기업 AJ네트웍스의 운영·서비스 전문 자회사로, 지게차와 고소작업대 등 산업 장비의 유지보수 솔루션을 제공한다.SAM은 한솔PNS의 설비자산관리 솔루션 ‘PAM’을 기반으로 렌탈 자산의 검수·임대·AS·반납정비 전 과정을 개별 자산 단위로 관리하는 시스템이다. 관련 데이터를 체계적으로 축적해 현장 작업 최적화와 정비 주기 예측 등에 AI를 활용할",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "[스마트타임스] 한솔PNS는 AJ솔루션테크의 자산관리 시스템 ‘SAM(Solutiontech Asset Management)’ 구축을 완료했다고 22일 밝혔다.A",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202610/49971_49002_4520_v150.jpg",
+    "score": 3.002,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "[아침 시황] 비트코인 1억905만원…상승 종목 28%",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/426046",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-10-22T22:30:14+00:00",
+    "raw_excerpt": "10월 23일 오전 7시 30분 오늘 아침 국내 암호화폐 시장은 전반이 밀렸다. 24시간 거래대금(업비트·빗썸)은 2.0조원을 기록했으며 거래대금 50억원 이상 종목 50개 중 14개만 올라 상승 종목 비율이 28%에 그쳤다. 대장주는 소폭 밀렸다. 비트코인은 1억905만원으로 24시간 전보다 2.6% 내렸으며, 이더리움은 320만원으로 2.9% 내렸다. 가장 많이 오른 종목은 빗썸에 상장된 비트레이어로, 83.59원까지 42.5% 뛰며 거래대금 110억원을 끌어모았다. 히포프로토콜은 35.9%, 포르타는 27.3% 올랐다. 하락 쪽에서는 메타다오가 49.9% 내렸고 알트레이어는 37.5% 하락했다. 절대 거래대금 기준으로는 액시스로보틱스가 1,651억원으로 가장... 더보기",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "10월 23일 오전 7시 30분 오늘 아침 국내 암호화폐 시장은 전반이 밀렸다. 24시간 거래대금(업비트·빗썸)은 2.0조원을 기록했으며 거래대금 50억원 이상",
+    "thumbnail": "https://f1.tokenpost.kr/2026/10/be4njusdz0.png",
+    "score": 2.799,
+    "engagement": 0,
+    "matched_keywords": [
+      "로보틱스"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "'반도체의 힘' 상반기 코스닥 상장사 9.5조 이익...'60.4% 증가'",
+    "url": "https://www.fnnews.com/news/202610221440051886",
+    "source": "파이낸셜뉴스 금융",
+    "source_type": "rss",
+    "published_at": "2026-10-22T05:58:05+00:00",
+    "raw_excerpt": "[파이낸셜뉴스] 올 상반기 코스닥 상장기업의 영업이익 합계치가 전년 동기대비 60.4% 증가한 9조5000억원(1581개사 총합)으로 집계됐다. 반도체, 의료장비 등의 업황 호조가 전체 실적치를 끌어올렸다. 22일 IBK기업은행이 발표한 '2026년 상반기 코스닥 상장기업 경영실적 분석'에 따르면 코스닥 상장사의 매출액과 영업이익이 전년 동기 대비 각각 14.5%, 60.4% 증가했다. 기업은행의 코스닥 상장기업 실적 분석은 전체 코스닥 상장기업 1727개 가운데 2024년~2026년 상반기까지 3년간 실적이 있는 1581개사를 대상으로 한다. 조사 대상 기업의 올해 상반기 평균 영업이익률은 5.2%로 전년 동기 대비 1.5%p 상승했다. 기업 규모 별로는 코스닥 상장 대기업의 영업이익률이 6.2%, 중견기업 5.8%, 중소기업 2.8% 순이다. 업종별로는 '반도체 및 관련장비'가 12.4%(전",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "[파이낸셜뉴스] 올 상반기 코스닥 상장기업의 영업이익 합계치가 전년 동기대비 60.4% 증가한 9조5000억원(1581개사 총합)으로 집계됐다. 반도체, 의료장비",
+    "thumbnail": "https://image.fnnews.com/resource/media/image/2026/10/22/202610221449151065_e.jpg",
+    "score": 2.529,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  }
+]
