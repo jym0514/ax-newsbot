@@ -1,0 +1,680 @@
+[
+  {
+    "title": "GPT-6.1 Terra halves OpenAI's API prices and still gains ground on its larger models",
+    "url": "https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-10-26T20:30:55+00:00",
+    "raw_excerpt": "OpenAI has released GPT-6.1 Terra, a mid-range model that cuts API prices in half compared to its predecessor. Analysts say it sets a new standard for intelligence per dollar, especially for everyday computing tasks and AI-driven computer control. The article GPT-6.1 Terra halves OpenAI s API prices and still gains ground on its larger models appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI has released GPT-6.1 Terra, a mid-range model that cuts API prices in half compared",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/openai_logo_earth.png",
+    "score": 6.462,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Anthropic opens its books for Wall Street, showing record revenue and mounting obligations",
+    "url": "https://the-decoder.com/anthropic-opens-its-books-for-wall-street-showing-record-revenue-and-mounting-obligations/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-10-26T19:14:45+00:00",
+    "raw_excerpt": "Anthropic is the first major AI lab to file an S-1 with the SEC, planning to list on the Nasdaq under the ticker \"ANT.\" The numbers are strong, with $11.6 billion in quarterly revenue, a first-ever operating profit, and existing customers spending nine times more year over year. But the company also carries roughly $800 billion in long-term compute commitments. The article Anthropic opens its books for Wall Street, showing record revenue and mounting obligations appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Anthropic is the first major AI lab to file an S-1 with the SEC, planning to list on the N",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/anthropic_claude_bull_.png",
+    "score": 6.374,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Will the real Anthropic please stand up",
+    "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+    "source": "MIT Tech Review",
+    "source_type": "rss",
+    "published_at": "2026-10-26T17:45:43+00:00",
+    "raw_excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stori",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/10/anthropic-dario1a.jpg?resize=1200,600",
+    "score": 6.272,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Anthropic officially files for its public debut",
+    "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-10-26T14:35:22+00:00",
+    "raw_excerpt": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, maj",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800",
+    "score": 6.054,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "ChatGPT’s expanding world of work",
+    "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-10-26T10:00:00+00:00",
+    "raw_excerpt": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing",
+    "thumbnail": "",
+    "score": 5.807,
+    "engagement": 0,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "앤트로픽, IPO 위험 공개…보안 사고부터 데이터센터 반발까지",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216689",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-27T06:28:25+00:00",
+    "raw_excerpt": "기업공개(IPO)를 추진하는 앤트로픽이 상장신청서에서 AI 보안 사고와 데이터센터 반발, 반도체 공급망 의존 등 사업을 위협할 위험 요인을 공개했다. 차세대 모델의 학습을 한 달 넘게 늦추고, 안전성 평가 중 AI가 외부 시스템에 접근한 사실도 드러났다. 대규모 투자금을 확보하더라도 안전 문제와 전력·반도체 공급 차질로 개발과 서비스 확대가 막힐 수 있다는 설명이다.앤트로픽은 26일(현지시간) 공개한 IPO 서류에서 94페이지를 위험 요인 설명에 할애했다. 여기에는 이미 발생한 보안 사고뿐 아니라 향후 사업에 영향을 줄 수 있는 환",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "기업공개(IPO)를 추진하는 앤트로픽이 상장신청서에서 AI 보안 사고와 데이터센터 반발, 반도체 공급망 의존 등 사업을 위협할 위험 요인을 공개했다. 차세대 모델",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216689_220825_2525.jpg",
+    "score": 5.63,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai 보안",
+      "보안"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Tipalti introduces treasury tech",
+    "url": "https://www.finextra.com/pressarticle/111443/tipalti-introduces-treasury-tech?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-10-26T15:06:00+00:00",
+    "raw_excerpt": "Tipalti, the agentic AI platform for finance, today announced the rollout of Tipalti Treasury, its fully integrated treasury solution, following its 2025 acquisition of Statement.",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Tipalti, the agentic AI platform for finance, today announced the rollout of Tipalti Treas",
+    "thumbnail": "",
+    "score": 5.536,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic",
+      "agentic ai"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Github competitor Entire is live now – how the agent-first platform works",
+    "url": "https://www.zdnet.com/innovation/enitre-github-competitor-trail-git-forge/",
+    "source": "ZDNet (Global, AI)",
+    "source_type": "rss",
+    "published_at": "2026-10-26T17:00:04+00:00",
+    "raw_excerpt": "Now that agents are writing so much code, Entire is trying to reinvent the coding platform itself.",
+    "topic": "ai_native",
+    "topic_label": "🧬 AI Native",
+    "summary": "Now that agents are writing so much code, Entire is trying to reinvent the coding platform",
+    "thumbnail": "https://www.zdnet.com/wp-content/uploads/sites/3/trails-2.png",
+    "score": 5.395,
+    "engagement": 0,
+    "matched_keywords": [
+      "reinvent"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+    "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-10-26T16:46:36+00:00",
+    "raw_excerpt": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-at-2.40.46-PM-e1793033116950.png?resize=1200,911",
+    "score": 5.38,
+    "engagement": 0,
+    "matched_keywords": [
+      "gpu"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Canada opens stablecoin consultation",
+    "url": "https://www.finextra.com/newsarticle/48651/canada-opens-stablecoin-consultation?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-10-26T19:38:00+00:00",
+    "raw_excerpt": "The Canadian government has kicked off a 60-day public consultation on draft stablecoin regulations that would maintain a ban on yield payments.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "The Canadian government has kicked off a 60-day public consultation on draft stablecoin re",
+    "thumbnail": "",
+    "score": 5.069,
+    "engagement": 0,
+    "matched_keywords": [
+      "stablecoin"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "[10월26일] “빅테크 빼면 AI 효과=0”…아폴로 보고서가 보여준 것과 보여주지 못한 것",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216649",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-27T07:00:00+00:00",
+    "raw_excerpt": "미국의 대형 투자회사 아폴로 리서치가 빅테크를 제외한 미국 기업들의 AI 재무 성과가 '0'이라는 분석을 내놓자, 미국 언론들이 잇달아 이를 비중 있게 다뤘습니다. 25일(현지시간) 블룸버그는 '아폴로 이코노미스트, 기술업계 밖 AI 성과는 0이라고 주장'이라는 제목을 달았습니다. 테크크런치도 'AI가 대부분 기업에 가져다준 재무적 성과는 0'이라고 보도했고, 비즈니스 인사이더도 비슷한 내용을 전했습니다. AI에 막대한 돈을 쏟아붓고도 아직 뚜렷한 성과가 보이지 않는다는 메시지는 그만큼 강렬합니다.아폴로는 세계적인 대체투자 운용사이",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "미국의 대형 투자회사 아폴로 리서치가 빅테크를 제외한 미국 기업들의 AI 재무 성과가 '0'이라는 분석을 내놓자, 미국 언론들이 잇달아 이를 비중 있게 다뤘습니다",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216649_220766_5247.png",
+    "score": 5.009,
+    "engagement": 0,
+    "matched_keywords": [
+      "빅테크"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "앤트로픽 IPO 서류에 드러난 재무 부담…800조 지출 약정·빅테크 의존",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216688",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-27T06:15:25+00:00",
+    "raw_excerpt": "기업공개(IPO)를 추진하는 앤트로픽의 상장 신청서에서 막대한 장기 지출 약정과 빅테크에 대한 높은 의존도가 드러났다. 향후 10년에 걸쳐 약속한 지출은 6000억달러(약 796조원)를 넘으며, 계약 상당수는 취소할 수 없거나 실제 사용량과 관계없이 비용을 지급해야 한다. 빠른 매출 성장으로 분기 영업 흑자를 기록했지만, 상장 이후에도 장기 계약 비용을 충당하고 추가 자금을 확보해야 하는 과제를 안았다.26일(현지시간) 로이터와 블룸버그 등에 따르면, 앤트로픽은 상장 신청서에서 8개 파트너사와 향후 10년간 6000억달러 이상을 지",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "기업공개(IPO)를 추진하는 앤트로픽의 상장 신청서에서 막대한 장기 지출 약정과 빅테크에 대한 높은 의존도가 드러났다. 향후 10년에 걸쳐 약속한 지출은 6000",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216688_220824_1315.jpg",
+    "score": 4.969,
+    "engagement": 0,
+    "matched_keywords": [
+      "빅테크"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "source_type": "rss",
+    "published_at": "2026-10-26T13:26:47+00:00",
+    "raw_excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and ev",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "score": 4.889,
+    "engagement": 0,
+    "matched_keywords": [
+      "regulation",
+      "crypto regulation"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Toyota is betting $6.4 billion a year on humanoid robots and factory automation",
+    "url": "https://the-decoder.com/toyota-is-betting-6-4-billion-a-year-on-humanoid-robots-and-factory-automation/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-10-26T09:18:15+00:00",
+    "raw_excerpt": "Toyota wants to turn itself into a global robotics company, and it's betting on humanoid robots and factory automation to get there. The article Toyota is betting $6.4 billion a year on humanoid robots and factory automation appeared first on The Decoder .",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "Toyota wants to turn itself into a global robotics company, and it's betting on humanoid r",
+    "thumbnail": "",
+    "score": 4.866,
+    "engagement": 0,
+    "matched_keywords": [
+      "humanoid"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Stablecoin payments need a tougher business case",
+    "url": "https://www.finextra.com/blogposting/33304/stablecoin-payments-need-a-tougher-business-case?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-10-26T15:58:59+00:00",
+    "raw_excerpt": "Author: A finextra community member",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Author: A finextra community member",
+    "thumbnail": "",
+    "score": 4.841,
+    "engagement": 0,
+    "matched_keywords": [
+      "stablecoin"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
+    "url": "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
+    "source": "Ars Technica",
+    "source_type": "rss",
+    "published_at": "2026-10-26T18:50:41+00:00",
+    "raw_excerpt": "US robotics company stands by ICE deal as more than 300 employees warn of risk.",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "US robotics company stands by ICE deal as more than 300 employees warn of risk.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Radeco-Cerberus-robot-1152x648.jpg",
+    "score": 4.518,
+    "engagement": 0,
+    "matched_keywords": [
+      "boston dynamics"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+    "url": "https://github.com/FrigadeHQ/hob",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-26T16:12:29+00:00",
+    "raw_excerpt": "Hey HN, I'm Christian and this is a new OSS project I've been noodling on for the last couple of weeks. Hob is a free, MIT-licensed desktop app for Mac, Windows and Linux that works on your files the way the Claude and ChatGPT desktop apps do, except the model runs on your own computer. It uses open-weight models (currently Gemma 4 and gpt-oss). All your chats and files never leave your system. The only things that go online are web search (can be turned off in settings) and any MCP connectors you add yourself. Main features: - Automatically finds the best open-weight model for your hardware on first install (Mac/Linux/Windows) - Writes sandboxed Python code for ad hoc tools (data processing",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Hey HN, I'm Christian and this is a new OSS project I've been noodling on for the last cou",
+    "thumbnail": "https://repository-images.githubusercontent.com/1419901875/bef3a5ac-8f6b-4f29-8f2a-30f31c1771d7",
+    "score": 4.484,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "chatgpt"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "GPT-6.1 Terra - 시각적 추론과 컴퓨터 사용을 결합한 고속 모델",
+    "url": "https://news.hada.io/topic?id=36059",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-10-26T19:39:45+00:00",
+    "raw_excerpt": "OpenAI가 GPT-6.1 Terra 를 공개함. 세밀한 시각적 추론, 정밀한 컴퓨터 사용, 더 자연스러운 글쓰기를 결합해 다양한 업무를 지원함 표준 API 가격 은 GPT-5.6 Terra와 GPT-6.1 Sol보다 50% 낮음. ChatGPT Work와 Codex에서도 동일한 사용 한도로 기존 모델보다 더 ...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "OpenAI가 GPT-6.1 Terra 를 공개함. 세밀한 시각적 추론, 정밀한 컴퓨터 사용, 더 자연스러운 글쓰기를 결합해 다양한 업무를 지원함 표준 API 가",
+    "thumbnail": "https://social.news.hada.io/topic/36059?v=2d8d3d9206861fa06eb2e34f91f59bdd",
+    "score": 4.381,
+    "engagement": 0,
+    "matched_keywords": [
+      "codex",
+      "chatgpt",
+      "gpt-5"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "AI 에이전트도 개발부터 폐기까지 관리…SKT, ‘AI 신뢰 경영’ 실행체계 공개",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42428",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-10-26T11:17:30+00:00",
+    "raw_excerpt": "SK텔레콤이 자율적으로 판단하고 업무를 수행하는 인공지능(AI) 에이전트의 개발부터 운영·종료까지 전 과정을 관리하는 거버넌스 체계를 공개했다. AI 활용이 단순한 정보 제공을 넘어 실제 업무 수행으로 확대되는 가운데, 기술 도입 속도뿐 아니라 안전성과 책임성을 함께 확보하겠다는 전략이다.SKT는 AI 거버넌스의 운영 원칙과 책임체계, 실제 업무 적용 사례 및 주요 성과를 담은 첫 번째 'AI 거버넌스 리포트(AI Governance Report)'를 발간했다고 26일 밝혔다. 이 보고서는 기업의 AI 윤리 원칙을 선언하는 수준에서",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "SK텔레콤이 자율적으로 판단하고 업무를 수행하는 인공지능(AI) 에이전트의 개발부터 운영·종료까지 전 과정을 관리하는 거버넌스 체계를 공개했다. AI 활용이 단순",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202610/42428_63777_1657_v150.jpg",
+    "score": 4.238,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Working with academic communities to build scientific understanding",
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-26T21:35:28+00:00",
+    "raw_excerpt": "Article URL: https://openai.com/index/building-scientific-understanding-with-academic-communities/ Comments URL: https://news.ycombinator.com/item?id=50251344 Points: 84 # Comments: 14",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://openai.com/index/building-scientific-understanding-with-academic-comm",
+    "thumbnail": "",
+    "score": 4.153,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "CorridorKey 2.0",
+    "url": "https://corridorkey.com/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-26T21:18:05+00:00",
+    "raw_excerpt": "Article URL: https://corridorkey.com/ Comments URL: https://news.ycombinator.com/item?id=50251127 Points: 34 # Comments: 3",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://corridorkey.com/ Comments URL: https://news.ycombinator.com/item?id=5",
+    "thumbnail": "https://corridorkey.com/og-card.png",
+    "score": 4.139,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Microsoft offers voluntary buyouts to a quarter of its workforce",
+    "url": "https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-26T21:05:15+00:00",
+    "raw_excerpt": "Article URL: https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce Comments URL: https://news.ycombinator.com/item?id=50250937 Points: 95 # Comments: 82",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts",
+    "thumbnail": "https://npr.brightspotcdn.com/dims4/default/95db7f3/2147483647/strip/true/crop/4032x2117+0+454/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fstore%2Ff03324410ae9bf85061382f7c6777294.jpg",
+    "score": 4.128,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Magic state cultivation on a superconducting quantum processor",
+    "url": "https://arxiv.org/abs/2512.13908",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-26T19:37:59+00:00",
+    "raw_excerpt": "Abstract: \"Fault-tolerant quantum computing requires a universal gate set, but the necessary non-Clifford gates represent a significant resource cost for most quantum error correction architectures. Magic state cultivation offers an efficient alternative to resource-intensive distillation protocols; however, testing the proposal’s assumptions represents a challenging departure from quantum memory experiments. We present an experimental study of magic state cultivation on a superconducting quantum processor. We implement cultivation, including code-switching into a surface code, and develop a fault-tolerant measurement protocol to bound the magic state fidelity. Cultivation reduces the error ",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "Abstract: \"Fault-tolerant quantum computing requires a universal gate set, but the necessa",
+    "thumbnail": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+    "score": 4.055,
+    "engagement": 0,
+    "matched_keywords": [
+      "quantum"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "The EPA Is Quietly Killing Its Web Archive",
+    "url": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-26T19:05:41+00:00",
+    "raw_excerpt": "Article URL: https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/ Comments URL: https://news.ycombinator.com/item?id=50249275 Points: 172 # Comments: 27",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-z",
+    "thumbnail": "https://www.motherjones.com/wp-content/uploads/2026/10/GettyImages-2200850898-fotor-20261023844.png?w=1200&h=630&crop=1",
+    "score": 4.028,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "PaperPilot - AI 에이전트와 브라우저에서 쓰는 로컬 PDF 도구",
+    "url": "https://news.hada.io/topic?id=36034",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-10-26T10:34:13+00:00",
+    "raw_excerpt": "PDF 병합과 분할, 압축, 텍스트 추출과 OCR을 로컬에서 처리 하는 Rust 기반 문서 도구 MCP로 Claude Code, Codex, Claude Desktop, Cursor 등에 연결해 “두 PDF를 합치고 압축해 줘”처럼 문서 작업을 요청 가능 CLI와 브라우저, 데스크톱 앱, 로...",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "PDF 병합과 분할, 압축, 텍스트 추출과 OCR을 로컬에서 처리 하는 Rust 기반 문서 도구 MCP로 Claude Code, Codex, Claude Desk",
+    "thumbnail": "https://social.news.hada.io/topic/36034?v=35eed47cfe6af19fb995554b2390500c",
+    "score": 4.002,
+    "engagement": 0,
+    "matched_keywords": [
+      "mcp",
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "AI 에이전트의 긴 여정, 안전벨트는 준비됐나",
+    "url": "https://byline.network/2026/10/26-643/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-10-26T09:53:16+00:00",
+    "raw_excerpt": "AI 에이전트를 기업 업무에 도입하는 여정은 이제 막 시작됐다. 기업은 AI 에이전트를 만들고 데이터와 업무 시스템을 연결하는 일부터 어려움을 겪고 있다. 그러나 기술과 데이터를 준비하는 것만으로는 충분하지 않다. 출발 단계에서부터 함께 설계해야 할 것이 있다. 바로 ‘보안’이다. 기업이 AI의 편리함과 생산성에 주목하는 사이, 그 이면에서는 AI의 판단과 행동을 어디까지 통제할 수 있느냐는 문제가 커지고 있다. AI 에이전트가 사람을 대신해 업무를 수행하고 자율적으로 행동하는 범위가 넓어질수록 보안의 중요성도 커질 수밖에 없다.",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "AI 에이전트를 기업 업무에 도입하는 여정은 이제 막 시작됐다. 기업은 AI 에이전트를 만들고 데이터와 업무 시스템을 연결하는 일부터 어려움을 겪고 있다. 그러나",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/10/enterprize-ai-agent-journy-1.jpg",
+    "score": 3.821,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "아비바 인베스터스 “XRP 레저 기반 펀드에 5000만 파운드 투자”",
+    "url": "https://www.blockmedia.co.kr/archives/1156609?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-10-26T22:11:38+00:00",
+    "raw_excerpt": "[블록미디어 이정화 기자] 영국 대형 보험사 아비바(Aviva)의 자산운용 계열사 아비바 인베스터스(Aviva Investors)가 220억파운드(약 36조6000억원) 규모의 머니마켓펀드(MMF)에 XRP 레저(XRPL) 기반 토큰화를 도입했다. 기존 금융상품의 소유권을 블록체인에 기록하는 방식으로 자산 관리와 거래 효율성을 높이겠다는 구상이다. 전통 금융기관의 블록체인 활용이 실험 단계를 넘어 실제 펀드 운용으로 확대되고 있다는 평가가 나온다. 26일(현지시각) 크립토슬레이트 등 주요 외신에 따르면 아비바 인베스터스는 [...]",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[블록미디어 이정화 기자] 영국 대형 보험사 아비바(Aviva)의 자산운용 계열사 아비바 인베스터스(Aviva Investors)가 220억파운드(약 36조600",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/10/20261027-065115.png",
+    "score": 3.587,
+    "engagement": 0,
+    "matched_keywords": [
+      "블록체인",
+      "토큰화"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "ChatGPT, 기술 지원 문제를 해결할 곳으로 404 Media를 계속 추천함",
+    "url": "https://news.hada.io/topic?id=36063",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-10-26T20:39:57+00:00",
+    "raw_excerpt": "ChatGPT 가 일상적인 기술 지원 문제를 취재 가치가 있는 사안으로 안내하며, 해결을 도울 곳으로 404 Media 에 연락하도록 권하는 사례가 늘고 있음 Instagram 계정이 정지된 러시아 이용자는 13년 치 사진과 영상, 추억 에 접근할 수 없게 된 뒤 C...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "ChatGPT 가 일상적인 기술 지원 문제를 취재 가치가 있는 사안으로 안내하며, 해결을 도울 곳으로 404 Media 에 연락하도록 권하는 사례가 늘고 있음 I",
+    "thumbnail": "https://social.news.hada.io/topic/36063?v=2e0bfabfd399ac2cd4453eb62454c3dc",
+    "score": 3.422,
+    "engagement": 0,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "백팩 토큰화 주식 주간 거래량 5억8400만달러 보도",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/427685",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-10-26T19:52:17+00:00",
+    "raw_excerpt": "백팩 시큐리티즈의 토큰화 주식 주간 거래량이 5억8400만달러(약 7738억원)를 넘었다는 보도가 나왔다. 해당 수치의 집계 기간과 범위는 공개되지 않았다. 크립토 브리핑(Crypto Briefing)은 26일 백팩 시큐리티즈(Backpack Securities)의 주간 거래량이 토큰화 주식 시장의 63%를 차지했다고 보도했다. 원문에는 점유율을 ‘62% 초과’와 ‘63%’로 적은 대목이 함께 있다. 백팩 시큐리티즈는 주식과 상장지수펀드(ETF)를 솔라나(SOL) 블록체인에서 거래할 수 있는 토큰 형태로 제공한다. 본지는 앞서 백팩의 토큰화 주식 서비스 출시를 보도했다. 이번 보도는 서비스 출시 이후의 주간 거래량을 다룬다. 백팩 시큐리티즈 공식 페이지는 6월... 더보기",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "백팩 시큐리티즈의 토큰화 주식 주간 거래량이 5억8400만달러(약 7738억원)를 넘었다는 보도가 나왔다. 해당 수치의 집계 기간과 범위는 공개되지 않았다. 크립",
+    "thumbnail": "https://f1.tokenpost.kr/2026/10/92bs19a9zq.jpg",
+    "score": 3.111,
+    "engagement": 0,
+    "matched_keywords": [
+      "블록체인",
+      "토큰화"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "오리어리 “기관 비트코인 접근 제한”…미국선 현물 ETP 거래",
+    "url": "https://www.tokenpost.kr/news/policy/427680",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-10-26T19:42:22+00:00",
+    "raw_excerpt": "케빈 오리어리는 미국 기관의 비트코인 접근이 제한돼 있다는 취지로 말했다고 보도됐다. 다만 미국에서는 비트코인을 보유한 현물 상장지수상품(ETP)이 거래되고, 은행의 일부 가상자산 수탁도 허용돼 있다. Yahoo Finance는 오리어리의 발언이 10월 19일 틱톡 영상에 담겼다고 소개했다. 그러나 영상 원본과 발언 전문은 확인되지 않아, 그가 기관의 참여 범위를 어떻게 정의했는지는 분명하지 않다. Yahoo Finance는 오리어리가 가상자산을 스테이블코인, 비트코인(BTC), 블록체인 토큰으로 나눠 비교했다고 보도했다. 범주별 세부 발언은 확인되지 않아 여기서는 다루지 않는다. 미국 증권거래위원회(SEC)는 2024년 1월 10일 비트코인을... 더보기",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "케빈 오리어리는 미국 기관의 비트코인 접근이 제한돼 있다는 취지로 말했다고 보도됐다. 다만 미국에서는 비트코인을 보유한 현물 상장지수상품(ETP)이 거래되고, 은",
+    "thumbnail": "https://f1.tokenpost.kr/2026/10/bxeh0ls5r0.jpg",
+    "score": 3.106,
+    "engagement": 0,
+    "matched_keywords": [
+      "블록체인",
+      "가상자산"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "아임웹, 오프라인 기술 밋업 ‘테크그라운드 26’ 개최",
+    "url": "https://zdnet.co.kr/view/?no=20261026172920",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-10-26T08:29:20+00:00",
+    "raw_excerpt": "[지디넷코리아]브랜드 빌더 아임웹이 11월 18일 서울 강남구 본사에서 기술 조직의 성장 경험과 개발 문화를 공유하는 첫 오프라인 기술 밋업 '테크그라운드 26'을 개최한다.26일 회사에 따르면, 이번 테크그라운드 26은 누적 개설 사이트 100만개, 고객사 누적 거래액 8조원을 돌파하는 과정에서 아임웹이 축적한 커머스·인프라 기술 역량을 공유하기 위해 기획됐다. 첫 행사 대주제는 '선 넘는 개발자들의 이야기'로, 단순한 업무 자동화를 넘어 AI에 실질적인 실행을 위임하고 개발자는 의사결정과 문제 해결에 집중하는 차세대 개발 방식을 집중 조명한다. 특히 AI 기술 확산으로 프론트엔드와 백엔드 등 전통적인 직무 경계가 허물어지는 환경에서 개발 조직의 역할과 협업 구조 변화를 심도 있게 짚어볼 예정이다.행사는 김형섭 아임웹 CTO의 'AI 루프 엔지니어링' 오프닝 세션을 시작으로 아임웹 개발자들의 실무 적용 사례를 다룬 4개 세션으로 이어진다. 주요 발표는 ▲AI 협업을 위한 업무 흐름 재설계 ▲실제 업무를 분담하는 'AI 팀원' 구축 과정 ▲CS 에이전트 내 사람 개입 최소화 사례 ▲복수의 AI와 사람이 협업하는 인프라 운영 방식 등으로 구성된다. 행사는 11월 9일까지 아임웹 기술 블로그를 통해 누구나 참가 신청할 수 있으며 선정 결과는 개별 안내된다.김형섭 아임웹 CTO는 “AI가 개발 업무의 상당 부분을 수행할 수 있게 되면서,개",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "[지디넷코리아]브랜드 빌더 아임웹이 11월 18일 서울 강남구 본사에서 기술 조직의 성장 경험과 개발 문화를 공유하는 첫 오프라인 기술 밋업 '테크그라운드 26'",
+    "thumbnail": "https://image.zdnet.co.kr/2026/10/26/c26256606ce22061d3c77b80ec407652.png",
+    "score": 3.074,
+    "engagement": 0,
+    "matched_keywords": [
+      "업무 자동화",
+      "조직"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "[뉴욕 코인시황/마감] BTC, 8만달러 회복 실패…13억달러 청산에 약세",
+    "url": "https://www.blockmedia.co.kr/archives/1156590?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-10-26T20:23:46+00:00",
+    "raw_excerpt": "[멕시코=심영재 특파원] 뉴욕 디지털자산(가상자산) 시장이 26일(현지시각) 하락세를 보였다. 비트코인이 8만달러 회복에 실패한 가운데 대규모 레버리지 포지션 청산과 현물 매수세 둔화가 투자심리를 압박했다. 다만 주요 가격대 상단에 매도 포지션 청산 유동성이 집중되면서 반등 가능성도 제기되고 있다. 이날 코인마켓캡에 따르면 전체 디지털자산 시가총액은 2조6800억달러로 전일 대비 0.61% 감소했다. 24시간 거래량은 684억2000만달러로 84.35% 급증했다. 비트코인 시장 점유율은 60.0%를 [...]",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[멕시코=심영재 특파원] 뉴욕 디지털자산(가상자산) 시장이 26일(현지시각) 하락세를 보였다. 비트코인이 8만달러 회복에 실패한 가운데 대규모 레버리지 포지션 청",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/10/20261027-051858.jpg",
+    "score": 3.07,
+    "engagement": 0,
+    "matched_keywords": [
+      "가상자산"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "데이원컴퍼니, 지아이티아카데미 인수…\"공공 직업훈련 시장 공략\"",
+    "url": "https://zdnet.co.kr/view/?no=20261026233601",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-10-26T14:36:01+00:00",
+    "raw_excerpt": "[지디넷코리아]성인 교육 콘텐츠 기업 데이원컴퍼니가 기업·정부간 거래(B2G) 사업 확대를 위해 IT 전문 교육기관 지아이티아카데미 인수를 완료했다.26일 회사에 따르면, 지아이티아카데미는 IT·디자인 분야 대표 국비지원 교육기관인 '그린컴퓨터아카데미'와 '그린컴퓨터아트학원'을 운영하는 기업이다. 1995년 설립 이후 30여년간 IT 전문인력 양성과 직업훈련을 전개해 왔으며, 전국 20개 이상의 교육 지점과 국가·국제자격증 공식시험센터를 포괄하는 오프라인 인프라를 보유하고 있다. 특히 고용노동부의 '국민내일배움카드'와 'K-디지털 트레이닝(KDT)' 등 주요 국비지원 과정을 운영하며 공공 직업훈련 시장에서 입지를 다져왔다. 지난 2월 한국생산성본부와 AI 자격사업 추진 협약을 맺는 등 교육 포트폴리오를 지속 확장하며 2025년 약 342억원의 연 매출을 기록했다.데이원컴퍼니는 이번 인수를 통해 연 매출 300억원 이상의 견고한 사업 기반을 확보하게 됐다는 입장이다. 지아이티아카데미가 축적해 온 30년 국비지원 운영 노하우와 전국 오프라인 거점을 기존 성인 교육 사업과 유기적으로 연계하고, B2G 영역을 공공 직업훈련 전반으로 넓혀 수익 안정성과 미래 성장 동력을 동시에 끌어올린다는 구상이다.데이원컴퍼니 관계자는 “이번 인수는 30년간 축적된 국비지원 교육사업 운영 역량과 전국 단위의 교육 인프라를 확보해 공공 교육시장 내 사업 기반을",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "[지디넷코리아]성인 교육 콘텐츠 기업 데이원컴퍼니가 기업·정부간 거래(B2G) 사업 확대를 위해 IT 전문 교육기관 지아이티아카데미 인수를 완료했다.26일 회사에",
+    "thumbnail": "https://image.zdnet.co.kr/2025/12/26/822626761bfdbb6c4b2645cbd650a951.jpg",
+    "score": 2.853,
+    "engagement": 0,
+    "matched_keywords": [
+      "생산성"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  }
+]
