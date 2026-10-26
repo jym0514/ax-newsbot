@@ -1,0 +1,582 @@
+[
+  {
+    "title": "[AI리더의 서가] AI 자율학습 AI 에이전트 개발 입문",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216577",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-26T09:00:00+00:00",
+    "raw_excerpt": "AI 자율학습 AI 에이전트 개발 입문박경민 | 길벗2026년 7월 1일추천이유이 책은 LLM의 기초부터 AI 에이전트까지 단계적으로 설명하며 OpenAI API를 활용한 실습을 통해 핵심 기술을 직접 구현합니다. 독자는 프롬프트 엔지니어링, RAG 파이프라인, Tool Use, Function Calling 등을 배우고 배포 및 운영까지 전체 개발 과정을 경험할 수 있습니다.상세보기 길벗이 지난 7월 1일 펴낸 『AI 자율학습 AI 에이전트 개발 입문』(박경민 지음)은 제목에 '입문'을 달았지만 끝나는 지점이 여느 입문서와 다르다",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "AI 자율학습 AI 에이전트 개발 입문박경민 | 길벗2026년 7월 1일추천이유이 책은 LLM의 기초부터 AI 에이전트까지 단계적으로 설명하며 OpenAI API",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216577_220676_2358.jpg",
+    "score": 9.261,
+    "engagement": 0,
+    "matched_keywords": [
+      "tool use",
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "챗GPT에 기업 기밀 입력하면 AI가 사전 차단…솔트웨어, 민감정보 유출 방지 기술 특허 확보",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42429",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-10-26T11:34:04+00:00",
+    "raw_excerpt": "기업 임직원이 챗GPT나 클로드 등 생성형 인공지능(AI)을 사용하는 과정에서 개인정보와 기업 기밀이 외부로 전송되는 것을 사전에 탐지하고 차단하는 AI 보안 기술이 특허를 확보했다. 생성형 AI 활용을 전면 금지하지 않고 민감정보만 선별적으로 통제하는 방식으로, 기업의 AI 활용성과 데이터 보안을 동시에 확보하는 데 초점을 맞췄다.인공지능·데이터 플랫폼 및 클라우드 전문기업 솔트웨어는 자체 개발한 AI 데이터 유출 방지 솔루션 '사피가디언(Sapie-Guardian)'의 핵심 기술인 '민감 정보 탐지 시스템 및 민감 정보 탐지 방",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "기업 임직원이 챗GPT나 클로드 등 생성형 인공지능(AI)을 사용하는 과정에서 개인정보와 기업 기밀이 외부로 전송되는 것을 사전에 탐지하고 차단하는 AI 보안 기",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202610/42429_63778_3435_v150.jpg",
+    "score": 8.741,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "생성형 ai"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "제논, 기업용 AI 보안 솔루션 ‘젠가드’ 출시...자연어로 보안 정책 설정",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21792",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-10-26T11:24:45+00:00",
+    "raw_excerpt": "제논은 생성형 AI의 요청과 응답을 기업 보안 정책에 따라 판정·차단하는 AI 가드레일 솔루션 ‘젠가드’를 출시한다고 26일 밝혔다. 기존 생성형 AI 플랫폼 ‘제노스’에서 운영해 온 가드레일 기능을 독립 제품으로 확장한 것으로, 제노스를 도입하지 않은 기업도 사용하도록 설계했다. 젠가드의 핵심 기능은 자연어를 이용한 보안 정책 설정이다. 기업은 별도의 모델 재학습 없이 ‘개별 종목 추천은 차단한다’와 같은 규칙을 입력해 AI의 요청과 응답을 통제할 수 있다. 유해 콘텐츠 차단뿐 아니라 AI의 안전장치를 우회하려는 탈옥 시도와 프롬",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "제논은 생성형 AI의 요청과 응답을 기업 보안 정책에 따라 판정·차단하는 AI 가드레일 솔루션 ‘젠가드’를 출시한다고 26일 밝혔다. 기존 생성형 AI 플랫폼 ‘",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202610/21792_22574_214.jpg",
+    "score": 8.002,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai 보안",
+      "보안",
+      "탈옥"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "“모르면 추측 대신 기억을 확인한다”…ETRI·GIST, 스스로 판단하고 행동하는 로봇 AI 플랫폼 공개",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42427",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-10-26T10:40:19+00:00",
+    "raw_excerpt": "로봇이 주변 환경을 직접 관찰하고, 과거에 확인한 정보를 기억에서 찾아 검증한 뒤 행동하는 새로운 인공지능(AI) 기술이 개발됐다. 기존 로봇 AI가 불확실한 상황에서 언어모델의 사전 지식에 의존해 잘못 판단하는 문제를 줄이고, 실제 관측한 사실을 바탕으로 복잡한 작업을 수행하도록 하는 기술이다.한국전자통신연구원(ETRI)은 광주과학기술원(GIST)과 공동으로 환경 관측과 능동적 기억 검색을 결합한 로봇 AI 에이전트 '씬쿼리플래너(SceneQueryPlanner)'를 개발했다고 26일 밝혔다.연구진은 로봇이 공간과 사물의 위치,",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "로봇이 주변 환경을 직접 관찰하고, 과거에 확인한 정보를 기억에서 찾아 검증한 뒤 행동하는 새로운 인공지능(AI) 기술이 개발됐다. 기존 로봇 AI가 불확실한 상",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202610/42427_63775_3848_v150.jpg",
+    "score": 7.774,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "중국 AI 반도체 플랫폼 '쿤룬신', 미니맥스 신모델 ‘M3.1 플래시’ 즉시 구동 성공",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42425",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-10-25T22:24:44+00:00",
+    "raw_excerpt": "바이두(Baidu)의 인공지능(AI) 반도체 및 아키텍처 부문을 기반으로 하는 중국 AI 반도체 기업 쿤룬신(Kunlunxin)이 자국 AI 기업 미니맥스(MiniMax)의 최신 대형언어모델(LLM)을 공개 당일 자사 AI 가속기 플랫폼에서 구동하는 데 성공했다. 새로운 AI 모델이 등장하면 즉시 대응하는 '데이 제로(Day 0)' 호환성 확보를 통해 중국산 AI 반도체의 활용 범위를 확대하고, 해외 컴퓨팅 플랫폼에 대한 의존도를 낮추려는 움직임이다.쿤룬신은 지난 23일(현지시간) 미니맥스가 지난 19일 공개한 차세대 AI 모델 '",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "바이두(Baidu)의 인공지능(AI) 반도체 및 아키텍처 부문을 기반으로 하는 중국 AI 반도체 기업 쿤룬신(Kunlunxin)이 자국 AI 기업 미니맥스(Min",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202610/42425_63773_2423_v150.jpg",
+    "score": 7.754,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "llm"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "\"AI, 지하 4km 광산에서도 45초 만에 결핵 선별한다\"...구글, 의료 AI로 글로벌 진단 격차 줄여",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42424",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-10-25T21:51:47+00:00",
+    "raw_excerpt": "전문의가 부족한 아프리카 오지와 지하 4km 광산에서도 인공지능(AI)이 수십 초 만에 흉부 엑스레이 영상을 분석해 결핵 의심 환자를 찾아내는 시대가 열리고 있다. 구글이 의료영상 AI를 실제 진료현장에 적용하는 데 성공한 데 이어, 오픈소스 기반 의료 파운데이션 모델과 스마트폰 기침 소리 분석 기술을 결합해 글로벌 결핵 검진 체계의 혁신에 나섰다.구글 리서치(Google Research)는 현지시간 21일부터 24일까지 미국 워싱턴 D.C.에서 열린 감염병 전문 학술행사 '아이디위크 2026(IDWeek 2026)'을 계기로 의료",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "전문의가 부족한 아프리카 오지와 지하 4km 광산에서도 인공지능(AI)이 수십 초 만에 흉부 엑스레이 영상을 분석해 결핵 의심 환자를 찾아내는 시대가 열리고 있다",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202610/42424_63771_4651_v150.jpg",
+    "score": 7.713,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "파운데이션 모델"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "중국의 벤처 생태계는 어떻게 작동하는가",
+    "url": "https://news.hada.io/topic?id=36012",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-10-26T02:00:03+00:00",
+    "raw_excerpt": "중국 스타트업의 자금 조달은 창업자 개인의 상환 책임 , 제한적인 인수합병 시장, 정부 자금의 산업 육성 목표가 결합된 구조로, 실리콘밸리와 상당히 다르게 작동함 일부 투자 계약은 정해진 기간 안에 기준 수익률을 넘겨 자금을 돌려주도록 요구해, 많은 스타트업이 준비가 충분해...",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "중국 스타트업의 자금 조달은 창업자 개인의 상환 책임 , 제한적인 인수합병 시장, 정부 자금의 산업 육성 목표가 결합된 구조로, 실리콘밸리와 상당히 다르게 작동함",
+    "thumbnail": "https://social.news.hada.io/topic/36012?v=b55fe25ce54e9eea219d59444c100c24",
+    "score": 6.686,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업",
+      "벤처",
+      "창업"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "오라클, AI 스타트업 3곳 지원...OCI 기반 글로벌 진출 뒷받침",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21795",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-10-26T11:42:46+00:00",
+    "raw_excerpt": "한국오라클은 팜킷, 실리코팜, 슈퍼브에이아이 등 3개 스타트업이 오라클 클라우드 인프라스트럭처(OCI) 기반으로 산업 특화 AI 솔루션을 개발하고 있다고 26일 밝혔다. 세 기업은 25일부터 28일까지 미국 라스베이거스에서 열리는 ‘오라클 AI 월드 2026’에서도 각사의 기술과 서비스를 소개하고 있다. 전자상거래 AI 기업 팜킷은 개인화·추천 플랫폼 ‘테이스트큐’에 OCI 컴퓨트와 쿠버네티스 엔진(OKE)을 활용하고 있다. 대규모 요청을 처리하고 트래픽 변화에 대응할 수 있는 환경을 구축해 미국 시장 진출과 AI 쇼핑 에이전트 서",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "한국오라클은 팜킷, 실리코팜, 슈퍼브에이아이 등 3개 스타트업이 오라클 클라우드 인프라스트럭처(OCI) 기반으로 산업 특화 AI 솔루션을 개발하고 있다고 26일",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202610/21795_22577_3952.jpg",
+    "score": 6.372,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "이수화학, 전사 AX 추진…화학 공정 이상 징후 사전 감지",
+    "url": "https://zdnet.co.kr/view/?no=20261026103145",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-10-26T01:35:37+00:00",
+    "raw_excerpt": "[지디넷코리아]이수화학은 ‘2026년 상생형 인공지능 전환(AX) 선도모델 구축지원사업’ 도입 기업으로 선정돼 이를 추진한다고 26일 밝혔다.상생형 AX 선도모델 구축지원사업은 중소기업기술정보진흥원이 추진하는 제조 AX 지원사업으로, 대기업의 제조혁신 역량을 기반으로 중소·중견 제조기업의 전사적 AX 전환을 지원하고, 성과 창출 및 확산이 가능한 선도모델을 구축하는 사업이다. 코오롱베니트가 주관기업이며, 한국생산성본부가 협업기관으로 참여한다.이수화학은 이번 사업을 통해 코오롱베니트와 함께 연속 화학공정의 특성을 반영한 AI 기반 운전 지원체계를 구축한다. 공정 제어, 설비 이력, 생산 실적 등 현장 데이터를 통합·연계하고 시계열 AI 모델을 적용해, 공정 이상 징후를 사전에 감지하고 운전 조건 분석을 지원하는 체계를 마련한다.또한 AI를 활용해 공정 데이터를 종합 분석하고 운전원의 의사결정을 실시간으로 지원해 공정 조건 변화에 보다 신속하게 대응하고, 안정적인 공정 운영을 뒷받침할 예정이다. AI가 제시한 운전 조건은 사전에 설정된 안전 운전 범위 내에서 운전원의 확인과 승인을 거쳐 공정 운영에 활용하는 방식으로 체계를 구축할 예정이다. 공장 설비의 예지보전과 에너지·탄소 배출량 실시간 관리 체계도 함께 마련한다. 이수화학 관계자는 “이번 사업을 통해 AI 기반 운전 지원체계를 구축하고, 실제 적용 과정에서 공정 운영의 안정성과 효율",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "[지디넷코리아]이수화학은 ‘2026년 상생형 인공지능 전환(AX) 선도모델 구축지원사업’ 도입 기업으로 선정돼 이를 추진한다고 26일 밝혔다.상생형 AX 선도모델",
+    "thumbnail": "https://image.zdnet.co.kr/2026/10/26/a0eb02663171cbb8950f70758cc5645e.jpg",
+    "score": 5.995,
+    "engagement": 0,
+    "matched_keywords": [
+      "생산성",
+      "현장",
+      "ax"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "PHP 이어 구글 '브로틀리'도 보안 취약점…원격코드 실행 우려",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=676693",
+    "source": "블로터",
+    "source_type": "rss",
+    "published_at": "2026-10-26T11:30:31+00:00",
+    "raw_excerpt": "프로그래밍 언어 PHP에 이어 구글의 데이터 압축 기술 '브로틀리(Brotli)'에서도 보안 취약점이 발견됐다. 이번 취약점은 외부 공격자가 서버에서 임의 코드를 실행하는 데 악용될 수 있는 문제다.26일 한국인터넷진흥원(KISA)에 따르면 구글은 브로틀리에서 발견된 보안 취약점(CVE-2026-111497)을 해결한 업데이트를 공개했다. KISA는 영향을 받는 버전을 사용하는 기업과 기관에 최신 버전으로 업데이트할 것을 권고했다.브로틀리는 웹사이트에서 주고받는 데이터의 용량을 줄여 전송 속도를 높이는 압축 기술이다. 웹서버와 애플",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "프로그래밍 언어 PHP에 이어 구글의 데이터 압축 기술 '브로틀리(Brotli)'에서도 보안 취약점이 발견됐다. 이번 취약점은 외부 공격자가 서버에서 임의 코드를",
+    "thumbnail": "https://cdn.bloter.net/news/thumbnail/202610/676693_290778_2644_v150.jpg",
+    "score": 5.877,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "취약점"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Show GN: Catchtype - 한/영 키 없이 치는 한영 자동 전환 (Mac·Windows·Linux·iPhone·Android)",
+    "url": "https://news.hada.io/topic?id=35998",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-10-25T23:42:48+00:00",
+    "raw_excerpt": "Catchtype은 한/영을 잘못 둔 채 친 글을 치는 동안 바로 고쳐 주는 한영 자동 전환 앱이에요. 한/영 상태도 같이 바꿔서, 다음 글자부터는 그대로 이어 치면 돼요. Mac·Windows·Linux에서는 앱으로, iPhone·iPad·Android에서는 키보드로 써요. Claude Code에 한국어로 지시하다 보면 한/영 키를 너무 자주 눌",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Catchtype은 한/영을 잘못 둔 채 친 글을 치는 동안 바로 고쳐 주는 한영 자동 전환 앱이에요. 한/영 상태도 같이 바꿔서, 다음 글자부터는 그대로 이어",
+    "thumbnail": "https://social.news.hada.io/topic/35998?v=8f5e91d02e1e9835609091786a55763d",
+    "score": 5.793,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "claude code"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "SDT, 기존 시스템과 완벽 호환 QRNG+PQC 보안 카메라 첫선",
+    "url": "https://zdnet.co.kr/view/?no=20261026100016",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-10-26T01:00:16+00:00",
+    "raw_excerpt": "[지디넷코리아]양자기술 전문기업 SDT(대표 윤지원)가 기존 보안 시스템과 호환이 완벽한 양자보안 카메라(IP 5M AI IR 불릿 카메라)를 공개했다. SDT의 양자난수생성기(QRNG)가 탑재된 보안 카메라에 최근 해킹 원천 차단 기술로 주목받는 양자내성암호(PQC)를 처음 탑재했다.QRNG는 예측 불가능한 순수 암호키를 생성해 원격 해킹 시도를 원천 차단한다. PQC는 다가오는 양자컴퓨터의 막강한 연산 능력으로도 풀 수 없는 수학적 알고리즘으로 데이터를 완벽히 보호한다.윤 대표는 \"QRNG와 PQC를 통합한 양자전환(QX) 인더스트리얼 솔루션\"이라며 \"별도 칩을 배제, 원가를 대폭 절감하면서도 영상 위변조, 데이터 탈취(스니핑), 암호키 조작 등을 철저히 방어할 수 있어 활용 범위가 넓다\"고 강조했다.고가의 전용 칩 없이 SDT의 독자 특허로 만들어진 이미지 센서의 암전류 노이즈를 활용해 초고속으로 순수 난수를 생성하는 것이 특징이다.특히, 글로벌 표준 프로토콜(ONVIF)을 완벽히 지원하기 때문에 기존 영상관리시스템(VMS)이나 네트워크(NVR) 교체 없이 카메라 단말기만으로 양자 보안 환경을 구축할 수 있다.외산 장비의 백도어 우려를 원천적으로 없앤 국산 설계와 암호모듈 탑재로 국가정보원 등 공공기관을 비롯해 국방, 주요 산업 시설의 엄격한 보안 기준까지 모두 충족한다는 것이 SDT 측 설명이다SDT는 또 PQC 기반 '통합 ",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "[지디넷코리아]양자기술 전문기업 SDT(대표 윤지원)가 기존 보안 시스템과 호환이 완벽한 양자보안 카메라(IP 5M AI IR 불릿 카메라)를 공개했다. SDT의",
+    "thumbnail": "https://image.zdnet.co.kr/2026/10/26/a591275b3baa8f28e33742070526ecbe.jpg",
+    "score": 5.286,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "해킹"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "한투운용, CUAM HK와 홍콩에 첫 반도체 ETF 상장",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=50028",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-26T11:32:42+00:00",
+    "raw_excerpt": "[스마트타임스]한국투자신탁운용이 중국 자산운용사의 홍콩 현지법인과 공동 개발한 반도체 상장지수펀드(ETF)를 선보이며 해외 ETF 사업 확대에 나섰다.한국투자신탁운용은 차이나유니버설자산운용 홍콩법인(CUAM HK)과 협력해 개발한 ‘CUAM Solactive China Global Semiconductor ETF’가 지난 23일 홍콩증권거래소에 상장됐다고 26일 밝혔다.이 상품은 엔비디아, TSMC, 삼성전자, ASML, 브로드컴 등 글로벌 반도체 기업과 중국·홍콩 기술기업 등 총 30개 종목에 분산 투자한다. 독일 지수산출기관 솔",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "[스마트타임스]한국투자신탁운용이 중국 자산운용사의 홍콩 현지법인과 공동 개발한 반도체 상장지수펀드(ETF)를 선보이며 해외 ETF 사업 확대에 나섰다.한국투자신탁",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202610/50028_49077_329_v150.jpg",
+    "score": 5.204,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "HSBC Launches Hong Kong Dollar Stablecoin Through PayMe",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=50015",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-26T10:19:09+00:00",
+    "raw_excerpt": "HSBC has launched RedCoin, its first Hong Kong dollar-backed stablecoin, bringing digital currency payments to its PayMe mobile payment platform.The token, trading under the ticker RCHKD, is designed to be redeemable one-for-one for Hong Kong dollars. More than 3.3 million PayMe users will be able t",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "HSBC has launched RedCoin, its first Hong Kong dollar-backed stablecoin, bringing digital",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202610/50015_49058_191_v150.jpg",
+    "score": 5.135,
+    "engagement": 0,
+    "matched_keywords": [
+      "stablecoin"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Codex는 어떻게 탄생했나",
+    "url": "https://news.hada.io/topic?id=36004",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-10-26T00:31:02+00:00",
+    "raw_excerpt": "Codex는 클라우드 코딩 에이전트의 실패 이후 로컬 도구로 전환 하고, 전용 모델과 데스크톱 앱을 함께 발전시키며 OpenAI의 핵심 제품 기반이 됨 초기 Codex Cloud는 개발 환경을 다시 설정해야 하는 부담, 작업 도중 개입할 수 없는 구조, 부족한 모델 성능 때문에 제품 시...",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Codex는 클라우드 코딩 에이전트의 실패 이후 로컬 도구로 전환 하고, 전용 모델과 데스크톱 앱을 함께 발전시키며 OpenAI의 핵심 제품 기반이 됨 초기 Co",
+    "thumbnail": "https://social.news.hada.io/topic/36004?v=1cfcfd4d137ad039c70ded0d073ffce4",
+    "score": 5.093,
+    "engagement": 0,
+    "matched_keywords": [
+      "codex"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "JetBrains Thinkrail - 명세로 프로젝트 지식을 유지하는 에이전트 IDE",
+    "url": "https://news.hada.io/topic?id=35994",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-10-25T22:33:42+00:00",
+    "raw_excerpt": "ThinkRail 은 pi 코딩 에이전트에 편집기, 터미널, 검토 도구를 결합하고, 지속적으로 갱신하는 명세와 재사용 가능한 스킬로 프로젝트 지식을 세션 너머까지 유지하는 IDE임 git worktree 기반 작업공간 마다 브랜치와 작업 디렉터리를 분리해 에이전트...",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "ThinkRail 은 pi 코딩 에이전트에 편집기, 터미널, 검토 도구를 결합하고, 지속적으로 갱신하는 명세와 재사용 가능한 스킬로 프로젝트 지식을 세션 너머까지",
+    "thumbnail": "https://social.news.hada.io/topic/35994?v=707b0c0682407b594b40cb9ee20ac669",
+    "score": 4.971,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "카드사 '에이전트 커머스' 시대 연다…내년 에이전트 페이 출시",
+    "url": "https://www.etnews.com/20261023000282",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-10-25T07:00:00+00:00",
+    "raw_excerpt": "국내 카드사가 정부 대국민 프로젝트 '모두의 AI' 사업에 인공지능(AI)기반 에이전틱 결제 접목을 시도한다. 모두의 AI 사업에 커머스를 접목해 새로운 결제 생태계를 만들겠다는 구상이다. 25일 여신업계에 따르면 과학기술정보통신부와 SKT·카카오·KT 3개 컨소시엄이 주도하는 '모두의 AI' 프로젝트에서 카드사가 에이전트 페이를 추진한다. 신한카드·하나카드는 SKT 컨소시엄, 비씨카드는 KT 컨소시엄에 참여한다. 목표는 내년 상반기 AI 에이",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "국내 카드사가 정부 대국민 프로젝트 '모두의 AI' 사업에 인공지능(AI)기반 에이전틱 결제 접목을 시도한다. 모두의 AI 사업에 커머스를 접목해 새로운 결제 생",
+    "thumbnail": "https://img.etnews.com/news/article/2026/07/21/news-p.v1.20260721.7d383385ec2a467e8d1e129ec7040970_P1.jpg",
+    "score": 4.749,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "에이전틱"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "대덕특구·알테오젠, 3곳 뽑아 공동 R&D·투자연계 등 동반성장 추진",
+    "url": "https://zdnet.co.kr/view/?no=20261026104350",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-10-26T01:43:50+00:00",
+    "raw_excerpt": "[지디넷코리아]연구개발특구진흥재단 대덕연구개발특구본부(본부장 임문택)는 알테오젠(대표 전태연)과 ‘2026 바이오 딥테크 오픈이노베이션’에 참여할 기업과 공공연구기관을 모집한다.참가 대상은 관련 분야 혁신기술을 보유한 특구 내 기업 및 공공연구기관이다. 신청은 오는 11월 16일 오후 4시까지다.이번 모집은 알테오젠의 역량을 활용해 특구 내 바이오 분야의 공동 연구개발(R D) 및 사업화를 확대하기 위해 마련됐다. 알테오젠이 차세대 파이프라인 확보를 위한 기술 수요를 제시하면 대덕특구본부가 이에 부합하는 혁신기술을 발굴·연계하는 방식이다.모집 분야는 항체·단백질·펩타이드 기반 신규 바이오 신약 후보물질, 피하주사(SC) 제형 전환 가능 자산, 항체-약물 접합체(ADC)·이중항체·다중특이 항체 기술 등 총 3개 분야다.3건을 선정할 예정이다. 선정되면, ▲R D 기획 지원 ▲공동 사업화 ▲투자검토 및 맞춤형 스케일업 컨설팅 등을 지원한다.",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "[지디넷코리아]연구개발특구진흥재단 대덕연구개발특구본부(본부장 임문택)는 알테오젠(대표 전태연)과 ‘2026 바이오 딥테크 오픈이노베이션’에 참여할 기업과 공공연구",
+    "thumbnail": "https://image.zdnet.co.kr/2026/10/26/5eb8f245fd5c1caf93cdfd8cccfd5763.jpg",
+    "score": 4.652,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "[크립토하나] 美 금리 결정·물가지표 줄줄이…비트코인 향방은",
+    "url": "https://zdnet.co.kr/view/?no=20261026101032",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-10-26T01:20:34+00:00",
+    "raw_excerpt": "[지디넷코리아]매주 월요일 오전, 이번 주 디지털자산 시장을 미리 읽어드립니다. 국내외 주요 거시경제 일정을 하나씩 짚고, 각 이벤트가 투자심리와 디지털자산 시장에 미칠 영향을 분석합니다. [편집자주]비트코인이 8만 달러 선에서 횡보세를 이어가는 가운데 이번주 미국 연방준비제도(연준) 기준금리 결정에 시장 관심이 쏠립니다. 중동 지정학적 긴장과 미국 통화정책을 둘러싼 불확실성이 이어지는 상황에서 연준 금리 결정이 비트코인을 비롯한 가상자산 시장의 향방을 가를 주요 변수가 될 전망입니다.이번 주에는 연방공개시장위원회(FOMC) 회의를 비롯한 미국 개인소비지출(PCE) 물가지수, 고용비용지수(ECI) 등 미국 주요 경제지표 발표가 예정돼 있습니다. 특히 시장에서는 이번 FOMC에서 기준금리가 동결될 가능성에 무게를 두고 있어 향후 통화정책 방향에 대한 연준 메시지가 중요할 것으로 보입니다.현재 비트코인은 8만 달러를 중심으로 등락을 반복하고 있습니다.26일 코인마켓캡에 따르면 비트코인은 7만 9000 달러와 8만 달러 선을 오가고 있습니다. 지난주 한때 8만 4000 달러 부근까지 상승했지만 이후 다시 하락하면서 상승세를 이어가지 못했습니다.중동 지역 지정학적 긴장이 고조된 것이 영향을 미쳤습니다. 미국이 이란 공격 가능성에 대비해 중동 전역 대사관과 군사기지에 자국 인력 대피 명령을 내렸다는 보도가 전해지면서 위험자산에 대한 투자심리가",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[지디넷코리아]매주 월요일 오전, 이번 주 디지털자산 시장을 미리 읽어드립니다. 국내외 주요 거시경제 일정을 하나씩 짚고, 각 이벤트가 투자심리와 디지털자산 시장",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/09/38216a3984601190ef2b6443a91700e2.png",
+    "score": 4.63,
+    "engagement": 0,
+    "matched_keywords": [
+      "가상자산"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "이노메트리, TGV 검사장비 YPT에 공급",
+    "url": "https://zdnet.co.kr/view/?no=20261026100514",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-10-26T01:05:14+00:00",
+    "raw_excerpt": "[지디넷코리아]엑스레이·CT 비파괴검사 전문 기업 이노메트리(대표 이갑수)는 반도체용 화학소재 기업 와이엠티(YMT)의 PCB 도금 전문 자회사 와이피티(YPT)에 TGV 검사장비 공급을 확정했다고 26일 밝혔다.이노메트리는 올해 JWMT, 익스톨, 애니캐스팅 등에 TGV 검사장비를 공급한 데 이어 이번 YPT 수주로 고객 기반을 더욱 넓혔다. 현재 도금·레이저가공·화학소재·기판제작 등 유리기판 산업 내 다양한 국내외 기업들과 기술개발 및 추가 장비 공급을 협의하고 있다.TGV는 유리기판에 미세한 수직 관통홀(Via)을 형성하고 이를 금속으로 채워 전기적 연결통로를 구현하는 기술이다. 최근 유리기판 산업은 기술개발을 넘어 고객 인증과 생산설비 투자, 양산 준비 단계로 전환되고 있다. 이에 따라 완성품의 불량 판별뿐 아니라 소재·공정개발 단계에서 품질과 신뢰성을 검증하기 위한 비파괴검사의 중요성도 높아지는 추세다.이노메트리는 이차전지 분야에서 축적한 엑스레이·CT 촬영 및 영상분석 기술을 TGV 검사에 적용했다. 고객별 Via 구조와 공정조건에 맞춰 광학계와 영상처리 기술을 최적화해 내부 기공(Void), 금속 충진 상태와 미세결함 등을 비파괴 방식으로 확인한다. 이를 통해 소재·약품 및 공정조건 변화에 따른 품질 차이를 정밀하게 비교·검증할 수 있다.회사는 향후 유리기판 산업의 양산 전환에 맞춰 공정개발부터 양산 품질검증까지 고객사의",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "[지디넷코리아]엑스레이·CT 비파괴검사 전문 기업 이노메트리(대표 이갑수)는 반도체용 화학소재 기업 와이엠티(YMT)의 PCB 도금 전문 자회사 와이피티(YPT)",
+    "thumbnail": "https://image.zdnet.co.kr/2026/10/26/5211b6ecf044e843733690643017f30c.jpg",
+    "score": 4.616,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "마이클 세일러 “스트래티지 핵심 사업은 비트코인 아닌 디지털 신용상품”",
+    "url": "https://www.blockmedia.co.kr/archives/1156008?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-10-26T00:58:54+00:00",
+    "raw_excerpt": "[블록미디어 명정선 기자] 세계 최대 기업 비트코인 보유업체 스트래티지(옛 마이크로스트래티지)의 마이클 세일러 회장이 회사의 핵심 사업은 단순한 비트코인 투자나 보유가 아니라 비트코인을 활용한 디지털 신용상품 발행이라고 강조했다. 비트코인을 기반으로 정기적인 현금흐름을 제공하는 금융상품을 만들어 새로운 투자 수요를 확보하겠다는 구상이다. 26일 디지털자산 전문매체 우블록체인에 따르면 세일러 회장은 지난 20일 미국 금융방송 슈왑네트워크와의 인터뷰에서 디지털 신용상품이 우리의 [...]",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[블록미디어 명정선 기자] 세계 최대 기업 비트코인 보유업체 스트래티지(옛 마이크로스트래티지)의 마이클 세일러 회장이 회사의 핵심 사업은 단순한 비트코인 투자나",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/10/20261026-095302.png",
+    "score": 4.61,
+    "engagement": 0,
+    "matched_keywords": [
+      "블록체인"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "가상자산 과세, 네 번째 유예 가능성…청와대 유예 검토",
+    "url": "https://zdnet.co.kr/view/?no=20261026094200",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-10-26T00:45:52+00:00",
+    "raw_excerpt": "[지디넷코리아]내년 1월 시행을 앞둔 가상자산 과세가 또다시 유예될 가능성이 제기된다. 유예가 결정될 경우 네 번째 연기다.26일 정치권과 가상자산 업계에 따르면, 청와대는 내년 시행 예정인 가상자산 과세를 추가 유예하는 방안에 무게를 두고 있는 것으로 전해졌다.가상자산 과세는 지난 2020년 12월 소득세법 개정안이 통과되면서 도입이 확정됐지만, 과세 인프라 구축 미비 등을 이유로 세 차례 유예됐다. 현행법대로 내년 1월 1일 시행되면 가상자산 양도·대여로 발생한 소득에 대한 첫 신고·납부는 2028년 5월 이뤄진다.청와대 과세 유예 검토 움직임은 최근 국정감사에서 정부가 과세 시행 여부를 신중히 판단하겠다는 입장을 밝힌 이후 나왔다.이형일 부총리 겸 재정경제부 장관은 지난 22일 국회에서 열린 재경부 종합감사에서 가상자산 과세와 관련해 “전문가나 업계 의견을 더 들어보고 판단해보겠다고 말씀드렸고 국회에서 계속 나오는 의견도 있어 최대한 숙고해서 판단하겠다”고 밝혔다.일각에서는 청와대 과세 유예 검토 배경에 가상자산 투자자 여론을 고려한 정치적 판단이 작용했다는 해석도 나온다. 금융위원회 조사에 따르면, 국내 가상자산 이용자 약 1118만명 중 30·40대가 차지하는 비중은 53.6%에 달한다.김민석 더불어민주당 대표도 같은 날 민주당 유튜브 채널에 출연해 과세 제도 준비 상황과 청년층 의견을 살펴볼 필요가 있다는 입장을 밝혔다.김",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[지디넷코리아]내년 1월 시행을 앞둔 가상자산 과세가 또다시 유예될 가능성이 제기된다. 유예가 결정될 경우 네 번째 연기다.26일 정치권과 가상자산 업계에 따르면",
+    "thumbnail": "https://image.zdnet.co.kr/2026/01/27/9f41b7cb513ecbe548daaedbe28b9a94.jpg",
+    "score": 4.598,
+    "engagement": 0,
+    "matched_keywords": [
+      "가상자산"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "미 대형은행, 외부 AI 에이전트 계좌 접근 제한한다",
+    "url": "https://www.tokenpost.kr/news/ai/427241",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-10-25T22:54:13+00:00",
+    "raw_excerpt": "미국 대형 은행들이 고객 계정에 접속하는 외부 인공지능(AI) 에이전트의 접근을 제한하고 있다. 로그인 정보 제공만으로 개별 송금이나 결제까지 고객이 승인했는지 구분하기 어렵다는 우려가 배경이다. JP모건체이스($JPM), 뱅크오브아메리카($BAC), 씨티그룹($C) 등이 외부 에이전트 접근을 제한하고 있다고 액시오스(Axios)는 보도했다. 일부 은행은 고객 계정에서 허가받지 않은 에이전트 활동을 감지했다. 은행별 사례와 대응 범위는 익명 취재원에 근거한 보도로 전해졌다. 제이미 다이먼(Jamie Dimon) JP모건체이스 회장 겸 CEO는 10월 13일 실적 발표 전화회의에서 “아무 외부 에이전트나 회사 안으로 들어오게 하지는 않겠다”고... 더보기",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "미국 대형 은행들이 고객 계정에 접속하는 외부 인공지능(AI) 에이전트의 접근을 제한하고 있다. 로그인 정보 제공만으로 개별 송금이나 결제까지 고객이 승인했는지",
+    "thumbnail": "https://f1.tokenpost.kr/2026/10/cemqnyblv8.jpg",
+    "score": 4.594,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "[코인시황] 비트코인 8만달러선 위협…유가 급등에 추가 하락 우려도",
+    "url": "https://www.blockmedia.co.kr/archives/1155961?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-10-25T23:12:13+00:00",
+    "raw_excerpt": "[블록미디어 오수환 기자] 비트코인이 국제유가 급등과 미국 증시 약세에 8만1000달러 아래로 밀렸다. 미국과 이란 간 군사적 긴장으로 유가가 7개월 만에 최고 수준까지 상승한 가운데, 시장에서는 비트코인이 주요 기술적 저항선인 50일 이동평균선을 회복하지 못할 경우 추가 하락할 수 있다는 분석이 나온다. 26일 오전 8시10분 기준 국내 디지털자산(가상자산) 거래소 업비트에서 비트코인(BTC)은 전날 오전 9시 대비 0.85% 하락한 [...]",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[블록미디어 오수환 기자] 비트코인이 국제유가 급등과 미국 증시 약세에 8만1000달러 아래로 밀렸다. 미국과 이란 간 군사적 긴장으로 유가가 7개월 만에 최고",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/10/20261026-081010.png",
+    "score": 4.51,
+    "engagement": 0,
+    "matched_keywords": [
+      "가상자산"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "비트코인 기반 USDT, 초기 기관 중심으로 공급",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/427298",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-10-26T02:44:22+00:00",
+    "raw_excerpt": "Utexo가 비트코인(BTC) 네트워크에서 선보일 브리지형 테더는 초기에는 기관 중심으로 제공된다. 개인 이용자 대상 일정은 추후 공개될 예정이다. 빅터 이나티우크(Viktor Ihnatiuk) Utexo 공동창업자는 26일 X에서 기관의 발행·상환·자금 이동 수요가 크다고 밝혔다. 그는 대규모 자금 이동 때 지갑 활동이 다른 사람에게 노출돼 거래를 선점당하는 문제를 피해야 한다고 설명했다. 발행은 다른 네트워크의 자산을 비트코인 기반 USDT로 바꾸는 절차이며, 상환은 그 반대다. 기관 수요를 우선 다룬다는 설명만으로 개인 이용자가 같은 기능을 쓸 수 있는 시점이 정해진 것은 아니다. Utexo는 22일 공식 발표에서 전문 운영사를 위한 ‘Utexo... 더보기",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Utexo가 비트코인(BTC) 네트워크에서 선보일 브리지형 테더는 초기에는 기관 중심으로 제공된다. 개인 이용자 대상 일정은 추후 공개될 예정이다. 빅터 이나티우",
+    "thumbnail": "https://f1.tokenpost.kr/2026/10/sw114jwmb6.jpg",
+    "score": 4.186,
+    "engagement": 0,
+    "matched_keywords": [
+      "창업"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "“실험실 기술이 시장 주목받는 제품으로”…올해 교원 창업기업 3곳 상장 전망",
+    "url": "https://www.etnews.com/20261023000221",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-10-25T07:00:00+00:00",
+    "raw_excerpt": "올해 기업공개(IPO)에 성공한 교원 창업기업이 3개 안팎이 될 전망이다. 예년과 유사한 수준이지만, 교원 창업기업은 연구 성과를 바탕으로 시장의 주목을 받고 있다. 정부와 주요 대학은 이들 기업을 기술 창업 생태계를 이끌 주역으로 보고 창업 친화적인 제도 개선에 나서고 있다. 25일 업계에 따르면 마취용 의료기기 기업 리센스메디컬, 휴대용 엑스레이 기업 레메디 등 교원 창업기업 두 곳이 코스닥에 상장했다. 리센스메디컬은 김건호 울산과학기술원(",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "올해 기업공개(IPO)에 성공한 교원 창업기업이 3개 안팎이 될 전망이다. 예년과 유사한 수준이지만, 교원 창업기업은 연구 성과를 바탕으로 시장의 주목을 받고 있",
+    "thumbnail": "https://img.etnews.com/news/article/2026/10/23/news-p.v1.20261023.e99de0770c9947a9bf2531a42523a510_P1.jpg",
+    "score": 3.999,
+    "engagement": 0,
+    "matched_keywords": [
+      "창업"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Wonder Plans IPO and Aims to Be Fully Autonomous by 2040",
+    "url": "https://www.pymnts.com/news/investment-tracker/ipo/2026/wonder-plans-ipo-and-aims-to-be-fully-autonomous-by-2040/",
+    "source": "PYMNTS",
+    "source_type": "rss",
+    "published_at": "2026-10-26T00:26:09+00:00",
+    "raw_excerpt": "Food startup Wonder has reportedly set its sights on going public amid wider expansion plans. As CNBC reported Sunday (Oct. 25), the company is also eyeing an “aggressive” expansion in Texas and a subscription program that allows diners to operate their own “restaurants.” Launched in 2018, Wonder lets diners place takeout or delivery orders from [ ] The post Wonder Plans IPO and Aims to Be Fully Autonomous by 2040 appeared first on PYMNTS.com .",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Food startup Wonder has reportedly set its sights on going public amid wider expansion pla",
+    "thumbnail": "https://www.pymnts.com/wp-content/uploads/2026/10/Wonder-IPO-1.jpg?w=457",
+    "score": 3.053,
+    "engagement": 0,
+    "matched_keywords": [
+      "startup"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "Anthropic Merges Claude Chat and Cowork for Enterprise Users",
+    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-merges-claude-chat-and-cowork-for-enterprise-users/",
+    "source": "PYMNTS",
+    "source_type": "rss",
+    "published_at": "2026-10-25T22:51:49+00:00",
+    "raw_excerpt": "Anthropic says it has unified Claude chat and Cowork for its enterprise customers. The new offering combines chat and Cowork on web, desktop and mobile, meaning users don’t have to choose between the two services before starting, Anthropic announced Friday (Oct. 23). “Every conversation starts as a chat, and when a task needs to run [ ] The post Anthropic Merges Claude Chat and Cowork for Enterprise Users appeared first on PYMNTS.com .",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Anthropic says it has unified Claude chat and Cowork for its enterprise customers. The new",
+    "thumbnail": "https://www.pymnts.com/wp-content/uploads/2026/10/Claude-chat-and-cowork-1.jpg?w=457",
+    "score": 2.994,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "noon"
+  }
+]
