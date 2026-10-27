@@ -1,0 +1,599 @@
+[
+  {
+    "title": "How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands",
+    "url": "https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands/",
+    "source": "Latent Space (swyx)",
+    "source_type": "substack",
+    "published_at": "2026-10-27T18:40:19+00:00",
+    "raw_excerpt": "Katelyn Lesse and Angela Jiang join Latent Space to explain the engineering behind the Claude Platform: launching Opus 5.5, separating the model’s “brain” from the agent’s “hands,” scaling APIs, and building reliable managed agents. A new introduction ...",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Katelyn Lesse and Angela Jiang join Latent Space to explain the engineering behind the Cla",
+    "thumbnail": "https://i.ytimg.com/vi/MRQTlwcW-aQ/maxresdefault.jpg",
+    "score": 7.487,
+    "engagement": 0,
+    "matched_keywords": [
+      "llm",
+      "anthropic"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+    "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-10-27T07:00:00+00:00",
+    "raw_excerpt": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI ag",
+    "thumbnail": "",
+    "score": 6.538,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "🔮 Anthropic’s S-1 in charts",
+    "url": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
+    "source": "Exponential View (Azeem Azhar)",
+    "source_type": "substack",
+    "published_at": "2026-10-27T17:31:56+00:00",
+    "raw_excerpt": "Watch now (34 mins) | Anthropic s S-1 should finally address the elephant in the room: is AI real?",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Watch now (34 mins) | Anthropic s S-1 should finally address the elephant in the room: is",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!CO8-!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F78b63a9d-cf9f-4e0e-94d2-d99f55b86231_1100x579.jpeg",
+    "score": 6.257,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+    "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-10-27T17:08:08+00:00",
+    "raw_excerpt": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest min",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-7.00.44-PM.png?resize=1200,783",
+    "score": 6.229,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Coding From the Himalayas With an Offline AI Agent",
+    "url": "https://latent.space/p/offline-coding/",
+    "source": "Latent Space (swyx)",
+    "source_type": "substack",
+    "published_at": "2026-10-27T14:41:25+00:00",
+    "raw_excerpt": "How to set up and run an offline coding agent using OpenCode, Ollama and Qwen.",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "How to set up and run an offline coding agent using OpenCode, Ollama and Qwen.",
+    "thumbnail": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/425b6203-2bf9-4c0a-9545-27f2704fa9aa/himilayas-no-wifi-1280x720.png?t=1793103846",
+    "score": 6.188,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai agent"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "구글, 음성·실시간 편집 갖춘 월드모델 '지니 4' 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216731",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-28T07:17:10+00:00",
+    "raw_excerpt": "구글이 이용자의 명령에 따라 가상 세계를 실시간으로 바꾸고, 등장인물의 움직임과 대화까지 생성하는 차세대 월드 모델 '지니 4(Genie 4)'를 공개했다. 이전 모델보다 물리 현상과 인간 행동을 사실적으로 구현하고, 제미나이의 추론 능력을 결합해 복잡한 사건을 여러 단계에 걸쳐 시뮬레이션할 수 있도록 개선했다. 게임과 영상 제작은 물론 로봇과 AI 에이전트의 가상 훈련에도 활용할 수 있는 기술이다.구글 딥마인드는 27일(현지시간) 공식 블로그를 통해 새로운 실시간 월드 모델 지니 4를 발표했다.월드 모델은 현실 세계의 환경과 물리",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "구글이 이용자의 명령에 따라 가상 세계를 실시간으로 바꾸고, 등장인물의 움직임과 대화까지 생성하는 차세대 월드 모델 '지니 4(Genie 4)'를 공개했다. 이전",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216731_220875_933.jpg",
+    "score": 5.674,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "WEX Teams With Euclid to Bring Agentic AI to Trucking",
+    "url": "https://www.pymnts.com/partnerships/2026/wex-teams-with-euclid-bring-agentic-ai-trucking/",
+    "source": "PYMNTS",
+    "source_type": "rss",
+    "published_at": "2026-10-27T19:37:31+00:00",
+    "raw_excerpt": "Payments solutions provider WEX teamed with Euclid AI, a provider of agentic artificial intelligence solutions for the trucking industry, according to a Tuesday (Oct 27) press release. The collaboration is designed to bring AI agents to WEX’s over-the-road (OTR) customers to help them save time and money, the release said. “Our customers are looking for [ ] The post WEX Teams With Euclid to Bring Agentic AI to Trucking appeared first on PYMNTS.com .",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Payments solutions provider WEX teamed with Euclid AI, a provider of agentic artificial in",
+    "thumbnail": "https://www.pymnts.com/wp-content/uploads/2025/07/WEX.png?w=457&quality=82",
+    "score": 5.237,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic",
+      "agentic ai"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+    "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-10-27T13:00:00+00:00",
+    "raw_excerpt": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/Team-05.jpg?resize=800,1200",
+    "score": 5.12,
+    "engagement": 0,
+    "matched_keywords": [
+      "series a"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Hyphenate raises $45m for autonomous finance agents",
+    "url": "https://www.finextra.com/pressarticle/111474/hyphenate-raises-45m-for-autonomous-finance-agents?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-10-27T19:46:00+00:00",
+    "raw_excerpt": "The first wave of finance AI helped teams work faster. The next is taking responsibility for the work itself. Hyphenate, the autonomous finance platform for the office of the CFO, today announced a $45 million Series A led by Nexus Venture Partners, with participation from B Capital and existing investors including Foundation Capital, BoldCap and Gaia Ventures.",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "The first wave of finance AI helped teams work faster. The next is taking responsibility f",
+    "thumbnail": "",
+    "score": 5.077,
+    "engagement": 0,
+    "matched_keywords": [
+      "series a"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "OpenAI's partner content arrives in ChatGPT pre-summarized while the rest of the web gets raw scraps",
+    "url": "https://the-decoder.com/openais-partner-content-arrives-in-chatgpt-pre-summarized-while-the-rest-of-the-web-gets-raw-scraps/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-10-27T11:39:24+00:00",
+    "raw_excerpt": "Content from OpenAI's licensing partners appears to flow into ChatGPT through a dedicated pipeline that gives it priority over the rest of the web. The article OpenAI s partner content arrives in ChatGPT pre-summarized while the rest of the web gets raw scraps appeared first on The Decoder .",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Content from OpenAI's licensing partners appears to flow into ChatGPT through a dedicated",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/01/openai_chatgpt_journalists_newsroom.png",
+    "score": 5.028,
+    "engagement": 0,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Anthropic uses its IPO letter to renew its pledge that Claude will never show ads",
+    "url": "https://the-decoder.com/anthropic-uses-its-ipo-letter-to-renew-its-pledge-that-claude-will-never-show-ads/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-10-27T11:20:51+00:00",
+    "raw_excerpt": "Anthropic says it will keep ads out of Claude. In a cover letter accompanying its IPO filing, the company argues that the chatbot's sole incentive should be to provide helpful answers. The article Anthropic uses its IPO letter to renew its pledge that Claude will never show ads appeared first on The Decoder .",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Anthropic says it will keep ads out of Claude. In a cover letter accompanying its IPO fili",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png",
+    "score": 5.006,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "How Check Point accelerates vulnerability research with Daybreak",
+    "url": "https://openai.com/index/check-point-daybreak",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-10-27T00:00:00+00:00",
+    "raw_excerpt": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections,",
+    "thumbnail": "",
+    "score": 4.995,
+    "engagement": 0,
+    "matched_keywords": [
+      "vulnerability"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Anthropic expands Claude for Financial Advisors with ne integrations",
+    "url": "https://www.finextra.com/pressarticle/111473/anthropic-expands-claude-for-financial-advisors-with-ne-integrations?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-10-27T17:08:00+00:00",
+    "raw_excerpt": "Today, Anthropic announced the next phase of Claude for Financial Advisors, introducing new integrations with FINNY, Jump and Conquest that bring prospecting intelligence, client meeting context and financial planning capabilities directly into Claude.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Today, Anthropic announced the next phase of Claude for Financial Advisors, introducing ne",
+    "thumbnail": "",
+    "score": 4.913,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG",
+    "url": "https://www.coindesk.com/business/2026/10/27/ripple-s-rlusd-stablecoin-is-coming-to-robinhood-s-28-6-million-customer-platform",
+    "source": "CoinDesk",
+    "source_type": "rss",
+    "published_at": "2026-10-27T16:35:29+00:00",
+    "raw_excerpt": "",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Robinhood taps Ripple’s $2.5 billion RLUSD stablecoin despite backing rival USDG",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/e967c0a6b3495d0572d5a7ca83e35490a1e10f74-2048x1365.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "score": 4.879,
+    "engagement": 0,
+    "matched_keywords": [
+      "stablecoin"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Money20/20 and the unfinished business of payments innovation",
+    "url": "https://tearsheet.co/funding/money20-20-and-the-unfinished-business-of-payments-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=money20-20-and-the-unfinished-business-of-payments-innovation",
+    "source": "Tearsheet",
+    "source_type": "rss",
+    "published_at": "2026-10-27T11:30:00+00:00",
+    "raw_excerpt": "Money20/20 USA in Las Vegas, held October 18-21, had some practical conversations taking shape around what needs to change for newer and bigger ideas to work outside a high-gloss product demo. Four themes stood out. 1. Agentic AI can make the purchase, but then comes the permission problem On October 20 at Money20/20, Visa, BILL Continue reading \"Money20/20 and the unfinished business of payments innovation\" The post Money20/20 and the unfinished business of payments innovation appeared first on Tearsheet .",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Money20/20 USA in Las Vegas, held October 18-21, had some practical conversations taking s",
+    "thumbnail": "https://tearsheet.co/wp-content/uploads/2025/05/Fintech-Breakdown-8.png",
+    "score": 4.78,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic",
+      "agentic ai"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Zafin to buy Naehas to expand AI-powered banking and compliance platform",
+    "url": "https://www.finextra.com/newsarticle/48654/zafin-to-buy-naehas-to-expand-ai-powered-banking-and-compliance-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-10-27T14:34:00+00:00",
+    "raw_excerpt": "Zafin, a Toronto-based AI platform for regulated institutions such as banks, has inked a deal to buy Naehas, a provider of offer management, disclosure automation and marketing compliance technology serving financial institutions in the US.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Zafin, a Toronto-based AI platform for regulated institutions such as banks, has inked a d",
+    "thumbnail": "",
+    "score": 4.752,
+    "engagement": 0,
+    "matched_keywords": [
+      "compliance"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Kenya's I&M Bank selects Otoma for end-to-end payments",
+    "url": "https://www.finextra.com/pressarticle/111466/kenyas-im-bank-selects-otoma-for-end-to-end-payments?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-10-27T14:22:00+00:00",
+    "raw_excerpt": "I M Bank, a leading Tier 1 commercial bank headquartered in Kenya, has partnered with Otoma, a leading provider of AI native, no-code payments infrastructure, to modernize its end to end payments technology, enhancing the speed, reliability and efficiency of payment services for customers.",
+    "topic": "ai_native",
+    "topic_label": "🧬 AI Native",
+    "summary": "I M Bank, a leading Tier 1 commercial bank headquartered in Kenya, has partnered with Otom",
+    "thumbnail": "",
+    "score": 4.74,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai native"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Chetwood Bank joins PRA and FCA scale-up unit",
+    "url": "https://www.finextra.com/pressarticle/111463/chetwood-bank-joins-pra-and-fca-scale-up-unit?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-10-27T13:09:00+00:00",
+    "raw_excerpt": "Chetwood Bank, the UK-based digital challenger bank, has been selected to participate in the second cohort of the Prudential Regulation Authority (PRA) and the Financial Conduct Authority’s (FCA) Scale-up Unit.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Chetwood Bank, the UK-based digital challenger bank, has been selected to participate in t",
+    "thumbnail": "",
+    "score": 4.664,
+    "engagement": 0,
+    "matched_keywords": [
+      "regulation"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Quantum fears already limiting Bitcoin’s growth, Stacks founder says",
+    "url": "https://cointelegraph.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "source_type": "rss",
+    "published_at": "2026-10-27T20:33:19+00:00",
+    "raw_excerpt": "Speaking on Cointelegraph’s Chain Reaction podcast, Muneeb Ali warned that uncertainty over Bitcoin’s quantum security could deter institutional investors.",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "Speaking on Cointelegraph’s Chain Reaction podcast, Muneeb Ali warned that uncertainty ove",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5ZF47DDZ978GBXA3FCAVDQG/hi-bitcoins-quantum-upgrade-path-what-bip-360-changes-and-what-it-doesnt-1.jpg",
+    "score": 4.614,
+    "engagement": 0,
+    "matched_keywords": [
+      "quantum"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "CapitalOS raises $21.9m for money orchestration layer for B2B platforms",
+    "url": "https://www.finextra.com/newsarticle/48652/capitalos-raises-219m-for-money-orchestration-layer-for-b2b-platforms?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-10-27T00:01:00+00:00",
+    "raw_excerpt": "CapitalOS, a money orchestration layer for B2B platforms, has raised $21.9 million in Series A funding.",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "CapitalOS, a money orchestration layer for B2B platforms, has raised $21.9 million in Seri",
+    "thumbnail": "",
+    "score": 4.593,
+    "engagement": 0,
+    "matched_keywords": [
+      "funding",
+      "series a"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "\"韓 VC 생태계는 ‘자갈밭’…투자자 제약하는 규제·제도 개선해야\"",
+    "url": "https://zdnet.co.kr/view/?no=20261027190317",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-10-27T10:17:02+00:00",
+    "raw_excerpt": "[지디넷코리아]국내 벤처캐피탈(VC) 환경이 투자자를 제약하는 정책과 미비한 제도로 인해 여전히 열악하다는 지적이 제기됐다. 이어 투자자와 창업자가 책임과 권한을 공유할 수 있는 구조를 설계하고, ‘제3의 자본’을 질적 자본으로 전환하는 해결책을 마련해야 한다는 제언이 나왔다.과학기술정책연구원(STEPI)과 한국경제학회는 27일 서울 마포구 프론트원에서 ‘글로벌 경제 3강 도약을 위한 혁신자본 대전환’을 주제로 ‘기술사업회 폴리시 코-랩’을 열고 스타트업 투자 생태계 활성화 방안에 대한 의견을 나눴다.박희덕 트랜스링크 인베스트먼트 대표가 ‘모험자본’을, 김홍일 케이유니콘인베스트먼트 대표가 ‘제3의 자본’을, 이용관 블루포인트파트너스 대표가 ‘규제’를 핵심 키워드로 발표를 진행했다.박 대표는 한국 VC 생태계가 아직 ‘자갈밭’이라며 제도가 정비되지 않은 상태에서 질적 변화 없이 양적 팽창에만 집중하고 있다고 비판했다. 그는 국내 VC가 은행(뱅킹) 구조에서 벗어나지 못하고 있다며, 투자자(인베스트먼트) 관점으로 전환해야 한다고 역설했다.과거 회수 가능성에서 미래 가치 창출 가능성으로 현재 기술 금융의 중심축이 이동하고 있는 상황에서 여기에 발맞춰 나가려면 투자자와 창업자가 서로 책임과 권한을 가질 수 있는 구조로 만들어야 한다고 말했다.김 대표는 기업과 자본의 시간이 서로 불일치하는 것이 우리나라의 현실이라며 이 불일치를 해결해야 한다",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "[지디넷코리아]국내 벤처캐피탈(VC) 환경이 투자자를 제약하는 정책과 미비한 제도로 인해 여전히 열악하다는 지적이 제기됐다. 이어 투자자와 창업자가 책임과 권한을",
+    "thumbnail": "https://image.zdnet.co.kr/2026/10/27/ae79d0bb179647824068a79980daa084.jpg",
+    "score": 4.491,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업",
+      "벤처",
+      "유니콘",
+      "벤처캐피탈",
+      "창업"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar",
+    "url": "https://cointelegraph.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "source_type": "rss",
+    "published_at": "2026-10-27T16:37:15+00:00",
+    "raw_excerpt": "The blockchain-based fund offers eligible non-US investors exposure to the Nasdaq-100 as Janus Henderson expands its institutional tokenization business.",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "The blockchain-based fund offers eligible non-US investors exposure to the Nasdaq-100 as J",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5Z1HSZ4K8KMEHK6XPMYYZ30/hi-crypto-goes-for-nasdaq-solana.png",
+    "score": 4.393,
+    "engagement": 0,
+    "matched_keywords": [
+      "tokenization"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Early progress on accelerating drug development with Claude",
+    "url": "https://www.anthropic.com/research/early-progress-drug-development",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-27T20:50:42+00:00",
+    "raw_excerpt": "Article URL: https://www.anthropic.com/research/early-progress-drug-development Comments URL: https://news.ycombinator.com/item?id=50265609 Points: 56 # Comments: 40",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Article URL: https://www.anthropic.com/research/early-progress-drug-development Comments U",
+    "thumbnail": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6a50f5ba4c0931f8d2c411f26d860955c1efeae7-1200x630.jpg",
+    "score": 4.116,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "하이퍼엑셀, 삼성증권 출신 김준연 CFO 영입",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216699",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-27T14:24:46+00:00",
+    "raw_excerpt": "하이퍼엑셀(대표 김주영)은 김준연 전 삼성증권 캐피털마켓본부 이사를 최고 재무책임자(CFO)에 선임했다고 27일 밝혔다. 이번 영입으로 해외 투자 유치와 재무 전략 역량을 강화하고 글로벌 시장 공략에 속도를 낼 계획이다.김준연 CFO는 2019년 삼성증권에 합류해 기업공개(IPO)와 유상증자 및 사모투자 등 주식자본시장(ECM) 거래를 다수 수행했다. 최근에는 국내 주요 AI 반도체 기업의 IPO 자문과 투자 업무를 담당했다. 앞서 아마존에서 신사업 개발을, 포스코인터내셔널에서 비철금속·광석 분야 글로벌 사업 개발과 해외 마케팅을",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "하이퍼엑셀(대표 김주영)은 김준연 전 삼성증권 캐피털마켓본부 이사를 최고 재무책임자(CFO)에 선임했다고 27일 밝혔다. 이번 영입으로 해외 투자 유치와 재무 전",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216699_220831_747.jpg",
+    "score": 4.11,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "인텔, 양자컴퓨팅 SW 기업 클래식 인수...풀스택 플랫폼 구축",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21803",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-10-27T16:10:04+00:00",
+    "raw_excerpt": "인텔이 양자컴퓨팅 소프트웨어 기업 클래식(Classiq) 인수를 추진한다. 반도체 제조 기술과 양자 알고리즘을 자동으로 설계하는 소프트웨어를 결합해 하드웨어부터 애플리케이션 개발까지 아우르는 양자컴퓨팅 사업을 구축한다는 구상이다.인텔은 26일(현지시간) 클래식 인수를 위한 최종 계약을 체결했다고 발표했다. 거래는 규제 당국의 승인 등 통상적인 종결 조건을 충족해야 하며, 완료 시점은 2027년 상반기로 예상된다. 인수 금액은 공식 발표에 공개되지 않았다. 거래가 마무리되기 전까지 두 회사는 독립적으로 운영된다. 이번 인수의 핵심은",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "인텔이 양자컴퓨팅 소프트웨어 기업 클래식(Classiq) 인수를 추진한다. 반도체 제조 기술과 양자 알고리즘을 자동으로 설계하는 소프트웨어를 결합해 하드웨어부터",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202610/21803_22585_827.jpg",
+    "score": 4.109,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "양자"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "온도 파이낸스, 로빈후드 체인에 토큰화 주식 15종 출시…엔비디아·테슬라 24시간 거래",
+    "url": "https://www.blockmedia.co.kr/archives/1157197?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-10-27T22:09:06+00:00",
+    "raw_excerpt": "[블록미디어 이정화 기자] 디지털자산 플랫폼 온도 파이낸스(Ondo Finance)가 로빈후드 체인(Robinhood Chain)에 토큰화 주식과 상장지수펀드(ETF) 15종을 출시했다. 엔비디아와 애플 등 미국 주요 기업의 주식을 블록체인에서 거래할 수 있도록 지원하고 전통 금융시장 휴장일에도 유동성을 확보하겠다는 전략이다. 특히 탈중앙화거래소 유니스왑과 연계해 토큰화 주식의 24시간 거래 환경을 구축하면서 실물자산 토큰화(RWA) 시장 확대에 나섰다. 27일(현지시각) 온도 파이낸스에 따르면 이번에 출시된 [...]",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[블록미디어 이정화 기자] 디지털자산 플랫폼 온도 파이낸스(Ondo Finance)가 로빈후드 체인(Robinhood Chain)에 토큰화 주식과 상장지수펀드(E",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/10/20261028-051213.png",
+    "score": 4.036,
+    "engagement": 0,
+    "matched_keywords": [
+      "블록체인",
+      "토큰화",
+      "rwa"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "LG이노텍, 분기 첫 매출 6兆…환율암초에 수익성은 숨고르기",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=676891",
+    "source": "블로터",
+    "source_type": "rss",
+    "published_at": "2026-10-27T18:03:17+00:00",
+    "raw_excerpt": "LG이노텍이 올해 3분기 분기 기준 사상 처음으로 매출 6조원 고지를 넘어서며 외형 성장의 새 이정표를 세웠다. 애플 등 핵심 고객사의 신모델 양산 효과와 차세대 반도체 기판 수요가 맞물리며 전 사업 부문이 고른 성장세를 보인 덕분이다.그러나 급격한 원·달러 환율 하락이라는 암초에 발목이 잡히며 영업이익은 지난해 동기 대비 절반 수준으로 내려앉았다. LG이노텍은 FC-BGA(플립칩 볼그리드어레이) 등 고부가 반도체 기판과 AI(인공지능) 기반 제조 혁신을 앞세워 수익성 회복에 총력을 기울일 방침이다. 매출 6조 넘었지만 환율 급락에",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "LG이노텍이 올해 3분기 분기 기준 사상 처음으로 매출 6조원 고지를 넘어서며 외형 성장의 새 이정표를 세웠다. 애플 등 핵심 고객사의 신모델 양산 효과와 차세대",
+    "thumbnail": "https://cdn.bloter.net/news/thumbnail/202610/676891_291031_4023_v150.jpg",
+    "score": 3.432,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Spiko 토큰화 펀드 운용자산 27억달러…12개월 새 5배",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/428252",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-10-27T20:49:44+00:00",
+    "raw_excerpt": "Spiko의 토큰화 펀드 운용자산(AuM)이 10월 6일 기준 27억달러(약 3조5775억원)에 이르렀다. 회사 홈페이지의 30억달러와 실물자산 데이터 업체 RWA.xyz의 21억달러는 측정 대상과 기준 시점이 달라 같은 운용자산 수치로 비교할 수 없다. Spiko는 10월 6일 발표에서 운용자산(AuM)이 12개월 동안 5배 넘게 늘었다고 밝혔다. 회사는 30억달러 도달이나 연간 536% 증가를 같은 기준의 성장 수치로 발표하지 않았다. 홈페이지에 표시된 30억달러의 항목명은 ‘플랫폼 내 현금’이다. RWA.xyz는 10월 27일 토큰화 액티브 전략 집계에서 Spiko 관련 자산 6개의 가치를 21억달러(약 2조7825억원)로 나타냈다. 펀드 운용자산, 플랫폼 내 현금, 특정... 더보기",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "Spiko의 토큰화 펀드 운용자산(AuM)이 10월 6일 기준 27억달러(약 3조5775억원)에 이르렀다. 회사 홈페이지의 30억달러와 실물자산 데이터 업체 RW",
+    "thumbnail": "https://f1.tokenpost.kr/2026/10/l46u7191a9.jpg",
+    "score": 3.143,
+    "engagement": 0,
+    "matched_keywords": [
+      "토큰화",
+      "rwa"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "[뉴욕 코인시황/마감] “FOMC·중간선거 눈치보기”… BTC 8만달러 회복에도 거래량은 뚝",
+    "url": "https://www.blockmedia.co.kr/archives/1157221?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-10-27T20:43:58+00:00",
+    "raw_excerpt": "[멕시코=심영재 특파원] 미국 연방준비제도(Fed·연준)의 금리 결정과 중간선거를 앞두고 디지털자산(가상자산) 시장이 제한적인 반등세를 보이고 있다. 비트코인이 8만달러선을 회복하고 주요 알트코인도 상승했지만 전체 거래량은 감소하며 투자자들의 관망세가 이어졌다. 시장에서는 8만1000달러 돌파 여부가 향후 방향성을 가를 핵심 변수로 떠올랐다. 27일(현지시각) 코인마켓캡에 따르면 글로벌 디지털자산 시가총액은 2조7000억달러로 전일 대비 0.44% 증가했다. 반면 거래량은 586억8000만달러로 11.00% 감소했다. 비트코인 시장 점유율은 [...]",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[멕시코=심영재 특파원] 미국 연방준비제도(Fed·연준)의 금리 결정과 중간선거를 앞두고 디지털자산(가상자산) 시장이 제한적인 반등세를 보이고 있다. 비트코인이",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/10/20261028-054114.jpg",
+    "score": 3.083,
+    "engagement": 0,
+    "matched_keywords": [
+      "가상자산"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  }
+]
