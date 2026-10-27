@@ -1,0 +1,623 @@
+[
+  {
+    "title": "“AI가 수학·컴퓨터과학·물리학 난제 증명”…오픈AI, '수십 년 미해결 문제에 도전' 학계 검증 본격화",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42443",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-10-27T12:39:42+00:00",
+    "raw_excerpt": "인공지능(AI)이 인간 과학자들이 수십 년 동안 해결하지 못했던 수학과 컴퓨터과학, 이론물리학의 핵심 난제에 대한 새로운 증명을 생성했다고 오픈AI(OpenAI)가 발표했다. 파동의 움직임을 설명하는 수학적 추측부터 컴퓨터가 문제를 해결하는 데 필요한 계산 시간의 한계, 현대 입자물리학의 수학적 토대까지 서로 다른 세 분야에서 AI가 독자적인 연구 결과를 만들어냈다는 주장이다.특히 컴퓨터과학에서는 지난 30여 년 동안 널리 받아들여진 지수시간가설(Exponential Time Hypothesis, ETH)이 틀렸다는 증명을 제시했고",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "인공지능(AI)이 인간 과학자들이 수십 년 동안 해결하지 못했던 수학과 컴퓨터과학, 이론물리학의 핵심 난제에 대한 새로운 증명을 생성했다고 오픈AI(OpenAI)",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202610/42443_63800_3857_v150.jpg",
+    "score": 9.273,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "openai",
+      "오픈ai"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "엔비디아, 메타에 4조원 투자…‘뮤즈’ AI 동맹 확대, 개인용 슈퍼인텔리전스 가속",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42448",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-10-27T17:36:15+00:00",
+    "raw_excerpt": "엔비디아(NVIDIA)와 메타(Meta)가 AI 에이전트 시장 확대에 대응해 메타의 ‘뮤즈(Muse)’ 및 관련 AI 모델 제품군을 중심으로 전략적 협력을 강화한다. 엔비디아는 메타에 30억달러(약 4조원)를 투자하고, 양사는 차세대 AI 모델의 학습·추론 성능과 데이터센터 인프라 효율을 높이기 위한 공동 최적화에 나선다.양사는 26일(현지시간) AI 에이전트에 대한 수요 증가에 대응하기 위해 뮤즈 모델 제품군의 성능 개선과 운영비용 절감을 위한 협력을 확대한다고 발표했다.엔비디아 인프라를 활용하는 메타의 뮤즈 모델과 AI 에이전트",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "엔비디아(NVIDIA)와 메타(Meta)가 AI 에이전트 시장 확대에 대응해 메타의 ‘뮤즈(Muse)’ 및 관련 AI 모델 제품군을 중심으로 전략적 협력을 강화한",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202610/42448_63808_3730_v150.jpg",
+    "score": 8.744,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "nvidia",
+      "엔비디아"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "앤트로픽 IPO 서류에 “클로드 광고 안 넣는다”...오픈AI와 차별화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216716",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-27T17:16:00+00:00",
+    "raw_excerpt": "앤트로픽 창업자 7명이 '클로드'에 광고를 도입하지 않겠다는 방침을 거듭 밝혔다. 광고 수익보다 사용자에게 유용한 답변을 제공하는 데 집중하겠다는 것으로, 광고 사업 확대를 추진하는 오픈AI와 차별화하려는 전략으로 풀이된다.앤트로픽 창업자들은 26일(현지시간) 기업공개(IPO) 투자 설명서에 포함된 서한에서 클로드를 광고 없이 운영하겠다는 약속을 재확인했다.이들은 \"광고가 매출 목표에 포함되면 플랫폼이 사용자 참여도를 무리하게 끌어올리려는 압박을 받기 쉽다\"며 \"클로드에는 그런 구조를 도입하지 않기로 했다\"고 밝혔다.앤트로픽은 클로",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "앤트로픽 창업자 7명이 '클로드'에 광고를 도입하지 않겠다는 방침을 거듭 밝혔다. 광고 수익보다 사용자에게 유용한 답변을 제공하는 데 집중하겠다는 것으로, 광고",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216716_220857_3637.jpg",
+    "score": 8.47,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[게시판] 삼쩜삼, 사내 AI 통합 플랫폼 '카터'로 운영비 45% 절감 등 단신",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216708",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-27T17:00:00+00:00",
+    "raw_excerpt": "■ 자비스앤빌런즈(대표 김범섭)는 사내 AI 에이전트를 통합 관리하는 자체 플랫폼 '카터'를 구축해 AI 운영 비용을 최대 45% 절감했다고 밝혔다. 카터는 에이전트별 비용 관리와 보안 기능을 공통으로 제공하며 현재 삼쩜삼Q 등 8개 에이전트가 카터에서 운영되고 있다. 보조 호출을 경량 모델로 처리하는 '모델 티어링'으로 LLM 호출 비용을 낮췄다는 설명이다.■ 베스핀글로벌(대표 허양호)은 미국 라스베이거스에서 열린 '오라클 AI 월드 2026'에서 '2026 오라클 파트너 어워드' 아시아태평양 데이터 플랫폼 브레이크스루 부문을 수",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "■ 자비스앤빌런즈(대표 김범섭)는 사내 AI 에이전트를 통합 관리하는 자체 플랫폼 '카터'를 구축해 AI 운영 비용을 최대 45% 절감했다고 밝혔다. 카터는 에이",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216708_220862_5332.jpg",
+    "score": 8.448,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "llm"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "앤트로픽도 뚫렸다...캐서드럴, AI 에이전트로 12시간 만에 내부망 침투",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216701",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-27T14:42:24+00:00",
+    "raw_excerpt": "미국 정부효율부(DOGE) 출신 인사들이 설립한 사이버보안 스타트업 캐서드럴(Cathedral)이 AI 에이전트를 활용해 12시간도 안 돼 앤트로픽의 내부 시스템에 침투할 수 있는 경로를 찾아냈다. 회의 기록과 급여 정보, 사내 슬랙(Slack) 메시지 등 민감한 데이터에 접근할 수 있는 취약점을 발견한 것으로, 외부 기업용 소프트웨어의 보안 허점이 첨단 AI 기업의 내부 시스템까지 위협할 수 있다는 우려가 커지고 있다.26일(현지시간) 워싱턴포스트(WP)에 따르면, 캐서드럴 연구진은 앤트로픽이 사용하는 외부 소프트웨어의 취약점을",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "미국 정부효율부(DOGE) 출신 인사들이 설립한 사이버보안 스타트업 캐서드럴(Cathedral)이 AI 에이전트를 활용해 12시간도 안 돼 앤트로픽의 내부 시스템",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216701_220832_256.jpg",
+    "score": 8.262,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "전남광주서 28~29일 국제광융합엑스포…80여개사·109개 부스 참여",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216654",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-27T13:17:00+00:00",
+    "raw_excerpt": "AI 생성 영상전남광주통합특별시에서 AI 반도체와 광통신, 양자·보안, 미래모빌리티 등 광융합 기술을 한자리에서 선보이는 산업 전시회가 열린다.전남광주는 오는 28일부터 29일까지 김대중컨벤션센터에서 ‘2026 국제광융합엑스포(The 24th PHOTONICS KOREA)’를 개최한다고 밝혔다.산업통상부와 전남광주가 주최하고 한국광융합산업진흥회가 주관하는 이번 행사에는 광융합산업 관련 기업과 기관 80여곳이 109개 부스 규모로 참여한다.전시 분야는 AI 데이터용 광부품과 AI 반도체·첨단 패키징, 양자·보안 광기술, 스마트 제조·",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "AI 생성 영상전남광주통합특별시에서 AI 반도체와 광통신, 양자·보안, 미래모빌리티 등 광융합 기술을 한자리에서 선보이는 산업 전시회가 열린다.전남광주는 오는 2",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216654_220801_571.jpg",
+    "score": 8.146,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "양자"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "AI 보안, 탐지 넘어 실행 통제로...쿤텍 “위협 대응 시간 줄인다”",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21802",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-10-27T16:06:36+00:00",
+    "raw_excerpt": "쿤텍은 AI 보안 솔루션 이지즈(AEZIZ), 애쉬(ASH), 넥사(NEXA)를 연계한 중장기 전략을 27일 발표했다. 위협 가시화부터 탐지, 대응까지 걸리는 시간을 줄이는 것이 목표다. 쿤텍은 평균 가시화 시간(MTTV), 평균 탐지 시간(MTTD), 평균 대응 시간(MTTR)을 핵심 지표로 제시했다. 다만 ‘세계 최단’은 현재 달성한 성과가 아닌 중장기 목표다. 쿤텍의 첫 번째 축인 이지즈는 기존 소프트웨어 구성요소 명세서(SBOM) 관리에서 AI 모델과 에이전트까지 점검 범위를 확대한다. AI 모델의 출처와 라이선스, 취약점",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "쿤텍은 AI 보안 솔루션 이지즈(AEZIZ), 애쉬(ASH), 넥사(NEXA)를 연계한 중장기 전략을 27일 발표했다. 위협 가시화부터 탐지, 대응까지 걸리는 시",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202610/21802_22584_2114.jpg",
+    "score": 7.912,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai 보안",
+      "보안",
+      "취약점"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "“GPU 시장 감가상각 안 통한다”...출시 6년 차 A100도 임대료 역주행",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216717",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-27T17:36:59+00:00",
+    "raw_excerpt": "자산 가치는 시간이 지날수록 하락한다는 감가상각 개념이 GPU 시장에서는 통하지 않는 것으로 확인됐다.미국 벤처캐피털 앤드리슨 호로위츠(a16z)는 H200·B200·A100 등 주요 GPU 5종의 렌탈 가격 추이를 공개했다. GPU 가격 데이터 업체 오른(Ornn)의 지수를 분석한 결과, 올해 1월1일 가격을 100으로 놓았을 때 10월 기준 5종 모두 연초 대비 렌탈 가격이 오른 것으로 집계됐다.상승 폭은 H200이 약 2.6배로 가장 높았으며, B200·RTX PRO 6000·H100 순이었다. 특히 출시 6년 차인 A100도",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "자산 가치는 시간이 지날수록 하락한다는 감가상각 개념이 GPU 시장에서는 통하지 않는 것으로 확인됐다.미국 벤처캐피털 앤드리슨 호로위츠(a16z)는 H200·B2",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216717_220866_584.jpg",
+    "score": 7.523,
+    "engagement": 0,
+    "matched_keywords": [
+      "gpu"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "칩스앤미디어, AI SoC·로보틱스 신규 실적에 3분기 매출 ↑",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216724",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-27T17:20:00+00:00",
+    "raw_excerpt": "칩스앤미디어(대표 김상현)는 AI SoC와 로보틱스 분야 신규 라이선스 공급 성과에 힘입어 3분기 매출액(연결 기준) 71.6억 원, 영업이익 16.6억 원을 기록했다고 27일 밝혔다. 이는 전년동기 대비 각각 8.2%, 8.7% 증가한 수치다.라이선스 매출은 전년동기 대비 33.0% 증가한 44.3억 원을 기록하며 전체 매출 성장을 이끌었다. 메모리 수급 영향에 따른 고객사 칩 생산 감소로 로열티 매출은 줄었지만 AI·모빌리티 분야 신규 라이선스 확대가 이를 보완했다. 당기순이익은 환차손과 금융자산 평가손실 등이 반영돼 6.0억",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "칩스앤미디어(대표 김상현)는 AI SoC와 로보틱스 분야 신규 라이선스 공급 성과에 힘입어 3분기 매출액(연결 기준) 71.6억 원, 영업이익 16.6억 원을 기",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216724_220870_1758.jpg",
+    "score": 7.5,
+    "engagement": 0,
+    "matched_keywords": [
+      "로보틱스"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "알리바바 큐원, 보안 테스트 중 베이징 서버로 무단 전송 시도",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216702",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-27T16:22:39+00:00",
+    "raw_excerpt": "알리바바의 '큐원'이 사이버보안 테스트 도중 실행 환경의 정보를 수집하고 중국 베이징에 있는 알리바바 클라우드 서버로 파일을 전송하려 한 사실이 드러났다. 모델이 자체 추론 과정에서 외부 도구를 사용하지 않겠다고 밝힌 상황에서 예상 밖의 동작이 나타나, 오픈소스 AI 모델을 기업 내부 시스템에 도입할 때 보안 검증을 강화해야 한다는 지적이 나온다.캐나다 코히어는 26일(현지시간) 보안 연구 과정에서 알리바바의 '큐원 3.8 플래시 넥스트'가 이 같은 동작을 보였다고 밝혔다. 연구진은 외부 네트워크와 연결되지 않은 통제된 샌드박스 환",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "알리바바의 '큐원'이 사이버보안 테스트 도중 실행 환경의 정보를 수집하고 중국 베이징에 있는 알리바바 클라우드 서버로 파일을 전송하려 한 사실이 드러났다. 모델이",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216702_220834_4812.png",
+    "score": 7.423,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "머스크가 “400억달러 조달 완료” 밝힌 거래, 아폴로 GPU 리스로 확인",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216718",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-27T15:33:58+00:00",
+    "raw_excerpt": "스페이스X가 아폴로 글로벌 매니지먼트와 400억달러(약 53조원) 규모의 AI 칩·서버 장비 금융리스 약정을 체결했다. 일론 머스크 CEO가 전날 “GPU 구매를 위한 자금 조달을 완료했다”고 발표한 거래의 구체적인 구조가 공개된 것이다. 스페이스X는 26일(현지시간) 공시를 통해 아폴로가 운용하는 법인이 AI 칩과 관련 서버 장비를 매입한 뒤 스페이스X에 임대하는 방식의 금융 약정 체결 사실을 공개했다.앞서 머스크 CEO는 25일 X를 통해 400억달러 규모의 부채 조달을 완료했다고 밝혔다. 그는 해당 자금이 주로 내년 1·2분기",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "스페이스X가 아폴로 글로벌 매니지먼트와 400억달러(약 53조원) 규모의 AI 칩·서버 장비 금융리스 약정을 체결했다. 일론 머스크 CEO가 전날 “GPU 구매를",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216718_220856_2855.png",
+    "score": 7.357,
+    "engagement": 0,
+    "matched_keywords": [
+      "gpu"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "스페인 카스티야이레온, 지상형 태양광에 면적별 과세 추진…업계 반발",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216634",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-27T11:25:00+00:00",
+    "raw_excerpt": "스페인 카스티야이레온 자치정부가 일정 규모 이상의 태양광발전소에 환경영향세를 부과하는 방안을 추진한다. 발전소가 차지하는 부지 면적에 따라 헥타르(ha)당 연간 최대 2000유로(약 295만원)를 부과하는 방식으로, 건물 지붕에 설치한 태양광과 5ha 미만 설비는 과세 대상에서 제외한다.카스티야이레온 자치주의회가 지난 19일(현지시간) 공개한 '조세·재정·행정조치 법안'에 따르면 자치정부는 기존 환경영향세의 적용 범위를 태양광발전소로 확대해 2027년부터 시행하는 방안을 추진하고 있다.자치정부는 지난 13일 해당 법안을 승인해 의회",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "스페인 카스티야이레온 자치정부가 일정 규모 이상의 태양광발전소에 환경영향세를 부과하는 방안을 추진한다. 발전소가 차지하는 부지 면적에 따라 헥타르(ha)당 연간",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216634_220758_1620.jpg",
+    "score": 7.02,
+    "engagement": 0,
+    "matched_keywords": [
+      "법안"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[AI 막는 AI] 파이오링크, AI로 취약점 검증부터 해킹 차단까지",
+    "url": "https://www.etnews.com/20261027000376",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-10-27T08:00:00+00:00",
+    "raw_excerpt": "인공지능(AI)을 활용한 해킹 공격이 취약점 탐색부터 공격경로 설계, 침투 시도까지 자동화하면서 기업의 보안 대응 부담이 커지고 있다. 공격자는 외부에 노출된 취약점을 빠르게 찾아내지만, 방어자는 수많은 취약점에서 실제 위험을 선별하고 공격을 차단하는 데 상당한 시간과 인력을 투입해야 한다. 기존 보안체계로는 자동화된 공격 속도를 따라가기 어렵다는 지적이다. 파이오링크는 이러한 격차를 줄이는 해법으로 △지속적 위협 노출관리(CTEM)를 통한 선",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "인공지능(AI)을 활용한 해킹 공격이 취약점 탐색부터 공격경로 설계, 침투 시도까지 자동화하면서 기업의 보안 대응 부담이 커지고 있다. 공격자는 외부에 노출된 취",
+    "thumbnail": "https://img.etnews.com/news/article/2026/10/22/news-p.v1.20261022.0fa5729229d64e329339fa063284af17_P1.jpg",
+    "score": 6.686,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "취약점",
+      "해킹"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "데이터독, ′장애 분석부터 보안 대응까지’ AI 에이전트로 IT 운영 자동화",
+    "url": "https://byline.network/2026/10/1027-5/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-10-27T07:57:13+00:00",
+    "raw_excerpt": "AI가 소프트웨어 개발과 운영 과정에서 발생하는 문제를 스스로 분석하고 해결하는 기술이 IT 운영의 주요 과제로 떠오르고 있다. 클라우드와 AI 확산으로 시스템 복잡성이 커지는 가운데, 데이터독은 장애 원인 분석부터 코드 수정, 보안 위협 탐지까지 지원하는 AI 에이전트를 통해 IT 운영 자동화에 나섰다.",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "AI가 소프트웨어 개발과 운영 과정에서 발생하는 문제를 스스로 분석하고 해결하는 기술이 IT 운영의 주요 과제로 떠오르고 있다. 클라우드와 AI 확산으로 시스템",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/10/datadog.jpg",
+    "score": 6.527,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "케이투스, AI 데이터센터 유지보수 강화...엔지니어 현장 배치",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21806",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-10-27T16:30:54+00:00",
+    "raw_excerpt": "케이투스는 핵심 부품의 현장 비축과 제조사 수준의 진단·수리 역량을 결합한 ‘OEM AI 매니지드 서비스’를 출시하고, 대규모 AI 데이터센터의 하드웨어 유지보수 시장을 공략한다고 27일 밝혔다.이 서비스는 고객 데이터센터에 주요 교체 부품과 진단 장비를 배치하고, 제조사 인증 엔지니어가 현장에서 장애를 처리하는 방식이다. 케이투스는 복잡한 하드웨어 수리를 최단 4시간 내 완료할 수 있으며, 자체 현장 운영 데이터 기준 장애 노드 한 대당 평균 해결 시간은 12시간이라고 밝혔다. 일반적인 업계 서비스 수준과 비교해 하드웨어 복구 시",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "케이투스는 핵심 부품의 현장 비축과 제조사 수준의 진단·수리 역량을 결합한 ‘OEM AI 매니지드 서비스’를 출시하고, 대규모 AI 데이터센터의 하드웨어 유지보수",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202610/21806_22589_2826.jpg",
+    "score": 6.29,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "쿤텍 \"운영 단계 AI에이전트 통제 시장 내년 형성\"",
+    "url": "https://zdnet.co.kr/view/?no=20261027131832",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-10-27T06:40:47+00:00",
+    "raw_excerpt": "[지디넷코리아]방혁준 쿤텍 대표가 27일 기자간담회에서 인공지능(AI) 에이전트 보안 플랫폼 애쉬가 모델 내부가 아닌 입력과 출력 단계에서 위험을 통제한다고 설명했다. 제품 기능이 글로벌 경쟁사 솔루션 대비 90% 이상 수준까지 따라잡았다고 평가했다. 고객을 위한 보안 사고 보증 프로그램을 만들 의지가 있다고 말했다. 운영 단계의 AI 에이전트 통제 시장은 내년부터 형성될 것으로 내다봤다.다음은 방혁준 쿤텍 대표와 기자들 간 일문일답이다.-애쉬 게이트웨이는 외부 모델도 응용프로그램 인터페이스(API)로 연결해 통제하는가\"외부 모델과 온프레미스 모델 모두 가능하다. 거대언어모델(LLM)과 모델컨텍스트프로토콜(MCP)의 입출력 통신은 산업 표준처럼 자리 잡아 모두 모니터링한다. 계정 인증이 필요한 경우 계정을 사전에 등록해 통제한다. 회사가 모르는 AI 에이전트가 없어야 한다. 활동 기록을 남기고 위험하면 차단하는 것이 목표다.\"-게이트웨이 통제는 모델 내부가 아니라 입출력을 보고 정책으로 판단하는 수준인가\"맞다. 모델 안에서 일어나는 활동의 의미를 이해하는 것은 매우 어렵고, 쿤텍의 영역이라고 생각하지 않는다. 입력과 출력의 위험을 가드레일로 막는다. 이를 위해 레드티밍 250만 건 이상을 산업별, 업무별, 특성별로 정리했고, 국내에서 가장 많을 것으로 본다. 업무 범위를 벗어난 행동을 가려낼 근거로 1년 이상 연구 논문 등을 정제해 ",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "[지디넷코리아]방혁준 쿤텍 대표가 27일 기자간담회에서 인공지능(AI) 에이전트 보안 플랫폼 애쉬가 모델 내부가 아닌 입력과 출력 단계에서 위험을 통제한다고 설명",
+    "thumbnail": "https://image.zdnet.co.kr/2026/10/27/f7e4d1d2595d8ac561cf858f7d54f895.jpg",
+    "score": 5.943,
+    "engagement": 0,
+    "matched_keywords": [
+      "mcp",
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "현대차 '아틀라스' 공급망 공개에 관련주 급등…나무가·캠시스 30% 가까이 상승",
+    "url": "https://www.etnews.com/20261027000385",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-10-27T06:50:40+00:00",
+    "raw_excerpt": "현대자동차그룹의 휴머노이드 로봇 '아틀라스' 공급망이 공개되면서 관련 부품업체들의 주가가 일제히 급등했다. 카메라 공급사인 나무가와 캠시스가 30% 가까이 치솟고 엠씨넥스도 20% 넘게 상승했다. 로봇용 카메라뿐 아니라 배터리와 액추에이터 등 핵심 부품 공급사에도 매수세가 유입되면서 피지컬 인공지능(AI) 시장 성장에 대한 기대감이 주식시장으로 확산하는 모습이다. 27일 한국거래소에 따르면 나무가는 전 거래일 대비 29.96% 상승한 1만709",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "현대자동차그룹의 휴머노이드 로봇 '아틀라스' 공급망이 공개되면서 관련 부품업체들의 주가가 일제히 급등했다. 카메라 공급사인 나무가와 캠시스가 30% 가까이 치솟고",
+    "thumbnail": "https://img.etnews.com/news/article/2026/10/06/news-p.v1.20261006.21333bebc7b64c098191f10b7c5f6115_P1.jpg",
+    "score": 5.864,
+    "engagement": 0,
+    "matched_keywords": [
+      "휴머노이드",
+      "휴머노이드 로봇"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "이재용, 삼성 미래 먹거리 로봇 사업 챙긴다…RX사업추진실 방문",
+    "url": "https://www.etnews.com/20261027000345",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-10-27T06:02:49+00:00",
+    "raw_excerpt": "이재용 삼성전자 회장이 미래 핵심 성장동력인 로봇 연구개발(R D) 거점을 방문했다. 삼성전자 미래 먹거리인 로봇 사업을 챙기기 위한 행보로 풀이된다. 이 회장은 27일 서울 서초구 우면동 서울 연구개발(R D) 캠퍼스에 위치한 '로봇 경험(RX) 사업추진실'을 방문했다. 이 회장은 삼성전자가 개발 중인 로봇과 기술 내재화 현황을 점검했다. 삼성전자가 내년 1월 'CES 2027'에서 공개 예정인 휴머노이드 로봇 기술 준비 상황을 점검, 확인한",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "이재용 삼성전자 회장이 미래 핵심 성장동력인 로봇 연구개발(R D) 거점을 방문했다. 삼성전자 미래 먹거리인 로봇 사업을 챙기기 위한 행보로 풀이된다. 이 회장은",
+    "thumbnail": "https://img.etnews.com/news/article/2026/10/26/news-p.v1.20261026.7d97558e68dc4b5586d39c1d85095088_P1.jpg",
+    "score": 5.814,
+    "engagement": 0,
+    "matched_keywords": [
+      "휴머노이드",
+      "휴머노이드 로봇"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "자동차 리스·렌트 플랫폼 ‘차즘’ 운영사, 중기부 스케일업 팁스 선정",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=676804",
+    "source": "블로터",
+    "source_type": "rss",
+    "published_at": "2026-10-27T13:15:54+00:00",
+    "raw_excerpt": "자동차 리스·렌트 플랫폼 차즘(Chazm)을 운영하는 디자인앤프랙티스가 중소벤처기업부의 ‘스케일업 팁스(Scale-up TIPS)’에 최종 선정됐다고 27일 밝혔다.스케일업 팁스는 민간 투자사가 성장 가능성이 높은 기업에 먼저 투자하고 추천하면, 정부가 연구개발(R D)을 연계 지원하는 프로그램이다.디자인앤프랙티스는 이번 선정을 계기로 자동차금융 서비스에 적용되는 AI 기술과 이를 안전하게 운영하기 위한 정보보안 체계를 함께 고도화할 계획이다. 실제 고객 상담과 계약 과정에서 활용하고 있는 AI 에이전트 ‘차즘이’의 업무 범위를 확",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "자동차 리스·렌트 플랫폼 차즘(Chazm)을 운영하는 디자인앤프랙티스가 중소벤처기업부의 ‘스케일업 팁스(Scale-up TIPS)’에 최종 선정됐다고 27일 밝혔",
+    "thumbnail": "https://cdn.bloter.net/news/thumbnail/202610/676804_290913_3143_v150.jpg",
+    "score": 5.639,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처",
+      "스케일업"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "쿤텍 \"공격보다 빠른 탐지·대응 도울 것\"",
+    "url": "https://zdnet.co.kr/view/?no=20261027125748",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-10-27T06:35:52+00:00",
+    "raw_excerpt": "[지디넷코리아]방혁준 쿤텍 대표가 27일 \"인공지능(AI) 에이전트는 너무 열심히 일하는데, 누구를 위해 일하는지 알 수 없다는 점이 문제\"라고 짚었다. 그러면서 인공지능(AI) 모델 도입, 에이전트 운영, 데이터 활용 단계별 보안 전략을 공개하고 공격자보다 빠른 탐지와 대응을 돕겠다고 말했다.쿤텍은 이날 서울 서초구 엘타워에서 기자간담회를 열고 평균 가시화 시간(MTTV), 평균 탐지 시간(MTTD), 평균 대응 시간(MTTR)을 핵심 지표로 제시했다. 방 대표는 \"완벽한 보안 시스템은 비용이 막대하고 사실상 불가능하다\"며 \"제시한 3가지 시간을 세계에서 가장 짧게 만드는 게 목표\"라고 설명했다.AI 이용으로 공격 속도는 이미 빨라졌다. 크라우드스트라이크의 '2026 글로벌 위협 보고서'에 따르면 2025년 공격자가 침투한 뒤 내부로 확산하기까지 평균 29분, 가장 빠른 사례는 27초가 걸렸다. AI를 쓴 공격은 전년보다 89% 늘었다. 방 대표는 \"하지만 기업이 침해를 파악하고 차단하는 데 200일 넘게 걸린다는 조사 결과는 대응의 한계를 보여준다\"고 덧붙였다.직원이 쓰는 AI 에이전트를 회사가 파악하지 못하는 '섀도 AI'도 위험 요인이다. 방 대표는 쿤텍 직원 100여 명이 각자 쓰는 에이전트도 회사가 모두 알기 어렵다고 말했다. IBM 조사에서는 조직 다섯 곳 중 한 곳이 섀도 AI 때문에 침해사고를 겪었다고 짚었다.방 대표",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "[지디넷코리아]방혁준 쿤텍 대표가 27일 \"인공지능(AI) 에이전트는 너무 열심히 일하는데, 누구를 위해 일하는지 알 수 없다는 점이 문제\"라고 짚었다. 그러면서",
+    "thumbnail": "https://image.zdnet.co.kr/2026/10/27/e1792f9b8cae982d401e6d2c8260ed26.jpg",
+    "score": 5.264,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "제약·바이오업계, CVC 투자 R&D 실적으로 인정 요구",
+    "url": "https://www.etnews.com/20261027000309",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-10-27T07:00:00+00:00",
+    "raw_excerpt": "국내 제약·바이오 기업들이 기업형 벤처캐피털(CVC)을 통해 외부 신약 개발에 투자한 자금은 정부의 연구개발(R D) 실적 집계에서 제외된다. 정부가 R D 의무 기준을 높인 상황에서 기업이 쓴 돈을 어디까지 연구개발로 인정할 것인지를 두고 제도 개선이 필요하다는 목소리가 커지고 있다. 27일 업계에 따르면 국내 제약·바이오 기업들은 기업형 벤처캐피털(CVC)을 통한 외부 투자를 연구개발(R D) 실적으로 인정해 달라는 제도 개선을 요구하고 있",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "국내 제약·바이오 기업들이 기업형 벤처캐피털(CVC)을 통해 외부 신약 개발에 투자한 자금은 정부의 연구개발(R D) 실적 집계에서 제외된다. 정부가 R D 의무",
+    "thumbnail": "https://img.etnews.com/news/article/2026/10/27/news-p.v1.20261027.01c49ca7de7945278d8fee50b7b8fed3_Z1.png",
+    "score": 5.124,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "수산세보틱스, 정석현 회장 대표 복귀...그룹 승계 중 경영 전면에",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=676855",
+    "source": "블로터",
+    "source_type": "rss",
+    "published_at": "2026-10-27T16:00:08+00:00",
+    "raw_excerpt": "수산그룹 창업주 정석현 회장이 수산세보틱스 대표이사로 복귀했다. 2024년 3월 대표직에서 물러난 지 2년7개월 만이다. 그룹 차원에서 경영권 승계가 진행 중인 가운데 정 회장이 다시 주요 계열사 경영 전면에 나섰다는 점에서 눈길을 끈다. 한때 부자 경영서 사위 체제로…잇단 대표 변경27일 금융감독원 전자공시시스템에 따르면 수산세보틱스는 23일 정석현 수산그룹 회장을 각자 대표이사로 선임했다. 이에 따라 기존에 단독대표를 맡았던 사위 김병현 대표와 장인인 정 회장이 함께 회사를 이끌게 됐다. 김 대표는 정 회장의 장녀 정은아 수산I",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "수산그룹 창업주 정석현 회장이 수산세보틱스 대표이사로 복귀했다. 2024년 3월 대표직에서 물러난 지 2년7개월 만이다. 그룹 차원에서 경영권 승계가 진행 중인",
+    "thumbnail": "https://cdn.bloter.net/news/thumbnail/202610/676855_290979_2313_v150.jpg",
+    "score": 5.118,
+    "engagement": 0,
+    "matched_keywords": [
+      "창업"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "인천공항시설관리, 업무연속성 국제표준 ‘ISO 22301’ 인증 획득",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=50070",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-27T15:24:42+00:00",
+    "raw_excerpt": "[스마트타임스]인천공항시설관리는 지난 26일 중소벤처기업인증원(KOSRE)으로부터 비즈니스연속성경영시스템(BCMS) 국제표준인 ‘ISO 22301’ 인증서와 현판을 수여받았다고 27일 밝혔다.ISO 22301은 국제표준화기구(ISO)가 제정한 업무연속성 관리 분야 국제표준이다. 재난·사고 등으로 업무가 중단될 위기에 처했을 때 조직이 핵심 업무를 지속하고 신속하게 복구할 수 있는 관리체계를 갖췄는지 평가한다.인천국제공항공사의 자회사인 인천공항시설관리는 공항 주요 시설물의 유지관리를 전담한다. 회사는 24시간 운영되는 공항의 특성을",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "[스마트타임스]인천공항시설관리는 지난 26일 중소벤처기업인증원(KOSRE)으로부터 비즈니스연속성경영시스템(BCMS) 국제표준인 ‘ISO 22301’ 인증서와 현판",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202610/50070_49129_2423_v150.jpg",
+    "score": 5.084,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "신한금융, 3Q 선방에 자본비율 올라도…롯데손보 정상화 여부에 촉각",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=676833",
+    "source": "블로터",
+    "source_type": "rss",
+    "published_at": "2026-10-27T14:55:50+00:00",
+    "raw_excerpt": "신한금융그룹이 올해 3분기 자본비율을 높이며 롯데손해보험 인수와 대규모 주주환원을 병행할 여력을 넓혔다. 위험가중자산(RWA)이 약 5조8000억원 줄면서 보통주자본(CET1)비율이 13.62%로 상승한 덕분이다. 롯데손보 인수대금 지급에 따른 자본비율 하락 폭은 0.19%p로 추정된다.그러나 인수 이후 보험사의 재무건전성을 개선하고 신한EZ손해보험과 통합하는 데 필요한 추가 자본은 별개다. 연간 약 3조원의 주주환원과 기업금융 확대까지 추진하는 만큼 늘어나는 자본 수요를 어떻게 감당할지가 관건이다.27일 신한금융의 3분기 실적 발",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "신한금융그룹이 올해 3분기 자본비율을 높이며 롯데손해보험 인수와 대규모 주주환원을 병행할 여력을 넓혔다. 위험가중자산(RWA)이 약 5조8000억원 줄면서 보통주",
+    "thumbnail": "https://cdn.bloter.net/news/thumbnail/202610/676833_290935_2049_v150.jpg",
+    "score": 5.057,
+    "engagement": 0,
+    "matched_keywords": [
+      "rwa"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "불리시 토큰 연합에 QRT·버탈로·제로해시 합류",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/427917",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-10-27T07:37:08+00:00",
+    "raw_excerpt": "불리시(Bullish, BLSH)와 이퀴니티가 만든 발행사 주도 토큰 연합에 Qube Research Technologies(QRT), 버탈로(Vertalo), 제로해시(zerohash)가 합류했다. 연합은 발행사와 주주의 관계를 유지하면서 토큰화 증권을 블록체인에서 다루기 위한 기준과 인프라를 마련하는 것을 목표로 한다. 불리시와 이퀴니티는 26일 발표문에서 세 회사의 참여를 알렸다. 발표문은 QRT를 주식·파생상품·디지털자산을 다루는 계량투자 회사로, 버탈로를 미국 증권거래위원회(SEC)에 등록된 명의개서 대행사로 소개했다. 제로해시는 금융회사에 디지털자산 인프라를 제공한다. 발행사 주도 방식은 토큰화 증권을 발행사와 주주의 관계를 유지하면서... 더보기",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "불리시(Bullish, BLSH)와 이퀴니티가 만든 발행사 주도 토큰 연합에 Qube Research Technologies(QRT), 버탈로(Vertalo),",
+    "thumbnail": "https://f1.tokenpost.kr/2026/10/rbpwhrlst1.jpg",
+    "score": 4.73,
+    "engagement": 0,
+    "matched_keywords": [
+      "블록체인",
+      "토큰화"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "LGU+ \"통합 플랫폼 U+one, 8월 MAU 최고치 기록\"",
+    "url": "https://zdnet.co.kr/view/?no=20261027153004",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-10-27T06:50:31+00:00",
+    "raw_excerpt": "[지디넷코리아]LG유플러스는 통합 가입자 응대 플랫폼 유플러스원(U+one)이 출시 후 지난 8월 월간활성이용자 수(MAU) 최고치인 약 610만명을 기록했다고 27일 밝혔다.고객센터와 멤버십 앱 통합 전인 지난해 10월 대비 약 20%, 출시 직후인 지난해 11월 대비 2배 이상 증가한 수치다.이용자 증가 주요 원인으로 AI 기반 업무 처리와 콘텐츠, 멤버십 강화가 꼽힌다.대표 기능 AI 검색은 일상적인 표현으로 요금이나 미납 여부 등 정보를 쉽게 찾을 수 있도록 고도화됐다. 최근엔 로밍 상품 추천과 가입, 요금 납부 등 대화 안에서 직접 업무를 처리하는 AI 에이전트로 발전하고 있다.통신 업무가 없을 때도 찾는 콘텐츠, 멤버십 페이지인 플러스(+)는 전문 협력사와 참여형 콘텐츠 확대에 힘입어 월 이용자가 출시 초기보다 2배 이상 늘었다.이 같은 혁신에 힘입어 LG유플러스는 디지털고객경험지수(DCXI) 이동통신 부문 3년 연속 1위를 차지했으며, 플러스는 ICT 어워드 코리아 2026에서 플래티넘상을 받았다.강진욱 LG유플러스 모바일디지털사업그룹장은 “앞으로 초개인화를 통해 가입자가 직접 찾아야 하는 불편을 더욱 줄이고, 필요한 순간 AI가 먼저 제안하고 실행까지 연결하는 경험을 제공하겠다”고 말했다.",
+    "topic": "personal_ai_agent",
+    "topic_label": "🧑‍💼 개인 AI 에이전트 · 금융비서",
+    "summary": "[지디넷코리아]LG유플러스는 통합 가입자 응대 플랫폼 유플러스원(U+one)이 출시 후 지난 8월 월간활성이용자 수(MAU) 최고치인 약 610만명을 기록했다고",
+    "thumbnail": "https://image.zdnet.co.kr/2026/10/27/2cfca61bbffe3b08827b805d076e5460.jpg",
+    "score": 4.602,
+    "engagement": 0,
+    "matched_keywords": [
+      "초개인화"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "KTL, 전남권 산업 혁신 지원 본격화…광양분소 개소",
+    "url": "https://zdnet.co.kr/view/?no=20261027154617",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-10-27T06:46:17+00:00",
+    "raw_excerpt": "[지디넷코리아]한국산업기술시험원(KTL·원장 김선기)은 전남권 산업기술 혁신 지원을 본격화하기 위해 KTL 광양분소를 개소했다고 27일 밝혔다.KTL 광양분소는 산업통상부의 ‘산업공정부산물의 탄소중립 전환 재자원화 기술 실증지원센터 구축사업’을 기반으로 조성됐다. 연면적 약 2490m² 규모로 유가금속 추출·소재화 장비, 재자원화 소재 초정밀 분석장비 등 기술 실증과 품질평가를 위한 시험평가 장비 19종을 갖췄다.이 사업은 광양만권의 철강·금속·석유화학 산업에서 발생하는 공정부산물 재자원화 기술 실증과 시험평가, 기업 기술지원을 통해 자원순환을 촉진하고 산업계 탄소중립 전환을 지원하기 위해 추진됐다.KTL은 비활성 촉매 등 산업공정부산물을 단순히 처리·폐기하는 방식에서 벗어나 유용자원으로 재활용할 수 있도록 재자원화 기술 실증과 제품 품질평가, 시험인증 지원체계를 구축하고 관련 기업의 기술개발과 사업화를 지원할 계획이다.또 지역의 산업적 특성과 KTL이 보유한 시험·평가·인증 역량을 연계해 산업공정부산물 재자원화와 탄소중립은 물론, 철강·금속 산업의 인공지능 전환(AX)까지 아우르는 지역 산업 전환을 지원한다.KTL은 전남광주통합특별시와 광양시·대학·연구기관·기업 등 지역 혁신주체와 협력을 확대해 광양분소를 기술개발과 실증, 시험평가, 인증 및 사업화를 연계하는 전남권 산업기술 혁신 거점으로 육성할 계획이다.김선기 KTL 원장은 “친",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "[지디넷코리아]한국산업기술시험원(KTL·원장 김선기)은 전남권 산업기술 혁신 지원을 본격화하기 위해 KTL 광양분소를 개소했다고 27일 밝혔다.KTL 광양분소는",
+    "thumbnail": "https://image.zdnet.co.kr/2026/10/27/a6914a251d2cc773a64840648f802ad6.jpg",
+    "score": 4.598,
+    "engagement": 0,
+    "matched_keywords": [
+      "ax"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "하드월렛 제조사 파운데이션, 고객정보 유출 정황…피싱 공격 조사",
+    "url": "https://zdnet.co.kr/view/?no=20261027143218",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-10-27T06:12:27+00:00",
+    "raw_excerpt": "[지디넷코리아]글로벌 하드웨어 월렛 제조사 파운데이션이 이용자 정보 유출 가능성을 확인하고 조사에 착수했다. 공격자는 이용자 실제 개인정보를 악용해 가상자산 지갑(월렛)의 복구(시드) 문구를 탈취하려 한 것으로 나타났다.파운데이션은 26일(현지시간) 온라인 커뮤니티 레딧을 통해 회사 이메일 시스템에서 자사 이용자를 대상으로 2만 3000건 이상 피싱 이메일 발송 시도를 확인했다고 밝혔다.공격자는 파운데이션이 보낸 공식 안내 메일인 것처럼 위장해 이용자가 외부 웹사이트에 지갑 복구 문구를 입력하도록 유도했다. 복구 문구는 이용자가 지갑을 분실하거나 기기가 고장 났을 때 가상자산을 복구하는 데 사용하는 일련 단어다.다만 파운데이션은 이번 사건으로 자사 하드웨어 월렛 '패스포트 코어(Passport Core)', '패스포트 프라임(Passport Prime)'과 여기에 보관된 개인키가 침해됐다는 증거는 발견하지 못했다고 밝혔다. 하드웨어 월렛은 가상자산을 관리하는 개인키를 인터넷과 분리된 기기에 보관하는 장치다.아울러 회사 측은 실제 개인정보가 유출된 고객 수는 아직 파악하지 못했으며, 정확한 피해 규모를 조사하고 있다고 설명했다.개인정보 노출 원인 중 하나로는 과거 온라인 쇼핑몰에 남아 있던 고객정보가 지목됐다.파운데이션은 올해 5월까지 전자상거래 플랫폼 우커머스(WooCommerce)를 이용해 온라인 쇼핑몰을 운영했다. 당시 회사는 제",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[지디넷코리아]글로벌 하드웨어 월렛 제조사 파운데이션이 이용자 정보 유출 가능성을 확인하고 조사에 착수했다. 공격자는 이용자 실제 개인정보를 악용해 가상자산 지갑",
+    "thumbnail": "https://image.zdnet.co.kr/2026/02/19/d6cf24e5abcb50e7ba8868cacb4a412a.png",
+    "score": 4.567,
+    "engagement": 0,
+    "matched_keywords": [
+      "가상자산"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "10월 27일 퇴근길 팟캐스트 — 영국 FCA 인가 신청 접수 시작, 비트코인 ETF 1.1억달러 유입 속 시장 약세",
+    "url": "https://www.tokenpost.kr/news/insights/427912",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-10-27T07:52:10+00:00",
+    "raw_excerpt": "영국 금융행위감독청 FCA가 가상자산 사업자 인가 신청 접수를 시작했다. 2027년 10월 새 규제 체계 시행을 앞두고 심사 절차가 본격화됐다는 점에서, 오늘 시장에서는 가격보다 제도권 진입 경로가 더 분명해진 사건으로 읽힌다.사업자는 2027년 2월 28일까지 신청해야 하고, 신청서 제출만으로 인가가 확정되지는 않는다. 다만 규제 시행 전에 심사를 진행하겠다는 방침이 제시되면서 유럽과 영국권 사업자들은 미리 규정 적합성을 점검해야 하는 국면에 들어갔다.시장 충격 반응이런 가운데 비트코인은 24시간 기준 7만9471달러로 0.77% 하락했고, 이더리움은 2300달러로 0.88% 내렸다. 하락 폭은 크지 않았지만 규제 이슈와 자금 재배치가... 더보기",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "영국 금융행위감독청 FCA가 가상자산 사업자 인가 신청 접수를 시작했다. 2027년 10월 새 규제 체계 시행을 앞두고 심사 절차가 본격화됐다는 점에서, 오늘 시",
+    "thumbnail": "https://f1.tokenpost.kr/2026/10/oxlcu9hges.jpg",
+    "score": 4.142,
+    "engagement": 0,
+    "matched_keywords": [
+      "가상자산"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "B2Prime launches Claude connector for AI-assisted market research",
+    "url": "https://www.finextra.com/pressarticle/111441/b2prime-launches-claude-connector-for-ai-assisted-market-research?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-10-26T15:03:00+00:00",
+    "raw_excerpt": "B2Prime Group, a global financial services provider, has launched its own connector in Claude’s directory, allowing users to access market intelligence and trading analytics through an AI assistant.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "B2Prime Group, a global financial services provider, has launched its own connector in Cla",
+    "thumbnail": "",
+    "score": 2.751,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "evening"
+  }
+]
