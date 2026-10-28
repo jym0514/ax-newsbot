@@ -1,0 +1,663 @@
+[
+  {
+    "title": "Google opens Android development to third-party AI agents and unveils new Gemini APIs",
+    "url": "https://the-decoder.com/google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-10-28T16:59:59+00:00",
+    "raw_excerpt": "Google is opening up Android Studio to third-party AI agents. Through a new \"Bring Your Own Agent\" feature, the IDE now supports more than 40 coding agents, including Anthropic's Claude Agent and OpenAI's Codex. Google says new terminal tools also help agents finish UI tasks 77 percent faster while using up to three times fewer tokens. Android development is becoming agent-centric too. The article Google opens Android development to third-party AI agents and unveils new Gemini APIs appeared first on The Decoder .",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Google is opening up Android Studio to third-party AI agents. Through a new \"Bring Your Ow",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/05/Android-Robot-Logo-Background-Nano-Banana-Pro.jpg",
+    "score": 7.045,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "gemini",
+      "codex"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Why Agents Love Supabase",
+    "url": "https://latent.space/p/supabase/",
+    "source": "Latent Space (swyx)",
+    "source_type": "substack",
+    "published_at": "2026-10-28T19:48:05+00:00",
+    "raw_excerpt": "Paul Copplestone and Ant Wilson on building the backend for AI agents",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Paul Copplestone and Ant Wilson on building the backend for AI agents",
+    "thumbnail": "https://i.ytimg.com/vi/zHG6sAss_kE/maxresdefault.jpg",
+    "score": 6.604,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "스페인 4위 은행, AI 에이전트 전사 도입…도이치텔레콤과 손잡고 기술 종속 없는 금융 AI 구축",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42472",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-10-28T22:07:03+00:00",
+    "raw_excerpt": "스페인 4위 은행이 인공지능(AI) 에이전트를 은행 업무 전반에 도입하기 위해 유럽 통신·클라우드 기업과 손잡았다. 단일 AI 모델이나 클라우드 사업자에 종속되지 않는 개방형 기술 구조를 채택하고, 금융기관이 데이터와 핵심 시스템에 대한 통제권을 유지하는 소버린 AI(Sovereign AI) 전략을 추진한다.스페인 금융그룹 방코 사바델(Banco Sabadell)은 28일(현지시간) 독일 도이치텔레콤(Deutsche Telekom) 그룹의 디지털 서비스 계열사 T시스템즈(T-Systems)와 에이전틱 AI(Agentic AI)의 전",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "스페인 4위 은행이 인공지능(AI) 에이전트를 은행 업무 전반에 도입하기 위해 유럽 통신·클라우드 기업과 손잡았다. 단일 AI 모델이나 클라우드 사업자에 종속되지",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202610/42472_63843_635_v150.jpg",
+    "score": 6.58,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic",
+      "agentic ai",
+      "에이전트",
+      "에이전틱",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+    "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-10-28T19:19:58+00:00",
+    "raw_excerpt": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/claude-enterprise-social-smartreports-five-beats-gray200-animated-1080x608-v032.gif?w=1080",
+    "score": 6.381,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "구글, 1년 만에 AI 성능 평가 1위 탈환…'제미나이 4 카본' 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216768",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-29T05:22:15+00:00",
+    "raw_excerpt": "구글이 1년 만에 AI 모델 종합 성능 평가에서 세계 1위를 탈환했다. 새로 공개한 '제미나이 4 카본(Gemini 4 Carbon)'은 아티피셜 애널리시스(AA) 평가에서 앤트로픽의 '클로드 오퍼스 5.5'와 오픈AI의 'GPT-6 아스트라'를 제치고 정상에 올랐다. 특히 사이버 보안과 장시간 자율 작업 능력을 대폭 개선했으며, 복잡한 소프트웨어의 취약점을 찾아내고 공격 가능성을 검증한 뒤 수정하는 작업에서 최고 수준의 성능을 기록했다.구글 딥마인드는 28일(현지시간) 공식 블로그를 통해 플래그십 모델인 제미나이 4 카본을 발표했",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "구글이 1년 만에 AI 모델 종합 성능 평가에서 세계 1위를 탈환했다. 새로 공개한 '제미나이 4 카본(Gemini 4 Carbon)'은 아티피셜 애널리시스(AA",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216768_220922_2757.png",
+    "score": 6.221,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai",
+      "딥마인드"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "OpenAI teases Dots for Europe, but its Berlin DevDay was really about building a platform",
+    "url": "https://the-decoder.com/openai-teases-dots-for-europe-but-its-berlin-devday-was-really-about-building-a-platform/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-10-28T16:25:02+00:00",
+    "raw_excerpt": "At DevDay Exchange in Berlin, OpenAI mostly repeated what it had already announced, but it did share a few new details. The AI assistant Dots should roll out more widely in Europe \"in a few weeks,\" and weekly Codex users in Germany have grown twentyfold since January. A clear subtext ran through the sessions and the repeated nods to ChatGPT's 1.2 billion weekly users: OpenAI wants developers to build their businesses directly on its infrastructure. The article OpenAI teases Dots for Europe, but its Berlin DevDay was really about building a platform appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "At DevDay Exchange in Berlin, OpenAI mostly repeated what it had already announced, but it",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/OpenAI-DevDay-Exchange-2026.png",
+    "score": 6.18,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Gemini 4 Carbon: Our next frontier model",
+    "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+    "source": "Google DeepMind",
+    "source_type": "rss",
+    "published_at": "2026-10-28T17:00:58+00:00",
+    "raw_excerpt": "",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Gemini 4 Carbon: Our next frontier model",
+    "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png",
+    "score": 5.887,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.2,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+    "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-10-28T20:03:00+00:00",
+    "raw_excerpt": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind. The new Gemini 4 Carbon model offers improvements over [ ]",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gain",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK255_Google_Gemini_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "score": 5.846,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "gemini"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Legora is building the agentic operating system for legal work",
+    "url": "https://openai.com/index/legora",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-10-28T09:30:00+00:00",
+    "raw_excerpt": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expan",
+    "thumbnail": "",
+    "score": 5.767,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Google Deepmind releases Gemini 4 Carbon just two weeks after Argon with gains across the board",
+    "url": "https://the-decoder.com/google-deepmind-releases-gemini-4-carbon-just-two-weeks-after-argon-with-gains-across-the-board/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-10-28T19:17:58+00:00",
+    "raw_excerpt": "Just two weeks after Gemini 4 Argon, Google DeepMind is releasing Gemini 4 Carbon, which tops the Artificial Analysis Intelligence Index v5 with 59 points. Google says the model is built for extended agent workflows and the full cyber defense lifecycle. Because of those advanced security capabilities, access is limited to selected security experts at first. The article Google Deepmind releases Gemini 4 Carbon just two weeks after Argon with gains across the board appeared first on The Decoder .",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Just two weeks after Gemini 4 Argon, Google DeepMind is releasing Gemini 4 Carbon, which t",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/gemini_4_argon-2.png",
+    "score": 5.554,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "AI 상담원, 답변 넘어 고객 업무까지 직접 처리…플래티어·GS네오텍, 에이전틱 AICC 공동 개발",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42465",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-10-28T17:09:28+00:00",
+    "raw_excerpt": "고객의 질문에 답하는 수준을 넘어 인공지능(AI)이 기업 내부 시스템에 접속해 정보 조회와 변경, 신청 업무까지 직접 처리하는 차세대 인공지능 컨택센터(AICC) 구축이 추진된다. 상담과 실제 업무 처리를 하나의 과정으로 연결하는 에이전틱 AI(Agentic AI) 기술을 적용해 기존 챗봇·콜봇 중심의 고객 서비스 체계를 고도화하겠다는 구상이다.기업용 AI 플랫폼 기업 플래티어(대표 이상훈)는 AI·클라우드 전문기업 GS네오텍(대표 남기정)과 '에이전틱 AICC' 공동 솔루션 개발 및 사업화를 위한 업무협약(MOU)을 체결했다고 2",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "고객의 질문에 답하는 수준을 넘어 인공지능(AI)이 기업 내부 시스템에 접속해 정보 조회와 변경, 신청 업무까지 직접 처리하는 차세대 인공지능 컨택센터(AICC)",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202610/42465_63831_840_v150.jpg",
+    "score": 5.132,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic",
+      "agentic ai",
+      "에이전틱"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
+    "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-10-28T13:00:00+00:00",
+    "raw_excerpt": "In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leaders is almost here.",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on Novemb",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800",
+    "score": 5.12,
+    "engagement": 0,
+    "matched_keywords": [
+      "startup"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "DTCC tokenisation service goes live",
+    "url": "https://www.finextra.com/pressarticle/111494/dtcc-tokenisation-service-goes-live?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-10-28T18:01:00+00:00",
+    "raw_excerpt": "The Depository Trust Company (DTC), a subsidiary of The Depository Trust & Clearing Corporation (DTCC), the premier post-trade market infrastructure for the global financial services industry, today launched the DTCC Tokenization Service (DTS).",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "The Depository Trust Company (DTC), a subsidiary of The Depository Trust & Clearing Corpor",
+    "thumbnail": "",
+    "score": 4.969,
+    "engagement": 0,
+    "matched_keywords": [
+      "tokenization"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "애플, 16년 만에 터치스크린 맥북 출시…스티브 잡스의 원칙 뒤집었다",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216769",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-29T06:09:36+00:00",
+    "raw_excerpt": "애플이 창사 이래 처음으로 터치스크린을 탑재한 맥북 프로를 공개했다. 스티브 잡스 창업자가 2010년 노트북 터치스크린을 강하게 비판한 이후 16년 만에 기존 입장을 바꾼 것이다. 새로운 맥북 프로는 OLED 디스플레이와 아이폰의 '다이내믹 아일랜드'까지 도입하고, 화면을 손가락으로 조작할 수 있도록 운영체제도 개선했다.애플은 28일(현지시간) 미국 로스앤젤레스에서 신제품 발표 행사를 열고 '프로LED XDR(PROLED XDR)' 디스플레이를 탑재한 14인치와 16인치 맥북 프로를 공개했다. 가격은 14인치 M5 프로 모델이 28",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "애플이 창사 이래 처음으로 터치스크린을 탑재한 맥북 프로를 공개했다. 스티브 잡스 창업자가 2010년 노트북 터치스크린을 강하게 비판한 이후 16년 만에 기존 입",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216769_220923_243.png",
+    "score": 4.964,
+    "engagement": 0,
+    "matched_keywords": [
+      "창업"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "액시엄, 수학 사상 가장 긴 증명 '유한 단순군 분류' 기계 검증 완수",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=216754",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-10-28T17:35:00+00:00",
+    "raw_excerpt": "수학 AI 전문 스타트업 액시엄(Axiom)이 수학 역사상 가장 방대하고 복잡한 증명으로 꼽히는 '유한 단순군 분류(CFSG·Classification of Finite Simple Groups)'의 전체 증명을 컴퓨터로 검증하는 데 성공했다. '대칭의 주기율표'로 불리는 이 거대한 체계는 약 100명의 수학자가 500편이 넘는 논문과 1만5000페이지에 걸쳐 완성한 것으로, 액시엄은 이를 AI 에이전트와 증명 보조 도구로 재구성하고 기존 문헌에서 발견한 오류와 누락된 가정까지 바로잡았다.액시엄은 26일(현지시간) 수십개의 AI 에",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "수학 AI 전문 스타트업 액시엄(Axiom)이 수학 역사상 가장 방대하고 복잡한 증명으로 꼽히는 '유한 단순군 분류(CFSG·Classification of Fi",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202610/216754_220903_80.png",
+    "score": 4.933,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "What Should Compliance Leaders Be Asking at Financial Crime Summit London 2026?",
+    "url": "https://www.finextra.com/blogposting/33334/what-should-compliance-leaders-be-asking-at-financial-crime-summit-london-2026?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-10-28T17:00:42+00:00",
+    "raw_excerpt": "Author: A finextra community member",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Author: A finextra community member",
+    "thumbnail": "",
+    "score": 4.906,
+    "engagement": 0,
+    "matched_keywords": [
+      "compliance"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Cybersecurity’s Black October: How to protect yourself",
+    "url": "https://cointelegraph.com/magazine/cybersecuritys-black-october-how-to-protect-yourself?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "source_type": "rss",
+    "published_at": "2026-10-28T13:30:00+00:00",
+    "raw_excerpt": "Each day brings news of another AI-powered attack, or a newly discovered vulnerability. Here’s what’s happening and how ordinary people can protect themselves online.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Each day brings news of another AI-powered attack, or a newly discovered vulnerability. He",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W2T7CFH7Z6NC9XTVMGFV98/magazine-magazine-meet-the-do-good-hackers-brute-forcing.jpg",
+    "score": 4.893,
+    "engagement": 0,
+    "matched_keywords": [
+      "cybersecurity",
+      "vulnerability"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "How Will Tokenisation Transform Cross-Border Payments and Settlement?",
+    "url": "https://www.finextra.com/videoarticle/3631/how-will-tokenisation-transform-cross-border-payments-and-settlement?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-10-28T15:00:00+00:00",
+    "raw_excerpt": "At Sibos 2026, Volante’s Nadish Lad reveals how tokenisation and programmable money will revolutionise cross-border payments and compliance.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "At Sibos 2026, Volante’s Nadish Lad reveals how tokenisation and programmable money will r",
+    "thumbnail": "",
+    "score": 4.78,
+    "engagement": 0,
+    "matched_keywords": [
+      "compliance"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "MoneyGram picks AiPrise for compliance and fraud prevention",
+    "url": "https://www.finextra.com/pressarticle/111489/moneygram-picks-aiprise-for-compliance-and-fraud-prevention?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-10-28T14:33:00+00:00",
+    "raw_excerpt": "AiPrise today announced that MoneyGram, one of the world's leading global payments networks, has selected AiPrise to support compliance and fraud prevention operations across its global network.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "AiPrise today announced that MoneyGram, one of the world's leading global payments network",
+    "thumbnail": "",
+    "score": 4.752,
+    "engagement": 0,
+    "matched_keywords": [
+      "compliance"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Securitize adds Stellar blockchain as institutional tokenization gathers steam",
+    "url": "https://www.coindesk.com/business/2026/10/28/securitize-adds-stellar-blockchain-as-institutional-tokenization-gathers-steam",
+    "source": "CoinDesk",
+    "source_type": "rss",
+    "published_at": "2026-10-28T09:00:00+00:00",
+    "raw_excerpt": "",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "Securitize adds Stellar blockchain as institutional tokenization gathers steam",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/0df058fe321b648948d8a5b690588aaafbb157fe-2048x1152.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "score": 4.405,
+    "engagement": 0,
+    "matched_keywords": [
+      "tokenization"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Zumo and Quantum Chain partner up to fight quantum threats",
+    "url": "https://www.finextra.com/newsarticle/48656/zumo-and-quantum-chain-partner-up-to-fight-quantum-threats?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-10-28T08:00:00+00:00",
+    "raw_excerpt": "Cryptocurrency firm Zumo has joined forces with quantum blockchain platform Quantum Chain in efforts to combat the growing threat of quantum attacks.",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "Cryptocurrency firm Zumo has joined forces with quantum blockchain platform Quantum Chain",
+    "thumbnail": "",
+    "score": 4.342,
+    "engagement": 0,
+    "matched_keywords": [
+      "quantum"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "AMD·메타, AI 인프라 협력 확대...헬리오스 가동·10억 달러 투자",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21827",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-10-28T18:07:05+00:00",
+    "raw_excerpt": "AMD가 메타와 AI 인프라부터 모델 실행 환경, 소프트웨어까지 협력 범위를 넓힌다. AMD의 랙 단위 AI 시스템 ‘헬리오스’가 메타에 설치돼 테스트를 시작했고, 에픽 서버 프로세서는 메타의 개인용 AI 에이전트 ‘뮤즈’를 지원한다. AMD는 메타의 주식 공모에도 10억 달러를 투자할 예정이다.AMD는 27일(현지시간) 메타와의 전략적 파트너십 확대를 발표했다. 양사는 중앙처리장치(CPU)와 그래픽처리장치(GPU), 네트워킹, 시스템, 소프트웨어를 아우르는 협력을 통해 메타의 AI 서비스와 인프라를 지원한다. AMD는 헬리오스 시",
+    "topic": "personal_ai_agent",
+    "topic_label": "🧑‍💼 개인 AI 에이전트 · 금융비서",
+    "summary": "AMD가 메타와 AI 인프라부터 모델 실행 환경, 소프트웨어까지 협력 범위를 넓힌다. AMD의 랙 단위 AI 시스템 ‘헬리오스’가 메타에 설치돼 테스트를 시작했고",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202610/21827_22614_328.jpg",
+    "score": 4.198,
+    "engagement": 0,
+    "matched_keywords": [
+      "뮤즈",
+      "개인용 ai 에이전트"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Formlabs Studio 1 $699 Resin Printer",
+    "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-28T21:19:30+00:00",
+    "raw_excerpt": "Article URL: https://formlabs.com/products/form-studio-1-basic-founders-edition/ Comments URL: https://news.ycombinator.com/item?id=50281044 Points: 54 # Comments: 48",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://formlabs.com/products/form-studio-1-basic-founders-edition/ Comments",
+    "thumbnail": "https://formlabs.com/default_seo_image.jpg",
+    "score": 4.14,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
+    "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-10-28T21:03:24+00:00",
+    "raw_excerpt": "Article URL: https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/ Comments URL: https://news.ycombinator.com/item?id=50280864 Points: 127 # Comments: 42",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-work",
+    "thumbnail": "https://media.wired.com/photos/6ae126cfb5fdd6fa181bb24f/191:100/w_1280,c_limit/Security_Massive%20Leak%20Exposes%2041,000%20DHS%20Employees_v1.jpg",
+    "score": 4.127,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "양자컴퓨터로 생산·물류 최적화…디웨이브·LG CNS 협력",
+    "url": "https://byline.network/2026/10/1028-17/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-10-28T09:38:07+00:00",
+    "raw_excerpt": "웨이브 퀀텀과 LG CNS가 업무협약(MOU)을 체결하고 어닐링 양자 기술과 수학적 최적화 역량을 결합한 산업용 솔루션 개발에 나선다. 양사는 생산 일정 수립과 배송 경로 설정 등 기업의 최적화 문제 해결을 목표로 하며, 통신·신약 개발 분야의 활용 사례와 차세대 게이트 모델 개발 계획도 공개했다. 고려대학교, 서울시·서울대학교 등과 진행해 온 선행 연구를 바탕으로 양자컴퓨팅의 산업 현장 적용을 확대할 계획이다.",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "웨이브 퀀텀과 LG CNS가 업무협약(MOU)을 체결하고 어닐링 양자 기술과 수학적 최적화 역량을 결합한 산업용 솔루션 개발에 나선다. 양사는 생산 일정 수립과",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/10/dwave.jpg",
+    "score": 3.809,
+    "engagement": 0,
+    "matched_keywords": [
+      "양자",
+      "차세대"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Robinhood’s Tenev warns US tokenization uncertainty deters ‘serious assets’",
+    "url": "https://cointelegraph.com/news/robinhoods-tenev-warns-us-tokenization-uncertainty-deters-serious-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "source_type": "rss",
+    "published_at": "2026-10-28T03:55:57+00:00",
+    "raw_excerpt": "Robinhood CEO Vlad Tenev says tokenized equities need more than a temporary SEC exemption to flourish in the US.",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "Robinhood CEO Vlad Tenev says tokenized equities need more than a temporary SEC exemption",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M60AA98877AY8VNQ1K7M74CW/robinhood-1.jpg",
+    "score": 3.679,
+    "engagement": 0,
+    "matched_keywords": [
+      "tokenization"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "토큰화 주식 유통가치 37억4000만달러…한 달 새 17.79% 증가",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/428914",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-10-28T21:48:02+00:00",
+    "raw_excerpt": "토큰화 주식의 온체인 유통가치가 10월 28일 37억4000만달러(약 4조9800억원)를 기록했다. 30일 전보다 17.79% 늘어난 수치다. RWA.xyz는 대시보드에서 이 유통가치를 집계했다. 지표에는 상장 주식과 ETF를 기초로 한 상품이 포함된다. 대시보드에 표시된 보유자 수는 451만이다. 이는 사람 수가 아니라 토큰 보유 지갑 주소 수로, 한 사람이 여러 주소를 쓸 수 있다. 다른 집계 기준도 있다. OnChain Benchmark는 10월 28일 토큰화 주식의 미상환 공급량을 46억달러(약 6조1300억원)로 표시하고 ETF를 별도로 집계했다. 미상환 공급량과 RWA.xyz의 유통가치는 범위가 같다고 확인되지 않아 직접 비교하기 어렵다. 베이스(Base)는 8월 24일... 더보기",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "토큰화 주식의 온체인 유통가치가 10월 28일 37억4000만달러(약 4조9800억원)를 기록했다. 30일 전보다 17.79% 늘어난 수치다. RWA.xyz는 대",
+    "thumbnail": "https://f1.tokenpost.kr/2026/10/exycy8gln6.jpg",
+    "score": 3.176,
+    "engagement": 0,
+    "matched_keywords": [
+      "토큰화",
+      "rwa"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "하나금융, 발달장애 학생 진로탐색 교실 개소",
+    "url": "https://www.fnnews.com/news/202610281835130291",
+    "source": "파이낸셜뉴스 금융",
+    "source_type": "rss",
+    "published_at": "2026-10-28T09:35:55+00:00",
+    "raw_excerpt": "하나금융그룹이 발달장애 학생들의 진로탐색과 사회 진출을 돕기 위해 디지털 직업교육 환경 조성에 나선다. 28일 금융권에 따르면 하나금융은 지난 27일 서울 강남구 밀알학교에서 '디지털 진로탐색 교실' 개소식을 개최했다. 이날 행사에는 함영주 하나금융 회장과 정형석 밀알복지재단 상임대표, 홍재은 밀알학교 교장 등이 참석했다. 이번 사업은 발달장애 학생들이 학교에서 다양한 직업을 미리 체험하고 자신의 적성과 흥미를 발견할 수 있도록 지원하기 위해 마련됐다. 새롭게 조성된 교실에는 음성 대화가 가능한 휴머노이드 로봇과 직업훈련용 가상현실(VR) 기기, 멀티미디어 학습 키오스크, 교육용 판매시점정보관리(POS) 기기, 태블릿PC 등이 설치됐다. 학생들은 디지털 기기를 활용해 가상의 식당과 카페에서 손님 응대와 주문 접수, 계산",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "하나금융그룹이 발달장애 학생들의 진로탐색과 사회 진출을 돕기 위해 디지털 직업교육 환경 조성에 나선다. 28일 금융권에 따르면 하나금융은 지난 27일 서울 강남구",
+    "thumbnail": "https://image.fnnews.com/resource/media/image/2026/10/28/202610281835513474_e.jpg",
+    "score": 3.115,
+    "engagement": 0,
+    "matched_keywords": [
+      "휴머노이드",
+      "휴머노이드 로봇"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "메가존클라우드, 게임업계 AX 공략…AI 거버넌스 전략 앞세운다",
+    "url": "https://zdnet.co.kr/view/?no=20261028175824",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-10-28T08:59:03+00:00",
+    "raw_excerpt": "[지디넷코리아]메가존클라우드가 인공지능(AI) 거버넌스를 앞세워 게임 산업의 AI 전환(AX) 시장 공략에 나섰다. 게임 개발과 서비스 운영에 AI 에이전트 도입이 확대되는 가운데 비용과 보안, 접근 권한 등을 통합 관리하는 체계를 통해 기업의 안정적인 AI 활용을 지원하겠다는 전략이다.메가존클라우드는 지난 27일 경기도 성남시 더블트리 바이 힐튼 서울 판교에서 열린 '게임즈 온 AWS(Games on AWS) 2026'에서 게임 산업의 AI 활용 전략과 기술 혁신 방향을 공유했다고 28일 밝혔다.올해로 13회째를 맞은 이번 행사는 메가존클라우드가 아마존웹서비스(AWS), GS네오텍과 공동 주최했다. 게임업계 관계자 450여 명이 참석해 AI 에이전트와 게임 개발 자동화, 클라우드 인프라 현대화 등 주요 기술 과제와 해결 방안을 논의했다.특히 올해는 'AI 포 게임즈(AI for Games)'를 주제로 AI 에이전트 기반 운영 효율화, AI를 활용한 게임 개발 가속화, 클라우드 네이티브 아키텍처 기반 현대화 등 3개 트랙에서 15개 이상의 세션이 진행됐다. 넥슨과 크래프톤, 카카오게임즈 등 주요 게임사와 기술 기업들이 참여해 AI를 활용한 게임 개발 및 운영 혁신 사례를 소개했다.메가존클라우드는 이번 행사에서 게임 산업의 AI 활용이 본격화될수록 조직 차원의 관리·통제 체계가 중요해진다는 점을 강조했다. AI 에이전트가 개발과 운영 ",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "[지디넷코리아]메가존클라우드가 인공지능(AI) 거버넌스를 앞세워 게임 산업의 AI 전환(AX) 시장 공략에 나섰다. 게임 개발과 서비스 운영에 AI 에이전트 도입",
+    "thumbnail": "https://image.zdnet.co.kr/2026/10/28/0bfc5d55f64556b294630f7fecfa5e03.jpg",
+    "score": 3.092,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직",
+      "ax"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "AP시스템, \"SD옵틱스 전략적 지분 투자\"",
+    "url": "https://zdnet.co.kr/view/?no=20261028175527",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-10-28T08:55:27+00:00",
+    "raw_excerpt": "[지디넷코리아]AP시스템이 초정밀 광학검사 솔루션 업체 SD옵틱스에 전략적 지분 투자를 했다고 28일 밝혔다. AP시스템은 \"SD옵틱스 제3자 배정 유상증자에 참여해 전환우선주(CPS) 신주를 인수하기로 결정했다\"며 \"SD옵틱스 광학 기술을 AP시스템 장비에 내재화하고 신규 시장 개척을 위해 파트너십을 구축하겠다\"고 설명했다. SD옵틱스는 미세전자기계시스템(MEMS) 기반 '미러 어레이 렌즈 기술'(MALS)을 세계 최초로 상용화했다. MALS는 미세거울 배열 움직임을 초고속(1만 2000Hz)으로 제어해 기계 진동 없이 초점을 실시간 변경할 수 있다. 단차가 큰 시료 3D 형상 계측과 초고속 비전 검사에 사용할 수 있다. 자이스 현미경 시스템에 해당 기술이 채택됐고, 반도체 패키징 유리기판과 패키징, 디스플레이 분야 기업에 검사 모듈과 장비를 공급하고 있다. 양사는 ▲차세대 광학 기술 기반 신규 장비 공동 개발·시장 발굴 ▲AP시스템 공정 장비 계측·검사 기능 고도화 ▲영업 네트워크를 활용한 공동 프로모션 등에서 협력한다.신규 독립형 계측·검사장비와 공정·검사 복합장비부터 공동 개발한다. 타깃은 고대역폭메모리(HBM), 팬아웃-패널레벨패키징(FO-PLP), 반도체 유리기판 유리관통전극(TGV) 등 첨단 반도체 패키징 시장이다. AP시스템은 주력인 반도체·디스플레이 장비에 SD옵틱스 MALS 기반 초점 추적·3D 라인 스캔 모듈을 탑",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "[지디넷코리아]AP시스템이 초정밀 광학검사 솔루션 업체 SD옵틱스에 전략적 지분 투자를 했다고 28일 밝혔다. AP시스템은 \"SD옵틱스 제3자 배정 유상증자에 참",
+    "thumbnail": "https://image.zdnet.co.kr/2026/10/28/69de6d39a2b303526bf4b8d6a316151b.png",
+    "score": 3.09,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "3년 미룬 구글·애플 인앱결제 제재…방미통위, 637억 과징금 부과",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=676986",
+    "source": "블로터",
+    "source_type": "rss",
+    "published_at": "2026-10-28T18:04:16+00:00",
+    "raw_excerpt": "방송미디어통신위원회가 구글과 애플의 '인앱결제 강제와 앱 심사 지연' 등 전기통신사업법 위반 행위에 대해 총 637억1000만원의 과징금을 부과하고 업무처리 절차 개선을 포함한 시정명령을 의결했다.2023년 첫 제재 추진 이후 약 3년 만에 확정된 이번 조치가 글로벌 빅테크의 불공정한 거래 관행을 바로잡고 공정한 앱 마켓 생태계를 조성하는 계기가 될지 주목된다. 자사 결제 강제부터 수수료 차별까지…법 개정 후 첫 집행방미통위는 28일 정부과천청사에서 제46차 전체회의를 열고 '앱 마켓 사업자의 전기통신사업법 위반 행위 시정조치 안건",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "방송미디어통신위원회가 구글과 애플의 '인앱결제 강제와 앱 심사 지연' 등 전기통신사업법 위반 행위에 대해 총 637억1000만원의 과징금을 부과하고 업무처리 절차",
+    "thumbnail": "https://cdn.bloter.net/news/thumbnail/202610/676986_291171_2917_v150.jpg",
+    "score": 2.983,
+    "engagement": 0,
+    "matched_keywords": [
+      "빅테크"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "뱅크오브아메리카, 고객에 \"AI 비서에 은행 비밀번호 주지 말라\"",
+    "url": "https://zdnet.co.kr/view/?no=20261028212659",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-10-28T12:26:59+00:00",
+    "raw_excerpt": "[지디넷코리아]미국 대형 은행 뱅크오브아메리카가 고객들에게 AI 비서나 AI 에이전트에 은행 아이디와 비밀번호를 알려 주지 말라고 안내했다. 테크크런치는 현지 시각 10월 27일 뱅크오브아메리카가 'AI 시대의 금융 자산 보호'라는 제목의 이메일을 고객들에게 일괄 발송했다고 보도했다.뱅크오브아메리카는 이메일에서 아이디와 비밀번호를 다른 사람이나 외부 서비스와 공유하지 말라고 당부했으며, 고객 대신 업무를 처리해 주겠다는 AI 도구와 에이전트도 공유 금지 대상에 포함했다. 뱅크오브아메리카는 로그인 정보를 공유하면 그 접근으로 발생한 거래는 고객 책임이라고 밝혔다.테크크런치는 은행 계정 정보를 넘겨받은 AI 에이전트가 고객이 모르는 사이 금융 거래를 실행할 수 있다고 설명했다. 은행이 에이전트의 접속을 계좌 탈취 시도로 판단해 계정을 잠글 수도 있고, AI 비서에 보안 결함이 있으면 로그인 정보가 해커에게 유출될 수도 있다. 테크크런치에 따르면 대부분의 미국 은행 약관도 고객이 로그인 정보를 준 상대의 행위에 대해 고객에게 책임을 묻는다.은행들은 AI가 스스로 물건을 고르고 결제하는 '에이전트 결제'를 어떻게 받아들일지 아직 검토하고 있다. 악시오스도 은행들이 허가받지 않은 AI 에이전트의 고객 계좌 접근 문제로 고심하고 있다고 보도했다. 뱅크오브아메리카는 테크크런치의 논평 요청에 답하지 않았다.자세한 내용은 테크크런치에서 확인할 수 있",
+    "topic": "personal_ai_agent",
+    "topic_label": "🧑‍💼 개인 AI 에이전트 · 금융비서",
+    "summary": "[지디넷코리아]미국 대형 은행 뱅크오브아메리카가 고객들에게 AI 비서나 AI 에이전트에 은행 아이디와 비밀번호를 알려 주지 말라고 안내했다. 테크크런치는 현지 시",
+    "thumbnail": "https://image.zdnet.co.kr/2026/10/28/ai0d13dd204a3adb9bed2a3fc3a5654e1a.jpg",
+    "score": 2.772,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai 비서"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  }
+]
