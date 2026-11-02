@@ -1,0 +1,722 @@
+[
+  {
+    "title": "Goldman Sachs pulls AI coding tools from traders and bankers",
+    "url": "https://the-decoder.com/goldman-sachs-pulls-ai-coding-tools-from-traders-and-bankers/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-11-02T20:00:03+00:00",
+    "raw_excerpt": "Goldman Sachs is pulling AI coding tools like Claude Code and GitHub Copilot from traders and bankers, limiting access to engineers only. As recently as July, CIO Marco Argenti publicly praised \"vibe coding\" by non-technical staff. Now the bank cites \"productivity and risk management\" as the reason for the reversal. The article Goldman Sachs pulls AI coding tools from traders and bankers appeared first on The Decoder .",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Goldman Sachs is pulling AI coding tools like Claude Code and GitHub Copilot from traders",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/goldman_sachs_logo.png",
+    "score": 8.902,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "copilot",
+      "github copilot",
+      "claude code",
+      "vibe coding"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "SpaceXSI apparently cuts Grok Bot quotas weeks after Musk called it his fastest-growing product",
+    "url": "https://the-decoder.com/spacexsi-apparently-cuts-grok-bot-quotas-weeks-after-musk-called-it-his-fastest-growing-product/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-11-02T18:15:39+00:00",
+    "raw_excerpt": "SpaceXSI is apparently cutting usage limits for its AI agent Grok Bot, less than two weeks after Musk called it his fastest-growing product. The operating costs were \"unsustainably high relative to revenue,\" Musk wrote on X. OpenAI and Anthropic are also tightening their flat-rate plans as they grapple with the high costs of AI agents. The article SpaceXSI apparently cuts Grok Bot quotas weeks after Musk called it his fastest-growing product appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "SpaceXSI is apparently cutting usage limits for its AI agent Grok Bot, less than two weeks",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/grok_bot_costs.png",
+    "score": 7.132,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai",
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+    "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-11-02T22:14:50+00:00",
+    "raw_excerpt": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic ac",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/11/Recursive-Neural-Spiral-in-Circuitry.png?resize=1200,600",
+    "score": 6.581,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "OpenAI will merge ChatGPT’s chat and work tabs – here’s when, and what to expect",
+    "url": "https://www.zdnet.com/innovation/openai-merge-chatgpt-chat-work-tabs/",
+    "source": "ZDNet (Global, AI)",
+    "source_type": "rss",
+    "published_at": "2026-11-02T18:01:55+00:00",
+    "raw_excerpt": "On the heels of Anthropic’s similar move, the change will be tested among select users before being rolled out.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "On the heels of Anthropic’s similar move, the change will be tested among select users bef",
+    "thumbnail": "https://www.zdnet.com/wp-content/uploads/sites/3/gpt-4-1-makes-chatgpt-smarter-faster-and-more-useful-for-paying-users-especially-coders_50f228.jpg",
+    "score": 6.291,
+    "engagement": 0,
+    "matched_keywords": [
+      "openai",
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Raising the quality of insights in agentic analytics",
+    "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+    "source": "MIT Tech Review",
+    "source_type": "rss",
+    "published_at": "2026-11-02T17:00:00+00:00",
+    "raw_excerpt": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably b",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Snowflake-Social-Card-2026.png?resize=1200,600",
+    "score": 6.221,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic",
+      "agentic ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Introducing the Grid Protectors Program",
+    "url": "https://openai.com/index/grid-protectors-program",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-11-02T15:00:00+00:00",
+    "raw_excerpt": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses",
+    "thumbnail": "",
+    "score": 6.214,
+    "engagement": 0,
+    "matched_keywords": [
+      "openai"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Nala names Ashraf Aly global head, compliance and risk",
+    "url": "https://www.finextra.com/pressarticle/111539/nala-names-ashraf-aly-global-head-compliance-and-risk?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-11-02T19:09:00+00:00",
+    "raw_excerpt": "We’re excited to share that Ashraf Aly has joined Nala as Global Head of Compliance & Risk. Ashraf will lead compliance and risk across the Nala app and Rafiki, our stablecoin payments infrastructure for banks and enterprises.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "We’re excited to share that Ashraf Aly has joined Nala as Global Head of Compliance & Risk",
+    "thumbnail": "",
+    "score": 5.789,
+    "engagement": 0,
+    "matched_keywords": [
+      "compliance",
+      "stablecoin"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Ford promises not to sell your driving habits to data brokers",
+    "url": "https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-11-02T19:05:46+00:00",
+    "raw_excerpt": "Ford vowed to never sell customer driving data to third-party data brokers as part of a new privacy promise aimed at setting the automaker apart from competitors that have faced legal and regulatory blowback for sharing telematics with data brokers without authorization. As part of its new promise, Ford says it will strive to protect [ ]",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Ford vowed to never sell customer driving data to third-party data brokers as part of a ne",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/26_FRD_BRO_70973_Connectivity_Package_15.jpg?quality=90&strip=all&crop=0%2C9.2765210458939%2C100%2C81.446957908212&w=1200",
+    "score": 5.786,
+    "engagement": 0,
+    "matched_keywords": [
+      "regulatory",
+      "privacy"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+    "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-11-02T19:19:17+00:00",
+    "raw_excerpt": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scrapi",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2024/08/brave-browser.jpg?resize=1200,800",
+    "score": 5.555,
+    "engagement": 0,
+    "matched_keywords": [
+      "perplexity"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Athenahealth patients can ask Claude about their medical records now",
+    "url": "https://www.zdnet.com/health/athenahealth-claude-ai-medical-partnership/",
+    "source": "ZDNet (Global, AI)",
+    "source_type": "rss",
+    "published_at": "2026-11-02T17:30:47+00:00",
+    "raw_excerpt": "The partnership could provide one of the nation’s largest AI companies with a bevy of personal medical data.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "The partnership could provide one of the nation’s largest AI companies with a bevy of pers",
+    "thumbnail": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-484453787.jpg",
+    "score": 5.431,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Samsung’s Privacy Display may be coming to more Galaxy phones – what we know",
+    "url": "https://www.zdnet.com/tech/samsung-privacy-display-galaxy-s27-pro-ultra/",
+    "source": "ZDNet (Global, AI)",
+    "source_type": "rss",
+    "published_at": "2026-11-02T16:52:54+00:00",
+    "raw_excerpt": "Privacy Display on the Galaxy S26 Ultra was a big hit in our hands-on. Now, we may see it roll out to more Galaxy phones.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Privacy Display on the Galaxy S26 Ultra was a big hit in our hands-on. Now, we may see it",
+    "thumbnail": "https://www.zdnet.com/wp-content/uploads/sites/3/3941ba91-eae9-4bcd-845b-782384759cd2.jpg",
+    "score": 5.387,
+    "engagement": 0,
+    "matched_keywords": [
+      "privacy"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Apple’s HomeView may double as security camera – watch out Ring, Nest, and Wyze",
+    "url": "https://www.zdnet.com/home-and-office/apple-homeview-indoor-security-camera/",
+    "source": "ZDNet (Global, AI)",
+    "source_type": "rss",
+    "published_at": "2026-11-02T16:35:32+00:00",
+    "raw_excerpt": "HomeView settings reveal potential video recording and streaming options alongside privacy features.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "HomeView settings reveal potential video recording and streaming options alongside privacy",
+    "thumbnail": "https://www.zdnet.com/wp-content/uploads/sites/3/FF53FBAF-41CE-4124-AAC5-A2D3B7740A9E_1_105_c.jpeg",
+    "score": 5.367,
+    "engagement": 0,
+    "matched_keywords": [
+      "privacy"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+    "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-11-02T16:30:00+00:00",
+    "raw_excerpt": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/11/IMG_3572.jpeg?resize=1200,895",
+    "score": 5.361,
+    "engagement": 0,
+    "matched_keywords": [
+      "world model"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Casap Raises $56 Million for Agentic AI Financial Services",
+    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/casap-raises-56-million-for-agentic-ai-financial-services/",
+    "source": "PYMNTS",
+    "source_type": "rss",
+    "published_at": "2026-11-02T20:40:42+00:00",
+    "raw_excerpt": "Casap, an artificial intelligence agent platform for financial services, has raised $56 million in new funding. The company says its Series B round, announced last week, will help Casap advance its AI platform as it looks to move its focus beyond fraud and disputes to automate other financial services operations. Shanthi Shanmugam, Casap’s co-founder and [ ] The post Casap Raises $56 Million for Agentic AI Financial Services appeared first on PYMNTS.com .",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Casap, an artificial intelligence agent platform for financial services, has raised $56 mi",
+    "thumbnail": "https://www.pymnts.com/wp-content/uploads/2026/11/Casap-Logo-1.jpg?w=457",
+    "score": 5.296,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic",
+      "agentic ai"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Stop counting tokens, start counting what ships",
+    "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+    "source": "MIT Tech Review",
+    "source_type": "rss",
+    "published_at": "2026-11-02T13:10:32+00:00",
+    "raw_excerpt": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/10/iStock-2297734847.jpg?resize=1200,600",
+    "score": 5.133,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai agent"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "The Download: the agentic web arrives and the drive for safer roads",
+    "url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
+    "source": "MIT Tech Review",
+    "source_type": "rss",
+    "published_at": "2026-11-02T13:10:00+00:00",
+    "raw_excerpt": "This is today s edition of The Download, our weekday newsletter that provides a daily dose of what s going on in the world of technology. The agentic web is here In 2001, a decade after inventing the World Wide Web, Tim Berners-Lee articulated a new vision: an internet navigated by autonomous software agents that address our",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "This is today s edition of The Download, our weekday newsletter that provides a daily dose",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MAIN.jpg?resize=1200,600",
+    "score": 5.132,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Qodo builds context into AI code review with Codex",
+    "url": "https://openai.com/index/qodo-codex-plugin",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-11-02T00:00:00+00:00",
+    "raw_excerpt": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0",
+    "thumbnail": "",
+    "score": 4.995,
+    "engagement": 0,
+    "matched_keywords": [
+      "codex"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "AI poses greater threat to Bitcoin than quantum computing, Swan founder says",
+    "url": "https://cointelegraph.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "source_type": "rss",
+    "published_at": "2026-11-02T21:54:41+00:00",
+    "raw_excerpt": "The Swan Bitcoin founder warned that hackers are using large language models to exploit security flaws with just a few prompts.",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "The Swan Bitcoin founder warned that hackers are using large language models to exploit se",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6F047PK32DP192ZJ19H5DWA/hi-who-are-bam2.png",
+    "score": 4.691,
+    "engagement": 0,
+    "matched_keywords": [
+      "quantum"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "tZERO Moves to Take Tokenization Company Public",
+    "url": "https://www.pymnts.com/blockchain/2026/tzero-moves-to-take-tokenization-company-public/",
+    "source": "PYMNTS",
+    "source_type": "rss",
+    "published_at": "2026-11-02T19:25:37+00:00",
+    "raw_excerpt": "Tokenization FinTech tZERO says it is moving to become a publicly traded firm. The company announced Monday (Nov. 2) plans to combine with FG Imperii Acquisition Corp., a special purpose acquisition company (SPAC) in a deal valuing tZERO at $350 million. Upon closing, the company is expected to trade on the New York Stock Exchange [ ] The post tZERO Moves to Take Tokenization Company Public appeared first on PYMNTS.com .",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "Tokenization FinTech tZERO says it is moving to become a publicly traded firm. The company",
+    "thumbnail": "https://www.pymnts.com/wp-content/uploads/2025/07/Wall-Street-tokenization-stocks.png?w=457&quality=82",
+    "score": 4.551,
+    "engagement": 0,
+    "matched_keywords": [
+      "tokenization"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Can't fish Ethernet? Use \"invisible\" fiber instead",
+    "url": "https://momandpop.network/2026/11/02/cant-fish-ethernet-use-invisible-fiber-instead/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-11-02T21:42:18+00:00",
+    "raw_excerpt": "Article URL: https://momandpop.network/2026/11/02/cant-fish-ethernet-use-invisible-fiber-instead/ Comments URL: https://news.ycombinator.com/item?id=50344222 Points: 5 # Comments: 1",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://momandpop.network/2026/11/02/cant-fish-ethernet-use-invisible-fiber-i",
+    "thumbnail": "",
+    "score": 4.159,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "BYD sold more EVs last month than the US did all quarter, topping 300,000",
+    "url": "https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-11-02T21:38:49+00:00",
+    "raw_excerpt": "Article URL: https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-all-quarter/ Comments URL: https://news.ycombinator.com/item?id=50344181 Points: 79 # Comments: 57",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://electrek.co/2026/11/02/byd-sold-more-evs-last-month-than-the-us-did-a",
+    "thumbnail": "https://electrek.co/wp-content/uploads/sites/3/2026/11/BYD-EV-sales-October-record.jpeg?quality=82&strip=all&resize=1200,628",
+    "score": 4.156,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "전문가 AI 프로필 연결하는 슈퍼미, 268억 원 투자 유치",
+    "url": "https://zdnet.co.kr/view/?no=20261102211716",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-11-02T12:17:16+00:00",
+    "raw_excerpt": "[지디넷코리아]전문가의 지식을 바탕으로 AI 프로필을 운영하는 스타트업 슈퍼미가 현지 시각 10월 29일 2,000만 달러(약 268억 원)의 투자를 유치했다. 투자는 벤처캐피털 포러너의 커스틴 그린이 주도했고 그레이록 파트너스가 참여했다.사용자가 질문하면 슈퍼미는 가장 적합한 전문가들의 AI 프로필을 골라 단체 대화방을 개설하고, 프로필들이 함께 답변한다. 예를 들어 투자 유치용 발표 자료를 보여 주며 가장 약한 부분과 대비해야 할 질문을 물으면 메르세데스 벤트와 세라 타벨, 조시 엘먼 등 벤처 투자자의 AI 프로필이 답변한다.특정 전문가의 프로필에 직접 질문하거나 이전 대화방으로 돌아가 추가 질문을 할 수도 있다. AI 프로필은 링크드인과 유튜브, 블로그 등 공개 자료와 구글 드라이브, 노션, 지메일 등 전문가가 연결한 앱의 정보로 구성되며, 슈퍼미는 개인 정보와 영업 비밀이 답변에 노출되지 않도록 관리한다고 밝혔다.AI 서비스와 외부 앱을 연결하는 표준 규격 MCP를 지원해 클로드와 챗GPT 안에서도 슈퍼미에 질문할 수 있다. 슈퍼미는 그럽허브와 핀터레스트 임원 출신 케이시 윈터스와 핀터레스트, 리프트 엔지니어링 책임자 출신 루도 안토노프가 2024년 공동 창업했다. 두 사람은 윈터스가 왓낫에 자문하던 시기에 만나, 챗GPT가 확산되던 무렵 AI 기반 네트워크 사업을 구상했다.그린은 슈퍼미가 \"AI가 사람과 협업하는 플랫폼을 구",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "[지디넷코리아]전문가의 지식을 바탕으로 AI 프로필을 운영하는 스타트업 슈퍼미가 현지 시각 10월 29일 2,000만 달러(약 268억 원)의 투자를 유치했다.",
+    "thumbnail": "https://image.zdnet.co.kr/2026/10/30/ai40c8c721a047e841f9f2bcc0ed7067d3.jpg",
+    "score": 4.116,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업",
+      "벤처",
+      "투자 유치",
+      "창업"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Ballot Rejections Have Soared in Rural Counties as USPS Reduces Mail Service",
+    "url": "https://www.propublica.org/article/mail-ballot-delays-postal-service-midterms",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-11-02T18:48:00+00:00",
+    "raw_excerpt": "Article URL: https://www.propublica.org/article/mail-ballot-delays-postal-service-midterms Comments URL: https://news.ycombinator.com/item?id=50341616 Points: 48 # Comments: 20",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://www.propublica.org/article/mail-ballot-delays-postal-service-midterms",
+    "thumbnail": "https://www.propublica.org/wp-content/uploads/2026/10/RuralVotingBallots-Bose7021_preview_maxWidth_3000_maxHeight_3000_ppi_72_embedColorProfile_true_quality_95.jpg?resize=2000,1334",
+    "score": 4.014,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "고석태 제논 대표 “현장 경험 쌓는 피지컬 AI, 실무 투입에 집중할 것”",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21853",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-11-02T11:00:08+00:00",
+    "raw_excerpt": "제논은 지난달 29일 서울 웨스틴 조선호텔에서 기업 관계자 40여 명을 초청해 피지컬 AI 적용 사례와 운영 전략을 공유하는 세미나를 개최했다고 2일 밝혔다. ‘현장 인텔리전스의 대전환 : 실증을 넘어 통합 운용으로’를 주제로 열린 이번 행사에서는 산업별 로봇 활용 사례와 여러 장치를 하나의 체계로 관리하는 기술 방향이 소개됐다. 제논은 시니어케어 현장에서 검증을 진행한 휴머노이드 ‘젠피’를 생활케어와 고객 접점 업무 등으로 확대하고 있다. 행사에서 김소희 제논 사업개발그룹 상무는 돌봄 분야 적용 사례를 발표했고, 유광명 R D그룹",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "제논은 지난달 29일 서울 웨스틴 조선호텔에서 기업 관계자 40여 명을 초청해 피지컬 AI 적용 사례와 운영 전략을 공유하는 세미나를 개최했다고 2일 밝혔다. ‘",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202611/21853_22643_564.jpg",
+    "score": 3.872,
+    "engagement": 0,
+    "matched_keywords": [
+      "활용 사례",
+      "현장"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "게이트웨이 걸프 2026 부대 행사: 뭄탈라카트 및 ARP 그룹, 바레인 AI 네이티브 도매 은행 설립 위한 파트너십 체결",
+    "url": "https://zdnet.co.kr/view/?no=20261102211002",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-11-02T12:10:02+00:00",
+    "raw_excerpt": "[지디넷코리아]역내외 은행 서비스가 필요한 기관 고객 지원 목표 마나마, 바레인, 2026년 11월 2일 /PRNewswire/ -- 바레인 국부펀드인 바레인 뭄탈라카트 홀딩 컴퍼니(Bahrain Mumtalakat Holding Company, 이하 뭄탈라카트)와 ARP 그룹(ARP Group)이 바레인에 본사를 둔 AI 네이티브 및 블록체인 기반 도매 은행을 설립하기 위해 파트너십을 맺었다. ARP 그룹은 ARP 글로벌 캐피털(ARP Global Capital)과 ARP 디지털(ARP Digital)의 지주회사로, ARP 디지털은 유수프 알리레자(Yusuf Alireza)가 압둘라 카누(Abdulla Kanoo) 및 압둘아지즈 카누(Abdulaziz Kanoo)와 공동 설립했다. 이번 합작 사업은 바레인 중앙은행(Central Bank of Bahrain)으로부터 원칙적 승인을 받았으며, 최종 인가를 취득한 뒤에만 규제 대상 업무를 개시할 예정이다. Mumtalakat and ARP Group partner to establish an AI native wholesale bank in Bahrain 이번 파트너십은 뭄탈라카트의 장기 투자 접근법과 ARP의 기관금융 및 디지털 금융 인프라 분야 경험을 결합한다. 설립 예정인 은행은 규제 대상 금융기관, 결제 기업, 국경을 넘어 사업을 운영하는 기업을 고객으로 삼을 계획이다. 여러 시",
+    "topic": "ai_native",
+    "topic_label": "🧬 AI Native",
+    "summary": "[지디넷코리아]역내외 은행 서비스가 필요한 기관 고객 지원 목표 마나마, 바레인, 2026년 11월 2일 /PRNewswire/ -- 바레인 국부펀드인 바레인 뭄",
+    "thumbnail": "https://mmx.prnasia.com/media/MS2025012/Mumtalakat-and-ARP-Group-partner-to-establish-an-AI-native-wholesale-bank-in-Bahrain.jpg?id=OA3051269&p=medium600",
+    "score": 3.212,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai native",
+      "ai 네이티브"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "폴라리스AI, 유비테크와 휴머노이드 사업화 속도…로보월드서 기술 시연",
+    "url": "https://zdnet.co.kr/view/?no=20261102185413",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-11-02T09:54:26+00:00",
+    "raw_excerpt": "[지디넷코리아]폴라리스AI가 글로벌 로봇 제조사 유비테크 로보틱스와 협력해 국내 휴머노이드 로봇 시장 공략에 나선다. 산업 현장부터 상업시설, 가정까지 다양한 환경에 적용할 수 있는 로봇을 선보이고 국내 고객 확보에 나설 계획이다.폴라리스AI는 양시 킨텍스에서 열리는 '2026 로보월드'에 참가해 유비테크의 휴머노이드 로봇 제품과 활용 기술을 소개한다고 2일 밝혔다.이번 행사에는 유비테크 본사 관계자들도 직접 참석한다. 이들은 전시 현장에서 로봇 작동 시연과 기술 설명을 지원하고, 폴라리스AI와 함께 국내 기업들의 도입 수요를 확인할 예정이다.전시 제품 가운데 하나는 유비테크의 소비자용 브랜드 '유월드'가 개발한 감성 교감형 휴머노이드 'U1'이다. 사람과 유사한 외형에 생체모방 피부와 표정 표현 기술을 적용했으며, AI를 이용해 사용자의 감정을 인식하고 이전 대화 내용을 기억하도록 설계됐다.유비테크에 따르면 U1 시리즈는 지난 6월 글로벌 공개 행사 당시 누적 주문량이 1만3361대를 넘어섰다. 폴라리스AI는 이번 전시에서 U1 라이트, 프로, 울트라 등 세 가지 모델을 국내에 소개한다.산업용 로봇도 함께 선보인다. '워커 S2'와 '크루저 Y1'을 활용해 자재 상자를 인식하고 운반하거나 물품을 쌓고 내리는 작업을 시연한다. 상업용 공간을 대상으로는 '워커 C1'의 고객 응대와 동작 시연을 진행한다.폴라리스AI는 실제 사업화 가능성",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "[지디넷코리아]폴라리스AI가 글로벌 로봇 제조사 유비테크 로보틱스와 협력해 국내 휴머노이드 로봇 시장 공략에 나선다. 산업 현장부터 상업시설, 가정까지 다양한 환",
+    "thumbnail": "https://image.zdnet.co.kr/2026/11/02/9138e866ab6a6be49211872a36f4c56f.jpg",
+    "score": 3.127,
+    "engagement": 0,
+    "matched_keywords": [
+      "휴머노이드",
+      "휴머노이드 로봇"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "밤을 낮처럼 밝힌다…'우주 거울' 프로젝트",
+    "url": "https://www.etnews.com/20261102000462",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-11-02T13:30:00+00:00",
+    "raw_excerpt": "밤에도 원하는 장소에 햇빛을 비추는 이른바 '우주 거울' 프로젝트가 논란이 되고 있습니다. 미국 스타트업 리플렉트 오비탈은 지난달 10일 캘리포니아에서 대형 조명을 이용해 우주에서 햇빛을 반사했을 때의 모습을 재현했습니다. 이 회사는 앞으로 우주에 대형 반사경 위성을 띄워 태양빛을 지상의 특정 지역으로 보낼 계획입니다. 이를 통해 해가 진 뒤에도 태양광 발전을 이어가고 야간 구조 현장이나 외딴 작업 현장에 빛을 제공한다는 구상입니다. 이용자가",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "밤에도 원하는 장소에 햇빛을 비추는 이른바 '우주 거울' 프로젝트가 논란이 되고 있습니다. 미국 스타트업 리플렉트 오비탈은 지난달 10일 캘리포니아에서 대형 조명",
+    "thumbnail": "https://img.etnews.com/news/article/2026/11/02/news-p.v1.20261102.92ec1e818dfb47dd9f52063bbe2f44ce_P1.jpg",
+    "score": 3.124,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "시큐리타이즈 주식 토큰 25종목 확대…DTC 기관 서비스 출범",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/431587",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-11-02T19:57:24+00:00",
+    "raw_excerpt": "시큐리타이즈(Securitize, $SECZ)가 토큰화 미국 주식 상품을 25종목으로 늘렸다. DTCC 산하 DTC도 기관 참가사를 대상으로 증권 권리를 블록체인에 기록하는 서비스를 출범했다. 시큐리타이즈는 11월 2일 발표에서 주식 상품에 13종목을 추가했다고 밝혔다. 상품은 10월 8일 12종목으로 시작했다. 추가 종목에는 아리스타 네트웍스($ANET), 엑슨모빌($XOM), 게임스톱($GME), 세일즈포스($CRM), 월트디즈니($DIS) 등이 포함됐다. 상품은 솔라나(SOL)에서 거래되고 USDC로 결제된다. 회사가 제시한 이용 대상은 미국·유럽연합(EU)과 그 밖의 허용 지역에 있는 적격 투자자다. 종목 수 확대가 누구나 이용할 수 있는 공개형 상품의 출범을... 더보기",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "시큐리타이즈(Securitize, $SECZ)가 토큰화 미국 주식 상품을 25종목으로 늘렸다. DTCC 산하 DTC도 기관 참가사를 대상으로 증권 권리를 블록체인",
+    "thumbnail": "https://f1.tokenpost.kr/2026/11/09ioxb246z.jpg",
+    "score": 3.115,
+    "engagement": 0,
+    "matched_keywords": [
+      "블록체인",
+      "토큰화"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "네타냐후 가상자산 구상에 이스라엘 업계 “기업 피해 우려”",
+    "url": "https://www.tokenpost.kr/news/policy/431569",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-11-02T19:20:15+00:00",
+    "raw_excerpt": "이스라엘 블록체인 업계가 베냐민 네타냐후(Benjamin Netanyahu) 이스라엘 총리의 가상자산 제재 대응 구상에 우려를 나타냈다. 가상자산을 제재 우회 수단으로 거론하면 정상 기업도 해외 금융기관의 심사를 더 엄격하게 받을 수 있다는 주장이다. 현지 기업인들의 발언은 비트코인닷컴(Bitcoin.com)이 2일 공개한 인터뷰에 담겼다. 블록체인 분석업체 어드레서블(Addressable)과 블록체인 기업 오브스(Orbs) 관계자들은 제재 회피 구상이 해외 은행과 거래소에 잘못된 신호를 줄 수 있다고 말했다. 네타냐후 총리는 국제 금융 제재 가능성에 대비해 블록체인과 가상자산을 대체 수단으로 검토하겠다고 밝혔다. 이스라엘 중앙은행은 제재... 더보기",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "이스라엘 블록체인 업계가 베냐민 네타냐후(Benjamin Netanyahu) 이스라엘 총리의 가상자산 제재 대응 구상에 우려를 나타냈다. 가상자산을 제재 우회 수",
+    "thumbnail": "https://f1.tokenpost.kr/2026/11/gfssnbuhbt.jpg",
+    "score": 3.094,
+    "engagement": 0,
+    "matched_keywords": [
+      "블록체인",
+      "가상자산"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "[Series – Physical AI and Nations] Countries That Possess Robots Will Dominate Industry ⑦",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=50253",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-02T17:02:17+00:00",
+    "raw_excerpt": "[smarttimes] As physical AI spreads across labor, healthcare, warfare, and mobility, the center of competition is shifting from companies to nations. In the past, industrial competition was often determined by the technological capabilities or production capacity of individual companies. Now, howeve",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "[smarttimes] As physical AI spreads across labor, healthcare, warfare, and mobility, the c",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202611/50253_49347_055_v150.jpg",
+    "score": 2.944,
+    "engagement": 0,
+    "matched_keywords": [
+      "physical ai"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "TSMC, 美텍사스 투자…삼성 안방서 격돌",
+    "url": "https://www.etnews.com/20261102000327",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-11-02T07:00:00+00:00",
+    "raw_excerpt": "세계 최대 파운드리(반도체 위탁생산) 기업인 대만 TSMC가 미국 내 두 번째 대형 생산 거점으로 텍사스주 북부 도시 셔먼을 낙점하고 막바지 부지 협상에 돌입했다. 오스틴과 테일러를 거점으로 지난 30년간 텍사스주를 '미국 내 안방'으로 삼아온 삼성전자와의 정면충돌이 불가피하다. 2일 댈러스비즈니스저널 등 미국 현지 매체에 따르면 텍사스주 그레이슨 카운티에 위치한 셔먼 시는 최근 TSMC와 수백억 달러 규모 반도체 제조 시설 유치를 위한 부지",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "세계 최대 파운드리(반도체 위탁생산) 기업인 대만 TSMC가 미국 내 두 번째 대형 생산 거점으로 텍사스주 북부 도시 셔먼을 낙점하고 막바지 부지 협상에 돌입했다",
+    "thumbnail": "https://img.etnews.com/news/article/2026/11/02/news-g.v1.20261102.1f3fad5c05fa477e9eabdca967cad118_P1.jpg",
+    "score": 2.853,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "[아침 시황] 비트코인 1억381만원…상승 종목 33%",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/431635",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-11-02T22:30:30+00:00",
+    "raw_excerpt": "11월 3일 오전 7시 30분 오늘 아침 국내 암호화폐 시장은 약세로 기울었다. 24시간 거래대금(업비트·빗썸)은 1.2조원을 기록했으며 거래대금 50억원 이상 종목 36개 중 12개만 올라 상승 종목 비율이 33%에 그쳤다. 대장주는 소폭 밀렸다. 비트코인은 1억381만원으로 24시간 전보다 1.0% 내렸으며, 이더리움은 304만원으로 0.1% 내렸다. 가장 많이 오른 종목은 업비트에 상장된 소폰으로, 3.5원까지 21.5% 뛰며 거래대금 561억원을 끌어모았다. 메타플렉스는 19.5%, 돌핀은 11.2% 올랐다. 하락 쪽에서는 빔이 19.1% 내렸고 쿼크에이아이는 12.5% 하락했다. 절대 거래대금 기준으로는 테더가 767억원으로 가장 많이 거래됐고... 더보기",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "11월 3일 오전 7시 30분 오늘 아침 국내 암호화폐 시장은 약세로 기울었다. 24시간 거래대금(업비트·빗썸)은 1.2조원을 기록했으며 거래대금 50억원 이상",
+    "thumbnail": "https://f1.tokenpost.kr/2026/11/glmkiluy6o.png",
+    "score": 2.8,
+    "engagement": 0,
+    "matched_keywords": [
+      "암호화폐"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "이페이, IATA WFS & WPS 2026에서 항공사 B2B 주문 결제의 새로운 접근법 모색",
+    "url": "https://zdnet.co.kr/view/?no=20261102211034",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-11-02T12:10:34+00:00",
+    "raw_excerpt": "[지디넷코리아]마카오, 2026년 11월 2일 /PRNewswire/ -- 이페이(YeePay)가 10월 28일부터 29일까지 갤럭시 국제컨벤션센터에서 열린 2026 IATA WFS WPS에 참가했다. 이페이는 이번 행사에서 Global Corporate Account와 항공 및 여행 유통 통합 솔루션을 선보이며 국경 간 자금 관리와 유통 채널 확대 역량을 강조했다. YeePay Explores New Approaches to Airline B2B Order Payments at IATA WFS WPS 2026 이페이의 위천(Yu Chen) 공동창립자는 IATA 결제 서비스 포럼(IATA Payment Services Forum)에서 '중국의 독자적인 항공사 B2B 주문 결제 생태계(China's Unique Airline B2B Order Payment Ecosystem)'를 주제로 발표했다. 그는 차세대 항공권 유통 역량(New Distribution Capability, NDC) 시대에 업계가 직면한 주요 과제를 다루고, 세계 각 시장의 항공사 결제 모델을 비교했으며, 글로벌 항공 산업에서 B2B 주문 결제의 활용 가능성을 폭넓게 살펴봤다. 위 공동창립자는 항공 결제에 수반되는 막대한 비용을 강조하며 다음과 같이 설명했다. \"전 세계 항공 산업의 연간 결제 비용은 미화 220억 달러에 달하며, 거래 수수료와 운영비가 항공사의 승",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "[지디넷코리아]마카오, 2026년 11월 2일 /PRNewswire/ -- 이페이(YeePay)가 10월 28일부터 29일까지 갤럭시 국제컨벤션센터에서 열린 20",
+    "thumbnail": "https://mmx.prnasia.com/media/MS2024260/20261030052230EDT_image_1.jpg?id=OA3052082&p=medium600",
+    "score": 2.762,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "코덱스에 조직 규칙·코드 이력·별도 코드 리뷰 연결",
+    "url": "https://www.tokenpost.kr/news/ai/431604",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-11-02T20:27:32+00:00",
+    "raw_excerpt": "Qodo가 2026년 9월 9일 오픈AI(OpenAI)의 코덱스(Codex)에 코드베이스 지식과 조직 규칙, 별도 코드 리뷰를 연결하는 플러그인을 공개했다. Qodo는 공식 발표에서 자사 Agentic Toolbox를 통해 코덱스 작업 흐름에 이 기능을 연결한다고 설명했다. 개발 전에 필요한 맥락을 불러오고, 작성 후 리뷰 결과를 같은 코덱스 세션으로 돌려주는 구조다. Qodo의 Agentic Toolbox 개요 문서는 기능을 △코드베이스 관계 파악 △작업 규칙 조회 △로컬 변경 검토 △PR 리뷰 지적 처리 △조직 검토 기준 관리로 소개한다. 규칙 조회는 코드 작성 전에, 로컬 리뷰는 PR을 열기 전에, 지적 처리 기능은 수정 단계에 배치돼 있다. 개발자는 익숙하지 않은... 더보기",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "Qodo가 2026년 9월 9일 오픈AI(OpenAI)의 코덱스(Codex)에 코드베이스 지식과 조직 규칙, 별도 코드 리뷰를 연결하는 플러그인을 공개했다. Qo",
+    "thumbnail": "https://f1.tokenpost.kr/2026/11/uqkmno9che.jpg",
+    "score": 2.731,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "한국형 우주 데이터센터, 2028년 첫 궤도 실증 추진",
+    "url": "https://zdnet.co.kr/view/?no=20261102182318",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-11-02T09:50:38+00:00",
+    "raw_excerpt": "[지디넷코리아]지상 데이터센터(DC)의 전력과 냉각 문제를 극복하기 위해 2035년까지 우주 DC를 단계적으로 구축하는 구상이 제시됐다. 첫 단계로 2028년 누리호 7차 발사를 활용해 100kg급 소형 우주 DC의 궤도 실증을 추진한다는 계획이다.이춘우 K문샷 추진단 우주미션 PD는 2일 국회에서 열린 우주데이터센터포럼 3차 토론회에서 “지상 DC는 막대한 전력 수요, 냉각수 부족, 부지 확보 난항, 각종 환경 규제, 데이터 전송 지연 등 한계가 있다”며 “우주의 무한한 태양광 자원과 복사냉각 기술을 활용하는 우주 DC를 설립해야 한다”고 밝혔다.현재 국내 위성 관측 데이터는 지상국으로 전송한 뒤 지상 DC에서 저장 분석하는 방식으로 처리된다. 이 PD는 우주에서 생성된 데이터를 현장에서 직접 수집, 저장, 처리, 분석해 데이터 전송과 분석에 걸리는 시간을 줄이고 우주 AI 서비스를 구현하는 K문샷 2035 우주미션 추진 전략을 소개했다..K문샷 우주미션은 전력·방열·AI 연산·위성통신 등 핵심 기술을 확보하고 단계별 궤도 실증을 거쳐 민간 주도의 우주 AI 상용화 기반을 마련하는 것이 목표다.로드맵에 따르면 2029년까지 100kg급 소형 우주 DC를 구축하고, 2032년까지 우주 AI 서비스를 제공하는 500kg급 중형 우주 DC를 마련한다. 2035년에는 AI 서비스 상용화 플랫폼을 구현할 수 있는 톤급 대형 우주 DC 구축을",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "[지디넷코리아]지상 데이터센터(DC)의 전력과 냉각 문제를 극복하기 위해 2035년까지 우주 DC를 단계적으로 구축하는 구상이 제시됐다. 첫 단계로 2028년 누",
+    "thumbnail": "https://image.zdnet.co.kr/2026/11/02/3a18433eeac9fcfc8db7b77f08e07f90.jpg",
+    "score": 2.675,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  }
+]
