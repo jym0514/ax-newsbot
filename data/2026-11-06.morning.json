@@ -1,0 +1,632 @@
+[
+  {
+    "title": "Meta buys AI coding startup Conductor as big tech races to lock in developers",
+    "url": "https://the-decoder.com/meta-buys-ai-coding-startup-conductor-as-big-tech-races-to-lock-in-developers/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-11-05T15:01:09+00:00",
+    "raw_excerpt": "Meta is acquiring AI coding startup Conductor, which lets developers control multiple AI coding agents at once. On the same day, OpenAI announced plans to acquire Pierre Computer, and Anthropic already bought Stainless back in May. The deals follow a pattern: AI models are becoming interchangeable, and the value is shifting to the tools built around them. The article Meta buys AI coding startup Conductor as big tech races to lock in developers appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Meta is acquiring AI coding startup Conductor, which lets developers control multiple AI c",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/meta_conductor.png",
+    "score": 6.909,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai",
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Perplexity launches its own take on AI agents for work",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-11-05T22:26:50+00:00",
+    "raw_excerpt": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity Computer, an AI system that can deploy agents on your device [ ]",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The star",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "score": 6.745,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai",
+      "anthropic"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "OpenAIs GPT-6 Cyber can both break into systems and propose how to fix them",
+    "url": "https://the-decoder.com/openais-gpt-6-cyber-can-both-break-into-systems-and-propose-how-to-fix-them/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-11-05T20:36:25+00:00",
+    "raw_excerpt": "With GPT-6 Cyber, OpenAI is introducing an AI model built to find security vulnerabilities in software, develop exploits, and suggest patches. According to OpenAI, it has already found 81 previously unknown vulnerabilities in Firefox and developed 948 working exploits in the Linux kernel, significantly more than its predecessor. The article OpenAIs GPT-6 Cyber can both break into systems and propose how to fix them appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "With GPT-6 Cyber, OpenAI is introducing an AI model built to find security vulnerabilities",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/openai_cybersecurity.png",
+    "score": 6.469,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "OpenAI released a new cybersecurity model. Is that enough?",
+    "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-11-05T19:06:12+00:00",
+    "raw_excerpt": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to pr",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/08/openai-daybreak.jpg?resize=1200,798",
+    "score": 6.365,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+    "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-11-05T12:00:00+00:00",
+    "raw_excerpt": "Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company.",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid roboti",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/11/Agility_Digit5_01.png?resize=900,1200",
+    "score": 5.877,
+    "engagement": 0,
+    "matched_keywords": [
+      "humanoid",
+      "humanoid robot"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+    "url": "https://openai.com/index/introducing-gpt-6-cyber",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-11-05T09:00:00+00:00",
+    "raw_excerpt": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilit",
+    "thumbnail": "",
+    "score": 5.727,
+    "engagement": 0,
+    "matched_keywords": [
+      "cybersecurity"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Claude can now analyze your spending with its new Personal Finance tool",
+    "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-11-05T18:00:00+00:00",
+    "raw_excerpt": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Pl",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/11/Claude-Personal-Finance-2.png?resize=1200,675",
+    "score": 5.464,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "No AI agent scores above 12 percent on SemiAnalysis' new real-world work benchmark",
+    "url": "https://the-decoder.com/no-ai-agent-scores-above-12-percent-on-semianalysis-new-real-world-work-benchmark/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-11-05T16:46:24+00:00",
+    "raw_excerpt": "SemiAnalysis is putting AI agents through simulated knowledge work in its new GDPx benchmark, covering everything from chip design to quant trading. No model breaks 12 percent. Claude Opus 5.5 leads narrowly over Gemini 4 Carbon. Critics point to the small number of tasks per domain and uneven testing conditions. The article No AI agent scores above 12 percent on SemiAnalysis new real-world work benchmark appeared first on The Decoder .",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "SemiAnalysis is putting AI agents through simulated knowledge work in its new GDPx benchma",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/semianalysis.png",
+    "score": 5.38,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai agent"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Lombard Systems raises $4m for tokenised securities financing",
+    "url": "https://www.finextra.com/pressarticle/111594/lombard-systems-raises-4m-for-tokenised-securities-financing?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-11-05T18:05:00+00:00",
+    "raw_excerpt": "Lombard Systems (previously SemiLiquid/PCP), the creator and maintainer of the Delivery-versus-Lock (DvL) standard, today announced it has raised $4 million across pre-seed and seed funding rounds, led by Ethereal Ventures, with participation from Alps Capital, First Commit Capital, Veris Ventures, Atka and others.",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Lombard Systems (previously SemiLiquid/PCP), the creator and maintainer of the Delivery-ve",
+    "thumbnail": "",
+    "score": 4.973,
+    "engagement": 0,
+    "matched_keywords": [
+      "funding"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Claude AI can plug directly into your bank account",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-11-05T18:00:00+00:00",
+    "raw_excerpt": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your bank and card accounts via the Plaid bank bridging platform. You can ask the chatbot \"where did my money go this month,\" for example, and it'll create an overview [ ]",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, w",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Personal-Finance-in-Claude-hed.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "score": 4.968,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "A new bill could change how the US builds energy infrastructure",
+    "url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+    "source": "MIT Tech Review",
+    "source_type": "rss",
+    "published_at": "2026-11-05T10:00:00+00:00",
+    "raw_excerpt": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set to vote on the Bipartisan American Affordability and Jobs Act (BAAJA) on November 9. It’s a plan that could finally",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of ener",
+    "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/11/baaja-energy.jpg?resize=1200,600",
+    "score": 4.914,
+    "engagement": 0,
+    "matched_keywords": [
+      "legislation"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million",
+    "url": "https://www.coindesk.com/business/2026/11/05/soter-raises-usd23-5m-plus-btc-and-eth-as-banks-demand-theft-protection",
+    "source": "CoinDesk",
+    "source_type": "rss",
+    "published_at": "2026-11-05T16:49:08+00:00",
+    "raw_excerpt": "",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/22cc5bf76c4ce39c3877a108b37d147f91546421-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "score": 4.894,
+    "engagement": 0,
+    "matched_keywords": [
+      "funding"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "AI 에이전트 제휴사 늘리지 못하던 카카오의 해법은?",
+    "url": "https://byline.network/2026/11/05_398172-2/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-11-05T20:49:33+00:00",
+    "raw_excerpt": "카카오가 인공지능(AI) 서비스 확산 속도가 시장 기대에 미치지 못했다고 인정했다. 카카오톡을 중심으로 에이전틱 AI 사업을 추진하고 있지만, 실제 외부 서비스를 연결하는 과정에서 예상보다 많은 어려움을 확인했다. 이에 카카오는 카카오톡 AI 에이전트가 이용할 수 있는 외부 서비스를 빠르게 늘리기 위해 연동 전략을 바꾸기로 했다. 기존에는 외부 기업과 시스템을 직접 연결하는 방식을 우선 추진했다면, 앞으로는 AI가 사람처럼 직접 화면을 탐색하고 버튼을 누르는 ‘컴퓨터 사용 에이전트(CUA)’ 방식도 병행하기로 했다.",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "카카오가 인공지능(AI) 서비스 확산 속도가 시장 기대에 미치지 못했다고 인정했다. 카카오톡을 중심으로 에이전틱 AI 사업을 추진하고 있지만, 실제 외부 서비스를",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/10/20261013_kakao_CEO.jpeg",
+    "score": 4.872,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "에이전틱",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "최태원 회장, “AI 혁명에 기존 경제학만으론 한계”…한국, ‘AI 네이티브 국가’로 도약해야",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42613",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-11-05T23:45:19+00:00",
+    "raw_excerpt": "최태원 SK그룹 회장이 인공지능(AI) 혁명과 미국·중국의 패권 경쟁으로 세계 경제질서가 근본적으로 재편되고 있다며, 한국이 기존 경제성장 모델에서 벗어나 ‘AI 네이티브 국가(AI Native Nation)’로 전환해야 한다고 강조했다.특히 AI를 중심으로 여러 산업에서 혁신이 동시에 발생하는 상황에서 전통적인 경제학적 접근만으로는 새로운 경제질서를 설명하거나 대응하기 어렵다고 진단했다. 서울대학교 경제학부는 최 회장이 5일 서울대 경제학부 재학생 등 450여명이 참석한 가운데 ‘인공지능 시대, 세계 경제 패러다임 변화와 대한민국",
+    "topic": "ai_native",
+    "topic_label": "🧬 AI Native",
+    "summary": "최태원 SK그룹 회장이 인공지능(AI) 혁명과 미국·중국의 패권 경쟁으로 세계 경제질서가 근본적으로 재편되고 있다며, 한국이 기존 경제성장 모델에서 벗어나 ‘AI",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202611/42613_64030_4336_v150.jpg",
+    "score": 4.862,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai native",
+      "ai 네이티브"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Stablecoin firm Yellow Card target Brazil through GoMoney acquisition",
+    "url": "https://www.finextra.com/newsarticle/48710/stablecoin-firm-yellow-card-target-brazil-through-gomoney-acquisition?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-11-05T15:45:00+00:00",
+    "raw_excerpt": "Stablecoin payments infrastructure provider Yellow Card has set its sights on Brazil after acquiring local virtual asset service outfit GoMoney. Financial terms were not disclosed.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Stablecoin payments infrastructure provider Yellow Card has set its sights on Brazil after",
+    "thumbnail": "",
+    "score": 4.827,
+    "engagement": 0,
+    "matched_keywords": [
+      "stablecoin"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Gate CEO says crypto exchanges must prove they can survive a hack like Binance’s",
+    "url": "https://www.coindesk.com/business/2026/11/05/gate-ceo-says-crypto-exchanges-must-prove-they-can-survive-a-hack-like-binance-s",
+    "source": "CoinDesk",
+    "source_type": "rss",
+    "published_at": "2026-11-05T14:21:50+00:00",
+    "raw_excerpt": "",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Gate CEO says crypto exchanges must prove they can survive a hack like Binance’s",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/145f56a22fd786e9ae8904be13ee6413089da9a2-2752x1316.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "score": 4.74,
+    "engagement": 0,
+    "matched_keywords": [
+      "hack"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
+    "url": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
+    "source": "Ars Technica",
+    "source_type": "rss",
+    "published_at": "2026-11-05T21:40:36+00:00",
+    "raw_excerpt": "Google is technically offering schools more choice but not the choices anyone wants.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Google is technically offering schools more choice but not the choices anyone wants.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/Google-sign-IO-1152x648.jpg",
+    "score": 4.678,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
+    "url": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
+    "source": "Ars Technica",
+    "source_type": "rss",
+    "published_at": "2026-11-05T21:39:40+00:00",
+    "raw_excerpt": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2240656304-1024x648.jpg",
+    "score": 4.677,
+    "engagement": 0,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "메타, AI 코딩 스타트업 컨덕터 인수...병렬 에이전트 조율 기술 확보",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217045",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-05T16:48:17+00:00",
+    "raw_excerpt": "메타가 여러 AI 코딩 에이전트를 동시에 실행하고 관리할 수 있도록 지원하는 스타트업 컨덕터(Conductor)를 인수했다. AI 모델 경쟁을 넘어 개발자가 여러 에이전트를 효율적으로 활용할 수 있는 코딩 환경까지 확보하려는 전략으로 풀이된다.메타는 4일(현지시간) 여러 AI 코딩 에이전트를 동시에 운용할 수 있는 오케스트레이션 플랫폼 스타트업 컨덕터를 인수했다고 밝혔다.재무적 상세 조건은 공개되지 않았으나, 이번 인수를 통해 메타는 AI 코딩 제품 라인업을 대폭 강화할 계획이다. 2024년 설립된 컨덕터는 개발자가 여러 AI 에이",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "메타가 여러 AI 코딩 에이전트를 동시에 실행하고 관리할 수 있도록 지원하는 스타트업 컨덕터(Conductor)를 인수했다. AI 모델 경쟁을 넘어 개발자가 여러",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217045_221232_3443.png",
+    "score": 4.24,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "퀄컴, 스페이스X와 역대 최대 5G 계약…스타링크 지상망 구축",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217058",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-05T16:00:20+00:00",
+    "raw_excerpt": "퀄컴이 스페이스X와 다년간의 5G 인프라 공급 계약을 체결했다. 스페이스X가 위성 통신 서비스 스타링크를 기반으로 미국 이동통신 시장에 진출하려는 가운데, 퀄컴의 기지국용 반도체 플랫폼과 소프트웨어를 활용해 전국적인 지상 5G 네트워크 구축에 나선다.로이터와 CNBC에 따르면, 퀄컴은 4일(현지시간) 스페이스X의 스타링크 모바일(Starlink Mobile)에 무선 장비와 베이스밴드 유닛, 관련 소프트웨어를 공급하는 계약을 체결했다고 발표했다.공급 장비는 2027년부터 미국 전역 수만개의 매크로 기지국에 배치될 예정이다. 양사는 계",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "퀄컴이 스페이스X와 다년간의 5G 인프라 공급 계약을 체결했다. 스페이스X가 위성 통신 서비스 스타링크를 기반으로 미국 이동통신 시장에 진출하려는 가운데, 퀄컴의",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217058_221245_3647.png",
+    "score": 4.197,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "반도체 산단 준비하는 광산구…일본은 땅값 상승, 미국은 교통·환경 갈등",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217026",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-05T15:32:24+00:00",
+    "raw_excerpt": "광주 군공항 부지가 호남권 반도체 국가산업단지 후보지로 지정된 가운데 광산구가 주민들과 교통·주거·교육·환경 문제를 논의하기 시작했다. 일본에서는 반도체 기업 진출 이후 주거지 땅값과 학생 수가 늘었고, 미국에서는 공장 건설 과정에서 교통 혼잡과 환경 관련 갈등이 발생한 바가 있다.5일 광산구와 국토교통부 등에 따르면 광주 군공항 부지 약 250만평은 지난 7월29일 호남권 반도체 첨단 국가산단 후보지로 우선 지정됐다. 한국토지주택공사(LH)는 8월 환경영향평가 등 관련 용역을 발주하며 산단 조성 절차를 진행하고 있다.광산구는 지난",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "광주 군공항 부지가 호남권 반도체 국가산업단지 후보지로 지정된 가운데 광산구가 주민들과 교통·주거·교육·환경 문제를 논의하기 시작했다. 일본에서는 반도체 기업 진",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217026_221212_5011.jpg",
+    "score": 4.172,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "$2.5T has been wiped from US stocks",
+    "url": "https://www.reddit.com/r/StockMarket/comments/1xopjao/25_trillion_has_been_wiped_from_us_stocks/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-11-05T21:39:26+00:00",
+    "raw_excerpt": "Article URL: https://www.reddit.com/r/StockMarket/comments/1xopjao/25_trillion_has_been_wiped_from_us_stocks/ Comments URL: https://news.ycombinator.com/item?id=50384822 Points: 22 # Comments: 7",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://www.reddit.com/r/StockMarket/comments/1xopjao/25_trillion_has_been_wi",
+    "thumbnail": "",
+    "score": 4.157,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Capgemini: Multi-agent AI moves into banking and insurance, but orchestration remains limited",
+    "url": "https://www.finextra.com/newsarticle/48708/capgemini-multi-agent-ai-moves-into-banking-and-insurance-but-orchestration-remains-limited?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-11-05T05:00:00+00:00",
+    "raw_excerpt": "Financial institutions are struggling to scale multi-agent AI beyond pilot projects, with just 10% of banks and insurers having achieved enterprise-wide orchestration despite 59% piloting or deploying the technology, according to Capgemini research.",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Financial institutions are struggling to scale multi-agent AI beyond pilot projects, with",
+    "thumbnail": "",
+    "score": 4.155,
+    "engagement": 0,
+    "matched_keywords": [
+      "multi-agent"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "The Cost of Blogging",
+    "url": "https://onlinegoddess.net/2026/11/the-cost-of-blogging/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-11-05T20:14:25+00:00",
+    "raw_excerpt": "Article URL: https://onlinegoddess.net/2026/11/the-cost-of-blogging/ Comments URL: https://news.ycombinator.com/item?id=50383877 Points: 25 # Comments: 12",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://onlinegoddess.net/2026/11/the-cost-of-blogging/ Comments URL: https:/",
+    "thumbnail": "https://bearblog.dev/static/og-image.png",
+    "score": 4.086,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "록히드마틴, 차세대 핵미사일 재진입체 ‘Mk21A’ 비행시험 완료…디지털 엔지니어링으로 개발 가속",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42610",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-11-05T17:46:31+00:00",
+    "raw_excerpt": "록히드마틴(Lockheed Martin)이 차세대 대륙간탄도미사일(ICBM)에 탑재될 핵탄두 재진입체 'Mk21A'의 비행시험을 완료했다. 실제 비행시험에서 확보한 데이터를 고정밀 디지털 모델링 및 시뮬레이션 기술과 결합해 설계의 완성도를 높이고 개발 기간을 단축하는 것이 핵심이다.록히드마틴은 4일(현지시간) 미 공군(U.S. Air Force)과 공동으로 캘리포니아주 반덴버그 우주군기지(Vandenberg Space Force Base)에서 비무장 개발용 Mk21A 재진입체를 발사해 태평양 상공에서 비행시험을 실시했다고 밝혔다.M",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "록히드마틴(Lockheed Martin)이 차세대 대륙간탄도미사일(ICBM)에 탑재될 핵탄두 재진입체 'Mk21A'의 비행시험을 완료했다. 실제 비행시험에서 확보",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202611/42610_64025_4617_v150.jpg",
+    "score": 3.963,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+    "url": "https://github.com/rivet-dev/rivet",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-11-05T17:17:42+00:00",
+    "raw_excerpt": "Hey HN, this is Nathan and Nicholas from Rivet ( https://rivet.dev ) – a fast, high-density, and scalable orchestrator for agentic workloads using the actor model. Rather than running a heavyweight sandbox per agent, each agent gets a lightweight actor backed by S3. Actors provide a long-lived process for long agent turns, in-memory state for context, a WebSocket server for multiplayer, durable SQLite storage backed by S3, and hibernation when idle. It's a similar model to Cloudflare Durable Objects, but it’s open source and self-hostable. Here’s a video walkthrough: https://www.youtube.com/watch?v=3Ev6I7DOV9c When we went through YC in 2023, we were building infrastructure for multiplayer g",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Hey HN, this is Nathan and Nicholas from Rivet ( https://rivet.dev ) – a fast, high-densit",
+    "thumbnail": "https://repository-images.githubusercontent.com/654560183/d4b2fdae-1a15-4420-a2a3-17256a51ae24",
+    "score": 3.939,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "카카오, 3분기 영업이익 2403억원…12월 AI 비서 ‘카나나 스페이스’ 출시로 성장동력 확대",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42607",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-11-05T17:15:27+00:00",
+    "raw_excerpt": "카카오가 카카오톡 기반 광고와 커머스 사업의 성장에 힘입어 2026년 3분기 매출과 영업이익을 모두 늘렸다. 기존 플랫폼 사업의 수익성을 강화하는 동시에 오는 12월 인공지능(AI) 어시스턴트 ‘카나나 스페이스’를 선보이며 AI 서비스 확대에 속도를 낸다.카카오(Kakao)는 5일 한국채택국제회계기준(K-IFRS) 연결 기준 2026년 3분기 매출액이 전년 동기 대비 6% 증가한 2조867억원, 영업이익은 7% 늘어난 2403억원을 기록했다고 밝혔다. 영업이익률은 약 12%로, 같은 기간 영업비용은 6% 증가한 1조8464억원으로",
+    "topic": "personal_ai_agent",
+    "topic_label": "🧑‍💼 개인 AI 에이전트 · 금융비서",
+    "summary": "카카오가 카카오톡 기반 광고와 커머스 사업의 성장에 힘입어 2026년 3분기 매출과 영업이익을 모두 늘렸다. 기존 플랫폼 사업의 수익성을 강화하는 동시에 오는 1",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202611/42607_64021_1515_v150.jpg",
+    "score": 3.937,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai 비서"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
+    "url": "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty",
+    "source": "CoinDesk",
+    "source_type": "rss",
+    "published_at": "2026-11-04T22:55:00+00:00",
+    "raw_excerpt": "",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face unc",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/5af22285c61d41791216141610671d8ccd475757-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "score": 3.775,
+    "engagement": 0,
+    "matched_keywords": [
+      "tokenization"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "돌아온 페인트공 Shlemiel: Zig의 libc 재작성이 SQLite를 느리게 만든 과정",
+    "url": "https://news.hada.io/topic?id=36653&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-11-05T13:02:35+00:00",
+    "raw_excerpt": "Rust 기반 체스 분석 서비스에서 약 4만 건의 JSON 레코드를 SQLite에 저장하는 데 수 분이 걸리고 CPU 코어 하나가 포화 되는 문제가 발생함 원인은 Linux용 SQLite를 컴파일할 때 사용한 Zig의 libc 재구현 에 있었으며, strspn 이 호출될 때마다 문자열 전체 길이를 측정해 토큰화 과정에서 문자열을 반복 순회함 토큰화가 진행될 때마다 남은 문자열 길이를 다시 측정해 이차 시간 복잡도 가 발생했으며, 해당 사례에서 1.2MB 파일의 토큰화는 약 12,000배 느려짐 SQLite 컴파일에 Zig를 사용하지 않은 Mac에서는 문제가 나타나지 않았으 …",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "Rust 기반 체스 분석 서비스에서 약 4만 건의 JSON 레코드를 SQLite에 저장하는 데 수 분이 걸리고 CPU 코어 하나가 포화 되는 문제가 발생함 원인은",
+    "thumbnail": "https://social.news.hada.io/topic/36653?v=50e72ea19a1ab3ffd2aa8478ca6c0380",
+    "score": 3.105,
+    "engagement": 0,
+    "matched_keywords": [
+      "토큰화"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "지캐시 업그레이드 임박…1600만달러 자산 동결 위기",
+    "url": "https://www.blockmedia.co.kr/archives/1162086?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-11-05T20:04:50+00:00",
+    "raw_excerpt": "[멕시코=심영재 특파원] 프라이버시 중심 디지털자산(가상자산) 지캐시(ZEC)가 네트워크 업그레이드를 앞두고 약 1600만달러 상당의 코인이 동결될 위험에 놓였다. 구형 프라이버시 시스템인 스프라우트(Sprout)에 남아 있는 자산을 업그레이드 전에 옮기지 않으면 개인키를 보유하고 있어도 인출할 수 없게 된다. 디크립트는 5일(현지시각) 지캐시의 NU7 업그레이드가 미국 시간으로 이날 저녁 진행될 예정이며, 스프라우트에 남은 약 1만2224ZEC가 인출 불가능한 상태로 전환될 수 있다고 [...]",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[멕시코=심영재 특파원] 프라이버시 중심 디지털자산(가상자산) 지캐시(ZEC)가 네트워크 업그레이드를 앞두고 약 1600만달러 상당의 코인이 동결될 위험에 놓였다",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/10/20261006-151615.png",
+    "score": 3.059,
+    "engagement": 0,
+    "matched_keywords": [
+      "가상자산"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "XRP 12~13달러 가능성…에그라그, 2030년대 초 27달러 전망",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/433647",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-11-05T22:08:07+00:00",
+    "raw_excerpt": "에그라그(Egrag) 가상자산 차트 분석가는 11월 4일 X 게시물에서 주간 차트를 근거로 리플(XRP)의 장기 가격 구간으로 12~13달러(약 1만6080~1만7420원)를 가장 가능성이 높은 구간으로 제시했다. 에그라그는 4일 X 게시물에 차트를 공개하며 “거시적 강세만 보인다”고 썼다. 해당 차트를 11월 1일 구독자에게 먼저 공유했다고도 밝혔다. 에그라그는 2018년 이후의 주간 차트에 엘리엇 파동식 계산과 과거 가격 변동폭을 적용했다. 데일리코인은 6일 기사에서 이 차트가 2030년대 초 최대 27달러(약 3만6180원)까지의 경로를 제시했다고 보도했다. 에그라그는 11월 4일 X 게시물에서 목표 산출에 세 번째 파동의 길이가 같은 구조에서 첫... 더보기",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "에그라그(Egrag) 가상자산 차트 분석가는 11월 4일 X 게시물에서 주간 차트를 근거로 리플(XRP)의 장기 가격 구간으로 12~13달러(약 1만6080~1만",
+    "thumbnail": "https://f1.tokenpost.kr/2026/11/drmqbo0yeg.jpg",
+    "score": 2.787,
+    "engagement": 0,
+    "matched_keywords": [
+      "가상자산"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "morning"
+  }
+]
