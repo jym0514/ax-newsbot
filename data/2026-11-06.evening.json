@@ -1,0 +1,642 @@
+[
+  {
+    "title": "[게시판] 리얼월드, 로봇 파운데이션 모델 ‘리얼덱스’ 시연 등 단신",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217113",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-06T17:00:00+00:00",
+    "raw_excerpt": "■ 리얼월드(대표 류중희)는 중국 상하이에서 열리는 중국국제수입박람회(CIIE 2026)에 참가해 로봇 파운데이션 모델(RFM) ‘리얼덱스’를 시연한다고 밝혔다. 한국과 일본 제조 현장의 실데이터로 학습해 다섯 손가락 로봇 핸드의 정밀 조작을 지원한다. 현장에서는 휴머노이드 로봇이 움직이는 컨베이어 벨트 위에서 서로 다른 형태의 물체를 집어 옮기는 모습을 선보인다.■ 도구로보틱스(대표 김진효)는 ‘글로벌 ICT 표준 컨퍼런스(GISC) 2026’에서 ‘2026 ICT 특허경영대상’ 과학기술정보통신부 장관 표창을 수상했다고 밝혔다.",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "■ 리얼월드(대표 류중희)는 중국 상하이에서 열리는 중국국제수입박람회(CIIE 2026)에 참가해 로봇 파운데이션 모델(RFM) ‘리얼덱스’를 시연한다고 밝혔다.",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217113_221311_3239.jpeg",
+    "score": 9.423,
+    "engagement": 0,
+    "matched_keywords": [
+      "휴머노이드",
+      "휴머노이드 로봇",
+      "로봇 파운데이션 모델"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "애질리티, 미국 휴머노이드 기업 최초 나스닥 상장…수익성은 과제",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217098",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-06T15:57:11+00:00",
+    "raw_excerpt": "미국 휴머노이드 로봇 기업 애질리티 로보틱스(Agility Robotics)가 나스닥에 상장했다. 미국에서 휴머노이드 로봇을 주력 사업으로 하는 기업이 증시에 입성한 첫 사례다. 엔비디아와 아마존, 소프트뱅크 등이 투자하고 실제 물류·제조 현장에 로봇을 공급하며 사업 기반을 확보했지만, 매출에 비해 적자 규모가 커 수익성 입증이 과제로 남았다.블룸버그와 비즈니스 인사이더 등에 따르면, 애질리티는 5일(현지시간) 특수 목적 인수회사(SPAC)인 처칠 캐피털 XI(Churchill Capital Corp. XI)와의 합병을 마무리하고",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "미국 휴머노이드 로봇 기업 애질리티 로보틱스(Agility Robotics)가 나스닥에 상장했다. 미국에서 휴머노이드 로봇을 주력 사업으로 하는 기업이 증시에 입",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217098_221289_720.png",
+    "score": 9.338,
+    "engagement": 0,
+    "matched_keywords": [
+      "휴머노이드",
+      "휴머노이드 로봇",
+      "agility robotics"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "엔비디아, 미국 노후 전화국 130곳 AI 데이터센터로 전환 추진",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217096",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-06T17:25:00+00:00",
+    "raw_excerpt": "엔비디아가 미국의 노후 전화국 건물을 AI 데이터센터로 개조해 20개 주에 걸친 분산형 네트워크를 구축하는 방안을 추진하고 있다. 신규 데이터센터 건설에 필요한 시간과 비용, 인허가 부담을 줄이고 기존 통신시설에 남아 있는 전력과 통신 인프라를 활용하려는 전략이다.디 인포메이션은 5일(현지시간) 엔비디아가 사모펀드 아폴로 글로벌 매니지먼트와 손잡고 아폴로가 소유한 광대역 통신업체 브라이트스피드(Brightspeed)의 기존 시설을 AI 데이터센터로 전환하는 방안을 논의하고 있다고 보도했다.브라이트스피드는 미국 전역에 음성·데이터 통",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "엔비디아가 미국의 노후 전화국 건물을 AI 데이터센터로 개조해 20개 주에 걸친 분산형 네트워크를 구축하는 방안을 추진하고 있다. 신규 데이터센터 건설에 필요한",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217096_221287_272.jpg",
+    "score": 8.482,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "엔비디아"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "메타, 표정·몸짓으로 대화하는 'AI 아바타' 출시…실시간 영상 통화 구현",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217097",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-06T16:10:19+00:00",
+    "raw_excerpt": "메타가 개인용 AI 에이전트 '뮤즈(Muse)'에 실시간 음성 대화와 영상 통화 기능을 추가했다. 사용자는 화면 속 AI 아바타와 얼굴을 마주한 듯 대화할 수 있으며, 아바타는 대화 내용과 말투에 맞춰 표정과 몸짓을 바꾼다.메타는 5일(현지시간) '뮤즈 리얼타임 보이스(Muse Realtime Voice)'와 '뮤즈 리얼타임 아바타(Muse Realtime Avatar)'를 결합한 실시간 대화 기능을 미국 사용자에게 제공하기 시작했다고 밝혔다. 지난 9월 개발자 행사 '메타 커넥트 2026'에서 처음 공개한 기술이다.새 기능은 사용",
+    "topic": "personal_ai_agent",
+    "topic_label": "🧑‍💼 개인 AI 에이전트 · 금융비서",
+    "summary": "메타가 개인용 AI 에이전트 '뮤즈(Muse)'에 실시간 음성 대화와 영상 통화 기능을 추가했다. 사용자는 화면 속 AI 아바타와 얼굴을 마주한 듯 대화할 수 있",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217097_221288_455.png",
+    "score": 8.381,
+    "engagement": 0,
+    "matched_keywords": [
+      "뮤즈",
+      "개인용 ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "중국, 엔비디아 H200 수입 제한…60만개 홍콩에 발 묶여",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217106",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-06T15:43:57+00:00",
+    "raw_excerpt": "중국이 미국산 첨단 반도체 의존도를 낮추기 위해 엔비디아 칩 수입을 제한하면서 홍콩에 'H200' 칩 60만개가 묶여 있는 것으로 나타났다. 중국 기업들의 AI 연산 수요는 빠르게 늘고 있지만, 당국이 대규모 수입 승인을 보류하면서 공급이 막힌 상황이다.로이터는 5일(현지시간) 정통한 소식통들을 인용, 홍콩에 보관된 H200 칩 약 60만개가 중국 본토로 운송되기를 기다리고 있다고 보도했다.최근 몇달 동안 중국 당국이 일부 물량의 반입을 허용하면서 주요 인터넷 기업들은 각각 1만개의 H200을 확보한 것으로 전해졌다. 중개업체를 통",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "중국이 미국산 첨단 반도체 의존도를 낮추기 위해 엔비디아 칩 수입을 제한하면서 홍콩에 'H200' 칩 60만개가 묶여 있는 것으로 나타났다. 중국 기업들의 AI",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217106_221297_3131.png",
+    "score": 8.345,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "엔비디아"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "문샷AI, 엔비디아 블랙웰 확보 위해 유럽으로 눈 돌려...8000개 GPU 임대 추진",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217103",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-06T15:37:07+00:00",
+    "raw_excerpt": "중국의 문샷 AI가 엔비디아의 최신 AI 칩 '블랙웰'을 확보하기 위해 유럽 데이터센터를 통한 컴퓨팅 자원 임대를 추진하고 있다. 미국의 반도체 수출 규제를 우회해 대규모 GPU에 접근하려는 움직임으로, 해외 클라우드 서비스를 통한 중국 기업의 첨단 반도체 이용 문제가 다시 주목받고 있다.CNBC는 5일(현지시간) 복수의 소식통을 인용, 문샷 AI가 올해 유럽에 데이터센터를 운영하는 네오클라우드 업체들과 엔비디아 GPU 임대 계약을 논의했다고 보도했다.논의 대상에는 블랙웰 GPU 8000개 이상으로 구성된 클러스터가 포함된 것으로",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "중국의 문샷 AI가 엔비디아의 최신 AI 칩 '블랙웰'을 확보하기 위해 유럽 데이터센터를 통한 컴퓨팅 자원 임대를 추진하고 있다. 미국의 반도체 수출 규제를 우회",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217103_221295_5922.jpg",
+    "score": 8.336,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "엔비디아"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "\"아내가 챗GPT로 남편 독살 계획\"…오픈AI 피소",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217102",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-06T15:09:02+00:00",
+    "raw_excerpt": "'챗GPT'가 사용자의 남편을 살해하기 위한 독살 계획을 세우는 데 도움을 줬다는 주장으로 오픈AI가 소송을 당했다. 남편은 아내가 챗GPT와 대화하며 독성 물질의 치사량과 투여 방법, 범행 은폐 방법 등을 알아봤다고 주장했다. 아내에 대한 형사 사건은 증거 불충분으로 기각된 상태다.5일(현지시간) 블룸버그에 따르면, 미국 노스캐롤라이나주에 거주하는 제임스 게이츠는 지난달 오픈AI를 상대로 소송을 제기했다. 소장에 따르면 그는 2025년 9월 아내 셰릴의 자필 메모를 발견한 뒤 자신이 독살당하려 했다고 의심하기 시작했다.메모에는 여",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "'챗GPT'가 사용자의 남편을 살해하기 위한 독살 계획을 세우는 데 도움을 줬다는 주장으로 오픈AI가 소송을 당했다. 남편은 아내가 챗GPT와 대화하며 독성 물질",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217102_221294_5039.jpg",
+    "score": 8.298,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "메타 \"중간선거 이후 미국 데이터센터 건설 어려워져\"...해외 투자 검토",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217093",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-06T12:40:15+00:00",
+    "raw_excerpt": "미국 중간선거에서 데이터센터 건설에 반대하는 민주당이 약진하면서 미국 내 AI 인프라 확충에 제동이 걸릴 수 있다는 전망이 나왔다. 메타는 신규 데이터센터 건설에 대한 정부 심사가 강화될 것으로 보고 해외 투자 확대까지 검토하고 있다.디나 파월 매코믹 메타 사장 겸 부회장은 5일(현지시간) 미국 캘리포니아주 나파에서 열린 'WSJ 테크' 컨퍼런스에서 \"앞으로 데이터센터 건설은 더 어려워질 것\"이라고 말했다. 중간선거에서 민주당이 상·하원과 주요 주지사 선거에서 승리하면서 신규 사업에 대한 규제와 심사가 까다로워질 것이라는 설명이다.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "미국 중간선거에서 데이터센터 건설에 반대하는 민주당이 약진하면서 미국 내 AI 인프라 확충에 제동이 걸릴 수 있다는 전망이 나왔다. 메타는 신규 데이터센터 건설에",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217093_221284_3324.jpg",
+    "score": 7.121,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "지정호 토스 CISO “보안 조직은 기업의 AX를 가능케 해야”",
+    "url": "https://byline.network/2026/11/6-467/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-11-06T08:01:47+00:00",
+    "raw_excerpt": "“토스의 모든 보안 조직은 기업의 AX를 막는 조직에서 가능하게 하는 조직으로 일하려고 노력하고 있습니다.” 지정호 토스 정보보호최고책임자(CISO)는 6일 서울 삼성동 코엑스에서 열린 보안 콘퍼런스 ‘토스 가디언즈 26’ 기조연설에서 이렇게 말했다. 그는 “기업의 인공지능 전환(AX)이 빨라지는 만큼, 이제 보안 조직도 새로운 기술을 차단하는 방식에서 벗어나 안전한 활용을 지원하는 방식으로 업무 체계를 바꿔야 한다”고 강조했다.",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "“토스의 모든 보안 조직은 기업의 AX를 막는 조직에서 가능하게 하는 조직으로 일하려고 노력하고 있습니다.” 지정호 토스 정보보호최고책임자(CISO)는 6일 서울",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/11/TOSS123.jpg",
+    "score": 6.532,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직",
+      "ax"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "기업 AI, 만들고 쓰고 지킨다…아이티센 ‘에이전트고’",
+    "url": "https://byline.network/2026/11/1106-11/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-11-06T07:59:33+00:00",
+    "raw_excerpt": "아이티센그룹이 AI 에이전트 구축부터 운영, 보안까지 통합 관리하는 플랫폼 ‘에이전트고 2026’을 선보였다. 독립형 보안 플랫폼 ‘에이전트고 가드’로 섀도우 AI와 데이터 유출 위험에 대응하고, 자체 개발한 AI 비서 ‘세니 3.0’을 통해 그룹 내 업무 효율을 높였다. 향후 기업의 업무 경험과 암묵지를 AI 에이전트에 반영해 맞춤형 업무 자동화를 고도화할 계획이다.",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "아이티센그룹이 AI 에이전트 구축부터 운영, 보안까지 통합 관리하는 플랫폼 ‘에이전트고 2026’을 선보였다. 독립형 보안 플랫폼 ‘에이전트고 가드’로 섀도우 A",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/11/AgentGo.jpg",
+    "score": 6.529,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "\"피지컬AI 닻 올렸다\"…K-팹리스, 실전 무기 갖추고 출전 채비",
+    "url": "https://zdnet.co.kr/view/?no=20261106154821",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-11-06T07:43:41+00:00",
+    "raw_excerpt": "[지디넷코리아]인공지능(AI)이 클라우드를 넘어 로봇, 자동차, 스마트팩토리 등 현실 세계 기기로 확산하면서 '피지컬 AI(Physical AI)'에 대한 시장 기대가 커지고 있다. 클라우드 그래픽처리장치(GPU) 중심 연산 환경이 현장(에지·로봇·차량)으로 이동하면서 전성비와 발열 관리가 승부처로 떠오른 가운데, 고효율 신경망처리장치(NPU)와 맞춤형 반도체 기술력을 앞세운 국내 팹리스도 본격 출전 채비에 나섰다.6일 반도체 업계에 따르면 수퍼게이트는 자율주행용 AI 반도체에서 시작한 제품 로드맵을 무인기와 로봇으로 넓히고 있다. 자동차에서 쌓은 기능안전 설계 경험을 바탕으로 자율비행과 피지컬 AI용 반도체까지 단계적으로 확장할 계획이다.수퍼게이트는 무인기용 AI 반도체와 로봇 온디바이스 학습 반도체 국책과제 수행기업에 차례로 선정됐다. 자체 NPU 아키텍처 'SMM(Scalable Multi-Modal)'을 기반으로 한 첫 칩 'VISTA1'은 2027년 3월 첫 실리콘(시제품 칩) 확보가 목표다.제품 로드맵은 '자율 시리즈'로 묶인다. 출발점은 자율주행용 AI 시스템온칩(SoC) 'HEAD D100'이다. 160TOPS급 NPU와 24코어 중앙처리장치(CPU) 등을 한 칩에 담았고, 자동차 기능안전 등급(ASIL) 기준으로 칩 수준 ASIL-B, 모듈 수준 ASIL-D 대응을 목표로 설계됐다. 이후 자율비행용 'D300', 피지",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "[지디넷코리아]인공지능(AI)이 클라우드를 넘어 로봇, 자동차, 스마트팩토리 등 현실 세계 기기로 확산하면서 '피지컬 AI(Physical AI)'에 대한 시장",
+    "thumbnail": "https://image.zdnet.co.kr/2026/05/04/f228996f7aaf78d4f663b51ab2f7a3de.png",
+    "score": 6.002,
+    "engagement": 0,
+    "matched_keywords": [
+      "physical ai",
+      "피지컬 ai",
+      "피지컬ai"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "AI 입법, 기존 법률 개정 우선…국가AI전략위 3차 전체회의서 확정",
+    "url": "https://zdnet.co.kr/view/?no=20261106111202",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-11-06T07:01:24+00:00",
+    "raw_excerpt": "[지디넷코리아]국가인공지능전략위원회가 인공지능(AI) 관련 법률을 새로 만들기보다 AI기본법과 기존 법률을 우선 손질하는 범정부 입법 원칙을 확정했다. AI기본법 적용 범위에서 제외된 국방·안보 분야는 별도 입법을 추진한다.국가AI전략위는 6일 서울스퀘어에서 하정우 상근 부위원장 주재로 제3차 전체회의를 열고 '대한민국 AI 입법 프레임워크'를 비롯한 3개 안건을 의결했다고 밝혔다. 국가 AI 핵심과제 추진을 위한 전담조직(TF) 7개 구성과 범정부 데이터 공유·활용 방안도 확정했다.이번 입법 원칙은 AI 기술 확산에 따라 관련 법안이 빠르게 늘어나는 상황에서 부처별 정책과 규제 기준을 일관되게 마련하기 위해 수립됐다.국가AI전략위에 따르면 22대 국회 개원 이후 지난달 19일까지 약 29개월 동안 AI를 언급한 법률 제·개정안은 477건 발의됐다. 21대 국회 4년간 발의된 170건과 비교하면 월평균 약 4.7배 증가한 규모다.위원회는 AI 관련 법률을 AI 발전, 산업·공공 분야 AI 전환(AX), 안전·신뢰 확보, 오남용 방지 등 4개 분야로 구분했다. 이를 바탕으로 AI기본법 중심 입법과 국방·안보 분야 입법 공백 해소, 기업의 규제 예측 가능성 제고, AI 부작용에 대한 신속한 대응 등 4대 원칙을 제시했다.핵심은 기존 법체계를 우선 활용한다는 데 있다. AI기본법이나 다른 법률로 대응할 수 있는 사안은 새로운 독립법을 제정",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "[지디넷코리아]국가인공지능전략위원회가 인공지능(AI) 관련 법률을 새로 만들기보다 AI기본법과 기존 법률을 우선 손질하는 범정부 입법 원칙을 확정했다. AI기본법",
+    "thumbnail": "https://image.zdnet.co.kr/2026/11/06/9adad5729e4beba345eaeafe3f170e0c.jpg",
+    "score": 5.962,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제",
+      "법안",
+      "입법"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "배달앱 수수료 상한제 실효성 논란…“자영업자 보호 넘어 시장 전체 봐야”",
+    "url": "https://www.etnews.com/20261106000197",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-11-06T04:33:57+00:00",
+    "raw_excerpt": "배달플랫폼 수수료 상한제 등 가격 규제 입법을 둘러싸고 정책 실효성과 시장 부작용을 면밀히 검토해야 한다는 목소리가 나왔다. 배달플랫폼 수수료를 법으로 강제하는 획일적 규제가 플랫폼 생태계를 위축시키고 자영업자와 소비자 모두에게 피해를 줄 수 있다는 우려도 제기됐다. 국민의힘 김민전 의원은 6일 국회의원회관에서 한국경쟁법학회 주관으로 '자영업자 보호를 위한 배달플랫폼 입법, 무엇을 고려해야 하나?' 토론회를 개최했다. 현재 국회에서는 수수료 상",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "배달플랫폼 수수료 상한제 등 가격 규제 입법을 둘러싸고 정책 실효성과 시장 부작용을 면밀히 검토해야 한다는 목소리가 나왔다. 배달플랫폼 수수료를 법으로 강제하는",
+    "thumbnail": "",
+    "score": 5.721,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제",
+      "입법"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "'주가 누르기 방지법' 결론 낸다…대통령 주시 속 9일 '끝장토론'",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=677906",
+    "source": "블로터",
+    "source_type": "rss",
+    "published_at": "2026-11-06T14:38:27+00:00",
+    "raw_excerpt": "최대주주가 상속·증여세 부담을 낮추려 주가를 인위적으로 억누르는 행위를 차단하는 상속·증여세법 개정안, 이른바 '주가 누르기 방지법'의 입법 방향을 결정짓는 공론장이 열린다.6일 투자은행(IB) 업계와 이훈기 더불어민주당 의원실에 따르면 민주당 코리아프리미엄 K-자본시장특별위원회가 오는 9일 오후 4시 국회의원회관 제6간담회의실에서 '주가누르기 방지를 위한 상속·증여세법 개정안 공개토론회'를 개최한다최근 의무공개매수 제도 등 주요 자본시장 개혁 법안이 후퇴 조짐을 보인다는 비판 속에, 이재명 대통령이 '주가 누르기' 사안을 직접 인",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "최대주주가 상속·증여세 부담을 낮추려 주가를 인위적으로 억누르는 행위를 차단하는 상속·증여세법 개정안, 이른바 '주가 누르기 방지법'의 입법 방향을 결정짓는 공론",
+    "thumbnail": "https://cdn.bloter.net/news/thumbnail/202611/677906_292335_3726_v150.jpg",
+    "score": 5.716,
+    "engagement": 0,
+    "matched_keywords": [
+      "법안",
+      "입법"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "씨이랩, 국민성장펀드 투자 유치…100억 규모 전환사채 발행",
+    "url": "https://zdnet.co.kr/view/?no=20261106161209",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-11-06T07:12:09+00:00",
+    "raw_excerpt": "[지디넷코리아]AI인프라 전문기업 씨이랩(각자대표 윤세혁·채정환)이 국민성장펀드 자금을 유치해 100억 원 규모의 전환사채(CB)를 발행한다.6일 금융감독원 전자공시에 따르면 씨이랩은 이사회 결의를 거쳐 제1회 무기명식 무보증 사모 전환사채 100억 원을 발행하기로 했다. 전환가액은 주당 8106원이며 만기는 5년이다. 인수계약은 오는 10일, 납입은 16일 예정이다.표면이자율과 만기보장수익률은 모두 연 0%로, 만기까지 별도의 이자비용 없이 자금을 조달한다. 주가 하락에 따른 전환가액 조정(리픽싱) 조항은 두지 않았다. 여기에 인수금액의 50% 범위에서 매도청구권(콜옵션)을 확보해 주가 상승 시 기존 주주의 지분 희석 부담을 완화할 수 있는 장치도 마련했다. 투자자의 조기상환청구권(풋옵션)은 발행 30개월 이후부터 행사할 수 있다.이번 CB는 한국투자밸류자산운용, 디비자산운용, 수성자산운용, 오라이언자산운용이 운용하는 국민성장펀드 자펀드가 총 80억 원, 오라이언자산운용의 코스닥벤처펀드 등이 20억 원을 인수한다. 국민성장펀드는 AI·반도체·바이오 등 첨단전략산업 육성을 목적으로 조성한 정책 펀드다. 씨이랩은 AI 인프라를 핵심 사업으로 영위해 펀드의 주목적 투자대상인 첨단전략산업 기업에 해당한다.씨이랩은 이번 조달 자금을 AI데이터센터(AIDC) 사업 확대 재원으로 투입한다. 회사 측은 \"국내 AI 컴퓨팅 인프라 투자가 정부 주도",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "[지디넷코리아]AI인프라 전문기업 씨이랩(각자대표 윤세혁·채정환)이 국민성장펀드 자금을 유치해 100억 원 규모의 전환사채(CB)를 발행한다.6일 금융감독원 전자",
+    "thumbnail": "https://image.zdnet.co.kr/2026/11/06/92e45f5ed5ee33a771b1e6babefcbe2f.png",
+    "score": 5.297,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처",
+      "투자 유치"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "유럽 최대 운용사 아문디, 이더리움에서 주가지수펀드 토큰화",
+    "url": "https://www.blockmedia.co.kr/archives/1162310?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-11-06T05:45:17+00:00",
+    "raw_excerpt": "[블록미디어 함지현 기자] 유럽 최대 자산운용사 아문디(Amundi)가 유럽 대표 주가지수를 추종하는 펀드의 지분을 이더리움 블록체인에서 토큰화했다. 6일 업계에 따르면 아문디는 5일 아문디 코어 STOXX 유럽 600(Amundi Core STOXX Europe 600) 펀드의 토큰화 지분 클래스를 출시했다고 발표했다. 해당 펀드는 유럽 주요 국가의 대형주·중형주·소형주 600개 기업으로 구성된 STOXX 유럽 600 지수를 추종한다. 유럽 주식시장 전반에 분산 투자할 [...]",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[블록미디어 함지현 기자] 유럽 최대 자산운용사 아문디(Amundi)가 유럽 대표 주가지수를 추종하는 펀드의 지분을 이더리움 블록체인에서 토큰화했다. 6일 업계에",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/11/20261106-143705.png",
+    "score": 5.216,
+    "engagement": 0,
+    "matched_keywords": [
+      "블록체인",
+      "토큰화"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "LIG D&A, 천궁-II 수출 날았지만 '로봇 손실' 발목",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=677978",
+    "source": "블로터",
+    "source_type": "rss",
+    "published_at": "2026-11-06T15:51:19+00:00",
+    "raw_excerpt": "LIG디펜스앤에어로스페이스(LIG D A)가 3분기 매출 증가에도 영업이익은 20% 이상 감소했다. 중동 수출형 천궁-II 사업의 매출 확대가 외형 성장을 뒷받침했지만 연구개발 사업 비중 증가와 판관비 부담, 미국 로봇 자회사 고스트로보틱스의 영업손실 등이 수익성에 영향을 미쳤다. 생산시설 증설 과정에서 발생한 일회성 손상차손까지 반영되면서 당기순이익은 적자로 전환했다.LIG D A는 6일 3분기 연결 기준 매출액 1조713억원, 영업이익 676억원을 각각 기록했다고 밝혔다. 전년 동기 대비 매출액은 2.1% 증가했지만 영업이익은",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "LIG디펜스앤에어로스페이스(LIG D A)가 3분기 매출 증가에도 영업이익은 20% 이상 감소했다. 중동 수출형 천궁-II 사업의 매출 확대가 외형 성장을 뒷받침",
+    "thumbnail": "https://cdn.bloter.net/news/thumbnail/202611/677978_292461_3641_v150.jpg",
+    "score": 5.109,
+    "engagement": 0,
+    "matched_keywords": [
+      "로보틱스"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "약 2만 달러로 학습한 준수한 텍스트 기반 이미지 생성 모델, Apache 2.0 가중치 공개",
+    "url": "https://news.hada.io/topic?id=36694&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-11-06T05:33:17+00:00",
+    "raw_excerpt": "Linum이 차기 영상 모델을 위한 개념 검증으로 Pyramid-JiT(P-JiT) 이미지 생성 모델을 실험적으로 공개함. 사전학습과 후속학습에 든 GPU 비용은 총 21,038달러 임 별도 VAE 없이 픽셀 공간에서 압축과 생성을 함께 학습 하며, 32×32 토큰 축소로 기존 Linum v2 대비 어텐션 문맥 길이를 4분의 1로 줄임 DiT 중간 블록에서 저해상도 이미지를 예측 해 초기 블록의 기울기 신호를 강화함. 초기 실험에서는 Linum v2보다 11배 적은 샘플로 수렴했으며, 이번에는 총 약 6억 6,000만 샘플까지 학습을 확대함 2B 규모 DiT와 4B 텍스트 인코더 를 …",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "Linum이 차기 영상 모델을 위한 개념 검증으로 Pyramid-JiT(P-JiT) 이미지 생성 모델을 실험적으로 공개함. 사전학습과 후속학습에 든 GPU 비용은",
+    "thumbnail": "https://social.news.hada.io/topic/36694?v=f0e4b67215b76d9ae30925998000960f",
+    "score": 5.033,
+    "engagement": 0,
+    "matched_keywords": [
+      "gpu"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[OCI 키 플레이어] 반도체 전담 조직 신설…서성원 부사장 ‘골든타임’ 잡는다",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=677944",
+    "source": "블로터",
+    "source_type": "rss",
+    "published_at": "2026-11-06T13:51:48+00:00",
+    "raw_excerpt": "OCI가 반도체 소재사업을 미래 성장축으로 키우기 위해 조직 정비에 나섰다. OCI는 최근 조직 개편을 통해 사업총괄 산하에 반도체소재사업본부를 신설했다. 반도체 소재 분야의 전문성을 높이고 제품별 시장 환경에 맞춘 성장 전략을 추진하기 위한 조치다. 사업총괄을 맡은 서성원 부사장에게는 조직의 전문성을 높이는 동시에 기술 개발 성과를 실제 매출로 연결해야 하는 과제가 주어졌다. 제품별 성장전략 실행력 주목이번 조직 개편은 반도체 소재사업을 별도 성장 영역으로 관리하겠다는 의지를 보여준다. OCI는 기존 경영관리·기술안전·사업 부문을",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "OCI가 반도체 소재사업을 미래 성장축으로 키우기 위해 조직 정비에 나섰다. OCI는 최근 조직 개편을 통해 사업총괄 산하에 반도체소재사업본부를 신설했다. 반도체",
+    "thumbnail": "https://cdn.bloter.net/news/thumbnail/202611/677944_292414_4433_v150.jpg",
+    "score": 4.997,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "로빈후드 CEO, RWA·밈 대표 체인 목표…주식 토큰 개발자에 개방",
+    "url": "https://www.tokenpost.kr/news/blockchain/433968",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-11-06T08:56:54+00:00",
+    "raw_excerpt": "로빈후드($HOOD)가 자체 블록체인 로빈후드 체인을 실물자산(RWA)과 밈 토큰 분야의 대표 체인으로 키우겠다는 목표를 밝혔다. 주식 토큰은 이미 체인에 올라와 있으며, 개발자들이 이를 바탕으로 서비스를 만들 수 있도록 열어뒀다고 설명했다. 블라드 테네프(Vlad Tenev) 로빈후드 공동창업자 겸 CEO는 6일 X에서 약 45분간 개발자·커뮤니티와 공개 문답(AMA)을 열었다. 주제는 로빈후드 체인 이야기(Lets talk Robinhood Chain)였고, 체인의 최근 진행 상황과 장기 비전이 소개됐다. 이 내용은 블록비츠(BlockBeats)가 전했다. 자체 체인을 만든 이유에 대해 테네프는 기존 생태계를 깊이 살펴봤지만 로빈후드의 특정 요구를 온전히... 더보기",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "로빈후드($HOOD)가 자체 블록체인 로빈후드 체인을 실물자산(RWA)과 밈 토큰 분야의 대표 체인으로 키우겠다는 목표를 밝혔다. 주식 토큰은 이미 체인에 올라와",
+    "thumbnail": "https://f1.tokenpost.kr/2026/11/7y7oyshgwj.jpg",
+    "score": 4.796,
+    "engagement": 0,
+    "matched_keywords": [
+      "블록체인",
+      "rwa"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "한동훈, 코스피 5000 무너지자…“'삼전닉스 몰빵' 국민연금, 李 대통령이 직접 밝혀라”",
+    "url": "https://www.etnews.com/20261106000103",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-11-06T01:19:20+00:00",
+    "raw_excerpt": "코스피가 6일 장중 5000선 아래로 무너진 가운데 한동훈 무소속 의원이 이재명 대통령을 향해 국민연금의 삼성전자·SK하이닉스 투자 상황을 공개하라고 촉구했다. 정부가 주식시장 상승을 국정 성과로 내세웠지만, 정작 주가 급락에 따른 국민연금의 손실 위험에는 제대로 대비하지 않았다는 비판이다. 한 의원은 이날 사회관계망서비스(SNS)를 통해 “방금 전 코스피 5000이 무너졌다”며 “간밤 나스닥은 5.5%, 미국 반도체지수는 12% 넘게 폭락했다",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "코스피가 6일 장중 5000선 아래로 무너진 가운데 한동훈 무소속 의원이 이재명 대통령을 향해 국민연금의 삼성전자·SK하이닉스 투자 상황을 공개하라고 촉구했다.",
+    "thumbnail": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.bf8ddc3a682f459b8a83d74ce63c4bd4_P1.jpg",
+    "score": 4.769,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[종합] AX 신사업 키운 CJ올리브네트웍스, 역대 3분기 최대 실적 썼다",
+    "url": "https://zdnet.co.kr/view/?no=20261106165519",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-11-06T07:59:39+00:00",
+    "raw_excerpt": "[지디넷코리아]CJ올리브네트웍스가 인공지능 전환(AX) 사업 확대에 힘입어 역대 3분기 기준 최대 실적을 달성했다. AI 팩토리와 물류, 미디어 AI 등 신사업 수주가 늘면서 매출과 영업이익이 동반 성장한 가운데 AI 데이터센터를 비롯한 AX 사업 확대로 성장세를 이어간다는 전략이다.CJ올리브네트웍스는 올해 3분기 매출 2242억원, 영업이익 165억원을 기록했다고 6일 밝혔다. 전년 동기 대비 각각 9.7%, 9.1% 증가한 수치로, 역대 3분기 기준 최대 실적이다.매출은 지난해 3분기 2043억원보다 199억원 증가했다. 같은 기간 영업이익도 151억원에서 165억원으로 14억원 늘었다. 상각전영업이익(EBITDA)은 231억원으로 전년 동기 214억원 대비 7.9% 증가했다.올해 3분기 누적 매출은 6906억원으로 전년 동기 대비 17% 증가했다. 누적 영업이익은 478억원으로 지난해 같은 기간보다 68억원 늘었으며 EBITDA도 676억원으로 80억원 증가했다.CJ올리브네트웍스는 지난해 매출 8532억원, 영업이익 845억원으로 연간 최대 실적을 기록한 데 이어 올해도 성장세를 이어가고 있다. 유인상 대표 취임 이후 제조·물류 AX와 AI 데이터센터 등 신사업을 확대하며 기존 그룹 계열사 중심 사업구조를 외부 고객으로 넓히는 모습이다.이번 실적 성장은 AI 팩토리와 물류, 미디어 AI 등 AX 사업 수주 확대가 이끌었다. 특히",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "[지디넷코리아]CJ올리브네트웍스가 인공지능 전환(AX) 사업 확대에 힘입어 역대 3분기 기준 최대 실적을 달성했다. AI 팩토리와 물류, 미디어 AI 등 신사업",
+    "thumbnail": "https://image.zdnet.co.kr/2026/01/07/22b262020ace7baef4cc4775e4c11f86.jpg",
+    "score": 4.667,
+    "engagement": 0,
+    "matched_keywords": [
+      "ax"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "JP모건 키넥시스: 은행은 블록체인을 어떻게 써야 하는가?",
+    "url": "https://www.blockmedia.co.kr/archives/1162397?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-11-06T07:45:37+00:00",
+    "raw_excerpt": "Key Takeaways JP모건은 하루 12조 달러가 오가는 세계 최대 달러 결제 은행이고, 블록체인 사업부 키넥시스에서 이 결제를 24시간 처리하는 상품을 만들고 있다. 기업이 밤낮없이 돈을 옮기는 블록체인 예금계좌(BDA)가 가장 많이 쓰이지만, 하루 거래액은 많아야 35억 달러로 전체 결제의 0.03%에 불과하다. 예금을 코인으로 바꾼 JPM 코인은 출시 후 48번 움직였을 뿐이고, 몇 시간 단위로 돈을 빌려주는 [...]",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "Key Takeaways JP모건은 하루 12조 달러가 오가는 세계 최대 달러 결제 은행이고, 블록체인 사업부 키넥시스에서 이 결제를 24시간 처리하는 상품을 만",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/11/20261106-163833.jpg",
+    "score": 4.654,
+    "engagement": 0,
+    "matched_keywords": [
+      "블록체인"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "퇴근 후 카톡은 유죄 연결되지 않을 권리의 법제화 쟁점",
+    "url": "https://zdnet.co.kr/view/?no=20261106161453",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-11-06T07:14:53+00:00",
+    "raw_excerpt": "[지디넷코리아]안녕하세요 AMEET 기자입니다. 업무용 메신저와 스마트폰이 우리 삶 깊숙이 파고들면서 이제는 퇴근 이후에도 업무로부터 완전히 자유롭지 못한 시대가 되었죠. 여러분은 어떠신가요? 퇴근 후 들려오는 알람 소리에 가슴이 철렁 내려앉거나, 답장을 해야 할지 말아야 할지 고민하며 스마트폰을 만지작거렸던 경험이 한두 번은 있으실 겁니다. 이러한 변화 속에 근무시간과 개인 시간의 경계가 흐려지는 현상을 두고, 최근 우리 사회에서는 ‘연결되지 않을 권리’를 법으로 보장해야 한다는 목소리가 높아지고 있습니다. 과연 법이라는 도구가 우리의 저녁을 진정으로 지켜줄 수 있을지, 아니면 기업 운영에 또 다른 걸림돌이 될지를 두고 주말을 앞둔 지금 GPT, 제미나이, 클로드 모델로 구성된 다양한 시각의 AI 패널들이 서로 심도 있는 토론을 진행하며 그 이면을 살펴봤습니다.이번 논의에는 서로 다른 전공과 시각을 가진 다섯 명의 AI 패널이 참여해 치열한 의견을 주고받았습니다. 먼저 산업•조직심리학 관점의 패널은 직원의 심리적 안전감과 직무 만족도를 중심에 두고 법제화의 긍정적 효과를 분석했고, 기업문화 관점의 패널은 조직 내 암묵적인 신뢰 관계와 심리적 계약이 법으로 인해 훼손될 가능성을 경고했습니다. 또한 기업 전략 관점의 패널은 24시간 대응이 필수적인 산업군에서 발생할 수 있는 운영 효율성 저하와 핵심 인재 이탈 리스크를 지적했으며, 정신",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "[지디넷코리아]안녕하세요 AMEET 기자입니다. 업무용 메신저와 스마트폰이 우리 삶 깊숙이 파고들면서 이제는 퇴근 이후에도 업무로부터 완전히 자유롭지 못한 시대가",
+    "thumbnail": "https://image.zdnet.co.kr/2026/08/18/9e8e57d5838bd7b2878708121d769566.jpg",
+    "score": 4.625,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[AI는 지금] \"24시간 일하는 AI 비서\"…퍼플렉시티 가세에 빅테크 경쟁 가열",
+    "url": "https://zdnet.co.kr/view/?no=20261106160237",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-11-06T07:03:56+00:00",
+    "raw_excerpt": "[지디넷코리아]인공지능(AI) 검색 기업 퍼플렉시티가 사람의 지시 없이도 업무를 지속적으로 수행하는 AI 비서를 선보이며 빅테크와의 경쟁에 뛰어들었다. 오픈AI와 구글, 앤트로픽 등이 AI 에이전트의 자율적인 업무 수행 능력을 강화하는 가운데 여러 AI가 역할을 나눠 협업하는 서비스까지 등장하면서 시장 선점 경쟁이 한층 치열해질 전망이다.퍼플렉시티는 지난 5일(현지시간) 업무 전담형 AI 에이전트 서비스 '팀메이트(Teammates)'를 공개했다. 개발과 마케팅, 영업 등 특정 업무를 AI에 맡기면 진행 상황을 지속적으로 확인하고 필요한 작업을 자율적으로 수행하는 서비스다.팀메이트는 기존 AI 작업 플랫폼 '컴퓨터(Computer)'를 기반으로 개발됐다. 컴퓨터에 저장된 프로젝트와 스킬, 메모리를 활용해 이전 업무의 맥락을 유지하고 새로운 명령이 없어도 업무 상황이 달라지면 대응하도록 설계됐다. 개별 작업을 처리하는 데서 나아가 특정 업무를 장기간 맡아 수행하는 데 초점을 맞췄다.대표적인 활용 사례는 시스템 장애 대응이다. 개발자가 AI에 야간 당직을 맡기면 시스템 경고를 감지하고 로그와 추적 데이터를 분석해 장애 원인을 파악한다. 이후 수정 코드와 복구 계획을 준비하고 배포 승인 등 사람의 판단이 필요한 경우에만 담당자에게 알리는 방식이다.퍼플렉시티는 팀메이트를 자사 업무에도 활용하고 있다. 아라빈드 스리니바스 퍼플렉시티 최고경영자",
+    "topic": "personal_ai_agent",
+    "topic_label": "🧑‍💼 개인 AI 에이전트 · 금융비서",
+    "summary": "[지디넷코리아]인공지능(AI) 검색 기업 퍼플렉시티가 사람의 지시 없이도 업무를 지속적으로 수행하는 AI 비서를 선보이며 빅테크와의 경쟁에 뛰어들었다. 오픈AI와",
+    "thumbnail": "https://image.zdnet.co.kr/2026/11/06/190f021cc7e6cf88c336f59ba637ee92.gif",
+    "score": 4.615,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai 비서"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "코인 세금 이렇게 바뀐다…과세 유예에서 손실 공제까지 Q&A",
+    "url": "https://www.blockmedia.co.kr/archives/1162278?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-11-06T07:00:50+00:00",
+    "raw_excerpt": "[블록미디어 오수환 기자] 비트코인 투자로 1000만원을 잃었지만 이더리움 투자로 1500만원을 벌었다면 세금은 얼마나 내야 할까. 보유한 코인의 가격이 떨어졌더라도 팔지 않았다면 손실로 인정받을 수 있을까. 정부가 디지털자산(가상자산) 투자 손실을 이후 3년간의 이익에서 공제하는 방안을 추진하면서, 실제 투자 상황에 따라 세금이 어떻게 달라지는지 사례별로 살펴봤다. 정부는 지난 5일 디지털자산 과세를 2029년으로 2년 유예하고 손실 이월공제를 도입하는 [...]",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[블록미디어 오수환 기자] 비트코인 투자로 1000만원을 잃었지만 이더리움 투자로 1500만원을 벌었다면 세금은 얼마나 내야 할까. 보유한 코인의 가격이 떨어졌더",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/11/20261106-143021.png",
+    "score": 4.612,
+    "engagement": 0,
+    "matched_keywords": [
+      "가상자산"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "기업은행·코스닥협회, 코스닥시장 활성화 업무협약",
+    "url": "https://www.fnnews.com/news/202611061527542273",
+    "source": "파이낸셜뉴스 금융",
+    "source_type": "rss",
+    "published_at": "2026-11-06T06:56:06+00:00",
+    "raw_excerpt": "[파이낸셜뉴스] IBK기업은행과 코스닥협회가 6일 서울 을지로 기업은행 본점에서 '코스닥시장 활성화 및 코스닥기업 성장기반 강화'를 위한 업무협약을 체결했다. 이번 협약을 통해 양 기관은 코스닥 기업에 대한 금융 및 비금융 지원 확대, 기업 경영애로와 정책수요 발굴, 코스닥 시장 활성화를 위한 공동 사업 발굴 등에 상호 협력하기로 했다. 이 협약은 IBK금융그룹이 지난 2월 출범시킨 '코스닥 활성화 TF'의 활동의 일환으로 추진됐다. 해당 TF는 코스닥 시장의 정보 비대칭 해소와 중소·벤처기업의 지속 성장을 목표로 하고 있다. 코스닥 활성화 TF는 10월까지 Pre-IPO 및 메자닌 투자·펀드 운용 약 3천375억 원, 코스닥 기업 분석 보고서 178개 발간, 밸류업 컨설팅 및 IPO 지원 114개사 등 그룹 차원의 성과를 기록했다. 장민영 IBK기업은행장은 \"이",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "[파이낸셜뉴스] IBK기업은행과 코스닥협회가 6일 서울 을지로 기업은행 본점에서 '코스닥시장 활성화 및 코스닥기업 성장기반 강화'를 위한 업무협약을 체결했다. 이",
+    "thumbnail": "https://image.fnnews.com/resource/media/image/2026/11/06/202611061530280967_e.jpg",
+    "score": 4.607,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "미·이란 충돌 재개 80%…맥널리, CNBC서 유가 100달러 전망",
+    "url": "https://www.tokenpost.kr/news/international/433888",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-11-06T05:17:00+00:00",
+    "raw_excerpt": "미·이란 군사 충돌이 재개되면 브렌트유와 서부텍사스산원유(WTI) 선물이 배럴당 100달러(약 13만6000원)를 웃돌 수 있다는 전망이 나왔다. 밥 맥널리(Bob McNally) 라피단에너지그룹(Rapidan Energy Group) 창업자 겸 대표는 6일 공개된 CNBC 인터뷰에서 미·이란 군사 충돌 재개 가능성을 80%로 평가했다. 그는 충돌이 재개되면 두 선물 가격이 배럴당 100달러(약 13만6000원)를 넘을 수 있다고 전망했다. 맥널리는 도널드 트럼프 미국 대통령이 이란의 핵무기 보유를 막으려는 반면 이란 정권은 핵 역량을 포기하지 않으려 한다고 설명했다. 양측의 입장 차이를 긴장 고조 가능성의 배경으로 들었다. 배럴당 100달러 상회는 군사 충돌... 더보기",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "미·이란 군사 충돌이 재개되면 브렌트유와 서부텍사스산원유(WTI) 선물이 배럴당 100달러(약 13만6000원)를 웃돌 수 있다는 전망이 나왔다. 밥 맥널리(Bo",
+    "thumbnail": "https://f1.tokenpost.kr/2026/11/7huszlekx9.jpg",
+    "score": 4.013,
+    "engagement": 0,
+    "matched_keywords": [
+      "창업"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "Cult.fit builds operational muscle with Codex",
+    "url": "https://openai.com/index/cultfit-builds-with-codex",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-11-05T20:00:00+00:00",
+    "raw_excerpt": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and chang",
+    "thumbnail": "",
+    "score": 3.844,
+    "engagement": 0,
+    "matched_keywords": [
+      "codex"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "Muse has a voice mode now",
+    "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-11-05T19:03:04+00:00",
+    "raw_excerpt": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with your Muse agent, the avatar at the top of [ ]",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+    "score": 2.918,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai agent"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "Living Maps: Bay Area tech since 1960s",
+    "url": "https://tomorrowasusual.com/living-maps/bay-area-tech/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-11-06T08:08:19+00:00",
+    "raw_excerpt": "Article URL: https://tomorrowasusual.com/living-maps/bay-area-tech/ Comments URL: https://news.ycombinator.com/item?id=50389498 Points: 4 # Comments: 3",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://tomorrowasusual.com/living-maps/bay-area-tech/ Comments URL: https://",
+    "thumbnail": "",
+    "score": 2.77,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  }
+]
