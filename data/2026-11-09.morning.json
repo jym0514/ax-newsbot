@@ -1,0 +1,600 @@
+[
+  {
+    "title": "How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+    "url": "https://latent.space/p/cs146s/",
+    "source": "Latent Space (swyx)",
+    "source_type": "substack",
+    "published_at": "2026-11-08T21:41:44+00:00",
+    "raw_excerpt": "What happens when students can one-shot last year’s homework? Inside CS146S and the engineering team at Monaco.",
+    "topic": "ai_native",
+    "topic_label": "🧬 AI Native",
+    "summary": "What happens when students can one-shot last year’s homework? Inside CS146S and the engine",
+    "thumbnail": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/515ad474-e013-48a0-b40f-739bca031d85/A.jpg?t=1794172002",
+    "score": 6.758,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai-native"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "The inventor of the bitter lesson has a bitter lesson for LLM scaling enthusiasts",
+    "url": "https://the-decoder.com/the-inventor-of-the-bitter-lesson-has-a-bitter-lesson-for-llm-scaling-enthusiasts/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-11-08T11:44:41+00:00",
+    "raw_excerpt": "Turing Award winner Richard Sutton reaffirms that raw compute alone isn't enough for intelligence and that fundamentally new learning methods are needed. Ex-OpenAI researcher Tworek agrees, saying blind transformer scaling \"has reward hacked brains of a whole generation of scientists.\" A growing wave of startups is already betting on exactly this gap. The article The inventor of the bitter lesson has a bitter lesson for LLM scaling enthusiasts appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Turing Award winner Richard Sutton reaffirms that raw compute alone isn't enough for intel",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/ai_scaling_bitter_lesson-2.png",
+    "score": 5.859,
+    "engagement": 0,
+    "matched_keywords": [
+      "llm",
+      "openai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Apple is racing to make Siri more agentic",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-11-08T19:18:19+00:00",
+    "raw_excerpt": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's [ ]",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to acce",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&strip=all&crop=0%2C10.727837220746%2C100%2C78.544325558509&w=1200",
+    "score": 5.799,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai agent",
+      "agentic"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+    "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-11-08T21:00:11+00:00",
+    "raw_excerpt": "In a memo to the company, Huang admitted that he had an affair.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "In a memo to the company, Huang admitted that he had an affair.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
+    "score": 5.671,
+    "engagement": 0,
+    "matched_keywords": [
+      "nvidia"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Chatbots might be coming to Apple’s HomeView",
+    "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-11-08T15:00:30+00:00",
+    "raw_excerpt": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under that heading, it seems reasonable that AI chatbots like ChatGPT and Claude could be added to [ ]",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0250-1.jpeg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200",
+    "score": 5.531,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "chatgpt"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years of Hacker News",
+    "url": "https://the-decoder.com/andrej-karpathy-built-a-curated-video-platform-in-a-weekend-using-claude-and-20-years-of-hacker-news/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-11-08T14:23:00+00:00",
+    "raw_excerpt": "OpenAI co-founder Andrej Karpathy used Claude's Opus 5.5 to filter 43 million Hacker News comments into 6,454 curated videos. The result beats YouTube's own recommendations, he says. The article Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years of Hacker News appeared first on The Decoder .",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "OpenAI co-founder Andrej Karpathy used Claude's Opus 5.5 to filter 43 million Hacker News",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/comments_to_youtube-1200x670.png",
+    "score": 5.216,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "AI 추천이 다시 AI 학습 데이터로…UNIST, 반복 추천 속 편향 증폭 위험 확인",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42634",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-11-08T18:39:54+00:00",
+    "raw_excerpt": "인공지능이 추천한 상품이나 콘텐츠가 다시 AI의 학습 데이터로 활용되면서 이용자의 실제 취향보다 AI가 과거에 추천했던 항목이 이후 추천에 더 큰 영향을 미치는 문제가 확인됐다. 특히 추천 대상에 없는 상품을 제시하거나 사용자의 특성을 잘못 추정하는 오류가 반복 학습 과정에서도 사라지지 않아, 대형언어모델(LLM) 기반 추천 시스템의 신뢰성을 확보하기 위한 기술적 검증이 중요해지고 있다.울산과학기술원(UNIST) 인공지능대학원 이연창 교수 연구팀은 LLM 기반 추천 시스템에서 발생하는 편향과 환각, 반복 학습에 따른 오류 누적 과정",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "인공지능이 추천한 상품이나 콘텐츠가 다시 AI의 학습 데이터로 활용되면서 이용자의 실제 취향보다 AI가 과거에 추천했던 항목이 이후 추천에 더 큰 영향을 미치는",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202611/42634_64060_3836_v150.jpg",
+    "score": 5.207,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "llm"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "The brain-as-computer metaphor shaped modern AI but may be misleading the consciousness debate",
+    "url": "https://the-decoder.com/the-brain-as-computer-metaphor-shaped-modern-ai-but-may-be-misleading-the-consciousness-debate/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-11-08T13:49:21+00:00",
+    "raw_excerpt": "Consciousness researchers Anil Seth, Ned Block, and Giulio Tononi argue in a Nature commentary that today's AI systems aren't conscious and won't become so on silicon hardware. They consider the assumption that consciousness depends on computation alone \"fatally flawed\" and warn against granting rights to AI systems. The article The brain-as-computer metaphor shaped modern AI but may be misleading the consciousness debate appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Consciousness researchers Anil Seth, Ned Block, and Giulio Tononi argue in a Nature commen",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/ai_consciousness.png",
+    "score": 5.177,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+    "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-11-08T18:16:07+00:00",
+    "raw_excerpt": "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers Comments URL: https://news.ycombinator.com/item?id=50415628 Points: 483 # Comments: 300",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Article URL: https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers C",
+    "thumbnail": "https://www.thestateofai.com/media/uploads/33f913ce812c4074d207c01b6df1858a692e6bc3229dadbfcd4f56b61722a538.png",
+    "score": 4.588,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "claude code"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "나는 AI로 인한 두뇌 과부하에 이렇게 대처한다",
+    "url": "https://news.hada.io/topic?id=36842&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-11-08T21:55:36+00:00",
+    "raw_excerpt": "Claude Code나 Codex의 응답을 기다리며 작업을 늘리다 보면 여러 대화의 맥락을 동시에 붙잡게 됨. 이를 줄이기 위해 작업 순서와 맥락 관리 를 우선순위 큐처럼 구성하는 개인 실험을 진행함 Git을 작업 기록의 기준 으로 삼아 티켓을 코드 옆 Markdown 파일로 저장하고, 보드 상태도 커밋함. 세션이 종료돼도 작업 큐가 남으며 중요한 정보를 대화창이나 기억에만 두지 않음 에이전트는 조사, 승인된 작업 구현, 테스트와 검증을 맡고, 사람의 판단이 필요한 항목은 담당자 수신함(owner inbox) 에 우선순위순으로 모음 한 번에 티켓 하 …",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Claude Code나 Codex의 응답을 기다리며 작업을 늘리다 보면 여러 대화의 맥락을 동시에 붙잡게 됨. 이를 줄이기 위해 작업 순서와 맥락 관리 를 우선순",
+    "thumbnail": "https://social.news.hada.io/topic/36842?v=c9e42d0e30d4c1c2a81287409670353a",
+    "score": 4.475,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "codex",
+      "claude code"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Ask HN: What are you working on? (November 2026)",
+    "url": "https://news.ycombinator.com/item?id=50417407",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-11-08T21:20:20+00:00",
+    "raw_excerpt": "What are you working on? What have you been curious about lately? Comments URL: https://news.ycombinator.com/item?id=50417407 Points: 34 # Comments: 186",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "What are you working on? What have you been curious about lately? Comments URL: https://ne",
+    "thumbnail": "",
+    "score": 4.141,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Starship Flight 15 on 11/13 plans to catch both booster and ship",
+    "url": "https://www.spacex.com/launches/starship-flight-15",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-11-08T19:49:46+00:00",
+    "raw_excerpt": "Article URL: https://www.spacex.com/launches/starship-flight-15 Comments URL: https://news.ycombinator.com/item?id=50416471 Points: 47 # Comments: 21",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://www.spacex.com/launches/starship-flight-15 Comments URL: https://news",
+    "thumbnail": "https://www.spacex.com/assets/images/share.jpg",
+    "score": 4.066,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "The Web Is More Than Enough, by Paul Ford",
+    "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-11-08T19:48:32+00:00",
+    "raw_excerpt": "Article URL: https://ftrain.com/aboard-the-web-is-more-than-enough Comments URL: https://news.ycombinator.com/item?id=50416456 Points: 23 # Comments: 10",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://ftrain.com/aboard-the-web-is-more-than-enough Comments URL: https://n",
+    "thumbnail": "https://ftrain.com/art/uploads/aboard-newsletter/the-web-is-more-than-enough-header.png",
+    "score": 4.065,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+    "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-11-08T19:20:32+00:00",
+    "raw_excerpt": "Article URL: https://mailroute.net/blog/outlook-rejecting-email-without-dmarc Comments URL: https://news.ycombinator.com/item?id=50416158 Points: 143 # Comments: 116",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://mailroute.net/blog/outlook-rejecting-email-without-dmarc Comments URL",
+    "thumbnail": "https://mailroute.net/og-default.png",
+    "score": 4.041,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "코인베이스 월렛, 연말 AI 에이전트 기능 추가 추진",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/434840",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-11-08T19:24:22+00:00",
+    "raw_excerpt": "코인베이스($COIN) 월렛이 올해 말까지 AI 에이전트 기능을 추가하는 방안을 추진한다. 개발자용 에이전트 인프라와 계정 연동 서비스에 이어 일반 이용자용 월렛으로 기능을 넓히는 계획이다. 옥스비드(Oxxbid) 코인베이스 거래 담당 제품 매니저가 올해 월렛에 AI 에이전트 기능을 추가할 계획이라고 밝혔다고 9일 크립토브리핑(Crypto Briefing)은 보도했다. 구체적인 적용 기능은 공개되지 않았다. 코인베이스는 2024년 개발자가 AI 에이전트에 지갑을 연결하도록 돕는 개발 도구 에이전트킷(AgentKit)을 선보였다. 2026년 2월 11일에는 AI 에이전트의 온체인 활동을 지원하는 개발자용 에이전틱 월렛(Agentic Wallets)을... 더보기",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "코인베이스($COIN) 월렛이 올해 말까지 AI 에이전트 기능을 추가하는 방안을 추진한다. 개발자용 에이전트 인프라와 계정 연동 서비스에 이어 일반 이용자용 월렛",
+    "thumbnail": "https://f1.tokenpost.kr/2026/11/hf0365higd.jpg",
+    "score": 3.896,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic",
+      "에이전트",
+      "에이전틱",
+      "ai 에이전트"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Replit, microVM으로 샌드박스 엔진 재구축",
+    "url": "https://news.hada.io/topic?id=36828&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-11-08T19:50:44+00:00",
+    "raw_excerpt": "Replit은 자율 에이전트가 코드를 실행하는 환경의 격리를 강화하기 위해 샌드박스 엔진을 전면 재작성 . 수억 개 프로젝트를 데이터 손실과 서비스 중단 없이 이전함 기존에는 샌드박스들이 호스트의 Linux 커널을 공유했지만, 이제는 샌드박스마다 자체 커널을 가진 microVM 을 사용함. 게스트 커널이 뚫려도 호스트에 접근하려면 가상화 경계를 한 번 더 넘어야 함 VM 내부에서는 컨테이너별로 권한을 제한. eBPF로 프로세스, 파일, 네트워크 활동을 관찰 하고 Linux 보안 모듈로 금지된 동작을 차단함 외부 통신 규칙과 서비스 자격 증명 …",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Replit은 자율 에이전트가 코드를 실행하는 환경의 격리를 강화하기 위해 샌드박스 엔진을 전면 재작성 . 수억 개 프로젝트를 데이터 손실과 서비스 중단 없이 이",
+    "thumbnail": "https://social.news.hada.io/topic/36828?v=ea7ec44b905fec81205945a04682829e",
+    "score": 3.889,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "자율 에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+    "url": "https://github.com/synchopate/llama-modchip",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-11-08T10:22:04+00:00",
+    "raw_excerpt": "Article URL: https://github.com/synchopate/llama-modchip Comments URL: https://news.ycombinator.com/item?id=50411961 Points: 324 # Comments: 123",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "Article URL: https://github.com/synchopate/llama-modchip Comments URL: https://news.ycombi",
+    "thumbnail": "https://opengraph.githubassets.com/e8b866551ac7435e93c8284b213da317bee7feb799cf7a443dcd5ce0fbfd54b9/synchopate/llama-modchip",
+    "score": 3.592,
+    "engagement": 0,
+    "matched_keywords": [
+      "gpu"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "TSMC '메모리 반도체 사업 진출설' 공식 부인…“기존 파운드리 집중”",
+    "url": "https://www.etnews.com/20261108000094",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-11-08T09:38:33+00:00",
+    "raw_excerpt": "세계 최대 파운드리(반도체 위탁생산) 기업 TSMC가 엔비디아 요청으로 차세대 '3차원(3D) D램' 생산을 검토 중이라는 외신 보도와 관련해 “기존 파운드리 사업에 집중한다”는 입장을 내놨다. 7일 미국 IT 매체 톰스하드웨어 등 현지 매체에 따르면 TSMC 대변인은 관련 질의에 “회사는 언제나 전업 반도체 위탁생산(파운드리)이라는 핵심 사업에 집중하고 있다”며 “앞으로도 글로벌 로직(비메모리) 반도체 산업에서 신뢰받는 기술·생산능력 공급자가",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "세계 최대 파운드리(반도체 위탁생산) 기업 TSMC가 엔비디아 요청으로 차세대 '3차원(3D) D램' 생산을 검토 중이라는 외신 보도와 관련해 “기존 파운드리 사",
+    "thumbnail": "https://img.etnews.com/news/article/2026/11/08/news-p.v1.20261108.44f902d7c1f14c86bfe406d91aa27e75_P1.png",
+    "score": 3.464,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "차세대"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "글로벌 보안 M&A 449건 '역대 최다'…협력 뒤처진 韓, 통합플랫폼 강화 서둘러야",
+    "url": "https://www.etnews.com/20261106000280",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-11-08T07:30:00+00:00",
+    "raw_excerpt": "국내외에서 해킹 위협이 높아지는 가운데 글로벌 사이버보안 기업 인수합병(M A) 거래 건수가 올해 역대 최대 규모를 기록할 전망이다. 주요 기업이 통합 플랫폼 경쟁력을 강화하기 위해 공격적인 인수에 나선 결과다. 상대적으로 M A 움직임이 적은 국내 보안업계도 기업 간 협력 등을 통해 경쟁력을 강화해야 한다는 목소리가 높아진다. 8일 미국 사이버보안 전문 투자은행 모멘텀 사이버가 발간한 '2026년 3분기 사이버보안 시장 보고서'에 따르면 올해",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "국내외에서 해킹 위협이 높아지는 가운데 글로벌 사이버보안 기업 인수합병(M A) 거래 건수가 올해 역대 최대 규모를 기록할 전망이다. 주요 기업이 통합 플랫폼 경",
+    "thumbnail": "https://img.etnews.com/news/article/2026/11/06/news-p.v1.20261106.cfdd4e46646d4d76b23b99abd388e4aa_P1.png",
+    "score": 3.374,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "해킹"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "은행의 암호화폐 도입, 법안 기다리지 않는다…핵심은 지갑 인프라",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/434804",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-11-08T15:24:28+00:00",
+    "raw_excerpt": "대형 금융기관들이 암호화폐 시장구조 법안의 최종 통과를 기다리기보다 블록체인 인프라 도입에 나서고 있다는 진단이 나왔다. 스테이블코인 확산을 뒷받침하려면 은행의 기존 회계 시스템과 암호화폐 지갑을 연결하는 작업이 향후 약 5년간 업계의 핵심 과제가 될 것이라는 전망이다. 11월 8일(현지시간) 더 울프 오브 올 스트리트 인터뷰에서 네이선 매콜리 앵커리지 디지털 공동창업자 겸 최고경영자(CEO)는 금융기관들이 규제의 방향성을 신뢰하며 블록체인 기반 금융 인프라 구축을 추진하고 있다고 말했다. 그는 \"금융기관들은 법안이 통과될 때까지 기다리겠다고 하지 않는다\"고 설명했다. 매콜리는 스테이블코인 규율을 담은... 더보기",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "대형 금융기관들이 암호화폐 시장구조 법안의 최종 통과를 기다리기보다 블록체인 인프라 도입에 나서고 있다는 진단이 나왔다. 스테이블코인 확산을 뒷받침하려면 은행의",
+    "thumbnail": "https://f1.tokenpost.kr/2026/11/rssehtdfae.jpg",
+    "score": 3.363,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제",
+      "법안",
+      "스테이블코인"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "코인 시장서 뜬 ‘무기한 선물’ 美 증시 상륙…월가 대형사들 소송전",
+    "url": "https://www.blockmedia.co.kr/archives/1162888?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-11-08T22:15:01+00:00",
+    "raw_excerpt": "[블록미디어 명정선 기자] 디지털자산 시장에서 인기를 끈 무기한 선물이 미국 주식시장에 진출하면서 월가에 갈등이 확산하고 있다. 신흥 거래 플랫폼 칼시(Kalshi)가 개별 주식의 가격 변동에 투자할 수 있는 무기한 선물 상품을 출시하자 시타델증권과 시카고옵션거래소(Cboe) 등 기존 금융회사들이 소송에 나섰다. 투자자 보호를 둘러싼 규제 논쟁이지만 기존 월가의 수익 구조를 위협하는 신상품을 둘러싼 주도권 경쟁이라는 분석도 나온다. 8일(현지시각) [...]",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "[블록미디어 명정선 기자] 디지털자산 시장에서 인기를 끈 무기한 선물이 미국 주식시장에 진출하면서 월가에 갈등이 확산하고 있다. 신흥 거래 플랫폼 칼시(Kalsh",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/11/20261109-065725.png",
+    "score": 3.14,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "삼성, 퀄컴 주요 메모리 공급사로…車반도체 성장에 훈풍",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=677942",
+    "source": "블로터",
+    "source_type": "rss",
+    "published_at": "2026-11-08T10:00:00+00:00",
+    "raw_excerpt": "삼성전자가 미국 퀄컴의 주요 메모리 공급사로 공식 확인되면서 차량용 메모리 사업의 성장 기대감이 커지고 있다. 삼성전자는 퀄컴과 차량용 저전력 D램(LPDDR4X) 공급을 시작한 데 이어 차세대 LPDDR5로 협력 범위를 넓히고 있다. 퀄컴의 차량용 반도체 사업이 빠르게 성장하는 가운데 고성능 메모리 수요까지 늘면서 삼성전자의 추가 수주 기회도 확대될 전망이다. 삼성, 퀄컴 '주요 메모리 공급사'로 첫 명시6일 퀄컴의 2026 회계연도 연차보고서에 따르면 퀄컴은 삼성전자와 미국 마이크론을 주요 메모리 조달처로 명시하며 자동차용 제품",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "삼성전자가 미국 퀄컴의 주요 메모리 공급사로 공식 확인되면서 차량용 메모리 사업의 성장 기대감이 커지고 있다. 삼성전자는 퀄컴과 차량용 저전력 D램(LPDDR4X",
+    "thumbnail": "https://cdn.bloter.net/news/thumbnail/202611/677942_292413_2933_v150.jpg",
+    "score": 3.131,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "비탈릭 “이더리움 가치, 소각 아닌 신뢰에서 나온다”…ETH 투자 논리 재정립",
+    "url": "https://www.blockmedia.co.kr/archives/1162885?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-11-08T21:52:13+00:00",
+    "raw_excerpt": "[블록미디어 이정화 기자] 비탈릭 부테린 이더리움 공동창시자가 이더리움(ETH)의 가치를 거래 수수료 소각에 따른 공급 감소보다 장기적인 가치 저장 기능에서 찾아야 한다고 주장했다. 이더리움의 핵심 경쟁력은 토큰의 희소성이 아니라 탈중앙화와 보안, 네트워크 안정성에 있다는 것이다. 수수료 소각을 중심으로 형성됐던 기존 이더리움 투자 논리에 변화를 요구한 발언으로 풀이된다. 8일(현지시각) 디지털자산 전문매체 더블록에 따르면 부테린은 소셜미디어 엑스(X)를 통해 [...]",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "[블록미디어 이정화 기자] 비탈릭 부테린 이더리움 공동창시자가 이더리움(ETH)의 가치를 거래 수수료 소각에 따른 공급 감소보다 장기적인 가치 저장 기능에서 찾아",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/09/20260928-130602.png",
+    "score": 3.126,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "엑스알피, 1.15달러까지 밀렸다…다음 지지선은 1달러",
+    "url": "https://www.blockmedia.co.kr/archives/1162883?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-11-08T21:23:17+00:00",
+    "raw_excerpt": "[블록미디어 명정선 기자] XRP가 주요 지지선을 잇달아 이탈하며 1.15달러대로 내려앉았다. 최근 반등을 시도했지만 매도 압력을 이겨내지 못하면서 하락세가 다시 강해지고 있다. 시장에서는 1.09달러 지지선마저 무너질 경우 XRP 가격이 1달러 아래로 떨어질 수 있다는 전망이 나온다. 9일 오전 6시가상자산 시황 플랫폼 트레이딩뷰에 따르면 XRP는 1.15달러 안팎에서 거래되고 있다. 24시간 전보다 약 0.7% 하락한 수준이다. 최근 1.30달러대까지 [...]",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[블록미디어 명정선 기자] XRP가 주요 지지선을 잇달아 이탈하며 1.15달러대로 내려앉았다. 최근 반등을 시도했지만 매도 압력을 이겨내지 못하면서 하락세가 다시",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/10/20261002-111303-scaled.jpg",
+    "score": 3.108,
+    "engagement": 0,
+    "matched_keywords": [
+      "가상자산"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "GSMA MWC26 도하 개막, 글로벌 산업 표준 조정 및 중동•북아프리카 연결성 격차 해소 촉구",
+    "url": "https://zdnet.co.kr/view/?no=20261109061003",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-11-08T21:10:03+00:00",
+    "raw_excerpt": "[지디넷코리아] 통신사업자와 기술 리더, 정책 입안자, 혁신가들이 오늘 도하에 모여 3일간 전시와 협력, 토론을 통해 중동•북아프리카 연결성의 미래 모색 도하, 카타르, 2026년 11월 8일 /PRNewswire/ -- 카타르 통신정보기술부(Ministry of Communications and Information Technology, MCIT)와 협력해 개최하는 MWC26 도하(MWC26 Doha)가 8일 도하 전시컨벤션센터(DECC)에서 개막했다. 이번 행사에는 연결성 생태계 관계자들이 한자리에 모여 2030년까지 중동•북아프리카 경제에 4700억 달러를 기여할 것으로 전망되는 모바일 경제의 다음 성장 단계를 모색한다. MWC26 도하는 이날 셰이크 사우드 빈 압둘라흐만 빈 하산 빈 알리 알사니(Sheikh Saoud bin Abdulrahman bin Hassan bin Ali Al Thani) 카타르 부총리 겸 국방담당 국무장관이 참석한 가운데 공식 개막했다. 모하메드 빈 알리 알 마나이(Mohammed bin Ali Al Mannai) 카타르 통신정보기술부 장관이 환영사를 했다. 모하메드 빈 알리 알 마나이 통신정보기술부 장관은 개회사에서 \"제2회 MWC 도하는 통신 인프라에 요구되는 역량이 근본적으로 변화하는 시점에 개최된다. 인공지능이 지능형 에이전트를 통해 작업을 수행하는 방향으로 발전하면서 복원력이 더욱 뛰어난 네",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "[지디넷코리아] 통신사업자와 기술 리더, 정책 입안자, 혁신가들이 오늘 도하에 모여 3일간 전시와 협력, 토론을 통해 중동•북아프리카 연결성의 미래 모색 도하,",
+    "thumbnail": "https://zdnet.co.kr/images/default_img.jpg",
+    "score": 3.099,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "솔라나 토큰화 실물자산 가치, 한 달 새 6.29% 증가",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/434821",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-11-08T17:35:57+00:00",
+    "raw_excerpt": "솔라나(SOL)의 스테이블코인 제외 토큰화 실물자산(RWA) 분산 자산 가치는 11월 8일 51억5994만7627달러(약 6조9917억원)로 집계돼 30일 전보다 6.29% 늘었다. 같은 기간 30일 전송량도 148억8000만달러(약 20조1624억원)로 58.53% 증가했다. RWA.xyz 대시보드는 표시 자산 가치를 1억2585만6305달러(약 1716억원)로 집계했다. RWA 보유 주소는 100만4894개로, 30일 전보다 11.64% 늘었다. 잔액·전송량·주소 수는 집계 기준이 달라 한 지표처럼 합쳐 읽을 수 없다. RWA.xyz는 발행 플랫폼 밖의 지갑으로 옮길 수 있고 지갑 간 전송도 가능한 토큰화 자산을 분산 자산으로 분류한다. 이 분류는 토큰의 이동 가능성을 기준으로 한다. 표시... 더보기",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "솔라나(SOL)의 스테이블코인 제외 토큰화 실물자산(RWA) 분산 자산 가치는 11월 8일 51억5994만7627달러(약 6조9917억원)로 집계돼 30일 전보다",
+    "thumbnail": "https://f1.tokenpost.kr/2026/11/on2h9k19by.jpg",
+    "score": 3.036,
+    "engagement": 0,
+    "matched_keywords": [
+      "토큰화",
+      "rwa"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "삼성, 현대차에 특별한 '러브콜'…170명 초청한 까닭",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=678059",
+    "source": "블로터",
+    "source_type": "rss",
+    "published_at": "2026-11-08T16:38:27+00:00",
+    "raw_excerpt": "삼성과 현대차그룹이 반도체와 배터리, 미래 모빌리티를 축으로 한 협력 관계를 한층 끌어올린다. 삼성전자가 현대차 핵심 경영진과 배우자 등 170여 명을 초청해 대규모 교류 행사를 마련하면서다. 국내에서 특정 기업집단만을 위해 이 같은 행사를 여는 것은 삼성전자 창사 이래 처음이다.8일 재계에 따르면 삼성전자는 이달 9일 오후 경기 용인시 삼성전자 연수원 '더 유니버스'에서 현대차·기아 주요 경영진을 초청하는 '감사(Appreciation) 데이'를 개최한다. 양사 주요 계열사 사장단과 임원, 배우자 등 170여 명이 참석하는 행사다",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "삼성과 현대차그룹이 반도체와 배터리, 미래 모빌리티를 축으로 한 협력 관계를 한층 끌어올린다. 삼성전자가 현대차 핵심 경영진과 배우자 등 170여 명을 초청해 대",
+    "thumbnail": "https://cdn.bloter.net/news/thumbnail/202611/678059_292564_01_v150.jpg",
+    "score": 2.93,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "[아침 시황] 비트코인 1억223만원…상승 종목 23%",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/434870",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-11-08T22:30:20+00:00",
+    "raw_excerpt": "11월 9일 오전 7시 30분 오늘 아침 국내 암호화폐 시장은 전반이 밀렸다. 24시간 거래대금(업비트·빗썸)은 1.1조원을 기록했으며 거래대금 50억원 이상 종목 30개 중 7개만 올라 상승 종목 비율이 23%에 그쳤다. 대장주는 나란히 내렸다. 비트코인은 1억223만원으로 24시간 전보다 1.2% 내렸으며, 이더리움은 294만원으로 3.8% 내렸다. 가장 많이 오른 종목은 빗썸에 상장된 임파서블클라우드네트워크로, 509원까지 15.7% 뛰며 거래대금 106억원을 끌어모았다. 플루언트는 8.3%, 버블맵스는 6.8% 올랐다. 하락 쪽에서는 사이버가 12.1% 내렸고 사인은 11.7% 하락했다. 인피닛은 8.9% 내리면서도 거래대금 2,773억원을 기록해 차익 실현... 더보기",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "11월 9일 오전 7시 30분 오늘 아침 국내 암호화폐 시장은 전반이 밀렸다. 24시간 거래대금(업비트·빗썸)은 1.1조원을 기록했으며 거래대금 50억원 이상 종",
+    "thumbnail": "https://f1.tokenpost.kr/2026/11/o79j2j6tw7.png",
+    "score": 2.8,
+    "engagement": 0,
+    "matched_keywords": [
+      "암호화폐"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "루트라, 200만달러 이상 빼앗겼다고 주장…경찰 기록은 150만달러",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/434858",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-11-08T21:53:57+00:00",
+    "raw_excerpt": "에번 루트라(Evan Luthra) 가상자산 투자자는 2025년 11월 영국 옥스퍼드에서 납치돼 30분 만에 가상자산 200만달러(약 27억1000만원) 이상을 빼앗겼다고 주장했다. 그는 휴대전화를 빼앗긴 뒤 거래소에 바로 연락하지 못한 시간이 자금 회수에 영향을 줬다고 말했다. 비인크립토(BeInCrypto)는 9일 오전 6시20분(한국시간) 루트라와의 인터뷰를 공개했다. 루트라는 “처음 10초 안에 납치라는 걸 알았다”고 말했다. 루트라의 설명에 따르면 복면을 쓴 남성 5명이 차량에 올라타 얼굴 인식으로 휴대전화 잠금을 해제한 뒤 계정의 자산을 옮겼다. 바이낸스(Binance) 계정에서는 150만달러(약 20억3250만원)를 넘는 자산이, Gate 계정에서는 약... 더보기",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "에번 루트라(Evan Luthra) 가상자산 투자자는 2025년 11월 영국 옥스퍼드에서 납치돼 30분 만에 가상자산 200만달러(약 27억1000만원) 이상을",
+    "thumbnail": "https://f1.tokenpost.kr/2026/11/p56tqzgfyt.jpg",
+    "score": 2.779,
+    "engagement": 0,
+    "matched_keywords": [
+      "가상자산"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "morning"
+  }
+]
