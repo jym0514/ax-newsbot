@@ -1,0 +1,723 @@
+[
+  {
+    "title": "Designing for Agents — Zeno Rocha, Resend",
+    "url": "https://latent.space/p/resend/",
+    "source": "Latent Space (swyx)",
+    "source_type": "substack",
+    "published_at": "2026-11-10T20:05:17+00:00",
+    "raw_excerpt": "Where does answer engine optimization (AEO) end and agent experience begin? Inside Resend, from the docs that help Claude Code pick an email API to the tools it uses to send.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Where does answer engine optimization (AEO) end and agent experience begin? Inside Resend,",
+    "thumbnail": "https://i.ytimg.com/vi/bdIoODXsu8k/maxresdefault.jpg",
+    "score": 7.603,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "claude code"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+    "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-11-10T20:52:13+00:00",
+    "raw_excerpt": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers li",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2302996653.jpg?w=1024",
+    "score": 7.312,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai",
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Helping caregivers use AI in everyday life",
+    "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-11-10T12:00:00+00:00",
+    "raw_excerpt": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cit",
+    "thumbnail": "",
+    "score": 6.945,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Eight countries and top AI labs agree to shutdown mechanisms in new Paris declaration",
+    "url": "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-11-10T13:37:16+00:00",
+    "raw_excerpt": "Eight countries along with representatives from OpenAI, Anthropic, Microsoft, and Mistral AI have signed the \"Paris Call for AI Safety and Security\" at Emmanuel Macron's initiative. The companies commit to shutdown mechanisms, independent audits, and disclosing known risks, but the agreement lacks binding sanctions or deadlines. The article Eight countries and top AI labs agree to shutdown mechanisms in new Paris declaration appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Eight countries along with representatives from OpenAI, Anthropic, Microsoft, and Mistral",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2025/07/Digital-Europe-Map.jpg",
+    "score": 6.813,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai",
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Anthropic kicks off IPO roadshow, offering shares at $70 to $78 and targeting a trillion-dollar valuation",
+    "url": "https://the-decoder.com/anthropic-kicks-off-ipo-roadshow-offering-shares-at-70-to-78-and-targeting-a-trillion-dollar-valuation/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-11-10T12:13:03+00:00",
+    "raw_excerpt": "Anthropic is kicking off its IPO roadshow, targeting a valuation of up to $1.02 trillion. Beyond the public offering of up to $64.4 billion, the company is securing $26 billion through a private placement with Google, Nvidia, Microsoft, and other major tech firms as anchor investors. The IPO comes at a time when investors are growing increasingly skeptical of AI investments. The article Anthropic kicks off IPO roadshow, offering shares at $70 to $78 and targeting a trillion-dollar valuation appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Anthropic is kicking off its IPO roadshow, targeting a valuation of up to $1.02 trillion.",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png",
+    "score": 6.717,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "anthropic",
+      "nvidia"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Gemini 4 Carbon is now available",
+    "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+    "source": "Google DeepMind",
+    "source_type": "rss",
+    "published_at": "2026-11-10T16:03:47+00:00",
+    "raw_excerpt": "",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Gemini 4 Carbon is now available",
+    "thumbnail": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lockup.width-1300.jpg",
+    "score": 5.816,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.2,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Introducing Businesses in ChatGPT",
+    "url": "https://openai.com/index/introducing-businesses-chatgpt",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-11-10T10:00:00+00:00",
+    "raw_excerpt": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Manage your business information, get insights about how your business shows up, and turn",
+    "thumbnail": "",
+    "score": 5.808,
+    "engagement": 0,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "보스턴 다이내믹스, 바퀴 달린 '아틀라스' 공개…360도 회전 점프까지",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217222",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-10T17:57:30+00:00",
+    "raw_excerpt": "보스턴 다이내믹스가 휴머노이드 로봇 '아틀라스(Atlas)'의 발을 바퀴로 교체해 빠르게 주행하고 360도 회전 점프까지 하는 모습을 공개했다. 강화학습(RL) 기반 제어 기술을 적용해 새로운 이동 방식을 익히도록 한 것으로, 로봇의 구동 장치와 AI 제어 모델의 성능을 검증하기 위한 연구용 실험이다.보스턴 다이내믹스는 9일(현지시간) 공식 영상을 통해 바퀴를 장착한 아틀라스가 실제 실험 공간에서 빠르게 주행하고 방향을 전환하는 모습을 선보였다. 측면 질주와 360도 회전 점프는 물론, 한쪽 바퀴로 균형을 유지하거나 바닥에 누운 상",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "보스턴 다이내믹스가 휴머노이드 로봇 '아틀라스(Atlas)'의 발을 바퀴로 교체해 빠르게 주행하고 360도 회전 점프까지 하는 모습을 공개했다. 강화학습(RL)",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217222_221443_1820.jpg",
+    "score": 5.603,
+    "engagement": 0,
+    "matched_keywords": [
+      "휴머노이드",
+      "휴머노이드 로봇",
+      "보스턴 다이내믹스"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Anthropic turns Claude into a full workspace with Plugins, spreadsheets, whiteboards, and soon Meeting notes",
+    "url": "https://the-decoder.com/anthropic-turns-claude-into-a-full-workspace-with-plugins-spreadsheets-whiteboards-and-soon-meeting-notes/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-11-10T19:48:40+00:00",
+    "raw_excerpt": "Anthropic is expanding Claude with Sheets, Whiteboards, and Interactive Connectors, letting partners like Adobe and Atlassian embed their apps directly inside Claude. Anthropic says Claude Meetings, which can join calls and take notes, is coming soon. Step by step, Anthropic is turning Claude into a central work platform for teams that brings many other apps together in one place. The article Anthropic turns Claude into a full workspace with Plugins, spreadsheets, whiteboards, and soon Meeting notes appeared first on The Decoder .",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Anthropic is expanding Claude with Sheets, Whiteboards, and Interactive Connectors, lettin",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/claude_code_logo.png",
+    "score": 5.589,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "BioCatch launches agentic AI detection tech",
+    "url": "https://www.finextra.com/pressarticle/111638/biocatch-launches-agentic-ai-detection-tech?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-11-10T15:38:00+00:00",
+    "raw_excerpt": "BioCatch, which prevents fraud, scams, and financial crime by recognizing patterns in human behavior, today launched BioCatch AiRE™ (Agentic AI Risk Essentials), the company’s new agentic AI detection capability.",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "BioCatch, which prevents fraud, scams, and financial crime by recognizing patterns in huma",
+    "thumbnail": "",
+    "score": 5.57,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic",
+      "agentic ai"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Google DeepMind's Gemini Robotics 2.5 scores 96 percent sorting metal parts in a Mercedes-Benz assembly pilot",
+    "url": "https://the-decoder.com/google-deepminds-gemini-robotics-2-5-scores-96-percent-sorting-metal-parts-in-a-mercedes-benz-assembly-pilot/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-11-10T17:11:10+00:00",
+    "raw_excerpt": "Google Deepmind introduced Gemini Robotics 2.5, a new control model for robots, and tested it with Apptronik on active Mercedes-Benz production lines in Hungary and Germany. The humanoid robot Apollo 2 sorted metal parts there with a reported success rate of 96 percent. The article Google DeepMind s Gemini Robotics 2.5 scores 96 percent sorting metal parts in a Mercedes-Benz assembly pilot appeared first on The Decoder .",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "Google Deepmind introduced Gemini Robotics 2.5, a new control model for robots, and tested",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/Google-Deepmind-Gemini-Robotics-2-5.webp",
+    "score": 5.408,
+    "engagement": 0,
+    "matched_keywords": [
+      "robotics"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+    "url": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-11-10T13:30:00+00:00",
+    "raw_excerpt": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/11/Ring-drone.jpg?resize=1200,1200",
+    "score": 5.155,
+    "engagement": 0,
+    "matched_keywords": [
+      "robotics"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Former NYSE president says stock issuers hold the key to tokenization as Bullish builds its platform",
+    "url": "https://www.coindesk.com/business/2026/11/10/former-nyse-president-says-stock-issuers-hold-the-key-to-tokenization-as-bullish-builds-its-platform",
+    "source": "CoinDesk",
+    "source_type": "rss",
+    "published_at": "2026-11-10T20:15:08+00:00",
+    "raw_excerpt": "",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "Former NYSE president says stock issuers hold the key to tokenization as Bullish builds it",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/dbf5a1c1e6dfbcebc39fe5f594dfd86eb883c3c0-3000x2000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "score": 5.108,
+    "engagement": 0,
+    "matched_keywords": [
+      "tokenization"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Can you still trust Proton?",
+    "url": "https://www.zdnet.com/tech/can-you-still-trust-proton/",
+    "source": "ZDNet (Global, AI)",
+    "source_type": "rss",
+    "published_at": "2026-11-10T12:17:11+00:00",
+    "raw_excerpt": "The Swiss software company has built its reputation on a commitment to privacy. Did its CEO just destroy the trust of its customer base?",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "The Swiss software company has built its reputation on a commitment to privacy. Did its CE",
+    "thumbnail": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2271478863.jpg",
+    "score": 5.072,
+    "engagement": 0,
+    "matched_keywords": [
+      "privacy"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Banking giants commit $270m to stablecoin venture - Bloomberg",
+    "url": "https://www.finextra.com/newsarticle/48738/banking-giants-commit-270m-to-stablecoin-venture---bloomberg?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-11-10T18:46:00+00:00",
+    "raw_excerpt": "Some of the world's biggest banks - including Citi, Goldman Sachs and Deutsche Bank - have committed around $270 million to a new stablecoin venture called Project Faro, according to Bloomberg.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Some of the world's biggest banks - including Citi, Goldman Sachs and Deutsche Bank - have",
+    "thumbnail": "",
+    "score": 5.016,
+    "engagement": 0,
+    "matched_keywords": [
+      "stablecoin"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "How Pathward helps partners grow with confidence",
+    "url": "https://tearsheet.co/awards/how-pathward-helps-partners-grow-with-confidence/?utm_source=rss&utm_medium=rss&utm_campaign=how-pathward-helps-partners-grow-with-confidence",
+    "source": "Tearsheet",
+    "source_type": "rss",
+    "published_at": "2026-11-10T13:00:00+00:00",
+    "raw_excerpt": "As fintechs scale their products, increase transaction volumes, and navigate greater regulatory complexity, they need a partner bank built to grow alongside them. Pathward®, N.A. supports its partners across payments, sponsorships, and lending, adapting to their evolving needs while providing the banking, operational, and compliance infrastructure they require. Pathward applies this model across its partner Continue reading \"How Pathward helps partners grow with confidence\" The post How Pathward helps partners grow with confidence appeared first on Tearsheet .",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "As fintechs scale their products, increase transaction volumes, and navigate greater regul",
+    "thumbnail": "https://tearsheet.co/wp-content/uploads/2026/02/affirm2.png",
+    "score": 4.865,
+    "engagement": 0,
+    "matched_keywords": [
+      "regulatory",
+      "compliance"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Private banking fintech Light Frame raises $5.1m",
+    "url": "https://www.finextra.com/newsarticle/48737/private-banking-fintech-light-frame-raises-51m?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-11-10T15:39:00+00:00",
+    "raw_excerpt": "Light Frame, a Swiss startup providing core banking and portfolio management software for the wealth industry, has closed an oversubscribed $5.1 million seed financing round.",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Light Frame, a Swiss startup providing core banking and portfolio management software for",
+    "thumbnail": "",
+    "score": 4.821,
+    "engagement": 0,
+    "matched_keywords": [
+      "startup"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "DTCC launches EU-MiFID approved reporting mechanism",
+    "url": "https://www.finextra.com/pressarticle/111634/dtcc-launches-eu-mifid-approved-reporting-mechanism?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-11-10T14:09:00+00:00",
+    "raw_excerpt": "The Depository Trust & Clearing Corporation (DTCC), the premier post-trade market infrastructure for the global financial services industry, today announced the launch of its EU Markets in Financial Instruments Directive (MiFID) Approved Reporting Mechanism (ARM), delivering an end-to-end transaction reporting solution developed to further improve reporting accuracy and support more efficient compliance.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "The Depository Trust & Clearing Corporation (DTCC), the premier post-trade market infrastr",
+    "thumbnail": "",
+    "score": 4.727,
+    "engagement": 0,
+    "matched_keywords": [
+      "compliance"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "AI 에이전트가 정부 시스템 무단 침입…호주, AI 사고 신고 의무화·독립 규제기관 신설 추진",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42677",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-11-10T19:16:31+00:00",
+    "raw_excerpt": "AI 에이전트가 정부 시스템에 무단 접근한 사건을 계기로 호주가 AI 기업의 사고 신고를 의무화하고 독립적인 안전 규제기관을 신설하기로 했다. AI가 사람의 지시를 수행하는 과정에서 허가되지 않은 시스템에 접근하거나 개발자의 의도에서 벗어난 행동을 할 경우, 기업이 이를 정부에 신속히 보고하고 책임을 지도록 하는 것이 핵심이다.특히, 이번 사건은 AI 에이전트의 자율적인 행동이 기존 사이버보안과 법적 책임 체계에 새로운 과제를 제기했다는 점에서 주목된다. 인공지능 기업이 사고 사실을 인지하고도 정부에 통보하기까지 상당한 시간이 걸리",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "AI 에이전트가 정부 시스템에 무단 접근한 사건을 계기로 호주가 AI 기업의 사고 신고를 의무화하고 독립적인 안전 규제기관을 신설하기로 했다. AI가 사람의 지시",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202611/42677_64108_1612_v150.jpg",
+    "score": 4.638,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "에임인텔리전스, 엔비디아 오픈쉘 연동...AI 에이전트 권한·행동 통제",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21915",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-11-10T11:54:44+00:00",
+    "raw_excerpt": "에임인텔리전스는 9일 서울 코엑스에서 열린 '엔비디아 AI 데이 서울 2026'에서 엔비디아와 공동 기술 세션을 진행했다고 10일 밝혔다. ‘프로덕션 환경의 에이전틱 AI’를 주제로 열린 이번 세션에서는 엔비디아의 AI 에이전트 보안 런타임 ‘오픈쉘’과 에임인텔리전스의 보안 기술을 결합한 기업용 에이전트 통제 방안이 소개됐다.발표에는 이한울 에임인텔리전스 방어 부문장과 이진호 엔비디아 솔루션 아키텍트가 참여했다. 발표자들은 직원들이 사용하는 에이전트를 기업이 파악하고, 접근 권한과 실행 행동을 정책에 따라 통제하며, 보안성을 지속적",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "에임인텔리전스는 9일 서울 코엑스에서 열린 '엔비디아 AI 데이 서울 2026'에서 엔비디아와 공동 기술 세션을 진행했다고 10일 밝혔다. ‘프로덕션 환경의 에이",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202611/21915_22708_498.jpg",
+    "score": 4.464,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "에이전틱",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "딥엑스, 삼성 2나노 AI 반도체로 CES 2027 혁신상 수상",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21924",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-11-10T23:18:49+00:00",
+    "raw_excerpt": "딥엑스는 차세대 AI 반도체 ‘DX-M2’가 미국소비자기술협회(CTA)가 주관하는 CES 2027 혁신상 AI 부문 수상 제품으로 선정됐다고 10일 밝혔다. CES 혁신상은 기술력과 디자인, 혁신성 등을 평가해 수상 제품을 선정하는 제도다. DX-M2의 핵심은 낮은 전력으로 기기 자체에서 생성형 AI를 실행하는 것이다. 삼성전자 파운드리 2나노 공정(SF2P)을 기반으로 약 5W급 전력에서 AI 추론을 구현하는 것을 목표로 한다. 기존 온디바이스 AI 반도체가 주로 영상 인식과 객체 탐지에 집중했다면, DX-M2는 기기가 주변 환경",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "딥엑스는 차세대 AI 반도체 ‘DX-M2’가 미국소비자기술협회(CTA)가 주관하는 CES 2027 혁신상 AI 부문 수상 제품으로 선정됐다고 10일 밝혔다. CE",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202611/21924_22718_1514.jpg",
+    "score": 4.436,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "차세대"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+    "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+    "source": "Google DeepMind",
+    "source_type": "rss",
+    "published_at": "2026-11-09T19:51:47+00:00",
+    "raw_excerpt": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and s",
+    "thumbnail": "https://lh3.googleusercontent.com/F1CrVEYRb8lJOyyxGgcyow-Td1de-nkp7K8MZrhjrKPANJUc0EYB754Ninn-Yrppjdb54nolOWo6Rk8iDaRNuixWwLaEKc0K9ImGooxen9fj9IOh=w528-h297-n-nu-rw-lo",
+    "score": 4.301,
+    "engagement": 0,
+    "matched_keywords": [
+      "robotics"
+    ],
+    "source_weight": 1.2,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "KT, 3분기 실적 주춤...B2B·AX로 반등 노려",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217246",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-10T17:41:59+00:00",
+    "raw_excerpt": "KT가 매출 및 영업이익 동반 감소라는 3분기 성적표를 받아 들었다.KT는 올해 3분기 연결 기준 매출 6조9975억 원, 영업이익 5053억 원을 기록했다고 10일 밝혔다. 지난해 같은 기간 대비 각각 1.8%, 6.1% 줄었다.이 같은 실적 하락에 대해 전년 3분기 강북본부 부지 개발에 따른 일회성 분양이익이 반영된 기저효과 때문이라고 KT 측은 설명했다. 별도 기준 영업이익은 2993억원으로, 7월 종료된 고객 보답 프로그램과 AX 사업 비용 증가가 영향을 미쳤다.다만, 본업은 회복 신호를 보이고 있다고 밝혔다. 무선 서비스",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "KT가 매출 및 영업이익 동반 감소라는 3분기 성적표를 받아 들었다.KT는 올해 3분기 연결 기준 매출 6조9975억 원, 영업이익 5053억 원을 기록했다고 1",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217246_221461_2524.jpg",
+    "score": 4.289,
+    "engagement": 0,
+    "matched_keywords": [
+      "ax"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "앤트로픽, ‘클로드 페이블·미토스 5.2’ 공개...코딩·로봇 제어 성능 강화",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21920",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-11-10T17:47:53+00:00",
+    "raw_excerpt": "앤트로픽이 복잡한 소프트웨어 개발부터 과학 연구, 로봇 제어까지 고난도 기술 작업을 수행하는 AI 모델을 선보였다. AI 에이전트 여러 개를 동시에 운용해 장시간 프로젝트를 처리하고, 수학적 증명과 하드웨어 설계까지 수행하는 등 기존 언어모델의 활용 범위를 확장하는 데 초점을 맞췄다. 앤트로픽은 9일(현지시간) ‘클로드 페이블(Claude Fable) 5.2’와 ‘클로드 미토스(Claude Mythos) 5.2’를 공개했다. 두 모델은 코딩과 추론, 이미지 이해 능력을 개선한 동일한 기반 모델로, 사이버보안과 생물학 분야의 안전장치",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "앤트로픽이 복잡한 소프트웨어 개발부터 과학 연구, 로봇 제어까지 고난도 기술 작업을 수행하는 AI 모델을 선보였다. AI 에이전트 여러 개를 동시에 운용해 장시간",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202611/21920_22714_416.jpg",
+    "score": 4.184,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "rVPN – stealth VPN with end-to-end encryption",
+    "url": "https://rvpn.org/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-11-10T21:42:50+00:00",
+    "raw_excerpt": "Article URL: https://rvpn.org/ Comments URL: https://news.ycombinator.com/item?id=50446714 Points: 15 # Comments: 7",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://rvpn.org/ Comments URL: https://news.ycombinator.com/item?id=50446714",
+    "thumbnail": "https://rvpn.org/assets/og-image.png",
+    "score": 4.16,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Six Math Essentials by Terence Tao",
+    "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-11-10T20:58:44+00:00",
+    "raw_excerpt": "Article URL: https://teorth.github.io/tao-web/six-math-essentials.html Comments URL: https://news.ycombinator.com/item?id=50446246 Points: 47 # Comments: 4",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://teorth.github.io/tao-web/six-math-essentials.html Comments URL: https",
+    "thumbnail": "",
+    "score": 4.123,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "'하이쿠' 성능에 비용은 3분의 1…메타, 에이전트용 '뮤즈 엠버' 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217209",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-10T14:36:36+00:00",
+    "raw_excerpt": "메타가 AI 에이전트의 반복적인 작업을 빠르고 저렴하게 처리하도록 설계한 경량 AI 모델 '뮤즈 엠버(Muse Ember)'를 공개했다. 대규모 문서 분석부터 코드 수정, 도구 호출, 여러 애플리케이션을 연결한 업무 자동화까지 지원하며, 경쟁 모델과 비교해 작업당 비용을 크게 낮춘 것이 특징이다.메타는 9일(현지시간) 뮤즈 엠버를 출시하며 복잡한 추론을 실행하고 도구 호출, 코딩 하위 작업, 정보 추출, 문서 분석 등 AI 에이전트가 반복적으로 수행하는 작업에 최적화한 모델이라고 소개했다.성능 대비 비용 경쟁력을 핵심 강점으로 내세",
+    "topic": "personal_ai_agent",
+    "topic_label": "🧑‍💼 개인 AI 에이전트 · 금융비서",
+    "summary": "메타가 AI 에이전트의 반복적인 작업을 빠르고 저렴하게 처리하도록 설계한 경량 AI 모델 '뮤즈 엠버(Muse Ember)'를 공개했다. 대규모 문서 분석부터 코",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217209_221429_529.jpg",
+    "score": 4.122,
+    "engagement": 0,
+    "matched_keywords": [
+      "뮤즈"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Sherman Anti-Trust Act (1890",
+    "url": "https://www.archives.gov/milestone-documents/sherman-anti-trust-act",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-11-10T20:56:16+00:00",
+    "raw_excerpt": "Article URL: https://www.archives.gov/milestone-documents/sherman-anti-trust-act Comments URL: https://news.ycombinator.com/item?id=50446219 Points: 39 # Comments: 19",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://www.archives.gov/milestone-documents/sherman-anti-trust-act Comments",
+    "thumbnail": "https://www.archives.gov/sites/all/themes/nara/images/naralogo-og.png",
+    "score": 4.121,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "파네시아, 글로벌 경영 체제 구축...미주·한국 사업 총괄 체계 정비",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21922",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-11-10T23:04:08+00:00",
+    "raw_excerpt": "파네시아는 미국 법인을 설립하고 엘리스 윌슨(Ellis Wilson) 박사와 권미령 최고운영책임자(COO)를 각각 프레지던트(총괄대표)로 선임했다고 10일 밝혔다. 윌슨 프레지던트는 파네시아 아메리카를, 권 프레지던트는 한국 본사를 이끈다. 정명수 대표이사(CEO)는 두 조직을 아우르며 회사 전체 사업을 총괄한다. 윌슨 총괄대표는 마이크로소프트에서 대규모 AI와 고성능컴퓨팅(HPC) 워크로드를 처리하는 클라우드 시스템 개발을 이끌었다. 초대형 데이터센터의 인프라를 설계하고 운영한 경험을 바탕으로 현지 고객사의 기술 요구를 파악하고",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "파네시아는 미국 법인을 설립하고 엘리스 윌슨(Ellis Wilson) 박사와 권미령 최고운영책임자(COO)를 각각 프레지던트(총괄대표)로 선임했다고 10일 밝혔다",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202611/21922_22716_5738.jpg",
+    "score": 3.875,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "\"몰래 고치면 바로 티가 나는, 믿을 수 있는 운전 성적표\"",
+    "url": "https://zdnet.co.kr/view/?no=20261110210629",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-11-10T12:06:29+00:00",
+    "raw_excerpt": "[지디넷코리아]보안·인증 플랫폼 기업 라온시큐어(대표 이순형, 이정아)가 주관한 ‘2026 블록체인 AI 해커톤’이 지난 9월말 성황리에 막을 내렸다.이 행사는 올해 두번째 열렸다. 글로벌디지털혁신네트워크(GDIN)가 공동 주관하고, 한국디지털인증협회가 주최, 행정안전부가 후원했다.모바일 신분증을 기반으로 AI와 웹3(Web3) 기술을 결합한 창의적이고 실용적인 서비스 아이디어를 발굴해 국내 디지털 신원 생태계와 관련 산업 확장을 촉진하기 위해 마련했다. 올해 대회에는 총 318개팀이 참가했다. 지난해(211개팀)보다 약 51% 증가했다. 결선 진출권 10장을 놓고 약 32대 1의 경쟁률을 보였다. 서류심사와 대면평가를 거쳐 최종 선발된 10개팀이 결선에 진출, 경연을 펼쳤다. 그 결과, 모비스코어 팀 팀이 우수상(한국지능정보사회진흥원(NIA) 원장상)을 받았다. 아래는 모비스코어 팀과 인터뷰 일문일답.-어떤 팀인가? 구성원 등 팀에 대해 말해달라\"우리 팀은 모빌리티 플랫폼 기업 모빌리전트의 구성원 네 명과 성균관 대학생 1명으로 구성한 팁이다. 공공 모빌리티 플랫폼을 직접 구축하고 여러 지자체에서 이동 서비스를 운영해 온, 현장을 아는 팀이다. 팀 리더 정규홍(모빌리전트 대표)은 통신사·티머니·마카롱·마아우토크립트 등에서 20년 넘게 모빌리티·결제 사업을 해 온 경험으로 사업을 총괄다. 정규민 CTO는 IBM 클라우드 아키텍트와 대",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[지디넷코리아]보안·인증 플랫폼 기업 라온시큐어(대표 이순형, 이정아)가 주관한 ‘2026 블록체인 AI 해커톤’이 지난 9월말 성황리에 막을 내렸다.이 행사는",
+    "thumbnail": "https://image.zdnet.co.kr/2026/11/10/4f827bb23a3f6cdddd5688ef60814a7c.png",
+    "score": 3.66,
+    "engagement": 0,
+    "matched_keywords": [
+      "블록체인",
+      "web3",
+      "웹3"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "아발란체 채택에 에이바랩스 “범용 블록체인 시대 끝”",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/436183",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-11-10T21:33:53+00:00",
+    "raw_excerpt": "뉴욕증권거래소(NYSE) 계열 토큰화 증권 플랫폼이 청산·결제에 사용할 원장 기술로 아발란체(AVAX)를 선택했다. 아발란체는 거래 기록과 결제에 쓰일 원장을 맡는다. 에이바랩스(Ava Labs)는 9일 발표문에서 아발란체 기술을 NYSE 계열 대체거래시스템(ATS)의 청산회사에 제공한다고 밝혔다. NYSE도 같은 날 별도 발표에서 계열 플랫폼에 아발란체를 적용할 계획을 확인했다. 이번 선택이 플랫폼에서 발행되는 모든 주식의 블록체인을 아발란체로 정했다는 뜻은 아니다. 플랫폼은 여러 블록체인에서 발행된 주식을 지원하도록 설계됐다. 존 나하스(John Nahas) 에이바랩스 최고사업책임자는 10일 공개된 코인텔레그래프(Cointelegraph)... 더보기",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "뉴욕증권거래소(NYSE) 계열 토큰화 증권 플랫폼이 청산·결제에 사용할 원장 기술로 아발란체(AVAX)를 선택했다. 아발란체는 거래 기록과 결제에 쓰일 원장을 맡",
+    "thumbnail": "https://f1.tokenpost.kr/2026/11/qkhxb7k81v.jpg",
+    "score": 3.168,
+    "engagement": 0,
+    "matched_keywords": [
+      "블록체인",
+      "토큰화"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "그래폰 470억원 시리즈A 조달…AI 기억 기술·GS 현장 활용 사례",
+    "url": "https://www.tokenpost.kr/news/ai/436148",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-11-10T20:11:43+00:00",
+    "raw_excerpt": "그래폰(Graphon)이 AI 에이전트용 기억 기술 개발을 위해 시리즈A 투자로 3500만달러(약 471억원)를 조달했다. 회사는 조달 자금을 기업용 제품 개발과 판매에 사용할 계획이다. RRE벤처스(RRE Ventures)가 투자를 주도하고 에너지임팩트파트너스(Energy Impact Partners), 히타치벤처스(Hitachi Ventures), 가이아VC(Gaia VC), HP가 참여했다고 비즈니스인사이더(Business Insider)는 보도했다. 이번 투자는 그래폰이 지난 5월 발표한 830만달러(약 112억원) 규모 시드 투자에 이은 후속 조달이다. 당시 회사 발표문은 GS그룹을 초기 기업 고객으로 소개했다. GS그룹은 편의점 안에서 고객의 이동을 분석하고, 건설 현장 CCTV 영상으로... 더보기",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "그래폰(Graphon)이 AI 에이전트용 기억 기술 개발을 위해 시리즈A 투자로 3500만달러(약 471억원)를 조달했다. 회사는 조달 자금을 기업용 제품 개발과",
+    "thumbnail": "https://f1.tokenpost.kr/2026/11/9hscicbkno.jpg",
+    "score": 3.123,
+    "engagement": 0,
+    "matched_keywords": [
+      "활용 사례",
+      "현장"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "퀀티넘, 캔터 컨버전스 제4회 암호화폐•핀테크•AI•에너지 인프라 콘퍼런스 참가",
+    "url": "https://zdnet.co.kr/view/?no=20261111061014",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-11-10T21:10:14+00:00",
+    "raw_excerpt": "[지디넷코리아] 브룸필드, 콜로라도, 2026년 11월 11일 /PRNewswire/ -- 양자컴퓨팅 선도 기업 퀀티넘(Quantinuum Inc., 나스닥: QNT, 이하 '회사')의 경영진이 2026년 11월 10일부터 12일까지 플로리다주 마이애미에서 열리는 캔터 컨버전스 제4회 연례 암호화폐•핀테크•AI•에너지 인프라 콘퍼런스(Cantor Convergence 4th Annual Crypto, FinTech, AI Energy Infrastructure Conference)에 참가한다고 회사 측이 11월 9일 발표했다. 퀀티넘은 콘퍼런스 기간에 대담에 참여하고 투자자들과 일대일 미팅을 진행할 예정이다. 퀀티넘 소개 퀀티넘은 양자 컴퓨팅을 실제 환경에 구축하도록 도와주는 풀스택 플랫폼을 제공하는 선도 양자 컴퓨팅 기업이다. 회사는 기성 QCCD 아키텍처를 기반으로 여러 세대의 이온 트랩 양자 시스템을 상용화했고 이 아키텍처에 새로운 설계와 기능을 구현해 평균 2큐비트 게이트 충실도를 기준으로 업계 최고 수준의 정확도를 달성했다. 퀀티넘은 제약, 소재 과학, 금융 서비스, 정부 및 산업 시장의 선도 기업뿐 아니라 전 세계 학술 및 연구 기관과도 활발히 협력하고 있다. 회사는 우수한 과학자와 연구자를 포함해 전 세계에 직원 약 850여 명을 거느리고 있다. 기술팀 인력 중 70% 넘는 수가 박사 또는 석사 학위 소지자다. 퀀티넘의 ",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[지디넷코리아] 브룸필드, 콜로라도, 2026년 11월 11일 /PRNewswire/ -- 양자컴퓨팅 선도 기업 퀀티넘(Quantinuum Inc., 나스닥: Q",
+    "thumbnail": "https://zdnet.co.kr/images/default_img.jpg",
+    "score": 3.099,
+    "engagement": 0,
+    "matched_keywords": [
+      "암호화폐"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "아트마켓닷컴(아트프라이스), 2026년 3분기 매출 증가…30년 AI 우선 전략의 비약적 도약 인 Artprice Visual Search®, 2026년 12월 초 전 세계 공개",
+    "url": "https://zdnet.co.kr/view/?no=20261110181013",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-11-10T09:10:13+00:00",
+    "raw_excerpt": "[지디넷코리아] 주: 에르만 가문과 대주주인 그루프 세르뵈르(Groupe Serveur)가 아트마켓의 아트프라이스 사업 성장에 대해 갖고 있는 믿음은 아트마켓닷컴 주식의 추가 매입을 통한 지분 확대에 잘 드러나 있다. 당연히 필수 신고서는 모두 프랑스 금융시장청(Autorit des march s financiers, AMF)에 제출되며 법정 기한 안에 온라인으로 공개된다. 주식 매입은 거래가 허용된 기간에 진행된다. 이 거래들은 현재 진행 중이거나 향후 진행될 예정이며 아트프라이스 바이 아트마켓닷컴의 미래에 대한 에르만 가문과 그루프 세르뵈르의 신뢰를 재확인하고 아트마켓닷컴에 전폭적인 지지를 보내기 위한 목적일 뿐이다. 일부 포럼에서 계속 제기하는 해석과 달리 공개매수나 소수주주 지분 강제매수(OPA/OPR)를 추진하려는 의도는 전혀 없다. 에르만 가문이 특정 매입 신고나 지분율 기준 초과 신고를 하지 않을 것이라는 해석 역시 잘못된 것이다. ONDE 엑스트라넷(Outil de notification et de d claration lectronique, 전자 고시 및 신고 수단)은 임원 거래와 지분율 기준 초과 등 각종 신고서를 제출하는 AMF의 보안 플랫폼이다. 현재 신고와 미래의 신고를 모두 접수한다. 관련 신고 내역은 다음과 같다. 1차 신고 – 2026DD1133787호 (2026년 8월 17일 공시). 2차 신고 – 20",
+    "topic": "ai_native",
+    "topic_label": "🧬 AI Native",
+    "summary": "[지디넷코리아] 주: 에르만 가문과 대주주인 그루프 세르뵈르(Groupe Serveur)가 아트마켓의 아트프라이스 사업 성장에 대해 갖고 있는 믿음은 아트마켓닷컴",
+    "thumbnail": "https://mmx.prnasia.com/media/MS2030520/Artprice-Visual-Search.jpg?id=OA3066281&p=medium600",
+    "score": 2.649,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai 우선"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "\"이스라엘, 하루 수천건 사이버공격 받아...3년간 중요시스템 손상 제로\"",
+    "url": "https://zdnet.co.kr/view/?no=20261110175205",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-11-10T09:09:00+00:00",
+    "raw_excerpt": "[지디넷코리아][텔아비브(이스라엘)=박광하 기자] 아이작 벤이스라엘 AI·사이버위크 의장이 10일(현지시간) 지난 3년간 사이버 공격으로 이스라엘의 중요 시스템이 손상된 중대 사례는 한 건도 없었다고 말했다. 탄도미사일과 무인기 공습에 하루 수천 건의 사이버 공격까지 받았지만 피해를 막은 것은 15년가량 구축해 온 이스라엘 국가사이버국(INCD,Israel National Cyber Directorate) 중심의 방어 조직 덕이라고 설명했다.INCD는 민간 영역 사이버 방어와 국가 사이버 역량 강화를 책임지는 기관이다. 2012년 국가사이버국과 2015년 국가사이버보안청이라는 두 조직을 통합, 현재의 INCD 체계를 구축했다.벤이스라엘 의장은 이날 텔아비브대에서 열린 '사이버위크 2026' 개막 연설과 이스라엘 외교부 초청 해외 기자단 면담에서 이같이 말했다.그는 행사를 11월에 연 이유부터 설명했다. 원래 6~7월 개최 예정이었지만 당시에도 이란과 군사 공격을 주고받고 있어 일정을 미뤘다는 것이다. 그러면서 \"지난 3년의 전쟁 중에도 이 행사를 포기한 적이 없다. 미룰 때가 있더라도 지속 개최할 것\"이라고 말했다.이스라엘은 3년 동안 탄도미사일, 무인기 등으로 공격을 받았지만 사이버 공격으로 인한 중대한 사건은 한 건도 없었다고 짚었다. 그는 \"중대 사건이 없었다고 해서 공격자들이 공격을 시도하지 않았다고 생각하지 말라\"며 이스라엘",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "[지디넷코리아][텔아비브(이스라엘)=박광하 기자] 아이작 벤이스라엘 AI·사이버위크 의장이 10일(현지시간) 지난 3년간 사이버 공격으로 이스라엘의 중요 시스템이",
+    "thumbnail": "https://image.zdnet.co.kr/2026/11/10/132168984b7da5096ffbad5f9c4fa8ea.jpg",
+    "score": 2.649,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  }
+]
