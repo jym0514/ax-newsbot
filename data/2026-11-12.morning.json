@@ -1,0 +1,674 @@
+[
+  {
+    "title": "US corporate AI spending hits a new high in October, but growth slows to 1.65 percent",
+    "url": "https://the-decoder.com/us-corporate-ai-spending-hits-a-new-high-in-october-but-growth-slows-to-1-65-percent/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-11-11T19:35:11+00:00",
+    "raw_excerpt": "According to the Ramp AI Index, US corporate AI spending rose just 1.65 percent in October 2026. One percent of companies still drive 80 percent of revenue for OpenAI and Anthropic. Customer support is emerging as a new growth driver, but it may bring lower margins than the coding business that has fueled spending so far. The article US corporate AI spending hits a new high in October, but growth slows to 1.65 percent appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "According to the Ramp AI Index, US corporate AI spending rose just 1.65 percent in October",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/02/openai_anthropic_logos-1.jpeg",
+    "score": 7.223,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai",
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Last Week (Month) in AI #347 - Nvidia's spy, Anthropic's $1.4T IPO, AI's blue wave",
+    "url": "https://lastweekin.ai/p/last-week-month-in-ai-347-nvidias",
+    "source": "Last Week in AI",
+    "source_type": "substack",
+    "published_at": "2026-11-11T14:21:42+00:00",
+    "raw_excerpt": "Catching up on five weeks: Huang under investigation, Anthropic and OpenAI priced at $1.4T and $1.25T as spending stalls, Anthropic warns it may be nearing recursive self-improvement, Gemini 4 Carbon",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Catching up on five weeks: Huang under investigation, Anthropic and OpenAI priced at $1.4T",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!N5MW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2ea61f46-93d0-4d43-a74b-5751a649daba_1720x980.png",
+    "score": 6.99,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai",
+      "anthropic",
+      "nvidia"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Gilbert + Tobin rethinks the business of law with AI",
+    "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-11-12T00:00:00+00:00",
+    "raw_excerpt": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+    "thumbnail": "",
+    "score": 6.945,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Anthropic says AI is eroding Nvidia's CUDA lead, cutting an AMD chip switch from months to three days",
+    "url": "https://the-decoder.com/anthropic-says-ai-is-eroding-nvidias-cuda-lead-cutting-an-amd-chip-switch-from-months-to-three-days/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-11-11T14:25:20+00:00",
+    "raw_excerpt": "Anthropic claims it used AI itself to breach Nvidia's CUDA moat. The company's in-house model Mythos reportedly ported Claude to AMD GPUs in just three days, with almost no human intervention. Anthropic now runs Claude on four chip families and aims to cut costs and reduce vendor dependencies. The article Anthropic says AI is eroding Nvidia s CUDA lead, cutting an AMD chip switch from months to three days appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Anthropic claims it used AI itself to breach Nvidia's CUDA moat. The company's in-house mo",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/nvidia_moat-1200x670.png",
+    "score": 6.868,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "anthropic",
+      "nvidia"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "[AINews] Mercor $750m Series D at $20B valuation, $3B run rate",
+    "url": "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate/",
+    "source": "Latent Space (swyx)",
+    "source_type": "substack",
+    "published_at": "2026-11-11T09:34:28+00:00",
+    "raw_excerpt": "November 10, 2026 — Google GA's Gemini 4 Carbon.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "November 10, 2026 — Google GA's Gemini 4 Carbon.",
+    "thumbnail": "https://latent.space/og/card/post/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate/0a6ebbfe98ad97a5127fc1c24df129ccd58884d32c867036ad2d48f36fe03fee.png",
+    "score": 5.773,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass",
+    "url": "https://the-decoder.com/google-joins-the-decision-model-wave-with-gemini-decision-1-scoring-1000-questions-in-a-single-pass/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-11-11T20:12:46+00:00",
+    "raw_excerpt": "Google Deepmind's new Gemini Decisions API evaluates up to 1,000 closed-ended questions in a single pass across text, images, audio, and video. Gemini Decision 1 returns results in 150 to 250 milliseconds at roughly five times lower cost than Gemini 3.5 Flash-Lite, according to Google. The article Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass appeared first on The Decoder .",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Google Deepmind's new Gemini Decisions API evaluates up to 1,000 closed-ended questions in",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/gemini_4_logo_wall-1200x675.png",
+    "score": 5.616,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Claude can collaborate in your team meetings soon – like an intern",
+    "url": "https://www.zdnet.com/innovation/claude-meetings-workplace-features/",
+    "source": "ZDNet (Global, AI)",
+    "source_type": "rss",
+    "published_at": "2026-11-11T16:46:09+00:00",
+    "raw_excerpt": "Claude is responding ‘Yes’ to that calendar invite – with some limitations. Plus: Anthropic launches two more new features that are available now.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Claude is responding ‘Yes’ to that calendar invite – with some limitations. Plus: Anthropi",
+    "thumbnail": "https://www.zdnet.com/wp-content/uploads/sites/3/Claude-Meetings.png",
+    "score": 5.379,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "[11월11일] 앤트로픽이 월가에 진짜 하고 싶었던 말…42분 영상에 담긴 5가지 투자 논리",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217257",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-12T07:00:00+00:00",
+    "raw_excerpt": "기업공개(IPO)를 앞둔 앤트로픽이 투자자들을 설득하기 위해 42분짜리 영상을 공개했습니다. 다리오 아모데이 CEO를 비롯한 경영진이 직접 등장해 1조달러가 넘는 기업가치를 인정받아야 하는 이유를 설명한 것으로, AI 안전을 강조해 온 앤트로픽이 투자자들에게 어떤 경쟁력과 성장 가능성을 내세웠는지 보여줍니다.앤트로픽은 10일(현지시간) 투자자 대상 기업 설명회인 로드쇼(Roadshow)를 시작하고, 미국 전용 IPO 홈페이지에 설명 영상을 공개했습니다. 로드쇼는 경영진이 투자자들에게 회사를 소개하고 투자를 유치하는 행사로, 최근에는",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "기업공개(IPO)를 앞둔 앤트로픽이 투자자들을 설득하기 위해 42분짜리 영상을 공개했습니다. 다리오 아모데이 CEO를 비롯한 경영진이 직접 등장해 1조달러가 넘는",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217257_221483_420.jpg",
+    "score": 5.009,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai 안전"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
+    "url": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-11-11T18:13:52+00:00",
+    "raw_excerpt": "Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make \"your online experience fairer.\" The newly proposed Digital Fairness Act (DFA) published by the EU Commission on Wednesday is designed to tackle practices that exploit consumers into spending more of their time and money online, [ ]",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping Europea",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319789/STK450_EU_E.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+    "score": 4.982,
+    "engagement": 0,
+    "matched_keywords": [
+      "exploit"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "구글, '제미나이 로보틱스 2.5' 공개…공장 작업 성공률 96%",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217274",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-11T17:51:28+00:00",
+    "raw_excerpt": "구글이 실제 자동차 공장에서 휴머노이드 로봇의 작업 성공률을 96%까지 높인 새로운 물리적 AI 모델을 공개했다. 기존 모델보다 정교한 손동작과 작업 속도를 개선하고, 최신 AI 모델을 로봇 훈련에도 활용해 산업 현장 적용 가능성을 높였다.구글 딥마인드는 10일(현지시간) 공식 블로그를 통해 최신 비전-언어-행동(VLA) 모델 '제미나이 로보틱스 2.5(Gemini Robotics 2.5)'를 발표했다. 로봇이 수행할 수 있는 작업의 범위를 넓히고, 새로운 동작을 배우는 속도와 작업의 정확성, 안전성을 개선한 것이 특징이다.지난 7",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "구글이 실제 자동차 공장에서 휴머노이드 로봇의 작업 성공률을 96%까지 높인 새로운 물리적 AI 모델을 공개했다. 기존 모델보다 정교한 손동작과 작업 속도를 개선",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217274_221502_730.jpg",
+    "score": 4.947,
+    "engagement": 0,
+    "matched_keywords": [
+      "로보틱스",
+      "robotics"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Alta raises $47.5m to build blockchain infrastructure for financial institutions",
+    "url": "https://www.finextra.com/newsarticle/48744/alta-raises-475m-to-build-blockchain-infrastructure-for-financial-institutions?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-11-11T15:06:00+00:00",
+    "raw_excerpt": "Google Ventures has joined a $47.5 million Series A round for Alta, a firm building institutional-grade blockchain infrastructure for global finance.",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Google Ventures has joined a $47.5 million Series A round for Alta, a firm building instit",
+    "thumbnail": "",
+    "score": 4.786,
+    "engagement": 0,
+    "matched_keywords": [
+      "series a"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+    "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-11-11T07:30:51+00:00",
+    "raw_excerpt": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding rig",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-503116193.jpeg?resize=1200,800",
+    "score": 4.743,
+    "engagement": 0,
+    "matched_keywords": [
+      "governance"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "바이두, 초당 200토큰 생성하는 ‘어니 5.5 플래시’ 공개…코딩·3D 모델링·AI 에이전트 겨냥",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42696",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-11-11T19:57:00+00:00",
+    "raw_excerpt": "중국 바이두(Baidu)가 초당 200토큰 이상의 텍스트 생성 속도와 최대 100만 토큰의 문맥 처리 능력을 갖춘 새로운 인공지능(AI) 모델을 공개했다. 전체 2,800억 개의 매개변수 가운데 실제 추론 과정에서는 140억 개만 활성화하는 구조를 적용해 대규모 모델의 성능과 연산 효율을 동시에 확보하는 데 초점을 맞췄다.바이두는 11일(중국 현지시간) 공식 엑스(X) 계정과 기술 발표를 통해 차세대 AI 모델 ‘어니 5.5 플래시 프리뷰(ERNIE 5.5 Flash Preview)’를 공개했다. 코딩과 3차원(3D) 모델링, 지식",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "중국 바이두(Baidu)가 초당 200토큰 이상의 텍스트 생성 속도와 최대 100만 토큰의 문맥 처리 능력을 갖춘 새로운 인공지능(AI) 모델을 공개했다. 전체",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202611/42696_64132_5343_v150.jpg",
+    "score": 4.671,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Indonesia ranks social engineering scams as single biggest concern",
+    "url": "https://www.finextra.com/newsarticle/48742/indonesia-ranks-social-engineering-scams-as-single-biggest-concern?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-11-11T12:45:00+00:00",
+    "raw_excerpt": "With the majority of scams originating on social media and messaging apps, a new Biocatch survey of 100 fraud management, AML and compliance team leaders at banks in Indonesia has found that social engineering scams remain the biggest concern.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "With the majority of scams originating on social media and messaging apps, a new Biocatch",
+    "thumbnail": "",
+    "score": 4.639,
+    "engagement": 0,
+    "matched_keywords": [
+      "compliance"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Salad secures £1.5m investment to expand affordable credit across London",
+    "url": "https://www.finextra.com/pressarticle/111644/salad-secures-15m-investment-to-expand-affordable-credit-across-london?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-11-11T12:21:00+00:00",
+    "raw_excerpt": "Salad, the UK’s largest consumer lending Community Development Finance Institution (CDFI), has secured a £1.5 million social impact investment from City Bridge Foundation, enabled by a £1.2 million funding guarantee from Fair4All Finance. The partnership will unlock up to £20 million in affordable and responsible lending capacity, helping more Londoners access fair credit when they are unable to do so through mainstream providers.",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Salad, the UK’s largest consumer lending Community Development Finance Institution (CDFI),",
+    "thumbnail": "",
+    "score": 4.614,
+    "engagement": 0,
+    "matched_keywords": [
+      "funding"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Coinbase Gives Customers More Control Over Agentic Trades",
+    "url": "https://www.pymnts.com/cryptocurrency/2026/coinbase-gives-customers-more-control-over-agentic-trades/",
+    "source": "PYMNTS",
+    "source_type": "rss",
+    "published_at": "2026-11-11T20:03:59+00:00",
+    "raw_excerpt": "Coinbase is introducing new controls for its Coinbase for Agents crypto trading/research tool. The controls, announced by the cryptocurrency exchange Wednesday (Nov. 11), are designed to give users more authority over how their artificial intelligence (AI) agents trade. “Frontier technology should come with strong safeguards that help protect users and their assets,” the company said. [ ] The post Coinbase Gives Customers More Control Over Agentic Trades appeared first on PYMNTS.com .",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Coinbase is introducing new controls for its Coinbase for Agents crypto trading/research t",
+    "thumbnail": "https://www.pymnts.com/wp-content/uploads/2026/05/Coinbase-crypto-wallets1.jpg?w=457",
+    "score": 4.587,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Payward Expands Its Tokenization Efforts to EU and UK",
+    "url": "https://www.pymnts.com/blockchain/2026/payward-expands-its-tokenization-efforts-to-eu-and-uk/",
+    "source": "PYMNTS",
+    "source_type": "rss",
+    "published_at": "2026-11-11T18:16:41+00:00",
+    "raw_excerpt": "Kraken owner Payward is expanding its tokenization efforts in Europe and the U.K. xStocks, Payward’s tokenized equities framework, has deployed its first set of tokenized equities representing U.K. and European publicly listed assets, the company announced Wednesday (Nov. 11). Payward called it “the most significant broadening of the framework beyond tokenized US listings to date.” [ ] The post Payward Expands Its Tokenization Efforts to EU and UK appeared first on PYMNTS.com .",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "Kraken owner Payward is expanding its tokenization efforts in Europe and the U.K. xStocks,",
+    "thumbnail": "https://www.pymnts.com/wp-content/uploads/2026/07/Payward.png?w=457&quality=82",
+    "score": 4.486,
+    "engagement": 0,
+    "matched_keywords": [
+      "tokenization"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "IBM to offer access to a dual-processor quantum system in 2027",
+    "url": "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/",
+    "source": "Ars Technica",
+    "source_type": "rss",
+    "published_at": "2026-11-11T16:33:08+00:00",
+    "raw_excerpt": "The company plans on linking two 520-qubit chips before next year is over.",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "The company plans on linking two 520-qubit chips before next year is over.",
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/IBM-Quantum-Nighthawk-r2-and-r3-processors-comparison-1152x648.jpg",
+    "score": 4.389,
+    "engagement": 0,
+    "matched_keywords": [
+      "quantum"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "'페이블 5.2' 프롬프트 가이드 공개…\"코드 맡기면 정리 5배 증가\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217271",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-11T18:05:45+00:00",
+    "raw_excerpt": "앤트로픽이 최신 모델 '클로드 페이블 5.2'의 프롬프트 작성법을 공개하며 기존 모델에 사용하던 지침을 재검토하라고 권고했다. 특히 코드의 소유권을 어떻게 표현하느냐에 따라 AI의 작업 방식이 크게 달라지는 것으로 나타났다.앤트로픽은 10일(현지시간) 공식 개발자 문서를 통해 페이블 5.2의 성능과 비용을 최적화하기 위한 프롬프트 가이드를 공개했다. 장시간 작업의 조기 중단, 불필요한 승인 요청, 코드 수정 범위, 하위 에이전트 활용 등 실제 개발 과정에서 나타나는 문제와 해결 방법을 담았다.가장 눈길을 끄는 것은 코드 소유권에 관",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "앤트로픽이 최신 모델 '클로드 페이블 5.2'의 프롬프트 작성법을 공개하며 기존 모델에 사용하던 지침을 재검토하라고 권고했다. 특히 코드의 소유권을 어떻게 표현하",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217271_221501_5736.png",
+    "score": 4.31,
+    "engagement": 0,
+    "matched_keywords": [
+      "프롬프트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "메타, AI 에이전트 '뮤즈' 애플워치·웨어OS로 확대",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217278",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-11T17:41:19+00:00",
+    "raw_excerpt": "메타가 소비자용 AI 에이전트 '뮤즈(Muse)'를 애플워치와 구글의 웨어OS(Wear OS) 스마트워치로 확대했다. 지난 9월 출시 이후 스마트폰과 태블릿에 이어 웨어러블 기기까지 지원하면서, 이용자가 일상에서 AI 에이전트를 쉽게 사용할 수 있도록 서비스 접점을 늘리고 있다.메타는 9일(현지시간) X를 통해 스마트워치용 뮤즈 서비스를 발표했다. 사용자는 스마트워치에서 음성이나 문자로 AI 에이전트에 작업을 요청하고 답변과 진행 상황을 확인할 수 있다. 애플워치에서는 화면에 뮤즈 실행 버튼을 배치해 빠르게 서비스를 호출하는 기능도",
+    "topic": "personal_ai_agent",
+    "topic_label": "🧑‍💼 개인 AI 에이전트 · 금융비서",
+    "summary": "메타가 소비자용 AI 에이전트 '뮤즈(Muse)'를 애플워치와 구글의 웨어OS(Wear OS) 스마트워치로 확대했다. 지난 9월 출시 이후 스마트폰과 태블릿에 이",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217278_221509_3938.jpg",
+    "score": 4.288,
+    "engagement": 0,
+    "matched_keywords": [
+      "뮤즈"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "어도비, '파이어플라이' 기능 대거 확대… 초·중급 크리에이터 시장 조준",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217273",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-11T15:55:57+00:00",
+    "raw_excerpt": "생성 AI의 침공으로 시장 입지에 대한 불안감이 커지고 있는 어도비가 AI 플랫폼 '파이어플라이(Firefly)'를 에이전트 기반 ‘AI 크리에이티브 스튜디오'로 확장했다. 전문가용 도구의 높은 문턱 대신 AI를 앞세워 초·중급 크리에이터 흡수를 겨냥한 전략으로 풀이된다.■ 캡컷과 프리미어 사이 타깃어도비는 10일(현지시간) '어도비 맥스 2026'에서 영상 편집을 중심으로 한 파이어플라이 업데이트를 대거 공개했다. 핵심은 새 영상 편집기. 베타 단계인 파이어플라이 AI 어시스턴트를 전면에 배치하고, 아이디어 구상 전용 패널과 스토",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "생성 AI의 침공으로 시장 입지에 대한 불안감이 커지고 있는 어도비가 AI 플랫폼 '파이어플라이(Firefly)'를 에이전트 기반 ‘AI 크리에이티브 스튜디오'로",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217273_221503_1849.jpg",
+    "score": 4.193,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "유아이패스, 테스트 클라우드 강화...AI 에이전트가 앱 탐색·오류 검증",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21931",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-11-11T17:24:18+00:00",
+    "raw_excerpt": "유아이패스는 테스트 자동화 플랫폼 ‘유아이패스 테스트 클라우드’의 신규 및 예정 기능을 11일 공개했다. AI 에이전트가 테스트 실행부터 오류 탐색, 유지보수까지 담당하는 ‘다크 테스트 팩토리’ 구현이 핵심이다. 기존 테스트 자동화는 사람이 테스트 스크립트를 작성하고 실행한 뒤, 오류 원인을 분석해 애플리케이션 변경 사항에 맞춰 코드를 수정하는 방식이 중심이었다. AI 코딩 도구가 개발 생산성을 높이면서 소프트웨어 변경 주기가 짧아졌지만, 테스트 작업은 여전히 사람의 개입과 유지보수에 의존한다는 한계가 있다. 유아이패스가 제시한 다",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "유아이패스는 테스트 자동화 플랫폼 ‘유아이패스 테스트 클라우드’의 신규 및 예정 기능을 11일 공개했다. AI 에이전트가 테스트 실행부터 오류 탐색, 유지보수까지",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202611/21931_22726_207.jpg",
+    "score": 4.165,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "영하 24도 '남극 마라톤' 도전한 로봇…결과는?",
+    "url": "https://www.etnews.com/20261111000440",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-11-11T21:00:00+00:00",
+    "raw_excerpt": "영하 24도의 남극에서 마라톤 완주에 도전한 휴머노이드 로봇이 화제입니다. 지난 8일 남극 동부 울티마 캠프 인근에서 열린 '남극 아이스 울트라' 대회에 휴머노이드 로봇 '케스트르'가 참가했습니다. 대회는 새벽 1시에 시작됐으며, 케스트르는 추위를 막기 위해 두꺼운 보온 재킷을 입고 25명의 인간 참가자들과 함께 출발했습니다. 그러나 약 3km를 이동한 뒤 배터리가 방전되면서 로봇은 결국 기권했습니다. 대회 주최 측에 따르면 휴머노이드 로봇이",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "영하 24도의 남극에서 마라톤 완주에 도전한 휴머노이드 로봇이 화제입니다. 지난 8일 남극 동부 울티마 캠프 인근에서 열린 '남극 아이스 울트라' 대회에 휴머노이",
+    "thumbnail": "https://img.etnews.com/news/article/2026/11/11/news-p.v1.20261111.98781e474c3a4b02b453a9312c246849_P1.jpg",
+    "score": 3.936,
+    "engagement": 0,
+    "matched_keywords": [
+      "휴머노이드",
+      "휴머노이드 로봇"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "AI 로봇 양산 가로막는 건 알고리즘 아닌 제조 현장",
+    "url": "https://byline.network/2026/11/1111-9/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-11-11T14:34:54+00:00",
+    "raw_excerpt": "피지컬 AI의 제조 현장 도입이 확대되고 있지만, 카메라 인식 오류와 기계 부품 고장, 통신 표준화 미비, 현장 데이터 부족 등이 양산의 걸림돌로 작용하고 있다. 성민수 아이벡스 대표는 센서·AI 모델·로봇 장비·제어 소프트웨어·유지관리 체계가 유기적으로 결합해야 한다고 강조했다. 아이벡스는 핵심 기술 내재화와 단일 책임 체계, 현장 데이터를 활용한 폐쇄형 루프 운영을 통해 제조 현장의 문제를 해결한다는 계획이다.",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "피지컬 AI의 제조 현장 도입이 확대되고 있지만, 카메라 인식 오류와 기계 부품 고장, 통신 표준화 미비, 현장 데이터 부족 등이 양산의 걸림돌로 작용하고 있다.",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/11/AIVEX.jpg",
+    "score": 3.486,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "현대제철, ‘2026 AX 성과공유회’ 개최…최우수 과제 5건 선정",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=50490",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-11T15:11:28+00:00",
+    "raw_excerpt": "[스마트타임스] 현대제철은 최근 당진제철소 연구소에서 ‘2026 AX(인공지능 전환) 성과공유회’를 열고 원료 물류와 스크랩 배합 최적화 등 제조·업무 분야 최우수 과제 5건을 선정했다고 11일 밝혔다.지난 8월 시작한 공모에는 제조 분야 58건, 업무 분야 140건 등 198건이 접수됐다. 현대제철은 이 중 48건을 전시하고 우수사례 15건을 현장에서 발표·시연했다. 심사위원과 행사에 참석한 임직원이 발표 과제를 평가해 최우수 과제를 선정했다.제조 부문에서는 ‘원료 물류 최적화 가이드 도구 개발’과 ‘스크랩 원료 배합 최적화 가이",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "[스마트타임스] 현대제철은 최근 당진제철소 연구소에서 ‘2026 AX(인공지능 전환) 성과공유회’를 열고 원료 물류와 스크랩 배합 최적화 등 제조·업무 분야 최우",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202611/50490_49689_5624_v150.jpg",
+    "score": 3.325,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장",
+      "ax"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "노무라, 디지털자산 자회사 ‘레이저디지털’ 매각 검토-블룸버그",
+    "url": "https://www.blockmedia.co.kr/archives/1164653?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-11-11T19:54:42+00:00",
+    "raw_excerpt": "[멕시코=심영재 특파원] 일본 최대 증권사 노무라홀딩스가 디지털자산(가상자산) 자회사 레이저디지털 매각을 검토하고 있다. 디지털자산 시장의 극심한 변동성으로 레이저디지털에서 손실이 발생하면서 노무라의 유럽 사업 전체가 분기 적자를 기록한 데 따른 움직임이다. 블룸버그는 11일(현지시각) 사안에 정통한 관계자들의 말을 인용해 노무라가 마렉스그룹을 포함한 잠재적 인수자들과 레이저디지털 매각을 논의하고 있다고 보도했다. 다만 최종 결정은 내려지지 않았으며 다른 기업에 매각하거나 사업을 [...]",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[멕시코=심영재 특파원] 일본 최대 증권사 노무라홀딩스가 디지털자산(가상자산) 자회사 레이저디지털 매각을 검토하고 있다. 디지털자산 시장의 극심한 변동성으로 레이",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2025/10/20251007-094857.jpg",
+    "score": 3.052,
+    "engagement": 0,
+    "matched_keywords": [
+      "가상자산"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "워런, 디지털자산 조사 확대 예고…트럼프 사업도 겨냥",
+    "url": "https://www.blockmedia.co.kr/archives/1164649?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-11-11T19:45:57+00:00",
+    "raw_excerpt": "[멕시코=심영재 특파원] 미국 민주당이 중간선거에서 상·하원 다수당을 확보하면서 디지털자산(가상자산) 업계에 대한 의회 조사가 강화될 전망이다. 엘리자베스 워런 민주당 상원의원을 중심으로 트럼프 대통령 일가의 디지털자산 사업과 예측시장 플랫폼이 주요 조사 대상으로 거론되고 있다. 비트코인닷컴은 11일(현지시각) 워런 의원이 내년 1월 상원 은행위원장을 맡을 가능성이 커지면서 금융기관과 디지털자산 기업에 대한 감독 권한이 확대될 수 있다고 보도했다. 워런 의원은 [...]",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[멕시코=심영재 특파원] 미국 민주당이 중간선거에서 상·하원 다수당을 확보하면서 디지털자산(가상자산) 업계에 대한 의회 조사가 강화될 전망이다. 엘리자베스 워런",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/05/20260508-231807.jpg",
+    "score": 3.047,
+    "engagement": 0,
+    "matched_keywords": [
+      "가상자산"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "폴리마켓, 인력 구조조정 돌입…경쟁사 칼시에 선두 내준 뒤 조직 재편",
+    "url": "https://www.blockmedia.co.kr/archives/1164647?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-11-11T19:33:35+00:00",
+    "raw_excerpt": "[멕시코=심영재 특파원] 블록체인 기반 예측시장 플랫폼 폴리마켓이 직원과 외부 계약 인력을 감축하며 조직 재편에 나섰다. 경쟁사 칼시에 시장 선두 자리를 내준 데다 법적 문제와 경영 효율성에 대한 투자자들의 우려가 겹친 결과로 풀이된다. 블룸버그는 11일(현지시각) 폴리마켓이 최근 일부 직원을 해고하고 여러 계약업체와의 협력 관계를 종료했다고 보도했다. 회사는 이달 전사적인 인력 감축을 진행한다는 내용의 이메일이 소셜미디어 X(옛 [...]",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[멕시코=심영재 특파원] 블록체인 기반 예측시장 플랫폼 폴리마켓이 직원과 외부 계약 인력을 감축하며 조직 재편에 나섰다. 경쟁사 칼시에 시장 선두 자리를 내준 데",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/06/20260623-013020.jpg",
+    "score": 3.039,
+    "engagement": 0,
+    "matched_keywords": [
+      "블록체인"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "포스뱅크, 자회사 팀코어 육성 속도…신사업 투자 확대",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=678351",
+    "source": "블로터",
+    "source_type": "rss",
+    "published_at": "2026-11-11T17:07:39+00:00",
+    "raw_excerpt": "포스뱅크가 자회사 팀코어를 차세대 성장동력으로 육성하기 위해 투자를 확대하고 있다. 팀코어는 서빙로봇에 이어 산업용 단말기 사업까지 인수하며 사업 영역을 넓히고 있다. 포스뱅크도 적극적인 자금 지원을 통해 자회사의 성장을 뒷받침하는 모습이다.11일 금융감독원 전자공시시스템에 따르면 포스뱅크는 전날 팀코어가 신한은행과 우리은행에서 차입한 70억원에 대해 연대보증을 제공하기로 했다. 보증 한도는 차입 원금의 120%인 84억원으로 포스뱅크 자기자본의 10.71%에 해당한다.팀코어는 전날 엠쓰리모바일의 산업용 단말기 사업 양수를 확정했다",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "포스뱅크가 자회사 팀코어를 차세대 성장동력으로 육성하기 위해 투자를 확대하고 있다. 팀코어는 서빙로봇에 이어 산업용 단말기 사업까지 인수하며 사업 영역을 넓히고",
+    "thumbnail": "https://cdn.bloter.net/news/thumbnail/202611/678351_293023_5614_v150.jpg",
+    "score": 2.948,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "LG家 구연경·윤관, 미공개정보 주식거래 혐의 항소심도 무죄",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=50495",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-11T15:30:28+00:00",
+    "raw_excerpt": "[스마트타임스]미공개 정보를 이용해 주식을 취득한 혐의로 기소된 구연경 LG복지재단 대표와 남편 윤관 블루런벤처스(BRV) 대표가 항소심에서도 무죄를 선고받았다. 재판부는 주식 매수 경위에 의심스러운 정황이 있더라도 미공개 정보의 전달과 이용을 인정할 증거가 충분하지 않다고 판단했다.서울고법 형사4-3부(전지원·김인겸·성지용 부장판사)는 11일 구 대표 부부의 자본시장법 위반 혐의에 대한 검찰의 항소를 기각하고 무죄를 선고한 원심을 유지했다.고(故) 구본무 LG그룹 선대 회장의 맏딸인 구 대표는 남편에게서 바이오 기업 메지온의 미발",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "[스마트타임스]미공개 정보를 이용해 주식을 취득한 혐의로 기소된 구연경 LG복지재단 대표와 남편 윤관 블루런벤처스(BRV) 대표가 항소심에서도 무죄를 선고받았다.",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202611/50495_49693_307_v150.jpg",
+    "score": 2.887,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "日 위성 D2D에 10억 달러 지원...글로벌스타도 차세대망 확대",
+    "url": "https://zdnet.co.kr/view/?no=20261111185342",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-11-11T14:32:45+00:00",
+    "raw_excerpt": "[지디넷코리아]일본이 일반 스마트폰과 위성을 직접 연결하는 통신망 구축에 약 10억 달러를 지원한다. 라쿠텐과 AST스페이스모바일은 합작사를 통해 일본에서 관리·운영하는 위성망을 구축하고 재난 상황의 통신 연결을 강화할 계획이다.위성 사업자들의 서비스 준비도 이어졌다. AST스페이스모바일은 연내 주요 시장에서 간헐적 커버리지를 제공하겠다는 목표를 재확인했고, 글로벌스타는 차세대 위성 54기의 발사·운영에 필요한 프랑스 정부 승인을 확보했다고 발표했다.미국에서는 비아샛이 항공우주국(NASA)의 상업용 우주 통신 중계 사업에 선정됐다. 우주군의 데이터 전송망 운영을 지원하는 계약도 공개하면서 정부·국방 통신 사업을 확대했다.라쿠텐과 AST스페이스모바일은 9일 합작사 ‘라쿠텐 AST’ 설립에 합의했다고 발표했다. 의결권 비율은 라쿠텐 51%, AST 측 49%다. 일본 총무성의 저궤도 위성통신 사업 ‘J-LEO’에 선정돼 약 3년간 최대 1480억엔, 약 10억 달러를 지원받을 예정이다.합작사는 중대역 주파수를 지원하는 위성을 배치하고 2029년 3월 말까지 일본 내 통신망 구축과 운용 개시를 목표로 한다. 일반 스마트폰을 위성에 직접 연결하며, 재난 때 통신사 간 긴급 로밍을 지원하는 체계도 마련할 계획이다. 라쿠텐모바일이 기존 AST 협력에 따라 연내 추진하는 상용 환경 시험과는 별도 사업이다.AST스페이스모바일은 3분기 실적과 사업 ",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "[지디넷코리아]일본이 일반 스마트폰과 위성을 직접 연결하는 통신망 구축에 약 10억 달러를 지원한다. 라쿠텐과 AST스페이스모바일은 합작사를 통해 일본에서 관리·",
+    "thumbnail": "https://image.zdnet.co.kr/2026/11/11/861d5858eea2e954b4d1a9170b926497.png",
+    "score": 2.851,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "영국 떠난 가상자산 창업자, 아랍에미리트서 운영·세금 고려",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/436817",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-11-11T22:19:37+00:00",
+    "raw_excerpt": "영국 런던에서 창업한 가상자산 기업 Moongate가 2024년 8월 사업을 아랍에미리트(UAE)로 옮겼다. 공동창업자는 가상자산 수익을 급여와 운영비로 바꾸는 과정, 사업 운영과 세금 환경이 이전 결정에 영향을 줬다고 설명했다. 프라니트 신하(Praneet Sinha) Moongate 공동창업자는 크립토슬레이트(CryptoSlate) 기고문 인터뷰에서 “RAK DAO가 규제와 사업 측면에서 더 합리적이었다”고 말했다. 그는 사업을 옮긴 배경에 관한 자신의 판단을 설명했다. 신하는 가상자산 매출을 법정화폐로 바꿔 급여와 운영비에 쓰는 과정에서 세금상 이점도 고려했다고 밝혔다. 이는 창업자 개인의 판단으로, 영국과 아랍에미리트의 세제·규제를 독립적으로... 더보기",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "영국 런던에서 창업한 가상자산 기업 Moongate가 2024년 8월 사업을 아랍에미리트(UAE)로 옮겼다. 공동창업자는 가상자산 수익을 급여와 운영비로 바꾸는",
+    "thumbnail": "https://f1.tokenpost.kr/2026/11/34nld0njqj.jpg",
+    "score": 2.793,
+    "engagement": 0,
+    "matched_keywords": [
+      "창업"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "엠브이아이-셀리코, AR 글래스 '아이케인' 판매 협력 MOU 체결",
+    "url": "https://zdnet.co.kr/view/?no=20261111191724",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-11-11T10:17:38+00:00",
+    "raw_excerpt": "[지디넷코리아]엠브이아이(대표 김용태)는 AR·AI 기반 비전테크 기업 셀리코(대표 김정석)와 시각보조 AR 글래스 ‘아이케인(EyeCane)’의 판매 협력을 위한 업무협약(MOU)을 체결했다고 11일 밝혔다.양사는 이번 협약에 따라 ‘아이케인’의 판매·유통을 비롯해 제품 공급과 품질관리, 기술 지원·교육, 사후관리(A/S), 공동 홍보 등에서 협력한다. 엠브이아이는 판매와 영업 활동을 맡고, 고객·시장 정보를 셀리코와 공유할 예정이다.셀리코가 개발한 ‘아이케인’은 카메라로 촬영한 영상을 실시간으로 처리해 초소형 디스플레이로 보여주는 시각보조 AR 글래스다. 이 제품은 2024년 CES(Consumer Electronics Show) 접근성·디지털 헬스·웨어러블 3개 부문에서 혁신상을 수상했으며, 황반변성 등으로 시야 중심부가 어둡게 가려지는 암점 부위의 영상을 다른 위치로 옮기거나 확대해 보여주는 것이 특징이라고 회사 측은 설명했다. 또 제품 무게는 75g이고 문자·사물 인식 기능을 갖추고 있다고 알려졌다.김용태 엠브이아이 대표는 “기술은 필요한 분께 닿을 때 비로소 가치가 있다”며 “그간 현장에서 쌓아온 네트워크를 활용해 아이케인이 필요한 곳에 원활히 공급되고, 사용자의 일상 변화로 이어질 수 있도록 역량을 집중하겠다”고 밝혔다. 김정석 셀리코 대표는 “시각장애인 사용자의 요구와 현장을 깊이 이해하는 엠브이아이와 함께하게 되어 뜻",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "[지디넷코리아]엠브이아이(대표 김용태)는 AR·AI 기반 비전테크 기업 셀리코(대표 김정석)와 시각보조 AR 글래스 ‘아이케인(EyeCane)’의 판매 협력을 위",
+    "thumbnail": "https://image.zdnet.co.kr/2026/11/11/93e0782f9883143932fe3cb23899fa05.png",
+    "score": 2.691,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  }
+]
