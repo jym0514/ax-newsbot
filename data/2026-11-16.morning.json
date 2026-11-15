@@ -1,0 +1,598 @@
+[
+  {
+    "title": "Our new blog for science",
+    "url": "https://openai.com/index/our-new-blog-for-science",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-11-15T22:00:00+00:00",
+    "raw_excerpt": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts fro",
+    "thumbnail": "",
+    "score": 7.757,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
+    "url": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-11-15T15:42:03+00:00",
+    "raw_excerpt": "Anthropic's Claude Fable 5.2 doesn't generate images the way other AI models do. Instead of computing pixels, the language model writes Python code that places hundreds of thousands of simulated brushstrokes on a virtual canvas, complete with bristle texture and paint application. A single photorealistic parking garage scene took roughly 700,000 strokes, according to Anthropic employee Jake Eaton. The article Anthropic s Claude Fable 5.2 doesn t generate images, it paints them appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Anthropic's Claude Fable 5.2 doesn't generate images the way other AI models do. Instead o",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/claude_fable_5.2_painting.png",
+    "score": 6.131,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-11-15T19:15:43+00:00",
+    "raw_excerpt": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. Senate Minority [ ]",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a s",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25545717/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "score": 5.796,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "nvidia"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
+    "url": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-11-15T10:06:06+00:00",
+    "raw_excerpt": "Meituan has released the weights for LongCat-2.5, a 1.6-trillion-parameter model built for AI agents and trained entirely on Chinese hardware. On Terminal Bench, it scores 88.4 points, landing just behind Claude Opus 5. The sample deployment runs on 194 Huawei Ascend chips, and Meituan makes no mention of Nvidia GPUs. The article Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Meituan has released the weights for LongCat-2.5, a 1.6-trillion-parameter model built for",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/meituan-logo-wall-chatgpt-5.6.jpg",
+    "score": 5.746,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "nvidia"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "source_type": "rss",
+    "published_at": "2026-11-15T11:18:48+00:00",
+    "raw_excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and ev",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "score": 4.769,
+    "engagement": 0,
+    "matched_keywords": [
+      "regulation",
+      "crypto regulation"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "The Sony Aibo was a robot revolution dressed like a dog",
+    "url": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
+    "source": "The Verge",
+    "source_type": "rss",
+    "published_at": "2026-11-15T13:57:30+00:00",
+    "raw_excerpt": "In the 1990s, Sony was absolutely convinced that we were on the precipice of a robot takeover. Pretty soon, the company decided, we'd all be living among countless humanoid robots. Some would be our coworkers; others would be our friends; and at least one would be our pet. And \"pet\" was exactly what Sony was [ ]",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "In the 1990s, Sony was absolutely convinced that we were on the precipice of a robot takeo",
+    "thumbnail": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/AIBO_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+    "score": 4.715,
+    "engagement": 0,
+    "matched_keywords": [
+      "humanoid"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "\"사람의 움직임, 휴머노이드 로봇에 이식한다\"…엔비디아, 피지컬 AI 동작 변환 기술 오픈소스 공개",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42732",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-11-14T19:16:46+00:00",
+    "raw_excerpt": "엔비디아(NVIDIA)가 사람의 움직임을 휴머노이드 로봇의 신체 구조에 맞게 변환하는 오픈소스 기술을 공개했다. 인간과 로봇 사이의 관절 구조, 신체 비율, 가동 범위 차이를 보정해 사람의 동작 데이터를 로봇 제어 정책 학습에 활용할 수 있도록 지원하는 기술이다.사람의 행동을 학습해 실제 물리적 환경에서 움직이는 피지컬 AI(Physical AI) 개발에 필요한 동작 데이터 활용 기반을 확대할 것으로 기대된다.엔비디아는 13일(현지시간) '소마 리타기터(SOMA Retargeter-다운)'의 동작 변환 원리와 구현 절차, 로봇 제어",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "엔비디아(NVIDIA)가 사람의 움직임을 휴머노이드 로봇의 신체 구조에 맞게 변환하는 오픈소스 기술을 공개했다. 인간과 로봇 사이의 관절 구조, 신체 비율, 가동",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202611/42732_64208_1437_v150.jpg",
+    "score": 4.638,
+    "engagement": 0,
+    "matched_keywords": [
+      "physical ai",
+      "피지컬 ai",
+      "휴머노이드",
+      "휴머노이드 로봇"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Enterprise blockchain is going to come back from the dead",
+    "url": "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "source_type": "rss",
+    "published_at": "2026-11-15T14:30:00+00:00",
+    "raw_excerpt": "With scalability, privacy tools and onchain liquidity improving, businesses may finally have the infrastructure to make enterprise blockchain work.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "With scalability, privacy tools and onchain liquidity improving, businesses may finally ha",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZMF6J25WASD4RQJDF0BRKT/hi-if-blockchain-is-the-door-to-the-future-of-finance-liquidity-is-the-key.jpg",
+    "score": 4.274,
+    "engagement": 0,
+    "matched_keywords": [
+      "privacy"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Old Bitly Links Are Being Hijacked",
+    "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-11-15T22:11:43+00:00",
+    "raw_excerpt": "Article URL: https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/ Comments URL: https://news.ycombinator.com/item?id=50511395 Points: 3 # Comments: 1",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/ Comments URL",
+    "thumbnail": "https://ransomnews.com/wp-content/uploads/2026/11/burger-king-tweet-bitly-link-hijack-2026-cover-1024x576.png",
+    "score": 4.184,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Boeing-Lockheed rocket fails mid-flight, destroys payload of Amazon satellites",
+    "url": "https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-11-15T21:38:11+00:00",
+    "raw_excerpt": "Article URL: https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-launch-payload-amazon-internet-satellites-destroyed-2026-11-15/ Comments URL: https://news.ycombinator.com/item?id=50511072 Points: 10 # Comments: 4",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://www.reuters.com/business/aerospace-defense/us-rocket-fails-after-laun",
+    "thumbnail": "",
+    "score": 4.156,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Your Agent Will Pick the Hackable One",
+    "url": "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-11-15T21:10:39+00:00",
+    "raw_excerpt": "Article URL: https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/ Comments URL: https://news.ycombinator.com/item?id=50510799 Points: 35 # Comments: 15",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/ Comments",
+    "thumbnail": "https://geoffstearns.com/og-image.png",
+    "score": 4.133,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "WebGL Flight Simulator with seed generated terrain",
+    "url": "https://baron.by.dai.studio/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-11-15T20:20:05+00:00",
+    "raw_excerpt": "Article URL: https://baron.by.dai.studio/ Comments URL: https://news.ycombinator.com/item?id=50510296 Points: 18 # Comments: 5",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://baron.by.dai.studio/ Comments URL: https://news.ycombinator.com/item?",
+    "thumbnail": "https://baron.by.dai.studio/og-image.png",
+    "score": 4.091,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "메타, 사용자 사진 무단 접근으로 이탈리아서 1.2조 벌금",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217416",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-15T11:49:30+00:00",
+    "raw_excerpt": "이탈리아 개인정보보호 당국이 안드로이드 사용자의 동의 없이 스마트폰 사진과 동영상에 접근한 메타에 8억8700만달러(약 1조1886억원)의 벌금을 부과했다. 페이스북 앱의 사진 추천 기능이 사용자에게 충분히 고지되지 않은 채 개인 갤러리 데이터에 접근했다는 이유에서다.이탈리아 당국은 14일(현지시간) 발표를 통해 메타가 페이스북 앱에서 사용자의 사진과 동영상을 확인하고, 게시할 만한 콘텐츠를 추천하는 기능을 운영하면서 별도의 명확한 동의를 받지 않았다고 밝혔다. 이탈리아에서 약 2000만명의 안드로이드 사용자가 영향을 받은 것으로",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "이탈리아 개인정보보호 당국이 안드로이드 사용자의 동의 없이 스마트폰 사진과 동영상에 접근한 메타에 8억8700만달러(약 1조1886억원)의 벌금을 부과했다. 페이",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217416_221662_313.jpg",
+    "score": 3.971,
+    "engagement": 0,
+    "matched_keywords": [
+      "개인정보"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "휴대폰 잠금 해제 도구의 실체: 기술적 개요",
+    "url": "https://news.hada.io/topic?id=37225&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-11-15T21:44:30+00:00",
+    "raw_excerpt": "상용 휴대폰 잠금 해제 도구의 차별점은 새로운 공격 기법보다 취약점 악용의 체계적 상품화 에 있음. 기기별 공격 코드를 확보하고 안정화해 비전문가도 사용할 수 있는 자동화 작업 흐름으로 묶음 보안 수준을 가르는 핵심은 최초 잠금 해제 전(BFU) 과 최초 잠금 해제 후(AFU) 상태의 차이임. AFU에서는 복호화 키가 메모리에 남으므로 화면을 다시 잠가도 데이터가 암호학적으로 차단되지 않음 BFU 공격은 부팅 체인과 신뢰 실행 환경을 침해한 뒤 자격 증명을 무차별 대입하는 방식으로 진행할 수 있음. 별도 보안 요소(Secure Element) 가 올바르게 구현돼 있으면 하드웨어의 인증 시도 제한이 추가 방어선으로 남음 …",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "상용 휴대폰 잠금 해제 도구의 차별점은 새로운 공격 기법보다 취약점 악용의 체계적 상품화 에 있음. 기기별 공격 코드를 확보하고 안정화해 비전문가도 사용할 수 있",
+    "thumbnail": "https://social.news.hada.io/topic/37225/p93abfe50782a6b1ed40478068a893ef",
+    "score": 3.967,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "취약점"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
+    "url": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "source_type": "rss",
+    "published_at": "2026-11-15T06:27:26+00:00",
+    "raw_excerpt": "The stUSDT team did not disclose a reason for winding down the RWA protocol but assured holders that all underlying assets remain fully backed.",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "The stUSDT team did not disclose a reason for winding down the RWA protocol but assured ho",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4STR9GPNQXV18RZ1XBHZJV9/hi-coinflares-exit-and-the-future-of-cloud-mining-3.jpg",
+    "score": 3.821,
+    "engagement": 0,
+    "matched_keywords": [
+      "rwa"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Rust와 ratatui로 만든 터미널 방치형 공장 게임",
+    "url": "https://news.hada.io/topic?id=37212&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-11-15T17:45:05+00:00",
+    "raw_excerpt": "Terminactory 는 에이전트 작업과 나란히 즐기도록 만든 터미널 공장 게임으로, 광물을 채굴하고 가공해 판매하거나 연구를 통해 컴퓨터와 석유 단계까지 발전시킬 수 있음 공격이나 무작위 고장 없이 공장을 운영하며, 게임을 떠나 있는 동안에도 수익이 쌓임 Claude Code 훅 으로 에이전트의 마지막 응답을 게임 안의 전보로 받을 수 있고, 다른 에이전트도 tfac msg 명령으로 메시지를 보낼 수 있음 내장 브라우저 termweb 은 아이템과 기계 위키, 연구와 생산 통계, 가상의 사이트와 포럼을 제공하며, 공장 운영과 세계관 탐색 중 원하는 …",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Terminactory 는 에이전트 작업과 나란히 즐기도록 만든 터미널 공장 게임으로, 광물을 채굴하고 가공해 판매하거나 연구를 통해 컴퓨터와 석유 단계까지 발전",
+    "thumbnail": "https://social.news.hada.io/topic/37212/p2592e032996dfe04e94fc138f715b07",
+    "score": 3.801,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "claude code"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "[HR기업 AX 열전] AI가 바꾼 인사관리 '인재 검증·조직평가' 고도화",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=678632",
+    "source": "블로터",
+    "source_type": "rss",
+    "published_at": "2026-11-15T15:00:00+00:00",
+    "raw_excerpt": "AI 도입이 기업의 인력 운용과 채용, 조직 관리 방식 등을 바꾸고 있다. HR 기업들은 AI를 접목해 인재 선발부터 조직 진단까지 사업 영역을 넓히고 있다. 고객센터에서는 AI가 상담 업무를 보조하고 채용 시장에서는 AI 활용 능력이 새로운 평가 기준으로 떠오르고 있다. AI를 활용해 지원자를 검증하고 채용 의사결정을 지원하는 서비스도 등장했다.15일 비즈니스 네트워크 서비스 리멤버가 국내 기업의 고객 응대 실무자와 의사결정자를 대상으로 진행한 'AI 고객경험 리포트'에 따르면 AI를 도입한 기업 중 인력을 감축한 곳은 18%였다",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "AI 도입이 기업의 인력 운용과 채용, 조직 관리 방식 등을 바꾸고 있다. HR 기업들은 AI를 접목해 인재 선발부터 조직 진단까지 사업 영역을 넓히고 있다. 고",
+    "thumbnail": "https://cdn.bloter.net/news/thumbnail/202611/678632_293464_241_v150.jpg",
+    "score": 3.768,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직",
+      "ax",
+      "ai 도입"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol",
+    "url": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-11-14T16:48:01+00:00",
+    "raw_excerpt": "For the first time in a while, no OpenAI model leads the MathArena AI math benchmark. Google's Gemini 4 Carbon and Anthropic's Fable 5.2 have knocked GPT-6.1 Sol from the top, though both cost significantly more. Gemini ignored the time limit in testing and almost never gave up on a task. The article Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol appeared first on The Decoder .",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "For the first time in a while, no OpenAI model leads the MathArena AI math benchmark. Goog",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/gemini-4_carbon_logo.png",
+    "score": 3.732,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "페르소나AI, 국민성장펀드 통해 150억 투자 유치…AI 에이전트 사업 성장 가속화",
+    "url": "https://zdnet.co.kr/view/?no=20261115233648",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-11-15T21:00:03+00:00",
+    "raw_excerpt": "[지디넷코리아]AI 에이전트 전문기업 페르소나에이아이(페르소나AI, 대표 유승재)는 국민성장펀드 위탁운용사인 한국투자밸류자산운용에서 약 150억 원 규모의 투자를 유치했다고 15일 밝혔다. 지난 13일 투자금 납입을 완료했다.페르소나AI는 AI에이전트 전문 기업으로 피지컬AI 제조 에이전트까지 확대하며 최근 국가 AI대상을 수상한 기업이다. 이번 투자 유치를 통해 AI 에이전트 기술 경쟁력을 강화하고, 국내외 사업 확대를 위한 성장 기반을 확보하게 됐다.페르소나AI는 기업의 데이터와 업무 환경을 이해하고 실제 업무를 수행하는 AI 에이전트 기술을 중심으로 사업을 전개하고 있다. 특히 기업 내부의 분산된 데이터와 업무 시스템을 AI가 활용할 수 있는 지식 자산으로 전환하고, 이를 기반으로 다양한 AI 에이전트와 업무 자동화 서비스를 구현하는 기업용 AI 에이전트 플랫폼 ‘GEN STATION’을 주력 사업으로 추진하고 있다.또한 역사왜곡 방지를 위한 소형언어모델(sSLM), 사투리 인식 음성 AI 모델(SSTT) 등 다양한 산업과 사회적 과제에 특화한 AI 기술을 개발하며 기술 경쟁력을 강화하고 있다.회사는 \"이번 투자 유치를 계기로 AI 에이전트 플랫폼 고도화와 산업별 특화 AI 에이전트 개발, 국내외 사업 확장 등에 역량을 집중할 계획\"이라고 밝혔다. 특히 기업의 지식과 업무 프로세스를 이해하고 단순한 정보 제공을 넘어 실질적인 업",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "[지디넷코리아]AI 에이전트 전문기업 페르소나에이아이(페르소나AI, 대표 유승재)는 국민성장펀드 위탁운용사인 한국투자밸류자산운용에서 약 150억 원 규모의 투자를",
+    "thumbnail": "https://image.zdnet.co.kr/2023/08/09/81c101a18986a6a826a57a531185adeb.jpg",
+    "score": 3.543,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Emacs는 나의 브라우저",
+    "url": "https://news.hada.io/topic?id=37224&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-11-15T21:41:30+00:00",
+    "raw_excerpt": "Emacs 내장 브라우저 EWW 를 며칠간 적극적으로 사용해 보니, 개인적인 웹 이용의 약 85~90% 를 처리할 수 있었음 Chromium/Firefox에서 추천 콘텐츠와 눈길을 끄는 요소 때문에 쉽게 산만해졌지만, 텍스트 중심 탐색 으로 전환한 뒤 정보 검색과 문서 읽기, 생산 활동에 더 집중할 수 있었음 EWW 는 이미지와 GIF를 지원하며, 읽기 모드와 북마크, URL 복사 등을 Emacs 안에서 사용할 수 있음 PDF는 Emacs, 동영상은 mpv , Gopher/Gemini 링크는 Elpher 로 연결하고, EWW에서 잘 작동하지 않는 페이지는 일반 브라우저로 넘기는 구성을 사용함 …",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Emacs 내장 브라우저 EWW 를 며칠간 적극적으로 사용해 보니, 개인적인 웹 이용의 약 85~90% 를 처리할 수 있었음 Chromium/Firefox에서 추",
+    "thumbnail": "https://social.news.hada.io/topic/37224/p262cf9764dcd5501de95e4311a6ba62",
+    "score": 3.465,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Claude라는 망상",
+    "url": "https://news.hada.io/topic?id=37216&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-11-15T19:44:00+00:00",
+    "raw_excerpt": "기술 업계에서 코딩 실력과 사업 성공을 모든 분야에서 뛰어나다는 증거 로 받아들이는 과신은, AI가 인류를 구원하거나 위협할 것이라는 극단적인 전망으로 이어질 수 있음 빌 게이츠는 Claude의 코딩 실력이 자신과 비슷해졌다고 돌아봤으며, 이어 긴 코딩 작업과 코드 결함 탐지에서 AI가 초인적 수준에 이르렀다 고 평가함 프로그래밍을 특별한 정체성으로 삼던 개발자에게 자신처럼 코드를 만들고 칭찬까지 해주는 AI는 경외와 두려움 을 유발하며, 이를 초지능으로 받아들이게 할 수 있음 자율 에이전트 가 독자적으로 행동한다는 서사 …",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "기술 업계에서 코딩 실력과 사업 성공을 모든 분야에서 뛰어나다는 증거 로 받아들이는 과신은, AI가 인류를 구원하거나 위협할 것이라는 극단적인 전망으로 이어질 수",
+    "thumbnail": "https://social.news.hada.io/topic/37216/p86c4f17f307629e0769b84e124d9202",
+    "score": 3.384,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "상장 전 코인 미리 사 600만달러 벌었다…비밀 정보 아닌 ‘공개 코드’가 단서",
+    "url": "https://www.blockmedia.co.kr/archives/1166116?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-11-15T21:46:56+00:00",
+    "raw_excerpt": "[블록미디어 명정선 기자] 디지털자산 거래자들이 기업의 공개된 소프트웨어 코드와 블록체인 거래 기록을 분석해 코인 상장을 예측하고 600만달러(약 82억원) 이상의 수익을 올렸다고 주장했다. 거래소 내부 정보를 입수한 것이 아니라 누구나 열람할 수 있는 공개 자료에서 상장 징후를 포착했다는 점에서 디지털자산 시장의 정보 공정성 논란이 불거지고 있다. 15일(현지시각) 디지털자산 전문매체 더블록에 따르면 엑스(X)에서 3i 라는 가명으로 활동하는 거래자는 [...]",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[블록미디어 명정선 기자] 디지털자산 거래자들이 기업의 공개된 소프트웨어 코드와 블록체인 거래 기록을 분석해 코인 상장을 예측하고 600만달러(약 82억원) 이상",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/11/20261116-063224.png",
+    "score": 3.122,
+    "engagement": 0,
+    "matched_keywords": [
+      "블록체인"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "스위프트 17개 은행 토큰화 예금 파일럿 준비…기업 블록체인 재도전론",
+    "url": "https://www.tokenpost.kr/news/blockchain/438694",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-11-15T14:56:10+00:00",
+    "raw_excerpt": "나이트폴 네트웍스(Nightfall Networks) 창립자 겸 CEO 폴 브로디(Paul Brody)가 기업용 블록체인을 다시 시도할 때가 됐다고 주장했다. 블록체인 확장성과 프라이버시 도구의 개선이 실제 기업 도입으로 이어질지는 별도로 검증해야 한다. 브로디는 15일 코인텔레그래프(Cointelegraph)에 게재한 기고문에서 “이제 다시 시도할 때다”라고 썼다. 블록체인 확장성뿐 아니라 프라이버시 도구와 온체인 유동성이 개선돼 기업이 활용할 기반이 갖춰졌다는 주장이다. 다만 이는 기업용 프라이버시 기술을 만드는 업체 대표의 견해다. 기업 전반의 도입을 보여주는 독립 조사 결과와는 구분해야 한다. ◇ 기술 개선과 기업 도입은 별개 기업용... 더보기",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "나이트폴 네트웍스(Nightfall Networks) 창립자 겸 CEO 폴 브로디(Paul Brody)가 기업용 블록체인을 다시 시도할 때가 됐다고 주장했다. 블",
+    "thumbnail": "https://f1.tokenpost.kr/2026/11/ec7lqnssco.jpg",
+    "score": 2.947,
+    "engagement": 0,
+    "matched_keywords": [
+      "블록체인",
+      "토큰화"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "풀무원, 임직원이 AI 에이전트 직접 개발…AX 해커톤 개최",
+    "url": "https://zdnet.co.kr/view/?no=20261115131827",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-11-15T04:25:01+00:00",
+    "raw_excerpt": "[지디넷코리아]풀무원이 임직원이 직접 업무용 인공지능(AI) 에이전트를 개발하는 ‘AX 해커톤’을 열고 사내 AI 활용 확대에 나섰다.풀무원은 지난 12~13일 서울 강남구 수서 본사에서 전사 임직원을 대상으로 AX 해커톤을 개최했다고 15일 밝혔다.이번 행사는 최근 구축한 ‘AX 테크 플랫폼’을 활용해 실무자가 업무 과정에서 시간이 많이 들거나 비효율적인 부분을 찾아 이를 해결하는 AI 에이전트를 직접 만드는 방식으로 진행됐다.풀무원은 비개발 직군도 참여할 수 있도록 사전 교육과 코칭을 제공했다. 지원자 50여명 가운데 서류 심사를 통과한 직원들을 대상으로 AI 에이전트 교육을 진행했고, 개별 면담을 거쳐 선발한 본선 진출자 10명에게는 3주간 사내 AX 전문 인력의 일대일 코칭을 지원했다.본선에서는 사업 적용 가능성과 업무 혁신성 등 비즈니스 부문과 설계 효율성, 기능 완성도 등 기술 부문을 기준으로 출품작을 평가했다.대상은 풀무원식품 B2C영업본부 신동옥 영업 담당자가 개발한 ‘유통채널 발주 제안 Agent’가 차지했다. 회사는 실제 영업 현장에서 바로 활용할 수 있는 수준의 완성도를 보였다고 설명했다.풀무원은 수상작을 비롯한 해커톤 개발 과제를 AX혁신실 주도로 추가 고도화한 뒤 완성된 시스템을 전사에 제공할 계획이다.풀무원의 ‘AX 테크 플랫폼’은 현업 직원이 직접 AI 에이전트를 개발하고 업무에 활용할 수 있도록 표준 체계",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "[지디넷코리아]풀무원이 임직원이 직접 업무용 인공지능(AI) 에이전트를 개발하는 ‘AX 해커톤’을 열고 사내 AI 활용 확대에 나섰다.풀무원은 지난 12~13일",
+    "thumbnail": "https://image.zdnet.co.kr/2026/11/15/9744608509f95bdb2166d1e6bf423f9a.jpg",
+    "score": 2.921,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "마이크로소프트($MSFT), 이그나이트 17일 개막",
+    "url": "https://www.tokenpost.kr/news/ai/438681",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-11-15T14:05:12+00:00",
+    "raw_excerpt": "마이크로소프트($MSFT)의 기업 기술 행사 이그나이트(Microsoft Ignite) 2026이 17~20일 미국 샌프란시스코 모스콘 센터에서 열린다. 공식 행사 프로그램에는 코파일럿(Copilot)을 비롯해 클라우드와 보안, 기업용 AI를 다루는 세션이 포함됐다. 개막 기조연설은 한국시간 18일 오전 3시 시작한다. 사티아 나델라(Satya Nadella) 마이크로소프트 최고경영자와 저드슨 알토프(Judson Althoff) 마이크로소프트 상업 부문 책임자가 연사로 나선다. 기조연설 안내에는 코파일럿, AI 에이전트 플랫폼, 클라우드, 보안이 주제로 제시됐다. 무료 디지털 패스를 이용하면 기조연설과 일부 세션을 온라인으로 볼 수 있다. 본지는 앞서 이그나이트의... 더보기",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "마이크로소프트($MSFT)의 기업 기술 행사 이그나이트(Microsoft Ignite) 2026이 17~20일 미국 샌프란시스코 모스콘 센터에서 열린다. 공식 행",
+    "thumbnail": "https://f1.tokenpost.kr/2026/11/68pw9rim4u.jpg",
+    "score": 2.919,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "LG이노텍, '반도체기판' 알짜 부상…애플 의존도 낮출까",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=678629",
+    "source": "블로터",
+    "source_type": "rss",
+    "published_at": "2026-11-15T16:00:00+00:00",
+    "raw_excerpt": "LG이노텍 반도체기판 사업이 알짜 수익원으로 떠오르고 있다. 가파른 이익 성장세를 앞세워 실적을 뒷받침할 새로운 성장 동력으로 존재감을 키우고 있다. 이를 앞세워 애플에 쏠린 사업 구조를 보완하고 수익원을 다변화할 돌파구가 될 수 있을지 주목된다. 반도체기판 이익 성장세 69% 급증… 공장도 '풀가동'15일 업계에 따르면 LG이노텍은 올해 1~9월 패키지솔루션 사업부 영업이익은 1357억원으로 전년 동기보다 69.2% 급증했다. 같은 기간 매출도 15.2% 늘어난 1조4174억원을 기록했다.반도체기판 사업은 수익성 측면에서도 뚜렷한",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "LG이노텍 반도체기판 사업이 알짜 수익원으로 떠오르고 있다. 가파른 이익 성장세를 앞세워 실적을 뒷받침할 새로운 성장 동력으로 존재감을 키우고 있다. 이를 앞세워",
+    "thumbnail": "https://cdn.bloter.net/news/thumbnail/202611/678629_293453_1117_v150.jpg",
+    "score": 2.905,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "CSOT, 반도체 유리 코어 기판 시제품 공개...종횡비 10:1",
+    "url": "https://zdnet.co.kr/view/?no=20261113124245",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-11-15T14:38:58+00:00",
+    "raw_excerpt": "[지디넷코리아][우한(중국)=이기종 기자] CSOT가 지난 13일 중국 우한에서 개최한 자체 연례행사 DTC 2026에서 반도체 패키징 유리기판 시제품 3종을 전시했다. 지난 9월 BOE도 베이징에서 열린 자체 연례행사 IPC 2026에서 반도체 유리기판을 전시한 바 있다. 중국 패널 업체가 유리관통전극(TGV) 유리기판 사업화 가능성을 모색하고 있다. CSOT가 전시한 반도체 유리 코어 기판 패널 크기는 510×515mm다. 사양은 TGV 종횡비(Aspect Ratio) 10대 1, 전체 배선층 수 5-2-5 구조 총 12층 등이다. 회로 선폭(L)과 선 간격(S)은 각각 10μm다. 종횡비는 TGV 깊이를 지름으로 나눈 값이다. 종횡비가 높을수록 깊이에 비해 지름이 작은 비아를 구현할 수 있고, 고밀도 수직 연결에 유리하다. 앞서 BOE가 지난 9월 IPC 2026에서 공개한 유리 코어 기판 종횡비는 15대 1이었다. 기판 두께는 1mm, TGV 직경은 67μm, 층수는 24층이었다. 당시 BOE 관계자는 \"기존에 전시했던 유리 코어 기판은 종횡비가 10대 1, 빌드업 층수 20층이었다\"며 \"올해 IPC에서 개선품을 선보였다\"고 밝혔다. 아직 CSOT와 BOE 모두 양산 전 개발·검증 단계에 있다. 공개 사양만으로 기술 수준을 직접 비교하기는 어렵다. CSOT의 또 다른 시제품은 TGV 금속화 기술이 초점이다. TGV 종횡비는 1",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "[지디넷코리아][우한(중국)=이기종 기자] CSOT가 지난 13일 중국 우한에서 개최한 자체 연례행사 DTC 2026에서 반도체 패키징 유리기판 시제품 3종을 전",
+    "thumbnail": "https://image.zdnet.co.kr/2026/11/13/2dbcff50413639529609d4ca513f7b44.png",
+    "score": 2.855,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "[아침 시황] 비트코인 8,996만원…상승 종목 75%",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/438748",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-11-15T22:30:44+00:00",
+    "raw_excerpt": "11월 16일 오전 7시 30분 오늘 아침 국내 암호화폐 시장은 위험 자산 선호가 살아났다. 24시간 거래대금(업비트·빗썸)은 2.0조원을 기록했으며 거래대금 50억원 이상 종목 36개 중 27개가 올라 상승 종목 비율이 75%에 달했다. 대장주는 나란히 올랐다. 비트코인은 8,996만원으로 24시간 전보다 1.2% 올랐으며, 이더리움은 252만원으로 3.0% 올랐다. 가장 많이 오른 종목은 업비트에 상장된 폴리스웜으로, 12.6원까지 39.2% 뛰며 거래대금 299억원을 끌어모았다. 디라이브는 30.4%, 메가이더는 11.2% 올랐다. 하락 쪽에서는 소폰이 52.0% 내렸고 질리카는 25.2% 하락했다. 절대 거래대금 기준으로는 비트코인이 2,563억원으로 가장 많이... 더보기",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "11월 16일 오전 7시 30분 오늘 아침 국내 암호화폐 시장은 위험 자산 선호가 살아났다. 24시간 거래대금(업비트·빗썸)은 2.0조원을 기록했으며 거래대금 5",
+    "thumbnail": "https://f1.tokenpost.kr/2026/11/pzbl66dan3.png",
+    "score": 2.8,
+    "engagement": 0,
+    "matched_keywords": [
+      "암호화폐"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "22시간 우주 돌고 돌아온 스페이스X 스타십…거대 로봇팔로 '덥석'",
+    "url": "https://zdnet.co.kr/view/?no=20261115173150",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-11-15T08:38:45+00:00",
+    "raw_excerpt": "[지디넷코리아]일론 머스크가 이끄는 우주기업 스페이스X가 지구 궤도를 22시간 넘게 비행한 우주선을 발사대의 거대한 로봇팔로 붙잡는 데 성공했다. 우주에서 돌아온 대형 우주선을 발사 장소에서 직접 회수한 것은 이번이 처음으로, 스페이스X가 추진하는 완전 재사용 로켓 개발에 중요한 진전을 이뤘다는 평가가 나온다.14일(현지시간) 로이터통신과 AP통신 등 외신에 따르면 스페이스X는 이날 미국 텍사스주 스타베이스 발사장에서 스타십 상단 우주선 '십 42(Ship 42)'를 발사탑에 설치된 기계식 로봇팔로 포획하는 데 성공했다.이번 비행은 스타십의 15번째 시험비행으로, 우주선은 전날 오후 5시 47분 미국 텍사스주 스타베이스에서 발사됐다. 이후 지구 궤도에 진입해 약 22시간 30분 동안 지구를 14바퀴 돌고 다시 발사장으로 돌아왔다.우주선은 지구 대기권에 재진입한 뒤 엔진을 이용해 하강 속도를 조절했다. 발사장에 접근한 우주선은 수직 자세로 전환해 천천히 내려왔고, 발사탑 양쪽에서 뻗어 나온 거대한 기계식 팔 사이에 안착했다.이 장치는 젓가락처럼 양쪽에서 로켓을 붙잡는 모습 때문에 '젓가락 팔(Chopsticks)'로 불린다. 스페이스X는 앞서 스타십의 1단 추진체인 슈퍼헤비를 같은 방식으로 세 차례 회수한 바 있지만, 우주 궤도에서 돌아온 상단 우주선을 포획한 것은 처음이다.이번 임무에서는 차세대 스타링크 통신위성 26기를 궤도에 배치",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "[지디넷코리아]일론 머스크가 이끄는 우주기업 스페이스X가 지구 궤도를 22시간 넘게 비행한 우주선을 발사대의 거대한 로봇팔로 붙잡는 데 성공했다. 우주에서 돌아온",
+    "thumbnail": "https://image.zdnet.co.kr/2026/11/15/d41ea4cfc9709e9f22f7c31d1dda009f.gif",
+    "score": 2.63,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  }
+]
