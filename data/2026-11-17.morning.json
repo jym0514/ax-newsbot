@@ -1,0 +1,640 @@
+[
+  {
+    "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+    "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-11-16T18:11:10+00:00",
+    "raw_excerpt": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2297209338.jpg?w=1024",
+    "score": 7.127,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai",
+      "nvidia"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+    "url": "https://openai.com/index/lvmh-media-division-partnership",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-11-16T09:00:00+00:00",
+    "raw_excerpt": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and",
+    "thumbnail": "",
+    "score": 6.701,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "California state AG sues OpenAI over rogue agent incidents",
+    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-11-16T20:07:13+00:00",
+    "raw_excerpt": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally acco",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/11/1920px-Rob_Bonta_at_Central_Bay_Operations_and_Maintenance_Facility_opening_December_2018.jpeg?resize=1200,981",
+    "score": 6.435,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "OpenAI's GPT-6 Astra tackles the Standard Model's toughest math problem on a lattice",
+    "url": "https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-11-16T19:19:56+00:00",
+    "raw_excerpt": "OpenAI physicist Nathaniel Craig used GPT-6 Astra to tackle a problem that had stumped particle physicists for over 25 years. The AI model took Craig's strategy for defining the full Standard Model on a computational lattice and turned it into a working proof. Craig says a lot of work remains before realistic simulations are possible. The article OpenAI s GPT-6 Astra tackles the Standard Model s toughest math problem on a lattice appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI physicist Nathaniel Craig used GPT-6 Astra to tackle a problem that had stumped par",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/openai_standard_model.png",
+    "score": 6.381,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "백악관 \"AI 보안 사고 자진 신고하면 처벌 완화\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217450",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-16T15:07:19+00:00",
+    "raw_excerpt": "백악관이 AI 관련 사이버 공격이나 보안 취약점을 선의로 자진 신고하는 기업에 대해 최소 1년간 규제상 책임을 제한하는 방안을 권고했다. AI의 공격 능력이 빠르게 발전하면서 기존 보안 기준을 준수한 기업도 피해를 볼 수 있는 만큼, 처벌 부담을 줄여 사고 정보 공유를 장려하겠다는 취지다.블룸버그에 따르면, 도널드 트럼프 대통령의 AI 태스크포스인 '초지능 부대(SIF)' 관계자들은 12일(현지시간) 백악관 회의에서 각 정부 기관에 사이버 사고에 대한 기존 규제 기준을 재검토하라고 권고했다.현행 기준이 AI 관련 보안 사고의 특성을",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "백악관이 AI 관련 사이버 공격이나 보안 취약점을 선의로 자진 신고하는 기업에 대해 최소 1년간 규제상 책임을 제한하는 방안을 권고했다. AI의 공격 능력이 빠르",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217450_221694_4829.png",
+    "score": 6.099,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai 보안",
+      "보안",
+      "취약점",
+      "규제"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Science at the Frontier: How scientists use ChatGPT",
+    "url": "https://openai.com/index/science-at-the-frontier",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-11-16T12:00:00+00:00",
+    "raw_excerpt": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily work",
+    "thumbnail": "",
+    "score": 5.97,
+    "engagement": 0,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Google warns that fully automated cyberattacks have arrived and will get worse fast",
+    "url": "https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-11-16T19:42:13+00:00",
+    "raw_excerpt": "Google's Threat Intelligence Group has for the first time caught attackers finding and exploiting security vulnerabilities with no human involvement at all. An AI framework called \"exploit_agent,\" found on an exposed server, automatically compared code before and after patches, built exploits, and ran them on its own. The article Google warns that fully automated cyberattacks have arrived and will get worse fast appeared first on The Decoder .",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Google's Threat Intelligence Group has for the first time caught attackers finding and exp",
+    "thumbnail": "",
+    "score": 5.581,
+    "engagement": 0,
+    "matched_keywords": [
+      "exploit"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "미국, 중국의 해외 GPU 우회 이용 차단…새 수출 규제 발표",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217467",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-17T05:13:33+00:00",
+    "raw_excerpt": "미국 정부가 중국 기업들이 해외 데이터센터에서 첨단 AI 반도체를 빌려 사용하는 것을 제한하는 새로운 규정을 발표했다. 중국으로의 직접 수출뿐 아니라 해외 GPU의 원격 이용까지 통제하고, 싱가포르와 말레이시아 등 5개국에 대한 첨단 반도체 수출 심사도 강화한다.미국 상무부 산업안보국(BIS)은 16일(현지시간) 공식 발표를 통해 첨단 AI 반도체와 서버의 해외 원격 이용을 제한하는 잠정 최종 규정(Interim Final Rule)을 공개했다. 최근 중국 기업의 해외 GPU 임대 규제를 추진하고 있다는 사실이 알려진 데 이어 구체",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "미국 정부가 중국 기업들이 해외 데이터센터에서 첨단 AI 반도체를 빌려 사용하는 것을 제한하는 새로운 규정을 발표했다. 중국으로의 직접 수출뿐 아니라 해외 GPU",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217467_221737_717.jpg",
+    "score": 5.563,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "gpu"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "More ways to move care forward with ChatGPT for Healthcare",
+    "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-11-16T06:00:00+00:00",
+    "raw_excerpt": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins tha",
+    "thumbnail": "",
+    "score": 5.483,
+    "engagement": 0,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+    "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-11-16T17:00:00+00:00",
+    "raw_excerpt": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/11/OpenAI-chatgpt-CSAM.jpeg?resize=1200,675",
+    "score": 5.395,
+    "engagement": 0,
+    "matched_keywords": [
+      "chatgpt"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Claude now builds interactive websites inside canvas graphics, reviving the Flash era with real HTML",
+    "url": "https://the-decoder.com/claude-now-builds-interactive-websites-inside-canvas-graphics-reviving-the-flash-era-with-real-html/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-11-16T16:10:22+00:00",
+    "raw_excerpt": "Claude can now embed text, buttons, and other web elements into complex graphics and 3D effects. The article Claude now builds interactive websites inside canvas graphics, reviving the Flash era with real HTML appeared first on The Decoder .",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Claude can now embed text, buttons, and other web elements into complex graphics and 3D ef",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/claude_gemini_pro-scaled.png",
+    "score": 5.339,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Starling Founder Launches Agentic AI-Focused Bank Lockwood",
+    "url": "https://www.pymnts.com/news/banking/2026/starling-founder-launches-agentic-ai-focused-bank-lockwood/",
+    "source": "PYMNTS",
+    "source_type": "rss",
+    "published_at": "2026-11-16T20:02:41+00:00",
+    "raw_excerpt": "The founder of British neobank Starling is reportedly embarking on an artificial intelligence (AI)-focused banking venture. Anne Boden is using some of the proceeds from selling her shares in her former company to help launch her new startup Lockwood, The Times reported Sunday (Nov. 15). “I’m building a bank that’s going to be built by [ ] The post Starling Founder Launches Agentic AI-Focused Bank Lockwood appeared first on PYMNTS.com .",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "The founder of British neobank Starling is reportedly embarking on an artificial intellige",
+    "thumbnail": "https://www.pymnts.com/wp-content/uploads/2026/11/Lockwood-digital-banking-AI-agents.jpeg?w=457",
+    "score": 5.261,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic",
+      "agentic ai"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+    "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-11-16T12:30:00+00:00",
+    "raw_excerpt": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
+    "topic": "ai_native",
+    "topic_label": "🧬 AI Native",
+    "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/11/dreamteam-co-founders.jpg?resize=1200,800",
+    "score": 5.086,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai-native"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+    "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-11-15T23:30:00+00:00",
+    "raw_excerpt": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies, including General Atomics.",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with comp",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/11/bharat-semi-co-founders-vinayak-dalmia-vrinda-kapoor.jpg?resize=1200,800",
+    "score": 5.017,
+    "engagement": 0,
+    "matched_keywords": [
+      "startup",
+      "seed round"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "[11월16일] 젠슨 황 복귀설에 시장 반색…그러나 스파이 의혹만이 문제가 아니다",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217442",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-17T07:00:00+00:00",
+    "raw_excerpt": "젠슨 황 전 엔비디아 CEO가 사임한 지 사흘 만에 복귀를 추진하고 있다는 소식에 시장이 반응했습니다. 15일 저녁(현지시간) 가상자산 파생상품 거래 플랫폼 하이퍼리퀴드에서 엔비디아 주가와 연동된 무기한 선물 가격이 최대 4.5% 상승했습니다.물론 이는 엔비디아 현물 주가가 아니라 주가 연동 무기한 선물로, 이 반응만으로 시장 전체가 복귀를 지지한다고 단정할 수는 없습니다. 그러나 지난주 엔비디아 주가가 12.7% 급락한 뒤 나온 반응이라 주목됩니다.파이낸셜타임스(FT)에 따르면 황은 측근들과 복귀 방안을 논의하고 있으며, 실리콘밸",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "젠슨 황 전 엔비디아 CEO가 사임한 지 사흘 만에 복귀를 추진하고 있다는 소식에 시장이 반응했습니다. 15일 저녁(현지시간) 가상자산 파생상품 거래 플랫폼 하이",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217442_221684_5047.png",
+    "score": 5.009,
+    "engagement": 0,
+    "matched_keywords": [
+      "가상자산"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Lighter suspends all withdrawals after $10.4 million crypto exploit",
+    "url": "https://www.coindesk.com/tech/2026/11/16/lighter-suspends-all-withdrawals-after-usd10-4-million-crypto-exploit",
+    "source": "CoinDesk",
+    "source_type": "rss",
+    "published_at": "2026-11-16T16:41:42+00:00",
+    "raw_excerpt": "",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Lighter suspends all withdrawals after $10.4 million crypto exploit",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/df75194a14ee0137a319a24c95c7971dfac737a2-4896x3268.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "score": 4.886,
+    "engagement": 0,
+    "matched_keywords": [
+      "exploit"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "네이버 카페에 AI 에이전트 도입...3개 카페서 베타 테스트 진행",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217453",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-16T15:55:25+00:00",
+    "raw_excerpt": "네이버(대표 최수연)는 네이버 카페 회원을 위한 ‘AI 카페 에이전트'의 비공개 베타 테스트(CBT)를 진행 중이라고 16일 밝혔다.AI 카페 에이전트는 카페에 축적된 정보를 바탕으로 사용자 질문에 답변하고 관련 원문으로 연결하는 서비스이다. 일반 검색이나 범용 AI로는 찾기 어려운 게시글과 댓글 속 경험·노하우를 답변에 반영, 회원들의 다양한 의견까지 제시하는 것이 특징이다.예를 들어 겨울철 차박 배터리 소모량을 물으면 회원 경험담을 요약하고 원문을 첨부한다. 유후인 료칸 객실 노천탕의 필요성을 물으면 객실 노천탕 추천 의견과 대",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "네이버(대표 최수연)는 네이버 카페 회원을 위한 ‘AI 카페 에이전트'의 비공개 베타 테스트(CBT)를 진행 중이라고 16일 밝혔다.AI 카페 에이전트는 카페에",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217453_221697_824.png",
+    "score": 4.843,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Brazil's central bank faces backlash over stablecoin money laundering remarks",
+    "url": "https://www.coindesk.com/business/2026/11/16/brazil-s-central-bank-faces-backlash-over-stablecoin-money-laundering-remarks",
+    "source": "CoinDesk",
+    "source_type": "rss",
+    "published_at": "2026-11-16T15:54:11+00:00",
+    "raw_excerpt": "",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Brazil's central bank faces backlash over stablecoin money laundering remarks",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/a010b6e8d5d9fab88360e6939414f5b12c6bf695-1920x1272.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "score": 4.836,
+    "engagement": 0,
+    "matched_keywords": [
+      "stablecoin"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "퀄컴 인 유어 라이프 2026 성료...스냅드래곤·드래곤윙 생태계 조명",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21965",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-11-16T14:55:38+00:00",
+    "raw_excerpt": "퀄컴 테크날러지스는 지난 12일 서울 강남구 SJ쿤스트할레에서 ‘퀄컴 인 유어 라이프 2026’을 개최했다고 16일 밝혔다. ‘Agentic AI Powers Your Life’를 주제로 열린 이번 행사에는 국내 협력사와 크리에이터, 스냅드래곤 인사이더즈 회원들이 참석했다. 2024년 첫 행사에 이어 두 번째로 마련된 자리다.퀄컴이 제시한 핵심 방향은 에이전틱 AI의 적용 범위를 특정 디바이스에 한정하지 않는 것이다. 스마트폰과 PC뿐 아니라 웨어러블, 확장현실(XR), 자동차, 스마트홈, 로보틱스 등 다양한 기기와 산업 현장으로",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "퀄컴 테크날러지스는 지난 12일 서울 강남구 SJ쿤스트할레에서 ‘퀄컴 인 유어 라이프 2026’을 개최했다고 16일 밝혔다. ‘Agentic AI Powers Y",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202611/21965_22761_5033.jpg",
+    "score": 4.602,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic",
+      "agentic ai",
+      "에이전틱"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Vitalik Buterin flips to ‘total bull’ on a faster route to quantum-safe Ethereum",
+    "url": "https://www.coindesk.com/tech/2026/11/16/vitalik-buterin-flips-to-total-bull-on-a-faster-route-to-quantum-safe-ethereum",
+    "source": "CoinDesk",
+    "source_type": "rss",
+    "published_at": "2026-11-16T08:18:03+00:00",
+    "raw_excerpt": "",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "Vitalik Buterin flips to ‘total bull’ on a faster route to quantum-safe Ethereum",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/fc25947f1bdd54e21669cfeb4f95b3a58f436d2c-1500x919.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "score": 4.361,
+    "engagement": 0,
+    "matched_keywords": [
+      "quantum"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "알리바바 '큐원4 맥스' 정식 출시…성능 높이고 작업 비용 67% 절감",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217466",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-16T18:31:44+00:00",
+    "raw_excerpt": "알리바바가 차세대 AI 모델 '큐원4 맥스(Qwen4-Max)'의 기술 사양과 성능 평가 결과를 공개하고 정식 출시했다. 전작과 같은 2조4000억개 규모의 매개변수를 유지하면서 실제 연산에 사용하는 매개변수를 25% 줄였으며, 외부 평가에서는 성능이 향상되고 작업당 비용은 약 67% 감소한 것으로 나타났다.알리바바 큐원팀은 16일(현지시간) 공식 블로그를 통해 큐원4 맥스의 새로운 아키텍처와 벤치마크, API 가격을 발표했다. 지난 11일 프리뷰 서비스를 시작한 지 5일 만으로, 당시 공개하지 않았던 모델 구조와 성능을 구체적으로",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "알리바바가 차세대 AI 모델 '큐원4 맥스(Qwen4-Max)'의 기술 사양과 성능 평가 결과를 공개하고 정식 출시했다. 전작과 같은 2조4000억개 규모의 매개",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217466_221735_2431.png",
+    "score": 4.334,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Spamhaus new email sender requirements in November",
+    "url": "https://www.spamhaus.org/sender-guidelines/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-11-16T21:47:19+00:00",
+    "raw_excerpt": "Article URL: https://www.spamhaus.org/sender-guidelines/ Comments URL: https://news.ycombinator.com/item?id=50523784 Points: 22 # Comments: 13",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://www.spamhaus.org/sender-guidelines/ Comments URL: https://news.ycombi",
+    "thumbnail": "",
+    "score": 4.163,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "BugMeNot Has Closed",
+    "url": "https://www.bugmenot.com/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-11-16T21:32:17+00:00",
+    "raw_excerpt": "Article URL: https://www.bugmenot.com/ Comments URL: https://news.ycombinator.com/item?id=50523601 Points: 96 # Comments: 56",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://www.bugmenot.com/ Comments URL: https://news.ycombinator.com/item?id=",
+    "thumbnail": "",
+    "score": 4.151,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "OpenCode Browse",
+    "url": "https://opencode.ai/product/browse",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-11-16T21:20:37+00:00",
+    "raw_excerpt": "Article URL: https://opencode.ai/product/browse Comments URL: https://news.ycombinator.com/item?id=50523459 Points: 16 # Comments: 7",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://opencode.ai/product/browse Comments URL: https://news.ycombinator.com",
+    "thumbnail": "https://opencode.ai/og/product-browse-1528ffd6f6.png",
+    "score": 4.141,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "“양자컴퓨팅으로 신약 개발의 한계 넘겠다”…조은성 인세리브로 대표, 글로벌 제약기업 도전",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42745",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-11-16T18:23:06+00:00",
+    "raw_excerpt": "인공지능(AI)이 신약 개발의 속도를 높이고 있지만, 새로운 치료 표적에 대한 데이터가 부족하면 AI의 예측 능력에도 한계가 발생한다. 이러한 문제를 해결하기 위해 양자역학에 기반한 계산과 양자컴퓨팅을 활용해 신약 개발의 정확성과 효율성을 높이려는 국내 기업이 있다.조은성 인세리브로(InSilicoBrO) 대표는 물리학에서 출발한 계산과학 기술을 신약 개발에 적용해 새로운 후보물질을 발굴하고, 장기적으로 글로벌 제약기업으로 성장하겠다는 목표를 제시했다.고려대학교 생명정보공학과 교수이기도 한 조 대표는 2019년 인세리브로를 창업했다",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "인공지능(AI)이 신약 개발의 속도를 높이고 있지만, 새로운 치료 표적에 대한 데이터가 부족하면 AI의 예측 능력에도 한계가 발생한다. 이러한 문제를 해결하기 위",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202611/42745_64224_2220_v150.jpg",
+    "score": 3.993,
+    "engagement": 0,
+    "matched_keywords": [
+      "양자"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "마음AI, 두산밥캣과 피지컬AI 협력 결실…고난도 자율작업 성공",
+    "url": "https://zdnet.co.kr/view/?no=20261116232242",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-11-16T14:22:42+00:00",
+    "raw_excerpt": "[지디넷코리아]피지컬AI 풀스택 기업 마음AI는 글로벌 건설장비 기업 두산밥캣과 지난 6월 업무협약(MOU)을 체결한 지 약 5개월 만에, 실제 산업현장에서 두산밥캣 건설장비의 자율작업 실증에 성공했다고 16일 밝혔다.경기도 평택의 소 축사에서 진행된 이번 실증에는 마음AI가 자체 개발한 피지컬 AI 모델인 월드액션모델(World Action Model)을 적용했다. 마음AI는 두산밥캣의 소형 건설장비인 스키드 로더에 월드액션모델을 적용하고, 실제 축사 환경에 맞춰 모델을 고도화해 장비가 주변 상황을 스스로 인식하고 작업 경로와 동작을 판단하며 분뇨 처리 작업을 수행하도록 구현했다.두산밥캣은 장비의 동작 및 제어 신호를 PoC 관련 기술 개발에 손쉽게 활용할 수 있는 환경을 구축해 개발 효율성과 속도를 높였다.마음AI는 앞서 독자 개발한 로봇 파운데이션 모델 ‘PonderPounce’로 글로벌 로봇 AI 벤치마크 RoboMME에서 세계 1위를 기록한 바 있다. 최근에는 미래 환경을 예측하는 월드모델 기술을 결합해 작업 성공률을 67.42%까지 끌어올리는 등 피지컬 AI 모델 개발 역량을 입증한 바 있다.“분뇨를 퍼 담고, 높은 트레일러에 ‘탈탈’ 쏟아붓기까지… 숙련자도 감탄한 장비의 정교한 움직임”이번 시연에서는 분뇨 운반은 물론, 숙련 작업자의 경험과 노하우가 요구되는 정교하고 복잡한 작업까지 자율적으로 수행했다고 회사는 밝혔다.첫",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "[지디넷코리아]피지컬AI 풀스택 기업 마음AI는 글로벌 건설장비 기업 두산밥캣과 지난 6월 업무협약(MOU)을 체결한 지 약 5개월 만에, 실제 산업현장에서 두산",
+    "thumbnail": "https://image.zdnet.co.kr/2026/11/16/0f9528ee5dd561f33b35e6725f0567b8.jpg",
+    "score": 3.745,
+    "engagement": 0,
+    "matched_keywords": [
+      "피지컬 ai",
+      "피지컬ai",
+      "로봇 파운데이션 모델"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "비트와이즈 “솔라나, 2031년 최대 1100달러”…현재 가격 대비 15배",
+    "url": "https://www.blockmedia.co.kr/archives/1166674?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-11-16T21:23:27+00:00",
+    "raw_excerpt": "[블록미디어 명정선 기자] 글로벌 디지털자산 운용사 비트와이즈(Bitwise)가 솔라나(SOL) 가격이 2031년 최대 1100달러에 도달할 수 있다는 전망을 내놨다. 현재 가격인 71달러와 비교하면 약 15배 수준이다. 주식의 토큰화와 블록체인 기반 금융거래 확대가 가격 상승을 이끌 것이라는 분석이다. 16일(현지시각) 더블록에 따르면 비트와이즈는 이날 발표한 보고서에서 2031년 솔라나 가격을 강세 시나리오 1100달러, 기본 시나리오 385달러, 약세 시나리오 80달러로 제시했다. [...]",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[블록미디어 명정선 기자] 글로벌 디지털자산 운용사 비트와이즈(Bitwise)가 솔라나(SOL) 가격이 2031년 최대 1100달러에 도달할 수 있다는 전망을 내",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/10/20261021-105559.png",
+    "score": 3.558,
+    "engagement": 0,
+    "matched_keywords": [
+      "블록체인",
+      "토큰화"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "LG전자, 한국로봇산업진흥원과 휴머노이드 로봇 품질 강화 협력",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=50605",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-16T17:04:11+00:00",
+    "raw_excerpt": "[스마트타임스] LG전자는 최근 서울 영등포구 LG트윈타워에서 한국로봇산업진흥원과 ‘휴머노이드 로봇 품질 경쟁력 향상을 위한 상호협력 업무협약(MOU)’을 체결했다고 16일 밝혔다.양사는 휴머노이드 로봇의 안전성과 사용성 평가체계 구축에 협력한다. LG전자는 진흥원의 휴머노이드 로봇 안전인증센터 평가 시스템 구축과 국제·국가표준 개발에 참여하고 LG 클로이드(CLOiD) 등의 국내 안전 시범인증을 추진한다.전문기관과 협력해 안전 기술력을 검증하고 안전·품질 신뢰성을 확보해 상용화와 시장 확대에 대비한다는 취지다.LG전자는 내년 1분",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "[스마트타임스] LG전자는 최근 서울 영등포구 LG트윈타워에서 한국로봇산업진흥원과 ‘휴머노이드 로봇 품질 경쟁력 향상을 위한 상호협력 업무협약(MOU)’을 체결했",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202611/50605_49825_5444_v150.jpg",
+    "score": 3.396,
+    "engagement": 0,
+    "matched_keywords": [
+      "휴머노이드",
+      "휴머노이드 로봇"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Tell HN: 사기 목적으로 HN에서 이메일 주소가 수집되고 있음",
+    "url": "https://news.hada.io/topic?id=37295&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-11-16T16:37:06+00:00",
+    "raw_excerpt": "Who's for Hire 월간 게시물 등에 공개한 개인 이메일은 악의적인 방문자나 봇/에이전트도 수집할 수 있음 사이트마다 고유한 이메일 주소를 사용한 덕분에 HN 전용 주소 로 온 AWS 요금 연체 이메일 이 가짜임을 즉시 알아챈 경험이 있음 마찬가지로 페이지를 비공개로 설정할 수 있다는 소셜 미디어 사이트에 사용한 주소에서도 스팸을 받은 경험이 있음 예상치 못했거나 의심스러운 이메일은 열기 전에 발신자 이름에 마우스를 올려 발신 도메인 을 확인하고, 이상하면 열지 않도록 권함 이미 열었다면 링크를 클릭하기 전에 마우스를 올려 연결 대상 도메인 을 확인하도록 권함 …",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Who's for Hire 월간 게시물 등에 공개한 개인 이메일은 악의적인 방문자나 봇/에이전트도 수집할 수 있음 사이트마다 고유한 이메일 주소를 사용한 덕분에",
+    "thumbnail": "https://social.news.hada.io/topic/37295/p8414f447a9fd8b430ada67342ec3a85",
+    "score": 3.254,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "美 민주당, SEC 토큰화 주식 규제 완화에 제동… “자금세탁 통로 될 수도”",
+    "url": "https://www.blockmedia.co.kr/archives/1166685?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-11-16T22:28:18+00:00",
+    "raw_excerpt": "[블록미디어 이정화 기자] 미국 증권거래위원회(SEC)가 토큰화 주식 거래를 활성화하기 위해 도입한 혁신 제도에 민주당 상원의원들이 제동을 걸고 나섰다. 기존 증권거래소 등록 의무를 일부 면제하는 과정에서 자금세탁방지(AML)와 고객확인(KYC) 규정에 공백이 발생할 수 있다는 이유에서다. 월가 주요 금융단체들도 투자자 보호 장치가 충분하지 않다며 제도 보완을 요구하고 있다. 16일(현지시각) 더블록에 따르면 앤젤라 올스브룩스, 루벤 갈레고, 마크 워너, 캐서린 [...]",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[블록미디어 이정화 기자] 미국 증권거래위원회(SEC)가 토큰화 주식 거래를 활성화하기 위해 도입한 혁신 제도에 민주당 상원의원들이 제동을 걸고 나섰다. 기존 증",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/08/20260803-170652-scaled.jpg",
+    "score": 3.148,
+    "engagement": 0,
+    "matched_keywords": [
+      "토큰화"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "[아침 시황] 비트코인 8,922만원…빗썸 후마파이낸스 52% 급등",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/439421",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-11-16T22:30:36+00:00",
+    "raw_excerpt": "11월 17일 오전 7시 30분 오늘 아침 국내 암호화폐 시장은 약세로 기울었다. 24시간 거래대금(업비트·빗썸)은 1.6조원을 기록했으며 거래대금 50억원 이상 종목 33개 중 14개만 올라 상승 종목 비율이 42%에 그쳤다. 대장주는 소폭 밀렸다. 비트코인은 8,922만원으로 24시간 전보다 0.8% 내렸으며, 이더리움은 250만원으로 0.8% 내렸다. 가장 많이 오른 종목은 빗썸에 상장된 후마파이낸스로, 13.44원까지 51.7% 뛰며 거래대금 75억원을 끌어모았다. 스페이스코인은 42.3%, 캐시캣은 24.0% 올랐다. 하락 쪽에서는 폴리스웜이 17.5% 내렸고 카바는 9.6% 하락했다. 절대 거래대금 기준으로는 팔라네트워크가 2,097억원으로 가장 많이... 더보기",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "11월 17일 오전 7시 30분 오늘 아침 국내 암호화폐 시장은 약세로 기울었다. 24시간 거래대금(업비트·빗썸)은 1.6조원을 기록했으며 거래대금 50억원 이상",
+    "thumbnail": "https://f1.tokenpost.kr/2026/11/c678fkhur6.png",
+    "score": 2.8,
+    "engagement": 0,
+    "matched_keywords": [
+      "암호화폐"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "morning"
+  }
+]
