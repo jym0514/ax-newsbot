@@ -1,0 +1,662 @@
+[
+  {
+    "title": "미국, 엔비디아·오픈AI 등 AI 기업 20여곳 '국가 대표기업' 지정 추진",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217465",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-16T18:06:58+00:00",
+    "raw_excerpt": "미국 정부가 엔비디아와 오픈AI, 앤트로픽 등 주요 AI 기업 20여곳을 '국가 대표기업(National Champions)'으로 선정하고 해외 사업 수주를 지원할 계획이다. 반도체와 AI 모델, 클라우드 등을 하나로 묶어 수출하고 정부가 금융과 외교, 수출 허가 절차까지 지원하는 것으로, 중국과의 글로벌 AI 시장 경쟁에서 미국 기술의 영향력을 높이려는 전략이다.월스트리트저널(WSJ)은 15일(현지시간) 트럼프 행정부가 엔비디아를 비롯해 아마존, 마이크로소프트, 오픈AI, 앤트로픽 등 20여개 기업을 AI 국가 대표기업으로 선정할",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "미국 정부가 엔비디아와 오픈AI, 앤트로픽 등 주요 AI 기업 20여곳을 '국가 대표기업(National Champions)'으로 선정하고 해외 사업 수주를 지원",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217465_221734_27.jpg",
+    "score": 10.476,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai",
+      "엔비디아",
+      "ai 시장"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "엔비디아 '그루트 2', 로봇 동작 넘어 미래까지 예측…시연 5회로 성공률 95%",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217447",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-16T17:18:33+00:00",
+    "raw_excerpt": "엔비디아가 사람의 작업 영상을 보고 새로운 동작을 학습하는 데 이어, 자신의 행동으로 주변 환경이 어떻게 변할지까지 예측하는 차세대 로봇 AI 모델 '그루트 2(GR00T 2)'를 공개했다. 새로운 작업 50개를 대상으로 한 실험에서 추가 시연 없이 평균 40%의 성공률을 기록했으며, 작업당 5회의 시연과 30분간의 추가 학습으로 성공률을 95%까지 높였다.엔비디아는 지난 9일(현지시간) 미국 오스틴에서 열린 로봇 학습 학회(CoRL)에서 그루트 2를 발표했다. 핵심은 로봇의 동작뿐 아니라 동작 이후 주변 환경이 어떻게 변할지까지",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "엔비디아가 사람의 작업 영상을 보고 새로운 동작을 학습하는 데 이어, 자신의 행동으로 주변 환경이 어떻게 변할지까지 예측하는 차세대 로봇 AI 모델 '그루트 2(",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217447_221689_3616.jpg",
+    "score": 8.461,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "엔비디아"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "젠슨 황이 키운 동남아 AI 컴퓨팅 사업…미국 규제 강화에 위기",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217446",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-16T16:59:26+00:00",
+    "raw_excerpt": "젠슨 황 전 엔비디아 CEO가 미국의 첨단 반도체 수출 제한 속에서도 중국 고객을 유지하기 위해 동남아시아 데이터센터와 현지 클라우드 협력사 네트워크를 확대해 온 것으로 드러났다. 중국 기업들이 해외 데이터센터의 GPU를 원격으로 이용하는 사업이 급성장했지만, 최근 반도체 밀수 의혹과 미국의 규제 강화 움직임으로 사업 기반이 흔들리고 있다.월스트리트저널(WSJ)은 14일(현지시간) 황 전 CEO가 중국 고객들의 막대한 AI 컴퓨팅 수요를 확보하기 위해 동남아시아 클라우드 사업자들과 긴밀한 협력 관계를 구축했다고 보도했다. 미국 정부",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "젠슨 황 전 엔비디아 CEO가 미국의 첨단 반도체 수출 제한 속에서도 중국 고객을 유지하기 위해 동남아시아 데이터센터와 현지 클라우드 협력사 네트워크를 확대해 온",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217446_221688_2021.jpg",
+    "score": 8.435,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "엔비디아"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "\"챗GPT에 SNS 데이터 연동\"...뉴엔AI, 소셜 분석 MCP 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217458",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-16T15:56:26+00:00",
+    "raw_excerpt": "뉴엔AI(대표 배성환)는 자사의 소셜미디어 데이터 검색·분석 기능과 연동되는 '퀘타아이 MCP'를 출시했다고 16일 밝혔다.퀘타아이 MCP는 별도 API 개발 없이 챗GPT·클로드 등 생성형 AI에 뉴엔AI의 소셜미디어 분석 기능을 연동하고 자연어로 질문하면 AI가 적합한 분석 도구를 선택, 데이터를 조회·분석할 수 있다.SNS와 온라인 커뮤니티 등 실제 소비자 데이터 기반 분석 결과를 제공해 신뢰도 높은 답변을 도출할 수 있다는 설명이다.기업 고객을 위한 보안·편의 기능도 제공한다. 전 구간 암호화 통신과 ‘OAuth 2.1’ 기",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "뉴엔AI(대표 배성환)는 자사의 소셜미디어 데이터 검색·분석 기능과 연동되는 '퀘타아이 MCP'를 출시했다고 16일 밝혔다.퀘타아이 MCP는 별도 API 개발 없",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217458_221706_356.png",
+    "score": 8.35,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "생성형 ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "ST, STM32 개발에 AI 에이전트 도입...토큰 및 코딩 효율 개선",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21963",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-11-16T14:32:43+00:00",
+    "raw_excerpt": "ST마이크로일렉트로닉스(ST)가 임베디드 소프트웨어 개발자를 위한 신규 툴을 출시했다고 16일 밝혔다. 이 툴은 STM32 마이크로컨트롤러(MCU) 기반 프로젝트에서 AI 에이전트를 활용한 개발 워크플로우를 지원하도록 설계 단계부터 새롭게 만들어졌다. 패트릭 에이둔(Patrick Aidoune) ST 그룹 부사장 겸 범용 및 자동차용 마이크로컨트롤러 부문 사업본부장은 “에이전틱 AI는 임베디드 소프트웨어 개발 방식을 혁신하고, 상업적 기대치를 재정의하는 한편, 개발자의 역할을 조율자, 기획자 및 감독자로 변화시키고 있다”며, “에이",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "ST마이크로일렉트로닉스(ST)가 임베디드 소프트웨어 개발자를 위한 신규 툴을 출시했다고 16일 밝혔다. 이 툴은 STM32 마이크로컨트롤러(MCU) 기반 프로젝트",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202611/21963_22759_2631.jpg",
+    "score": 7.794,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "에이전틱",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[게시판] 멋쟁이사자처럼 베트남에 '피지컬 AI 데이터랩' 개소 등 단신",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217456",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-16T17:00:00+00:00",
+    "raw_excerpt": "■ 멋쟁이사자처럼(대표 나성영)은 베트남 호치민에 피지컬 AI 현장 데이터 거점 '피지컬 AI 데이터랩'을 개소했다고 밝혔다. 약 131㎡ 규모에 주방·세탁·조립 등 7개 작업 셀을 갖췄다. 작업자가 비전 장치·촉각 장갑 등 웨어러블 장비를 착용하고, 학습 데이터를 수집하는 방식이다. 해당 데이터랩은 국내 대학 연구실과 피지컬 AI 기업에도 개방될 예정이다.■ 그렙(대표 임성수)은 AI 시험 감독 솔루션 '모니토'의 AI 에이전트에 비전언어모델(VLM)을 적용해 부정행위 탐지 기능을 강화했다고 밝혔다. VLM이 짧은 영상 구간마다",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "■ 멋쟁이사자처럼(대표 나성영)은 베트남 호치민에 피지컬 AI 현장 데이터 거점 '피지컬 AI 데이터랩'을 개소했다고 밝혔다. 약 131㎡ 규모에 주방·세탁·조립",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217456_221727_375.jpg",
+    "score": 7.461,
+    "engagement": 0,
+    "matched_keywords": [
+      "피지컬 ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "휴머노이드 로봇 ‘LG 클로이드’ 국내 시범인증 추진…안전성·사용성 평가체계 및 국제표준 개발 참여",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42742",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-11-16T10:52:56+00:00",
+    "raw_excerpt": "LG전자가 휴머노이드 로봇의 상용화에 대비해 안전성 검증과 품질 평가체계 구축에 나선다. 사람과 같은 공간에서 작업하는 휴머노이드 로봇의 특성을 고려해 개발 초기부터 안전과 신뢰성을 확보하고, 글로벌 시장 진출에 필요한 품질 경쟁력을 강화한다는 전략이다.LG전자는 한국로봇산업진흥원(KIRIA)과 휴머노이드 로봇의 안전·품질 경쟁력 강화를 위한 업무협약(MOU)을 체결했다고 16일 밝혔다. 서울 영등포구 LG트윈타워에서 열린 지난 13일 협약식에는 LG전자 품질경영센터장 김창민 전무와 한국로봇산업진흥원 조영훈 원장 등이 참석했다.양측",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "LG전자가 휴머노이드 로봇의 상용화에 대비해 안전성 검증과 품질 평가체계 구축에 나선다. 사람과 같은 공간에서 작업하는 휴머노이드 로봇의 특성을 고려해 개발 초기",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202611/42742_64220_5112_v150.jpg",
+    "score": 7.328,
+    "engagement": 0,
+    "matched_keywords": [
+      "휴머노이드",
+      "휴머노이드 로봇"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "LGU+, 클라우드 기반 보안 플랫폼 'U+SASE' 출시",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217439",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-16T12:37:06+00:00",
+    "raw_excerpt": "LG유플러스(대표 홍범식)는 기업 네트워크와 보안을 통합한 클라우드 기반 보안 플랫폼 'U+SASE'를 출시했다고 16일 밝혔다.U+SASE는 본사·지사·데이터센터·클라우드·재택근무 등 다양한 업무 공간의 네트워크 연결과 보안 기능을 하나의 플랫폼에서 관리하는 서비스다.최근 서비스형 소프트웨어(SaaS) 확산과 원격근무·생성형 AI 활용 증가에 따른 기업 내부 데이터 노출 위험과 기존 사내 네트워크 중심 보안 체계의 한계를 극복한다는 설명이다.주요 기능은 ▲유해 웹사이트 접속을 막는 보안 웹 게이트웨이(SWG) ▲클라우드 기반 방화",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "LG유플러스(대표 홍범식)는 기업 네트워크와 보안을 통합한 클라우드 기반 보안 플랫폼 'U+SASE'를 출시했다고 16일 밝혔다.U+SASE는 본사·지사·데이터센",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217439_221682_3435.jpeg",
+    "score": 7.105,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "세일즈포스, ‘태블로 스튜디오’ 출시...AI 에이전트가 대시보드 구성",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21966",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-11-16T15:03:46+00:00",
+    "raw_excerpt": "세일즈포스가 AI 에이전트를 활용해 데이터 분석부터 시각화, 맞춤형 애플리케이션 개발까지 지원하는 새로운 분석 환경을 국내에 선보인다. 자연어 명령만으로 대시보드와 계산식을 만들고, 분석 결과를 실제 업무에 활용할 수 있는 웹 애플리케이션으로 구현하는 것이 핵심이다. 기업이 기존에 구축한 데이터 관리와 보안 체계를 유지하면서 AI 기반 분석 업무를 확대할 수 있도록 지원한다. 세일즈포스는 지능형 분석 플랫폼 태블로의 신규 AI 분석 환경인 ‘태블로 스튜디오’를 국내에 정식 출시한다고 16일 밝혔다. 클라우드 버전은 17일, 서버 버",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "세일즈포스가 AI 에이전트를 활용해 데이터 분석부터 시각화, 맞춤형 애플리케이션 개발까지 지원하는 새로운 분석 환경을 국내에 선보인다. 자연어 명령만으로 대시보드",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202611/21966_22763_5815.jpg",
+    "score": 7.005,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "유아이패스, AI 에이전트 플랫폼 고도화...데이터 연결·보안·배포 통합",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21964",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-11-16T14:45:07+00:00",
+    "raw_excerpt": "유아이패스가 AI 에이전트의 개발부터 데이터 연결, 실행, 보안 관리까지 지원하는 플랫폼 기능을 강화했다. 외부 AI 코딩 에이전트와의 연동을 확대하는 동시에 기업 데이터 접근과 실행 권한을 통합 관리하는 기능을 추가했다. AI 에이전트가 실제 업무를 수행하는 환경에서 생산성과 통제력을 함께 확보하려는 전략이다. 유아이패스는 ‘유아이패스 플랫폼’ 전반에 걸친 신규 기능과 개선 사항을 발표했다. 이번 업데이트는 에이전트 개발·테스트, 데이터 및 시스템 통합, 거버넌스, 온프레미스 배포 등 네 영역에 초점을 맞췄다. 핵심 변화 중 하나",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "유아이패스가 AI 에이전트의 개발부터 데이터 연결, 실행, 보안 관리까지 지원하는 플랫폼 기능을 강화했다. 외부 AI 코딩 에이전트와의 연동을 확대하는 동시에 기",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202611/21964_22760_3917.jpg",
+    "score": 6.983,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "온세미, 피지컬 AI 센서 전략 제시...현장서 판단하는 지능형 센서 강조",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21962",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-11-16T14:24:39+00:00",
+    "raw_excerpt": "피지컬 AI와 스마트 제조가 확산되면서 산업용 센서의 역할이 단순한 데이터 수집에서 현장 데이터 처리와 실시간 제어를 지원하는 방향으로 넓어지고 있다. 로봇과 무인운반차(AGV), CNC 장비 등이 주변 환경을 인식하고 움직이려면 위치와 거리, 온도, 진동 등 물리적 정보를 정확하게 확보해야 하기 때문이다.온세미는 이러한 변화에 대응하는 센서 컨트롤러와 혼합신호 반도체 기술을 산업용 센서의 주요 발전 방향으로 제시했다고 16일 밝혔다. 기존 산업용 센서는 물리적 변수를 측정한 뒤 프로그래머블 로직 컨트롤러(PLC)나 CNC 장비에",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "피지컬 AI와 스마트 제조가 확산되면서 산업용 센서의 역할이 단순한 데이터 수집에서 현장 데이터 처리와 실시간 제어를 지원하는 방향으로 넓어지고 있다. 로봇과 무",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202611/21962_22758_215.jpg",
+    "score": 6.135,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "SK AX, 3분기 별도 영업익 28.9% 증가…AX 사업 확대 효과",
+    "url": "https://zdnet.co.kr/view/?no=20261116163207",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-11-16T07:35:03+00:00",
+    "raw_excerpt": "[지디넷코리아]SK AX가 대내외 인공지능(AI) 전환(AX) 사업 확대와 대형 IT서비스 사업에 힘입어 3분기 매출과 영업이익을 모두 늘렸다. 산업 전반의 AI·디지털 전환 수요에 대응하고 고부가가치 프로젝트를 확대해 성장과 수익성 개선을 이어간다는 방침이다.16일 SK가 공시한 반기보고서에 따르면 SK AX는 올해 3분기 별도 기준 매출 8052억원, 영업이익 804억원을 기록했다. 전년 동기 대비 매출은 21.0%, 영업이익은 28.9% 증가한 성과다.별도 기준 영업이익률은 약 10.0%로 전년 동기 약 9.4%보다 0.6%포인트 높아졌다. 올해 들어 3개 분기 연속 전년 동기 대비 영업이익 증가세를 이어갔다.이번 성과는 대내외 AX 사업 확대와 금융·물류·유통 등 대형 IT서비스 사업이 실적 성장을 이끌었다. 고부가 프로젝트 중심으로 사업 구성이 바뀌었고 생산성도 높아지면서 마진 개선 효과가 이어지고 있다. 프로젝트 수행(Delivery) 구조를 개선한 것도 수익성 강화에 힘을 보탰다.특히 AI 사업이 빠르게 성장 중이다. 3분기 누적 AI 프로젝트 매출은 전년 동기 대비 132% 늘었다. 연간 AI 프로젝트 매출 목표도 조기에 달성했다. SK 주식회사는 분기보고서를 통해 산업 전반 AI·디지털 전환 수요 확대로 SK AX가 성장 동력을 확보했다고 평가했다.SK AX는 기업 운영 전반을 AI로 다시 설계하는 '에이전틱 엔터프라",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "[지디넷코리아]SK AX가 대내외 인공지능(AI) 전환(AX) 사업 확대와 대형 IT서비스 사업에 힘입어 3분기 매출과 영업이익을 모두 늘렸다. 산업 전반의 AI",
+    "thumbnail": "https://image.zdnet.co.kr/2025/09/04/05edf71694faf1b7d1f0968403eb7351.jpg",
+    "score": 5.986,
+    "engagement": 0,
+    "matched_keywords": [
+      "디지털 전환",
+      "생산성",
+      "ax"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "거의 무엇이든 만드는 방법",
+    "url": "https://news.hada.io/topic?id=37279&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-11-16T08:32:50+00:00",
+    "raw_excerpt": "HTMAA 2026 은 컴퓨터 지원 설계부터 전자회로, 기계 제작, 프로그래밍, 시스템 통합까지 다루는 강의로, 9월 9일부터 12월 15일까지 진행됨 디지털 제작 과정에서 컴퓨터 제어 절단과 가공, 3D 스캐닝과 프린팅, 기구 및 기계 설계를 다룸 전자회로와 소프트웨어 영역에서는 임베디드 프로그래밍, 회로 설계와 제작, 입출력 장치, 네트워킹, 인터페이스 및 애플리케이션 프로그래밍을 학습함 별도 보충 수업 에는 버전 관리, 파라메트릭 설계, 디버깅, AI 에이전트, 엣지 AI, 모터 및 동작 제어 등이 포함됨 학기 중 두 차례 검토 를 거쳐 …",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "HTMAA 2026 은 컴퓨터 지원 설계부터 전자회로, 기계 제작, 프로그래밍, 시스템 통합까지 다루는 강의로, 9월 9일부터 12월 15일까지 진행됨 디지털 제",
+    "thumbnail": "https://social.news.hada.io/topic/37279/pc37bd2f83a2612f14de102bf981e4a6",
+    "score": 5.961,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "BD 지분 더 산 현대글로비스, '로봇사업' 손실에 장부가 감소",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=678782",
+    "source": "블로터",
+    "source_type": "rss",
+    "published_at": "2026-11-16T17:41:49+00:00",
+    "raw_excerpt": "현대글로비스가 3분기 중 미국 보스턴다이내믹스(BD) 지분을 465억원 추가 취득하며 지분율을 12.47%까지 끌어올렸다. 같은 기간 보스턴다이내믹스는 약 2378억원의 순손실을 기록했다. 현대글로비스는 지분 추가 취득에도 관계기업 손실을 반영하면서 보유 지분의 장부금액이 직전 분기보다 감소했다.현대자동차그룹이 휴머노이드 로봇 아틀라스 양산을 추진하는 가운데 BD에 대한 추가 투자와 수익성 확보가 동시에 과제로 떠올랐다. 현대글로비스는 자동차운반선 사업을 중심으로 실적을 확대하고 있지만 로봇사업에 대한 지분 투자에서는 손실을 지속",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "현대글로비스가 3분기 중 미국 보스턴다이내믹스(BD) 지분을 465억원 추가 취득하며 지분율을 12.47%까지 끌어올렸다. 같은 기간 보스턴다이내믹스는 약 237",
+    "thumbnail": "https://cdn.bloter.net/news/thumbnail/202611/678782_293642_2753_v150.jpg",
+    "score": 5.879,
+    "engagement": 0,
+    "matched_keywords": [
+      "휴머노이드",
+      "휴머노이드 로봇"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "행정업무용 이메일 해킹…행안부, 관계기관 합동점검 착수",
+    "url": "https://www.etnews.com/20261116000201",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-11-16T04:31:00+00:00",
+    "raw_excerpt": "행정기관 업무용 이메일시스템 등이 외부 해킹을 받아 300여개 계정에서 비정상 접속이 확인됐다. 행정안전부는 피해 확산을 막기 위한 긴급 보안조치와 관계기관 합동점검에 나섰다. 행정안전부는 지난 9일 유관기관으로부터 행정기관의 업무용 이메일 등에 대한 외부 해킹 사실을 통보받고, 정확한 사고 원인과 피해 현황을 파악하기 위해 관계기관 합동점검에 착수했다고 16일 밝혔다. 현재까지 확인된 바에 따르면, 공격자는 일부 지방정부의 취약한 네트워크를",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "행정기관 업무용 이메일시스템 등이 외부 해킹을 받아 300여개 계정에서 비정상 접속이 확인됐다. 행정안전부는 피해 확산을 막기 위한 긴급 보안조치와 관계기관 합동",
+    "thumbnail": "https://img.etnews.com/news/article/2026/11/16/news-p.v1.20261116.da3281aca75b409486c84ae9f7b50bcf_P1.png",
+    "score": 5.709,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "해킹"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "우리 지역구 의원은 '친크립토'일까?…토큰포스트, 정치인·규제 한눈에 보는 '크립토 폴리틱스' 공개",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/438913",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-11-16T07:52:24+00:00",
+    "raw_excerpt": "디지털자산기본법은 지금 어느 단계에 와 있을까. 우리 지역구 의원은 가상자산 법안을 발의했을까. 뉴스를 꾸준히 챙겨 봐도 답하기 어려운 질문이다. 이런 질문에 국회 공개 기록으로 답하는 서비스가 나왔다. 토큰포스트는 한국 국회와 미국 의회의 가상자산 입법 현황을 한 화면에 모은 크립토 폴리틱스를 공개했다고 16일 밝혔다. 법안이 어느 단계에 있는지, 어떤 의원이 입법에 참여하고 있는지, 정부와 업계가 어떤 입장을 밝혔는지를 보여준다. 로그인 없이 무료로 볼 수 있다. 법안은 어디까지 왔나 첫 화면에 답이 있다. 22대 국회에 발의된 법안 가운데 이름에 가상자산이나 디지털자산이 들어간 법안은 31건인데, 국회를 통과한... 더보기",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "디지털자산기본법은 지금 어느 단계에 와 있을까. 우리 지역구 의원은 가상자산 법안을 발의했을까. 뉴스를 꾸준히 챙겨 봐도 답하기 어려운 질문이다. 이런 질문에 국",
+    "thumbnail": "https://f1.tokenpost.kr/2026/11/o5l84etj5t.png",
+    "score": 5.335,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제",
+      "법안",
+      "입법"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "SK스퀘어, 3분기 영업익 7.9조...주주환원 4.3조 이상 투입",
+    "url": "https://zdnet.co.kr/view/?no=20261116163017",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-11-16T07:30:17+00:00",
+    "raw_excerpt": "[지디넷코리아]SK스퀘어가 SK하이닉스의 호실적에 힘입어 3분기 7조원대 영업이익을 거뒀다. SK스퀘어는 2028년까지 SK하이닉스에서 받는 배당수입 가운데 최소 4조 3000억원을 주주에게 돌려주고, 투자 포트폴리오는 AI와 반도체에 집중하기로 했다.SK스퀘어는 3분기 연결 기준 매출 3048억원, 영업이익 7조 9406억원, 순이익 12조 5344억원을 기록했다고 16일 밝혔다.SK스퀘어는 경상배당수입 가운데 주주환원에 쓰는 비율을 기존 30% 이상에서 60% 이상으로 높이고, SK하이닉스의 키옥시아 특별배당으로 받는 수입은 전액 주주에게 돌려준다. 이에 따라 2028년까지 SK하이닉스에서 들어올 배당수입 6조 2000억원 이상 가운데 최소 4조 3000억원이 주주환원에 쓰인다.SK스퀘어는 올해 상반기 원스토어와 인크로스를 매각하는 등 투자 자산도 재편하고 있다. 배당과 자산 매각으로 마련한 자금은 주주환원과 AI·반도체 분야 신규 투자에 쓸 계획이다.회사 안에서는 새로 만든 'AI 혁신' 조직을 중심으로 투자 업무에 AI를 도입하고 있다. 구성원마다 에이전트를 하나씩 개발해 실무에 쓰고 있으며, 거대언어모델 기반 데이터 허브 '키위'도 구축했다. 키위는 AI가 내부 데이터를 자동으로 쌓고 관리해 사내 지식을 검색·질의·요약할 수 있게 해 준다.김정규 SK스퀘어 사장은 \"기업가치를 제고하기 위해 꾸준히 주주환원을 이어가고 신규 투",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "[지디넷코리아]SK스퀘어가 SK하이닉스의 호실적에 힘입어 3분기 7조원대 영업이익을 거뒀다. SK스퀘어는 2028년까지 SK하이닉스에서 받는 배당수입 가운데 최소",
+    "thumbnail": "https://image.zdnet.co.kr/2024/11/21/10b354647cb49bc849180772b28c6cc7.jpg",
+    "score": 5.306,
+    "engagement": 0,
+    "matched_keywords": [
+      "사내",
+      "조직"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "정부 \"AI 기본법, 기업 혁신 뒷받침하도록 보완\"",
+    "url": "https://zdnet.co.kr/view/?no=20261116144303",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-11-16T07:12:12+00:00",
+    "raw_excerpt": "[지디넷코리아]과학기술정보통신부가 인공지능(AI) 기본법 세부 규정을 보완한다. 기업 혁신을 가로막지 않으면서 국민 기본권을 보호하도록 기술 변화에 맞춰 제도를 개선할 방침이다.엄열 과기정통부 인공지능정책실장은 16일 서울 글래드 여의도에서 열린 '2026년 하반기 AI법정책포럼 공개 세미나'에서 그동안 AI 기본법 제도 개선 연구반을 운영하며 수렴한 의견을 바탕으로 하위 법령을 정비하겠다고 밝혔다.AI 기본법은 AI 산업 육성과 안전한 활용을 지원하는 법으로 올해 1월 22일 시행됐다. 연구개발·인재 양성 지원과 함께 사업자가 지켜야 할 투명성·안전성 의무를 담았다. 정부는 기업이 준비할 시간을 주기 위해 시행 초기 최소 1년 이상 과태료 계도기간을 운영한다는 방침을 제시했다.엄 실장은 법 시행 이후 중요한 과제로 현장에서 작동하는 규칙을 꼽았다. 규제와 혁신 중 하나를 선택하기보다 기술 변화에 대응하면서 기업이 이행할 수 있는 기준을 마련해야 한다는 설명이다.엄 실장은 \"국민 기본권을 보호하고 기업 혁신을 저해하지 않는 합리적이면서도 기술 변화에 유연한 체계를 구축해 나가겠다\"고 말했다.과기정통부는 사용자 대신 업무를 수행하는 에이전트 AI와 로봇처럼 현실에서 움직이는 피지컬 AI, AI 글래스 관련 문제도 검토한다. 엄 실장은 법으로 정할 영역과 자율 대응에 맡길 영역을 함께 살피겠다고 밝혔다.해외에서도 법을 실제 서비스에 적용",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "[지디넷코리아]과학기술정보통신부가 인공지능(AI) 기본법 세부 규정을 보완한다. 기업 혁신을 가로막지 않으면서 국민 기본권을 보호하도록 기술 변화에 맞춰 제도를",
+    "thumbnail": "https://image.zdnet.co.kr/2026/11/16/612b090b33124dd54e31737e90742564.png",
+    "score": 5.289,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제",
+      "ai 기본법"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "두나무마저 적자 전환…코인 거래소들 '버티기' 한계",
+    "url": "https://www.etnews.com/20261116000508",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-11-16T08:22:37+00:00",
+    "raw_excerpt": "국내 양대 가상자산 거래소 업비트와 빗썸이 올해 3분기 나란히 영업적자를 기록했다. 가상자산 거래대금이 두 분기 연속 감소하면서 거래 수수료에 의존하는 거래소들의 수익성이 크게 악화했다. 업계에서는 개인투자자 중심의 시장 구조를 개선하기 위해 법인·기관투자자의 거래를 허용해야 한다는 요구가 커지고 있다. 16일 금융감독원 전자공시시스템에 따르면 업비트를 운영하는 두나무는 올해 3분기 연결 기준 매출 1517억원, 영업손실 35억원을 기록했다.",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "국내 양대 가상자산 거래소 업비트와 빗썸이 올해 3분기 나란히 영업적자를 기록했다. 가상자산 거래대금이 두 분기 연속 감소하면서 거래 수수료에 의존하는 거래소들의",
+    "thumbnail": "https://img.etnews.com/news/article/2026/11/16/news-p.v1.20261116.f2f69b3cf4d945f7819e3c8431fa21e3_P2.png",
+    "score": 5.2,
+    "engagement": 0,
+    "matched_keywords": [
+      "가상자산"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "토스, 가상자산 지갑 서비스 출시…이더리움·테더·USDC 송금 지원",
+    "url": "https://www.etnews.com/20261116000414",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-11-16T06:53:51+00:00",
+    "raw_excerpt": "토스가 모바일 금융 앱에서 가상자산을 주고받을 수 있는 지갑 서비스를 선보인다. 이더리움(ETH)과 달러 스테이블코인인 테더(USDT), 유에스디코인(USDC) 등 3종을 지원하며, 기존 금융 서비스처럼 연락처만으로 가상자산을 송금할 수 있도록 했다. 토스 운영사 비바리퍼블리카는 이번 주 중 가상자산 지갑 서비스 '토스 코인지갑'을 출시할 예정이라고 16일 밝혔다. 토스 코인지갑은 이용자가 토스 앱에서 직접 가상자산 지갑을 생성하고 자산을 송금",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "토스가 모바일 금융 앱에서 가상자산을 주고받을 수 있는 지갑 서비스를 선보인다. 이더리움(ETH)과 달러 스테이블코인인 테더(USDT), 유에스디코인(USDC)",
+    "thumbnail": "https://img.etnews.com/news/article/2026/11/03/news-p.v1.20261103.df58b9660d7d42cb9424119e353db7c5_P1.jpg",
+    "score": 5.108,
+    "engagement": 0,
+    "matched_keywords": [
+      "가상자산"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[인터뷰] 박승배 워트 대표 \"반도체 장비 수요 3년은 더 간다\"",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=678731",
+    "source": "블로터",
+    "source_type": "rss",
+    "published_at": "2026-11-16T15:48:02+00:00",
+    "raw_excerpt": "\"반도체 공장은 건물을 완공한 뒤에도 장비를 채우는 데 수년이 걸립니다. 고객사들이 현재 진행 중인 투자만 보더라도 앞으로 3년 이상은 장비 수요가 이어질 것으로 봅니다.\"박승배 워트 대표는 13일 경기 화성시 본사에서 와 만나 향후 반도체 장비 시장을 이같이 전망했다. 삼성전자와 SK하이닉스가 대규모 생산시설 투자를 이어가는 가운데 워트도 수주 확대에 따른 중장기 성장을 기대하고 있다. 회사는 기존 고객사 내 공급 영역을 넓히는 동시에 대만 등 해외 신규 시장 진출도 추진하고 있다.워트는 2004년 박 대표가 근무하던 회",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "\"반도체 공장은 건물을 완공한 뒤에도 장비를 채우는 데 수년이 걸립니다. 고객사들이 현재 진행 중인 투자만 보더라도 앞으로 3년 이상은 장비 수요가 이어질 것으로",
+    "thumbnail": "https://cdn.bloter.net/news/thumbnail/202611/678731_293586_625_v150.jpg",
+    "score": 5.098,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "DB하이텍, 삼성 8인치 빈자리 노린다…'2.1조 베팅' 승산은",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=678676",
+    "source": "블로터",
+    "source_type": "rss",
+    "published_at": "2026-11-16T15:24:22+00:00",
+    "raw_excerpt": "반도체 공룡들이 발을 빼는 8인치 시장에 DB하이텍이 2조원이 넘는 대규모 투자에 나섰다. 경쟁사들의 감산을 고객 확보 기회로 삼아 고부가 전력반도체 사업을 키우겠다는 판단이다. 다만 고객을 늘리는 데 성공하더라도 공정 차이라는 문턱을 넘어야 투자 성과를 거둘 수 있다는 목소리도 나온다. 경쟁사 철수 때 2.1조 투입…DB하이텍의 역발상 16일 반도체업계에 따르면 DB하이텍은 2030년까지 8인치 파운드리 사업에 2조1000억원을 투입한다. 생산시설을 확충하고 특화 공정의 기술력을 높여 고부가 전력반도체 시장을 공략할 계획이다.삼성",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "반도체 공룡들이 발을 빼는 8인치 시장에 DB하이텍이 2조원이 넘는 대규모 투자에 나섰다. 경쟁사들의 감산을 고객 확보 기회로 삼아 고부가 전력반도체 사업을 키우",
+    "thumbnail": "https://cdn.bloter.net/news/thumbnail/202611/678676_293541_2436_v150.jpg",
+    "score": 5.076,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[양자 시대 PC] HP, 전용 보안 칩으로 펌웨어 변조 막는다",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=678691",
+    "source": "블로터",
+    "source_type": "rss",
+    "published_at": "2026-11-16T15:02:54+00:00",
+    "raw_excerpt": "양자컴퓨터가 기존 암호를 무력화할 시대를 앞두고 각국이 양자내성암호(PQC) 전환에 나선 가운데 개인용 컴퓨터(PC) 업계의 준비 현황과 과제를 살펴봅니다.HP가 미래의 양자컴퓨터로 기존 전자서명이 위조될 가능성에 대비해 기업용 PC의 보안 장치를 강화하고 있다. PC 내부의 전용 보안 칩을 통해 기본 프로그램인 펌웨어가 변조됐는지 확인하는 방식이다. 기존 암호 기술과 양자컴퓨터 공격에 대비한 기술을 함께 사용해 PC를 켤 때부터 변조된 펌웨어의 실행을 막는 데 초점을 맞췄다.16일 HP가 제공한 글로벌 기술자료에 따르면 회사는 미",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "양자컴퓨터가 기존 암호를 무력화할 시대를 앞두고 각국이 양자내성암호(PQC) 전환에 나선 가운데 개인용 컴퓨터(PC) 업계의 준비 현황과 과제를 살펴봅니다.HP가",
+    "thumbnail": "https://cdn.bloter.net/news/thumbnail/202611/678691_293532_184_v150.jpg",
+    "score": 5.055,
+    "engagement": 0,
+    "matched_keywords": [
+      "양자"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "★ 품는 IT기업, 국방 AX 앞두고 軍 네트워크 확보 경쟁",
+    "url": "https://www.etnews.com/20261116000320",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-11-16T06:00:00+00:00",
+    "raw_excerpt": "군 장성부터 영관급 장교까지 군 출신 인사의 정보기술(IT) 기업 합류가 잇따르고 있다. 내년 한국군 지휘통제체계(KCCS) 1단계 사업과 국방 인공지능 데이터센터(AIDC) 구축 준비 등 국방 AI 전환(AX) 수요 확대에 맞춰 대형 사업 수주에 필요한 기술력과 군 전문인력·네트워크를 함께 확보하려는 움직임이다. 삼성SDS는 해군 대령 출신 인사를 국방전문 자문위원으로, 아이티센그룹은 육군 준장 출신 인사를 특임고문으로 각각 영입 추진 중이다",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "군 장성부터 영관급 장교까지 군 출신 인사의 정보기술(IT) 기업 합류가 잇따르고 있다. 내년 한국군 지휘통제체계(KCCS) 1단계 사업과 국방 인공지능 데이터센",
+    "thumbnail": "https://img.etnews.com/news/article/2026/11/13/news-p.v1.20261113.fdebac11e2a3481dabeefbe3378ac81d_P1.png",
+    "score": 5.052,
+    "engagement": 0,
+    "matched_keywords": [
+      "ax"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "수출 28%·내수 72%…주성엔지니어링, 中 리스크 털고 국내 승부수",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=678677",
+    "source": "블로터",
+    "source_type": "rss",
+    "published_at": "2026-11-16T14:57:58+00:00",
+    "raw_excerpt": "반도체 전공정 장비 기업인 주성엔지니어링의 매출 지형도가 바뀌고 있다. 한때 전체 매출의 70~80%를 해외에 의존하던 수출 편중형 구조에서 탈피해 올해는 내수 비중을 70%대까지 끌어올리며 사업의 무게중심을 국내로 완벽히 옮겼다.미국의 중국 첨단 장비 수출 통제와 중국내 소부장(소재·부품·장비) 업체의 국산화 압박 등 중국 리스크를 털고 국내 메모리 기업의 첨단 설비투자(CAPEX) 수혜를 흡수한 결과다. 고부가가치 장비 납품도 본격화하면서 올해 3분기에는 흑자 전환에도 성공했다. 뒤집힌 매출 판도…'우시' 대신 '이천·청주' 채",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "반도체 전공정 장비 기업인 주성엔지니어링의 매출 지형도가 바뀌고 있다. 한때 전체 매출의 70~80%를 해외에 의존하던 수출 편중형 구조에서 탈피해 올해는 내수",
+    "thumbnail": "https://cdn.bloter.net/news/thumbnail/202611/678677_293514_3455_v150.jpg",
+    "score": 5.051,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "버튼에 cursor: pointer 적용하기",
+    "url": "https://news.hada.io/topic?id=37264&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-11-16T04:09:33+00:00",
+    "raw_excerpt": "CSSWG 가 appearance: base-… 를 사용하는 버튼과 여러 폼 요소에 cursor: pointer 를 적용하는 커서 규칙을 채택하기로 합의함 이번 결정은 브라우저의 기존 기본 스타일을 바꾸는 것이 아님 . 새 규칙은 기본 외형을 지정하는 appearance: base-… 요소에 적용됨 해당 사용자 에이전트 스타일에는 !important 가 없으므로 , 개발자가 스타일시트에서 default 나 다른 커서로 덮어쓸 수 있음 합의된 구분은 포인터는 클릭 , 텍스트 커서는 텍스트 입력 준비, 움켜쥔 손 모양은 드래그를 알리는 방식임 두 종류의 커서만으로 빈 공간, 버튼, 링 …",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "CSSWG 가 appearance: base-… 를 사용하는 버튼과 여러 폼 요소에 cursor: pointer 를 적용하는 커서 규칙을 채택하기로 합의함 이번",
+    "thumbnail": "https://social.news.hada.io/topic/37264/pa9bebadc4eaf179a58e37af850a5004",
+    "score": 4.937,
+    "engagement": 0,
+    "matched_keywords": [
+      "cursor"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "대경대 남양주캠퍼스, ‘K컬처 교수창업 활성화 전략’ 특강",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=50594",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-16T11:20:02+00:00",
+    "raw_excerpt": "[스마트타임스]대경대학교 남양주 한류캠퍼스가 학생 중심의 창업 지원을 교수진으로 확대하며 대학의 특화 전공 역량을 활용한 본격적인 'K컬처 교수창업' 생태계 조성에 나섰다.대경대 남양주캠퍼스는 지난 12일 창업 전문가인 원종하 인제대학교 경영학부 교수를 초청해 ‘교수창업 활성화 전략’을 주제로 특강을 개최했다고 16일 밝혔다. 이날 강연에는 박일호 부총장을 비롯해 한류캠퍼스 소속 교수 13명이 참석해 실질적인 창업 방안을 논의했다.이번 특강은 '경기 앵커사업'의 개방형 창업 클러스터 활성화 과제의 일환으로 마련됐다. 교수진이 보유한",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "[스마트타임스]대경대학교 남양주 한류캠퍼스가 학생 중심의 창업 지원을 교수진으로 확대하며 대학의 특화 전공 역량을 활용한 본격적인 'K컬처 교수창업' 생태계 조성",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202611/50594_49809_1826_v150.jpg",
+    "score": 4.846,
+    "engagement": 0,
+    "matched_keywords": [
+      "창업"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "하나증권-캐치테이블, 미식ㆍ금융 결합한 생활금융 서비스 강화",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=50589",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-16T09:41:09+00:00",
+    "raw_excerpt": "[스마트타임스]하나증권은 지난 13일 서울 여의도 본사에서 캐치테이블 운영사 와드와 전략적 업무협약(MOU)을 체결했다고 16일 밝혔다.이번 협약에 따라 양사는 각자의 온·오프라인 채널과 고객 접점을 활용한 공동 프로모션을 추진한다. 특히 하나증권 고객에게는 캐치테이블의 인기 매장 우선 예약 서비스와 전용 멤버십 등 차별화된 미식 혜택이 제공될 예정이다.기업금융(IB) 부문의 시너지도 모색한다. 하나증권은 와드의 기업 성장 단계에 맞춰 재무 자문과 후속 투자 유치를 돕고, 향후 자본시장 진출까지 전방위적으로 지원할 계획이다.양사의",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "[스마트타임스]하나증권은 지난 13일 서울 여의도 본사에서 캐치테이블 운영사 와드와 전략적 업무협약(MOU)을 체결했다고 16일 밝혔다.이번 협약에 따라 양사는",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202611/50589_49803_411_v150.jpg",
+    "score": 4.754,
+    "engagement": 0,
+    "matched_keywords": [
+      "투자 유치"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "미래에셋, 디지털엑스에 305억원 추가 출자…지분율 98%대로",
+    "url": "https://www.blockmedia.co.kr/archives/1166378?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-11-16T08:55:24+00:00",
+    "raw_excerpt": "[블록미디어 오수환 기자] 미래에셋그룹이 국내 디지털자산(가상자산) 거래소 디지털엑스에 약 305억원을 추가 출자한다. 지난 8월 500억원 규모의 유상증자에 이어 이번에는 보유 중인 펀드 수익증권과 출자지분을 현물출자하는 방식이다. 이번 출자까지 포함하면 코빗 인수 이후 누적 출자 규모는 약 800억원에 달한다. 16일 디지털엑스 공시에 따르면 회사는 이날 이사회를 열고 최대주주인 미래에셋컨설팅을 대상으로 304억8700만원 규모의 제3자배정 유상증자를 결정했다. 발행 [...]",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[블록미디어 오수환 기자] 미래에셋그룹이 국내 디지털자산(가상자산) 거래소 디지털엑스에 약 305억원을 추가 출자한다. 지난 8월 500억원 규모의 유상증자에 이",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2022/01/미래에셋.jpg",
+    "score": 4.711,
+    "engagement": 0,
+    "matched_keywords": [
+      "가상자산"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "빗썸, ‘거래위축’에 3분기 영업적자 81억원…매출 70% 급감",
+    "url": "https://www.blockmedia.co.kr/archives/1166362?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-11-16T08:17:19+00:00",
+    "raw_excerpt": "[블록미디어 오수환 기자] 국내 디지털자산(가상자산) 거래소 빗썸이 올해 3분기 적자로 돌아섰다. 디지털자산 거래대금 감소로 매출이 전년 동기 대비 70% 가까이 줄어든 영향이다. 올해 누적 순손실도 1100억원을 넘어섰다. 16일 금융감독원 전자공시시스템에 따르면 빗썸의 올해 3분기 매출은 594억원으로 지난해 같은 기간(1960억원)보다 69.7% 감소했다. 영업손실은 81억원, 당기순손실은 15억원으로 모두 전년 동기 대비 적자 전환했다. 올해 3분기까지 누적 실적도 악화됐다. [...]",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[블록미디어 오수환 기자] 국내 디지털자산(가상자산) 거래소 빗썸이 올해 3분기 적자로 돌아섰다. 디지털자산 거래대금 감소로 매출이 전년 동기 대비 70% 가까이",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2025/12/20251201-163354-scaled.jpg",
+    "score": 4.675,
+    "engagement": 0,
+    "matched_keywords": [
+      "가상자산"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "바이낸스 공동창업자 허이, 자산 1억달러 감소에도…“현물은 두렵지 않다”",
+    "url": "https://www.blockmedia.co.kr/archives/1166328?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-11-16T08:15:51+00:00",
+    "raw_excerpt": "[블록미디어 양원모 기자] 세계 최대 디지털자산 거래소 바이낸스의 허이(何一) 공동창업자가 1000억원이 넘는 자산 감소에도 현물 보유자는 두려워할 필요가 없다 는 반응을 보였다. 16일(현지시각) 바이낸스 스퀘어에 따르면 허이는 이날 자신의 계정 자산 변동 내역을 담은 스크린샷을 게시했다. 공개된 화면에는 최근 30일간 총자산 변동액이 마이너스 1억131만달러(약 1353억원)로 표시됐다. 세부 항목별로는 거래 손익이 마이너스 9732만달러(약 1300억원)로 전체 감소액의 약 [...]",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "[블록미디어 양원모 기자] 세계 최대 디지털자산 거래소 바이낸스의 허이(何一) 공동창업자가 1000억원이 넘는 자산 감소에도 현물 보유자는 두려워할 필요가 없다",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/11/20261116-164611.webp",
+    "score": 4.674,
+    "engagement": 0,
+    "matched_keywords": [
+      "창업"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "비트코인 RSI 24.3…일봉 종가 4개 이동평균선 밑돌아",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/438939",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-11-16T07:35:03+00:00",
+    "raw_excerpt": "비트코인(BTC)은 한국시간 16일 오후 4시 9분 기준 6만4653달러(약 8634만원)로, 24시간 전보다 0.37% 올랐지만 최근 7일 동안 14.05% 내렸다. 직전 일봉의 상대강도지수(RSI·14)는 24.3이었고 종가는 20·50·100·200일 단순이동평균선을 모두 밑돌았다. 코인글래스(CoinGlass)는 같은 시각 비트코인 선물 미결제약정을 417억3000만달러(약 55조7271억원)로 집계했다. 24시간 전보다 4.85% 감소한 수치다. 미결제약정은 아직 종료되지 않은 선물 계약 규모를 뜻한다. 가중 펀딩비는 8시간당 0.0001%였다. 펀딩비는 무기한 선물에서 롱·숏 포지션 보유자 사이에 오가는 비용으로, 코인글래스가 추적하는 거래소를 합산한 값이다. Keel은... 더보기",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "비트코인(BTC)은 한국시간 16일 오후 4시 9분 기준 6만4653달러(약 8634만원)로, 24시간 전보다 0.37% 올랐지만 최근 7일 동안 14.05% 내",
+    "thumbnail": "https://f1.tokenpost.kr/2026/11/hin9564k9a.jpg",
+    "score": 4.12,
+    "engagement": 0,
+    "matched_keywords": [
+      "펀딩"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "evening"
+  }
+]
