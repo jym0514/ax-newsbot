@@ -1,0 +1,642 @@
+[
+  {
+    "title": "OpenAI launches GPT-6.2 Astra and Sol with lower API prices and some benchmark gains",
+    "url": "https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-11-17T20:30:50+00:00",
+    "raw_excerpt": "OpenAI releases GPT-6.2 Astra and Sol, two new models that are more capable and cheaper than their predecessors. In the independent Artificial Analysis Intelligence Index, Astra ranks second behind Claude Fable 5.2, and it is the first released model to reach the High threshold for AI self-improvement on OpenAI's own scale. OpenAI itself classifies that as a risk. The article OpenAI launches GPT-6.2 Astra and Sol with lower API prices and some benchmark gains appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI releases GPT-6.2 Astra and Sol, two new models that are more capable and cheaper th",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/openai_vals_sol.png",
+    "score": 6.462,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "TAI #229: Fable 5.2 and the Case for a 2027 AI Takeoff",
+    "url": "https://newsletter.towardsai.net/p/tai-229-fable-52-and-the-case-for",
+    "source": "Towards AI",
+    "source_type": "substack",
+    "published_at": "2026-11-17T16:52:25+00:00",
+    "raw_excerpt": "Also, Gemini 4 Carbon puts Google back in the coding race, plus METR s study of Anthropic, the AI 2027 forecast update, and Jensen Huang s departure from NVIDIA.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Also, Gemini 4 Carbon puts Google back in the coding race, plus METR s study of Anthropic,",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!N4uf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4566ceb-de00-4d35-ae33-4d030b976cd8_1400x1079.png",
+    "score": 6.397,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "anthropic",
+      "nvidia"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+    "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-11-17T17:32:25+00:00",
+    "raw_excerpt": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/07/Lumo-by-proton.jpeg?resize=1200,600",
+    "score": 6.258,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "chatgpt"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "AI agents are starting to fill out medical forms and file insurance requests in place of human staff",
+    "url": "https://the-decoder.com/ai-agents-are-starting-to-fill-out-medical-forms-and-file-insurance-requests-in-place-of-human-staff/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-11-17T16:55:47+00:00",
+    "raw_excerpt": "OpenAI wants GPT-6 Astra and GPT-6 Luna to automate administrative tasks in US healthcare through computer-use agents that operate existing clinic software and insurance portals the way a human would. Luna handles tasks like prior authorizations for about 8.5 cents each. Companies including CVS Health and Cigna Healthcare are already deploying the technology. The article AI agents are starting to fill out medical forms and file insurance requests in place of human staff appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "OpenAI wants GPT-6 Astra and GPT-6 Luna to automate administrative tasks in US healthcare",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/openai_healthcare_agents.png",
+    "score": 6.216,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "The US wants to block China from renting AI power abroad but China already built a parallel supply chain from US AI output",
+    "url": "https://the-decoder.com/the-us-wants-to-block-china-from-renting-ai-power-abroad-but-china-already-built-a-parallel-supply-chain-from-us-ai-output/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-11-17T16:47:21+00:00",
+    "raw_excerpt": "The US is tightening its chip export controls. Data centers in third countries like Singapore and Malaysia will soon need a US license to buy Nvidia chips, closing the loophole that let Chinese firms rent cloud compute abroad. A Reuters investigation also reveals how China offsets its hardware shortage through industrial-scale distillation of US AI models. The article The US wants to block China from renting AI power abroad but China already built a parallel supply chain from US AI output appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "The US is tightening its chip export controls. Data centers in third countries like Singap",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/03/Datacenter-Remote.png",
+    "score": 6.206,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "nvidia"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "[AINews] Perplexity hits a $1B revenue run rate, up 4x in 2026",
+    "url": "https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/",
+    "source": "Latent Space (swyx)",
+    "source_type": "substack",
+    "published_at": "2026-11-17T09:24:56+00:00",
+    "raw_excerpt": "November 16, 2026 — Computer gets Teammates, Perplexity ships Monitor API, and a new research lab launches.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "November 16, 2026 — Computer gets Teammates, Perplexity ships Monitor API, and a new resea",
+    "thumbnail": "https://latent.space/og/card/post/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/2627049380666217b18fbe35046e68da8e58cd8f8b30f47fa7c60b73ece9e2fd.png",
+    "score": 5.76,
+    "engagement": 0,
+    "matched_keywords": [
+      "perplexity"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Goodbye, Gemini Gems: How to use Google’s new Skills – and share them",
+    "url": "https://www.zdnet.com/business/gemini-gems-google-skills-transition/",
+    "source": "ZDNet (Global, AI)",
+    "source_type": "rss",
+    "published_at": "2026-11-17T19:54:04+00:00",
+    "raw_excerpt": "Google is retiring Gemini Gems. Here’s what to do to access the same tools as Skills.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Google is retiring Gemini Gems. Here’s what to do to access the same tools as Skills.",
+    "thumbnail": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2295330247.jpg",
+    "score": 5.595,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Model ML raises $250M to automate investment banking grunt work",
+    "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-11-17T19:32:11+00:00",
+    "raw_excerpt": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affect their analysis.",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "The startup says its agents understand the full context of deals that bankers and consulta",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1283692332.jpg?resize=1200,633",
+    "score": 5.57,
+    "engagement": 0,
+    "matched_keywords": [
+      "startup"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "MS, 'MAI 코드 2' 출시…앤트로픽급 코딩 성능에 비용은 5%",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217511",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-18T05:01:05+00:00",
+    "raw_excerpt": "마이크로소프트(MS)가 오픈AI와 앤트로픽의 첨단 모델에 근접한 코딩 성능을 훨씬 낮은 비용으로 구현한 자체 AI 모델 'MAI 코드 2(MAI Code 2)'를 공개했다. 사이버 보안과 AI 에이전트의 판단 작업에 특화한 모델도 함께 선보이며, 외부 AI 모델에 대한 의존도를 줄이고 자체 모델 경쟁력을 강화하고 나섰다.MS는 17일(현지시간) 미국 샌프란시스코에서 열린 연례 기술 행사 '이그나이트 2026'에서 코딩 전문 모델 'MAI 코드 2'와 경량형 'MAI 코드 2 플래시(MAI Code 2 Flash)', 보안 전문 모델",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "마이크로소프트(MS)가 오픈AI와 앤트로픽의 첨단 모델에 근접한 코딩 성능을 훨씬 낮은 비용으로 구현한 자체 AI 모델 'MAI 코드 2(MAI Code 2)'를",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217511_221786_5033.jpeg",
+    "score": 5.552,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+    "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-11-17T19:02:20+00:00",
+    "raw_excerpt": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purch",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
+    "score": 5.536,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "OpenAI opens its cybersecurity tool Daybreak to NATO and European governments",
+    "url": "https://the-decoder.com/openai-opens-its-cybersecurity-tool-daybreak-to-nato-and-european-governments/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-11-17T15:02:03+00:00",
+    "raw_excerpt": "OpenAI is opening its cybersecurity tool Daybreak to NATO and several European governments, including Germany, France, and Poland. The EU's cybersecurity agency ENISA has already used it to find real vulnerabilities in EU software. The NATO Communications and Information Agency (NCIA) says it's already making heavy use of the underlying models. The article OpenAI opens its cybersecurity tool Daybreak to NATO and European governments appeared first on The Decoder .",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "OpenAI is opening its cybersecurity tool Daybreak to NATO and several European governments",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/10/russian_influence_campaigns.png",
+    "score": 5.26,
+    "engagement": 0,
+    "matched_keywords": [
+      "cybersecurity"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Science Corporation’s brain tech is worth $3.5 billion after new funding",
+    "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-11-17T14:26:46+00:00",
+    "raw_excerpt": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business.",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/10/55588371385_eb2e316d52_o.jpg?resize=1200,800",
+    "score": 5.22,
+    "engagement": 0,
+    "matched_keywords": [
+      "funding"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "U.S. Fed Governor Waller pitches keeping central bank at the center of tokenization",
+    "url": "https://www.coindesk.com/policy/2026/11/17/u-s-fed-governor-waller-pitches-keeping-central-bank-at-the-center-of-tokenization",
+    "source": "CoinDesk",
+    "source_type": "rss",
+    "published_at": "2026-11-17T17:00:05+00:00",
+    "raw_excerpt": "",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "U.S. Fed Governor Waller pitches keeping central bank at the center of tokenization",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/fc32cdfe2379f454c7160b98435207e28877a3d9-4132x2324.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "score": 4.905,
+    "engagement": 0,
+    "matched_keywords": [
+      "tokenization"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Hong Kong, Swift test tokenized deposits as banks chase stablecoin-style speed",
+    "url": "https://www.coindesk.com/business/2026/11/17/hong-kong-swift-test-tokenized-deposits-as-banks-chase-stablecoin-style-speed",
+    "source": "CoinDesk",
+    "source_type": "rss",
+    "published_at": "2026-11-17T15:11:00+00:00",
+    "raw_excerpt": "",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Hong Kong, Swift test tokenized deposits as banks chase stablecoin-style speed",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/f96187856f3474dbbb316e0769389671addb2f9c-2288x1712.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "score": 4.791,
+    "engagement": 0,
+    "matched_keywords": [
+      "stablecoin"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Decentralized exchange Grvt looks to makes commodity trading more predictable with stable funding perps",
+    "url": "https://www.coindesk.com/markets/2026/11/17/decentralized-exchange-grvt-makes-commodity-trading-more-predictable-with-stable-funding-perps",
+    "source": "CoinDesk",
+    "source_type": "rss",
+    "published_at": "2026-11-17T13:00:00+00:00",
+    "raw_excerpt": "",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Decentralized exchange Grvt looks to makes commodity trading more predictable with stable",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/7c6413a37277d42b1a4ed765b17dadc53172c1a4-1152x648.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "score": 4.655,
+    "engagement": 0,
+    "matched_keywords": [
+      "funding"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "몰렉스, 2027년 AI·전자산업 10대 전망…휴머노이드 양산·AI 데이터센터 구조 대전환",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42768",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-11-17T18:35:46+00:00",
+    "raw_excerpt": "글로벌 전자부품 및 연결 기술 기업 몰렉스(Molex)가 2027년 인공지능(AI) 산업의 핵심 변화로 AI 데이터센터의 통합 시스템화와 휴머노이드 로봇의 상용 생산 확대, 시뮬레이션 중심의 제품 개발 전환을 제시했다. AI 기술 경쟁이 개별 반도체의 연산 성능을 넘어 전력 공급과 냉각, 데이터 연결, 제조 공정까지 통합적으로 최적화하는 방향으로 이동할 것이라는 전망이다.몰렉스는 향후 12~18개월 동안 전자산업과 연결 기술 분야를 주도할 10대 기술 전망을 지난 10일 발표하고, AI와 디지털 엔지니어링이 데이터센터, 로봇, 항공",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "글로벌 전자부품 및 연결 기술 기업 몰렉스(Molex)가 2027년 인공지능(AI) 산업의 핵심 변화로 AI 데이터센터의 통합 시스템화와 휴머노이드 로봇의 상용",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202611/42768_64255_3519_v150.jpg",
+    "score": 4.604,
+    "engagement": 0,
+    "matched_keywords": [
+      "휴머노이드",
+      "휴머노이드 로봇"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Eastern Europe crypto flows fall 7.9% as Ukraine draws $12B in stablecoins",
+    "url": "https://cointelegraph.com/news/eastern-europe-crypto-activity-decline-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "source_type": "rss",
+    "published_at": "2026-11-17T20:05:04+00:00",
+    "raw_excerpt": "Chainalysis found that Eastern Europe recorded the steepest decline in crypto activity of any region, while cross-border stablecoin transfers to Ukraine continued amid the ongoing war.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Chainalysis found that Eastern Europe recorded the steepest decline in crypto activity of",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7N9V9STHF6S9E0M81Y5Q7RA/hi-eastern-europe.png",
+    "score": 4.588,
+    "engagement": 0,
+    "matched_keywords": [
+      "stablecoin"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "AMD, 페이페이 리의 '월드랩스' 인수 완료…월드모델 확보해 차세대 AI 반도체 개발 가속",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42767",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-11-17T18:15:24+00:00",
+    "raw_excerpt": "AMD가 세계적인 인공지능(AI) 석학 페이페이 리(Fei-Fei Li)가 이끄는 월드모델 개발 기업 월드랩스(World Labs) 인수를 완료했다. 현실 세계를 3차원 공간으로 구현하고 시뮬레이션하는 AI 기술을 확보해 차세대 AI 반도체와 소프트웨어, 컴퓨팅 시스템 개발에 활용한다는 전략이다.AMD는 16일(현지시간) 월드랩스 인수 절차를 마무리하고, AI 모델 연구진과 반도체 엔지니어링 조직을 결합해 차세대 AI 인프라 개발을 가속한다고 밝혔다.지난달 28일 AMD는 스탠퍼드대학교 인간중심인공지능연구소(HAI)의 공동 창립자이",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "AMD가 세계적인 인공지능(AI) 석학 페이페이 리(Fei-Fei Li)가 이끄는 월드모델 개발 기업 월드랩스(World Labs) 인수를 완료했다. 현실 세계를",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202611/42767_64254_1459_v150.jpg",
+    "score": 4.587,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "차세대"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "숨빗AI, 시리즈A·스케일업 팁스로 150억원 확보…\"CT·MRI 판독 AI 확장\"",
+    "url": "https://zdnet.co.kr/view/?no=20261117231316",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-11-17T14:13:16+00:00",
+    "raw_excerpt": "[지디넷코리아]숨빗에이아이(이하 숨빗AI)가 시리즈A 투자 유치와 중소벤처기업부 '스케일업 팁스' 선정을 통해 총 150억원 규모의 자금을 확보하며 3차원 다중 시퀀스 영상 판독 시장 확장에 나선다.17일 회사에 따르면, 숨빗AI는 최근 SV인베스트먼트가 주도하고 시드 단독 투자사인 알토스벤처스를 비롯해 키움인베스트먼트, iM투자파트너스가 참여한 약 120억원 규모의 시리즈A 라운드를 마무리했다. 여기에 중소벤처기업부의 '스케일업 팁스' 특화형 과제인 '멀티시퀀스 CT·MRI 생성형 AI 솔루션 개발 및 글로벌 상용화'에 선정돼 향후 3년간 최대 30억원의 연구개발 자금을 연계 지원받는다. 2024년 알토스벤처스로부터 유치한 50억원 규모의 시드 투자를 합산하면 누적 투자·조달 금액은 약 200억원에 달한다. 숨빗AI는 2024년 7월 카카오브레인에서 흉부 엑스레이 판독 보조 AI 사업을 이끌던 최고헬스케어책임자(CHO) 출신 배웅 대표와 핵심 개발진이 의기투합해 설립한 기업이다.숨빗AI는 올해 4월 1일 흉부 엑스레이 판독문 초안을 자동 생성하는 '에어리드-씨엑스알'로 식품의약품안전처 3등급 디지털의료기기 품목허가(허가번호 D제허 26-10호)를 획득했다. 에어리드-씨엑스알은 2021년부터 국내외 흉부 엑스레이 영상·판독문 약 1400만건을 학습해 흉수·기흉·폐부종·폐결절·심장비대·활동성 결핵·늑골·쇄골 골절 등 최소 57종 이상의",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "[지디넷코리아]숨빗에이아이(이하 숨빗AI)가 시리즈A 투자 유치와 중소벤처기업부 '스케일업 팁스' 선정을 통해 총 150억원 규모의 자금을 확보하며 3차원 다중",
+    "thumbnail": "https://image.zdnet.co.kr/2026/11/17/b2c8ea1ff52182cb6c7088da374470d0.png",
+    "score": 4.189,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처",
+      "시드 투자",
+      "투자 유치",
+      "스케일업"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Google says hackers use AI agents to find and exploit software flaws",
+    "url": "https://cointelegraph.com/news/google-ai-agents-automated-cyberattacks-software-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "source_type": "rss",
+    "published_at": "2026-11-17T10:05:59+00:00",
+    "raw_excerpt": "Google says attackers are using AI agents to find and exploit software flaws automatically, reducing the time organizations have to apply patches.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Google says attackers are using AI agents to find and exploit software flaws automatically",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W8CX3ZEBAQRD95ZBDZ13BW/hi-using-ai-in-crypto-do-it-at-your-own-risk2.jpg",
+    "score": 4.026,
+    "engagement": 0,
+    "matched_keywords": [
+      "exploit"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+    "url": "https://starsling.dev",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-11-17T19:01:43+00:00",
+    "raw_excerpt": "We’re Yonas and Daniel and we’re building StarSling ( https://starsling.dev ), fast GitHub Actions runners with AI agents that ship PRs to continuously improve your tests and workflows. Every CI job gets its own ephemeral sandbox on the fastest Zen 5 machines and NVMe Disk with unlimited concurrency so a burst of agent PRs all run at once. We’re different from other runners because ours come with agents that cut down your CI bill over time. PRs are generated through our CI harness, which runs an agent loop that’s tuned to improve your CI speed and reduce cost. Mastra now merges over 1,800 PRs a month and we got their slowest workflow from 29m 56s on GitHub-hosted runners down to 5m 06s (5.87",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "We’re Yonas and Daniel and we’re building StarSling ( https://starsling.dev ), fast GitHub",
+    "thumbnail": "https://starsling.dev/images/starsling-brand-og.jpg",
+    "score": 4.025,
+    "engagement": 0,
+    "matched_keywords": [
+      "workflow"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "MiTAC 컴퓨팅, SC26에서 풀스택 인프라로 에이전틱 AI 확장",
+    "url": "https://zdnet.co.kr/view/?no=20261117231003",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-11-17T14:10:03+00:00",
+    "raw_excerpt": "[지디넷코리아]시카고 2026년 11월 17일 /PRNewswire/ -- MiTAC 홀딩스 코퍼레이션(MiTAC Holdings Corporation, TWSE: 3706)의 자회사이자 고성능 서버 솔루션 분야 글로벌 선도기업 MiTAC 컴퓨팅 테크놀로지 코퍼레이션(MiTAC Computing Technology Corporation)이 11월 17일 SC26에서 자사의 종합 AI 인프라 생태계를 공개했다. MiTAC은 '풀스택 인프라 기반의 에이전틱 AI 확장(Scaling Agentic AI. Built on Full-Stack Infrastructure)'을 주제로 조성된 4615번 부스에서 풀스택 혁신이 기업의 AI 도입 시 발생하는 컴퓨팅과 열, 데이터 병목 현상을 어떻게 극복하는지 시연했다. 에이전틱 AI가 추론 워크로드의 기하급수적인 급증을 주도함에 따라 인프라 확장에서도 단순한 GPU 성능 확대 그 이상이 필요하게 됐다. MiTAC은 AMD, 캐노니컬(Canonical), DDN, 인텔(Intel), 엔비디아(NVIDIA), 라페이(Rafay)와의 전략적 협력을 통해 고밀도 액체 냉각, 분산형 추론, 엔드투엔드 오케스트레이션이 결합된 확장형 AI 팩토리 아키텍처를 공급하고 있다. MiTAC Computing Scales Agentic AI with Full-Stack Infrastructure at SC26 릭 황(R",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "[지디넷코리아]시카고 2026년 11월 17일 /PRNewswire/ -- MiTAC 홀딩스 코퍼레이션(MiTAC Holdings Corporation, TWSE",
+    "thumbnail": "https://mmx.prnasia.com/media/MS2037394/20261115013307EST_image_1.jpg?id=OA3083851&p=medium600",
+    "score": 3.737,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic",
+      "agentic ai",
+      "에이전틱"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "AI 에이전트 전용 USDC 지갑 공개…예산·거래처·승인 한도로 지출 제한",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/440001",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-11-17T20:10:42+00:00",
+    "raw_excerpt": "Coinstancy가 AI 에이전트마다 별도의 유에스디코인(USDC) 지갑을 내주는 Agentic Bank를 18일 출시한 것으로 전해졌다. 에이전트는 소유자가 정한 예산과 승인 한도 안에서, 미리 허용된 거래처에만 돈을 쓸 수 있다. 크립토폴리탄(Cryptopolitan)은 Agentic Bank의 지갑이 예산과 승인된 거래처 목록으로 제한되고, 에이전트는 소유자가 설정한 승인 한도 안에서 작동한다고 보도했다. 결제는 에이전트가 스스로 실행하고, 쓸 수 있는 금액과 돈을 받을 상대는 사람이 미리 정해 두는 방식이다. Coinstancy가 이 한도를 온체인에서 강제하는지, 운영사가 관리하는지는 확인되지 않았다. 크립토폴리탄은 이번 출시를 코인베이스($COIN),... 더보기",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Coinstancy가 AI 에이전트마다 별도의 유에스디코인(USDC) 지갑을 내주는 Agentic Bank를 18일 출시한 것으로 전해졌다. 에이전트는 소유자가",
+    "thumbnail": "https://f1.tokenpost.kr/2026/11/p4fvkwmgov.png",
+    "score": 3.522,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic",
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "사티아 나델라 \"코파일럿은 업무를 위한 새로운 운영체제\"…워드·엑셀까지 통합",
+    "url": "https://zdnet.co.kr/view/?no=20261118042645",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-11-17T19:36:53+00:00",
+    "raw_excerpt": "[지디넷코리아]\"코파일럿은 업무를 위한 새로운 운영체제(OS)다. 채팅과 공동 작업, 코딩, 자율형 업무 수행 등 인간과 컴퓨터의 다양한 상호작용 방식을 하나의 경험으로 통합한다.\"마이크로소프트가 인공지능(AI) 서비스 '코파일럿'을 기업 업무 전반을 아우르는 통합 플랫폼으로 확대한다. 오피스 기능과 기업 데이터, 자율형 AI 에이전트를 하나로 결합해 문서 작성부터 코딩, 업무 자동화까지 코파일럿에서 처리하도록 한다는 전략이다.사티아 나델라 마이크로소프트 최고경영자(CEO)는 18일 연례 기술 컨퍼런스 '마이크로소프트 이그나이트 2026' 기조연설에서 코파일럿 통합 전략과 주요 기능을 발표했다.마이크로소프트는 워드와 엑셀, 파워포인트를 코파일럿에 직접 통합한 '오피스 인 코파일럿(Office in Copilot)'과 채팅·코워크(Cowork)를 결합한 '홈(Home)'을 정식 제공한다. 사용자는 코파일럿에서 질문에 답을 얻거나 문서를 작성하고 여러 단계로 구성된 복잡한 업무를 처리할 수 있다.자연어로 애플리케이션과 대시보드를 만드는 '코드(Code)'와 지속적으로 업무를 수행하는 자율형 AI 에이전트 '오토파일럿(Autopilot)'은 신기능 우선 체험 프로그램인 '프런티어(Frontier)' 고객을 대상으로 단계적으로 제공한다.사티아 나델라 CEO는 코드를 \"조직 구성원 모두에게 주어지는 무한한 서비스형 소프트웨어(SaaS) 공장\"",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "[지디넷코리아]\"코파일럿은 업무를 위한 새로운 운영체제(OS)다. 채팅과 공동 작업, 코딩, 자율형 업무 수행 등 인간과 컴퓨터의 다양한 상호작용 방식을 하나의",
+    "thumbnail": "https://image.zdnet.co.kr/2026/11/18/23084683ee639ebd5a497c044ee70eef.jpg",
+    "score": 3.491,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "스캐터랩, 제타 청소년 보호 강화...‘트러스트&세이프티 팀’ 출범",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=21978",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-11-17T14:13:09+00:00",
+    "raw_excerpt": "스캐터랩은 김종윤 대표가 직접 이끄는 ‘트러스트&세이프티 팀’을 출범했다고 17일 밝혔다. 이 팀은 제타의 콘텐츠 안전과 이용자 보호를 전담하는 조직으로, 회사 주요 AI 개발 인력의 절반을 콘텐츠 및 대화 모더레이션 AI 모델 개발에 투입한다. 정책 수립과 기술 개발, 콘텐츠 검수 업무를 통합 관리해 안전 관련 대응 역량을 높인다는 계획이다.이번 조치는 AI 캐릭터 서비스의 청소년 보호 문제가 산업 전반의 과제로 부상한 가운데 나왔다. 국회입법조사처가 지난 7월 발표한 보고서에 따르면, 국내 아동·청소년의 AI 챗봇 이용률이 94",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "스캐터랩은 김종윤 대표가 직접 이끄는 ‘트러스트&세이프티 팀’을 출범했다고 17일 밝혔다. 이 팀은 제타의 콘텐츠 안전과 이용자 보호를 전담하는 조직으로, 회사",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202611/21978_22776_957.jpg",
+    "score": 3.47,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "11월 18일 출근길 팟캐스트 — 뉴욕증시 3대 지수 하락에 비트코인 6만3000달러대 후퇴, 롱 청산 2.5억달러",
+    "url": "https://www.tokenpost.kr/news/insights/440014",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-11-17T21:50:50+00:00",
+    "raw_excerpt": "뉴욕증시 3대 지수가 17일 일제히 하락하면서 암호화폐 시장도 동반 약세를 탔다. 엔비디아 실적 발표를 앞둔 경계심과 미국 국가안보국 기밀 통신망 장애 보도가 겹치며 위험자산 선호가 식었고, 비트코인은 6만3000달러대로 밀렸다. 주식발 불안이 가상자산 쪽으로 번졌다는 점에서 오늘 시장의 중심 사건으로 읽힌다.다우지수는 1.32%, S P500은 0.98%, 나스닥은 0.94% 내렸다. 전통시장 조정폭이 크진 않았지만 기술주 민감 구간에서 동반 하락이 나왔다는 점은 암호화폐 투자심리에도 직접적인 압박으로 작용했다.시장 충격 반응비트코인은 24시간 기준 2.07% 하락한 6만3646.65달러, 이더리움은 1.84% 내린 1787.99달러에 거래됐다. 두... 더보기",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "뉴욕증시 3대 지수가 17일 일제히 하락하면서 암호화폐 시장도 동반 약세를 탔다. 엔비디아 실적 발표를 앞둔 경계심과 미국 국가안보국 기밀 통신망 장애 보도가 겹",
+    "thumbnail": "https://f1.tokenpost.kr/2026/11/twxv43ym08.jpg",
+    "score": 3.178,
+    "engagement": 0,
+    "matched_keywords": [
+      "가상자산",
+      "암호화폐"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "동유럽 가상자산 7.9% 감소…우크라이나엔 스테이블코인 120억달러",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/440008",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-11-17T20:15:36+00:00",
+    "raw_excerpt": "동유럽의 가상자산 경제 규모가 1년 새 7.9% 줄어 체이널리시스가 조사한 지역 가운데 감소 폭이 가장 컸다. 같은 기간 우크라이나는 개인 지갑 간 국경 간 이체로 스테이블코인 120억달러(약 16조200억원)를 받았다. 블록체인 분석업체 체이널리시스(Chainalysis)가 17일(현지시간) 공개한 보고서에 따르면 2025년 7월부터 2026년 6월까지 동유럽의 가상자산 경제 규모는 6421억달러(약 85조7204억원)였다. 1년 전 6971억달러(약 93조629억원)보다 줄었다. 같은 기간 전 세계 감소율은 1.6%였다. 감소 폭을 키운 곳은 러시아다. 러시아는 지역 전체의 약 44%를 차지한다. 러시아의 활동 규모는 14.7% 줄어 2841억달러(약 37조9274억원)를... 더보기",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "동유럽의 가상자산 경제 규모가 1년 새 7.9% 줄어 체이널리시스가 조사한 지역 가운데 감소 폭이 가장 컸다. 같은 기간 우크라이나는 개인 지갑 간 국경 간 이체",
+    "thumbnail": "https://f1.tokenpost.kr/2026/11/3i1ivc0ub9.jpg",
+    "score": 3.125,
+    "engagement": 0,
+    "matched_keywords": [
+      "블록체인",
+      "가상자산"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "[뉴욕증시 마감] 반도체주 약세·NSA 전산 장애…다우 850포인트↓",
+    "url": "https://www.blockmedia.co.kr/archives/1167221?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-11-17T21:13:38+00:00",
+    "raw_excerpt": "[멕시코=심영재 특파원] 미국 뉴욕증시가 17일(현지시각) 일제히 하락했다. 엔비디아의 실적 발표를 앞두고 반도체주를 중심으로 매도세가 확산된 가운데 미국 국가안보국(NSA)의 전산망 장애 소식까지 전해지면서 투자심리가 위축됐다. 기술주뿐 아니라 대형 우량주와 중소형주도 동반 약세를 보이며 시장 전반에 위험자산 회피 움직임이 나타났다. CNBC에 따르면, 이날 뉴욕증시에서 다우존스30산업평균지수는 전장보다 848.75포인트(1.64%) 하락한 5만759.40을 기록했다. 스탠더드앤드푸어스(S P)500지수는 76.06포인트(1.03%) 내린 7340.53에 거래됐다. 기술주 중심의 [...]",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "[멕시코=심영재 특파원] 미국 뉴욕증시가 17일(현지시각) 일제히 하락했다. 엔비디아의 실적 발표를 앞두고 반도체주를 중심으로 매도세가 확산된 가운데 미국 국가안",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/11/20261118-061241.jpg",
+    "score": 3.102,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "은행 달러는 주말에도 오가는데…증권 결제는 대부분 평일에 묶여",
+    "url": "https://www.tokenpost.kr/news/blockchain/439970",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-11-17T18:14:29+00:00",
+    "raw_excerpt": "애덤 포팟(Adam Popat) 세틀마인트(SettleMint) CEO가 토큰화의 다음 과제로 증권 결제를 꼽았다. 은행 간 달러 이체는 주말까지 가능해졌지만, 증권 결제는 여전히 평일에 묶여 있다는 진단이다. 포팟 CEO는 크립토브리핑에 보낸 이메일 코멘트에서 은행은 이제 토요일에도 아시아와 미국 사이에서 달러를 옮길 수 있지만, 대부분의 증권은 평일에만 결제된다며 압박은 결제에서 증권 인프라로 옮겨갔다고 말했다. 돈이 움직이는 속도를 증권 인프라가 따라가지 못한다는 뜻이다. DBS와 JP모건 킨엑시스(Kinexys)는 16일 새 서비스를 내놨다고 밝혔다. 기관 고객은 미국과 싱가포르의 블록체인 기반 계좌 사이에서 주말을 포함해 언제든... 더보기",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "애덤 포팟(Adam Popat) 세틀마인트(SettleMint) CEO가 토큰화의 다음 과제로 증권 결제를 꼽았다. 은행 간 달러 이체는 주말까지 가능해졌지만,",
+    "thumbnail": "https://f1.tokenpost.kr/2026/11/el63hjrp3k.png",
+    "score": 3.057,
+    "engagement": 0,
+    "matched_keywords": [
+      "블록체인",
+      "토큰화"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "성호전자, 3분기 영업익 703% 증가…M&A 효과 본격화",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=678902",
+    "source": "블로터",
+    "source_type": "rss",
+    "published_at": "2026-11-17T16:04:04+00:00",
+    "raw_excerpt": "성호전자는 올해 3분기 연결 기준 매출액 797억원, 영업이익 43억원을 기록했다고 16일 밝혔다. 이는 전년 동기 대비 매출은 43%, 영업이익은 703% 증가했다. 3분기 누적 기준으로는 매출 2309억원, 영업이익 144억원으로 집계됐다.실적 개선은 작년과 올해 초 인수한 ADS테크, 디이에스, JKI 등 반도체 및 광통신 계열사가 견인했다. 이들 3개사의 3분기 합산 실적은 매출 176억원, 영업이익 49억원이다.3분기 실적에는 인수 자문 수수료, 실사, 자회사 구조조정 등 인수합병(M A)에 따른 일회성 비용 11억원(누적",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "성호전자는 올해 3분기 연결 기준 매출액 797억원, 영업이익 43억원을 기록했다고 16일 밝혔다. 이는 전년 동기 대비 매출은 43%, 영업이익은 703% 증가",
+    "thumbnail": "https://cdn.bloter.net/news/thumbnail/202611/678902_293818_5324_v150.jpg",
+    "score": 2.908,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "한투운용 ‘ACE 글로벌반도체TOP4 Plus’, 메모리 대표주 삼성전자로 교체",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=50644",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-17T14:05:06+00:00",
+    "raw_excerpt": "[스마트타임스]한국투자신탁운용의 대표 반도체 상장지수펀드(ETF)인 ‘ACE 글로벌반도체TOP4 Plus’가 메모리 반도체 부문의 대표 종목을 SK하이닉스에서 삼성전자로 교체했다.한국투자신탁운용은 최근 정기 리밸런싱(자산재배분)을 통해 ‘ACE 글로벌반도체TOP4 Plus ETF’의 편입 종목 비중을 조정했다고 17일 밝혔다.이 상품은 글로벌 반도체 산업을 ▲메모리 ▲비메모리(시스템반도체) ▲파운드리 ▲반도체 장비 등 4개 핵심 분야로 나누어 각 분야 1위 대표 기업에 약 80%를 집중 투자하고 나머지 20%는 글로벌 시가총액 상위",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "[스마트타임스]한국투자신탁운용의 대표 반도체 상장지수펀드(ETF)인 ‘ACE 글로벌반도체TOP4 Plus’가 메모리 반도체 부문의 대표 종목을 SK하이닉스에서 삼",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202611/50644_49863_450_v150.jpg",
+    "score": 2.834,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  }
+]
