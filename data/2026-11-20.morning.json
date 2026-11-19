@@ -1,0 +1,757 @@
+[
+  {
+    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+    "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-11-19T08:00:00+00:00",
+    "raw_excerpt": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that f",
+    "thumbnail": "",
+    "score": 6.62,
+    "engagement": 0,
+    "matched_keywords": [
+      "codex",
+      "chatgpt"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "The unfolding Jensen Huang scandal: a timeline",
+    "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-11-19T20:18:49+00:00",
+    "raw_excerpt": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024",
+    "score": 6.448,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "nvidia"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "AI industry growth remains strong, but the pace is slowing",
+    "url": "https://the-decoder.com/ai-industry-growth-remains-strong-but-the-pace-is-slowing/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-11-19T19:28:19+00:00",
+    "raw_excerpt": "Token prices for AI models fell 21 percent in six weeks while usage volume hit a record high, according to the Ramp AI Index. Anthropic dominates with nearly 59 percent of token spending. Data from Ramp, Stripe and OpenRouter independently show the same pattern: the AI industry is still growing, but revenue momentum is cooling. The article AI industry growth remains strong, but the pace is slowing appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Token prices for AI models fell 21 percent in six weeks while usage volume hit a record hi",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2024/02/Throwing-money-at-AI.jpg",
+    "score": 6.39,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "[11월19일] 앤트로픽 IPO 앞두고 오픈AI 창업진이 던진 견제구",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217561",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-20T07:00:00+00:00",
+    "raw_excerpt": "오픈AI의 샘 알트먼 CEO와 그렉 브록먼 사장이 18일(현지시간) 뉴욕에서 열린 '뉴욕타임스 딜북 서밋'에 함께 참석했습니다. 최근 AI 업계를 뒤흔든 젠슨 황의 엔비디아 퇴진과 하루 앞으로 다가온 앤트로픽의 기업공개(IPO), AI 안전 문제 등을 놓고 약 40분간 대담을 진행했습니다. 특히 앤트로픽의 강점을 겨냥한 발언과 함께 오픈AI의 차별성을 강조하며 향후 AI 산업의 주도권에 대한 자신감을 드러냈습니다.먼저 젠슨 황에 대해서는 두 사람 모두 개인적으로 연락했다고 밝혔습니다. 알트먼은 \"젠슨 없는 AI 산업은 상상하기 어렵",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "오픈AI의 샘 알트먼 CEO와 그렉 브록먼 사장이 18일(현지시간) 뉴욕에서 열린 '뉴욕타임스 딜북 서밋'에 함께 참석했습니다. 최근 AI 업계를 뒤흔든 젠슨 황",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217561_221840_331.jpg",
+    "score": 6.309,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai",
+      "엔비디아"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Your Google AI mode searches can stay private now with ‘temporary threads’ – here’s how",
+    "url": "https://www.zdnet.com/innovation/google-ai-mode-searches-private-temporary-threads/",
+    "source": "ZDNet (Global, AI)",
+    "source_type": "rss",
+    "published_at": "2026-11-19T17:12:31+00:00",
+    "raw_excerpt": "With temporary threads, any searches you run in Google’s AI Mode won’t be associated with your account or saved to your chat history.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "With temporary threads, any searches you run in Google’s AI Mode won’t be associated with",
+    "thumbnail": "https://www.zdnet.com/wp-content/uploads/sites/3/Google-AI-Mode-temporary-thread.jpg",
+    "score": 6.235,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "google ai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "These tech outages are giving Y2K, AI agent style",
+    "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-11-19T21:42:31+00:00",
+    "raw_excerpt": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Are the recent outages in the airline booking systems, banking platforms, and productivity",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/11/Muharrem-huner.jpg?resize=1200,800",
+    "score": 5.719,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai agent"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "NYDFS secures $6.75m in cybersecurity settlements with Rocket Mortgage",
+    "url": "https://www.finextra.com/pressarticle/111741/nydfs-secures-675m-in-cybersecurity-settlements-with-rocket-mortgage?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-11-19T15:21:00+00:00",
+    "raw_excerpt": "New York State Department of Financial Services Acting Superintendent Kaitlin Asrow today announced that Rocket Mortgage LLC (“Rocket Mortgage”) and Nationstar Mortgage LLC d/b/a Mr. Cooper (“Mr. Cooper”) will pay $2 million and $4.75 million, respectively, in penalties for violating DFS’s Cybersecurity Regulation (23 NYCRR Part 500).",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "New York State Department of Financial Services Acting Superintendent Kaitlin Asrow today",
+    "thumbnail": "",
+    "score": 5.552,
+    "engagement": 0,
+    "matched_keywords": [
+      "cybersecurity",
+      "regulation"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Meta Muse booked an Airbnb without permission – and that’s not the worst of it",
+    "url": "https://www.zdnet.com/tech/meta-muse-privacy-violatons-employees-report/",
+    "source": "ZDNet (Global, AI)",
+    "source_type": "rss",
+    "published_at": "2026-11-19T18:11:20+00:00",
+    "raw_excerpt": "Meta employees have reported alarming privacy violations involving Muse, including unauthorized actions. An investigation also found the AI agent accessed private messages.",
+    "topic": "personal_ai_agent",
+    "topic_label": "🧑‍💼 개인 AI 에이전트 · 금융비서",
+    "summary": "Meta employees have reported alarming privacy violations involving Muse, including unautho",
+    "thumbnail": "https://www.zdnet.com/wp-content/uploads/sites/3/Meta-Muse.jpg",
+    "score": 5.477,
+    "engagement": 0,
+    "matched_keywords": [
+      "meta muse"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Google gives Gemini the ability to use your Mac for you",
+    "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-11-19T18:09:11+00:00",
+    "raw_excerpt": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fi",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/11/hero_header_CU_copy.width-2200.format-webp.jpeg?resize=1200,675",
+    "score": 5.475,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+    "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-11-19T17:38:40+00:00",
+    "raw_excerpt": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+    "score": 5.44,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai agent"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
+    "url": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report",
+    "source": "CoinDesk",
+    "source_type": "rss",
+    "published_at": "2026-11-19T19:53:42+00:00",
+    "raw_excerpt": "",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance rep",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/68cca7099bc4c4f1be04587d54e876e9da8719ee-1440x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "score": 5.086,
+    "engagement": 0,
+    "matched_keywords": [
+      "stablecoin"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Former NatWest CEO Alison Rose joins Otoma board",
+    "url": "https://www.finextra.com/pressarticle/111746/former-natwest-ceo-alison-rose-joins-otoma-board?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-11-19T18:20:00+00:00",
+    "raw_excerpt": "Dame Alison Rose, former Chief Executive Officer of NatWest Group, has joined the Board of Directors of Otoma, the Payments Tech Liberator, which provides banks with a new-generation, AI native no-code global payments hub.",
+    "topic": "ai_native",
+    "topic_label": "🧬 AI Native",
+    "summary": "Dame Alison Rose, former Chief Executive Officer of NatWest Group, has joined the Board of",
+    "thumbnail": "",
+    "score": 4.988,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai native"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Trump's Democratic SEC pick suggests tokenization policy deserves full rule process",
+    "url": "https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process",
+    "source": "CoinDesk",
+    "source_type": "rss",
+    "published_at": "2026-11-19T18:15:56+00:00",
+    "raw_excerpt": "",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "Trump's Democratic SEC pick suggests tokenization policy deserves full rule process",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/62f74ec6452b6d450e9b40f533eae3445ab31f4e-1255x687.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "score": 4.984,
+    "engagement": 0,
+    "matched_keywords": [
+      "tokenization"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "미국, 중국 반도체 수출 허가 강화…삼성·TSMC 일부 출하 중단",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217595",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-20T06:23:17+00:00",
+    "raw_excerpt": "미국이 중국에 공급하는 일부 첨단 반도체에 대해 기존의 수출 허가 예외를 폐지하면서 삼성전자와 TSMC가 중국 고객에 대한 칩 출하를 중단했다. 지금까지 별도 허가 없이 공급할 수 있었던 제품도 미국 정부의 승인을 받아야 하게 되면서, 중국 기업들의 자체 AI 반도체 개발에도 차질이 예상된다.파이낸셜타임스(FT)는 19일(현지시간) 삼성전자와 TSMC가 미국의 새로운 수출 통제 규정에 따라 일부 중국 고객에게 반도체 출하를 중단했다고 보도했다. 두 회사는 미국 정부의 수출 허가 심사가 진행되는 동안 해당 제품의 공급을 보류하겠다고",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "미국이 중국에 공급하는 일부 첨단 반도체에 대해 기존의 수출 허가 예외를 폐지하면서 삼성전자와 TSMC가 중국 고객에 대한 칩 출하를 중단했다. 지금까지 별도 허",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217595_221889_1441.jpg",
+    "score": 4.976,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Spanish fintech Devengo raises €5m",
+    "url": "https://www.finextra.com/pressarticle/111740/spanish-fintech-devengo-raises-5m?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-11-19T15:19:00+00:00",
+    "raw_excerpt": "Devengo, a Spanish fintech specialising in instant account-to-account (A2A) payment infrastructure and a payment institution authorised by the Bank of Spain, has closed a new €5 million funding round combining debt and equity.",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Devengo, a Spanish fintech specialising in instant account-to-account (A2A) payment infras",
+    "thumbnail": "",
+    "score": 4.8,
+    "engagement": 0,
+    "matched_keywords": [
+      "funding"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "With attacks on the rise, UK regulators clarify cyber expectations",
+    "url": "https://www.finextra.com/newsarticle/48783/with-attacks-on-the-rise-uk-regulators-clarify-cyber-expectations?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-11-19T14:48:00+00:00",
+    "raw_excerpt": "The UK's financial regulators have moved to \"clarify\" their expectations of how firms should manage cyber risks as the threat the sector faces grow in the era of AI and quantum computing.",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "The UK's financial regulators have moved to \"clarify\" their expectations of how firms shou",
+    "thumbnail": "",
+    "score": 4.768,
+    "engagement": 0,
+    "matched_keywords": [
+      "quantum"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "BMO reaches quantum utility",
+    "url": "https://www.finextra.com/newsarticle/48782/bmo-reaches-quantum-utility?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-11-19T14:27:00+00:00",
+    "raw_excerpt": "Canadian bank BMO has claimed a quantum computing breakthrough, demonstrating how it could help AI models identify the information that matters most within increasingly complex datasets.",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "Canadian bank BMO has claimed a quantum computing breakthrough, demonstrating how it could",
+    "thumbnail": "",
+    "score": 4.746,
+    "engagement": 0,
+    "matched_keywords": [
+      "quantum"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express",
+    "url": "https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "source_type": "rss",
+    "published_at": "2026-11-19T22:25:18+00:00",
+    "raw_excerpt": "Binance obtains a court order freezing assets stolen in October’s hack. Hong Kong warns citizens about Hyperliquid, and Thai police arrest four foreigners linked to a crypto scam.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Binance obtains a court order freezing assets stolen in October’s hack. Hong Kong warns ci",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7TW6KD0H9BEVC27QRWR5CP8/asia-express-jacket.png",
+    "score": 4.72,
+    "engagement": 0,
+    "matched_keywords": [
+      "hack"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Google’s Gemini App Can Now Operate Apple Desktop Computers",
+    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/googles-gemini-app-can-now-operate-apple-desktop-computers/",
+    "source": "PYMNTS",
+    "source_type": "rss",
+    "published_at": "2026-11-19T21:55:22+00:00",
+    "raw_excerpt": "Google’s Gemini app for Mac can now use that Apple computer to complete multi-step tasks across the user’s local files, desktop apps and the web, Google said in a Thursday (Nov. 19) blog post. “This saves you time on the repetitive work that normally takes dozens of clicks,” Michael Friedman, group product manager, Gemini App, [ ] The post Google’s Gemini App Can Now Operate Apple Desktop Computers appeared first on PYMNTS.com .",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Google’s Gemini app for Mac can now use that Apple computer to complete multi-step tasks a",
+    "thumbnail": "https://www.pymnts.com/wp-content/uploads/2026/06/Google-AI-Gemini-1.jpg?w=457",
+    "score": 4.691,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "MoonPay Joins Wave of Crypto Firms Seeking Banking Licenses",
+    "url": "https://www.pymnts.com/cryptocurrency/2026/moonpay-joins-wave-of-crypto-firms-seeking-banking-licenses/",
+    "source": "PYMNTS",
+    "source_type": "rss",
+    "published_at": "2026-11-19T21:03:23+00:00",
+    "raw_excerpt": "Cryptocurrency payments firm MoonPay has become the latest digital asset company aiming to become a licensed U.S. bank. The company filed for a banking charter Tuesday (Nov. 17) with the Office of the Comptroller of the Currency (OCC), saying the proposed MoonPay National Trust Bank would help the company expand its custody business and stablecoin [ ] The post MoonPay Joins Wave of Crypto Firms Seeking Banking Licenses appeared first on PYMNTS.com .",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Cryptocurrency payments firm MoonPay has become the latest digital asset company aiming to",
+    "thumbnail": "https://www.pymnts.com/wp-content/uploads/2026/11/MoonPay-bank-1.jpg?w=457",
+    "score": 4.643,
+    "engagement": 0,
+    "matched_keywords": [
+      "stablecoin"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "UNIST, 산업 현장 문제 해결할 AI 융합인재 2000명 양성…조선해양·피지컬 AI 등 8개 전공 신설",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42808",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-11-19T18:24:36+00:00",
+    "raw_excerpt": "울산과학기술원(UNIST)이 조선해양과 자동차, 소재 등 동남권 주력산업의 인공지능 전환(AX)을 이끌 융합인재 2000명을 2030년까지 양성한다. 기업이 보유한 실제 데이터와 산업 현장의 기술적 난제를 대학 교육에 도입하고, 학부에서 시작한 문제 해결 과정을 대학원 연구와 산업 연구개발(R D)로 연결하는 새로운 교육체계를 구축한다.UNIST(총장 박종래)는 19일, 울산 대학본관 대강당에서 'AI융합대학 AX 비전선포식'을 열고 산업 수요 중심의 교육과 연구 혁신 계획을 발표했다. 지난 9월 출범한 AI융합대학을 중심으로 전공",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "울산과학기술원(UNIST)이 조선해양과 자동차, 소재 등 동남권 주력산업의 인공지능 전환(AX)을 이끌 융합인재 2000명을 2030년까지 양성한다. 기업이 보유",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202611/42808_64307_2237_v150.jpg",
+    "score": 4.595,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장",
+      "ax"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "AI Customer Support Startup Sierra Eyes $30 Billion Valuation",
+    "url": "https://www.pymnts.com/startups/2026/ai-customer-support-startup-sierra-eyes-30-billion-valuation/",
+    "source": "PYMNTS",
+    "source_type": "rss",
+    "published_at": "2026-11-19T20:07:41+00:00",
+    "raw_excerpt": "AI customer support startup Sierra is reportedly in talks to raise new funds at a roughly $30 billion valuation. That’s according to a report Wednesday (Nov. 18) by The Information, citing sources familiar with the matter. The $30 billion figure would nearly double the valuation Sierra achieved with its last round announced in May. The three-year-old startup, founded [ ] The post AI Customer Support Startup Sierra Eyes $30 Billion Valuation appeared first on PYMNTS.com .",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "AI customer support startup Sierra is reportedly in talks to raise new funds at a roughly",
+    "thumbnail": "https://www.pymnts.com/wp-content/uploads/2026/11/AI-startup.jpeg?w=457",
+    "score": 4.59,
+    "engagement": 0,
+    "matched_keywords": [
+      "startup"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Financial firms must act now as quantum computers grow ‘highly advanced,’ IOSCO warns",
+    "url": "https://www.coindesk.com/tech/2026/11/19/banks-and-blockchains-lag-on-quantum-defense-as-encryption-risks-loom-watchdog-warns",
+    "source": "CoinDesk",
+    "source_type": "rss",
+    "published_at": "2026-11-19T10:55:29+00:00",
+    "raw_excerpt": "",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "Financial firms must act now as quantum computers grow ‘highly advanced,’ IOSCO warns",
+    "thumbnail": "https://cdn.sanity.io/images/s3y3vcno/production/e87c2d1c3401c9d716f30b95b8ccef99c06082d2-2276x1707.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "score": 4.525,
+    "engagement": 0,
+    "matched_keywords": [
+      "quantum"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "The real AI win: transforming workflow",
+    "url": "https://www.finextra.com/blogposting/33513/the-real-ai-win-transforming-workflow?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-11-19T10:43:43+00:00",
+    "raw_excerpt": "Author: A finextra community member",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "Author: A finextra community member",
+    "thumbnail": "",
+    "score": 4.513,
+    "engagement": 0,
+    "matched_keywords": [
+      "workflow"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "ANT, the IPO of the Century",
+    "url": "https://www.ai-supremacy.com/p/ant-the-ipo-of-the-century-november-19-2026",
+    "source": "AI Supremacy",
+    "source_type": "substack",
+    "published_at": "2026-11-19T10:10:30+00:00",
+    "raw_excerpt": "Can Claude do an analyst s job? Michael Fritzell of ACS does a deep dive tutorial into Claude s Equity Research plugin.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Can Claude do an analyst s job? Michael Fritzell of ACS does a deep dive tutorial into Cla",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!UCUT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc497aa64-ae25-4701-b0dc-8a1f8be3f1aa_900x473.jpeg",
+    "score": 4.478,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Synology Security Advisory",
+    "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-11-19T22:13:40+00:00",
+    "raw_excerpt": "Article URL: https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21 Comments URL: https://news.ycombinator.com/item?id=50567209 Points: 11 # Comments: 1",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21 Comments U",
+    "thumbnail": "https://fileres.synology.com/images/common/meta-tag-preview-image/img_synology.jpg",
+    "score": 4.185,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Rebuilding my local voice assistant pipeline",
+    "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-11-19T20:57:14+00:00",
+    "raw_excerpt": "Article URL: https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline Comments URL: https://news.ycombinator.com/item?id=50566261 Points: 19 # Comments: 1",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline Com",
+    "thumbnail": "https://s3.platypush.tech/static/images/voice-assistant-pipeline.png",
+    "score": 4.122,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "와이즈넛, AI 에이전트 제품 5종 정부 확인...공공조달 시장 공략",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=22002",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-11-19T14:37:23+00:00",
+    "raw_excerpt": "와이즈넛은 자사 AI 에이전트 솔루션 5종이 ‘인공지능 제품·서비스 확인서’를 취득했다고 19일 밝혔다. 공개된 제품은 멀티 에이전트 통합 플랫폼 ‘와이즈 에이전트 스피어’, AI 에이전트 제작도구 ‘와이즈 에이전트 랩스’, 에이전트 특화 LLM ‘와이즈 로아’, RAG 기반 솔루션 ‘와이즈 iRAG’ 등이다.AI 제품·서비스 확인제도는 공공기관이 AI 제품을 도입할 때 실제 AI 기술이 적용됐는지 판단할 수 있도록 마련된 절차다. 한국정보통신기술협회(TTA)가 서류 심사와 제품 시연, 현장 기술 심사를 통해 AI의 학습·추론 특성",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "와이즈넛은 자사 AI 에이전트 솔루션 5종이 ‘인공지능 제품·서비스 확인서’를 취득했다고 19일 밝혔다. 공개된 제품은 멀티 에이전트 통합 플랫폼 ‘와이즈 에이전",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202611/22002_22799_3328.jpg",
+    "score": 4.038,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "수호아이오 “AI 에이전트가 발주·결제하려면 거래 검증 인프라 필요”",
+    "url": "https://byline.network/2026/11/19-689/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-11-19T13:20:05+00:00",
+    "raw_excerpt": "인공지능(AI) 에이전트가 가게 주인을 대신해 물건을 주문하고 대금까지 지급하려면 무엇이 필요할까. 수호아이오는 재고·발주·물류·결제 서비스를 연결하고, 에이전트가 주인의 권한 안에서 거래했는지 확인할 수 있어야 한다고 말했다. 박지수 수호아이오 대표는 19일 서울 서초구에서 바이라인네트워크가 개최한 ‘스테이블코인 이슈 브리핑 2026’에서 “은행의 애플리케이션 프로그래밍 인터페이스(API)가 공통 플랫폼으로 묶인 것처럼, 실행 영역에서도 에이전트가 웹 서비스를 쉽게 끌어다 쓸 수 있는 통합 환경이 필요하다”며 “소상공인이 쓰는 포스기 결제와 배달 서비스, 금융 데이터를 규격화된 안전한 플랫폼으로 만들면 에이전트가 다양한 일을 해줄 수 있다”고 강조했다.",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "인공지능(AI) 에이전트가 가게 주인을 대신해 물건을 주문하고 대금까지 지급하려면 무엇이 필요할까. 수호아이오는 재고·발주·물류·결제 서비스를 연결하고, 에이전트",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/11/SOOHOIO123.jpg",
+    "score": 3.979,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "닭장에 나타난 '휴머노이드'…임무는 달걀 수거",
+    "url": "https://www.etnews.com/20261119000421",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-11-19T21:00:00+00:00",
+    "raw_excerpt": "미국에서 닭장 바닥에 떨어진 달걀을 수거하는 휴머노이드 로봇이 개발되고 있습니다. 미국 노스캐롤라이나주립대 연구진이 개발 중인 '하울(Howl)'은 닭장 안을 돌아다니며 바닥에 놓인 달걀을 찾아 수거하는 것을 목표로 하고 있습니다. 닭을 우리에 가두지 않고 키우는 농장에서는 일부 닭이 둥지가 아닌 바닥에 알을 낳습니다. 연구진에 따르면 닭 10만 마리를 키우는 농장에서는 하루 최대 1만 5000개의 달걀이 바닥에 놓일 수 있어 이를 수거하는 데",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "미국에서 닭장 바닥에 떨어진 달걀을 수거하는 휴머노이드 로봇이 개발되고 있습니다. 미국 노스캐롤라이나주립대 연구진이 개발 중인 '하울(Howl)'은 닭장 안을 돌",
+    "thumbnail": "https://img.etnews.com/news/article/2026/11/19/news-p.v1.20261119.4fe5fa2a49aa43ddb0fb722026e8dd03_P1.png",
+    "score": 3.937,
+    "engagement": 0,
+    "matched_keywords": [
+      "휴머노이드",
+      "휴머노이드 로봇"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "[어바웃 C] LG CNS 현신균 체제 유지…DC·로봇 전략 이어간다",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=679095",
+    "source": "블로터",
+    "source_type": "rss",
+    "published_at": "2026-11-19T17:56:45+00:00",
+    "raw_excerpt": "기업 최고 의사결정권자(CEO, CFO, COO, CIO 등)의 행보에서 투자 인사이트를 얻어 가세요.현신균 LG CNS 대표이사 사장이 그룹 정기 임원인사에서 유임됐다. 2027년에도 회사를 이끌게 된 그는 인공지능전환(AX) 전략을 이어간다. LG CNS는 데이터센터(DC), 클라우드 인프라, AI 서비스를 연결하는 사업을 강화하고 제조·물류 현장에 AI와 로봇을 적용하는 로봇전환(RX) 사업도 확대하고 있다. 대표 취임 후 매출·영업익 동반 성장19일 LG그룹 정기 임원인사에 따르면 현 대표는 LG CNS 대표이사 사장직을 유",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "기업 최고 의사결정권자(CEO, CFO, COO, CIO 등)의 행보에서 투자 인사이트를 얻어 가세요.현신균 LG CNS 대표이사 사장이 그룹 정기 임원인사에서",
+    "thumbnail": "https://cdn.bloter.net/news/thumbnail/202611/679095_294159_302_v150.jpg",
+    "score": 3.428,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장",
+      "ax"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "강병탁 AI스페라 대표 \"현장에서 가장 고생하는 건 서버 주인 찾기\"",
+    "url": "https://zdnet.co.kr/view/?no=20261119191606",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-11-19T11:50:26+00:00",
+    "raw_excerpt": "[지디넷코리아]고대 중국 병법가인 손무는 말했다. \"나를 알고 적을 알면 백번 싸워도 위태롭지 않다.(知彼知己百戰不殆)\"최근 잇따라 벌어진 수많은 해킹 피해 사건에 대해 '지기'의 부재가 원인으로 언급된다. 기업, 기관들은 자신이 운영하는 서버, 서비스를 제대로 파악하지 못하는 상황이다. 서비스 개발, 운영을 위해 이 부서 저 부서 작업자들이 그때그때 만들어둔 서버가 방치되기 일쑤다. 그런 서버들의 보안 패치가 제대로 될 리가 없다. 해커는 이런 잊어버린 자산을 뚫고 들어온다.강병탁 AI스페라 대표는 \"자신이 보유한 자산을 정확하게 파악하는 데서 보안 강화의 실마리를 찾을 수 있다\"고 강조한다.AI스페라는 2017년 설립한 위협 인텔리전스, 공격표면관리(ASM) 기업이다. 전 세계 IP를 상시 수집한 검색엔진 '크리미널 IP'를 2023년 4월 정식 출시했다. 19일에는 위협 노출 관리 제품 '에이아이템(AITEM)'을 내놨다. 기존 ASM 기능에 인공지능(AI) 기반 위협 헌팅과 다크웹 탐지를 더했다.강 대표는 그동안 솔루션을 개발, 공급한 이유를 보안 벤더와 현장의 시각차에서 찾았다. 그는 \"보안 벤더는 정확한 취약점 정보나 악성 정보를 주면 끝이라고 생각한다. 하지만 이를 받아 운영하는 사람은 다른 고충이 있는데 기존 솔루션에는 이런 점이 반영돼 있지 않다\"고 말했다.보안 부서와 인프라 관리 부서 간의 시각 차이도 짚었다. 사내",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "[지디넷코리아]고대 중국 병법가인 손무는 말했다. \"나를 알고 적을 알면 백번 싸워도 위태롭지 않다.(知彼知己百戰不殆)\"최근 잇따라 벌어진 수많은 해킹 피해 사건",
+    "thumbnail": "https://image.zdnet.co.kr/2026/11/19/109d64dacfda99d0c2092e52665d4294.jpg",
+    "score": 3.2,
+    "engagement": 0,
+    "matched_keywords": [
+      "사내",
+      "현장"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "마음AI, 한양대 ERICA·두산로보틱스와 피지컬AI 산학협력 MOU",
+    "url": "https://zdnet.co.kr/view/?no=20261119200855",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-11-19T11:08:55+00:00",
+    "raw_excerpt": "[지디넷코리아]마음AI가 한양대학교 ERICA, 두산로보틱스와 피지컬AI 분야 인재양성과 산학협력을 위한 협력체계를 구축했다.마음AI는 18일 한양대학교 ERICA에서 열린 ‘AI 심포지아(AI Symposia)’에서 한양대학교 ERICA, 두산로보틱스와 3자 업무협약(MOU)을 체결했다고 밝혔다. 이번 협약은 세 기관이 함께 수행하는 '인공지능혁신인재양성사업(AX대학원 사업'을 기반으로, 피지컬AI 분야의 교육·연구개발·산업 현장 실증 협력을 확대하기 위해 마련됐다.AX대학원 사업은 과학기술정보통신부가 추진하는 인공지능혁신인재양성사업으로, 산업의 AI 전환을 이끌 석·박사급 전문인재 양성을 목표로 한다. 한양대학교 ERICA는 휴머노이드, 산업용 협동로봇, 자율이동로봇을 특화 분야로 정하고 인공지능·로봇공학·데이터·제어기술·피지컬AI 등을 교육과 연구에 반영하고 있다.사업 기간은 2026년 8월 1일부터 2031년 12월 31일까지이며, 정부 지원 규모는 대학당 최대 165억 원이다.이번 협약을 통해 한양대학교 ERICA의 AI 연구·인재양성 역량, 두산로보틱스의 로봇 기술역량, 마음AI의 생성형·멀티모달 AI 및 AI 플랫폼 역량을 연계한다.세 기관은 AX대학원 사업에서 형성한 협력 기반을 바탕으로, 교육과 연구가 산업 현장의 문제 해결과 기술 적용으로 이어지도록 협력할 계획이다.협력 분야는 공동교육과정과 산학프로젝트, 학생 인턴",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "[지디넷코리아]마음AI가 한양대학교 ERICA, 두산로보틱스와 피지컬AI 분야 인재양성과 산학협력을 위한 협력체계를 구축했다.마음AI는 18일 한양대학교 ERIC",
+    "thumbnail": "https://image.zdnet.co.kr/2026/11/19/8da4aa83178a0213ad9fc1f1b0ac4564.png",
+    "score": 3.174,
+    "engagement": 0,
+    "matched_keywords": [
+      "피지컬ai",
+      "휴머노이드"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "내년 피지컬AI 실증사업 '짝짓기' 사전 행사에 112개 기업 몰려",
+    "url": "https://zdnet.co.kr/view/?no=20261119200459",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-11-19T11:04:59+00:00",
+    "raw_excerpt": "[지디넷코리아]내년 중소AI 피지컬 실증 사업 공고를 앞두고, 기업 간 짝짓기 사전 소통 행사에 예상대비 3배나 많은 기업이 몰려 북새통을 이루는 등 기업 관심이 집중됐다.19일 청주 오스코 2층에서 중소벤처기업부 중소기업 혁신주간 2006 행사 일환으로 열린 피지컬AI 실증공급 컨소시엄 매칭데이를 기획, 총괄한 기정희 중기부 제조혁신과 서기관은 \"당초 50여 기업 참여를 기대했으나, 3배나 많은 기업들이 몰렸다\"며 \"조만간 이 같은 자리를 추가로 만들 계획\"이라고 말했다.중기부는 내년 중소기업 AI피지컬 실증 사업 예산으로 1728억원(정부안 기준)을 세웠다. 이 사업은 ▲로봇 ▲로봇관련 AI ▲공장 DX 솔루션 ▲제조 등의 분야 기업과 KAIST나 생산기술연구원 등 전문 연구기관과 컨소시엄으로 참여해야 한다.기 서기관은 \"그러다보니, 기업 간 사전소통 자리가 필요하다는 판단에 따라 마련하게 됐다\"고 행사 취지를 설명했다.이날 행사에는 전국 각지에서 112개 기업이 참여했다.머신 비전과 AI데이터 지식화 서비스 기업인 에이테크는 울산서 이 행사를 보고 참석했다. 보유 기술로 로봇환경기술 인지 및 서비스 역량을 소개하며, 이를 피지컬 AI 최적 조건에서 운영 가능한 기업과의 협력을 제안했다.서울서 내려온 랩큐는 VLM 추론에서 메모리 및 토큰 최적화 기술을 가진 기업과의 협력, 경기에 근거지를 둔 에프원소프트는 산업용 로봇 및 자울제",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "[지디넷코리아]내년 중소AI 피지컬 실증 사업 공고를 앞두고, 기업 간 짝짓기 사전 소통 행사에 예상대비 3배나 많은 기업이 몰려 북새통을 이루는 등 기업 관심이",
+    "thumbnail": "https://image.zdnet.co.kr/2026/11/19/4586ead3b5b3c6738834813ced28b0d0.jpg",
+    "score": 3.171,
+    "engagement": 0,
+    "matched_keywords": [
+      "피지컬 ai",
+      "피지컬ai"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "[아침 시황] 비트코인 8,473만원…상승 종목 46%",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/441142",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-11-19T22:30:31+00:00",
+    "raw_excerpt": "11월 20일 오전 7시 30분 오늘 아침 국내 암호화폐 시장은 방향을 잡지 못했다. 24시간 거래대금(업비트·빗썸)은 2.1조원을 기록했으며 거래대금 50억원 이상 종목 41개 중 19개만 올라 상승 종목 비율이 46%에 그쳤다. 대장주는 소폭 밀렸다. 비트코인은 8,473만원으로 24시간 전보다 0.5% 내렸으며, 이더리움은 240만원으로 0.2% 내렸다. 가장 많이 오른 종목은 업비트에 상장된 아이리스로, 31.3원까지 33.2% 뛰며 거래대금 1,090억원을 끌어모았다. 임파서블클라우드네트워크는 28.0%, 모멘텀은 18.0% 올랐다. 하락 쪽에서는 파로스가 19.6% 내렸고 파이버스는 16.2% 하락했다. 절대 거래대금 기준으로는 칼데라가 1,458억원으로... 더보기",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "11월 20일 오전 7시 30분 오늘 아침 국내 암호화폐 시장은 방향을 잡지 못했다. 24시간 거래대금(업비트·빗썸)은 2.1조원을 기록했으며 거래대금 50억원",
+    "thumbnail": "https://f1.tokenpost.kr/2026/11/comtz50awf.png",
+    "score": 2.8,
+    "engagement": 0,
+    "matched_keywords": [
+      "암호화폐"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "앤트로픽 선물 거래대금 95억달러…스페이스X의 2.4배",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/441141",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-11-19T22:28:34+00:00",
+    "raw_excerpt": "앤트로픽(Anthropic)의 미국 나스닥(Nasdaq) 상장을 앞둔 45일간 연계 무기한 선물의 누적 명목 거래대금이 95억달러(약 12조7000억원)로 집계됐다. 지난 6월 상장한 스페이스X(SpaceX)의 사전 거래대금 39억달러(약 5조2000억원)의 2.4배다. 글래스노드(Glassnode)는 19일 이 거래 규모가 자신들이 집계한 상장 전 파생상품 가운데 가장 컸다고 밝혔다. 거래는 글로벌 가상자산 거래소에서 이뤄졌고 앤트로픽의 예상 주가와 기업가치를 추종하는 계약이 대상이었다. 상장 전 무기한 선물은 증권거래소에 아직 상장되지 않은 기업의 예상 주가나 기업가치에 연동되는 파생상품이다. 투자자는 실제 주식을 보유하지 않고도 가격 상승과 하락에... 더보기",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "앤트로픽(Anthropic)의 미국 나스닥(Nasdaq) 상장을 앞둔 45일간 연계 무기한 선물의 누적 명목 거래대금이 95억달러(약 12조7000억원)로 집계됐",
+    "thumbnail": "https://f1.tokenpost.kr/2026/11/ye5ptpsh9l.jpg",
+    "score": 2.799,
+    "engagement": 0,
+    "matched_keywords": [
+      "가상자산"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "가상자산 시총 2조1500억달러…2조달러 지지선 접근",
+    "url": "https://www.tokenpost.kr/news/cryptocurrency/441136",
+    "source": "토큰포스트",
+    "source_type": "rss",
+    "published_at": "2026-11-19T22:08:54+00:00",
+    "raw_excerpt": "글로벌 가상자산 시가총액이 2조1500억달러(약 2864조원)까지 내려가며 9개월 박스권 하단인 2조달러(약 2664조원)에 접근했다. 이 구간은 비트코인(BTC) 약 6만달러(약 7992만원)에 해당한다. 단(Daan Crypto Trades) 가상자산 트레이더는 19일 X 게시물에서 “저점에서 지나친 비관, 고점에서 과도한 낙관을 경계해야 한다”고 말했다. 박스권 가장자리에서 심리가 한쪽으로 쏠리는 상황을 경계한 발언이다. 그는 전체 가상자산 시가총액이 최근 9개월간 2조~2조7000억달러(약 2664조~3596조원) 범위에서 움직였다고 분석했다. 트레이딩뷰(TradingView) 차트에서 19일 시가총액은 약 2조1500억달러(약 2864조원)로 표시됐다. 트레이딩뷰는... 더보기",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "글로벌 가상자산 시가총액이 2조1500억달러(약 2864조원)까지 내려가며 9개월 박스권 하단인 2조달러(약 2664조원)에 접근했다. 이 구간은 비트코인(BTC",
+    "thumbnail": "https://f1.tokenpost.kr/2026/11/ehds51gcev.jpg",
+    "score": 2.788,
+    "engagement": 0,
+    "matched_keywords": [
+      "가상자산"
+    ],
+    "source_weight": 0.8,
+    "region": "domestic",
+    "slot": "morning"
+  }
+]
