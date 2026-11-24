@@ -1,0 +1,637 @@
+[
+  {
+    "title": "Novartis CEO says AI will shave four years off drug development, not cure all disease",
+    "url": "https://the-decoder.com/novartis-ceo-says-ai-will-shave-four-years-off-drug-development-not-cure-all-disease/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-11-24T18:01:55+00:00",
+    "raw_excerpt": "Novartis CEO Vas Narasimhan, who also sits on Anthropic's board, is pushing back on the cure-all promises from Anthropic CEO Amodei and DeepMind founder Hassabis. AI will speed up drug development, he says, but it won't beat cancer in a decade. The real value lies \"somewhere in the middle.\" The article Novartis CEO says AI will shave four years off drug development, not cure all disease appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Novartis CEO Vas Narasimhan, who also sits on Anthropic's board, is pushing back on the cu",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/claude_novartis.png",
+    "score": 7.117,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "anthropic",
+      "deepmind"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents",
+    "url": "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-11-24T19:23:41+00:00",
+    "raw_excerpt": "Two years after launch, Anthropic reports more than 700 million monthly downloads for its MCP interface standard. New features such as background tasks, follow-up questions for users, and file uploads are meant to let Claude work more independently. The article Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Two years after launch, Anthropic reports more than 700 million monthly downloads for its",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/anthropic_claude_logo.png",
+    "score": 6.385,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+    "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-11-24T18:30:42+00:00",
+    "raw_excerpt": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305298275.jpg?w=594",
+    "score": 6.325,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
+    "url": "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/",
+    "source": "Latent Space (swyx)",
+    "source_type": "substack",
+    "published_at": "2026-11-24T04:14:16+00:00",
+    "raw_excerpt": "November 23, 2026 — Nvidia reinstates its founder, and OpenAI publishes its internal loss curve and proposes a shared training limit.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "November 23, 2026 — Nvidia reinstates its founder, and OpenAI publishes its internal loss",
+    "thumbnail": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/2d949515-988e-46e3-83cb-c3a9118cb699/Screenshot_2026-11-24_at_12.54.41b.png?t=1795525308",
+    "score": 6.315,
+    "engagement": 0,
+    "matched_keywords": [
+      "openai",
+      "nvidia"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Searching for distant planets with Astra",
+    "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-11-24T11:00:00+00:00",
+    "raw_excerpt": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in publi",
+    "thumbnail": "https://images.ctfassets.net/kftzwdyauwt9/318YLaAKlMKQFzOdMutjeX/8b6e4e516fd1a7894c97318838f43a0f/searching-for-distant-planets-with-astra-social.png?w=1600&h=900&fit=fill",
+    "score": 5.889,
+    "engagement": 0,
+    "matched_keywords": [
+      "codex"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "As Meta's Muse arrives in the UK, FCA issues agentic AI warning to tech firms",
+    "url": "https://www.finextra.com/newsarticle/48807/as-metas-muse-arrives-in-the-uk-fca-issues-agentic-ai-warning-to-tech-firms?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-11-24T19:48:00+00:00",
+    "raw_excerpt": "On the day that Meta's Muse launched in the UK, the Financial Conduct Authority has warned technology companies and social media platforms that AI agents offering money-related services could face regulatory scrutiny.",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "On the day that Meta's Muse launched in the UK, the Financial Conduct Authority has warned",
+    "thumbnail": "",
+    "score": 5.83,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic",
+      "agentic ai"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+    "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-11-24T21:32:38+00:00",
+    "raw_excerpt": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/11/muse-walmart.png?w=1200",
+    "score": 5.708,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai agent"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "[11월24일] AI 업계, 초지능 경고 넘어 개발 제한 방안까지…미국 규제에 영향 줄까",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217724",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-25T07:00:00+00:00",
+    "raw_excerpt": "메타의 최고AI책임자(CAIO)와 오픈AI 핵심 연구진이 잇달아 초지능의 위험성을 경고하며 개발 속도를 조절할 구체적인 방안까지 제시하고 있습니다. 단순한 위험 경고를 넘어 개발 제한 기준과 인간의 통제권을 유지할 방법을 제안하기 시작하면서, 미국 정치권의 AI 안전 규제 논의에도 영향을 미칠지 주목됩니다.올여름부터 다리오 아모데이 앤트로픽 CEO와 샘 알트먼 오픈AI CEO 등은 2027년이면 AI가 스스로 성능을 높이는 '재귀적 자기 개선(RSI)'을 통해 지능 폭발이 시작될 수 있다는 전망을 내놓으며 첨단 모델의 개발 속도 조",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "메타의 최고AI책임자(CAIO)와 오픈AI 핵심 연구진이 잇달아 초지능의 위험성을 경고하며 개발 속도를 조절할 구체적인 방안까지 제시하고 있습니다. 단순한 위험",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217724_222059_128.jpeg",
+    "score": 5.659,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai 안전",
+      "규제"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Anthropic turns Claude Artifacts into standalone desktop apps for macOS and Windows",
+    "url": "https://the-decoder.com/anthropic-turns-claude-artifacts-into-standalone-desktop-apps-for-macos-and-windows/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-11-24T20:42:29+00:00",
+    "raw_excerpt": "Anthropic now lets you install Claude Artifacts as desktop apps on Mac and Windows, and a free account is enough. You build one in chat without writing code, and it can add menu bar items, send notifications, and create transparent windows. The article Anthropic turns Claude Artifacts into standalone desktop apps for macOS and Windows appeared first on The Decoder .",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Anthropic now lets you install Claude Artifacts as desktop apps on Mac and Windows, and a",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/claude_neon.png",
+    "score": 5.651,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "I gave Gemini access to my Wallet, and it immediately started saving me money",
+    "url": "https://www.zdnet.com/innovation/gemini-wallet-personal-intelligence/",
+    "source": "ZDNet (Global, AI)",
+    "source_type": "rss",
+    "published_at": "2026-11-24T20:38:08+00:00",
+    "raw_excerpt": "Gemini gave me a little tough love and told me what I needed to hear about my finances.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Gemini gave me a little tough love and told me what I needed to hear about my finances.",
+    "thumbnail": "https://www.zdnet.com/wp-content/uploads/sites/3/GoogleWallet_72b775.jpg",
+    "score": 5.646,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "TAI #230: Claude Helps Prove the Riemann Hypothesis as Gemini 4 Neon Overtakes Carbon",
+    "url": "https://newsletter.towardsai.net/p/tai-230-claude-helps-prove-the-riemann",
+    "source": "Towards AI",
+    "source_type": "substack",
+    "published_at": "2026-11-24T16:02:07+00:00",
+    "raw_excerpt": "Also, Inkling 2 Mini, Jensen Returns, Anthropic IPO, and more.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Also, Inkling 2 Mini, Jensen Returns, Anthropic IPO, and more.",
+    "thumbnail": "https://substackcdn.com/image/fetch/$s_!_iUE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2bfb235-f2ef-45f4-87e2-3c0ddcf3d06e_1400x788.png",
+    "score": 5.595,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude",
+      "gemini"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "source_type": "rss",
+    "published_at": "2026-11-24T22:12:10+00:00",
+    "raw_excerpt": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and ev",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "score": 5.382,
+    "engagement": 0,
+    "matched_keywords": [
+      "regulation",
+      "crypto regulation"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "젠슨 황 복귀에 미 의회 초당적 반발…AI 칩 수출 규제 강화 요구",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217721",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-24T12:06:08+00:00",
+    "raw_excerpt": "젠슨 황 엔비디아 CEO의 복귀를 두고 미국 의회에서 공화당과 민주당 의원들의 초당적 반발이 이어지고 있다. 의원들은 중국의 첨단 AI 칩 접근을 차단하기 위한 수출 규제 강화를 요구하는 한편, 도널드 트럼프 대통령의 복귀 개입 경위와 엔비디아의 수출 통제 준수 여부도 조사해야 한다고 주장했다.로이터는 23일(현지시간) 톰 코튼 상원 정보위원장이 합법적으로 수출된 첨단 반도체가 제3자를 통해 중국으로 유입되는 것을 막기 위해 '칩 보안법(Chip Security Act)' 통과를 촉구했다고 보도했다.이 법안은 반도체 제조업체가 첨단",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "젠슨 황 엔비디아 CEO의 복귀를 두고 미국 의회에서 공화당과 민주당 의원들의 초당적 반발이 이어지고 있다. 의원들은 중국의 첨단 AI 칩 접근을 차단하기 위한",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217721_222058_5713.jpg",
+    "score": 5.286,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "규제",
+      "법안"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "HPE, 에이전틱 엔터프라이즈 시대 AI 인프라 전략 제시…네트워킹·컴퓨팅·하이브리드 클라우드 통합",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42873",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-11-24T18:41:17+00:00",
+    "raw_excerpt": "인공지능(AI) 에이전트가 기업의 업무 수행과 의사결정에 참여하는 에이전틱 엔터프라이즈(Agentic Enterprise) 시대를 맞아 휴렛팩커드 엔터프라이즈(Hewlett Packard Enterprise, HPE)가 컴퓨팅과 데이터, 네트워킹, 하이브리드 클라우드를 아우르는 통합 AI 인프라 전략을 제시했다.HPE는 24일 서울 삼성동 웨스틴 서울 파르나스에서 연례 기술 컨퍼런스 ‘HPE 디스커버 모어 서울 2026(HPE Discover More Seoul 2026)’을 개최했다. 이날 행사에는 산업계와 학계, 연구기관, 고객",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "인공지능(AI) 에이전트가 기업의 업무 수행과 의사결정에 참여하는 에이전틱 엔터프라이즈(Agentic Enterprise) 시대를 맞아 휴렛팩커드 엔터프라이즈(H",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202611/42873_64379_3818_v150.jpg",
+    "score": 5.208,
+    "engagement": 0,
+    "matched_keywords": [
+      "agentic",
+      "에이전트",
+      "에이전틱"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "German researchers call for computer science to reinvent itself as \"Computer and AI Science\"",
+    "url": "https://the-decoder.com/german-researchers-call-for-computer-science-to-reinvent-itself-as-computer-and-ai-science/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-11-24T12:30:49+00:00",
+    "raw_excerpt": "In a position paper, TU Darmstadt researchers call for redefining computer science as \"Computer and AI Science.\" Their biggest concern is code generated on the fly at runtime, which they say upends today's safety and correctness guarantees. The article German researchers call for computer science to reinvent itself as Computer and AI Science appeared first on The Decoder .",
+    "topic": "ai_native",
+    "topic_label": "🧬 AI Native",
+    "summary": "In a position paper, TU Darmstadt researchers call for redefining computer science as \"Com",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/darmstadt_ai_computer_science.png",
+    "score": 5.087,
+    "engagement": 0,
+    "matched_keywords": [
+      "reinvent"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "고객 서비스 AI 기업 시에라, 17.5억달러 투자 유치…기업가치 두 배로",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217747",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-24T15:55:00+00:00",
+    "raw_excerpt": "오픈AI 이사회 의장 브렛 테일러가 이끄는 고객 서비스 AI 에이전트 기업 시에라(Sierra)가 기업가치 300억달러(약 40조원)를 기준으로 17억5000만달러(약 2조3000억원) 규모의 투자 유치를 발표했다. 6개월 만에 기업가치가 두 배 수준으로 높아진 것으로, 고객 문의에 답하는 것을 넘어 실제 업무를 처리하는 AI 에이전트의 성장성을 인정받았다.시에라는 23일(현지시간) 공식 블로그를 통해 그리노크스와 라이트스피드 벤처 파트너스가 이번 시리즈F 투자를 주도한다고 밝혔다. 벤치마크와 세쿼이아 캐피털, GV, 타이거 글로벌",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "오픈AI 이사회 의장 브렛 테일러가 이끄는 고객 서비스 AI 에이전트 기업 시에라(Sierra)가 기업가치 300억달러(약 40조원)를 기준으로 17억5000만달",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217747_222101_5740.png",
+    "score": 4.842,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처",
+      "투자 유치"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Deel launches card that lets contractors spend stablecoin balance",
+    "url": "https://www.finextra.com/pressarticle/111773/deel-launches-card-that-lets-contractors-spend-stablecoin-balance?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-11-24T13:23:00+00:00",
+    "raw_excerpt": "Deel, the global payroll and HR platform trusted by 40,000+ businesses to hire, manage, and pay teams across 150+ countries, today launched a new Deel Card that lets contractors spend their DLUSD balance,",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Deel, the global payroll and HR platform trusted by 40,000+ businesses to hire, manage, an",
+    "thumbnail": "",
+    "score": 4.679,
+    "engagement": 0,
+    "matched_keywords": [
+      "stablecoin"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Heart attack and stroke risk detectable decades in advance",
+    "url": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-11-24T21:51:21+00:00",
+    "raw_excerpt": "Article URL: https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance Comments URL: https://news.ycombinator.com/item?id=50635271 Points: 10 # Comments: 0",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-",
+    "thumbnail": "https://www.ed.ac.uk/sites/default/files/2026-11/GettyImages-2155990256-FluxFactory.jpg",
+    "score": 4.167,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "An unclassified CIA system was breached in a cyberattack",
+    "url": "https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-11-24T21:24:27+00:00",
+    "raw_excerpt": "Article URL: https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77 Comments URL: https://news.ycombinator.com/item?id=50634933 Points: 39 # Comments: 9",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e",
+    "thumbnail": "",
+    "score": 4.144,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+    "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-11-24T21:02:22+00:00",
+    "raw_excerpt": "Article URL: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/ Comments URL: https://news.ycombinator.com/item?id=50634658 Points: 28 # Comments: 2",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-ca",
+    "thumbnail": "https://images.ctfassets.net/kftzwdyauwt9/Eg5mCwwaA3KqnznOVCh0n/8e6deaef25fd508d9853ff86a95187c1/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities-social.png?w=1600&h=900&fit=fill",
+    "score": 4.126,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+    "url": "https://news.ycombinator.com/item?id=50634426",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-11-24T20:44:15+00:00",
+    "raw_excerpt": "Hey HN, we’re Harshith, Param, and Vishnu and we're building Versine ( https://versine.com ). Versine lets you send and request money just by talking or texting with your AI (think Venmo with an MCP). We’re software engineers who have worked on distributed systems at Stripe, Databricks, and Amazon. Versine is an MCP that sits in front of a wallet with a balance. With it, your agent can do things like: - Send money to someone with your approval (via passkey in our app) - Send and request money to/from up to 100 people at once - Send money to people without a Versine account (they cash out to their bank in 2 mins) - Pay people without your explicit approval to trusted contacts (you can set thi",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Hey HN, we’re Harshith, Param, and Vishnu and we're building Versine ( https://versine.com",
+    "thumbnail": "",
+    "score": 4.111,
+    "engagement": 0,
+    "matched_keywords": [
+      "mcp"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "자기 몸무게만큼 짐 운반…90kg '괴력 휴머노이드'",
+    "url": "https://www.etnews.com/20261124000443",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-11-24T21:00:00+00:00",
+    "raw_excerpt": "자기 몸무게만큼 무거운 짐을 운반할 수 있다는 휴머노이드 로봇이 공개됐습니다. 미국 로봇기업 파운데이션 퓨처 인더스트리스는 지난 18일(현지시간) 2세대 휴머노이드 로봇 '팬텀 MKII'를 공개했습니다. 이 로봇은 키 약 183cm, 무게 약 88kg으로 최대 90kg의 짐을 운반할 수 있습니다. 한 번 충전하면 4~6시간 작동하도록 설계됐습니다. 방진·방수 등급 IP67을 갖춰 비와 먼지가 많은 환경에서도 작업할 수 있고, 고장 난 관절을 교",
+    "topic": "physical_ai",
+    "topic_label": "🦾 피지컬 AI (Physical AI)",
+    "summary": "자기 몸무게만큼 무거운 짐을 운반할 수 있다는 휴머노이드 로봇이 공개됐습니다. 미국 로봇기업 파운데이션 퓨처 인더스트리스는 지난 18일(현지시간) 2세대 휴머노이",
+    "thumbnail": "",
+    "score": 3.937,
+    "engagement": 0,
+    "matched_keywords": [
+      "휴머노이드",
+      "휴머노이드 로봇"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "네이버·두나무 합병, 설계도 다시 그려야 하나",
+    "url": "https://byline.network/2026/11/24_29182773-2/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-11-24T12:33:22+00:00",
+    "raw_excerpt": "금융당국이 가상자산 거래소 대주주 지분 보유 한도를 20%로 제한하는 방안을 추진하면서, 네이버파이낸셜과 두나무의 기업결합에 새 변수가 등장했다. 정부안대로 입법이 이뤄질 경우 양사가 포괄적 주식교환을 통해 구축하려던 지배구조를 재편해야 할 가능성이 생겼다.",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "금융당국이 가상자산 거래소 대주주 지분 보유 한도를 20%로 제한하는 방안을 추진하면서, 네이버파이낸셜과 두나무의 기업결합에 새 변수가 등장했다. 정부안대로 입법",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2025/11/naver_dunamu_1.jpg",
+    "score": 3.393,
+    "engagement": 0,
+    "matched_keywords": [
+      "가상자산"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "크라켄 페이워드, ‘비트코인 4% 캐시백’ 신용카드 전격 출시-더블록",
+    "url": "https://www.blockmedia.co.kr/archives/1170153?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-11-24T19:56:16+00:00",
+    "raw_excerpt": "[멕시코=심영재 특파원] 디지털자산(가상자산) 거래소 크라켄의 모회사 페이워드(Payward)가 비트코인(BTC) 캐시백과 스테이블코인 담보 기능을 결합한 신용카드를 출시한다. 디지털자산을 보유하면서 결제 혜택과 담보 자산에 대한 수익까지 얻을 수 있도록 설계한 상품으로 미국 신용카드 시장 공략에 나선다. 24일(현지시각) 더블록의 단독 보도에 따르면 페이워드의 금융 애플리케이션 크락(Krak)은 일반 신용카드와 담보형 신용카드 등 2종의 사전 신청 접수를 시작했다. 두 카드 모두 [...]",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[멕시코=심영재 특파원] 디지털자산(가상자산) 거래소 크라켄의 모회사 페이워드(Payward)가 비트코인(BTC) 캐시백과 스테이블코인 담보 기능을 결합한 신용카",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2025/10/kraken2.webp",
+    "score": 3.053,
+    "engagement": 0,
+    "matched_keywords": [
+      "가상자산"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "한투운용, 토스뱅크서 나스닥100·반도체 펀드 2종 단독 판매",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=50866",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-24T15:40:59+00:00",
+    "raw_excerpt": "[스마트타임스]한국투자신탁운용은 ‘한국투자미국나스닥100 펀드’와 ‘한국투자글로벌반도체탑픽 펀드(UH)’ 등 공모펀드 2종을 토스뱅크에서 단독 판매하고 있다고 24일 밝혔다.두 상품 모두 오후 5시 전에 환매를 신청하면 2영업일 만에 대금을 받을 수 있다. 오후 5시 이후 신청분은 3영업일 만에 지급된다.한국투자미국나스닥100 펀드는 미국 나스닥100 지수를 추종하는 환노출형 인덱스 펀드다. 나스닥100은 나스닥 상장 대형 비금융주로 구성되며 기술주 비중이 높다. 펀드 수익률에는 지수 움직임과 함께 환율 변동이 반영된다. 토스뱅크",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "[스마트타임스]한국투자신탁운용은 ‘한국투자미국나스닥100 펀드’와 ‘한국투자글로벌반도체탑픽 펀드(UH)’ 등 공모펀드 2종을 토스뱅크에서 단독 판매하고 있다고 2",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202611/50866_50115_4045_v150.jpg",
+    "score": 2.894,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "삼성전자 임원 승진 30명 줄었지만 반도체는 1명 늘어…HBM 설계·양산 주역 발탁",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=50865",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-24T15:36:29+00:00",
+    "raw_excerpt": "[스마트타임스]삼성전자가 2027년 정기 임원 인사에서 전체 승진 규모를 9년 만에 가장 작은 수준으로 줄이면서도 반도체 부문 승진자는 전년보다 늘렸다. 6세대 고대역폭메모리(HBM4) 설계와 양산을 이끈 인력을 나란히 부사장으로 발탁했고, 파운드리 공정 개선과 신규 고객 확보에 기여한 인재도 중용했다. 스마트폰과 가전을 담당하는 디바이스경험(DX) 부문에서는 로봇과 인공지능(AI) 분야 인력이 승진 명단에 올랐다.삼성전자는 부사장 39명과 상무 78명 등 총 131명을 승진 발령했다고 24일 밝혔다. 지난해 161명보다 30명(1",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "[스마트타임스]삼성전자가 2027년 정기 임원 인사에서 전체 승진 규모를 9년 만에 가장 작은 수준으로 줄이면서도 반도체 부문 승진자는 전년보다 늘렸다. 6세대",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202611/50865_50114_3540_v150.jpg",
+    "score": 2.891,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "[의료로봇 줌인] 피앤에스로보틱스, 전망 밑돈 성적표…'美 진출' 돌파구 될까",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=679531",
+    "source": "블로터",
+    "source_type": "rss",
+    "published_at": "2026-11-24T15:16:44+00:00",
+    "raw_excerpt": "피앤에스로보틱스가 상장 전 제시한 성장 전망과 달리 수익성 후퇴를 겪고 있다. 상장한 2024년과 이듬해 모두 실적이 예측에 못 미쳤고 올해는 적자로 돌아섰다.상장 당시 공모가 산정에는 신제품 출시와 판매 확대를 전제로 한 미래 이익이 반영됐다. 2026년 순이익 88억원을 예상해 기업가치를 산정했고 공모가는 희망범위를 웃도는 가격으로 확정됐다. 성장에 대한 기대감이 공모가의 근거로 쓰였지만 실제 성적은 이에 미달한 상태다.피앤에스로보틱스 측은 미국 진출이 늦어진 것을 실적 둔화의 배경으로 꼽았다. 내년 1월 미국 라스베이거스에서",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "피앤에스로보틱스가 상장 전 제시한 성장 전망과 달리 수익성 후퇴를 겪고 있다. 상장한 2024년과 이듬해 모두 실적이 예측에 못 미쳤고 올해는 적자로 돌아섰다.상",
+    "thumbnail": "https://cdn.bloter.net/news/thumbnail/202611/679531_294632_5324_v150.jpg",
+    "score": 2.879,
+    "engagement": 0,
+    "matched_keywords": [
+      "로보틱스"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "하나증권, 고액자산가 대상 ‘글로벌 자산관리 세미나’ 성료…부동산 전략 공유",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=50857",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-24T14:43:37+00:00",
+    "raw_excerpt": "[스마트타임스]하나증권이 고액자산가(VIP) 고객들의 해외 부동산 투자 수요에 발맞춰 글로벌 자산 배분 전략을 제시하는 자리를 마련했다.하나증권은 지난 23일 서울 강남구 역삼동에 위치한 프리미엄 자산관리 점포 ‘하나증권 THE 센터필드 W’에서 고액자산가 고객을 초청해 ‘글로벌 자산관리 세미나’를 성공적으로 마쳤다고 24일 밝혔다.세미나는 하나증권 패밀리오피스실의 ‘국내 상업용 부동산 시장 동향과 전망’ 강연으로 시작했다. 이어 각국의 글로벌 부동산 전문 파트너사들이 연사로 나서 국가별 맞춤형 전략을 심도 있게 다뤘다.구체적으로",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[스마트타임스]하나증권이 고액자산가(VIP) 고객들의 해외 부동산 투자 수요에 발맞춰 글로벌 자산 배분 전략을 제시하는 자리를 마련했다.하나증권은 지난 23일 서",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202611/50857_50108_4314_v150.jpg",
+    "score": 2.858,
+    "engagement": 0,
+    "matched_keywords": [
+      "패밀리오피스"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "[2026 민·관 R&D 혁신포럼]R&D 협의체 활동 유공자 10명 부총리 표창 수여",
+    "url": "https://www.etnews.com/20261124000137",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-11-24T07:00:00+00:00",
+    "raw_excerpt": "24일 열린 2026 민·관 연구개발(R D) 혁신포럼에서는 '산업별 민간 R D 협의체'에 참여해 산업계 목소리를 정부에 전달하며 R D 예산 배분에 기여한 유공자를 포상했다. 이들에게는 부총리 겸 과학기술정보통신부 장관 표창이 수여됐다. 수상자는 △장영찬 금호석유화학 전무(산업공정혁신분과) △백점인 한국전력공사 수석(CCUS분과) △최영헌 전 롯데케미칼 상무(신재생에너지분과) △안희학 삼홍아크튜리온 연구소장(차세대원자력분과) △심천만 DB하",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "24일 열린 2026 민·관 연구개발(R D) 혁신포럼에서는 '산업별 민간 R D 협의체'에 참여해 산업계 목소리를 정부에 전달하며 R D 예산 배분에 기여한 유",
+    "thumbnail": "https://img.etnews.com/news/article/2026/11/20/news-p.v1.20261120.5237c692b9f943e6b7d5f84f2a9d5672_P1.png",
+    "score": 2.853,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "ETRI 5대 자율비행 드론으로 실종자 수색 실증",
+    "url": "https://zdnet.co.kr/view/?no=20261124193906",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-11-24T10:39:06+00:00",
+    "raw_excerpt": "[지디넷코리아]한국전자통신연구원(ETRI)이 5대의 자율비행 드론으로 ‘골든타임 확보를 위한 실종자 수색 다수 드론 자율비행 실증’을 진행했다고 24일 밝혔다.실증은 지난 3일 대전 한밭수목원에서 경찰청 및 국방·드론 분야 전문가가 참석한 가운데 이루어졌다.이번 실증은 ETRI가 지난 2022년부터 5년간 개발해 온 실종자 수색 다수 자율비행 드론 시스템의 마지막 현장 실증이다. 연구진은 실제 실종자 수색 상황을 모사한 수목 환경에서 5대의 드론을 동시에 투입해 자율적으로 수색 임무를 수행하는 과정을 선보였다.자율수색 드론은 GPS 활용이 제한적인 숲속에서도 주변 장애물을 회피하며 자율비행한다. 드론에 적용된 동시 자기위치추정 및 지도작성(SLAM) 기술을 통해 자신의 위치를 추정하고, 주변 환경을 3차원으로 인식하면서 수색 임무를 수행한다.드론이 숲속을 비행하며 획득한 포인트 클라우드 정보와 전자광학(EO)·적외선(IR) 영상은 이동관제시스템에 실시간으로 전송된다. 이동관제시스템에서는 포인트 클라우드 정보로 수색 환경을 3차원으로 재구성하고, AI 기반 탐지 기술을 활용해 전송받은 영상에서 실종자와 유류품을 탐지, 현장 수색요원의 신속한 상황 판단을 지원한다.연구팀은 ▲SLAM 기반 자율비행 기술 ▲실시간 3D 공간 재구성·시각화 기술 ▲AI 기반 실종자·유류품 탐지 기술 ▲실종자 탐지 위치 및 사진을 포함한 임무 보고서 자동 생성",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "[지디넷코리아]한국전자통신연구원(ETRI)이 5대의 자율비행 드론으로 ‘골든타임 확보를 위한 실종자 수색 다수 드론 자율비행 실증’을 진행했다고 24일 밝혔다.실",
+    "thumbnail": "https://image.zdnet.co.kr/2026/11/24/a91a53feebc77d1ee4e6a7c4c97e9294.jpg",
+    "score": 2.705,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "AI 비서 '피클' 이용자 급증…네이버·카카오, 어디까지 문 열까",
+    "url": "https://zdnet.co.kr/view/?no=20261124161846",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-11-24T08:49:56+00:00",
+    "raw_excerpt": "[지디넷코리아]이용자를 대신해 검색부터 예약, 고객센터 문의까지 처리하는 AI 에이전트 서비스인 '피클'이 인기를 끌면서 국내 플랫폼 기업들의 고민도 깊어지고 있다. 외부 AI 에이전트가 이용자를 대신해 자사 서비스에 접근하는 것을 어디까지 허용할지가 새로운 과제로 주어져서다.특히 네이버와 카카오가 연내 자체 AI 에이전트 서비스 공개를 앞두고 있어 외부 AI 에이전트에 대한 서비스 개방 범위와 이용자 보호 정책에 관심이 쏠린다. AI 에이전트가 이용자와 플랫폼을 연결하는 새로운 접점으로 부상할 가능성이 있어서다.24일 아이지에이웍스 모바일인덱스에 따르면 지난 9일부터 15일까지 피클 앱 신규 설치 건수는 12만9394건으로 집계됐다. 이는 직전 주(11월 2~8일) 6만7583건 대비 2배가량 증가한 수치다. 이 같은 추세는 지속돼 이달 16일부터 22일까지의 신규 설치 건수는 13만9504건이다.이용자의 앱 방문도 이어지고 있다. 피클의 주간활성이용자수(WAU)는 같은 기간 28만6996명으로 조사됐다. 한 달 전인 지난달 26일부터 이달 1일까지(3만7886명)와 비교하면 7배 넘게 증가한 것이다.피클은 한국인 창업자들이 미국 실리콘밸리에서 세운 스타트업에서 만든 AI 에이전트로, 대화를 통해 이용자 대신 식당과 병원 등을 예약하고 기업 고객센터에 전화해 문의해주는 서비스다.국내에서 지난 10월 베타 서비스를 시작한 피클은 일반",
+    "topic": "personal_ai_agent",
+    "topic_label": "🧑‍💼 개인 AI 에이전트 · 금융비서",
+    "summary": "[지디넷코리아]이용자를 대신해 검색부터 예약, 고객센터 문의까지 처리하는 AI 에이전트 서비스인 '피클'이 인기를 끌면서 국내 플랫폼 기업들의 고민도 깊어지고 있",
+    "thumbnail": "https://image.zdnet.co.kr/2026/11/24/25dc7acb7222ed78589d24ff244c185b.png",
+    "score": 2.637,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai 비서"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  }
+]
