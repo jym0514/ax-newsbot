@@ -936,7 +936,10 @@
       "morning",
       "noon",
       "evening"
+    ],
+    "2026-11-24": [
+      "noon"
     ]
   },
-  "last_sent_date": "2026-11-23"
+  "last_sent_date": "2026-11-24"
 }
