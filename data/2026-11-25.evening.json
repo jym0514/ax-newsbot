@@ -1,0 +1,641 @@
+[
+  {
+    "title": "아무리 똑똑한 AI도 쉬운 문제에서 틀린다…구글 딥마인드, AI 신뢰성 평가 ‘인류의 첫 번째 시험’ 공개",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42886",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-11-25T12:22:26+00:00",
+    "raw_excerpt": "국제 수학·프로그래밍 경시대회에서 최고 수준의 성능을 발휘하고 복잡한 과학적 난제까지 해결하는 인공지능(AI)이 정작 사람이 쉽게 풀 수 있는 일상적인 문제에서는 오류를 반복하는 것으로 나타났다. AI 모델의 높은 지적 능력이 실제 업무 수행의 신뢰성을 보장하지 않는다는 연구 결과다.구글 딥마인드(Google DeepMind)는 24일(현지시간) 대형언어모델(LLM)이 일상적인 기초 문제를 얼마나 일관되고 정확하게 해결할 수 있는지 측정하는 새로운 벤치마크 ‘인류의 첫 번째 시험(Humanity’s First Exam, HFE)’을",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "국제 수학·프로그래밍 경시대회에서 최고 수준의 성능을 발휘하고 복잡한 과학적 난제까지 해결하는 인공지능(AI)이 정작 사람이 쉽게 풀 수 있는 일상적인 문제에서는",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202611/42886_64395_2158_v150.jpg",
+    "score": 10.151,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "llm",
+      "deepmind",
+      "딥마인드"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "트럼프가 젠슨 황을 복귀시킨 이유…\"미국 오픈웨이트 AI 수호자\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217764",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-25T13:14:35+00:00",
+    "raw_excerpt": "도널드 트럼프 미국 대통령과 JD 밴스 부통령이 젠슨 황 엔비디아 CEO의 복귀를 적극적으로 추진한 주요 이유 중 하나는 미국의 오픈웨이트 AI 경쟁력을 지키기 위한 것이었던 것으로 알려졌다. 중국 기업들이 오픈웨이트 AI 시장을 주도하는 상황에서 황 CEO가 미국의 독자적인 생태계를 구축하는 데 핵심적인 역할을 한다고 판단했다는 것이다.로이터는 23일(현지시간) 소식통을 인용, 트럼프 대통령과 밴스 부통령이 황 CEO를 미국산 오픈웨이트 AI 모델의 생태계를 지켜줄 핵심 인물로 판단하고 엔비디아 이사회의 복귀 결정에 직접 개입했다",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "도널드 트럼프 미국 대통령과 JD 밴스 부통령이 젠슨 황 엔비디아 CEO의 복귀를 적극적으로 추진한 주요 이유 중 하나는 미국의 오픈웨이트 AI 경쟁력을 지키기",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217764_222120_048.png",
+    "score": 9.118,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "엔비디아",
+      "ai 시장"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "오픈AI·시스코, AI로 리눅스 공격 막는 보안 기술 '시루도' 공개",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217766",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-25T17:28:30+00:00",
+    "raw_excerpt": "오픈AI와 시스코가 AI 에이전트를 활용해 사이버 공격을 차단하는 리눅스 보안 기술을 공동 개발했다. AI가 취약점 악용을 막는 임시 방어 코드를 생성하고 검증하는 방식으로, 정식 보안 패치를 적용하기 전까지 서비스 중단 없이 시스템을 보호할 수 있도록 설계했다.오픈AI와 시스코는 23일(현지시간) 리눅스 시스템을 보호하는 오픈소스 보안 기술 '시루도(Shirudo)'를 공개했다. 시루도는 방패(Shield)를 뜻하는 일본어에서 따온 이름이다.보안 취약점이 발견되더라도 정식 패치를 개발하고 테스트해 실제 시스템에 적용하기까지는 며칠",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "오픈AI와 시스코가 AI 에이전트를 활용해 사이버 공격을 차단하는 리눅스 보안 기술을 공동 개발했다. AI가 취약점 악용을 막는 임시 방어 코드를 생성하고 검증하",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217766_222126_565.png",
+    "score": 8.487,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "오픈AI 도청 혐의 전직 엔지니어, 보석금 13억원에 석방 예정",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217762",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-25T15:45:17+00:00",
+    "raw_excerpt": "오픈AI 사무실 회의실에 도청 장치를 설치한 혐의로 기소된 전직 엔지니어가 100만달러(약 13억원)의 보석 조건으로 석방될 예정이다. 법원은 검찰이 산업 스파이 행위나 영업비밀 탈취를 뒷받침할 구체적인 증거를 제시하지 못했다고 지적하면서 전자발찌 착용 등 엄격한 석방 조건을 부과했다.월스트리트저널(WSJ)은 24일(현지시간) 미국 연방 치안판사 알렉스 G. 체가 압둘라흐만 알포잔의 보석 석방을 허가했다고 보도했다.100만달러의 보석금 가운데 50만달러는 알포잔이 부담하고 지인 3명이 보증을 서기로 했다.알포잔은 25일 오전 캘리포",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "오픈AI 사무실 회의실에 도청 장치를 설치한 혐의로 기소된 전직 엔지니어가 100만달러(약 13억원)의 보석 조건으로 석방될 예정이다. 법원은 검찰이 산업 스파이",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217762_222119_4846.jpg",
+    "score": 8.347,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "MS, 대규모 시스템 장애에 '코드 레드' 발령…1시간 내 복구 목표",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217761",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-25T12:47:58+00:00",
+    "raw_excerpt": "마이크로소프트(MS)가 지난 12~13일 발생한 대규모 시스템 장애를 계기로 최고 수준의 비상 대응 조치인 '코드 레드(Code Red)'를 발령했다. 전 세계 서비스 장애를 1시간 이내에 해결하는 것을 목표로 운영 체계를 개편하고, 장애 원인 진단에 AI 에이전트를 도입하기로 했다.24일(현지시간) 로이터가 입수한 내부 메모에 따르면, 제이슨 헨더슨 MS 365 코어 부문 사장은 이번 사고를 클라우드 이메일 서비스 '익스체인지 온라인' 역사상 고객 피해가 가장 컸던 장애로 평가했다.그는 \"이처럼 많은 고객이 이렇게 오랫동안 이메일",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "마이크로소프트(MS)가 지난 12~13일 발생한 대규모 시스템 장애를 계기로 최고 수준의 비상 대응 조치인 '코드 레드(Code Red)'를 발령했다. 전 세계",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217761_222118_4646.png",
+    "score": 8.107,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "MS, 자체 강화학습 인프라 '로켓' 공개…\"외부 모델 증류 없이 성능 향상\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217783",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-25T17:19:15+00:00",
+    "raw_excerpt": "마이크로소프트(MS)가 경쟁사 AI 모델에서 지식을 전달받는 '증류' 없이 자체 모델의 추론 능력을 높이는 데 나섰다. 수천개의 GPU를 수개월간 안정적으로 운영할 수 있는 강화학습 인프라를 구축, 자체 모델의 성능을 지속적으로 끌어올리고 있다고 밝혔다MS는 23일(현지시간) 자체 강화학습 프레임워크 '로켓(Rocket)'의 기술 보고서를 공개했다.MS의 AI 연구 조직인 MAI는 현재 로켓을 활용해 3조개 매개변수 규모의 자체 모델 'MAI 베이스 2(Base 2)'의 후속 학습을 진행하고 있다.일반적으로 성능이 뛰어난 외부 모델",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "마이크로소프트(MS)가 경쟁사 AI 모델에서 지식을 전달받는 '증류' 없이 자체 모델의 추론 능력을 높이는 데 나섰다. 수천개의 GPU를 수개월간 안정적으로 운영",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217783_222143_4827.jpg",
+    "score": 7.499,
+    "engagement": 0,
+    "matched_keywords": [
+      "gpu"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "오픈클로, 실생활 AI 에이전트 평가 '셸벤치' 공개…최고 모델도 성공률 62.5%",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217773",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-25T16:16:09+00:00",
+    "raw_excerpt": "AI 에이전트가 일상 업무를 자율적으로 처리하는 데 여전히 상당한 한계가 있다는 평가 결과가 나왔다. 최고 성능 모델조차 과제 성공률이 62.5%에 그쳤으며, 같은 작업을 세 차례 수행해 모두 성공한 비율은 절반에도 못 미쳤다.오픈클로 재단은 24일(현지시간) 실제 AI 에이전트 사용 기록 1000만건 이상에서 추출한 업무 유형을 바탕으로 일상 업무 수행 능력을 측정하는 벤치마크 '셸벤치(ShellBench)'를 공개했다.셸벤치는 오픈클로 재단이 파스웨이브(Parsewave), 허깅페이스, 레드햇, UC버클리 연구진 등과 공동 개발",
+    "topic": "personal_ai_agent",
+    "topic_label": "🧑‍💼 개인 AI 에이전트 · 금융비서",
+    "summary": "AI 에이전트가 일상 업무를 자율적으로 처리하는 데 여전히 상당한 한계가 있다는 평가 결과가 나왔다. 최고 성능 모델조차 과제 성공률이 62.5%에 그쳤으며, 같",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217773_222131_2955.png",
+    "score": 7.414,
+    "engagement": 0,
+    "matched_keywords": [
+      "오픈클로"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "앤트로픽 \"AI 도입 기업, 직원 해고보다 신규 채용 줄여\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217775",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-25T16:02:19+00:00",
+    "raw_excerpt": "기업들이 AI를 도입하면서 기존 직원을 대규모로 해고하기보다는 신규 채용과 외주 인력을 줄이는 방식으로 인력 수요를 조정하고 있는 것으로 나타났다. 앤트로픽이 미국 기업 58곳을 조사한 결과, AI 자동화로 기존 직원을 해고한 기업은 2곳에 불과했지만 약 3분의 2는 신규 채용을 줄였다고 답했다.앤트로픽은 23일(현지시간) 미국 기업 58곳의 경영진과 관리자, 실무자를 대상으로 진행한 66건의 인터뷰를 바탕으로 AI 도입이 업무와 고용에 미치는 영향을 분석한 보고서를 공개했다. 제조업과 기술 기업부터 법률·금융·의료 분야까지 약 3",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "기업들이 AI를 도입하면서 기존 직원을 대규모로 해고하기보다는 신규 채용과 외주 인력을 줄이는 방식으로 인력 수요를 조정하고 있는 것으로 나타났다. 앤트로픽이 미",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217775_222136_012.png",
+    "score": 7.395,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai 도입"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[ZD SW 투데이] 포스코DX, 직원이 만든 AI 현장 투입 속도",
+    "url": "https://zdnet.co.kr/view/?no=20261125141142",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-11-25T07:56:15+00:00",
+    "raw_excerpt": "[지디넷코리아]지디넷코리아가 소프트웨어(SW) 업계의 다양한 소식을 한 눈에 볼 수 있는 'ZD SW 투데이'를 새롭게 마련했습니다. SW뿐 아니라 클라우드, 보안, 인공지능(AI) 등 여러 분야에서 활발히 활동하고 있는 기업들의 소식을 담은 만큼 좀 더 쉽고 편하게 이슈를 확인해 보시기 바랍니다. [편집자주]◆포스코DX, AX 해커톤 개최…우수 아이디어 사업화 추진포스코DX가 지난 24일 판교사옥에서 'AX 해커톤 시즌 2'를 개최했다. 이번 행사에는 직원 154명으로 구성된 68개 팀이 참가했으며 최종 결선에 오른 5개 팀이 인공지능(AI) 기반 업무 자동화와 생산성 향상 서비스를 시연했다. 대상은 PLC 리버스 엔지니어링 자동화 플랫폼을 개발한 팀이 차지했다.포스코DX는 상반기 열린 시즌 1 수상작도 실제 업무에 적용하거나 실증하고 있다. 직원이 개발한 시스템 자원관리 AI 에이전트 '도비'와 배터리·소재 정보 공유 플랫폼 등이 대표 사례다. 회사는 이번 수상작도 추가 개발을 거쳐 현업에 적용하고 외부 고객 대상 사업화 가능성을 검토할 계획이다.◆일레븐랩스, AI 단편영화 '더 시그널' 제작 지원일레븐랩스가 AI 단편영화 프로젝트 '더 콜라보레이션 2026'에 기술 파트너로 참여했다. 일레븐랩스는 안상훈 감독과 박현신 AI 감독팀이 제작한 단편영화 '더 시그널'에 AI 오디오 제작 도구를 제공했다.이번 프로젝트에는 영화감독 7명",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "[지디넷코리아]지디넷코리아가 소프트웨어(SW) 업계의 다양한 소식을 한 눈에 볼 수 있는 'ZD SW 투데이'를 새롭게 마련했습니다. SW뿐 아니라 클라우드, 보",
+    "thumbnail": "https://image.zdnet.co.kr/2026/11/25/cd41f7eb39afd7448be5c7b71626b8de.png",
+    "score": 6.689,
+    "engagement": 0,
+    "matched_keywords": [
+      "업무 자동화",
+      "생산성",
+      "현장",
+      "ax"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "화웨이, 美 재판 9가지 범죄 유형에 유죄 평결…조직범죄 공모는 무죄, \"미중 AI·반도체 기술 패권 경쟁에 미칠 영향 주목\"",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42887",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-11-25T13:20:07+00:00",
+    "raw_excerpt": "중국의 글로벌 정보통신기술(ICT) 기업 화웨이(Huawei)가 약 8년간 이어진 미국 정부와의 형사소송에서 영업비밀 탈취 공모, 은행사기, 경제제재 위반 등에 대해 유죄 평결을 받았다. 그러나 미국 검찰이 화웨이의 조직적 범죄 활동을 입증하기 위해 적용한 조직범죄 공모 혐의와 사법방해 공모 혐의에 대해서는 무죄 평결을 받았다.미국 뉴욕 동부연방지방법원(United States District Court for the Eastern District of New York) 배심원단은 24일(현지시간) 화웨이와 중국 자회사 화웨이 디바",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "중국의 글로벌 정보통신기술(ICT) 기업 화웨이(Huawei)가 약 8년간 이어진 미국 정부와의 형사소송에서 영업비밀 탈취 공모, 은행사기, 경제제재 위반 등에",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202611/42887_64398_914_v150.jpg",
+    "score": 6.623,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "포티넷 “AI 시대 보안, 탐지부터 판단·대응까지 통합해야”",
+    "url": "https://byline.network/2026/11/25-611/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-11-25T08:57:36+00:00",
+    "raw_excerpt": "인공지능(AI)은 사이버보안 문제를 해결하는 수단인 동시에 새로운 보안 문제를 만드는 기술이기도 하다. 공격자들은 AI를 활용해 취약점을 찾고 악성코드를 개발하는 시간을 줄이고 있다. 기업이 업무에 사용하는 AI 모델과 에이전트 자체도 공격 대상이 됐다. 여기에 기업이 여러 보안 제품에 개별적으로 AI를 도입하면서 보안 정책과 데이터 관리까지 복잡해지고 있다.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "인공지능(AI)은 사이버보안 문제를 해결하는 수단인 동시에 새로운 보안 문제를 만드는 기술이기도 하다. 공격자들은 AI를 활용해 취약점을 찾고 악성코드를 개발하는",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/11/FORTINET12345.jpg",
+    "score": 6.596,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "취약점"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "바이브컴퍼니·아이지에이웍스, MCP 기반 소비 트렌드 분석…클로드 국내 결제액 13배 증가",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42885",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-11-25T11:58:39+00:00",
+    "raw_excerpt": "바이브컴퍼니가 아이지에이웍스와 협력해 인공지능(AI) 기반 소비 트렌드 분석 보고서 ‘트렌드 크로스 2026(TREND CROSS 2026)’을 25일 공개했다.양사는 모델 컨텍스트 프로토콜(MCP)을 활용해 550억 건 이상의 소셜 데이터를 분석하는 ‘썸트렌드’와 3400만 고객의 앱 이용 행태 및 하루 평균 6000억원 규모의 카드 결제 동향을 파악하는 ‘모바일인덱스’를 AI 환경에 연결했다. 소비자의 관심사와 실제 구매 행동을 교차 분석하는 방식이다.보고서에 따르면 앤트로픽(Anthropic)의 생성형 AI ‘클로드(Claud",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "바이브컴퍼니가 아이지에이웍스와 협력해 인공지능(AI) 기반 소비 트렌드 분석 보고서 ‘트렌드 크로스 2026(TREND CROSS 2026)’을 25일 공개했다.",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202611/42885_64394_5833_v150.jpg",
+    "score": 6.522,
+    "engagement": 0,
+    "matched_keywords": [
+      "mcp"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[한국의 CISO-권력지도] ‘징계 요청권까지’…김병윤 SK스퀘어 담당, 보안 의사결정 중추",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=679648",
+    "source": "블로터",
+    "source_type": "rss",
+    "published_at": "2026-11-25T14:33:11+00:00",
+    "raw_excerpt": "급변하는 사이버 위협 속에서 기업 생존의 핵심 방어선으로 최고정보보호책임자(CISO)의 역할과 전략이 그 어느 때보다 중요해졌습니다. 는 대한민국 대표 기업들의 보안 역량과 현주소를 다각도로 입체 분석하는 기획 시리즈 '한국의 CISO'를 연재합니다. 첫 순서인 '권력지도' 편에서는 과기정통부·KISA와 금융보안원의 가이드라인을 준용해 △보고체계 △거버넌스 △사고대응 △자원확보 등 4대 부문·10개 지표를 10점 만점으로 산출했으며 2026년 정보보호 공시와 지속가능경영보고서 등 공식 데이터를 기준으로 CISO의 실질적 위",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "급변하는 사이버 위협 속에서 기업 생존의 핵심 방어선으로 최고정보보호책임자(CISO)의 역할과 전략이 그 어느 때보다 중요해졌습니다. 는 대한민국 대표 기업들의",
+    "thumbnail": "https://cdn.bloter.net/news/thumbnail/202611/679648_294763_2037_v150.jpg",
+    "score": 6.386,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "거버넌스",
+      "가이드라인"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "신용정보원, 금융권 AX 지원…7개 솔루션 공개",
+    "url": "https://www.fnnews.com/news/202611251554225349",
+    "source": "파이낸셜뉴스 금융",
+    "source_type": "rss",
+    "published_at": "2026-11-25T07:13:46+00:00",
+    "raw_excerpt": "[파이낸셜뉴스] 한국신용정보원이 금융산업의 인공지능 전환(AX)을 지원하기 위한 7가지 인공지능(AI) 모델과 솔루션을 소개했다. 25일 금융권에 따르면 신용정보원은 이날 서울 양재 aT센터에서 열린 국내 최대 글로벌 핀테크 축제 '코리아 핀테크 위크 2026'에서 '금융산업의 디지털 전환을 위한 AI 솔루션'을 주제로 세미나를 개최했다. 신용정보원은 이날 자체 개발·운영 중인 7가지 AI 모델·솔루션을 선보이고 금융 현장에서의 구체적인 활용 방안을 공유했다. 유수영 신용정보원장은 환영사에서 \"AI로 무엇을 할 수 있는가가 아니라, 누가 무엇을 필요로 하는가를 먼저 물어야 한다\"며 \"아무리 뛰어난 AI도 실제 이용자의 필요를 충족할 때 비로소 좋은 서비스가 된다. 믿고 쓸 수 있는 데이터와 거버넌스가 갖춰져야 AI는 실험을 넘",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "[파이낸셜뉴스] 한국신용정보원이 금융산업의 인공지능 전환(AX)을 지원하기 위한 7가지 인공지능(AI) 모델과 솔루션을 소개했다. 25일 금융권에 따르면 신용정보",
+    "thumbnail": "https://image.fnnews.com/resource/media/image/2026/11/25/202611251557511269_e.jpg",
+    "score": 5.974,
+    "engagement": 0,
+    "matched_keywords": [
+      "디지털 전환",
+      "현장",
+      "ax"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[단독] 네이버·신한·우리·NH농협·삼성카드, 원화 스테이블코인 맞손",
+    "url": "https://byline.network/2026/11/1125-5/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-11-25T07:31:09+00:00",
+    "raw_excerpt": "네이버페이 운영사 네이버파이낸셜이 신한은행·우리은행·NH농협은행·삼성카드 등 주요 금융사와 원화 스테이블코인 발행을 위한 협력체를 구성했다. 이들 금융사는 서울 강남구에 별도 사무실을 마련하고 원화 스테이블코인 발행 및 사업 모델 등을 연구하고 있는 것으로 파악됐다.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "네이버페이 운영사 네이버파이낸셜이 신한은행·우리은행·NH농협은행·삼성카드 등 주요 금융사와 원화 스테이블코인 발행을 위한 협력체를 구성했다. 이들 금융사는 서울",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/11/1125.jpg",
+    "score": 5.672,
+    "engagement": 0,
+    "matched_keywords": [
+      "스테이블코인"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "미국, 알리바바 계열사도 블랙리스트 등재…알리바바 \"법적 대응\"",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217730",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-24T16:03:58+00:00",
+    "raw_excerpt": "미국 정부가 메가스피드와 함께 중국 알리바바의 싱가포르 자회사를 수출 통제 블랙리스트에 올렸다. 알리바바는 해당 자회사가 미국의 AI 칩 수출 규제를 위반한 적이 없다며 법적 대응에 나서겠다고 밝혔다.미국 상무부 산업안보국(BIS)은 23일(현지시간) 연방관보 공고를 통해 알리바바의 싱가포르 자회사 에이펙스 엔터프라이즈 솔루션(Apex Enterprise Solutions)과 메가스피드 등 동남아시아 소재 7개 기업을 수출 통제 명단(Entity List)에 추가했다.상무부는 이들 기업이 첨단 컴퓨팅 제품을 허가받지 않은 최종 사용",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "미국 정부가 메가스피드와 함께 중국 알리바바의 싱가포르 자회사를 수출 통제 블랙리스트에 올렸다. 알리바바는 해당 자회사가 미국의 AI 칩 수출 규제를 위반한 적이",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217730_222072_1616.jpg",
+    "score": 5.447,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "월러 연준 이사 “토큰화 자산, ‘좀비체인’에 갇힐 수도”…법적 안전장치 촉구",
+    "url": "https://www.blockmedia.co.kr/archives/1170275?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-11-25T08:03:19+00:00",
+    "raw_excerpt": "미국 연방준비제도(Fed·연준)의 크리스토퍼 월러 이사가 주식과 채권 등 실물자산의 토큰화가 빠르게 진행되는 가운데 기반 블록체인이 사실상 기능을 상실할 경우 자산 소유권을 보호하기 어려울 수 있다고 경고했다. 기관투자자의 본격적인 시장 참여를 위해서는 기술 혁신뿐 아니라 소유권과 자산 보관, 사고 발생 시 책임 소재 등을 규율하는 법적 체계가 마련돼야 한다는 지적이다. 24일(현지시각) 로이터와 크립토브리핑 등 주요 외신에 [...]",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "미국 연방준비제도(Fed·연준)의 크리스토퍼 월러 이사가 주식과 채권 등 실물자산의 토큰화가 빠르게 진행되는 가운데 기반 블록체인이 사실상 기능을 상실할 경우 자",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2025/08/크리스토퍼_윌러_연준_이사_2.jpg",
+    "score": 5.346,
+    "engagement": 0,
+    "matched_keywords": [
+      "블록체인",
+      "토큰화"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "Gemini가 ‘반짝반짝 작은 별’ 가사를 알려 달라는 요청을 거부함",
+    "url": "https://news.hada.io/topic?id=37827&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-11-25T08:37:36+00:00",
+    "raw_excerpt": "한 이용자가 Gemini 에 ‘반짝반짝 작은 별(Twinkle Twinkle Little Star)’ 가사를 요청했으나 제공을 거부당함 두 차례 시도 모두 같은 반응이 나타남 처음부터 거절한 것이 아니라 가사를 출력하기 시작 함 이후 출력을 멈추고 이미 출력한 내용을 철회 함 가사 대신 다른 메시지를 내보냈지만, 제공된 본문에는 메시지의 실제 문구 가 없음 두 차례 반복된 출력 중단 이용자의 경험에 따르면 Gemini는 두 번 모두 가사를 출력하기 시작했다가 중단하고, 출력 내용을 철회 한 뒤 다른 메시지를 표시함 표시된 메시지의 실제 문구가 본문에 …",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "한 이용자가 Gemini 에 ‘반짝반짝 작은 별(Twinkle Twinkle Little Star)’ 가사를 요청했으나 제공을 거부당함 두 차례 시도 모두 같은",
+    "thumbnail": "https://social.news.hada.io/topic/37827/p072aba2d3b7a385e6e18d5b0e1bd184",
+    "score": 5.225,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "벤츠 코리아, '일렉트릭 GLB' 국내 첫 공개…연말 EQS로 신차 11종 완수",
+    "url": "https://www.etnews.com/20261125000145",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-11-25T08:00:00+00:00",
+    "raw_excerpt": "메르세데스-벤츠 코리아가 차세대 전기 스포츠유틸리티차(SUV) '디 올-뉴 일렉트릭 벤츠 GLB'를 국내에 처음 공개하고, 연말 부분변경 모델 '더 뉴 EQS' 출시를 끝으로 올해 총 11종 신차 라인업을 완성한다. 지난달 성수에서 선보인 '디 올-뉴 일렉트릭 CLA'와 '디 올-뉴 일렉트릭 GLC'에 이어 전동화 핵심 신차를 전면에 배치하며 국내 전기차 시장 공략에 속도를 내는 모습이다. 쉬린 에미라 메르세데스-벤츠 코리아 CEO는 24일 제",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "메르세데스-벤츠 코리아가 차세대 전기 스포츠유틸리티차(SUV) '디 올-뉴 일렉트릭 벤츠 GLB'를 국내에 처음 공개하고, 연말 부분변경 모델 '더 뉴 EQS'",
+    "thumbnail": "https://img.etnews.com/news/article/2026/11/25/news-p.v1.20261125.24dc61b728634cc49de797088c2ac549_P1.jpg",
+    "score": 5.186,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "샌드박스에 격리된 모델도 추론 서버를 통해 통신할 수 있음",
+    "url": "https://news.hada.io/topic?id=37824&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-11-25T07:34:06+00:00",
+    "raw_excerpt": "같은 추론 서버를 쓰는 에이전트는 직접 메시지를 보내거나 파일시스템을 공유하지 않아도 부채널(side channel) 로 정보를 교환할 수 있음 Step Sizing 과 KV Cache Message Board 는 배치 크기에 따른 GPU 커널 선택과 미세한 반올림 차이를 이용해 신호를 전달함 Qwen3-8B 판독기를 미세조정한 8색 맞히기 실험에서 1,221회 모두 성공 했으며, 프로토콜과 보조 수단을 제공하면 일부 고성능 모델은 미세조정 없이도 신호를 해독함 공모하는 정책 모델과 감시 모델의 실험에서는 부채널 신호가 붙은 공격 354건을 모두 통과 시키면서도 함정 …",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "같은 추론 서버를 쓰는 에이전트는 직접 메시지를 보내거나 파일시스템을 공유하지 않아도 부채널(side channel) 로 정보를 교환할 수 있음 Step Sizi",
+    "thumbnail": "https://social.news.hada.io/topic/37824/p074ed8dfb5aa2dd8c7d290be8a4cadb",
+    "score": 5.159,
+    "engagement": 0,
+    "matched_keywords": [
+      "gpu"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "\"성공하자 지분 내놓으라니\"…가상자산거래소 '대주주 20% 족쇄' 논란",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=50911",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-25T16:28:56+00:00",
+    "raw_excerpt": "[스마트타임스]정부가 국내 가상자산거래소 대주주의 지분율을 원칙적으로 20% 이하로 제한하는 입법을 추진하면서 민간 기업의 재산권과 경영권 침해를 둘러싼 논란이 격화하고 있다. 민간 자본의 위험 감수로 성장한 산업에 사후적으로 강도 높은 소유 분산 규제를 들이대는 것이 적절하냐는 지적이다.금융위원회는 지난 24일 이 같은 내용을 골자로 한 '디지털자산업의 혁신과 이용자 보호에 관한 법률' 제정안을 발표했다.제정안에 따르면 가상자산거래소 주주는 원칙적으로 전체 지분의 20%까지만 보유할 수 있으며 금융위의 별도 승인을 받은 경우에 한",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[스마트타임스]정부가 국내 가상자산거래소 대주주의 지분율을 원칙적으로 20% 이하로 제한하는 입법을 추진하면서 민간 기업의 재산권과 경영권 침해를 둘러싼 논란이",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202611/50911_50166_2818_v150.jpg",
+    "score": 5.145,
+    "engagement": 0,
+    "matched_keywords": [
+      "가상자산"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "씨티, '토큰 서비스'로 삼성물산 해외 자금 24시간 관리",
+    "url": "https://www.fnnews.com/news/202611251118094832",
+    "source": "파이낸셜뉴스 금융",
+    "source_type": "rss",
+    "published_at": "2026-11-25T04:15:25+00:00",
+    "raw_excerpt": "[파이낸셜뉴스] 씨티그룹이 블록체인 기술을 활용해 삼성물산의 글로벌 자금관리를 지원한다. 시차와 공휴일에 관계없이 실시간 자금 이체가 가능한 서비스를 통해 기업의 자금 운용 효율성을 높인다는 방침이다. 25일 금융권에 따르면 삼성물산 상사부문은 씨티의 블록체인 기반 결제 및 자금관리 솔루션인 '씨티 토큰 서비스(Citi Token Services·CTS)'를 도입해 활용하고 있다. 씨티 토큰 서비스는 기업 고객을 대상으로 365일 24시간 실시간 유동성 확보와 자동화된 자금관리를 지원하는 디지털 자산 솔루션이다. 씨티는 규제 및 보안 기준을 충족하는 은행 시스템 내에서 토큰화된 예금을 연중무휴로 이동할 수 있도록 지원한다. 기존 금융거래의 마감 시간과 지리적 제약을 해소해 기업이 즉각적으로 유동성을 확보하고 실시간으로 결제할 수 있도록",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[파이낸셜뉴스] 씨티그룹이 블록체인 기술을 활용해 삼성물산의 글로벌 자금관리를 지원한다. 시차와 공휴일에 관계없이 실시간 자금 이체가 가능한 서비스를 통해 기업의",
+    "thumbnail": "https://image.fnnews.com/resource/media/image/2026/11/13/202611131626012659_e.jpg",
+    "score": 5.132,
+    "engagement": 0,
+    "matched_keywords": [
+      "블록체인",
+      "토큰화"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "삼성D, ams 오스람 지분 9.1% 인수…차세대 마이크로 LED 승부수",
+    "url": "https://www.etnews.com/20261125000449",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-11-25T06:36:38+00:00",
+    "raw_excerpt": "삼성디스플레이가 오스트리아 발광다이오드(LED) 기업인 ams 오스람 최대주주에 오르며 차세대 디스플레이 핵심 기술인 '마이크로 발광다이오드(LED)' 개발에 속도를 낸다. 삼성디스플레이는 약 2억1000만유로(약 3085억원)를 투자해 ams 오스람이 신규 발행하는 주식 998만4439주(지분율 9.1%)를 취득하는 계약을 체결했다고 25일 밝혔다. 관련 기관의 심의와 승인 절차를 거쳐 내년 초 지분 인수가 마무리될 예정이다. 이번 인수로 삼",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "삼성디스플레이가 오스트리아 발광다이오드(LED) 기업인 ams 오스람 최대주주에 오르며 차세대 디스플레이 핵심 기술인 '마이크로 발광다이오드(LED)' 개발에 속",
+    "thumbnail": "https://img.etnews.com/news/article/2026/11/25/news-p.v1.20261125.cdd6661ecd8e435eb86dfd465cbce063_P1.jpg",
+    "score": 5.099,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "[FSD 온로드] 중기부는 '도로' 국토부는 '서류' 방점…기술특례 동상이몽",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=679657",
+    "source": "블로터",
+    "source_type": "rss",
+    "published_at": "2026-11-25T14:38:43+00:00",
+    "raw_excerpt": "테슬라 감독형 완전자율주행(FSD)을 바라보는 정부 부처 간 접근 방식에 차이가 나타나고 있다. 중소벤처기업부는 이소영 장관을 비롯한 직원 193명이 직접 감독형 FSD 탑재 차량에 올라 기술 발전 수준과 한계를 확인했다. 반면 국토교통부로부터 FSD 기술특례 신청 서류 검토를 맡은 한국교통안전공단은 검토 기간 등을 묻는 질의에 “상위기관인 국토부에 직접 물어보라”며 구체적인 설명을 내놓지 않고 있다.25일 취재를 종합하면 한국교통안전공단은 △국토부로부터 테슬라코리아의 감독형 FSD 기술특례 신청 서류 검토를 요청받은 날",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "테슬라 감독형 완전자율주행(FSD)을 바라보는 정부 부처 간 접근 방식에 차이가 나타나고 있다. 중소벤처기업부는 이소영 장관을 비롯한 직원 193명이 직접 감독형",
+    "thumbnail": "https://cdn.bloter.net/news/thumbnail/202611/679657_294777_1257_v150.jpg",
+    "score": 5.041,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "PenGPT: 손글씨와 스케치를 위한 생성형 Transformer",
+    "url": "https://news.hada.io/topic?id=37819&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-11-25T05:38:33+00:00",
+    "raw_excerpt": "PenGPT 는 텍스트에 따라 글씨를 쓰거나 그림을 그리는 소형 Transformer로, 600만 파라미터 손글씨 모델과 5,400만 파라미터 스케치 모델로 구성됨 펜 움직임을 10개 기호와 BPE 토큰 으로 바꾸고 일반적인 디코더로 생성함. 두 모델은 같은 토크나이저를 쓰지만, 조건 입력은 텍스트와 SigLIP 2 벡터로 달라짐 성능을 크게 좌우한 요소는 데이터와 학습 방식 이었음. 데이터 축소는 전반적인 성능을 떨어뜨렸고, 증강을 없애면 그림 모델이 프롬프트를 거의 따르지 못함 손글씨 모델은 처음 보는 사람의 실제 단어 몇 개를 이어받아 미세 …",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "PenGPT 는 텍스트에 따라 글씨를 쓰거나 그림을 그리는 소형 Transformer로, 600만 파라미터 손글씨 모델과 5,400만 파라미터 스케치 모델로 구성",
+    "thumbnail": "https://social.news.hada.io/topic/37819/pf919f55ef0ac3329be4b2e9379478a9",
+    "score": 5.039,
+    "engagement": 0,
+    "matched_keywords": [
+      "프롬프트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "회생안 제출 앞둔 콘텐트리중앙, HLL중앙 매각설에 \"확정된 바 없어\"",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=679644",
+    "source": "블로터",
+    "source_type": "rss",
+    "published_at": "2026-11-25T13:57:44+00:00",
+    "raw_excerpt": "콘텐트리중앙이 자회사 에이치엘엘중앙(HLL중앙) 매각설에 대해 \"구체적으로 확정된 사항이 없다\"고 밝혔다. 콘텐트리중앙은 회생계획안 제출을 앞두고 유동성 확보 방안을 다각도로 검토하고 있다.25일 금융감독원 전자공시시스템에 따르면 콘텐트리중앙은 이날 '중앙그룹, 엘르·백상 HLL중앙 매각…몸값 500억 안팎' 보도에 대한 미확정 해명공시를 냈다. 회사 측은 \"소수지분 투자유치, 전략적 제휴, 사업부문 매각 등을 포함한 다양한 전략적 대안을 검토 중이나 현재까지 구체적으로 확정된 사항은 없다\"며 \"추후 구체적인 내용이 결정되는 시점",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "콘텐트리중앙이 자회사 에이치엘엘중앙(HLL중앙) 매각설에 대해 \"구체적으로 확정된 사항이 없다\"고 밝혔다. 콘텐트리중앙은 회생계획안 제출을 앞두고 유동성 확보 방",
+    "thumbnail": "https://cdn.bloter.net/news/thumbnail/202611/679644_294755_5641_v150.jpg",
+    "score": 5.003,
+    "engagement": 0,
+    "matched_keywords": [
+      "투자유치"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "코인원 차명훈, 내달 초 닥사 의장 취임…'가상자산판 금투협' 나오나",
+    "url": "https://www.etnews.com/20261125000355",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-11-25T04:59:21+00:00",
+    "raw_excerpt": "차명훈 코인원 대표가 12월 초 디지털자산거래소 공동협의체(DAXA·닥사) 의장에 취임한다. 오세진 디지털엑스 대표의 사임으로 당초 내년 1월 예정됐던 취임 시기가 한 달 앞당겨졌다. 금융위원회가 디지털자산 기본법에 법정협회 설립 근거를 마련하면서 차 대표가 이끌 닥사의 조직 재편과 역할 변화에 관심이 쏠린다. 25일 업계에 따르면 차 대표는 다음 달 초부터 닥사 의장직을 수행한다. 닥사는 가상자산사업자(VASP) 신고 수리 순서에 따라 업비트",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "차명훈 코인원 대표가 12월 초 디지털자산거래소 공동협의체(DAXA·닥사) 의장에 취임한다. 오세진 디지털엑스 대표의 사임으로 당초 내년 1월 예정됐던 취임 시기",
+    "thumbnail": "https://img.etnews.com/news/article/2026/03/20/news-p.v1.20260320.eaab6994ba3f4308acfd42b3b6681a6b_P1.png",
+    "score": 4.998,
+    "engagement": 0,
+    "matched_keywords": [
+      "가상자산"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "GPT-6 모델, 내재적 단백질 설계 능력 입증",
+    "url": "https://news.hada.io/topic?id=37808&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-11-25T01:34:23+00:00",
+    "raw_excerpt": "OpenAI의 GPT-6 계열 모델 이 전문 생물학 모델을 호출하지 않고 추론과 범용 코딩 도구만으로 새로운 단백질의 3차원 구조와 아미노산 서열을 설계하는 능력을 보임 자연어 프롬프트 로 결합 위치, 단백질 형태, 특정 원자 사이의 결합 같은 조건을 전달할 수 있으며, 내부 연구 모델은 여러 계산 평가에서 전문 모델과 대등하거나 더 높은 성능을 기록함 Onava와 진행한 실험에서 GPT-6.2가 설계한 구조를 바탕으로 만든 미니바인더 322개 중 35개(10.9%) 가 표적에 결합하는 징후를 보였으며, 시험한 5개 표적 모두에서 결합 후보를 확보함 …",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "OpenAI의 GPT-6 계열 모델 이 전문 생물학 모델을 호출하지 않고 추론과 범용 코딩 도구만으로 새로운 단백질의 3차원 구조와 아미노산 서열을 설계하는 능력",
+    "thumbnail": "https://social.news.hada.io/topic/37808/pe60dd2c06cc25dc6f715554e5a06772",
+    "score": 4.784,
+    "engagement": 0,
+    "matched_keywords": [
+      "프롬프트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "유휴 컴퓨팅 자원으로 로컬 모델을 학습시키는 엔진",
+    "url": "https://news.hada.io/topic?id=37798&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-11-24T23:31:27+00:00",
+    "raw_excerpt": "Songe 는 로컬 모델을 평소처럼 사용하는 동안 도구 실행 결과, 오류, 사용자 수정과 선호를 기록하고, 에이전트가 조용할 때 이를 학습에 활용함 Quick Dream 은 사용자 선호를 모델 지침에 추가하고, Deep Dream 은 학습용 연습 상황을 생성해 작은 어댑터를 훈련함 실제 대화는 직접 훈련하지 않으며, 온폴리시 증류(on-policy distillation) 와 기존 능력 복습을 통해 모델을 학습시킴 새 버전은 사용자 대화에 대한 평가에서 명확한 개선 을 보이고 기존에 잘하던 동작을 유지하는 경우에만 적용되며, 이전 버전으로 되돌릴 수 있음 모든 …",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Songe 는 로컬 모델을 평소처럼 사용하는 동안 도구 실행 결과, 오류, 사용자 수정과 선호를 기록하고, 에이전트가 조용할 때 이를 학습에 활용함 Quick D",
+    "thumbnail": "https://social.news.hada.io/topic/37798/pb91db6acdce8b740b6b9e54e4589e53",
+    "score": 4.656,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "evening"
+  },
+  {
+    "title": "Swift Death of Statelessness",
+    "url": "https://bexx.io/post/swift-death-of-statelessness/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-11-25T06:23:09+00:00",
+    "raw_excerpt": "Article URL: https://bexx.io/post/swift-death-of-statelessness/ Comments URL: https://news.ycombinator.com/item?id=50639156 Points: 10 # Comments: 0",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://bexx.io/post/swift-death-of-statelessness/ Comments URL: https://news",
+    "thumbnail": "https://bexx.io/static/img/og-image.f03c74490673.png",
+    "score": 2.712,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  },
+  {
+    "title": "Taking over US Treasury subdomains for $3 each",
+    "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-11-25T04:27:55+00:00",
+    "raw_excerpt": "Article URL: https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each Comments URL: https://news.ycombinator.com/item?id=50638478 Points: 66 # Comments: 11",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-eac",
+    "thumbnail": "https://cdn.prod.website-files.com/61dd9339d05701829d0b3241/6afdc01d62cd6e97b94540b6_Elastic%20IP%20adresses%20(1).jpg",
+    "score": 2.648,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "evening"
+  }
+]
