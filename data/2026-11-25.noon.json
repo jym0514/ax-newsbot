@@ -1,0 +1,582 @@
+[
+  {
+    "title": "코오롱베니트, 기업 백업 데이터를 AI 자산으로…코헤시티 ‘가이아’ 국내 공급 본격화",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42883",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-11-25T11:33:12+00:00",
+    "raw_excerpt": "코오롱베니트가 기업의 백업 데이터를 생성형 인공지능(AI)으로 검색·분석할 수 있는 코헤시티(Cohesity)의 AI 데이터 어시스턴트 ‘가이아(Gaia)’의 국내 공급을 본격화한다.가이아는 검색증강생성(RAG)과 대형언어모델(LLM)을 결합해 사용자의 자연어 질문에 백업 데이터 속 문서를 검색하고 근거와 함께 답변을 제공한다. 특히 온프레미스형 ‘가이아 셀프 매니지드(Gaia Self-Managed)’는 외부 클라우드로 데이터를 반출하지 않고 기업 자체 데이터센터에서 AI 검색 환경을 구현할 수 있다.코오롱베니트는 지난 10월 자",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "코오롱베니트가 기업의 백업 데이터를 생성형 인공지능(AI)으로 검색·분석할 수 있는 코헤시티(Cohesity)의 AI 데이터 어시스턴트 ‘가이아(Gaia)’의 국",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202611/42883_64392_3220_v150.jpg",
+    "score": 8.74,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능",
+      "llm"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "베스핀글로벌, SW제품 품질대상 최고상...AI 에이전트 기술력 인정",
+    "url": "http://www.newstheai.com/news/articleView.html?idxno=22038",
+    "source": "THE AI",
+    "source_type": "rss",
+    "published_at": "2026-11-25T10:21:06+00:00",
+    "raw_excerpt": "베스핀글로벌은 자체 개발한 ‘헬프나우 에이전틱 AI 플랫폼 v4.0’으로 제13회 대한민국 SW제품 품질대상에서 대상인 부총리 겸 과학기술정보통신부 장관상을 수상했다고 25일 밝혔다. 2014년 시작된 대한민국 SW제품 품질대상은 국산 소프트웨어의 품질 경쟁력을 평가하는 시상 제도다. 과학기술정보통신부가 주최하고 한국정보통신기술협회(TTA) 등이 주관한다. 제품의 기술 완성도와 시장성, 품질관리 체계, 대외 신뢰도 등을 종합 평가해 수상작을 선정한다. 올해는 총 8개 제품이 선정됐으며, 대상은 단 한 곳에만 돌아갔다. 특히 이번 대",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "베스핀글로벌은 자체 개발한 ‘헬프나우 에이전틱 AI 플랫폼 v4.0’으로 제13회 대한민국 SW제품 품질대상에서 대상인 부총리 겸 과학기술정보통신부 장관상을 수상",
+    "thumbnail": "https://cdn.newstheai.com/news/photo/202611/22038_22835_1557.jpg",
+    "score": 7.929,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "에이전틱",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "HS효성인포메이션시스템, AI 워크로드 특화 스토리지 출시",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42884",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-11-25T11:42:56+00:00",
+    "raw_excerpt": "HS효성인포메이션시스템(대표 양정규)은 히타치 밴타라(Hitachi Vantara)가 인공지능(AI) 및 미션 크리티컬 워크로드를 위한 차세대 올플래시 NVMe 블록 스토리지 ‘VSP One Block High End’를 국내 출시했다고 25일 밝혔다.신제품은 최대 5000만 IOPS(초당 입출력 횟수)의 처리 성능과 랙 유닛(RU)당 최대 346TB의 저장 용량을 제공한다. 최대 12개 컨트롤러와 288개의 60TB SSD까지 확장할 수 있으며, 오픈 시스템과 메인프레임 워크로드의 통합 운영을 지원한다.특히 100% 데이터 가용성",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "HS효성인포메이션시스템(대표 양정규)은 히타치 밴타라(Hitachi Vantara)가 인공지능(AI) 및 미션 크리티컬 워크로드를 위한 차세대 올플래시 NVMe",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202611/42884_64393_426_v150.jpg",
+    "score": 7.852,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "레드햇·마이크로소프트, 차세대 가상화 기술 공동 개발…AI 워크로드·가상머신 통합 운영 지원",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42882",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-11-25T11:25:06+00:00",
+    "raw_excerpt": "레드햇(Red Hat)이 마이크로소프트(Microsoft)와 협력을 확대해 기존 가상머신(VM)과 컨테이너, 인공지능(AI) 워크로드를 단일 클라우드 플랫폼에서 통합 운영할 수 있는 차세대 가상화 기술 개발에 나선다고 25일 밝혔다.양사는 쿠버네티스 기반 가상머신 관리 기술인 큐브버트(KubeVirt)를 비롯해 리브버트(Libvirt), QEMU, 리눅스 커널 등 오픈소스 기술 스택을 공동 개발하고, 마이크로소프트 하이퍼바이저 지원 기능을 추가한다.특히 마이크로소프트의 직접 가상화(Direct Virtualization) 기술은 마",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "레드햇(Red Hat)이 마이크로소프트(Microsoft)와 협력을 확대해 기존 가상머신(VM)과 컨테이너, 인공지능(AI) 워크로드를 단일 클라우드 플랫폼에서",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202611/42882_64391_2453_v150.jpg",
+    "score": 7.83,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "피지컬 AI 시대, 데이터 업로드가 통신 경쟁력으로…KT·LG전자, 5G 대비 업로드 용량 4.9배 높인 6G 기술 검증",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42881",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-11-25T11:00:30+00:00",
+    "raw_excerpt": "인공지능(AI)의 활용 영역이 디지털 공간에서 로봇과 휴머노이드, 자율주행차 등 물리적 세계로 확대되면서 이동통신 네트워크의 기술적 요구사항도 변화하고 있다. 콘텐츠 소비를 위한 데이터 다운로드 중심의 통신 환경에서 AI 기기가 수집한 대규모 데이터를 실시간으로 전송하는 업로드 중심의 통신 수요가 증가하고 있기 때문이다.KT(대표 박윤영)는 LG전자(대표 류재철)와 공동으로 기존 5G 대비 데이터 업로드 용량을 최대 4.9배 높일 수 있는 6세대 이동통신(6G) 기술을 검증했다고 25일 밝혔다. 양사가 검증한 기술은 서브밴드 전이중",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "인공지능(AI)의 활용 영역이 디지털 공간에서 로봇과 휴머노이드, 자율주행차 등 물리적 세계로 확대되면서 이동통신 네트워크의 기술적 요구사항도 변화하고 있다. 콘",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202611/42881_64390_5947_v150.jpg",
+    "score": 7.799,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "인공지능"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "네이버클라우드·한수원·한전KDN, 원전 특화 AI 에이전트 개발 협력",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42879",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-11-25T09:20:00+00:00",
+    "raw_excerpt": "네이버클라우드(대표 김유원)는 24일, 경주 한국수력원자력(이하 한수원) 본사에서 한수원, 한전KDN과 원전 분야 인공지능 전환(AX)을 위한 기술협력 업무협약(MOU)을 체결했다고 25일 밝혔다. 3사는 원전 업무혁신 전략 수립, AI 에이전트 기반 AX 과제 발굴, AI 인프라 및 서비스 기술지원 등에 협력한다.네이버클라우드는 현업 담당자가 직접 AI 에이전트를 기획·개발할 수 있도록 개발 솔루션과 실증 환경, 전문 교육을 제공할 계획이다. 앞서 네이버클라우드는 2024년 외부망과 분리된 한수원 데이터센터에 하이퍼클로바X 기반",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "네이버클라우드(대표 김유원)는 24일, 경주 한국수력원자력(이하 한수원) 본사에서 한수원, 한전KDN과 원전 분야 인공지능 전환(AX)을 위한 기술협력 업무협약(",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202611/42879_64387_1918_v150.jpg",
+    "score": 7.673,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "AI 에이전트로 외국인 환자 유치 지원…인덴트코퍼레이션, K-의료관광 시장 공략",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42875",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-11-25T08:31:33+00:00",
+    "raw_excerpt": "외국인 환자의 국내 의료 서비스 수요가 급증하는 가운데 인공지능(AI) 에이전트를 활용한 의료관광 마케팅이 확대되고 있는 가운데 커머스 AX 전문기업 인덴트코퍼레이션(대표 윤태석)은 AI 마케팅 에이전트 ‘인덴트M’과 ‘스프레이IO’를 활용해 국내 의료기관의 해외 홍보와 외국인 환자 유치를 지원하고 있다고 25일 밝혔다.한국관광데이터랩에 따르면 올해 1~9월 방한 외국인 관광객의 국내 의료 분야 카드 결제액은 1조8398억 원으로 전년 동기 대비 57.9% 증가했다. 피부과는 전체 결제액의 55.7%를 차지했으며, 결제액도 전년 동",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "외국인 환자의 국내 의료 서비스 수요가 급증하는 가운데 인공지능(AI) 에이전트를 활용한 의료관광 마케팅이 확대되고 있는 가운데 커머스 AX 전문기업 인덴트코퍼레",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202611/42875_64383_317_v150.jpg",
+    "score": 7.613,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "[AI리더의 서가] 에이전틱 코딩 완성의 기술",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217621",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-25T09:00:00+00:00",
+    "raw_excerpt": "에이전틱 코딩 완성의 기술김플립 | 한빛미디어2026년 10월 30일추천이유이 책은 AI가 코드를 작성하는 시대에 개발자가 AI의 작업을 설계하고 검증하여 결과물을 끝까지 완성하는 방법을 안내합니다. 25년 이상의 실무 경험을 바탕으로 맥락 관리, 작업 분할, 테스트 검증 등을 통해 신뢰할 수 있는 소프트웨어를 개발하고 유지보수하는 역량을 갖출 수 있습니다.상세보기 AI가 다 했다고 보고했는데, 막상 돌려 보면 깨져 있다. 간단한 기능은 금방 만들어지는데, 프로젝트가 커질수록 고쳤던 오류가 되살아난다. 바이브 코딩을 거쳐 온 개발자",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "에이전틱 코딩 완성의 기술김플립 | 한빛미디어2026년 10월 30일추천이유이 책은 AI가 코드를 작성하는 시대에 개발자가 AI의 작업을 설계하고 검증하여 결과물",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217621_221926_5148.jpg",
+    "score": 7.311,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전틱"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "에스이노베이션스, 72억 원 규모 엣지 AI 반도체 사업 참여…자율주행 로봇 적용·실증 추진",
+    "url": "https://www.aitimes.kr/news/articleView.html?idxno=42876",
+    "source": "인공지능신문",
+    "source_type": "rss",
+    "published_at": "2026-11-25T08:40:09+00:00",
+    "raw_excerpt": "대구경북과학기술원(DGIST) 창업기업 에스이노베이션스(각자대표 김정준·박형석)가 엣지 AI(Edge AI) 기반 첨단센서와 시스템반도체 연구 성과를 자율주행 로봇(AMR)에 적용하는 기술 개발 및 실증에 나선다.에스이노베이션스는 DGIST가 주관하는 총 72억 원 규모의 ‘엣지 AI 첨단센서 설계 및 시스템반도체 제작 플랫폼 구축’ 시범사업에 참여한다고 25일 밝혔다.사업에는 DGIST와 포항공과대학교(POSTECH), 램쉽, 에스이노베이션스 등 4개 기관이 참여한다. 산업 현장의 센서·연산 수요에 대응할 수 있는 엣지 AI 플랫",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "대구경북과학기술원(DGIST) 창업기업 에스이노베이션스(각자대표 김정준·박형석)가 엣지 AI(Edge AI) 기반 첨단센서와 시스템반도체 연구 성과를 자율주행 로",
+    "thumbnail": "https://cdn.aitimes.kr/news/thumbnail/202611/42876_64384_3956_v150.jpg",
+    "score": 6.724,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.2,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "[한국의 CISO-권력지도] ‘연 25만대 PBV’ 시동 거는 기아…이상홍 상무, 생산망 방어 사령탑으로",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=679617",
+    "source": "블로터",
+    "source_type": "rss",
+    "published_at": "2026-11-25T11:35:08+00:00",
+    "raw_excerpt": "급변하는 사이버 위협 속에서 기업 생존의 핵심 방어선으로 최고정보보호책임자(CISO)의 역할과 전략이 그 어느 때보다 중요해졌습니다. 는 대한민국 대표 기업들의 보안 역량과 현주소를 다각도로 입체 분석하는 기획 시리즈 '한국의 CISO'를 연재합니다. 첫 순서인 '권력지도' 편에서는 과기정통부·KISA와 금융보안원의 가이드라인을 준용해 △보고체계 △거버넌스 △사고대응 △자원확보 등 4대 부문·10개 지표를 10점 만점으로 산출했으며 2026년 정보보호 공시와 지속가능경영보고서 등 공식 데이터를 기준으로 CISO의 실질적 위",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "급변하는 사이버 위협 속에서 기업 생존의 핵심 방어선으로 최고정보보호책임자(CISO)의 역할과 전략이 그 어느 때보다 중요해졌습니다. 는 대한민국 대표 기업들의",
+    "thumbnail": "https://cdn.bloter.net/news/thumbnail/202611/679617_294710_4540_v150.jpg",
+    "score": 6.557,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "거버넌스",
+      "가이드라인"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "미 CIA·ODNI, 해킹으로 비기밀 정보 일부 노출",
+    "url": "https://zdnet.co.kr/view/?no=20261125073442",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-11-24T22:41:49+00:00",
+    "raw_excerpt": "[지디넷코리아]미국 중앙정보국(CIA)과 국가정보장실(ODNI)이 해킹으로 일부 데이터가 노출됐다. 해킹 대상인 네트워크는 공개된 자료를 수집·분석하는 공개 정보(OSINT) 네트워크다.뉴욕타임스, 뉴스위크 등 여러 외신은 24일(현지시간) 소식통을 인용해 이번 침입이 공개·비밀 등급 외 자료에서 정보 가치가 있는 내용을 추출하는 데 쓰이는 네트워크에 영향을 미쳤다고 보도했다.공개 정보 네트워크가 공격 대상이 되면서, 정보 수집 과정에서의 보안 취약점이 드러났다는 지적이 나온다. 전문가들은 이번 사건이 정보기관의 사이버 방어 체계에 대한 근본적인 점검 필요성을 보여준다고 분석했다.어떤 비밀 등급 외 자료가 유출됐는지는 명확히 확인되지 않았다. 다른 정부 기관 정보도 노출됐을 가능성도 언급됐다.ODNI는 \"중요 능력이나 기밀 시스템에 대한 중단은 없었다\"고 밝혔고, CIA는 논평 요청에 응답하지 않았다. 침입 경로와 공격 배후는 아직 확인되지 않았다.미국 농무부 침입, 미국 연방수사국(FBI)의 보안 취약점 등 일련의 공공기관 기술 장애·보안 사고 중 최근 공개된 사례다. 국가안보국(NSA)도 내부 기밀 통신망이 갑작스러운 장애로 가동이 중단되기도 했다.이번 침해로 정보기관의 보안 강화를 위한 입법 논의가 탄력을 받을 수 있다는 전망도 나온다.도널드 트럼프 미국 대통령은 제이 클레이턴 미국 국가정보국장(DNI)에게 사이버보안을 당분간 ",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "[지디넷코리아]미국 중앙정보국(CIA)과 국가정보장실(ODNI)이 해킹으로 일부 데이터가 노출됐다. 해킹 대상인 네트워크는 공개된 자료를 수집·분석하는 공개 정보",
+    "thumbnail": "https://image.zdnet.co.kr/2026/11/25/26b17b41233ebb6e5cd3d13bcecedc21.jpg",
+    "score": 6.507,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "취약점",
+      "해킹",
+      "입법"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "모바일신분증 'CI 제공' 개정안 국회 계류…부처 갈등에 보안 우려까지",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=679614",
+    "source": "블로터",
+    "source_type": "rss",
+    "published_at": "2026-11-25T10:05:14+00:00",
+    "raw_excerpt": "모바일신분증을 활용한 온라인 본인확인 체계 구축이 개인정보 보호 논란에 부딪혔다. 정부는 모바일신분증을 통한 인증 절차를 간소화하고 기업의 비용 부담을 줄이겠다는 구상이지만 개인정보 유출 위험과 정부의 신분증 사용 이력 추적 가능성을 차단할 안전장치가 미흡하다는 지적이 제기되고 있다. 행안부·방미통위 이견에 발목…보안 사각지대 우려25일 업계에 따르면 모바일신분증으로 연계정보(CI)를 기업에 제공하고 이를 저장·연계할 수 있도록 하는 전자정부법 개정안은 이달 17일 국회 행정안전위원회 법안심사소위원회를 통과하지 못하고 계류됐다.CI",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "모바일신분증을 활용한 온라인 본인확인 체계 구축이 개인정보 보호 논란에 부딪혔다. 정부는 모바일신분증을 통한 인증 절차를 간소화하고 기업의 비용 부담을 줄이겠다는",
+    "thumbnail": "https://cdn.bloter.net/news/thumbnail/202611/679614_294709_178_v150.jpg",
+    "score": 6.472,
+    "engagement": 0,
+    "matched_keywords": [
+      "보안",
+      "법안",
+      "개인정보"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "금융위, 디지털자산기본법 제정 추진…거래소 지분 제한·은행 중심 스테이블코인 발행",
+    "url": "https://byline.network/2026/11/1124-2/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-11-24T22:34:18+00:00",
+    "raw_excerpt": "금융위원회가 디지털자산산업 육성과 이용자 보호를 위한 법률 제정을 추진한다. 디지털자산업을 기능별로 세분화하고 스테이블코인 발행과 국내 디지털자산 발행·판매(ICO)를 제도권에 편입하는 한편, 디지털자산거래소의 지배구조 규제와 이용자 보호 책임을 강화하는 내용이 담겼다.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "금융위원회가 디지털자산산업 육성과 이용자 보호를 위한 법률 제정을 추진한다. 디지털자산업을 기능별로 세분화하고 스테이블코인 발행과 국내 디지털자산 발행·판매(IC",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/11/1112-1-1.jpg",
+    "score": 6.294,
+    "engagement": 0,
+    "matched_keywords": [
+      "규제",
+      "스테이블코인"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "앤트로픽, ‘클로드 십’ 출시…코드 검토부터 수정·승인까지 자동화",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217729",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-24T18:28:58+00:00",
+    "raw_excerpt": "앤트로픽이 AI가 작성한 코드를 검토하고 수정하는 데 이어, 팀의 규칙에 따라 승인 여부까지 판단하는 개발 자동화 도구를 선보였다. 코드 생성 이후 검토와 승인에 걸리는 시간을 줄여 개발 속도를 높이겠다는 전략이다.앤트로픽은 23일(현지시간) ‘클로드 십(Claude Ship)’을 베타 버전으로 출시했다고 밝혔다.코드 변경 사항의 반영을 요청하는 풀 리퀘스트(PR)를 대상으로, 기존 ‘코드 리뷰(Code Review)’에 수정 도구 ‘PR 스튜어드(PR Steward)’와 승인 도구 ‘클로드 어프루벌스(Claude Approvals",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "앤트로픽이 AI가 작성한 코드를 검토하고 수정하는 데 이어, 팀의 규칙에 따라 승인 여부까지 판단하는 개발 자동화 도구를 선보였다. 코드 생성 이후 검토와 승인에",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217729_222071_5815.png",
+    "score": 6.131,
+    "engagement": 0,
+    "matched_keywords": [
+      "claude"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "[전북은행 is]② 판관비 연속 감소…업무방식부터 바꾼 성과",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=679627",
+    "source": "블로터",
+    "source_type": "rss",
+    "published_at": "2026-11-25T11:02:13+00:00",
+    "raw_excerpt": "전북은행이 비용 부담을 낮추면서 경영효율을 높이고 있다. 판매관리비를 두 분기 연속 줄이는 가운데 기업 고객의 금융거래 절차를 개선하고 인공지능(AI)을 활용한 내부 업무 혁신도 추진하고 있다. 단순한 비용 관리를 넘어 사업과 업무 전반의 생산성을 높이는 데 힘을 싣는 모습이다.25일 전북은행에 따르면 1~9월 별도 기준 영업이익경비율(CIR)은 45.1%로 1분기보다 7.0%p 낮아졌다. 같은 기간 누적 대손비용률도 0.13%p 하락한 0.68%를 기록했다. 영업수익 대비 판매관리비와 총여신 대비 충당금 비용 부담이 동시에 줄었다",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "전북은행이 비용 부담을 낮추면서 경영효율을 높이고 있다. 판매관리비를 두 분기 연속 줄이는 가운데 기업 고객의 금융거래 절차를 개선하고 인공지능(AI)을 활용한",
+    "thumbnail": "https://cdn.bloter.net/news/thumbnail/202611/679627_294725_4042_v150.jpg",
+    "score": 5.851,
+    "engagement": 0,
+    "matched_keywords": [
+      "업무 혁신",
+      "생산성"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "코리아 핀테크 위크 2026 개막…이억원 \"다음 금융은 이미 우리 앞에 와\"",
+    "url": "https://www.fnnews.com/news/202611250909445332",
+    "source": "파이낸셜뉴스 금융",
+    "source_type": "rss",
+    "published_at": "2026-11-25T01:00:00+00:00",
+    "raw_excerpt": "[파이낸셜뉴스] 제8회 코리아 핀테크 위크가 140개 기업·기관이 참여한 가운데 25일 서울 양재 aT센터에서 열렸다. 오는 27일까지 3일간 이어지는 이번 박람회는 '다음 금융은 이미 시작됐다'를 주제로 AI·블록체인 기술과 미래 금융을 다룬다. 올해는 협력기관으로 국내·외 25개 기업·기관이 이름을 올렸다. 금융위는 지난해보다 프로그램과 연사, 전시부스를 모두 늘려 역대 최대 규모의 행사를 마련했다. 국내·외 연사 120여명이 나서는 36개 프로그램은 디지털 전환(DX)·인공지능 전환(AX), 금융정책 공유, 재테크, 취업, 핀테크 투자·지원, 기술 트렌드 등 7개 주제를 다룬다. 전시 공간은 핀테크관·금융관·글로벌관·협력관으로 나뉘며 부스는 총 115개다. 핀테크관은 국내 기업의 8개 분야 기술·서비스를 소",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "[파이낸셜뉴스] 제8회 코리아 핀테크 위크가 140개 기업·기관이 참여한 가운데 25일 서울 양재 aT센터에서 열렸다. 오는 27일까지 3일간 이어지는 이번 박람",
+    "thumbnail": "https://image.fnnews.com/resource/media/image/2026/04/29/202604290933399398_e.jpg",
+    "score": 5.286,
+    "engagement": 0,
+    "matched_keywords": [
+      "디지털 전환",
+      "ax"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Show GN: Tern - Ctrl+ㅊ 를 Ctrl-C 로 처리해주는 한글 특화 터미널 에뮬레이터 앱",
+    "url": "https://news.hada.io/topic?id=37811&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-11-25T02:20:17+00:00",
+    "raw_excerpt": "저는 데스크탑에서 하던 작업을 어디서나 그대로 이어가기 위해 서버에 tmux를 켜놓고 SSH로 붙어서 사용하고 있습니다. 컴퓨터로 작업하다가 밥 먹으러 나와서 폰에서 SSH로 LLM들이 잘 하고 있나 보고 다음 프롬프트를 넣기 위해 들어가는 경우가 많은데요, 안드로이드의 터미널 앱들은 대부분 한글 입력이 아예 불가능하고, 최근 LLM 덕에 지원하는 앱이 늘긴 했지만 사용자 경험이 그렇게 매끄럽지는 않았습니다. 한글 폰트도 따로 넣어주지 않으면 못생긴 fallback 폰트가 나오고요. 그래서 앱을 직접 만들었습니다. 별로 특별한 건 …",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "저는 데스크탑에서 하던 작업을 어디서나 그대로 이어가기 위해 서버에 tmux를 켜놓고 SSH로 붙어서 사용하고 있습니다. 컴퓨터로 작업하다가 밥 먹으러 나와서 폰",
+    "thumbnail": "https://social.news.hada.io/topic/37811/pfa9b2a2525e7acb088f4ee7bf1201b3",
+    "score": 5.207,
+    "engagement": 0,
+    "matched_keywords": [
+      "프롬프트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "삼성, '물건 정리'하는 로봇청소기 출시하나…中과 불 붙은 경쟁",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=679635",
+    "source": "블로터",
+    "source_type": "rss",
+    "published_at": "2026-11-25T11:20:26+00:00",
+    "raw_excerpt": "삼성전자가 바닥에 놓인 옷과 쓰레기 등을 직접 옮기는 로봇청소기 기술을 잇달아 확보하면서 차세대 제품에 정리 기능을 탑재할지 주목된다. 장애물을 인식하고 피하는 기존 방식에서 나아가 물체를 종류별로 구분해 이동시키고 가려졌던 바닥까지 청소하는 기술이다. 중국 로보락이 로봇팔을 장착한 제품을 상용화하는 등 로봇청소기의 기능 경쟁이 치열해지면서 삼성전자도 사람이 직접 해야 하는 정리 작업을 줄이는 기술을 연구하고 있는 것으로 파악된다. 장애물 회피 넘어 청소 전 정리까지…자동화 범위 확대25일 업계에 따르면 삼성전자는 올해 로봇청소기가",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "삼성전자가 바닥에 놓인 옷과 쓰레기 등을 직접 옮기는 로봇청소기 기술을 잇달아 확보하면서 차세대 제품에 정리 기능을 탑재할지 주목된다. 장애물을 인식하고 피하는",
+    "thumbnail": "https://cdn.bloter.net/news/thumbnail/202611/679635_294736_5918_v150.jpg",
+    "score": 5.193,
+    "engagement": 0,
+    "matched_keywords": [
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "NHN페이코, 빗썸 제휴 ‘더블적립’ 서비스·전용 카드 출시",
+    "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=50892",
+    "source": "스마트타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-25T10:35:35+00:00",
+    "raw_excerpt": "[스마트타임스] NHN페이코는 가상자산 거래소 빗썸과 제휴해 ‘PAYCO X 빗썸 더블적립’ 서비스와 전용 선불카드 ‘빗썸 더블적립 카드 by PAYCO’를 출시했다고 25일 밝혔다.더블적립은 페이코 앱에서 빗썸을 연동한 고객이 페이코 포인트로 결제하면 페이코 포인트와 비트코인 리워드를 각각 받는 서비스다.일반 페이코 포인트 결제 시 빗썸은 결제액의 최대 1%를 비트코인으로 지급하며 월 적립 한도는 2천원 상당이다. 처음 연동한 고객에게는 1천원 상당의 비트코인 리워드를 추가 지급한다.함께 출시된 전용 카드는 NHN페이코가 발행·운",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[스마트타임스] NHN페이코는 가상자산 거래소 빗썸과 제휴해 ‘PAYCO X 빗썸 더블적립’ 서비스와 전용 선불카드 ‘빗썸 더블적립 카드 by PAYCO’를 출시",
+    "thumbnail": "https://cdn.smarttimes.co.kr/news/thumbnail/202611/50892_50143_5236_v150.jpg",
+    "score": 5.151,
+    "engagement": 0,
+    "matched_keywords": [
+      "가상자산"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "AI 네이티브 서비스 비즈니스 모델의 내부 구조",
+    "url": "https://news.hada.io/topic?id=37807&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-11-25T01:20:02+00:00",
+    "raw_excerpt": "AI 네이티브 서비스는 계약 검토 도구를 파는 대신 계약 검토를 직접 맡는 사업 임. 완성된 업무와 그에 대한 책임을 판매하며, 초기 매출이 발생해도 인력을 비례해서 늘리지 않고 품질과 업무량을 유지할 수 있는지는 별도로 검증해야 함 검증할 것은 고객이 다시 일을 맡기는지 , 고객이 늘어도 건당 인력과 비용을 줄일 수 있는지 임. 맞춤 대응에 사람을 많이 쓰면 비용이 함께 늘고, 자동화를 과하게 밀어붙이면 품질과 신뢰를 잃을 수 있음 반복 의뢰와 고객당 업무량으로 수요를 확인하고 , 사람의 투입 시간, 건당 가격과 비용, 처리 시간과 재작업으로 운영이 나아지는지 살펴야 함. 첫 매출이 생겼다고 고객 수요와 확장성 검증이 끝난 것은 아님 …",
+    "topic": "ai_native",
+    "topic_label": "🧬 AI Native",
+    "summary": "AI 네이티브 서비스는 계약 검토 도구를 파는 대신 계약 검토를 직접 맡는 사업 임. 완성된 업무와 그에 대한 책임을 판매하며, 초기 매출이 발생해도 인력을 비례",
+    "thumbnail": "https://social.news.hada.io/topic/37807/p45df28e40c5f5631127bb7df7bde80d",
+    "score": 5.145,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai 네이티브"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Cloudflare가 기반 인프라의 미비점을 가림",
+    "url": "https://news.hada.io/topic?id=37802&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-11-25T00:38:52+00:00",
+    "raw_excerpt": "Cloudflare는 수백만 웹사이트에 TLS, IPv6, 양자내성 암호화 등 현대적 표준을 확산했지만, 사용자에게 보이는 연결과 실제 원본 서버 연결 사이의 차이를 가리기도 함 사용자와 Cloudflare 사이에서 최신 기술을 지원하더라도, 원본 서버 연결 은 전혀 암호화되지 않고 IPv4에만 의존할 수 있음 관리자가 연결 상태를 확인할 도구는 있지만 종합적인 가시성 이 부족하며, 직접 찾아보지 않아도 문제를 알 수 있는 대시보드 경고와 선제적 알림이 필요함 Cloudflare는 원본 서버에 IPv4와 IPv6 주소가 모두 있어도 IPv4를 우선 하므로, 관리 …",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "Cloudflare는 수백만 웹사이트에 TLS, IPv6, 양자내성 암호화 등 현대적 표준을 확산했지만, 사용자에게 보이는 연결과 실제 원본 서버 연결 사이의 차",
+    "thumbnail": "https://social.news.hada.io/topic/37802/p36211606634f49158f2d8b19e6464ab",
+    "score": 5.102,
+    "engagement": 0,
+    "matched_keywords": [
+      "양자"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "코스피, 하루 만에 5000선 반납…삼성전자·SK하이닉스 6%대 급락",
+    "url": "https://www.etnews.com/20261125000095",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-11-25T00:21:30+00:00",
+    "raw_excerpt": "코스피가 미국 반도체주 급락 여파에 장 초반 5% 넘게 하락하며 5000선을 내줬다. 젠슨 황 엔비디아 최고경영자(CEO) 복귀 소식에 급등했던 삼성전자와 SK하이닉스도 하루 만에 7%대 하락세로 돌아섰다. 한국거래소에 따르면 25일 9시 17분 기준 코스피는 전 거래일 대비 5.05% 내린 4753.03을 기록했다. 코스닥은 3.71% 하락한 641.19에 거래되고 있다. 9시 8분 코스피 시장에는 매도 사이드카가 발동되기도 했다. 삼성전자는",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "코스피가 미국 반도체주 급락 여파에 장 초반 5% 넘게 하락하며 5000선을 내줬다. 젠슨 황 엔비디아 최고경영자(CEO) 복귀 소식에 급등했던 삼성전자와 SK하",
+    "thumbnail": "https://img.etnews.com/news/article/2026/11/25/rcv.YNA.20261125.PYH2026112501960001300_P1.jpg",
+    "score": 5.084,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "레이 달리오 “금, 디지털자산보다 매력적…중앙은행 비트코인 보유 의문”",
+    "url": "https://www.blockmedia.co.kr/archives/1170273?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-11-25T02:56:43+00:00",
+    "raw_excerpt": "[블록미디어 이정화 기자] 세계 최대 헤지펀드 브리지워터 어소시에이츠의 설립자 레이 달리오가 포트폴리오 다각화 측면에서 디지털자산(가상자산)보다 금이 더 매력적이라고 강조했다. 그는 금이 전체 포트폴리오의 10%에서 15%를 차지해야 한다고 조언했다. 달리오는 비트코인(BTC)을 일부 보유하고 있지만, 그 비중은 금보다 작다고 밝혔다. 그는 중앙은행들이 비트코인을 디지털 금으로 취급할지에 대해 회의적인 시각을 유지하고 있다. 중앙은행이 디지털자산 외면하는 이유 레이 달리오는 [...]",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[블록미디어 이정화 기자] 세계 최대 헤지펀드 브리지워터 어소시에이츠의 설립자 레이 달리오가 포트폴리오 다각화 측면에서 디지털자산(가상자산)보다 금이 더 매력적이",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/08/reuters-rc20rmar7nt4.jpg",
+    "score": 4.721,
+    "engagement": 0,
+    "matched_keywords": [
+      "가상자산"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "\"고속도로 미납통행료 앱으로\"…휘슬·한국도로공사, 상생협력 우수사례",
+    "url": "https://zdnet.co.kr/view/?no=20261125084241",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-11-24T23:42:41+00:00",
+    "raw_excerpt": "[지디넷코리아]모빌리티 플랫폼 '휘슬'을 운영하는 모노플랫폼이 한국도로공사와의 상생협력 성과를 인정받아 중소벤처기업부 주관 '윈윈아너스' 우수사례로 선정됐다.25일 회사에 따르면, 윈윈아너스는 중소벤처기업부가 대기업·공공기관과 중소기업 간 상생협력 우수사례를 발굴·확산하기 위해 운영하는 제도다. 모노플랫폼과 중소벤처기업부는 2023년부터 고속도로 미납통행료 납부 환경 개선을 추진해 왔다.모노플랫폼은 표준 API를 연동하고 휘슬 앱 내 기능을 자체 개발해 운전자가 미납통행료 발생 알림 수신부터 내역 확인·즉시 납부까지 한 번에 처리할 수 있도록 지원하고 있다. 2024년 9월 서비스 시행 이후 휘슬을 통한 미납통행료 수납 실적은 월평균 약 1만 3000건, 수납액은 약 3500만원에 달한다.휘슬은 전국 100여개 지방자치단체와 협력해 ▲주정차 단속 사전 알림 ▲과태료 조회·납부 ▲고속도로 미납통행료 납부 등 차량 관련 행정 업무를 하나의 앱에서 무료로 제공하며 운전자 편의를 높이고 있다. 최근에는 구독 서비스 '휘슬멤버십'을 베타 출시하고, 주정차 금지구역 정보와 과거 단속 이력을 AI로 분석해 주차 전 단속 위험도를 안내하는 핵심 기능 '주정차 레이다'도 선보였다.정해준 휘슬 대표는 “한국도로공사와의 협력을 통해 운전자의 미납통행료 납부 편의성을 높이는 동시에 공공서비스의 민간 활용 가능성을 넓혔다”며 “앞으로도 공공기관 및 지방자치",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "[지디넷코리아]모빌리티 플랫폼 '휘슬'을 운영하는 모노플랫폼이 한국도로공사와의 상생협력 성과를 인정받아 중소벤처기업부 주관 '윈윈아너스' 우수사례로 선정됐다.25",
+    "thumbnail": "https://image.zdnet.co.kr/2026/11/25/57a4c9c9a381bd14e22c337c41f7ab9b.jpg",
+    "score": 4.539,
+    "engagement": 0,
+    "matched_keywords": [
+      "벤처"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Clay helps sales teams win with Codex and ChatGPT",
+    "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+    "source": "OpenAI News",
+    "source_type": "rss",
+    "published_at": "2026-11-24T00:00:00+00:00",
+    "raw_excerpt": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-m",
+    "thumbnail": "https://images.ctfassets.net/kftzwdyauwt9/24rUSNlLR8iXQysKA6dq12/38954f25812d30bf772691824f747b84/clay-seo-1920.png?w=1600&h=900&fit=fill",
+    "score": 3.736,
+    "engagement": 0,
+    "matched_keywords": [
+      "codex",
+      "chatgpt"
+    ],
+    "source_weight": 1.3,
+    "region": "global",
+    "slot": "noon"
+  },
+  {
+    "title": "국민銀, 취약계층 창업·자활 돕는다",
+    "url": "https://www.fnnews.com/news/202611241822353579",
+    "source": "파이낸셜뉴스 금융",
+    "source_type": "rss",
+    "published_at": "2026-11-24T09:22:04+00:00",
+    "raw_excerpt": "KB국민은행이 미소금융재단 확대를 통해 서민금융 공급 활성화에 나선다. 재단의 조직과 상품을 확대해 취약계층의 창업과 자활을 돕겠다는 구상이다. 24일 금융권에 따르면 KB국민은행은 올해부터 5년간 KB미소금융재단에 총 1000억원을 추가 출연할 계획이다. 서민금융진흥원을 통해 연내 400억원을 출연하고 나머지는 단계적으로 지원할 예정이다. 추가 출연 예정액은 2009년 재단 설립 당시 출연금인 500억원의 두배 규모다. 재원 확대와 함께 지원 창구도 늘린다. KB미소금융재단은 내년 지사 3곳을 신설해 현재 8곳인 영업망을 11곳으로 확대할 계획이다. 지역 청년과 소상공인, 사회적기업 등의 자금 수요를 반영한 자체 특화 상품도 개발한다. 대출 재원을 확보하는 동시에 수요자가 상담받을 창구와 이용할 상품을 함께 늘리는 것이다. 이날 선보인 '",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "KB국민은행이 미소금융재단 확대를 통해 서민금융 공급 활성화에 나선다. 재단의 조직과 상품을 확대해 취약계층의 창업과 자활을 돕겠다는 구상이다. 24일 금융권에",
+    "thumbnail": "https://static.fnnews.com/resources/img/logo/fnnews_og.jpg",
+    "score": 3.732,
+    "engagement": 0,
+    "matched_keywords": [
+      "창업"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "청년 라이더부터 소상공인까지…KB국민은행, 미소금융 판 키운다",
+    "url": "https://www.fnnews.com/news/202611241329078688",
+    "source": "파이낸셜뉴스 금융",
+    "source_type": "rss",
+    "published_at": "2026-11-24T06:27:30+00:00",
+    "raw_excerpt": "[파이낸셜뉴스] KB국민은행이 미소금융재단 확대를 통해 서민금융 공급 활성화에 나선다. 재단의 조직과 상품을 확대해 취약계층의 창업과 자활을 돕겠다는 구상이다. 24일 금융권에 따르면 KB국민은행은 올해부터 5년간 KB미소금융재단에 총 1000억원을 추가 출연할 계획이다. 서민금융진흥원을 통해 연내 400억원을 출연하고 나머지는 단계적으로 지원할 예정이다. 추가 출연 예정액은 2009년 재단 설립 당시 출연금인 500억원의 두배 규모다. 재원 확대와 함께 지원 창구도 늘린다. KB미소금융재단은 내년 지사 3곳을 신설해 현재 8곳인 영업망을 11곳으로 확대할 계획이다. 지역 청년과 소상공인, 사회적기업 등의 자금 수요를 반영한 자체 특화 상품도 개발한다. 대출 재원을 확보하는 동시에 수요자가 상담받을 창구와 이용할 상품을 함께 늘리는 것이",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "[파이낸셜뉴스] KB국민은행이 미소금융재단 확대를 통해 서민금융 공급 활성화에 나선다. 재단의 조직과 상품을 확대해 취약계층의 창업과 자활을 돕겠다는 구상이다.",
+    "thumbnail": "https://image.fnnews.com/resource/media/image/2026/11/24/202611241349583978_e.jpg",
+    "score": 3.568,
+    "engagement": 0,
+    "matched_keywords": [
+      "창업"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "noon"
+  },
+  {
+    "title": "Databricks Pursues $225 Billion Valuation Months After $5 Billion Raise",
+    "url": "https://www.pymnts.com/news/investment-tracker/2026/databricks-pursues-225-billion-valuation-months-after-5-billion-raise/",
+    "source": "PYMNTS",
+    "source_type": "rss",
+    "published_at": "2026-11-24T23:37:06+00:00",
+    "raw_excerpt": "Databricks aims to raise several billion dollars and achieve a valuation of about $225 billion in a new funding round, the Wall Street Journal reported Tuesday (Nov. 24), citing unnamed sources. That valuation would be 20% higher than the $190 billion valuation Databricks secured in August, according to the report. The talks are in their early stages, and the terms could [ ] The post Databricks Pursues $225 Billion Valuation Months After $5 Billion Raise appeared first on PYMNTS.com .",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Databricks aims to raise several billion dollars and achieve a valuation of about $225 bil",
+    "thumbnail": "https://www.pymnts.com/wp-content/uploads/2026/11/Databricks.jpeg?w=457",
+    "score": 3.022,
+    "engagement": 0,
+    "matched_keywords": [
+      "funding"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "noon"
+  }
+]
