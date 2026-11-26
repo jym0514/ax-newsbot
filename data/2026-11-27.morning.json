@@ -1,0 +1,555 @@
+[
+  {
+    "title": "After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead",
+    "url": "https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-11-26T15:45:08+00:00",
+    "raw_excerpt": "Chinese AI companies Z.AI and Moonshot AI have to delay their next flagship models and are looking for new sources of training data. The article After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Chinese AI companies Z.AI and Moonshot AI have to delay their next flagship models and are",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/11/us_china-1200x675.png",
+    "score": 6.96,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai",
+      "anthropic"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+    "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+    "source": "TechCrunch AI",
+    "source_type": "rss",
+    "published_at": "2026-11-26T20:03:54+00:00",
+    "raw_excerpt": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, T",
+    "thumbnail": "https://techcrunch.com/wp-content/uploads/2026/11/Taiwan-Nvidia.jpg?w=1024",
+    "score": 6.431,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "nvidia"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Former OpenAI researcher says the Riemann proof matters less than the fact that an AI system can produce it",
+    "url": "https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/",
+    "source": "The Decoder",
+    "source_type": "rss",
+    "published_at": "2026-11-26T19:31:46+00:00",
+    "raw_excerpt": "Complexity theorist and former OpenAI researcher Scott Aaronson argues that AI's recent math breakthroughs matter far beyond academia. The possible consequences, he writes, range from reshaping the global economy to threatening all life on Earth. He's also \"virtually certain\" that AI labs are sitting on \"one or more bombshells\" in cryptography. The article Former OpenAI researcher says the Riemann proof matters less than the fact that an AI system can produce it appeared first on The Decoder .",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "Complexity theorist and former OpenAI researcher Scott Aaronson argues that AI's recent ma",
+    "thumbnail": "https://the-decoder.com/wp-content/uploads/2026/09/math_geometry_openai_hodge-1200x670.png",
+    "score": 6.394,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "openai"
+    ],
+    "source_weight": 1.1,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Z.ai 'GLM-5.5' 출시 지연…문샷 AI도 개발 주기 두배 전망",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217838",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-27T06:20:35+00:00",
+    "raw_excerpt": "미국의 첨단 AI 반도체 수출 규제와 증류 차단으로 중국 대표 AI 개발사들의 모델 개발에 차질이 발생하고 있다. Z.ai의 차세대 모델 'GLM-5.5' 출시가 내년으로 밀릴 가능성이 커졌으며, 문샷 AI는 주요 모델 출시 주기가 기존의 두배 이상으로 늘어날 수 있다는 내부 전망을 내놓은 것으로 알려졌다.로이터는 26일(현지시간) 소식통을 인용, 오픈AI와 앤트로픽의 증류 방지 기술 강화로 중국 AI 기업들의 모델 개발이 늦어지고 있으며, 미국 정부의 새로운 반도체 수출 규제로 추가 지연이 예상된다고 보도했다.이에 따르면 Z.ai",
+    "topic": "ai_ax_trends",
+    "topic_label": "🌐 국내외 AI/AX 최신 동향",
+    "summary": "미국의 첨단 AI 반도체 수출 규제와 증류 차단으로 중국 대표 AI 개발사들의 모델 개발에 차질이 발생하고 있다. Z.ai의 차세대 모델 'GLM-5.5' 출시가",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217838_222216_1951.png",
+    "score": 5.624,
+    "engagement": 0,
+    "matched_keywords": [
+      "ai",
+      "오픈ai"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "CredAble acquires 70% stake in Reql",
+    "url": "https://www.finextra.com/pressarticle/111794/credable-acquires-70-stake-in-reql?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-11-26T12:52:00+00:00",
+    "raw_excerpt": "CredAble, India’s leading working capital and banking technology platform, today announced that it has acquired a 70% stake in Reql, an AI-native regulatory intelligence platform. With Reql, CredAble expands its banking technology portfolio into Reg-Tech, bringing a dedicated AI platform to compliance and legal teams at banks, financial institutions and corporates.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "CredAble, India’s leading working capital and banking technology platform, today announced",
+    "thumbnail": "",
+    "score": 5.397,
+    "engagement": 0,
+    "matched_keywords": [
+      "regulatory",
+      "compliance"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Binance completes withdrawal recovery four weeks after $6.3B hack",
+    "url": "https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "source_type": "rss",
+    "published_at": "2026-11-26T21:33:47+00:00",
+    "raw_excerpt": "The announcement concludes a phased withdrawal recovery that began on Nov. 1, when Binance restored Bitcoin withdrawals following the record crypto theft.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "The announcement concludes a phased withdrawal recovery that began on Nov. 1, when Binance",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CRF7Q3J730C588BDSC03H1/hi-why-has-central-bank-of-brazil-included-crypto-assets-in-trade-balance-new-2.png",
+    "score": 4.671,
+    "engagement": 0,
+    "matched_keywords": [
+      "hack"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "NBX partners Visa for stablecoin-linked card",
+    "url": "https://www.finextra.com/pressarticle/111795/nbx-partners-visa-for-stablecoin-linked-card?utm_medium=rssfinextra&utm_source=finextrafeed",
+    "source": "Finextra",
+    "source_type": "rss",
+    "published_at": "2026-11-26T13:11:00+00:00",
+    "raw_excerpt": "Visa, a world leader in digital payments, NBX, Tieto and IDT Finance today announced plans for a new Visa Flex Card that will give eligible NBX customers a simpler way to use the different forms of money they hold.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Visa, a world leader in digital payments, NBX, Tieto and IDT Finance today announced plans",
+    "thumbnail": "",
+    "score": 4.666,
+    "engagement": 0,
+    "matched_keywords": [
+      "stablecoin"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "UK is ‘getting it wrong’ on DeFi regulation, says Coinbase",
+    "url": "https://cointelegraph.com/news/uk-wrong-defi-regulation-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "source": "Cointelegraph",
+    "source_type": "rss",
+    "published_at": "2026-11-26T21:13:53+00:00",
+    "raw_excerpt": "Coinbase and Stand With Crypto argue that the FCA’s proposed DeFi rules could leave UK users without regulated access to decentralized finance.",
+    "topic": "security_regulation",
+    "topic_label": "🔐 AI·블록체인 보안 & 국내외 규제",
+    "summary": "Coinbase and Stand With Crypto argue that the FCA’s proposed DeFi rules could leave UK use",
+    "thumbnail": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CJBJZM1MK2FZDDPQ6PK8RE/token-character-pushing-gavel.png",
+    "score": 4.653,
+    "engagement": 0,
+    "matched_keywords": [
+      "regulation"
+    ],
+    "source_weight": 0.9,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "숨은 창업가 찾는 컴업, 55개국 463개 기관 모인다",
+    "url": "https://zdnet.co.kr/view/?no=20261126235227",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-11-26T14:54:06+00:00",
+    "raw_excerpt": "[지디넷코리아]중소벤처기업부가 '창업가의 발견과 성장'을 핵심 주제로 내걸고 '컴업(COMEUP) 2026'을 연다. 55개국 463개 스타트업, 기업, 기관이 참여한다. 표어인 '언리쉬 디 언신(Unleash the Unseen)'은 알려지지 않은 우수한 창업가가 세계 표준을 선도하는 혁신가로 성장한다는 뜻을 담았다.중기부는 12월 9~11일 3일간 서울 코엑스 C홀에서 컴업 2026을 연다고 26일 밝혔다.컴업은 2019년 시작해 올해 8회째를 맞는 국내 최대 규모의 글로벌 스타트업 페스티벌이다. 국내 스타트업의 해외 진출과 투자유치를 지원하고, 국내외 창업 생태계 관계자가 소통하는 장을 마련하는 게 목적이다.올해 행사는 네 가지 특징을 앞세운다. 해외 참여국을 전년 46개국에서 55개국으로 늘리고 인도, 독일 등 8개 국가관을 설치해 운영한다. 강연과 토론에 나서는 해외 연사 비중도 전년 38%에서 45%로 높인다. 스타트업과 투자자의 실질적인 성과를 위해 인공지능(AI) 비즈매칭 추천 체계를 도입하고, 비즈매칭을 정밀매칭과 자율매칭으로 나눠 운영한다.중기부가 '모두의 창업'으로 창업 대중화를 이끈 만큼 일반 관람객용 체험구역을 새로 만든다. 학생 창업가 사업인 '퓨처파운더스'와 '모두의 창업' 로컬트랙 결승전도 부대행사로 열린다. '올해의 K-스타트업 왕중왕전'과 'K-스타트업 그랜드 챌린지' 같은 연계 행사도 한자리에서 진행",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "[지디넷코리아]중소벤처기업부가 '창업가의 발견과 성장'을 핵심 주제로 내걸고 '컴업(COMEUP) 2026'을 연다. 55개국 463개 스타트업, 기업, 기관이",
+    "thumbnail": "https://image.zdnet.co.kr/2026/11/26/de8e893b65b1c5b1ef693906fcce701a.jpg",
+    "score": 4.214,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업",
+      "벤처",
+      "투자유치",
+      "창업"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Denver man traps Waymo robotaxis with cones, eggs them at least 30 times",
+    "url": "https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-11-26T21:16:41+00:00",
+    "raw_excerpt": "Article URL: https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/ Comments URL: https://news.ycombinator.com/item?id=50659918 Points: 19 # Comments: 4",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/ Comment",
+    "thumbnail": "https://electrek.co/wp-content/uploads/sites/3/2026/08/waymo-ojai-exterior.jpg?quality=82&strip=all&resize=1200,628",
+    "score": 4.138,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+    "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-11-26T21:08:05+00:00",
+    "raw_excerpt": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ Comments URL: https://news.ycombinator.com/item?id=50659841 Points: 89 # Comments: 13",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-",
+    "thumbnail": "https://worksinprogress.co/wip-image/uploads/2026/11/The_Greatest_Architect_Sharecard_03.jpg",
+    "score": 4.131,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "공직사회도 '바이브 코딩'…공무원이 업무용 앱 직접 개발",
+    "url": "https://www.aitimes.com/news/articleView.html?idxno=217815",
+    "source": "AI타임스",
+    "source_type": "rss",
+    "published_at": "2026-11-26T14:21:25+00:00",
+    "raw_excerpt": "전국 공직사회에서 AI를 활용해 업무에 필요한 프로그램을 직접 개발하는 사례가 잇따르고 있다. 출장비 정산부터 복지사업 조사, 교원 인사관리까지 활용 분야가 다양해지면서 업무시간을 줄이고 외부 용역을 대체하는 성과도 나오고 있다.행정안전부에 따르면 25일 결선 일정이 마련된 '2026년 공공 AI 대전환 챌린지'에는 전국 287개 기관에서 1035개 작품이 출품됐다. 참가자 1610명 중 5명 중 4명은 정보화 부서가 아닌 일반 현업 부서 소속이었다.제주도는 공무원들이 직접 개발한 프로그램 5건의 효과를 분석한 결과 4건에서 연간",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "전국 공직사회에서 AI를 활용해 업무에 필요한 프로그램을 직접 개발하는 사례가 잇따르고 있다. 출장비 정산부터 복지사업 조사, 교원 인사관리까지 활용 분야가 다양",
+    "thumbnail": "https://cdn.aitimes.com/news/photo/202611/217815_222188_2043.jpg",
+    "score": 4.108,
+    "engagement": 0,
+    "matched_keywords": [
+      "바이브 코딩"
+    ],
+    "source_weight": 1.3,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Rvoip 0.5 the complete VoIP stack in Rust",
+    "url": "https://github.com/eisenzopf/rvoip",
+    "source": "Hacker News (front)",
+    "source_type": "rss",
+    "published_at": "2026-11-26T19:18:09+00:00",
+    "raw_excerpt": "Article URL: https://github.com/eisenzopf/rvoip Comments URL: https://news.ycombinator.com/item?id=50658632 Points: 38 # Comments: 13",
+    "topic": "ai_startups",
+    "topic_label": "🚀 스타트업 AI 활용 동향",
+    "summary": "Article URL: https://github.com/eisenzopf/rvoip Comments URL: https://news.ycombinator.com",
+    "thumbnail": "https://opengraph.githubassets.com/6a3d1bc28c1d0abab2c3b1e8ba3e74c6273a4d71002b11d73b9608173c720bff/eisenzopf/rvoip",
+    "score": 4.039,
+    "engagement": 0,
+    "matched_keywords": [
+      "ycombinator"
+    ],
+    "source_weight": 0.8,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+    "url": "https://huggingface.co/blog/training-swarms",
+    "source": "Hugging Face Blog",
+    "source_type": "rss",
+    "published_at": "2026-11-26T00:00:00+00:00",
+    "raw_excerpt": "",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+    "thumbnail": "https://huggingface.co/blog/assets/training-swarms/thumbnail.png",
+    "score": 3.843,
+    "engagement": 0,
+    "matched_keywords": [
+      "multi-agent"
+    ],
+    "source_weight": 1.0,
+    "region": "global",
+    "slot": "morning"
+  },
+  {
+    "title": "AI 에이전트에게도 ‘신분증’과 ‘위임장’이 필요한 이유",
+    "url": "https://byline.network/2026/11/26-666/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-11-26T09:26:46+00:00",
+    "raw_excerpt": "업무 예약부터 주문, 결제까지 에이전트가 맡아서 하는 일이 점점 늘어나고 있다. 만약 정비소 예약을 잡은 AI가 수리비도 내겠다고 하면, 정비소는 누구를 대신해 온 AI인지, 고객이 결제까지 맡겼는지 어떻게 확인해야 할까. 디지털신원기술표준포럼은 26일 서울 강남구 코엑스에서 열린 ‘2026 블록체인 진흥주간’ 세미나에서 에이전트의 신원과 위임받은 권한을 확인하는 데 필요한 기술과 표준을 논의했다. AI 에이전트에게 일을 맡길 때 가장 큰 문제는 AI가 지시와 다르게 행동했을 때다. 거래처에 잘못된 첨부파일을 보내거나 승인 없이 대금을 지급했다면, 기업은 누가 일을 맡겼고 어디까지 허용했는지부터 확인해야 한다. 실행한 에이전트를 특정해야 그 권한을 거둘 수 있다. 승인 내용과 실제 실행 기록이 모두 남아 있어야 사고 경위와 책임을 따질 수 있다.",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "업무 예약부터 주문, 결제까지 에이전트가 맡아서 하는 일이 점점 늘어나고 있다. 만약 정비소 예약을 잡은 AI가 수리비도 내겠다고 하면, 정비소는 누구를 대신해",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/11/ETRI12345.jpg",
+    "score": 3.801,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트",
+      "ai 에이전트"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "\"화웨이, 삼성·SK하이닉스 추월 노리고 차세대 HBM 개발\"",
+    "url": "https://www.bloter.net/news/articleView.html?idxno=679839",
+    "source": "블로터",
+    "source_type": "rss",
+    "published_at": "2026-11-27T03:10:40+00:00",
+    "raw_excerpt": "중국 화웨이가 삼성전자와 SK하이닉스를 추격하기 위해 차세대 고대역폭메모리(HBM) 기술을 개발 중인 것으로 알려졌다. 미국의 제재로 중국 내 핵심 AI 반도체 부품 공급이 차단되자 이를 직접 생산하려는 것이다. 26일(현지시간) 블룸버그통신은 화웨이 연구진이 한국 경쟁사들이 양산 중인 제품보다 데이터 핀 밀도가 두 배 높은 HBM을 개발했다고 보도했다. 이는 화웨이가 내년 2월 미국 샌프란시스코에서 열리는 반도체 학회에서 발표할 예정인 연구 논문의 제목을 통해 확인됐다.이론적으로 데이터 핀 밀도가 높아지면 메모리 대역폭이 크게 확",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "중국 화웨이가 삼성전자와 SK하이닉스를 추격하기 위해 차세대 고대역폭메모리(HBM) 기술을 개발 중인 것으로 알려졌다. 미국의 제재로 중국 내 핵심 AI 반도체",
+    "thumbnail": "https://cdn.bloter.net/news/thumbnail/202611/679839_295022_925_v150.jpg",
+    "score": 3.775,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "차세대"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "컴업 2026, 역대 최대 규모로 열린다",
+    "url": "https://byline.network/2026/11/4382092034/",
+    "source": "바이라인네트워크",
+    "source_type": "rss",
+    "published_at": "2026-11-26T13:53:56+00:00",
+    "raw_excerpt": "글로벌 스타트업 축제 ‘컴업(COMEUP) 2026’이 역대 최대 규모로 열린다. 올해는 더 많은 국가와 기업이 참여하며 딥테크부터 뷰티·식음료와 같은 소비재까지 다양한 산업 분야를 조명할 예정이다. 일반 관람객을 위한 프로그램도 늘리고 스타트업 제품과 서비스를 직접 체험할 수 있는 공간도 새롭게 마련했다.",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "글로벌 스타트업 축제 ‘컴업(COMEUP) 2026’이 역대 최대 규모로 열린다. 올해는 더 많은 국가와 기업이 참여하며 딥테크부터 뷰티·식음료와 같은 소비재까지",
+    "thumbnail": "https://cdn.byline.network/wp-content/uploads/2026/11/COMEUP-media-day-1.jpg",
+    "score": 3.455,
+    "engagement": 0,
+    "matched_keywords": [
+      "스타트업"
+    ],
+    "source_weight": 1.1,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "삼성전자 DS, 메모리 개발 조직 '사업부장' 직속으로 일원화…혁신 속도 높인다",
+    "url": "https://www.etnews.com/20261126000517",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-11-26T08:15:49+00:00",
+    "raw_excerpt": "삼성전자가 메모리 개발 체제를 사업부장 직속으로 일원화한다. 최근 삼성전자 DS부문 메모리사업부장으로 선임된 황상준 사장이 직접 차세대 메모리 개발을 챙기려는 포석으로 풀이된다. 시스템LSI사업부는 영업·마케팅 조직을 확대, 삼성전자 시스템 반도체의 시장 공략을 강화할 방침이다. 26일 업계에 따르면 삼성전자 DS부문은 후속 임원 인사와 조직 개편을 확정하고 구성원 대상 설명회를 진행했다. 메모리사업부는 지금까지 메모리개발담당 산하에 있던 △D",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "삼성전자가 메모리 개발 체제를 사업부장 직속으로 일원화한다. 최근 삼성전자 DS부문 메모리사업부장으로 선임된 황상준 사장이 직접 차세대 메모리 개발을 챙기려는 포",
+    "thumbnail": "https://img.etnews.com/news/article/2026/07/07/news-p.v1.20260707.79ce9d3b863b4eff8a5bfc15346f9fb8_P1.jpg",
+    "score": 3.406,
+    "engagement": 0,
+    "matched_keywords": [
+      "반도체",
+      "차세대"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "미증명 가정 없이 준지수 시간에 정수 소인수분해",
+    "url": "https://news.hada.io/topic?id=37916&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-11-26T19:31:43+00:00",
+    "raw_excerpt": "모든 정수 $N \\ge 2$의 완전한 소인수분해 를 수행하는, 미증명 수론 가정에 의존하지 않는 고전적 확률 알고리듬을 구성함 오류 없는 Las Vegas 알고리듬 으로, 최악의 경우 기대 실행 시간은 $L_N[1/3, 105]$, 결정론적 작업 공간 상한은 $L_N[1/3, 40]$임 출력한 각 소인수는 Agrawal–Kayal–Saxena 소수 판정 으로 결정론적으로 검증하고, 직접 곱셈으로 원래 정수 $N$과 일치하는지 확인함 전체 증명의 Lean 4 v4.35.0 형식화 도 Mathlib만 사용해 완료했으며, 별도의 동반 제출물로 공개할 예정임 논문과 형식화는 Gemini 4 기반 Coge …",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "모든 정수 $N \\ge 2$의 완전한 소인수분해 를 수행하는, 미증명 수론 가정에 의존하지 않는 고전적 확률 알고리듬을 구성함 오류 없는 Las Vegas 알고리",
+    "thumbnail": "https://social.news.hada.io/topic/37916/pb759df049ccec4135aa4fbfa6143dba",
+    "score": 3.375,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "재미로 AWS Lambda에서 Qwen 서빙하기, 비용은 80배 넘게",
+    "url": "https://news.hada.io/topic?id=37914&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-11-26T18:46:29+00:00",
+    "raw_excerpt": "자체 호스팅 모델의 추론을 5,600개의 AWS Lambda 로 분산하는 실험에 성공했지만, 비교 대상인 호스팅 모델보다 비용이 80배 이상 높았음 실험에는 Qwen3.5-4B를 미세 조정한 H2O-Lightning 을 사용함. 문서를 읽고 선택지 하나를 고르는 의사결정 모델이라 단 한 번의 순전파에 집중할 수 있었음 Lambda 메모리를 3GB로 제한 하고, 전체 모델 대신 레이어와 토큰 블록 단위로 작업을 나눔. 각 작업은 S3에서 입력을 읽고 계산 결과를 다시 저장함 4,000토큰 문서 처리에 17초와 3.4센트가 들었음. 100만 토큰당 비용은 8.40달러로, Gemini …",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "자체 호스팅 모델의 추론을 5,600개의 AWS Lambda 로 분산하는 실험에 성공했지만, 비교 대상인 호스팅 모델보다 비용이 80배 이상 높았음 실험에는 Qw",
+    "thumbnail": "https://social.news.hada.io/topic/37914/pb38211676fdb37c99bea1367105a857",
+    "score": 3.344,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "CIA 비기밀 시스템, 사이버공격으로 침해당해",
+    "url": "https://news.hada.io/topic?id=37913&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-11-26T18:43:29+00:00",
+    "raw_excerpt": "사건을 아는 익명 소식통에 따르면 CIA의 공개출처정보 수집/분석 시스템 이 사이버공격으로 침해당함 같은 소식통은 기밀정보는 관련되지 않았으며 , 해당 문제는 해결됐다고 밝힘 침해된 구체적인 정보와 공격 주체 는 확인되지 않음 이번 사건은 NSA 통신망 중단과 FBI 데이터베이스 해킹 의심 사건 등 잇따른 장애 속에서 드러나, 주요 인프라와 디지털 시스템의 취약성 에 관심이 쏠림 Trump 행정부는 일련의 장애가 조직적인 사이버공격은 아니라고 밝혔으며 , 국가정보국장은 상당수가 AI를 활용하는 해커에 대응하기 위한 긴급 패치와 …",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "사건을 아는 익명 소식통에 따르면 CIA의 공개출처정보 수집/분석 시스템 이 사이버공격으로 침해당함 같은 소식통은 기밀정보는 관련되지 않았으며 , 해당 문제는 해",
+    "thumbnail": "https://social.news.hada.io/topic/37913/pe8a5a082ea0c8915ce764a09b0929f5",
+    "score": 3.342,
+    "engagement": 0,
+    "matched_keywords": [
+      "조직"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "널 원뿔에서 출발한 중력의 대수적 양자화",
+    "url": "https://news.hada.io/topic?id=37912&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-11-26T18:40:29+00:00",
+    "raw_excerpt": "4차원 로런츠 시공간의 진공 일반상대성이론을 대상으로, 고정된 배경 없이 유한한 영역의 경계 데이터에서 출발하는 비섭동적 양자화 를 제안함 교차하는 널 원뿔(null cone) 에서 중력 제약식을 풀고, 축약 위상 공간의 푸아송 괄호를 교환 관계로 바꿔 관측량 대수와 힐베르트 공간을 구성함 유한한 중력 상수 (G_N)에서 경로 적분의 각 중간 상태 합은 절대 수렴 하지만, 합산 전에 (G_N)으로 전개하면 로그 발산이 발생함 최대 크기가 주어진 거시적 인과 다이아몬드 에는 유한 차원 힐베르트 공간이 대응한다는 결과를 도출함. 크기가 …",
+    "topic": "tech_trends",
+    "topic_label": "🔥 핫 테크 트렌드",
+    "summary": "4차원 로런츠 시공간의 진공 일반상대성이론을 대상으로, 고정된 배경 없이 유한한 영역의 경계 데이터에서 출발하는 비섭동적 양자화 를 제안함 교차하는 널 원뿔(nu",
+    "thumbnail": "https://social.news.hada.io/topic/37912/p4dfe684944aa303a0524506c6be7ec5",
+    "score": 3.34,
+    "engagement": 0,
+    "matched_keywords": [
+      "양자"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "Geminispace에 들어가기, 텍스트 중심 Gemini 네트워크로 블로그 옮기기",
+    "url": "https://news.hada.io/topic?id=37911&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-11-26T18:02:55+00:00",
+    "raw_excerpt": "Markdown으로 관리하던 블로그를 Gemini 캡슐 로 변환해, 기존 웹사이트와 함께 텍스트 중심 네트워크에서도 읽을 수 있게 함 Gemini 는 문서와 링크에 집중하는 별도 인터넷 공간으로, 독자의 개인정보, 주의력, 대역폭을 존중하는 가벼운 환경을 지향함 기본 문서 형식인 Gemtext 는 제목, 문단, 독립된 링크 등만 지원하며, 표현력이 제한적인 대신 단순한 클라이언트에서도 일관되게 표시됨 AI로 만든 Rust 변환 도구 gengems 는 문서 1,000개를 약 300밀리초에 캡슐로 변환하지만, 다른 모델의 검토 과정에서 버그와 테스트 누락 이 발견 …",
+    "topic": "ai_tools",
+    "topic_label": "🛠️ AI 툴 동향 & 활용",
+    "summary": "Markdown으로 관리하던 블로그를 Gemini 캡슐 로 변환해, 기존 웹사이트와 함께 텍스트 중심 네트워크에서도 읽을 수 있게 함 Gemini 는 문서와 링크",
+    "thumbnail": "https://social.news.hada.io/topic/37911/pad31c6784943622f21ce1f3a99d0d15",
+    "score": 3.314,
+    "engagement": 0,
+    "matched_keywords": [
+      "gemini"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "'2026 한국IT여성의 날' 성료...김덕재 회장 \"디지털 인재 양성 등 입지 확대\"",
+    "url": "https://zdnet.co.kr/view/?no=20261126224734",
+    "source": "ZDNet Korea",
+    "source_type": "rss",
+    "published_at": "2026-11-26T13:47:34+00:00",
+    "raw_excerpt": "[지디넷코리아]한국IT여성기업인협회(KIBWA, 회장 김덕재)가 주최·주관하고 과학기술정보통신부·성평등가족부가 후원한 '2026 한국IT여성의 날' 행사가 26일 서울 서초구 엘타워 8층 엘하우스에서 열렸다.'AI 혁신을 이끄는 여성, 새로운 도약을 열다'를 주제로 열린 이날 행사는 IT 산업 생태계 발전에 기여한 여성 IT기업인과 ICT 인재들의 성과를 조명하고, 유공자와 우수기업을 격려하기 위해 마련됐다.이날 행사에는 성평등가족부 원민경 장관을 비롯해 ICT 유관 기관, 학계·산업계에서 활동 중인 여성 IT기업인 등 약 120명이 참석했다. 특히 올해는 협회가 설립한 지 25주년이 되는 해여서 행사가 더 뜻깊었다.행사는 김덕재 회장 개회사로 문을 열었다. 김 회장은 창립 25주년을 맞은 협회가 과기정통부·성평등가족부와 호흡하며 ICT 멘토링, AX 전문 강사 양성, 경력 보유 여성 AI·SW 역량 교육 등 현장에서 분명한 성과를 만들어 왔다는 점을 강조하며 참석자들을 환영했다.김 회장은 \"지난 25년 동안 협회는 변화의 고비마다 여성 IT기업인들과 함께 길을 찾고, 디지털 인재를 키우며 여성 기업의 영토를 넓혀 왔다\"면서 \"올해 주제는 ‘AI 혁신을 이끄는 여성, 새로운 도약을 열다’이다. 협회는 올 한 해 이 방향에 맞춰, 정부 및 국회와 긴밀히 호흡하며 현장에서 분명한 성과를 만들어 왔다\"고 짚었다.이어 주무 부처인 과학기술정",
+    "topic": "enterprise_ai",
+    "topic_label": "🏢 기업의 AI 도입 & 업무 변화",
+    "summary": "[지디넷코리아]한국IT여성기업인협회(KIBWA, 회장 김덕재)가 주최·주관하고 과학기술정보통신부·성평등가족부가 후원한 '2026 한국IT여성의 날' 행사가 26일",
+    "thumbnail": "https://image.zdnet.co.kr/2026/11/26/488a9d97414808c325453cfccdf8137c.jpg",
+    "score": 3.273,
+    "engagement": 0,
+    "matched_keywords": [
+      "현장",
+      "ax"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "주식 팔아 집 산 돈이 10조인데…“남은 개미들은 피눈물”",
+    "url": "https://www.etnews.com/20261126000566",
+    "source": "전자신문 ICT",
+    "source_type": "rss",
+    "published_at": "2026-11-26T13:13:36+00:00",
+    "raw_excerpt": "주식시장이 뜨거웠던 시기에 보유 주식을 팔아 집을 산 사람들과 증시에 남아 있던 개인투자자들의 희비가 엇갈리고 있다. 올해 주식·채권·가상자산을 처분해 주택 매수자금으로 활용한 돈이 10조원을 넘어선 가운데, 최근 증시 급락으로 시장에 남은 투자자들은 자산가치 하락을 감당해야 하는 상황에 놓였다. 26일 국회 국토교통위원회 소속 김종양 국민의힘 의원이 국토교통부에서 제출받은 '주택취득자금 조달 및 입주계획서'에 따르면 올해 1~10월 전국 주택",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "주식시장이 뜨거웠던 시기에 보유 주식을 팔아 집을 산 사람들과 증시에 남아 있던 개인투자자들의 희비가 엇갈리고 있다. 올해 주식·채권·가상자산을 처분해 주택 매수",
+    "thumbnail": "https://img.etnews.com/news/article/2026/11/26/news-p.v1.20261126.e6e4dcf40d4545d3856530a291f438a6_P1.png",
+    "score": 3.113,
+    "engagement": 0,
+    "matched_keywords": [
+      "가상자산"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "minipg: PostgreSQL을 단일 실행 파일로 실행하기",
+    "url": "https://news.hada.io/topic?id=37897&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+    "source": "GeekNews",
+    "source_type": "rss",
+    "published_at": "2026-11-26T12:37:38+00:00",
+    "raw_excerpt": "minipg 는 별도 서버 설정 없이 PostgreSQL을 실행하는 단일 실행 파일로, 명령에 서버가 필요하면 자동으로 시작하고 유휴 상태가 되면 종료함 .pgdb 디렉터리 하나에 데이터, 설정, 인증 정보, Postgres 버전을 함께 보관하며, 해당 디렉터리를 열어 psql 셸을 사용할 수 있음 실제 PostgreSQL 서버와 클라이언트를 실행 파일에 내장 해 Docker 없이 사용하며, minipg run app.pgdb -- npm start 로 앱을 실행하면 DB 접속 정보도 자동 설정 로컬 개발, 자동화 테스트, PostgreSQL이 필요한 셀프호스팅 앱 실행 에 활용. 테스트나 에이전트 …",
+    "topic": "ai_agent",
+    "topic_label": "🤖 AI Agent / Agentic AI",
+    "summary": "minipg 는 별도 서버 설정 없이 PostgreSQL을 실행하는 단일 실행 파일로, 명령에 서버가 필요하면 자동으로 시작하고 유휴 상태가 되면 종료함 .pgd",
+    "thumbnail": "https://social.news.hada.io/topic/37897/p4b57353f7c8b3832f9d67643d75507b",
+    "score": 3.088,
+    "engagement": 0,
+    "matched_keywords": [
+      "에이전트"
+    ],
+    "source_weight": 1.0,
+    "region": "domestic",
+    "slot": "morning"
+  },
+  {
+    "title": "“비트코인 2만달러에도 스트래티지 견딜 수 있다”–TD코웬 분석가",
+    "url": "https://www.blockmedia.co.kr/archives/1171157?utm_source=general&utm_medium=rss",
+    "source": "블록미디어",
+    "source_type": "rss",
+    "published_at": "2026-11-26T13:46:02+00:00",
+    "raw_excerpt": "[블록미디어 이정화 기자] TD코웬(Cowen)의 애널리스트 랜스 비탄자(Lance Vitanza)는 비트코인 가격이 2만달러로 급락하더라도 스트래티지는 10년간 지속되는 가상자산(디지털자산) 겨울을 견딜 수 있다고 주장했다. 비탄자는 26일(현지시각) 스트래티지의 재무구조와 비트코인 보유 전략이 장기 약세장에서도 상대적으로 안정적 이라며 특히 현금흐름 관리, 비용 절감 능력, 그리고 보유 비트코인을 통한 포지셔닝이 핵심 방어 수단 이라고 분석했다. 비탄자는 이 같은 평가가 모든 비트코인 자산 보유 [...]",
+    "topic": "blockchain_identity",
+    "topic_label": "🔗 블록체인 신원·자산관리",
+    "summary": "[블록미디어 이정화 기자] TD코웬(Cowen)의 애널리스트 랜스 비탄자(Lance Vitanza)는 비트코인 가격이 2만달러로 급락하더라도 스트래티지는 10년간",
+    "thumbnail": "https://cdn.blockmedia.co.kr/wp-content/uploads/2026/11/20261120-113423.webp",
+    "score": 2.822,
+    "engagement": 0,
+    "matched_keywords": [
+      "가상자산"
+    ],
+    "source_weight": 0.9,
+    "region": "domestic",
+    "slot": "morning"
+  }
+]
